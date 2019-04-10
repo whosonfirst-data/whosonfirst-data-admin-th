@@ -1,0 +1,67 @@
+{
+  "id": 1326539683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.45,11.11667,99.45,11.11667",
+    "geom:latitude":11.11667,
+    "geom:longitude":99.45,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Ban Ma Rong",
+    "gn:country_code":"TH",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1118946,
+    "gn:latitude":11.11667,
+    "gn:longitude":99.45,
+    "gn:modification_date":"1994-04-10",
+    "gn:name":"Ban Ma Rong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678757,
+        890467395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1118946
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"6b323213cdb23f134237a73ef520d33b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890467395,
+            "locality_id":1326539683,
+            "region_id":85678757
+        }
+    ],
+    "wof:id":1326539683,
+    "wof:lastmodified":1536972781,
+    "wof:name":"Ban Ma Rong",
+    "wof:parent_id":890467395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.45,
+    11.11667,
+    99.45,
+    11.11667
+],
+  "geometry": {"coordinates":[99.45,11.11667],"type":"Point"}
+}

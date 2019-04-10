@@ -1,0 +1,70 @@
+{
+  "id": 1344081745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.11572,12.50856,102.11572,12.50856",
+    "geom:latitude":12.50856,
+    "geom:longitude":102.11572,
+    "gn:admin1_code":"48.0",
+    "gn:asciiname":"Ban Thaeo Noen",
+    "gn:country_code":"TH",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7913588,
+    "gn:latitude":12.50856,
+    "gn:longitude":102.11572,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Thaeo Noen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e41\u0e16\u0e27\u0e40\u0e19\u0e34\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678799,
+        890466891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7913588
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"f00554e0b073248d9eb44da3ebd262aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466891,
+            "locality_id":1344081745,
+            "region_id":85678799
+        }
+    ],
+    "wof:id":1344081745,
+    "wof:lastmodified":1537704866,
+    "wof:name":"Ban Thaeo Noen",
+    "wof:parent_id":890466891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.11572,
+    12.50856,
+    102.11572,
+    12.50856
+],
+  "geometry": {"coordinates":[102.11572,12.50856],"type":"Point"}
+}

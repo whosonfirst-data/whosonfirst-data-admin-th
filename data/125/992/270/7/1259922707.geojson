@@ -1,0 +1,73 @@
+{
+  "id": 1259922707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.96311,14.30722,100.96311,14.30722",
+    "geom:latitude":14.30722,
+    "geom:longitude":100.96311,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Ban Bang Kong",
+    "gn:country_code":"TH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1611942,
+    "gn:latitude":14.30722,
+    "gn:longitude":100.96311,
+    "gn:modification_date":"2014-04-29",
+    "gn:name":"Ban Bang Kong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "Ban Wang Kong"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1a\u0e32\u0e07\u0e01\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678735,
+        1108802775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1611942
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"3429085c154745c3c160b5164238c142",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802775,
+            "locality_id":1259922707,
+            "region_id":85678735
+        }
+    ],
+    "wof:id":1259922707,
+    "wof:lastmodified":1537703668,
+    "wof:name":"Ban Bang Kong",
+    "wof:parent_id":1108802775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.96311,
+    14.30722,
+    100.96311,
+    14.30722
+],
+  "geometry": {"coordinates":[100.96311,14.30722],"type":"Point"}
+}

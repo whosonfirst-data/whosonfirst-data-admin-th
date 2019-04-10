@@ -1,0 +1,70 @@
+{
+  "id": 1226172007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.371,6.44417,101.371,6.44417",
+    "geom:latitude":6.44417,
+    "geom:longitude":101.371,
+    "gn:admin1_code":"70.0",
+    "gn:asciiname":"Ban Ba Ngo Tue Mu",
+    "gn:country_code":"TH",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7013118,
+    "gn:latitude":6.44417,
+    "gn:longitude":101.371,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ban Ba Ngo Tue Mu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1a\u0e32\u0e42\u0e07\u0e15\u0e37\u0e2d\u0e21\u0e38\u0e2b\u0e4c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678611,
+        1108731791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7013118
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"5adba33217c87cc3f2f51910ac68cf21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731791,
+            "locality_id":1226172007,
+            "region_id":85678611
+        }
+    ],
+    "wof:id":1226172007,
+    "wof:lastmodified":1537704390,
+    "wof:name":"Ban Ba Ngo Tue Mu",
+    "wof:parent_id":1108731791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.371,
+    6.44417,
+    101.371,
+    6.44417
+],
+  "geometry": {"coordinates":[101.371,6.44417],"type":"Point"}
+}

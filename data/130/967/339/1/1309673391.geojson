@@ -1,0 +1,70 @@
+{
+  "id": 1309673391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.20794,15.09575,103.20794,15.09575",
+    "geom:latitude":15.09575,
+    "geom:longitude":103.20794,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Ban Nong Laboek",
+    "gn:country_code":"TH",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9283493,
+    "gn:latitude":15.09575,
+    "gn:longitude":103.20794,
+    "gn:modification_date":"2014-08-07",
+    "gn:name":"Ban Nong Laboek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e19\u0e2d\u0e07\u0e25\u0e30\u0e40\u0e1a\u0e34\u0e01"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678817,
+        890466883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9283493
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"71307502f26231d3674b28786478b423",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466883,
+            "locality_id":1309673391,
+            "region_id":85678817
+        }
+    ],
+    "wof:id":1309673391,
+    "wof:lastmodified":1537706254,
+    "wof:name":"Ban Nong Laboek",
+    "wof:parent_id":890466883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.20794,
+    15.09575,
+    103.20794,
+    15.09575
+],
+  "geometry": {"coordinates":[103.20793999999999,15.09575],"type":"Point"}
+}

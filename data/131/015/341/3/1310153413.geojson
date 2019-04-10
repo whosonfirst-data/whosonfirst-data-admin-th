@@ -1,0 +1,70 @@
+{
+  "id": 1310153413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.21186,16.13964,102.21186,16.13964",
+    "geom:latitude":16.13964,
+    "geom:longitude":102.21186,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Ban Prang Ku",
+    "gn:country_code":"TH",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8371284,
+    "gn:latitude":16.13964,
+    "gn:longitude":102.21186,
+    "gn:modification_date":"2012-08-06",
+    "gn:name":"Ban Prang Ku",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1b\u0e23\u0e32\u0e07\u0e04\u0e4c\u0e01\u0e39\u0e48"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678825,
+        1108731313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8371284
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"5e2ebb740cbabbf48701f3fd81075c8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731313,
+            "locality_id":1310153413,
+            "region_id":85678825
+        }
+    ],
+    "wof:id":1310153413,
+    "wof:lastmodified":1537705515,
+    "wof:name":"Ban Prang Ku",
+    "wof:parent_id":1108731313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.21186,
+    16.13964,
+    102.21186,
+    16.13964
+],
+  "geometry": {"coordinates":[102.21186,16.13964],"type":"Point"}
+}

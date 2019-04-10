@@ -1,0 +1,70 @@
+{
+  "id": 1226671035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.97547,8.39983,98.97547,8.39983",
+    "geom:latitude":8.39983,
+    "geom:longitude":98.97547,
+    "gn:admin1_code":"63.0",
+    "gn:asciiname":"Ban Khao Wua Phlat",
+    "gn:country_code":"TH",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8271214,
+    "gn:latitude":8.39983,
+    "gn:longitude":98.97547,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Ban Khao Wua Phlat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e02\u0e32\u0e27\u0e31\u0e27\u0e1e\u0e25\u0e31\u0e14"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678581,
+        1108731217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8271214
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"43a5cdb34aaba00946665c0d361b4e5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731217,
+            "locality_id":1226671035,
+            "region_id":85678581
+        }
+    ],
+    "wof:id":1226671035,
+    "wof:lastmodified":1537705284,
+    "wof:name":"Ban Khao Wua Phlat",
+    "wof:parent_id":1108731217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.97547,
+    8.39983,
+    98.97547,
+    8.39983
+],
+  "geometry": {"coordinates":[98.97547,8.39983],"type":"Point"}
+}

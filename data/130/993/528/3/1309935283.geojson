@@ -1,0 +1,74 @@
+{
+  "id": 1309935283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.58621,6.99936,100.58621,6.99936",
+    "geom:latitude":6.99936,
+    "geom:longitude":100.58621,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Ban Hin Lap",
+    "gn:country_code":"TH",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1619086,
+    "gn:latitude":6.99936,
+    "gn:longitude":100.58621,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Hin Lap",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e34\u0e19\u0e25\u0e31\u0e1a"
+    ],
+    "name:und_x_variant":[
+        "Ban Hin Lap (1)",
+        "Ban Hin Lap"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678603,
+        1108731553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1619086
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"7f3e56407af0678aea560e220428bf6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731553,
+            "locality_id":1309935283,
+            "region_id":85678603
+        }
+    ],
+    "wof:id":1309935283,
+    "wof:lastmodified":1537704170,
+    "wof:name":"Ban Hin Lap",
+    "wof:parent_id":1108731553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.58621,
+    6.99936,
+    100.58621,
+    6.99936
+],
+  "geometry": {"coordinates":[100.58620999999999,6.99936],"type":"Point"}
+}

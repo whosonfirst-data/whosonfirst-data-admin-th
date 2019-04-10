@@ -1,0 +1,70 @@
+{
+  "id": 1209851227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.1775,17.50797,103.1775,17.50797",
+    "geom:latitude":17.50797,
+    "geom:longitude":103.1775,
+    "gn:admin1_code":"76.0",
+    "gn:asciiname":"Ban Si Sawang",
+    "gn:country_code":"TH",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7681347,
+    "gn:latitude":17.50797,
+    "gn:longitude":103.1775,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Si Sawang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e28\u0e23\u0e35\u0e2a\u0e27\u0e48\u0e32\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678869,
+        1108802765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7681347
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"0bf8b844ca9d0595c1f8b2018b9ce962",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802765,
+            "locality_id":1209851227,
+            "region_id":85678869
+        }
+    ],
+    "wof:id":1209851227,
+    "wof:lastmodified":1537704620,
+    "wof:name":"Ban Si Sawang",
+    "wof:parent_id":1108802765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.1775,
+    17.50797,
+    103.1775,
+    17.50797
+],
+  "geometry": {"coordinates":[103.17749999999999,17.50797],"type":"Point"}
+}

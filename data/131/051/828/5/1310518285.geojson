@@ -1,0 +1,70 @@
+{
+  "id": 1310518285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.66128,7.04003,100.66128,7.04003",
+    "geom:latitude":7.04003,
+    "geom:longitude":100.66128,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Ban Hua Pliao",
+    "gn:country_code":"TH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6790817,
+    "gn:latitude":7.04003,
+    "gn:longitude":100.66128,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ban Hua Pliao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e31\u0e27\u0e40\u0e1b\u0e25\u0e27"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678603,
+        1108731225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6790817
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"db4a632fee09e4bd7f3ab24d0b54dd3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731225,
+            "locality_id":1310518285,
+            "region_id":85678603
+        }
+    ],
+    "wof:id":1310518285,
+    "wof:lastmodified":1537704316,
+    "wof:name":"Ban Hua Pliao",
+    "wof:parent_id":1108731225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.66128,
+    7.04003,
+    100.66128,
+    7.04003
+],
+  "geometry": {"coordinates":[100.66128,7.04003],"type":"Point"}
+}

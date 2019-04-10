@@ -1,0 +1,70 @@
+{
+  "id": 1344173983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.32619,6.28036,101.32619,6.28036",
+    "geom:latitude":6.28036,
+    "geom:longitude":101.32619,
+    "gn:admin1_code":"70.0",
+    "gn:asciiname":"Ban Kho Lo Ri Wi",
+    "gn:country_code":"TH",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7013272,
+    "gn:latitude":6.28036,
+    "gn:longitude":101.32619,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ban Kho Lo Ri Wi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e04\u0e2d\u0e25\u0e2d\u0e23\u0e34\u0e27\u0e34"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678611,
+        1108731183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7013272
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"61801ac55633e7e93ccf8579b4df20aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731183,
+            "locality_id":1344173983,
+            "region_id":85678611
+        }
+    ],
+    "wof:id":1344173983,
+    "wof:lastmodified":1537704396,
+    "wof:name":"Ban Kho Lo Ri Wi",
+    "wof:parent_id":1108731183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.32619,
+    6.28036,
+    101.32619,
+    6.28036
+],
+  "geometry": {"coordinates":[101.32619,6.28036],"type":"Point"}
+}

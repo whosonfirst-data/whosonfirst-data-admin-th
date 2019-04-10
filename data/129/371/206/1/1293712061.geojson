@@ -1,0 +1,67 @@
+{
+  "id": 1293712061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.39833,6.73583,101.39833,6.73583",
+    "geom:latitude":6.73583,
+    "geom:longitude":101.39833,
+    "gn:admin1_code":"69.0",
+    "gn:asciiname":"Ban Thanoa",
+    "gn:country_code":"TH",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1941200,
+    "gn:latitude":6.73583,
+    "gn:longitude":101.39833,
+    "gn:modification_date":"2000-08-01",
+    "gn:name":"Ban Thanoa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678889,
+        1108731525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1941200
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"6b1e0b46fc2b55c7cdc031f068f0a594",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731525,
+            "locality_id":1293712061,
+            "region_id":85678889
+        }
+    ],
+    "wof:id":1293712061,
+    "wof:lastmodified":1536960658,
+    "wof:name":"Ban Thanoa",
+    "wof:parent_id":1108731525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.39833,
+    6.73583,
+    101.39833,
+    6.73583
+],
+  "geometry": {"coordinates":[101.39833,6.73583],"type":"Point"}
+}

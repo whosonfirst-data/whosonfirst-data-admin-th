@@ -1,0 +1,70 @@
+{
+  "id": 1293536701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.02611,15.54333,103.02611,15.54333",
+    "geom:latitude":15.54333,
+    "geom:longitude":103.02611,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Ban Sisa Raet Tai",
+    "gn:country_code":"TH",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9284741,
+    "gn:latitude":15.54333,
+    "gn:longitude":103.02611,
+    "gn:modification_date":"2014-08-07",
+    "gn:name":"Ban Sisa Raet Tai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e28\u0e23\u0e35\u0e29\u0e30\u0e41\u0e23\u0e15\u0e43\u0e15\u0e49"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678817,
+        1108731761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9284741
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"b3af117030c91421856124041afe5f40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731761,
+            "locality_id":1293536701,
+            "region_id":85678817
+        }
+    ],
+    "wof:id":1293536701,
+    "wof:lastmodified":1537706271,
+    "wof:name":"Ban Sisa Raet Tai",
+    "wof:parent_id":1108731761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.02611,
+    15.54333,
+    103.02611,
+    15.54333
+],
+  "geometry": {"coordinates":[103.02611,15.54333],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1243092545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.99291,7.97262,99.99291,7.97262",
+    "geom:latitude":7.97262,
+    "geom:longitude":99.99291,
+    "gn:admin1_code":"64.0",
+    "gn:asciiname":"Ban Khok Rak",
+    "gn:country_code":"TH",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1617849,
+    "gn:latitude":7.97262,
+    "gn:longitude":99.99291,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Ban Khok Rak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e42\u0e04\u0e01\u0e23\u0e31\u0e01"
+    ],
+    "name:und_x_variant":[
+        "Muang Khok Rak",
+        "Ban Khok Rak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678565,
+        890465817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1617849
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"4cff99ab52709178675fc5622a466907",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465817,
+            "locality_id":1243092545,
+            "region_id":85678565
+        }
+    ],
+    "wof:id":1243092545,
+    "wof:lastmodified":1537704079,
+    "wof:name":"Ban Khok Rak",
+    "wof:parent_id":890465817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.99291,
+    7.97262,
+    99.99291,
+    7.97262
+],
+  "geometry": {"coordinates":[99.99290999999999,7.97262],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1226675549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.42428,13.05975,101.42428,13.05975",
+    "geom:latitude":13.05975,
+    "geom:longitude":101.42428,
+    "gn:admin1_code":"46.0",
+    "gn:asciiname":"Ban Bueng Sam Ngam",
+    "gn:country_code":"TH",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7851028,
+    "gn:latitude":13.05975,
+    "gn:longitude":101.42428,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Bueng Sam Ngam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1a\u0e36\u0e07\u0e2a\u0e32\u0e21\u0e07\u0e48\u0e32\u0e21"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678795,
+        1108802711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7851028
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"ddb6b56a4dd5faf3407e09668128ef49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802711,
+            "locality_id":1226675549,
+            "region_id":85678795
+        }
+    ],
+    "wof:id":1226675549,
+    "wof:lastmodified":1537704715,
+    "wof:name":"Ban Bueng Sam Ngam",
+    "wof:parent_id":1108802711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.42428,
+    13.05975,
+    101.42428,
+    13.05975
+],
+  "geometry": {"coordinates":[101.42428,13.05975],"type":"Point"}
+}

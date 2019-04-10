@@ -1,0 +1,73 @@
+{
+  "id": 1326912235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.703,15.77614,99.703,15.77614",
+    "geom:latitude":15.77614,
+    "geom:longitude":99.703,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ban Khlong Sali",
+    "gn:country_code":"TH",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1120084,
+    "gn:latitude":15.77614,
+    "gn:longitude":99.703,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Ban Khlong Sali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e04\u0e25\u0e2d\u0e07\u0e2a\u0e32\u0e25\u0e35"
+    ],
+    "name:und_x_variant":[
+        "Ban Don Sali"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678715,
+        890466203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1120084
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"6a685546254b2d6a7c2fe3f58bbe14b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466203,
+            "locality_id":1326912235,
+            "region_id":85678715
+        }
+    ],
+    "wof:id":1326912235,
+    "wof:lastmodified":1537702997,
+    "wof:name":"Ban Khlong Sali",
+    "wof:parent_id":890466203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.703,
+    15.77614,
+    99.703,
+    15.77614
+],
+  "geometry": {"coordinates":[99.703,15.77614],"type":"Point"}
+}

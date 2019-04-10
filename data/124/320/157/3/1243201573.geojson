@@ -1,0 +1,70 @@
+{
+  "id": 1243201573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.57533,14.11889,101.57533,14.11889",
+    "geom:latitude":14.11889,
+    "geom:longitude":101.57533,
+    "gn:admin1_code":"74",
+    "gn:asciiname":"Ban Ngam Suan Mon",
+    "gn:country_code":"TH",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8748813,
+    "gn:latitude":14.11889,
+    "gn:longitude":101.57533,
+    "gn:modification_date":"2014-04-08",
+    "gn:name":"Ban Ngam Suan Mon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e07\u0e32\u0e21\u0e2a\u0e27\u0e19\u0e21\u0e2d\u0e0d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678711,
+        1108731777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8748813
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"0981b74f88514c8a28bedba78c48f6fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731777,
+            "locality_id":1243201573,
+            "region_id":85678711
+        }
+    ],
+    "wof:id":1243201573,
+    "wof:lastmodified":1537706025,
+    "wof:name":"Ban Ngam Suan Mon",
+    "wof:parent_id":1108731777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.57533,
+    14.11889,
+    101.57533,
+    14.11889
+],
+  "geometry": {"coordinates":[101.57532999999999,14.11889],"type":"Point"}
+}

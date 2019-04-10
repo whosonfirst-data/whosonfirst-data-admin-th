@@ -1,0 +1,79 @@
+{
+  "id": 890467225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.37197,13.79881,100.37197,13.79881",
+    "geom:latitude":13.79881,
+    "geom:longitude":100.37197,
+    "gn:country":"TH",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424960,
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e28\u0e32\u0e25\u0e32\u0e18\u0e23\u0e23\u0e21\u0e2a\u0e1e\u0e19\u0e4c"
+    ],
+    "name:unk_x_variant":[
+        "Ban Sala Thammasop"
+    ],
+    "qs:name":"Sala Thammasop",
+    "qs:name_adm0":"Thailand",
+    "qs:name_adm1":"Bangkok",
+    "qs:photos":5,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":5,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678743,
+        1108802579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6866593,
+        "gp:id":55946883,
+        "qs:id":500222
+    },
+    "wof:country":"TH",
+    "wof:created":1469053621,
+    "wof:geomhash":"17212490185123749102f39eb1c6683a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802579,
+            "locality_id":890467225,
+            "region_id":85678743
+        }
+    ],
+    "wof:id":890467225,
+    "wof:lastmodified":1505343709,
+    "wof:name":"Sala Thammasop",
+    "wof:parent_id":1108802579,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.37197,
+    13.79881,
+    100.37197,
+    13.79881
+],
+  "geometry": {"coordinates":[100.37197,13.79881],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 890467273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.88622,18.63639,98.88622,18.63639",
+    "geom:latitude":18.63639,
+    "geom:longitude":98.88622,
+    "gn:country":"TH",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424960,
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e01\u0e25\u0e32\u0e07"
+    ],
+    "name:unk_x_variant":[
+        "Sankl\u0101ng"
+    ],
+    "qs:name":"Ban Klang",
+    "qs:name_adm0":"Thailand",
+    "qs:name_adm1":"Chiang Mai",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":85,
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1156858,
+        "gp:id":55946615,
+        "qs:id":905325,
+        "wk:page":"Ban Klang"
+    },
+    "wof:country":"TH",
+    "wof:created":1469053634,
+    "wof:geomhash":"eacf9d04f1449159607bae5f07c8404e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "locality_id":890467273,
+            "region_id":85678619
+        }
+    ],
+    "wof:id":890467273,
+    "wof:lastmodified":1527792894,
+    "wof:name":"Ban Klang",
+    "wof:parent_id":85678619,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.88622,
+    18.63639,
+    98.88622,
+    18.63639
+],
+  "geometry": {"coordinates":[98.88621999999999,18.63639],"type":"Point"}
+}

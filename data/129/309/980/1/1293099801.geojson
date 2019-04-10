@@ -1,0 +1,74 @@
+{
+  "id": 1293099801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.58917,19.48967,99.58917,19.48967",
+    "geom:latitude":19.48967,
+    "geom:longitude":99.58917,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ban Pang Luang",
+    "gn:country_code":"TH",
+    "gn:dem":1068,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1119229,
+    "gn:latitude":19.48967,
+    "gn:longitude":99.58917,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Ban Pang Luang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1b\u0e32\u0e07\u0e2b\u0e25\u0e27\u0e07"
+    ],
+    "name:und_x_variant":[
+        "Ban Luang",
+        "Ban Pang Luang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678617,
+        1108731507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1119229
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"3fe9028f2cea26768f2c6a22b67fdcd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731507,
+            "locality_id":1293099801,
+            "region_id":85678617
+        }
+    ],
+    "wof:id":1293099801,
+    "wof:lastmodified":1537702974,
+    "wof:name":"Ban Pang Luang",
+    "wof:parent_id":1108731507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.58917,
+    19.48967,
+    99.58917,
+    19.48967
+],
+  "geometry": {"coordinates":[99.58917,19.48967],"type":"Point"}
+}

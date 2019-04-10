@@ -1,0 +1,67 @@
+{
+  "id": 1209237607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.39678,7.25839,99.39678,7.25839",
+    "geom:latitude":7.25839,
+    "geom:longitude":99.39678,
+    "gn:admin1_code":"65.0",
+    "gn:asciiname":"Ban Phrao",
+    "gn:country_code":"TH",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1156345,
+    "gn:latitude":7.25839,
+    "gn:longitude":99.39678,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Ban Phrao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1e\u0e23\u0e49\u0e32\u0e27"
+    ],
+    "name:und_x_variant":[
+        "Ban Maphrao (2)"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1156345
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"bc65e6102a1a08fa31adab2a0d98c7f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632293,
+            "locality_id":1209237607
+        }
+    ],
+    "wof:id":1209237607,
+    "wof:lastmodified":1537703182,
+    "wof:name":"Ban Phrao",
+    "wof:parent_id":85632293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.39678,
+    7.25839,
+    99.39678,
+    7.25839
+],
+  "geometry": {"coordinates":[99.39678000000001,7.25839],"type":"Point"}
+}

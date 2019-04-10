@@ -1,0 +1,73 @@
+{
+  "id": 1327350403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.89856,15.10914,104.89856,15.10914",
+    "geom:latitude":15.10914,
+    "geom:longitude":104.89856,
+    "gn:admin1_code":"75.0",
+    "gn:asciiname":"Ban Si Khai Tok",
+    "gn:country_code":"TH",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1885008,
+    "gn:latitude":15.10914,
+    "gn:longitude":104.89856,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Ban Si Khai Tok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e28\u0e23\u0e35\u0e44\u0e04\u0e15\u0e01"
+    ],
+    "name:und_x_variant":[
+        "Ban Si Khai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678783,
+        890466289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1885008
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"649508413b5250cbc70f11e10ec48432",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466289,
+            "locality_id":1327350403,
+            "region_id":85678783
+        }
+    ],
+    "wof:id":1327350403,
+    "wof:lastmodified":1537704278,
+    "wof:name":"Ban Si Khai Tok",
+    "wof:parent_id":890466289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.89856,
+    15.10914,
+    104.89856,
+    15.10914
+],
+  "geometry": {"coordinates":[104.89856,15.10914],"type":"Point"}
+}

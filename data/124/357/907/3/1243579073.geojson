@@ -1,0 +1,74 @@
+{
+  "id": 1243579073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.20969,12.74442,102.20969,12.74442",
+    "geom:latitude":12.74442,
+    "geom:longitude":102.20969,
+    "gn:admin1_code":"48.0",
+    "gn:asciiname":"Ban Chaman",
+    "gn:country_code":"TH",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1620288,
+    "gn:latitude":12.74442,
+    "gn:longitude":102.20969,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Chaman",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e09\u0e21\u0e31\u0e19"
+    ],
+    "name:und_x_variant":[
+        "Chaman",
+        "Ban Chaman"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678799,
+        1108802661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1620288
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"bd28840d1090fd8b409964f43e1da671",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802661,
+            "locality_id":1243579073,
+            "region_id":85678799
+        }
+    ],
+    "wof:id":1243579073,
+    "wof:lastmodified":1537704220,
+    "wof:name":"Ban Chaman",
+    "wof:parent_id":1108802661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.20969,
+    12.74442,
+    102.20969,
+    12.74442
+],
+  "geometry": {"coordinates":[102.20968999999999,12.74442],"type":"Point"}
+}

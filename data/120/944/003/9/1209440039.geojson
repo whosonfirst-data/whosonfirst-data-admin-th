@@ -1,0 +1,71 @@
+{
+  "id": 1209440039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.14467,13.5457,101.14467,13.5457",
+    "geom:latitude":13.5457,
+    "geom:longitude":101.14467,
+    "gn:admin1_code":"46.0",
+    "gn:asciiname":"Ban Khok Phlo",
+    "gn:country_code":"TH",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1617857,
+    "gn:latitude":13.5457,
+    "gn:longitude":101.14467,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Ban Khok Phlo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e42\u0e04\u0e01\u0e40\u0e1e\u0e25\u0e32\u0e30"
+    ],
+    "name:tha_x_variant":[
+        "Ban Khok Phlo"
+    ],
+    "name:und_x_variant":[
+        "Khrok Phlau",
+        "Ban Khok Phro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1617857
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"7112b91749aaf14ad96fe44e19349cfb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632293,
+            "locality_id":1209440039
+        }
+    ],
+    "wof:id":1209440039,
+    "wof:lastmodified":1537704080,
+    "wof:name":"Ban Khok Phlo",
+    "wof:parent_id":85632293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.14467,
+    13.5457,
+    101.14467,
+    13.5457
+],
+  "geometry": {"coordinates":[101.14467,13.5457],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1209832311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.19917,10.39958,99.19917,10.39958",
+    "geom:latitude":10.39958,
+    "geom:longitude":99.19917,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Ban Bang Charoen",
+    "gn:country_code":"TH",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1158322,
+    "gn:latitude":10.39958,
+    "gn:longitude":99.19917,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Ban Bang Charoen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1a\u0e32\u0e07\u0e40\u0e08\u0e23\u0e34\u0e0d"
+    ],
+    "name:und_x_variant":[
+        "Ban Bang Katin (1)"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632293,
+        890466037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1158322
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"2b9947230f61447d08d67fbdd12e1ba7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632293,
+            "county_id":890466037,
+            "locality_id":1209832311,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1209832311,
+    "wof:lastmodified":1537703313,
+    "wof:name":"Ban Bang Charoen",
+    "wof:parent_id":890466037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.19917,
+    10.39958,
+    99.19917,
+    10.39958
+],
+  "geometry": {"coordinates":[99.19917,10.39958],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1310022715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.65508,6.65408,100.65508,6.65408",
+    "geom:latitude":6.65408,
+    "geom:longitude":100.65508,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Ban Bo To Long",
+    "gn:country_code":"TH",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6968719,
+    "gn:latitude":6.65408,
+    "gn:longitude":100.65508,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ban Bo To Long",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1a\u0e48\u0e2d\u0e42\u0e15\u0e4a\u0e30\u0e2b\u0e25\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678603,
+        890467431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6968719
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"2f9d994acd7a8e6945349c7f2e0fd542",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890467431,
+            "locality_id":1310022715,
+            "region_id":85678603
+        }
+    ],
+    "wof:id":1310022715,
+    "wof:lastmodified":1537704348,
+    "wof:name":"Ban Bo To Long",
+    "wof:parent_id":890467431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.65508,
+    6.65408,
+    100.65508,
+    6.65408
+],
+  "geometry": {"coordinates":[100.65508,6.65408],"type":"Point"}
+}

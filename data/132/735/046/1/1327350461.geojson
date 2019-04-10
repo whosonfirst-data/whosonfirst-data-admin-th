@@ -1,0 +1,70 @@
+{
+  "id": 1327350461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.93894,9.61547,98.93894,9.61547",
+    "geom:latitude":9.61547,
+    "geom:longitude":98.93894,
+    "gn:admin1_code":"60.0",
+    "gn:asciiname":"Ban Khlong Saring",
+    "gn:country_code":"TH",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8324471,
+    "gn:latitude":9.61547,
+    "gn:longitude":98.93894,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Ban Khlong Saring",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e04\u0e25\u0e2d\u0e07\u0e2a\u0e23\u0e34\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678581,
+        1108731973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8324471
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"a9ec3df3ddc458abd27cb5391264f747",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731973,
+            "locality_id":1327350461,
+            "region_id":85678581
+        }
+    ],
+    "wof:id":1327350461,
+    "wof:lastmodified":1537705381,
+    "wof:name":"Ban Khlong Saring",
+    "wof:parent_id":1108731973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.93894,
+    9.61547,
+    98.93894,
+    9.61547
+],
+  "geometry": {"coordinates":[98.93894,9.61547],"type":"Point"}
+}

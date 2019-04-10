@@ -1,0 +1,67 @@
+{
+  "id": 1209123119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.27983,12.64036,102.27983,12.64036",
+    "geom:latitude":12.64036,
+    "geom:longitude":102.27983,
+    "gn:admin1_code":"48.0",
+    "gn:asciiname":"Ban Khlong Hin 1",
+    "gn:country_code":"TH",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7913200,
+    "gn:latitude":12.64036,
+    "gn:longitude":102.27983,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Khlong Hin 1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e04\u0e25\u0e2d\u0e07\u0e2b\u0e34\u0e19 \u0e2b\u0e19\u0e36\u0e48\u0e07"
+    ],
+    "name:und_x_variant":[
+        "Ban Khlong Hin Nueng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7913200
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"3c8c6abda0f0328cc7869652fc247816",
+    "wof:hierarchy":[
+        {
+            "country_id":85632293,
+            "locality_id":1209123119
+        }
+    ],
+    "wof:id":1209123119,
+    "wof:lastmodified":1537704862,
+    "wof:name":"Ban Khlong Hin 1",
+    "wof:parent_id":85632293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.27983,
+    12.64036,
+    102.27983,
+    12.64036
+],
+  "geometry": {"coordinates":[102.27983,12.64036],"type":"Point"}
+}

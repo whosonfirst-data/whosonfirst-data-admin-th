@@ -1,0 +1,70 @@
+{
+  "id": 1243287105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.20875,14.26531,101.20875,14.26531",
+    "geom:latitude":14.26531,
+    "geom:longitude":101.20875,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Ban Ko Krachai",
+    "gn:country_code":"TH",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8773767,
+    "gn:latitude":14.26531,
+    "gn:longitude":101.20875,
+    "gn:modification_date":"2014-04-08",
+    "gn:name":"Ban Ko Krachai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e01\u0e32\u0e30\u0e01\u0e23\u0e30\u0e0a\u0e32\u0e22"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678705,
+        890466935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8773767
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"b61a9457d94caf9b7303939ddfbedf65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466935,
+            "locality_id":1243287105,
+            "region_id":85678705
+        }
+    ],
+    "wof:id":1243287105,
+    "wof:lastmodified":1537706064,
+    "wof:name":"Ban Ko Krachai",
+    "wof:parent_id":890466935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.20875,
+    14.26531,
+    101.20875,
+    14.26531
+],
+  "geometry": {"coordinates":[101.20874999999999,14.26531],"type":"Point"}
+}

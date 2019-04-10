@@ -1,0 +1,72 @@
+{
+  "id": 1293128391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.06667,13.56667,101.06667,13.56667",
+    "geom:latitude":13.56667,
+    "geom:longitude":101.06667,
+    "gn:admin1_code":"44.0",
+    "gn:asciiname":"Ban Bang Son",
+    "gn:cc2":"TH",
+    "gn:country_code":"TH",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1620619,
+    "gn:latitude":13.56667,
+    "gn:longitude":101.06667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Bang Son",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bang Saun",
+        "Ban Bang Son"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678797,
+        1108731147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1620619
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"3dc3150db5bfa2051ea1938c72a942b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731147,
+            "locality_id":1293128391,
+            "region_id":85678797
+        }
+    ],
+    "wof:id":1293128391,
+    "wof:lastmodified":1537704242,
+    "wof:name":"Ban Bang Son",
+    "wof:parent_id":1108731147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.06667,
+    13.56667,
+    101.06667,
+    13.56667
+],
+  "geometry": {"coordinates":[101.06667,13.56667],"type":"Point"}
+}

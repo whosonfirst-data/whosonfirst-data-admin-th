@@ -1,0 +1,67 @@
+{
+  "id": 1259612691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.16667,19.33333,100.16667,19.33333",
+    "geom:latitude":19.33333,
+    "geom:longitude":100.16667,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Ban Kot",
+    "gn:country_code":"TH",
+    "gn:dem":395,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1601995,
+    "gn:latitude":19.33333,
+    "gn:longitude":100.16667,
+    "gn:modification_date":"1994-04-10",
+    "gn:name":"Ban Kot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678637,
+        890466377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1601995
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"0b248b51d33674dc9efde52d22a7e599",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466377,
+            "locality_id":1259612691,
+            "region_id":85678637
+        }
+    ],
+    "wof:id":1259612691,
+    "wof:lastmodified":1536672804,
+    "wof:name":"Ban Kot",
+    "wof:parent_id":890466377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.16667,
+    19.33333,
+    100.16667,
+    19.33333
+],
+  "geometry": {"coordinates":[100.16667,19.33333],"type":"Point"}
+}

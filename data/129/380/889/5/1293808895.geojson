@@ -1,0 +1,70 @@
+{
+  "id": 1293808895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.77533,12.93703,99.77533,12.93703",
+    "geom:latitude":12.93703,
+    "geom:longitude":99.77533,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"Ban Sa Yai Non",
+    "gn:country_code":"TH",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1154784,
+    "gn:latitude":12.93703,
+    "gn:longitude":99.77533,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Ban Sa Yai Non",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2a\u0e23\u0e30\u0e22\u0e32\u0e22\u0e19\u0e19\u0e17\u0e4c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678753,
+        1108731315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1154784
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"ffef1dd5f955e89e3da93f20a23ab97e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731315,
+            "locality_id":1293808895,
+            "region_id":85678753
+        }
+    ],
+    "wof:id":1293808895,
+    "wof:lastmodified":1537703072,
+    "wof:name":"Ban Sa Yai Non",
+    "wof:parent_id":1108731315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.77533,
+    12.93703,
+    99.77533,
+    12.93703
+],
+  "geometry": {"coordinates":[99.77533,12.93703],"type":"Point"}
+}

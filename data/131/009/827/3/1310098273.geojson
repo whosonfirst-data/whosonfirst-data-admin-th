@@ -1,0 +1,76 @@
+{
+  "id": 1310098273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.79556,18.34528,98.79556,18.34528",
+    "geom:latitude":18.34528,
+    "geom:longitude":98.79556,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ban Muang Ton",
+    "gn:country_code":"TH",
+    "gn:dem":309,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1156297,
+    "gn:latitude":18.34528,
+    "gn:longitude":98.79556,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Ban Muang Ton",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e21\u0e48\u0e27\u0e07\u0e42\u0e15\u0e19"
+    ],
+    "name:und_x_variant":[
+        "Ban Muang Daun",
+        "Ban Muang Don",
+        "Ban Muang Khon",
+        "Ban Muang Ton"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678629,
+        1108731113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1156297
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"97039dadc81916d2fb1eacd2eb2ae8b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731113,
+            "locality_id":1310098273,
+            "region_id":85678629
+        }
+    ],
+    "wof:id":1310098273,
+    "wof:lastmodified":1537703178,
+    "wof:name":"Ban Muang Ton",
+    "wof:parent_id":1108731113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.79556,
+    18.34528,
+    98.79556,
+    18.34528
+],
+  "geometry": {"coordinates":[98.79555999999999,18.34528],"type":"Point"}
+}

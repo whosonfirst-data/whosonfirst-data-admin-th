@@ -1,0 +1,74 @@
+{
+  "id": 1309918279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.95824,18.75846,98.95824,18.75846",
+    "geom:latitude":18.75846,
+    "geom:longitude":98.95824,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Ton Kuk",
+    "gn:country_code":"TH",
+    "gn:dem":312,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1154150,
+    "gn:latitude":18.75846,
+    "gn:longitude":98.95824,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Ton Kuk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e15\u0e49\u0e19\u0e01\u0e38\u0e01"
+    ],
+    "name:und_x_variant":[
+        "Ban San Luang",
+        "Ban Ton Kuk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678619,
+        890467179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1154150
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"a2f76c8351bed9dc528f8cb8f77c6984",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890467179,
+            "locality_id":1309918279,
+            "region_id":85678619
+        }
+    ],
+    "wof:id":1309918279,
+    "wof:lastmodified":1537703026,
+    "wof:name":"Ban Ton Kuk",
+    "wof:parent_id":890467179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.95824,
+    18.75846,
+    98.95824,
+    18.75846
+],
+  "geometry": {"coordinates":[98.95824,18.75846],"type":"Point"}
+}

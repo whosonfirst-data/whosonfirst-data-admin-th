@@ -1,0 +1,70 @@
+{
+  "id": 1292967797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.92706,16.49717,101.92706,16.49717",
+    "geom:latitude":16.49717,
+    "geom:longitude":101.92706,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Ban Khlong Toei",
+    "gn:country_code":"TH",
+    "gn:dem":269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8370624,
+    "gn:latitude":16.49717,
+    "gn:longitude":101.92706,
+    "gn:modification_date":"2012-08-06",
+    "gn:name":"Ban Khlong Toei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e04\u0e25\u0e2d\u0e07\u0e40\u0e15\u0e22"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678825,
+        890465699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8370624
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"5c75141b01f6d052e5671cad97ee0e18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465699,
+            "locality_id":1292967797,
+            "region_id":85678825
+        }
+    ],
+    "wof:id":1292967797,
+    "wof:lastmodified":1537705508,
+    "wof:name":"Ban Khlong Toei",
+    "wof:parent_id":890465699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.92706,
+    16.49717,
+    101.92706,
+    16.49717
+],
+  "geometry": {"coordinates":[101.92706,16.49717],"type":"Point"}
+}

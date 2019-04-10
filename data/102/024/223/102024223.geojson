@@ -1,0 +1,107 @@
+{
+  "id": 102024223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000263,
+    "geom:area_square_m":3134675.3436,
+    "geom:bbox":"99.7849947997,15.3546129709,99.8036282245,15.3726930977",
+    "geom:latitude":15.363653,
+    "geom:longitude":99.794312,
+    "iso:country":"TH",
+    "lbl:latitude":15.363653,
+    "lbl:longitude":99.794312,
+    "mps:latitude":15.363653,
+    "mps:longitude":99.794312,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_colloquial":[
+        "Baan Naung Chaang",
+        "Ban Naung Chang",
+        "Hndhngshaang",
+        "Hndhngshang",
+        "Hnohngshang"
+    ],
+    "name:eng_x_preferred":[
+        "Nong Chang"
+    ],
+    "name:eng_x_variant":[
+        "Ban Nong Chang",
+        "Ban Uthai Kao",
+        "B\u00e5n Naung Ch\u00e5ng",
+        "Hn\u00f0hngsh\u00e5ng",
+        "Naung Chang"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2b\u0e19\u0e2d\u0e07\u0e09\u0e32\u0e07"
+    ],
+    "name:unk_x_variant":[
+        "Ban Uthai Kao"
+    ],
+    "qs:a0":"Thailand",
+    "qs:a1":"*Uthai Thani",
+    "qs:a1r":"*",
+    "qs:a2":"Nong Chang",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Nong Chang",
+    "qs:loc_alt":"Nong Chang",
+    "qs:loc_lc":"1151730",
+    "qs:pop":0,
+    "qs:source":"Aquattroshapes",
+    "qs:type":"Town",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":126,
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678689,
+        1108802703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"07ceddc2-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":1151730,
+        "gp:id":1225526,
+        "qs:id":1251727,
+        "qs_pg:id":1251727,
+        "wd:id":"Q476251"
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"b474d3ecd725e42b43262b93d04a224e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802703,
+            "locality_id":102024223,
+            "region_id":85678689
+        }
+    ],
+    "wof:id":102024223,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527636446,
+    "wof:name":"Nong Chang",
+    "wof:parent_id":1108802703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.78499479967489,
+    15.35461297091972,
+    99.80362822452456,
+    15.37269309768426
+],
+  "geometry": {"coordinates":[[[99.79609549240696,15.35478019159135],[99.79427731201396,15.35461297091972],[99.79246044505921,15.35479314028403],[99.79071470408742,15.35531377714841],[99.7891071698195,15.35615487646004],[99.78769961436349,15.35728411901763],[99.78654612803651,15.35865811290643],[99.7856910408946,15.36022406038016],[99.78516721881734,15.36192178622984],[99.78499479967489,15.36368604978465],[99.78518041827319,15.36544905177198],[99.78571695003735,15.36714303974597],[99.78658378348841,15.36870291196801],[99.78774761124374,15.3700687196452],[99.78916370930814,15.37118797130375],[99.79077765560022,15.37201765065502],[99.79252742170077,15.37252587030795],[99.79434575738686,15.37269309768426],[99.79616277619392,15.37251290594664],[99.79790864245935,15.37199222103732],[99.79951625638712,15.37115105532335],[99.80092383374169,15.37002173811524],[99.8020772808723,15.36864767269265],[99.8029322736901,15.36708166769212],[99.80345596067544,15.36538390708066],[99.80362822452456,15.36361963682126],[99.80344245407382,15.36185665720714],[99.80290579701618,15.3601627172781],[99.80203888390527,15.35860291145839],[99.80087503425129,15.35723717843182],[99.79945897538336,15.35611799830697],[99.79784512341546,15.35528837648249],[99.79609549240696,15.35478019159135]]],"type":"Polygon"}
+}

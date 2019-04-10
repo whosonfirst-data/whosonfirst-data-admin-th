@@ -1,0 +1,67 @@
+{
+  "id": 1209540529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.01453,13.05104,100.01453,13.05104",
+    "geom:latitude":13.05104,
+    "geom:longitude":100.01453,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"Ban Na Phrom",
+    "gn:country_code":"TH",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1616157,
+    "gn:latitude":13.05104,
+    "gn:longitude":100.01453,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Na Phrom",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e19\u0e32\u0e1e\u0e23\u0e21"
+    ],
+    "name:und_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e19\u0e32\u0e1e\u0e23\u0e21"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1616157
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"71812307d2a8be2cb8b039e7321aed20",
+    "wof:hierarchy":[
+        {
+            "country_id":85632293,
+            "locality_id":1209540529
+        }
+    ],
+    "wof:id":1209540529,
+    "wof:lastmodified":1537703958,
+    "wof:name":"Ban Na Phrom",
+    "wof:parent_id":85632293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.01453,
+    13.05104,
+    100.01453,
+    13.05104
+],
+  "geometry": {"coordinates":[100.01452999999999,13.05104],"type":"Point"}
+}

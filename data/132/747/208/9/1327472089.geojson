@@ -1,0 +1,71 @@
+{
+  "id": 1327472089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.81808,13.72,100.81808,13.72",
+    "geom:latitude":13.72,
+    "geom:longitude":100.81808,
+    "gn:admin1_code":"40.0",
+    "gn:admin2_code":"1011",
+    "gn:asciiname":"Ban Thap Yao",
+    "gn:country_code":"TH",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7099775,
+    "gn:latitude":13.72,
+    "gn:longitude":100.81808,
+    "gn:modification_date":"2017-03-23",
+    "gn:name":"Ban Thap Yao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e17\u0e31\u0e1a\u0e22\u0e32\u0e27"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678739,
+        890465915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7099775
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"de500bd542203b57e2c80fec25b795c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465915,
+            "locality_id":1327472089,
+            "region_id":85678739
+        }
+    ],
+    "wof:id":1327472089,
+    "wof:lastmodified":1537704437,
+    "wof:name":"Ban Thap Yao",
+    "wof:parent_id":890465915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.81808,
+    13.72,
+    100.81808,
+    13.72
+],
+  "geometry": {"coordinates":[100.81807999999999,13.72],"type":"Point"}
+}

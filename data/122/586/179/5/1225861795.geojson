@@ -1,0 +1,70 @@
+{
+  "id": 1225861795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.21381,13.22792,101.21381,13.22792",
+    "geom:latitude":13.22792,
+    "geom:longitude":101.21381,
+    "gn:admin1_code":"46.0",
+    "gn:asciiname":"Ban Nong Kham Pom",
+    "gn:country_code":"TH",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7851248,
+    "gn:latitude":13.22792,
+    "gn:longitude":101.21381,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Nong Kham Pom",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e19\u0e2d\u0e07\u0e02\u0e32\u0e21\u0e1b\u0e49\u0e2d\u0e21"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678795,
+        1108802559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7851248
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"93a9c8e815c4498c10ca7be937f0950f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802559,
+            "locality_id":1225861795,
+            "region_id":85678795
+        }
+    ],
+    "wof:id":1225861795,
+    "wof:lastmodified":1537704717,
+    "wof:name":"Ban Nong Kham Pom",
+    "wof:parent_id":1108802559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.21381,
+    13.22792,
+    101.21381,
+    13.22792
+],
+  "geometry": {"coordinates":[101.21381,13.22792],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 102024913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000049,
+    "geom:bbox":"100.50567627,13.6673382597,100.513916016,13.6753445528",
+    "geom:latitude":13.671465,
+    "geom:longitude":100.509669,
+    "iso:country":"TH",
+    "lbl:latitude":13.672676,
+    "lbl:longitude":100.508354,
+    "mps:latitude":13.672676,
+    "mps:longitude":100.508354,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e23\u0e32\u0e29\u0e0e\u0e23\u0e4c\u0e1a\u0e39\u0e23\u0e13\u0e30"
+    ],
+    "name:unk_x_variant":[
+        "Amphoe Rat Burana"
+    ],
+    "qs:a0":"Thailand",
+    "qs:a1":"*Bangkok",
+    "qs:a1r":"*",
+    "qs:a2":"Rat Burana",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Rat Burana",
+    "qs:loc_alt":"Rat Burana",
+    "qs:loc_lc":"1607055",
+    "qs:pop":0,
+    "qs:source":"Aquattroshapes",
+    "qs:type":"County",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":196,
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1607055,
+        "gp:id":28341408,
+        "qs:id":213571,
+        "wd:id":"Q1019633"
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"af154ae69a9cc99a366a52e57365f8a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "locality_id":102024913,
+            "region_id":85678739
+        }
+    ],
+    "wof:id":102024913,
+    "wof:lastmodified":1527636442,
+    "wof:name":"Rat Burana",
+    "wof:parent_id":85678739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.50567627,
+    13.6673382597,
+    100.513916016,
+    13.6753445528
+],
+  "geometry": {"coordinates":[[[100.512542725,13.6686726607],[100.512542725,13.6673382597],[100.511169434,13.6673382597],[100.508422852,13.6673382597],[100.508422852,13.6700070543],[100.50567627,13.6700070543],[100.50567627,13.6726758187],[100.50567627,13.6740101895],[100.50567627,13.6753445528],[100.50704956099999,13.6753445528],[100.508422852,13.6753445528],[100.511169434,13.6753445528],[100.511169434,13.6726758187],[100.512542725,13.6726758187],[100.513916016,13.6726758187],[100.513916016,13.6713414403],[100.513916016,13.6700070543],[100.513916016,13.6686726607],[100.512542725,13.6686726607]]],"type":"Polygon"}
+}

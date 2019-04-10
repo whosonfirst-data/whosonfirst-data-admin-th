@@ -1,0 +1,70 @@
+{
+  "id": 1327474037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.29239,14.7665,100.29239,14.7665",
+    "geom:latitude":14.7665,
+    "geom:longitude":100.29239,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Ban Nong Khaem",
+    "gn:country_code":"TH",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1615640,
+    "gn:latitude":14.7665,
+    "gn:longitude":100.29239,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Ban Nong Khaem",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e19\u0e2d\u0e07\u0e41\u0e02\u0e21"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678691,
+        1108731865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1615640
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"d0fc7d210bf538ad0df5fa536561c807",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731865,
+            "locality_id":1327474037,
+            "region_id":85678691
+        }
+    ],
+    "wof:id":1327474037,
+    "wof:lastmodified":1537703922,
+    "wof:name":"Ban Nong Khaem",
+    "wof:parent_id":1108731865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.29239,
+    14.7665,
+    100.29239,
+    14.7665
+],
+  "geometry": {"coordinates":[100.29239,14.7665],"type":"Point"}
+}

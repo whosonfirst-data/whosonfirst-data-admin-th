@@ -1,0 +1,70 @@
+{
+  "id": 1276305821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.66178,16.07458,100.66178,16.07458",
+    "geom:latitude":16.07458,
+    "geom:longitude":100.66178,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ban Noen Sa-at",
+    "gn:country_code":"TH",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8567245,
+    "gn:latitude":16.07458,
+    "gn:longitude":100.66178,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Ban Noen Sa-at",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e19\u0e34\u0e19\u0e2a\u0e30\u0e2d\u0e32\u0e14"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678673,
+        1108731257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8567245
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"be1fbf9eca9c5023966daee41f325627",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731257,
+            "locality_id":1276305821,
+            "region_id":85678673
+        }
+    ],
+    "wof:id":1276305821,
+    "wof:lastmodified":1537705742,
+    "wof:name":"Ban Noen Sa-at",
+    "wof:parent_id":1108731257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.66178,
+    16.07457999999999,
+    100.66178,
+    16.07457999999999
+],
+  "geometry": {"coordinates":[100.66177999999999,16.07457999999999],"type":"Point"}
+}

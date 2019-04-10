@@ -1,0 +1,75 @@
+{
+  "id": 1276708081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.88883,14.64006,101.88883,14.64006",
+    "geom:latitude":14.64006,
+    "geom:longitude":101.88883,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Ban Klang",
+    "gn:country_code":"TH",
+    "gn:dem":233,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1617584,
+    "gn:latitude":14.64006,
+    "gn:longitude":101.88883,
+    "gn:modification_date":"2014-06-04",
+    "gn:name":"Ban Klang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e01\u0e25\u0e32\u0e07"
+    ],
+    "name:und_x_variant":[
+        "Tha Yiam",
+        "Ban Klang (1)",
+        "Ban Klang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678841,
+        1108731679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1617584
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"5c08c876d15e1188ca4f865175c5a731",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731679,
+            "locality_id":1276708081,
+            "region_id":85678841
+        }
+    ],
+    "wof:id":1276708081,
+    "wof:lastmodified":1537704059,
+    "wof:name":"Ban Klang",
+    "wof:parent_id":1108731679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.88883,
+    14.64006,
+    101.88883,
+    14.64006
+],
+  "geometry": {"coordinates":[101.88883,14.64006],"type":"Point"}
+}

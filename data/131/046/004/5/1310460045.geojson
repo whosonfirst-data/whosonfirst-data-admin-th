@@ -1,0 +1,70 @@
+{
+  "id": 1310460045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.37936,16.40392,103.37936,16.40392",
+    "geom:latitude":16.40392,
+    "geom:longitude":103.37936,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Ban Dong Bo Tai",
+    "gn:country_code":"TH",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8652291,
+    "gn:latitude":16.40392,
+    "gn:longitude":103.37936,
+    "gn:modification_date":"2013-12-17",
+    "gn:name":"Ban Dong Bo Tai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e14\u0e07\u0e1a\u0e48\u0e2d\u0e43\u0e15\u0e49"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678831,
+        1108732085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8652291
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"27fda1df9c525897f51b6abc602f08b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108732085,
+            "locality_id":1310460045,
+            "region_id":85678831
+        }
+    ],
+    "wof:id":1310460045,
+    "wof:lastmodified":1537705757,
+    "wof:name":"Ban Dong Bo Tai",
+    "wof:parent_id":1108732085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.37936,
+    16.40392,
+    103.37936,
+    16.40392
+],
+  "geometry": {"coordinates":[103.37936000000001,16.40392],"type":"Point"}
+}

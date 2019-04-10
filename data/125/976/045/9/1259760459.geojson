@@ -1,0 +1,70 @@
+{
+  "id": 1259760459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.26447,16.66217,99.26447,16.66217",
+    "geom:latitude":16.66217,
+    "geom:longitude":99.26447,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Ban Rai Lampang",
+    "gn:country_code":"TH",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8386271,
+    "gn:latitude":16.66217,
+    "gn:longitude":99.26447,
+    "gn:modification_date":"2012-09-08",
+    "gn:name":"Ban Rai Lampang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e44\u0e23\u0e48\u0e25\u0e33\u0e1b\u0e32\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678665,
+        890466023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8386271
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"b73f0553f7928117cb16d2360bd0fd42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466023,
+            "locality_id":1259760459,
+            "region_id":85678665
+        }
+    ],
+    "wof:id":1259760459,
+    "wof:lastmodified":1537705542,
+    "wof:name":"Ban Rai Lampang",
+    "wof:parent_id":890466023,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.26447,
+    16.66217,
+    99.26447,
+    16.66217
+],
+  "geometry": {"coordinates":[99.26447,16.66217],"type":"Point"}
+}

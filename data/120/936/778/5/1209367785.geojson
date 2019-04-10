@@ -1,0 +1,68 @@
+{
+  "id": 1209367785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.60019,14.30089,100.60019,14.30089",
+    "geom:latitude":14.30089,
+    "geom:longitude":100.60019,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Ban Krot",
+    "gn:country_code":"TH",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1617332,
+    "gn:latitude":14.30089,
+    "gn:longitude":100.60019,
+    "gn:modification_date":"2014-02-06",
+    "gn:name":"Ban Krot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e01\u0e23\u0e14"
+    ],
+    "name:und_x_variant":[
+        "Ban Krod",
+        "Ban Krot"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1617332
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"8111d3dca0c585f3937bcb8e9b8bfef1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632293,
+            "locality_id":1209367785
+        }
+    ],
+    "wof:id":1209367785,
+    "wof:lastmodified":1537704042,
+    "wof:name":"Ban Krot",
+    "wof:parent_id":85632293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.60019,
+    14.30089,
+    100.60019,
+    14.30089
+],
+  "geometry": {"coordinates":[100.60019,14.30089],"type":"Point"}
+}

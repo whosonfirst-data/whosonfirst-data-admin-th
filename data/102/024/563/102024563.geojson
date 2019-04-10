@@ -1,0 +1,117 @@
+{
+  "id": 102024563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000255,
+    "geom:area_square_m":3135231.886651,
+    "geom:bbox":"100.565292382,6.89011809108,100.583389218,6.90820322264",
+    "geom:latitude":6.899161,
+    "geom:longitude":100.574341,
+    "gn:population":7537,
+    "iso:country":"TH",
+    "lbl:latitude":6.89916,
+    "lbl:longitude":100.574341,
+    "mps:latitude":6.89916,
+    "mps:longitude":100.574341,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bpy_x_preferred":[
+        "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09a8\u09be \u09ae\u09cb\u09ae"
+    ],
+    "name:deu_x_preferred":[
+        "Amphoe Na Mom"
+    ],
+    "name:eng_x_preferred":[
+        "Na Mom"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ca\u30fc\u30e2\u30e0\u90e1"
+    ],
+    "name:por_x_preferred":[
+        "Na Mom"
+    ],
+    "name:ron_x_preferred":[
+        "Districtul Na Mom"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e19\u0e32\u0e2b\u0e21\u0e48\u0e2d\u0e21"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e19\u0e32\u0e2b\u0e21\u0e48\u0e2d\u0e21",
+        "\u0e19\u0e32\u0e2b\u0e21\u0e48\u0e2d\u0e21"
+    ],
+    "name:unk_x_variant":[
+        "Ban Na Muang"
+    ],
+    "name:vie_x_preferred":[
+        "Na Mom"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Na Mom K\u016bn"
+    ],
+    "qs:a0":"Thailand",
+    "qs:a1":"*Songkhla",
+    "qs:a1r":"*",
+    "qs:a2":"Na Mom",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Na Mom",
+    "qs:loc_alt":"Na Mom",
+    "qs:loc_lc":"1600983",
+    "qs:pop":0,
+    "qs:source":"Aquattroshapes",
+    "qs:type":"County",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":153,
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"07ceab4a-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":1600983,
+        "gp:id":28341681,
+        "qs:id":1013941,
+        "wd:id":"Q166990"
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"12f5a994a5daccc481dca14df9a1897b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "locality_id":102024563,
+            "region_id":85678603
+        }
+    ],
+    "wof:id":102024563,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527636443,
+    "wof:name":"Na Mom",
+    "wof:parent_id":85678603,
+    "wof:placetype":"locality",
+    "wof:population":7537,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.56529238219598,
+    6.89011809107726,
+    100.5833892176998,
+    6.90820322263562
+],
+  "geometry": {"coordinates":[[[100.57607676512397,6.89028602157822],[100.5743109666998,6.89011809107726],[100.57254631323919,6.89029765492744],[100.57085061583031,6.89081781381283],[100.56928903650542,6.89165858007992],[100.56792158450749,6.89278764558448],[100.56680081037682,6.89416162296683],[100.56596978644511,6.89572771270127],[100.56546045134532,6.89742573190047],[100.56529238219598,6.89919042694817],[100.56547204170734,6.90095398111157],[100.5659925292285,6.90264862077422],[100.56683384539333,6.90420922012272],[100.56796366027534,6.90557580416313],[100.56933855559789,6.9066958538358],[100.57090569329183,6.90752632459889],[100.57260484627734,6.90803530085958],[100.57437071339264,6.90820322263562],[100.57613542943962,6.90802363728245],[100.57783117380224,6.9075034473896],[100.57939277729942,6.90666264533131],[100.58076022700878,6.90553354470063],[100.58188097273806,6.90415953820477],[100.58271194647971,6.9025934298019],[100.58322121724144,6.90089540522131],[100.5833892176998,6.89913071889846],[100.58320949560205,6.89736718623811],[100.58268896112726,6.89567257758284],[100.58184762079001,6.89411201402562],[100.58071780819658,6.89274546511142],[100.57934294127521,6.89162544455218],[100.57777585377154,6.89079499245753],[100.57607676512397,6.89028602157822]]],"type":"Polygon"}
+}

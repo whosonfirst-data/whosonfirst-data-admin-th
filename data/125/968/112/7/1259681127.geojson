@@ -1,0 +1,70 @@
+{
+  "id": 1259681127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.40878,17.90028,99.40878,17.90028",
+    "geom:latitude":17.90028,
+    "geom:longitude":99.40878,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Ban Samai Chai",
+    "gn:country_code":"TH",
+    "gn:dem":250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8313107,
+    "gn:latitude":17.90028,
+    "gn:longitude":99.40878,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Ban Samai Chai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2a\u0e21\u0e31\u0e22\u0e0a\u0e31\u0e22"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678625,
+        1108731939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8313107
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"dec0791f1ba99b4dbd2cb5ff4312fc9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731939,
+            "locality_id":1259681127,
+            "region_id":85678625
+        }
+    ],
+    "wof:id":1259681127,
+    "wof:lastmodified":1537705315,
+    "wof:name":"Ban Samai Chai",
+    "wof:parent_id":1108731939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.40878,
+    17.90028,
+    99.40878,
+    17.90028
+],
+  "geometry": {"coordinates":[99.40877999999999,17.90028],"type":"Point"}
+}

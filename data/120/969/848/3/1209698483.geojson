@@ -1,0 +1,67 @@
+{
+  "id": 1209698483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.76444,15.34056,99.76444,15.34056",
+    "geom:latitude":15.34056,
+    "geom:longitude":99.76444,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ban Huai Kha Nang",
+    "gn:country_code":"TH",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1119921,
+    "gn:latitude":15.34056,
+    "gn:longitude":99.76444,
+    "gn:modification_date":"2000-09-11",
+    "gn:name":"Ban Huai Kha Nang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678689,
+        1108802703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1119921
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"dadd1298de670db6baf830e9bf07d04a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802703,
+            "locality_id":1209698483,
+            "region_id":85678689
+        }
+    ],
+    "wof:id":1209698483,
+    "wof:lastmodified":1536396062,
+    "wof:name":"Ban Huai Kha Nang",
+    "wof:parent_id":1108802703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.76444,
+    15.34056,
+    99.76444,
+    15.34056
+],
+  "geometry": {"coordinates":[99.76443999999999,15.34056],"type":"Point"}
+}

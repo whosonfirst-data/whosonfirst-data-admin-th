@@ -1,0 +1,76 @@
+{
+  "id": 1310229763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.55797,6.95003,100.55797,6.95003",
+    "geom:latitude":6.95003,
+    "geom:longitude":100.55797,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Ban Thung Khamin",
+    "gn:country_code":"TH",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1612200,
+    "gn:latitude":6.95003,
+    "gn:longitude":100.55797,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Thung Khamin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e17\u0e38\u0e48\u0e07\u0e02\u0e21\u0e34\u0e49\u0e19"
+    ],
+    "name:und_x_variant":[
+        "Thung Phra Khian",
+        "Ban Tung Prakian",
+        "Ban Thung Phra Khian",
+        "Ban Thung Khamin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678603,
+        1108731553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1612200
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"010d6919d72269fa6f299f4492768262",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731553,
+            "locality_id":1310229763,
+            "region_id":85678603
+        }
+    ],
+    "wof:id":1310229763,
+    "wof:lastmodified":1537703686,
+    "wof:name":"Ban Thung Khamin",
+    "wof:parent_id":1108731553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.55797,
+    6.95003,
+    100.55797,
+    6.95003
+],
+  "geometry": {"coordinates":[100.55797,6.95003],"type":"Point"}
+}

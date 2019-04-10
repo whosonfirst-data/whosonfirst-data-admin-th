@@ -1,0 +1,74 @@
+{
+  "id": 1243151077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.22853,15.92386,100.22853,15.92386",
+    "geom:latitude":15.92386,
+    "geom:longitude":100.22853,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Ban Nong Khon",
+    "gn:country_code":"TH",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1615567,
+    "gn:latitude":15.92386,
+    "gn:longitude":100.22853,
+    "gn:modification_date":"2013-02-07",
+    "gn:name":"Ban Nong Khon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e19\u0e2d\u0e07\u0e02\u0e2d\u0e19"
+    ],
+    "name:und_x_variant":[
+        "B\u0101n Naung Kaun",
+        "Ban Nong Khon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678669,
+        1108731725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1615567
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"cc1b71434e6fb88460cb92e6fb259994",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731725,
+            "locality_id":1243151077,
+            "region_id":85678669
+        }
+    ],
+    "wof:id":1243151077,
+    "wof:lastmodified":1537703917,
+    "wof:name":"Ban Nong Khon",
+    "wof:parent_id":1108731725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.22853,
+    15.92386,
+    100.22853,
+    15.92386
+],
+  "geometry": {"coordinates":[100.22853000000001,15.92386],"type":"Point"}
+}

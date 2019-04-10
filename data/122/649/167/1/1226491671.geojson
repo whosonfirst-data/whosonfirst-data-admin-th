@@ -1,0 +1,70 @@
+{
+  "id": 1226491671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.9915,14.85108,103.9915,14.85108",
+    "geom:latitude":14.85108,
+    "geom:longitude":103.9915,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Ban Ku",
+    "gn:country_code":"TH",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1601947,
+    "gn:latitude":14.85108,
+    "gn:longitude":103.9915,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Ku",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e01\u0e39\u0e48"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678779,
+        1108731781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1601947
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"d1ab53491171d64fa05ed483227f540b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731781,
+            "locality_id":1226491671,
+            "region_id":85678779
+        }
+    ],
+    "wof:id":1226491671,
+    "wof:lastmodified":1537703529,
+    "wof:name":"Ban Ku",
+    "wof:parent_id":1108731781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.9915,
+    14.85108,
+    103.9915,
+    14.85108
+],
+  "geometry": {"coordinates":[103.9915,14.85108],"type":"Point"}
+}

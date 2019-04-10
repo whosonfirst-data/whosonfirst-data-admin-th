@@ -1,0 +1,70 @@
+{
+  "id": 1242618765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.88944,15.27647,99.88944,15.27647",
+    "geom:latitude":15.27647,
+    "geom:longitude":99.88944,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Ban Thung Pong",
+    "gn:country_code":"TH",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8676190,
+    "gn:latitude":15.27647,
+    "gn:longitude":99.88944,
+    "gn:modification_date":"2014-01-18",
+    "gn:name":"Ban Thung Pong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e17\u0e38\u0e48\u0e07\u0e42\u0e1b\u0e48\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678699,
+        1108732071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8676190
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"7ae212e618642df2af4c26d7c2552539",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108732071,
+            "locality_id":1242618765,
+            "region_id":85678699
+        }
+    ],
+    "wof:id":1242618765,
+    "wof:lastmodified":1537705826,
+    "wof:name":"Ban Thung Pong",
+    "wof:parent_id":1108732071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.88944,
+    15.27647,
+    99.88944,
+    15.27647
+],
+  "geometry": {"coordinates":[99.88943999999999,15.27647],"type":"Point"}
+}

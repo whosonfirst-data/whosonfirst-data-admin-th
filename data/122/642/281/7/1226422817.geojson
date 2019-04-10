@@ -1,0 +1,70 @@
+{
+  "id": 1226422817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.42156,16.45217,99.42156,16.45217",
+    "geom:latitude":16.45217,
+    "geom:longitude":99.42156,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Ban Hua Fai Nuea",
+    "gn:country_code":"TH",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8386076,
+    "gn:latitude":16.45217,
+    "gn:longitude":99.42156,
+    "gn:modification_date":"2012-09-08",
+    "gn:name":"Ban Hua Fai Nuea",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e31\u0e27\u0e1d\u0e32\u0e22\u0e40\u0e2b\u0e19\u0e37\u0e2d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678665,
+        890466023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8386076
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"00cf604880a2a7d30ed6ceb78986be55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466023,
+            "locality_id":1226422817,
+            "region_id":85678665
+        }
+    ],
+    "wof:id":1226422817,
+    "wof:lastmodified":1537705539,
+    "wof:name":"Ban Hua Fai Nuea",
+    "wof:parent_id":890466023,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.42156,
+    16.45217,
+    99.42156,
+    16.45217
+],
+  "geometry": {"coordinates":[99.42156,16.45217],"type":"Point"}
+}

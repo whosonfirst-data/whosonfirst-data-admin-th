@@ -1,0 +1,70 @@
+{
+  "id": 1226616391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.09683,15.89639,101.09683,15.89639",
+    "geom:latitude":15.89639,
+    "geom:longitude":101.09683,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ban Nuen Makha",
+    "gn:country_code":"TH",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8565449,
+    "gn:latitude":15.89639,
+    "gn:longitude":101.09683,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Ban Nuen Makha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e19\u0e34\u0e19\u0e21\u0e30\u0e04\u0e48\u0e32"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678673,
+        1108731635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8565449
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"de44b5da66aa075a73b1d9358c26a360",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731635,
+            "locality_id":1226616391,
+            "region_id":85678673
+        }
+    ],
+    "wof:id":1226616391,
+    "wof:lastmodified":1537705721,
+    "wof:name":"Ban Nuen Makha",
+    "wof:parent_id":1108731635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.09683,
+    15.89639,
+    101.09683,
+    15.89639
+],
+  "geometry": {"coordinates":[101.09683,15.89639],"type":"Point"}
+}

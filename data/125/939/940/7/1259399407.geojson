@@ -1,0 +1,70 @@
+{
+  "id": 1259399407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.54158,13.95572,101.54158,13.95572",
+    "geom:latitude":13.95572,
+    "geom:longitude":101.54158,
+    "gn:admin1_code":"74",
+    "gn:asciiname":"Ban Dong Hin Dat",
+    "gn:country_code":"TH",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8748614,
+    "gn:latitude":13.95572,
+    "gn:longitude":101.54158,
+    "gn:modification_date":"2014-04-08",
+    "gn:name":"Ban Dong Hin Dat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e14\u0e07\u0e2b\u0e34\u0e19\u0e14\u0e32\u0e14"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678711,
+        1108731885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8748614
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"20df958a0aa98dfe4e5eb45cd1a5e3e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731885,
+            "locality_id":1259399407,
+            "region_id":85678711
+        }
+    ],
+    "wof:id":1259399407,
+    "wof:lastmodified":1537706021,
+    "wof:name":"Ban Dong Hin Dat",
+    "wof:parent_id":1108731885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.54158,
+    13.95572,
+    101.54158,
+    13.95572
+],
+  "geometry": {"coordinates":[101.54158,13.95572],"type":"Point"}
+}

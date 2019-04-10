@@ -1,0 +1,70 @@
+{
+  "id": 1193191351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.11794,14.94383,101.11794,14.94383",
+    "geom:latitude":14.94383,
+    "geom:longitude":101.11794,
+    "gn:admin1_code":"34",
+    "gn:asciiname":"Ban Kaeng Nam Yen",
+    "gn:country_code":"TH",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9197871,
+    "gn:latitude":14.94383,
+    "gn:longitude":101.11794,
+    "gn:modification_date":"2014-07-10",
+    "gn:name":"Ban Kaeng Nam Yen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e41\u0e01\u0e48\u0e07\u0e19\u0e49\u0e33\u0e40\u0e22\u0e47\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678701,
+        890466161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9197871
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"376c4d1e2ef9b55c1ed68cda8669f43a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466161,
+            "locality_id":1193191351,
+            "region_id":85678701
+        }
+    ],
+    "wof:id":1193191351,
+    "wof:lastmodified":1537706214,
+    "wof:name":"Ban Kaeng Nam Yen",
+    "wof:parent_id":890466161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.11794,
+    14.94383,
+    101.11794,
+    14.94383
+],
+  "geometry": {"coordinates":[101.11794,14.94383],"type":"Point"}
+}

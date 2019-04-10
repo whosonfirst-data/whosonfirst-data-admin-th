@@ -1,0 +1,71 @@
+{
+  "id": 1276805813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.84903,13.89511,100.84903,13.89511",
+    "geom:latitude":13.89511,
+    "geom:longitude":100.84903,
+    "gn:admin1_code":"40.0",
+    "gn:admin2_code":"1003",
+    "gn:asciiname":"Ban Lam Buri Phuang",
+    "gn:country_code":"TH",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7099566,
+    "gn:latitude":13.89511,
+    "gn:longitude":100.84903,
+    "gn:modification_date":"2017-03-23",
+    "gn:name":"Ban Lam Buri Phuang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e25\u0e33\u0e1a\u0e38\u0e2b\u0e23\u0e35\u0e48\u0e1e\u0e27\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678739,
+        890465651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7099566
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"1e28d77e4cfae4c95f7f41fb65824896",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465651,
+            "locality_id":1276805813,
+            "region_id":85678739
+        }
+    ],
+    "wof:id":1276805813,
+    "wof:lastmodified":1537704435,
+    "wof:name":"Ban Lam Buri Phuang",
+    "wof:parent_id":890465651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.84903,
+    13.89511,
+    100.84903,
+    13.89511
+],
+  "geometry": {"coordinates":[100.84903,13.89511],"type":"Point"}
+}

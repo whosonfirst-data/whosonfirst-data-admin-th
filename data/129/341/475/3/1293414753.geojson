@@ -1,0 +1,70 @@
+{
+  "id": 1293414753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.66656,11.91761,99.66656,11.91761",
+    "geom:latitude":11.91761,
+    "geom:longitude":99.66656,
+    "gn:admin1_code":"57.0",
+    "gn:asciiname":"Ban Prong Daeng",
+    "gn:country_code":"TH",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8208746,
+    "gn:latitude":11.91761,
+    "gn:longitude":99.66656,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Ban Prong Daeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e42\u0e1b\u0e23\u0e48\u0e07\u0e41\u0e14\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678757,
+        890466989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8208746
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"7a7d65d1eb1be20dfc1f7ff63767275b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466989,
+            "locality_id":1293414753,
+            "region_id":85678757
+        }
+    ],
+    "wof:id":1293414753,
+    "wof:lastmodified":1537705125,
+    "wof:name":"Ban Prong Daeng",
+    "wof:parent_id":890466989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.66656,
+    11.91761,
+    99.66656,
+    11.91761
+],
+  "geometry": {"coordinates":[99.66656,11.91761],"type":"Point"}
+}

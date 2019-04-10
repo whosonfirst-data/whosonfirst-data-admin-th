@@ -1,0 +1,76 @@
+{
+  "id": 890466285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-11-10",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.96721,13.08173,99.96721,13.08173",
+    "geom:latitude":13.08173,
+    "geom:longitude":99.96721,
+    "gn:country":"TH",
+    "gn:fcode":"ADM2",
+    "gn:pop":0,
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e40\u0e1e\u0e0a\u0e23\u0e1a\u0e38\u0e23\u0e35"
+    ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e40\u0e1e\u0e0a\u0e23\u0e1a\u0e38\u0e23\u0e35"
+    ],
+    "name:unk_x_variant":[
+        "Muang Phetchaburi"
+    ],
+    "qs:name":"Amphoe Mueang Phetchaburi",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":153,
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1151985,
+        "gp:id":28341564,
+        "qs:id":1026847,
+        "wd:id":"Q476060",
+        "wk:page":"Mueang Phetchaburi District"
+    },
+    "wof:country":"TH",
+    "wof:created":1469053573,
+    "wof:geomhash":"29237adadf39be1e693ea84dccdf2d7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466285,
+            "region_id":85678753
+        }
+    ],
+    "wof:id":890466285,
+    "wof:lastmodified":1527793016,
+    "wof:name":"Amphoe Mueang Phetchaburi",
+    "wof:parent_id":85678753,
+    "wof:placetype":"county",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.96721,
+    13.08173,
+    99.96721,
+    13.08173
+],
+  "geometry": {"coordinates":[99.96720999999999,13.08173],"type":"Point"}
+}

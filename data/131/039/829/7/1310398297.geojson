@@ -1,0 +1,70 @@
+{
+  "id": 1310398297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.04075,18.58853,99.04075,18.58853",
+    "geom:latitude":18.58853,
+    "geom:longitude":99.04075,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ban San Pa Fai",
+    "gn:country_code":"TH",
+    "gn:dem":298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8218544,
+    "gn:latitude":18.58853,
+    "gn:longitude":99.04075,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Ban San Pa Fai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2a\u0e31\u0e19\u0e1b\u0e48\u0e32\u0e1d\u0e49\u0e32\u0e22"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678629,
+        890466981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8218544
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"4cd8334230e2b353fa971c7aad78c233",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466981,
+            "locality_id":1310398297,
+            "region_id":85678629
+        }
+    ],
+    "wof:id":1310398297,
+    "wof:lastmodified":1537705140,
+    "wof:name":"Ban San Pa Fai",
+    "wof:parent_id":890466981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.04075,
+    18.58853,
+    99.04075,
+    18.58853
+],
+  "geometry": {"coordinates":[99.04075,18.58853],"type":"Point"}
+}

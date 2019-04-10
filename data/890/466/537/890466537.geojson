@@ -1,0 +1,75 @@
+{
+  "id": 890466537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.31013,7.99574,98.31013,7.99574",
+    "geom:latitude":7.99574,
+    "geom:longitude":98.31013,
+    "gn:country":"TH",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424960,
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Choeng Thale",
+    "qs:name_adm0":"Thailand",
+    "qs:name_adm1":"Phuket",
+    "qs:photos":782,
+    "qs:photos_1k":158,
+    "qs:photos_9k":3,
+    "qs:photos_9r":6,
+    "qs:photos_all":782,
+    "qs:photos_sr":9,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":274,
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678567,
+        1108802759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1117578,
+        "gp:id":55945499,
+        "qs:id":237166,
+        "wk:page":"Thalang District"
+    },
+    "wof:country":"TH",
+    "wof:created":1469053583,
+    "wof:geomhash":"8b2e88c0df6253490642acbd42f17065",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802759,
+            "locality_id":890466537,
+            "region_id":85678567
+        }
+    ],
+    "wof:id":890466537,
+    "wof:lastmodified":1527793013,
+    "wof:name":"Choeng Thale",
+    "wof:parent_id":1108802759,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.31013,
+    7.99574,
+    98.31013,
+    7.99574
+],
+  "geometry": {"coordinates":[98.31013,7.99574],"type":"Point"}
+}

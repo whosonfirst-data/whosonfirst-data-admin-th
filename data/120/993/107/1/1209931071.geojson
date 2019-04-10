@@ -1,0 +1,70 @@
+{
+  "id": 1209931071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.38622,8.56517,99.38622,8.56517",
+    "geom:latitude":8.56517,
+    "geom:longitude":99.38622,
+    "gn:admin1_code":"60.0",
+    "gn:asciiname":"Ban Khlong Lam Phla",
+    "gn:country_code":"TH",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8323808,
+    "gn:latitude":8.56517,
+    "gn:longitude":99.38622,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Ban Khlong Lam Phla",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e04\u0e25\u0e2d\u0e07\u0e25\u0e33\u0e1e\u0e25\u0e32"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678581,
+        1108802773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8323808
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"f5153ac3193d9fc425248cde9297d73c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802773,
+            "locality_id":1209931071,
+            "region_id":85678581
+        }
+    ],
+    "wof:id":1209931071,
+    "wof:lastmodified":1537705371,
+    "wof:name":"Ban Khlong Lam Phla",
+    "wof:parent_id":1108802773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.38622,
+    8.56517,
+    99.38622,
+    8.56517
+],
+  "geometry": {"coordinates":[99.38621999999999,8.56517],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259343329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.85,14.4,104.85,14.4",
+    "geom:latitude":14.4,
+    "geom:longitude":104.85,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Chong Poi",
+    "gn:country_code":"TH",
+    "gn:dem":243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1611085,
+    "gn:latitude":14.4,
+    "gn:longitude":104.85,
+    "gn:modification_date":"1994-04-06",
+    "gn:name":"Chong Poi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673071,
+        1108564643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1611085
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"084bc6cc1af6a9a8f2a1030745a62191",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564643,
+            "locality_id":1259343329,
+            "region_id":85673071
+        }
+    ],
+    "wof:id":1259343329,
+    "wof:lastmodified":1537057672,
+    "wof:name":"Chong Poi",
+    "wof:parent_id":1108564643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.85,
+    14.4,
+    104.85,
+    14.4
+],
+  "geometry": {"coordinates":[104.84999999999999,14.4],"type":"Point"}
+}

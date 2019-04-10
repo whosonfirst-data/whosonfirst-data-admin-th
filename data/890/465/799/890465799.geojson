@@ -1,0 +1,81 @@
+{
+  "id": 890465799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-11-10",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.72582,13.61972,100.72582,13.61972",
+    "geom:latitude":13.61972,
+    "geom:longitude":100.72582,
+    "gn:country":"TH",
+    "gn:fcode":"ADM2",
+    "gn:pop":0,
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Amphoe Bang Phli"
+    ],
+    "name:eng_x_variant":[
+        "Bang Phli"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e1a\u0e32\u0e07\u0e1e\u0e25\u0e35"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e32\u0e07\u0e1e\u0e25\u0e35"
+    ],
+    "name:unk_x_variant":[
+        "Bat Phli"
+    ],
+    "qs:name":"Amphoe Bang Phli",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":529,
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1619346,
+        "qs:id":1151819,
+        "wd:id":"Q475240",
+        "wk:page":"Bang Phli District"
+    },
+    "wof:country":"TH",
+    "wof:created":1469053534,
+    "wof:geomhash":"6cd8a8a0b45c056ee88a0026e707d3eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465799,
+            "region_id":85678765
+        }
+    ],
+    "wof:id":890465799,
+    "wof:lastmodified":1527736644,
+    "wof:name":"Amphoe Bang Phli",
+    "wof:parent_id":85678765,
+    "wof:placetype":"county",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.72582,
+    13.61972,
+    100.72582,
+    13.61972
+],
+  "geometry": {"coordinates":[100.72582,13.61972],"type":"Point"}
+}

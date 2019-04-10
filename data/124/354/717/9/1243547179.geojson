@@ -1,0 +1,73 @@
+{
+  "id": 1243547179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.88347,18.49539,98.88347,18.49539",
+    "geom:latitude":18.49539,
+    "geom:longitude":98.88347,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ban Rong Ha",
+    "gn:country_code":"TH",
+    "gn:dem":287,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1119989,
+    "gn:latitude":18.49539,
+    "gn:longitude":98.88347,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Ban Rong Ha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e23\u0e48\u0e2d\u0e07\u0e2b\u0e49\u0e32"
+    ],
+    "name:und_x_variant":[
+        "Ban Hong Ha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678629,
+        890467343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1119989
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"ed7f8163d3e1c568575f54805dd4659d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890467343,
+            "locality_id":1243547179,
+            "region_id":85678629
+        }
+    ],
+    "wof:id":1243547179,
+    "wof:lastmodified":1537702995,
+    "wof:name":"Ban Rong Ha",
+    "wof:parent_id":890467343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.88347,
+    18.49539,
+    98.88347,
+    18.49539
+],
+  "geometry": {"coordinates":[98.88347,18.49539],"type":"Point"}
+}

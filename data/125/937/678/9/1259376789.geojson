@@ -1,0 +1,73 @@
+{
+  "id": 1259376789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.31842,17.71911,100.31842,17.71911",
+    "geom:latitude":17.71911,
+    "geom:longitude":100.31842,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Ban Samachik Phang Thi 25",
+    "gn:country_code":"TH",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8538248,
+    "gn:latitude":17.71911,
+    "gn:longitude":100.31842,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Ban Samachik Phang Thi 25",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2a\u0e21\u0e32\u0e0a\u0e34\u0e01\u0e1c\u0e31\u0e07\u0e17\u0e35\u0e48 \u0e22\u0e35\u0e48\u0e2a\u0e34\u0e1a\u0e2b\u0e49\u0e32"
+    ],
+    "name:und_x_variant":[
+        "Ban Samachik Phang Thi Yi Sip Ha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678657,
+        1108731981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8538248
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"3c9a2aca77f3b08eff06c4e50cb6ffd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731981,
+            "locality_id":1259376789,
+            "region_id":85678657
+        }
+    ],
+    "wof:id":1259376789,
+    "wof:lastmodified":1537705677,
+    "wof:name":"Ban Samachik Phang Thi 25",
+    "wof:parent_id":1108731981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.31842,
+    17.71911,
+    100.31842,
+    17.71911
+],
+  "geometry": {"coordinates":[100.31842,17.71911],"type":"Point"}
+}

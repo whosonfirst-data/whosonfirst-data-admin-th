@@ -1,0 +1,73 @@
+{
+  "id": 1310234335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.19014,14.4535,105.19014,14.4535",
+    "geom:latitude":14.4535,
+    "geom:longitude":105.19014,
+    "gn:admin1_code":"75.0",
+    "gn:asciiname":"Ban Kaeng Rueang",
+    "gn:country_code":"TH",
+    "gn:dem":167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1603028,
+    "gn:latitude":14.4535,
+    "gn:longitude":105.19014,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Ban Kaeng Rueang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e41\u0e01\u0e49\u0e07\u0e40\u0e23\u0e37\u0e2d\u0e07"
+    ],
+    "name:und_x_variant":[
+        "Ban Kaeng Ruang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678783,
+        890466259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1603028
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"5d14db261c51ca33df1b24c21f27b4c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466259,
+            "locality_id":1310234335,
+            "region_id":85678783
+        }
+    ],
+    "wof:id":1310234335,
+    "wof:lastmodified":1537703569,
+    "wof:name":"Ban Kaeng Rueang",
+    "wof:parent_id":890466259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.19014,
+    14.4535,
+    105.19014,
+    14.4535
+],
+  "geometry": {"coordinates":[105.19014,14.4535],"type":"Point"}
+}

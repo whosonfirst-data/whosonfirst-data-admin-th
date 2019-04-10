@@ -1,0 +1,70 @@
+{
+  "id": 1209591359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.81461,17.20333,101.81461,17.20333",
+    "geom:latitude":17.20333,
+    "geom:longitude":101.81461,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Khok Nong Kae",
+    "gn:country_code":"TH",
+    "gn:dem":310,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1600393,
+    "gn:latitude":17.20333,
+    "gn:longitude":101.81461,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Khok Nong Kae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "Ban Khok Nong Kae"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e42\u0e04\u0e01\u0e2b\u0e19\u0e2d\u0e07\u0e41\u0e01"
+    ],
+    "name:und_x_variant":[
+        "Ban Nong Kae"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1600393
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"232916746f7f82d72c61aef167f79cdb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632293,
+            "locality_id":1209591359
+        }
+    ],
+    "wof:id":1209591359,
+    "wof:lastmodified":1537703474,
+    "wof:name":"Ban Khok Nong Kae",
+    "wof:parent_id":85632293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.81461,
+    17.20333,
+    101.81461,
+    17.20333
+],
+  "geometry": {"coordinates":[101.81461,17.20333],"type":"Point"}
+}

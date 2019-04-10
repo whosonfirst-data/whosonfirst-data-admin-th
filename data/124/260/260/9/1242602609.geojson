@@ -1,0 +1,70 @@
+{
+  "id": 1242602609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.25761,9.17581,99.25761,9.17581",
+    "geom:latitude":9.17581,
+    "geom:longitude":99.25761,
+    "gn:admin1_code":"60.0",
+    "gn:asciiname":"Ban Tha Phun Thuean",
+    "gn:country_code":"TH",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8323684,
+    "gn:latitude":9.17581,
+    "gn:longitude":99.25761,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Ban Tha Phun Thuean",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e17\u0e48\u0e32\u0e1e\u0e39\u0e25\u0e40\u0e16\u0e37\u0e48\u0e2d\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678581,
+        890467241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8323684
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"0c796d6e760234d616017760ddc03c2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890467241,
+            "locality_id":1242602609,
+            "region_id":85678581
+        }
+    ],
+    "wof:id":1242602609,
+    "wof:lastmodified":1537705370,
+    "wof:name":"Ban Tha Phun Thuean",
+    "wof:parent_id":890467241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.25761,
+    9.17581,
+    99.25761,
+    9.17581
+],
+  "geometry": {"coordinates":[99.25761,9.17581],"type":"Point"}
+}

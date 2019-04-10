@@ -1,0 +1,67 @@
+{
+  "id": 1327117061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.87028,15.55139,99.87028,15.55139",
+    "geom:latitude":15.55139,
+    "geom:longitude":99.87028,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ban Sai",
+    "gn:country_code":"TH",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1117897,
+    "gn:latitude":15.55139,
+    "gn:longitude":99.87028,
+    "gn:modification_date":"2000-09-11",
+    "gn:name":"Ban Sai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678689,
+        1108731867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1117897
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"e706b76bd1c1483af26caea35f64dfd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731867,
+            "locality_id":1327117061,
+            "region_id":85678689
+        }
+    ],
+    "wof:id":1327117061,
+    "wof:lastmodified":1536637169,
+    "wof:name":"Ban Sai",
+    "wof:parent_id":1108731867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.87028,
+    15.55139,
+    99.87028,
+    15.55139
+],
+  "geometry": {"coordinates":[99.87027999999999,15.55139],"type":"Point"}
+}

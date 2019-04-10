@@ -1,0 +1,70 @@
+{
+  "id": 1226467509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.2105,6.82533,101.2105,6.82533",
+    "geom:latitude":6.82533,
+    "geom:longitude":101.2105,
+    "gn:admin1_code":"69.0",
+    "gn:asciiname":"Ban Paka Chino",
+    "gn:country_code":"TH",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1941149,
+    "gn:latitude":6.82533,
+    "gn:longitude":101.2105,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ban Paka Chino",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1b\u0e30\u0e01\u0e32\u0e08\u0e34\u0e19\u0e2d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678889,
+        1108731613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1941149
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"1a6c79d771a0e97a1724fefdbd07845b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731613,
+            "locality_id":1226467509,
+            "region_id":85678889
+        }
+    ],
+    "wof:id":1226467509,
+    "wof:lastmodified":1537704289,
+    "wof:name":"Ban Paka Chino",
+    "wof:parent_id":1108731613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.2105,
+    6.82533,
+    101.2105,
+    6.82533
+],
+  "geometry": {"coordinates":[101.2105,6.82533],"type":"Point"}
+}

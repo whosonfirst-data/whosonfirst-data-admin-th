@@ -1,0 +1,70 @@
+{
+  "id": 1243129187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.44872,15.86936,103.44872,15.86936",
+    "geom:latitude":15.86936,
+    "geom:longitude":103.44872,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Ban Non Khamin",
+    "gn:country_code":"TH",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8680003,
+    "gn:latitude":15.86936,
+    "gn:longitude":103.44872,
+    "gn:modification_date":"2014-01-18",
+    "gn:name":"Ban Non Khamin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e42\u0e19\u0e19\u0e02\u0e21\u0e34\u0e49\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678835,
+        890466293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8680003
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"cfc2409957cef06165cfe1f10f9dc93a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466293,
+            "locality_id":1243129187,
+            "region_id":85678835
+        }
+    ],
+    "wof:id":1243129187,
+    "wof:lastmodified":1537705841,
+    "wof:name":"Ban Non Khamin",
+    "wof:parent_id":890466293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.44872,
+    15.86936,
+    103.44872,
+    15.86936
+],
+  "geometry": {"coordinates":[103.44871999999999,15.86936],"type":"Point"}
+}

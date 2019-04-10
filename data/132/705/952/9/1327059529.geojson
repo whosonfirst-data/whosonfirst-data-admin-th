@@ -1,0 +1,70 @@
+{
+  "id": 1327059529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.45167,12.18758,102.45167,12.18758",
+    "geom:latitude":12.18758,
+    "geom:longitude":102.45167,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"Ban Nong Yai",
+    "gn:country_code":"TH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7929365,
+    "gn:latitude":12.18758,
+    "gn:longitude":102.45167,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Nong Yai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e19\u0e2d\u0e07\u0e43\u0e2b\u0e0d\u0e48"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678813,
+        1108731453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7929365
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"1dd630f9acc379b8d731f2fe76147506",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731453,
+            "locality_id":1327059529,
+            "region_id":85678813
+        }
+    ],
+    "wof:id":1327059529,
+    "wof:lastmodified":1537704899,
+    "wof:name":"Ban Nong Yai",
+    "wof:parent_id":1108731453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.45167,
+    12.18758,
+    102.45167,
+    12.18758
+],
+  "geometry": {"coordinates":[102.45166999999999,12.18758],"type":"Point"}
+}

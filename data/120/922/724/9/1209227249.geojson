@@ -1,0 +1,69 @@
+{
+  "id": 1209227249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.654,18.95375,98.654,18.95375",
+    "geom:latitude":18.95375,
+    "geom:longitude":98.654,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Ngio Thao Nuea",
+    "gn:country_code":"TH",
+    "gn:dem":703,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1155995,
+    "gn:latitude":18.95375,
+    "gn:longitude":98.654,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Ngio Thao Nuea",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e07\u0e34\u0e49\u0e27\u0e40\u0e12\u0e48\u0e32\u0e40\u0e2b\u0e19\u0e37\u0e2d"
+    ],
+    "name:und_x_variant":[
+        "Ban Ngiu Thao",
+        "Ban Ngiu Thao Mai",
+        "Ban Ngio Thao Nuea"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1155995
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"1695bdd285f530171244361c56933d75",
+    "wof:hierarchy":[
+        {
+            "country_id":85632293,
+            "locality_id":1209227249
+        }
+    ],
+    "wof:id":1209227249,
+    "wof:lastmodified":1537703158,
+    "wof:name":"Ban Ngio Thao Nuea",
+    "wof:parent_id":85632293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.654,
+    18.95375,
+    98.654,
+    18.95375
+],
+  "geometry": {"coordinates":[98.654,18.95375],"type":"Point"}
+}

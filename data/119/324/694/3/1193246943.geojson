@@ -1,0 +1,67 @@
+{
+  "id": 1193246943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.91667,16.63333,103.91667,16.63333",
+    "geom:latitude":16.63333,
+    "geom:longitude":103.91667,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Ban Huai Phung",
+    "gn:country_code":"TH",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1603318,
+    "gn:latitude":16.63333,
+    "gn:longitude":103.91667,
+    "gn:modification_date":"1994-04-10",
+    "gn:name":"Ban Huai Phung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678831,
+        1108731293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1603318
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"6af41cecaeac48b508d69600ca39d750",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731293,
+            "locality_id":1193246943,
+            "region_id":85678831
+        }
+    ],
+    "wof:id":1193246943,
+    "wof:lastmodified":1536372330,
+    "wof:name":"Ban Huai Phung",
+    "wof:parent_id":1108731293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.91667,
+    16.63332999999999,
+    103.91667,
+    16.63332999999999
+],
+  "geometry": {"coordinates":[103.91667,16.63332999999999],"type":"Point"}
+}

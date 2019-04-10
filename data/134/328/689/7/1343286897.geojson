@@ -1,0 +1,70 @@
+{
+  "id": 1343286897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.32314,15.49236,104.32314,15.49236",
+    "geom:latitude":15.49236,
+    "geom:longitude":104.32314,
+    "gn:admin1_code":"72.0",
+    "gn:asciiname":"Ban Muang",
+    "gn:country_code":"TH",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1616613,
+    "gn:latitude":15.49236,
+    "gn:longitude":104.32314,
+    "gn:modification_date":"2014-01-08",
+    "gn:name":"Ban Muang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e21\u0e48\u0e27\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678791,
+        1108731515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1616613
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"1644a6529816e01fd3f31d74b790a2bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731515,
+            "locality_id":1343286897,
+            "region_id":85678791
+        }
+    ],
+    "wof:id":1343286897,
+    "wof:lastmodified":1537703993,
+    "wof:name":"Ban Muang",
+    "wof:parent_id":1108731515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.32314,
+    15.49236,
+    104.32314,
+    15.49236
+],
+  "geometry": {"coordinates":[104.32314,15.49236],"type":"Point"}
+}

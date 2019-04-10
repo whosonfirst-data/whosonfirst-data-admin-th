@@ -1,0 +1,82 @@
+{
+  "id": 890466007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.58836,14.06417,100.58836,14.06417",
+    "geom:latitude":14.06417,
+    "geom:longitude":100.58836,
+    "gn:country":"TH",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424960,
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "Ban Bang Phut"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1a\u0e32\u0e07\u0e1e\u0e39\u0e14"
+    ],
+    "name:unk_x_variant":[
+        "Ban Bang Pud"
+    ],
+    "qs:name":"Ban Bang Phut (3)",
+    "qs:name_adm0":"Thailand",
+    "qs:name_adm1":"Pathum Thani",
+    "qs:photos":129,
+    "qs:photos_1k":26,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":129,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678725,
+        890466085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1620682,
+        "gp:id":1200924,
+        "qs:id":1205910
+    },
+    "wof:country":"TH",
+    "wof:created":1469053561,
+    "wof:geomhash":"12bc56e68ea71c348d185cc2a81efa85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466085,
+            "locality_id":890466007,
+            "region_id":85678725
+        }
+    ],
+    "wof:id":890466007,
+    "wof:lastmodified":1505343706,
+    "wof:name":"Ban Bang Phut (3)",
+    "wof:parent_id":890466085,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.58836,
+    14.06417,
+    100.58836,
+    14.06417
+],
+  "geometry": {"coordinates":[100.58835999999999,14.06417],"type":"Point"}
+}

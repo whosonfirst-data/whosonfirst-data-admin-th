@@ -1,0 +1,74 @@
+{
+  "id": 1310222047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.54564,15.39731,105.54564,15.39731",
+    "geom:latitude":15.39731,
+    "geom:longitude":105.54564,
+    "gn:admin1_code":"75.0",
+    "gn:asciiname":"Ban Ta Mui",
+    "gn:country_code":"TH",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1612934,
+    "gn:latitude":15.39731,
+    "gn:longitude":105.54564,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Ban Ta Mui",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e15\u0e32\u0e21\u0e38\u0e22"
+    ],
+    "name:und_x_variant":[
+        "Ban Tha Mui",
+        "Ban Ta Mui"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678783,
+        890467233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1612934
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"7d863e653f54a3ab730168ddd01dbca9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890467233,
+            "locality_id":1310222047,
+            "region_id":85678783
+        }
+    ],
+    "wof:id":1310222047,
+    "wof:lastmodified":1537703737,
+    "wof:name":"Ban Ta Mui",
+    "wof:parent_id":890467233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.54564,
+    15.39731,
+    105.54564,
+    15.39731
+],
+  "geometry": {"coordinates":[105.54564000000001,15.39731],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343974891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.09731,7.40075,100.09731,7.40075",
+    "geom:latitude":7.40075,
+    "geom:longitude":100.09731,
+    "gn:admin1_code":"66.0",
+    "gn:asciiname":"Ban Khok Ya",
+    "gn:country_code":"TH",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1602206,
+    "gn:latitude":7.40075,
+    "gn:longitude":100.09731,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Ban Khok Ya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e42\u0e04\u0e01\u0e22\u0e32"
+    ],
+    "name:und_x_variant":[
+        "Ban Khuan Khok Ya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678591,
+        1108731359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1602206
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"be57d7870b4b55c0f63d8259fde26906",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731359,
+            "locality_id":1343974891,
+            "region_id":85678591
+        }
+    ],
+    "wof:id":1343974891,
+    "wof:lastmodified":1537703537,
+    "wof:name":"Ban Khok Ya",
+    "wof:parent_id":1108731359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.09731,
+    7.40075,
+    100.09731,
+    7.40075
+],
+  "geometry": {"coordinates":[100.09730999999999,7.40075],"type":"Point"}
+}

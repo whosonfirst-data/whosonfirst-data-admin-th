@@ -1,0 +1,73 @@
+{
+  "id": 1344108017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.39269,15.59275,102.39269,15.59275",
+    "geom:latitude":15.59275,
+    "geom:longitude":102.39269,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Ban Taluk Yang",
+    "gn:country_code":"TH",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1616910,
+    "gn:latitude":15.59275,
+    "gn:longitude":102.39269,
+    "gn:modification_date":"2014-06-04",
+    "gn:name":"Ban Taluk Yang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e15\u0e25\u0e38\u0e01\u0e22\u0e32\u0e07"
+    ],
+    "name:und_x_variant":[
+        "Ban Lung Yang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678841,
+        1108731197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1616910
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"325e8841ff1772f42ae9428553f59f0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731197,
+            "locality_id":1344108017,
+            "region_id":85678841
+        }
+    ],
+    "wof:id":1344108017,
+    "wof:lastmodified":1537704013,
+    "wof:name":"Ban Taluk Yang",
+    "wof:parent_id":1108731197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.39269,
+    15.59275,
+    102.39269,
+    15.59275
+],
+  "geometry": {"coordinates":[102.39269,15.59275],"type":"Point"}
+}

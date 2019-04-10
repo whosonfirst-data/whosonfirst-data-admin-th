@@ -1,0 +1,64 @@
+{
+  "id": 1209640251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.99561,12.83158,101.99561,12.83158",
+    "geom:latitude":12.83158,
+    "geom:longitude":101.99561,
+    "gn:admin1_code":"48.0",
+    "gn:asciiname":"Ban Krathing",
+    "gn:country_code":"TH",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7912556,
+    "gn:latitude":12.83158,
+    "gn:longitude":101.99561,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Krathing",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e01\u0e23\u0e30\u0e17\u0e34\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7912556
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"965082cc66f8aac7edd8515bef2eddc3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632293,
+            "locality_id":1209640251
+        }
+    ],
+    "wof:id":1209640251,
+    "wof:lastmodified":1537704858,
+    "wof:name":"Ban Krathing",
+    "wof:parent_id":85632293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.99561,
+    12.83158,
+    101.99561,
+    12.83158
+],
+  "geometry": {"coordinates":[101.99561,12.83158],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1259935481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.38892,16.026,103.38892,16.026",
+    "geom:latitude":16.026,
+    "geom:longitude":103.38892,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Ban Kae Dam Klang",
+    "gn:country_code":"TH",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8731125,
+    "gn:latitude":16.026,
+    "gn:longitude":103.38892,
+    "gn:modification_date":"2014-03-12",
+    "gn:name":"Ban Kae Dam Klang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e41\u0e01\u0e14\u0e33\u0e01\u0e25\u0e32\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678835,
+        1108731307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8731125
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"b71dc5dd8283657fa8a22577baa291b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731307,
+            "locality_id":1259935481,
+            "region_id":85678835
+        }
+    ],
+    "wof:id":1259935481,
+    "wof:lastmodified":1537705980,
+    "wof:name":"Ban Kae Dam Klang",
+    "wof:parent_id":1108731307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.38892,
+    16.026,
+    103.38892,
+    16.026
+],
+  "geometry": {"coordinates":[103.38892,16.026],"type":"Point"}
+}

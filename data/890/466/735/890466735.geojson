@@ -1,0 +1,82 @@
+{
+  "id": 890466735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.48611,13.97486,99.48611,13.97486",
+    "geom:latitude":13.97486,
+    "geom:longitude":99.48611,
+    "gn:country":"TH",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424960,
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e01\u0e32\u0e30\u0e2a\u0e33\u0e42\u0e23\u0e07"
+    ],
+    "name:unk_x_variant":[
+        "Kau Sam Rong"
+    ],
+    "qs:name":"Ban Ko Samrong",
+    "qs:name_adm0":"Thailand",
+    "qs:name_adm1":"Kanchanaburi",
+    "qs:photos":399,
+    "qs:photos_1k":81,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":399,
+    "qs:photos_sr":6,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":382,
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678663,
+        1108802667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1156793,
+        "gp:id":1208511,
+        "qs:id":1040075,
+        "wd:id":"Q475728",
+        "wk:page":"Khok Samrong District"
+    },
+    "wof:country":"TH",
+    "wof:created":1469053591,
+    "wof:geomhash":"03c1b463c0061a2c6bdf71e5d9f89010",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802667,
+            "locality_id":890466735,
+            "region_id":85678663
+        }
+    ],
+    "wof:id":890466735,
+    "wof:lastmodified":1527793014,
+    "wof:name":"Ban Ko Samrong",
+    "wof:parent_id":1108802667,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.48611,
+    13.97486,
+    99.48611,
+    13.97486
+],
+  "geometry": {"coordinates":[99.48611,13.97486],"type":"Point"}
+}

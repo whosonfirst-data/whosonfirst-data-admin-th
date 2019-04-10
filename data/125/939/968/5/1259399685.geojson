@@ -1,0 +1,70 @@
+{
+  "id": 1259399685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.26761,6.85581,101.26761,6.85581",
+    "geom:latitude":6.85581,
+    "geom:longitude":101.26761,
+    "gn:admin1_code":"69.0",
+    "gn:asciiname":"Ban Bae Ro Khu Waeng",
+    "gn:country_code":"TH",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7881220,
+    "gn:latitude":6.85581,
+    "gn:longitude":101.26761,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Bae Ro Khu Waeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e41\u0e1a\u0e23\u0e2d\u0e04\u0e39\u0e41\u0e27\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678889,
+        890466133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7881220
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"0aa965e8fb4fb3e3cf94e72dc0491a66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466133,
+            "locality_id":1259399685,
+            "region_id":85678889
+        }
+    ],
+    "wof:id":1259399685,
+    "wof:lastmodified":1537704809,
+    "wof:name":"Ban Bae Ro Khu Waeng",
+    "wof:parent_id":890466133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.26761,
+    6.85581,
+    101.26761,
+    6.85581
+],
+  "geometry": {"coordinates":[101.26761,6.85581],"type":"Point"}
+}

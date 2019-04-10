@@ -1,0 +1,70 @@
+{
+  "id": 1310526409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.54025,6.58964,101.54025,6.58964",
+    "geom:latitude":6.58964,
+    "geom:longitude":101.54025,
+    "gn:admin1_code":"69.0",
+    "gn:asciiname":"Ban Kampong Bue Nae",
+    "gn:country_code":"TH",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7882873,
+    "gn:latitude":6.58964,
+    "gn:longitude":101.54025,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Kampong Bue Nae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e01\u0e33\u0e1b\u0e07\u0e1a\u0e37\u0e2d\u0e41\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678889,
+        1108731301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7882873
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"0ccfe0d0c75b13e92677c1621d557268",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731301,
+            "locality_id":1310526409,
+            "region_id":85678889
+        }
+    ],
+    "wof:id":1310526409,
+    "wof:lastmodified":1537704832,
+    "wof:name":"Ban Kampong Bue Nae",
+    "wof:parent_id":1108731301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.54025,
+    6.58964,
+    101.54025,
+    6.58964
+],
+  "geometry": {"coordinates":[101.54025,6.58964],"type":"Point"}
+}

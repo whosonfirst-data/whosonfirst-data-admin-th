@@ -1,0 +1,70 @@
+{
+  "id": 1260130871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.36111,15.65831,102.36111,15.65831",
+    "geom:latitude":15.65831,
+    "geom:longitude":102.36111,
+    "gn:admin1_code":"27",
+    "gn:asciiname":"Ban Don Khon Tha",
+    "gn:country_code":"TH",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9106461,
+    "gn:latitude":15.65831,
+    "gn:longitude":102.36111,
+    "gn:modification_date":"2014-06-07",
+    "gn:name":"Ban Don Khon Tha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e14\u0e2d\u0e19\u0e04\u0e19\u0e17\u0e32"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678841,
+        1108731197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9106461
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"38a70797a4d23d4c6ea98ec52352a76e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731197,
+            "locality_id":1260130871,
+            "region_id":85678841
+        }
+    ],
+    "wof:id":1260130871,
+    "wof:lastmodified":1537706160,
+    "wof:name":"Ban Don Khon Tha",
+    "wof:parent_id":1108731197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.36111,
+    15.65831,
+    102.36111,
+    15.65831
+],
+  "geometry": {"coordinates":[102.36111,15.65831],"type":"Point"}
+}

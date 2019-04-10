@@ -1,0 +1,70 @@
+{
+  "id": 1242928371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.52125,16.03525,103.52125,16.03525",
+    "geom:latitude":16.03525,
+    "geom:longitude":103.52125,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Ban Nong Sang",
+    "gn:country_code":"TH",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8683057,
+    "gn:latitude":16.03525,
+    "gn:longitude":103.52125,
+    "gn:modification_date":"2014-01-18",
+    "gn:name":"Ban Nong Sang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e19\u0e2d\u0e07\u0e2a\u0e31\u0e07\u0e02\u0e4c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678845,
+        1108731903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8683057
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"5f6e5a3d93db9a17ae1736b173eab55f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731903,
+            "locality_id":1242928371,
+            "region_id":85678845
+        }
+    ],
+    "wof:id":1242928371,
+    "wof:lastmodified":1537705874,
+    "wof:name":"Ban Nong Sang",
+    "wof:parent_id":1108731903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.52125,
+    16.03525,
+    103.52125,
+    16.03525
+],
+  "geometry": {"coordinates":[103.52124999999999,16.03525],"type":"Point"}
+}

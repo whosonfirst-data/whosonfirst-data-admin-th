@@ -1,0 +1,75 @@
+{
+  "id": 1310261767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.67839,15.72897,103.67839,15.72897",
+    "geom:latitude":15.72897,
+    "geom:longitude":103.67839,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Ban Dong Man",
+    "gn:country_code":"TH",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1619913,
+    "gn:latitude":15.72897,
+    "gn:longitude":103.67839,
+    "gn:modification_date":"2014-01-08",
+    "gn:name":"Ban Dong Man",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e14\u0e07\u0e21\u0e31\u0e19"
+    ],
+    "name:und_x_variant":[
+        "Dong Nan",
+        "Ban Dong Nan",
+        "Ban Dong Man"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678845,
+        1108731341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1619913
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"3f992a11aee444ec33bad615c3a596eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731341,
+            "locality_id":1310261767,
+            "region_id":85678845
+        }
+    ],
+    "wof:id":1310261767,
+    "wof:lastmodified":1537704194,
+    "wof:name":"Ban Dong Man",
+    "wof:parent_id":1108731341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.67839,
+    15.72897,
+    103.67839,
+    15.72897
+],
+  "geometry": {"coordinates":[103.67838999999999,15.72897],"type":"Point"}
+}

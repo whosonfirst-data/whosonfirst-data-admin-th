@@ -1,0 +1,70 @@
+{
+  "id": 1260315905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.68506,6.80328,100.68506,6.80328",
+    "geom:latitude":6.80328,
+    "geom:longitude":100.68506,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Ban Pa Lamai Tok",
+    "gn:country_code":"TH",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7096253,
+    "gn:latitude":6.80328,
+    "gn:longitude":100.68506,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Pa Lamai Tok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1b\u0e48\u0e32\u0e25\u0e30\u0e44\u0e21\u0e15\u0e01"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678603,
+        1108731225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7096253
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"9388e9a46c1a0c78874b108e3cf08f3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731225,
+            "locality_id":1260315905,
+            "region_id":85678603
+        }
+    ],
+    "wof:id":1260315905,
+    "wof:lastmodified":1537704429,
+    "wof:name":"Ban Pa Lamai Tok",
+    "wof:parent_id":1108731225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.68506,
+    6.80328,
+    100.68506,
+    6.80328
+],
+  "geometry": {"coordinates":[100.68505999999999,6.80328],"type":"Point"}
+}

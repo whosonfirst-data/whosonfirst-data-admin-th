@@ -1,0 +1,74 @@
+{
+  "id": 1293900421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.33517,14.0355,101.33517,14.0355",
+    "geom:latitude":14.0355,
+    "geom:longitude":101.33517,
+    "gn:admin1_code":"74.0",
+    "gn:asciiname":"Ban Wat Bot",
+    "gn:country_code":"TH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1611798,
+    "gn:latitude":14.0355,
+    "gn:longitude":101.33517,
+    "gn:modification_date":"2014-04-05",
+    "gn:name":"Ban Wat Bot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e27\u0e31\u0e14\u0e42\u0e1a\u0e2a\u0e16\u0e4c"
+    ],
+    "name:und_x_variant":[
+        "Wat Bot",
+        "Ban Wat Bot"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678711,
+        890466781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1611798
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"c5e5cddb0a5717c6375e833a967038b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466781,
+            "locality_id":1293900421,
+            "region_id":85678711
+        }
+    ],
+    "wof:id":1293900421,
+    "wof:lastmodified":1537703659,
+    "wof:name":"Ban Wat Bot",
+    "wof:parent_id":890466781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.33517,
+    14.0355,
+    101.33517,
+    14.0355
+],
+  "geometry": {"coordinates":[101.33517000000001,14.0355],"type":"Point"}
+}

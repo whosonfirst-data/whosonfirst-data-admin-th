@@ -1,0 +1,74 @@
+{
+  "id": 1260200065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.92983,8.65739,99.92983,8.65739",
+    "geom:latitude":8.65739,
+    "geom:longitude":99.92983,
+    "gn:admin1_code":"64.0",
+    "gn:asciiname":"Ban Tha Sung",
+    "gn:country_code":"TH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1154411,
+    "gn:latitude":8.65739,
+    "gn:longitude":99.92983,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Ban Tha Sung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e17\u0e48\u0e32\u0e2a\u0e39\u0e07"
+    ],
+    "name:und_x_variant":[
+        "Ban Tha Sup",
+        "Ban Tha Sung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678565,
+        890467405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1154411
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"fd60d0e21437b05a01cf56aa74335671",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890467405,
+            "locality_id":1260200065,
+            "region_id":85678565
+        }
+    ],
+    "wof:id":1260200065,
+    "wof:lastmodified":1537703044,
+    "wof:name":"Ban Tha Sung",
+    "wof:parent_id":890467405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.92983,
+    8.65739,
+    99.92983,
+    8.65739
+],
+  "geometry": {"coordinates":[99.92983,8.65739],"type":"Point"}
+}

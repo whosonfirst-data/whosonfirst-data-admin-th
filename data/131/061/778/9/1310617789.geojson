@@ -1,0 +1,70 @@
+{
+  "id": 1310617789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.10394,9.71858,99.10394,9.71858",
+    "geom:latitude":9.71858,
+    "geom:longitude":99.10394,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Ban Suan Sombun",
+    "gn:country_code":"TH",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8234099,
+    "gn:latitude":9.71858,
+    "gn:longitude":99.10394,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Ban Suan Sombun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2a\u0e27\u0e19\u0e2a\u0e21\u0e1a\u0e39\u0e23\u0e13\u0e4c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678559,
+        890466753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8234099
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"dd4d2d2f1edc940af26452a6b6aebd5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466753,
+            "locality_id":1310617789,
+            "region_id":85678559
+        }
+    ],
+    "wof:id":1310617789,
+    "wof:lastmodified":1537705197,
+    "wof:name":"Ban Suan Sombun",
+    "wof:parent_id":890466753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.10394,
+    9.71858,
+    99.10394,
+    9.71858
+],
+  "geometry": {"coordinates":[99.10393999999999,9.71858],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243399009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.72914,6.25792,101.72914,6.25792",
+    "geom:latitude":6.25792,
+    "geom:longitude":101.72914,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Ban Bu Ke Bu Yae",
+    "gn:country_code":"TH",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7463096,
+    "gn:latitude":6.25792,
+    "gn:longitude":101.72914,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Bu Ke Bu Yae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1a\u0e39\u0e40\u0e01\u0e4a\u0e30\u0e1a\u0e39\u0e41\u0e22"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678885,
+        1108731793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7463096
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"3e97af6b7825c346742e515f1fed4565",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731793,
+            "locality_id":1243399009,
+            "region_id":85678885
+        }
+    ],
+    "wof:id":1243399009,
+    "wof:lastmodified":1537704500,
+    "wof:name":"Ban Bu Ke Bu Yae",
+    "wof:parent_id":1108731793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.72914,
+    6.25792,
+    101.72914,
+    6.25792
+],
+  "geometry": {"coordinates":[101.72914,6.25792],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1343465453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.87011,20.03417,99.87011,20.03417",
+    "geom:latitude":20.03417,
+    "geom:longitude":99.87011,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ban Pa Sang Wiwat",
+    "gn:country_code":"TH",
+    "gn:dem":405,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1463893,
+    "gn:latitude":20.03417,
+    "gn:longitude":99.87011,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ban Pa Sang Wiwat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1b\u0e48\u0e32\u0e0b\u0e32\u0e07\u0e27\u0e34\u0e27\u0e31\u0e12\u0e19\u0e4c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678617,
+        890466017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1463893
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"626364068233071c12a01115f6a417ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466017,
+            "locality_id":1343465453,
+            "region_id":85678617
+        }
+    ],
+    "wof:id":1343465453,
+    "wof:lastmodified":1537703344,
+    "wof:name":"Ban Pa Sang Wiwat",
+    "wof:parent_id":890466017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.87011,
+    20.03417,
+    99.87011,
+    20.03417
+],
+  "geometry": {"coordinates":[99.87011,20.03417],"type":"Point"}
+}

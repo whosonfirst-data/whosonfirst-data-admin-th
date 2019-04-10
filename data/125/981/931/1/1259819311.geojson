@@ -1,0 +1,67 @@
+{
+  "id": 1259819311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.58333,17.55,104.58333,17.55",
+    "geom:latitude":17.55,
+    "geom:longitude":104.58333,
+    "gn:admin1_code":"73.0",
+    "gn:asciiname":"Ban Khan",
+    "gn:country_code":"TH",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1618507,
+    "gn:latitude":17.55,
+    "gn:longitude":104.58333,
+    "gn:modification_date":"1994-04-06",
+    "gn:name":"Ban Khan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678879,
+        1108731993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1618507
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"35e0930c3b930bd6a5711e41e5d6c32b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731993,
+            "locality_id":1259819311,
+            "region_id":85678879
+        }
+    ],
+    "wof:id":1259819311,
+    "wof:lastmodified":1536870600,
+    "wof:name":"Ban Khan",
+    "wof:parent_id":1108731993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.58333,
+    17.55,
+    104.58333,
+    17.55
+],
+  "geometry": {"coordinates":[104.58333,17.55],"type":"Point"}
+}

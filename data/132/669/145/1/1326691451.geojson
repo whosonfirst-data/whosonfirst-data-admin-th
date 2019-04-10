@@ -1,0 +1,70 @@
+{
+  "id": 1326691451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.04969,15.211,103.04969,15.211",
+    "geom:latitude":15.211,
+    "geom:longitude":103.04969,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Ban Thawon",
+    "gn:country_code":"TH",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9283609,
+    "gn:latitude":15.211,
+    "gn:longitude":103.04969,
+    "gn:modification_date":"2014-08-07",
+    "gn:name":"Ban Thawon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e16\u0e32\u0e27\u0e23"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678817,
+        1108802627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9283609
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"e9c72e4e34177490db2b046ee40b3e0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802627,
+            "locality_id":1326691451,
+            "region_id":85678817
+        }
+    ],
+    "wof:id":1326691451,
+    "wof:lastmodified":1537706254,
+    "wof:name":"Ban Thawon",
+    "wof:parent_id":1108802627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.04969,
+    15.211,
+    103.04969,
+    15.211
+],
+  "geometry": {"coordinates":[103.04969,15.211],"type":"Point"}
+}

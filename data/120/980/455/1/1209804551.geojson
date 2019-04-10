@@ -1,0 +1,75 @@
+{
+  "id": 1209804551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.39861,17.1365,99.39861,17.1365",
+    "geom:latitude":17.1365,
+    "geom:longitude":99.39861,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ban Taling Chan",
+    "gn:country_code":"TH",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1154661,
+    "gn:latitude":17.1365,
+    "gn:longitude":99.39861,
+    "gn:modification_date":"2012-11-07",
+    "gn:name":"Ban Taling Chan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e15\u0e25\u0e34\u0e48\u0e07\u0e0a\u0e31\u0e19"
+    ],
+    "name:und_x_variant":[
+        "Taling Chan",
+        "Talingjan",
+        "Ban Taling Chan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678651,
+        1108802561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1154661
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"1f3f942ca0632f2ab55912c97691f72c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802561,
+            "locality_id":1209804551,
+            "region_id":85678651
+        }
+    ],
+    "wof:id":1209804551,
+    "wof:lastmodified":1537703062,
+    "wof:name":"Ban Taling Chan",
+    "wof:parent_id":1108802561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.39861,
+    17.1365,
+    99.39861,
+    17.1365
+],
+  "geometry": {"coordinates":[99.39861000000001,17.1365],"type":"Point"}
+}

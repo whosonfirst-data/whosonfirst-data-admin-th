@@ -1,0 +1,70 @@
+{
+  "id": 1360314871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.82672,9.82256,98.82672,9.82256",
+    "geom:latitude":9.82256,
+    "geom:longitude":98.82672,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Ban Si Samut",
+    "gn:country_code":"TH",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8233996,
+    "gn:latitude":9.82256,
+    "gn:longitude":98.82672,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Ban Si Samut",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e28\u0e23\u0e35\u0e2a\u0e21\u0e38\u0e17\u0e23"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678559,
+        890466695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8233996
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"a34e5fb74a4b229af77fada2f332097f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466695,
+            "locality_id":1360314871,
+            "region_id":85678559
+        }
+    ],
+    "wof:id":1360314871,
+    "wof:lastmodified":1537705195,
+    "wof:name":"Ban Si Samut",
+    "wof:parent_id":890466695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.82672,
+    9.82256,
+    98.82672,
+    9.82256
+],
+  "geometry": {"coordinates":[98.82671999999999,9.82256],"type":"Point"}
+}

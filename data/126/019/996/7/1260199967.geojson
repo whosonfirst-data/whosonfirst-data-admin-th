@@ -1,0 +1,75 @@
+{
+  "id": 1260199967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.95947,13.14594,100.95947,13.14594",
+    "geom:latitude":13.14594,
+    "geom:longitude":100.95947,
+    "gn:admin1_code":"46.0",
+    "gn:asciiname":"Ban Sak Kho",
+    "gn:country_code":"TH",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1620317,
+    "gn:latitude":13.14594,
+    "gn:longitude":100.95947,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Sak Kho",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e0b\u0e32\u0e01\u0e04\u0e49\u0e2d"
+    ],
+    "name:und_x_variant":[
+        "Ban Khak Kho",
+        "Ban Sak Kho",
+        "Ban Chak Kho"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678795,
+        890466231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1620317
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"afe5a9b7a6c6d3f25b596f0f5d2e3a0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466231,
+            "locality_id":1260199967,
+            "region_id":85678795
+        }
+    ],
+    "wof:id":1260199967,
+    "wof:lastmodified":1537704221,
+    "wof:name":"Ban Sak Kho",
+    "wof:parent_id":890466231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.95947,
+    13.14594,
+    100.95947,
+    13.14594
+],
+  "geometry": {"coordinates":[100.95947,13.14594],"type":"Point"}
+}

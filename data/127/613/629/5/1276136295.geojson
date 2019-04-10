@@ -1,0 +1,70 @@
+{
+  "id": 1276136295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.94272,19.10667,99.94272,19.10667",
+    "geom:latitude":19.10667,
+    "geom:longitude":99.94272,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Ban Dao Rueang",
+    "gn:country_code":"TH",
+    "gn:dem":410,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8332128,
+    "gn:latitude":19.10667,
+    "gn:longitude":99.94272,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Ban Dao Rueang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e14\u0e32\u0e27\u0e40\u0e23\u0e37\u0e2d\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678637,
+        890467463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8332128
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"8b8780908806d9f9fe0c82465cd26ceb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890467463,
+            "locality_id":1276136295,
+            "region_id":85678637
+        }
+    ],
+    "wof:id":1276136295,
+    "wof:lastmodified":1537705402,
+    "wof:name":"Ban Dao Rueang",
+    "wof:parent_id":890467463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.94272,
+    19.10667,
+    99.94272,
+    19.10667
+],
+  "geometry": {"coordinates":[99.94271999999999,19.10667],"type":"Point"}
+}

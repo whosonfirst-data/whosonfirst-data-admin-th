@@ -1,0 +1,70 @@
+{
+  "id": 1310683081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.38589,15.71322,100.38589,15.71322",
+    "geom:latitude":15.71322,
+    "geom:longitude":100.38589,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ban Dai Maruen",
+    "gn:country_code":"TH",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8344497,
+    "gn:latitude":15.71322,
+    "gn:longitude":100.38589,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Ban Dai Maruen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e44\u0e14\u0e21\u0e30\u0e23\u0e37\u0e48\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678715,
+        1108731989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8344497
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"c45b0031a9ceecbb36927fa44c84b8aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731989,
+            "locality_id":1310683081,
+            "region_id":85678715
+        }
+    ],
+    "wof:id":1310683081,
+    "wof:lastmodified":1537705465,
+    "wof:name":"Ban Dai Maruen",
+    "wof:parent_id":1108731989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.38589,
+    15.71322,
+    100.38589,
+    15.71322
+],
+  "geometry": {"coordinates":[100.38589,15.71322],"type":"Point"}
+}

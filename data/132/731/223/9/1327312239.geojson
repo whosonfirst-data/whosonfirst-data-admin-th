@@ -1,0 +1,75 @@
+{
+  "id": 1327312239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.13261,17.71394,100.13261,17.71394",
+    "geom:latitude":17.71394,
+    "geom:longitude":100.13261,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Ban Mon",
+    "gn:country_code":"TH",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1616643,
+    "gn:latitude":17.71394,
+    "gn:longitude":100.13261,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Mon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e21\u0e48\u0e2d\u0e19"
+    ],
+    "name:und_x_variant":[
+        "B\u0101n Maun",
+        "B\u0101n Maun Mai",
+        "Ban Mon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678657,
+        890466775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1616643
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"7effc6eae4a0235c367281f2e5a12c19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466775,
+            "locality_id":1327312239,
+            "region_id":85678657
+        }
+    ],
+    "wof:id":1327312239,
+    "wof:lastmodified":1537703994,
+    "wof:name":"Ban Mon",
+    "wof:parent_id":890466775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.13261,
+    17.71394,
+    100.13261,
+    17.71394
+],
+  "geometry": {"coordinates":[100.13261,17.71394],"type":"Point"}
+}

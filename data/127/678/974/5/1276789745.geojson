@@ -1,0 +1,70 @@
+{
+  "id": 1276789745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.51947,12.49814,102.51947,12.49814",
+    "geom:latitude":12.49814,
+    "geom:longitude":102.51947,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"Ban Thung Ta Lam",
+    "gn:country_code":"TH",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7926107,
+    "gn:latitude":12.49814,
+    "gn:longitude":102.51947,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Thung Ta Lam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e17\u0e38\u0e48\u0e07\u0e15\u0e32\u0e25\u0e49\u0e32\u0e21"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678813,
+        1108731367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7926107
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"aa063794027d3a01dcb8575b458c223f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731367,
+            "locality_id":1276789745,
+            "region_id":85678813
+        }
+    ],
+    "wof:id":1276789745,
+    "wof:lastmodified":1537704897,
+    "wof:name":"Ban Thung Ta Lam",
+    "wof:parent_id":1108731367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.51947,
+    12.49814,
+    102.51947,
+    12.49814
+],
+  "geometry": {"coordinates":[102.51947,12.49814],"type":"Point"}
+}

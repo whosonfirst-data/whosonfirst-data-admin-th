@@ -1,0 +1,70 @@
+{
+  "id": 1226498429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.69236,16.30753,103.69236,16.30753",
+    "geom:latitude":16.30753,
+    "geom:longitude":103.69236,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Ban Sap Charoen",
+    "gn:country_code":"TH",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8653902,
+    "gn:latitude":16.30753,
+    "gn:longitude":103.69236,
+    "gn:modification_date":"2013-12-17",
+    "gn:name":"Ban Sap Charoen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e17\u0e23\u0e31\u0e1e\u0e22\u0e4c\u0e40\u0e08\u0e23\u0e34\u0e0d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678831,
+        1108731319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8653902
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"e372b1d6e08c20c4ca84ff268812f41b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731319,
+            "locality_id":1226498429,
+            "region_id":85678831
+        }
+    ],
+    "wof:id":1226498429,
+    "wof:lastmodified":1537705775,
+    "wof:name":"Ban Sap Charoen",
+    "wof:parent_id":1108731319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.69236,
+    16.30753,
+    103.69236,
+    16.30753
+],
+  "geometry": {"coordinates":[103.69235999999999,16.30753],"type":"Point"}
+}

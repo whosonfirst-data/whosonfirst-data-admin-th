@@ -1,0 +1,67 @@
+{
+  "id": 1276628257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.1,16.56667,101.1,16.56667",
+    "geom:latitude":16.56667,
+    "geom:longitude":101.1,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ban Pa Tan",
+    "gn:country_code":"TH",
+    "gn:dem":418,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1599176,
+    "gn:latitude":16.56667,
+    "gn:longitude":101.1,
+    "gn:modification_date":"1994-04-10",
+    "gn:name":"Ban Pa Tan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678673,
+        1108731361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1599176
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"d1a74100cd4b9942c6677724b6b7017a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731361,
+            "locality_id":1276628257,
+            "region_id":85678673
+        }
+    ],
+    "wof:id":1276628257,
+    "wof:lastmodified":1536880216,
+    "wof:name":"Ban Pa Tan",
+    "wof:parent_id":1108731361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.1,
+    16.56667,
+    101.1,
+    16.56667
+],
+  "geometry": {"coordinates":[101.09999999999999,16.56667],"type":"Point"}
+}

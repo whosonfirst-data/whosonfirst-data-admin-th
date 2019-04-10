@@ -1,0 +1,73 @@
+{
+  "id": 1343263901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.87206,18.56136,98.87206,18.56136",
+    "geom:latitude":18.56136,
+    "geom:longitude":98.87206,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Thung Siao",
+    "gn:country_code":"TH",
+    "gn:dem":297,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1117333,
+    "gn:latitude":18.56136,
+    "gn:longitude":98.87206,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Thung Siao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e17\u0e38\u0e48\u0e07\u0e40\u0e2a\u0e35\u0e49\u0e22\u0e27"
+    ],
+    "name:und_x_variant":[
+        "Ban Thung Sieo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678619,
+        890467097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1117333
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"fae02d11c91389e30614c6e250a35d57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890467097,
+            "locality_id":1343263901,
+            "region_id":85678619
+        }
+    ],
+    "wof:id":1343263901,
+    "wof:lastmodified":1537702912,
+    "wof:name":"Ban Thung Siao",
+    "wof:parent_id":890467097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.87206,
+    18.56136,
+    98.87206,
+    18.56136
+],
+  "geometry": {"coordinates":[98.87206,18.56136],"type":"Point"}
+}

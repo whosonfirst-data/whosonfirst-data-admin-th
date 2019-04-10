@@ -1,0 +1,73 @@
+{
+  "id": 1243092567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.63261,15.64561,105.63261,15.64561",
+    "geom:latitude":15.64561,
+    "geom:longitude":105.63261,
+    "gn:admin1_code":"75.0",
+    "gn:asciiname":"Ban Pak La",
+    "gn:country_code":"TH",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1603393,
+    "gn:latitude":15.64561,
+    "gn:longitude":105.63261,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Ban Pak La",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1b\u0e32\u0e01\u0e25\u0e32"
+    ],
+    "name:und_x_variant":[
+        "Ban Huai La"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678783,
+        1108731889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1603393
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"178ce3d7811fd68423e836a9f0cd1a6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731889,
+            "locality_id":1243092567,
+            "region_id":85678783
+        }
+    ],
+    "wof:id":1243092567,
+    "wof:lastmodified":1537703582,
+    "wof:name":"Ban Pak La",
+    "wof:parent_id":1108731889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.63261,
+    15.64561,
+    105.63261,
+    15.64561
+],
+  "geometry": {"coordinates":[105.63261,15.64561],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1226256353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.06406,19.18278,98.06406,19.18278",
+    "geom:latitude":19.18278,
+    "geom:longitude":98.06406,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ban Huai Kung",
+    "gn:country_code":"TH",
+    "gn:dem":596,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7762093,
+    "gn:latitude":19.18278,
+    "gn:longitude":98.06406,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Huai Kung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e49\u0e27\u0e22\u0e01\u0e38\u0e49\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678555,
+        890466979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7762093
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"89fefb6b8d9e7b4d3884ce4724ad9452",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466979,
+            "locality_id":1226256353,
+            "region_id":85678555
+        }
+    ],
+    "wof:id":1226256353,
+    "wof:lastmodified":1537704671,
+    "wof:name":"Ban Huai Kung",
+    "wof:parent_id":890466979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.06406,
+    19.18278,
+    98.06406,
+    19.18278
+],
+  "geometry": {"coordinates":[98.06406,19.18278],"type":"Point"}
+}

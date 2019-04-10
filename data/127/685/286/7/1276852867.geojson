@@ -1,0 +1,70 @@
+{
+  "id": 1276852867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.36792,15.81133,99.36792,15.81133",
+    "geom:latitude":15.81133,
+    "geom:longitude":99.36792,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ban Yot Huai Kaeo",
+    "gn:country_code":"TH",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8342807,
+    "gn:latitude":15.81133,
+    "gn:longitude":99.36792,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Ban Yot Huai Kaeo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e22\u0e2d\u0e14\u0e2b\u0e49\u0e27\u0e22\u0e41\u0e01\u0e49\u0e27"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678715,
+        1108731513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8342807
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"05371dece105e1929cfc05127e29bb40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731513,
+            "locality_id":1276852867,
+            "region_id":85678715
+        }
+    ],
+    "wof:id":1276852867,
+    "wof:lastmodified":1537705441,
+    "wof:name":"Ban Yot Huai Kaeo",
+    "wof:parent_id":1108731513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.36792,
+    15.81133,
+    99.36792,
+    15.81133
+],
+  "geometry": {"coordinates":[99.36792,15.81133],"type":"Point"}
+}

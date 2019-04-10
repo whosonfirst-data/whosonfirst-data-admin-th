@@ -1,0 +1,70 @@
+{
+  "id": 1327256859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.75069,6.23431,101.75069,6.23431",
+    "geom:latitude":6.23431,
+    "geom:longitude":101.75069,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Ban Ba Ngo Sa Yo",
+    "gn:country_code":"TH",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7001178,
+    "gn:latitude":6.23431,
+    "gn:longitude":101.75069,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ban Ba Ngo Sa Yo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1a\u0e32\u0e42\u0e07\u0e2a\u0e32\u0e22\u0e2d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678885,
+        1108731251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7001178
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"a6b20ecff3deaacb8783a3c1a87724d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731251,
+            "locality_id":1327256859,
+            "region_id":85678885
+        }
+    ],
+    "wof:id":1327256859,
+    "wof:lastmodified":1537704387,
+    "wof:name":"Ban Ba Ngo Sa Yo",
+    "wof:parent_id":1108731251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.75069,
+    6.23431,
+    101.75069,
+    6.23431
+],
+  "geometry": {"coordinates":[101.75069000000001,6.23431],"type":"Point"}
+}

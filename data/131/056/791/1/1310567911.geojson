@@ -1,0 +1,70 @@
+{
+  "id": 1310567911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.00144,14.93125,102.00144,14.93125",
+    "geom:latitude":14.93125,
+    "geom:longitude":102.00144,
+    "gn:admin1_code":"27",
+    "gn:asciiname":"Ban Thanakon Siti",
+    "gn:country_code":"TH",
+    "gn:dem":213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9108713,
+    "gn:latitude":14.93125,
+    "gn:longitude":102.00144,
+    "gn:modification_date":"2014-06-07",
+    "gn:name":"Ban Thanakon Siti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e18\u0e19\u0e32\u0e01\u0e23\u0e0b\u0e34\u0e15\u0e35\u0e49"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678841,
+        890466785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9108713
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"3b94d6debfb6709e69ddc31c1eb9d95e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466785,
+            "locality_id":1310567911,
+            "region_id":85678841
+        }
+    ],
+    "wof:id":1310567911,
+    "wof:lastmodified":1537706185,
+    "wof:name":"Ban Thanakon Siti",
+    "wof:parent_id":890466785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.00144,
+    14.93125,
+    102.00144,
+    14.93125
+],
+  "geometry": {"coordinates":[102.00144,14.93125],"type":"Point"}
+}

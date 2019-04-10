@@ -1,0 +1,67 @@
+{
+  "id": 1193085867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.28333,15.21667,100.28333,15.21667",
+    "geom:latitude":15.21667,
+    "geom:longitude":100.28333,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Ban Sarika",
+    "gn:country_code":"TH",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1613327,
+    "gn:latitude":15.21667,
+    "gn:longitude":100.28333,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Ban Sarika",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678699,
+        890466895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1613327
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"3c4b804fa4f2d750326670b99a04a2e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466895,
+            "locality_id":1193085867,
+            "region_id":85678699
+        }
+    ],
+    "wof:id":1193085867,
+    "wof:lastmodified":1536375909,
+    "wof:name":"Ban Sarika",
+    "wof:parent_id":890466895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.28333,
+    15.21667,
+    100.28333,
+    15.21667
+],
+  "geometry": {"coordinates":[100.28333000000001,15.21667],"type":"Point"}
+}

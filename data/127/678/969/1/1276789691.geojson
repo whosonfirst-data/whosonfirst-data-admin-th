@@ -1,0 +1,67 @@
+{
+  "id": 1276789691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.03333,7.78333,100.03333,7.78333",
+    "geom:latitude":7.78333,
+    "geom:longitude":100.03333,
+    "gn:admin1_code":"66.0",
+    "gn:asciiname":"Ban Suan Sa",
+    "gn:country_code":"TH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1598061,
+    "gn:latitude":7.78333,
+    "gn:longitude":100.03333,
+    "gn:modification_date":"1994-04-10",
+    "gn:name":"Ban Suan Sa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678591,
+        1108731403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1598061
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"c6ade58428008a7025a53ee152a5b379",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731403,
+            "locality_id":1276789691,
+            "region_id":85678591
+        }
+    ],
+    "wof:id":1276789691,
+    "wof:lastmodified":1536664490,
+    "wof:name":"Ban Suan Sa",
+    "wof:parent_id":1108731403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.03333,
+    7.78333,
+    100.03333,
+    7.78333
+],
+  "geometry": {"coordinates":[100.03333000000001,7.78333],"type":"Point"}
+}

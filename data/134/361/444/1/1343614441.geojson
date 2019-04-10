@@ -1,0 +1,67 @@
+{
+  "id": 1343614441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.3,14.35,100.3,14.35",
+    "geom:latitude":14.35,
+    "geom:longitude":100.3,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Ban Khok Kao Luk",
+    "gn:country_code":"TH",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1617970,
+    "gn:latitude":14.35,
+    "gn:longitude":100.3,
+    "gn:modification_date":"1994-04-06",
+    "gn:name":"Ban Khok Kao Luk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678721,
+        1108731179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1617970
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"c7ea9e686cc715e48f1bae55ac9cd173",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731179,
+            "locality_id":1343614441,
+            "region_id":85678721
+        }
+    ],
+    "wof:id":1343614441,
+    "wof:lastmodified":1537020606,
+    "wof:name":"Ban Khok Kao Luk",
+    "wof:parent_id":1108731179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.3,
+    14.35,
+    100.3,
+    14.35
+],
+  "geometry": {"coordinates":[100.3,14.35],"type":"Point"}
+}

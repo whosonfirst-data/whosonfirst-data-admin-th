@@ -1,0 +1,74 @@
+{
+  "id": 1259726545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.65069,14.36203,100.65069,14.36203",
+    "geom:latitude":14.36203,
+    "geom:longitude":100.65069,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Ban Khao Mao",
+    "gn:country_code":"TH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1618442,
+    "gn:latitude":14.36203,
+    "gn:longitude":100.65069,
+    "gn:modification_date":"2014-02-06",
+    "gn:name":"Ban Khao Mao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e02\u0e49\u0e32\u0e27\u0e40\u0e21\u0e48\u0e32"
+    ],
+    "name:und_x_variant":[
+        "Ban Khau Mau",
+        "Ban Khao Mao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678689,
+        890466353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1618442
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"71bcb28e8991ab364aba18129f8f430d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466353,
+            "locality_id":1259726545,
+            "region_id":85678689
+        }
+    ],
+    "wof:id":1259726545,
+    "wof:lastmodified":1537704123,
+    "wof:name":"Ban Khao Mao",
+    "wof:parent_id":890466353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.65069,
+    14.36203,
+    100.65069,
+    14.36203
+],
+  "geometry": {"coordinates":[100.65069,14.36203],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209370777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.96281,16.49522,103.96281,16.49522",
+    "geom:latitude":16.49522,
+    "geom:longitude":103.96281,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Ban Sam Kha",
+    "gn:country_code":"TH",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1598443,
+    "gn:latitude":16.49522,
+    "gn:longitude":103.96281,
+    "gn:modification_date":"2013-12-09",
+    "gn:name":"Ban Sam Kha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2a\u0e32\u0e21\u0e02\u0e32"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1598443
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"32d880a494bcda845657c4e322a315ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85632293,
+            "locality_id":1209370777
+        }
+    ],
+    "wof:id":1209370777,
+    "wof:lastmodified":1537703402,
+    "wof:name":"Ban Sam Kha",
+    "wof:parent_id":85632293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.96281,
+    16.49522,
+    103.96281,
+    16.49522
+],
+  "geometry": {"coordinates":[103.96281,16.49522],"type":"Point"}
+}

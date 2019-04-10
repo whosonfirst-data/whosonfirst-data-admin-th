@@ -1,0 +1,70 @@
+{
+  "id": 1344081705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.46808,13.82911,101.46808,13.82911",
+    "geom:latitude":13.82911,
+    "geom:longitude":101.46808,
+    "gn:admin1_code":"74",
+    "gn:asciiname":"Ban Nong Ket",
+    "gn:country_code":"TH",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8748102,
+    "gn:latitude":13.82911,
+    "gn:longitude":101.46808,
+    "gn:modification_date":"2014-04-07",
+    "gn:name":"Ban Nong Ket",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e19\u0e2d\u0e07\u0e40\u0e01\u0e15\u0e38"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678711,
+        1108731887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8748102
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"5660b159a7c9b1ea587a89e70502869c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731887,
+            "locality_id":1344081705,
+            "region_id":85678711
+        }
+    ],
+    "wof:id":1344081705,
+    "wof:lastmodified":1537706015,
+    "wof:name":"Ban Nong Ket",
+    "wof:parent_id":1108731887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.46808,
+    13.82911,
+    101.46808,
+    13.82911
+],
+  "geometry": {"coordinates":[101.46808,13.82911],"type":"Point"}
+}

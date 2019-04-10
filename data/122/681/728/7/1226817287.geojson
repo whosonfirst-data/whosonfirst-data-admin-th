@@ -1,0 +1,70 @@
+{
+  "id": 1226817287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.18086,16.29222,103.18086,16.29222",
+    "geom:latitude":16.29222,
+    "geom:longitude":103.18086,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Ban Yaeng",
+    "gn:country_code":"TH",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8731833,
+    "gn:latitude":16.29222,
+    "gn:longitude":103.18086,
+    "gn:modification_date":"2014-03-12",
+    "gn:name":"Ban Yaeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e41\u0e2b\u0e22\u0e48\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678835,
+        1108731331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8731833
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"1cb54a9b39d4893f9246fe7250c3b9c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731331,
+            "locality_id":1226817287,
+            "region_id":85678835
+        }
+    ],
+    "wof:id":1226817287,
+    "wof:lastmodified":1537705989,
+    "wof:name":"Ban Yaeng",
+    "wof:parent_id":1108731331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.18086,
+    16.29222,
+    103.18086,
+    16.29222
+],
+  "geometry": {"coordinates":[103.18086,16.29222],"type":"Point"}
+}

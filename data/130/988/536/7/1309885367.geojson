@@ -1,0 +1,70 @@
+{
+  "id": 1309885367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.42661,16.74122,100.42661,16.74122",
+    "geom:latitude":16.74122,
+    "geom:longitude":100.42661,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Ban Nong Tabaek",
+    "gn:country_code":"TH",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8216033,
+    "gn:latitude":16.74122,
+    "gn:longitude":100.42661,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Ban Nong Tabaek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e19\u0e2d\u0e07\u0e15\u0e30\u0e41\u0e1a\u0e01"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678647,
+        890465723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8216033
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"5a108e92c27e25a0e3f1eab9a5c5c691",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465723,
+            "locality_id":1309885367,
+            "region_id":85678647
+        }
+    ],
+    "wof:id":1309885367,
+    "wof:lastmodified":1537705135,
+    "wof:name":"Ban Nong Tabaek",
+    "wof:parent_id":890465723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.42661,
+    16.74122,
+    100.42661,
+    16.74122
+],
+  "geometry": {"coordinates":[100.42661,16.74122],"type":"Point"}
+}

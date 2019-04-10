@@ -1,0 +1,75 @@
+{
+  "id": 1259901361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.39425,18.15519,99.39425,18.15519",
+    "geom:latitude":18.15519,
+    "geom:longitude":99.39425,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Ban Mae Long",
+    "gn:country_code":"TH",
+    "gn:dem":222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1156510,
+    "gn:latitude":18.15519,
+    "gn:longitude":99.39425,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Ban Mae Long",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e41\u0e21\u0e48\u0e2b\u0e25\u0e07"
+    ],
+    "name:und_x_variant":[
+        "B\u0101n Mea J\u0101ng",
+        "Ban Mae Chang",
+        "Ban Mae Long"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678625,
+        890466105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1156510
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"f3b9e45b216b933af6c41c58f0d9c962",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466105,
+            "locality_id":1259901361,
+            "region_id":85678625
+        }
+    ],
+    "wof:id":1259901361,
+    "wof:lastmodified":1537703197,
+    "wof:name":"Ban Mae Long",
+    "wof:parent_id":890466105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.39425,
+    18.15519,
+    99.39425,
+    18.15519
+],
+  "geometry": {"coordinates":[99.39425,18.15519],"type":"Point"}
+}

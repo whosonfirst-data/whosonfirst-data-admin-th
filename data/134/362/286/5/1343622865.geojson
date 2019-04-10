@@ -1,0 +1,70 @@
+{
+  "id": 1343622865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.09347,15.20867,103.09347,15.20867",
+    "geom:latitude":15.20867,
+    "geom:longitude":103.09347,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Ban Mueang Kap",
+    "gn:country_code":"TH",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9283634,
+    "gn:latitude":15.20867,
+    "gn:longitude":103.09347,
+    "gn:modification_date":"2014-08-07",
+    "gn:name":"Ban Mueang Kap",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e01\u0e31\u0e1a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678817,
+        1108802627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9283634
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"ca162df03eb4816a9271c432c7a1549e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802627,
+            "locality_id":1343622865,
+            "region_id":85678817
+        }
+    ],
+    "wof:id":1343622865,
+    "wof:lastmodified":1537706255,
+    "wof:name":"Ban Mueang Kap",
+    "wof:parent_id":1108802627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.09347,
+    15.20867,
+    103.09347,
+    15.20867
+],
+  "geometry": {"coordinates":[103.09347,15.20867],"type":"Point"}
+}

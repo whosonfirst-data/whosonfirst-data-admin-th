@@ -1,0 +1,70 @@
+{
+  "id": 1226306267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.77317,17.68653,102.77317,17.68653",
+    "geom:latitude":17.68653,
+    "geom:longitude":102.77317,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Nong Bua Ngoen",
+    "gn:country_code":"TH",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7672869,
+    "gn:latitude":17.68653,
+    "gn:longitude":102.77317,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Nong Bua Ngoen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e19\u0e2d\u0e07\u0e1a\u0e31\u0e27\u0e40\u0e07\u0e34\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678859,
+        890465657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7672869
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"9c871b20741cd70961d4f684a7dab7d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465657,
+            "locality_id":1226306267,
+            "region_id":85678859
+        }
+    ],
+    "wof:id":1226306267,
+    "wof:lastmodified":1537704581,
+    "wof:name":"Ban Nong Bua Ngoen",
+    "wof:parent_id":890465657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.77317,
+    17.68652999999999,
+    102.77317,
+    17.68652999999999
+],
+  "geometry": {"coordinates":[102.77316999999999,17.68652999999999],"type":"Point"}
+}

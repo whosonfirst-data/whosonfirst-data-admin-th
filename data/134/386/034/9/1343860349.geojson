@@ -1,0 +1,74 @@
+{
+  "id": 1343860349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.90514,18.73492,98.90514,18.73492",
+    "geom:latitude":18.73492,
+    "geom:longitude":98.90514,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Fon",
+    "gn:country_code":"TH",
+    "gn:dem":334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1157763,
+    "gn:latitude":18.73492,
+    "gn:longitude":98.90514,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Fon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1f\u0e48\u0e2d\u0e19"
+    ],
+    "name:und_x_variant":[
+        "B\u0101n Faun",
+        "Ban Fon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678619,
+        1108802611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1157763
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"8e7941dd16df92c4a37b4b190418caf3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802611,
+            "locality_id":1343860349,
+            "region_id":85678619
+        }
+    ],
+    "wof:id":1343860349,
+    "wof:lastmodified":1537703274,
+    "wof:name":"Ban Fon",
+    "wof:parent_id":1108802611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.90514,
+    18.73492,
+    98.90514,
+    18.73492
+],
+  "geometry": {"coordinates":[98.90514,18.73492],"type":"Point"}
+}

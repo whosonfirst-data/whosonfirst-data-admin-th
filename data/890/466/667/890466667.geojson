@@ -1,0 +1,82 @@
+{
+  "id": 890466667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.82831,13.87631,99.82831,13.87631",
+    "geom:latitude":13.87631,
+    "geom:longitude":99.82831,
+    "gn:country":"TH",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424960,
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e14\u0e2d\u0e19\u0e02\u0e21\u0e34\u0e49\u0e19"
+    ],
+    "name:unk_x_variant":[
+        "Ban Huai Khamin"
+    ],
+    "qs:name":"Ban Don Khamin (1)",
+    "qs:name_adm0":"Thailand",
+    "qs:name_adm1":"Kanchanaburi",
+    "qs:photos":29,
+    "qs:photos_1k":6,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":29,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":250,
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678663,
+        1108802755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1157892,
+        "gp:id":1202704,
+        "qs:id":983946,
+        "wd:id":"Q476837",
+        "wk:page":"Tha Maka District"
+    },
+    "wof:country":"TH",
+    "wof:created":1469053589,
+    "wof:geomhash":"617ca4e552460d64221dc78d159bcceb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802755,
+            "locality_id":890466667,
+            "region_id":85678663
+        }
+    ],
+    "wof:id":890466667,
+    "wof:lastmodified":1527793010,
+    "wof:name":"Ban Don Khamin (1)",
+    "wof:parent_id":1108802755,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.82831,
+    13.87631,
+    99.82831,
+    13.87631
+],
+  "geometry": {"coordinates":[99.82831,13.87631],"type":"Point"}
+}

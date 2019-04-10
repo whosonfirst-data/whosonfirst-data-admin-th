@@ -1,0 +1,70 @@
+{
+  "id": 1259819239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.92228,6.07619,101.92228,6.07619",
+    "geom:latitude":6.07619,
+    "geom:longitude":101.92228,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Ban Khlong Chang",
+    "gn:country_code":"TH",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7000502,
+    "gn:latitude":6.07619,
+    "gn:longitude":101.92228,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ban Khlong Chang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e04\u0e25\u0e2d\u0e07\u0e0a\u0e49\u0e32\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678885,
+        1108731953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7000502
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"9ed3087fdfaa7f4303ce73f69331c15a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731953,
+            "locality_id":1259819239,
+            "region_id":85678885
+        }
+    ],
+    "wof:id":1259819239,
+    "wof:lastmodified":1537704378,
+    "wof:name":"Ban Khlong Chang",
+    "wof:parent_id":1108731953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.92228,
+    6.07619,
+    101.92228,
+    6.07619
+],
+  "geometry": {"coordinates":[101.92228,6.07619],"type":"Point"}
+}

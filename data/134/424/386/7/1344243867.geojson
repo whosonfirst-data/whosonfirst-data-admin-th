@@ -1,0 +1,70 @@
+{
+  "id": 1344243867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.68125,17.18594,100.68125,17.18594",
+    "geom:latitude":17.18594,
+    "geom:longitude":100.68125,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Ban Nong Nam Po",
+    "gn:country_code":"TH",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8206416,
+    "gn:latitude":17.18594,
+    "gn:longitude":100.68125,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Ban Nong Nam Po",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e19\u0e2d\u0e07\u0e19\u0e49\u0e33\u0e1b\u0e2d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678647,
+        1108731235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8206416
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"aa08f67f363b5f312fdbc55394e1e685",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731235,
+            "locality_id":1344243867,
+            "region_id":85678647
+        }
+    ],
+    "wof:id":1344243867,
+    "wof:lastmodified":1537705112,
+    "wof:name":"Ban Nong Nam Po",
+    "wof:parent_id":1108731235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.68125,
+    17.18594,
+    100.68125,
+    17.18594
+],
+  "geometry": {"coordinates":[100.68125000000001,17.18594],"type":"Point"}
+}

@@ -1,0 +1,110 @@
+{
+  "id": 102025147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000265,
+    "geom:bbox":"103.707029479,17.1684938051,103.725831887,17.1865680248",
+    "geom:latitude":17.177531,
+    "geom:longitude":103.716431,
+    "gn:latitude":17.18314,
+    "gn:longitude":103.71842,
+    "iso:country":"TH",
+    "lbl:latitude":17.177531,
+    "lbl:longitude":103.716431,
+    "mps:latitude":17.177531,
+    "mps:longitude":103.716431,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bpy_x_preferred":[
+        "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09a8\u09bf\u0996\u09cb\u09ae \u09a8\u09be\u09ae \u0989\u09a8"
+    ],
+    "name:deu_x_preferred":[
+        "Amphoe Nikhom Nam Un"
+    ],
+    "name:eng_x_preferred":[
+        "Nikhom Nam Un"
+    ],
+    "name:eng_x_variant":[
+        "Nikhom Nam Oon"
+    ],
+    "name:ron_x_preferred":[
+        "Districtul Nikhom Nam Un"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e19\u0e34\u0e04\u0e21\u0e19\u0e49\u0e33\u0e2d\u0e39\u0e19"
+    ],
+    "name:tha_x_variant":[
+        "\u0e19\u0e34\u0e04\u0e21\u0e19\u0e49\u0e33\u0e2d\u0e39\u0e19"
+    ],
+    "name:unk_x_variant":[
+        "\u0e19\u0e34\u0e04\u0e21\u0e19\u0e49\u0e33\u0e2d\u0e39\u0e19"
+    ],
+    "name:vie_x_preferred":[
+        "Nikhom Nam Un"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Nikhom Nam Un K\u016bn"
+    ],
+    "qs:a0":"Thailand",
+    "qs:a1":"*Sakon Nakhon",
+    "qs:a1r":"*",
+    "qs:a2":"Nikhom Nam Un",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Nikhom Nam Un",
+    "qs:loc_alt":"Nikhom Nam Un",
+    "qs:loc_lc":"1608381",
+    "qs:pop":0,
+    "qs:source":"Aquattroshapes",
+    "qs:type":"County",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":189,
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"07cf3c04-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":1608381,
+        "gp:id":28341055,
+        "qs:id":206725,
+        "wd:id":"Q476206"
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"6310b41f64ff4819d8c9650f8ff81dc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "locality_id":102025147,
+            "region_id":85678863
+        }
+    ],
+    "wof:id":102025147,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527636689,
+    "wof:name":"Nikhom Nam Un",
+    "wof:parent_id":85678863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.70702947871236,
+    17.16849380508641,
+    103.7258318870605,
+    17.18656802481298
+],
+  "geometry": {"coordinates":[[[103.71832565896976,17.16867910277978],[103.71649285604006,17.16849380508641],[103.71465766525417,17.16865578212193],[103.71289060189274,17.16915880940194],[103.71125956434311,17.16998355789899],[103.70982722615007,17.17109833653808],[103.70864862846865,17.17246030952785],[103.70776906528984,17.17401714182799],[103.70722234264481,17.17570900962194],[103.70702947871236,17.1774708986471],[103.70719789489512,17.17923510215758],[103.70772112913532,17.18093382260341],[103.70857908271275,17.18250177708121],[103.70973879127492,17.18387870642775],[103.71115569067423,17.18501169148676],[103.71277532911547,17.18585718745308],[103.71453545988159,17.18638269800992],[103.71636843418885,17.18656802481298],[103.71820380210276,17.18640604419873],[103.71997102137654,17.18590298119653],[103.72160216988657,17.18507817027226],[103.72303455719533,17.18396331200469],[103.72421313467051,17.18260125430811],[103.72509261139705,17.18104434511864],[103.72563919450569,17.17935241995831],[103.72583188706049,17.17759050182362],[103.72566329374972,17.17582630189179],[103.72513990359725,17.17412761716815],[103.72428183905943,17.17255972511765],[103.72312208138153,17.1711828753995],[103.72170520218855,17.17004997504731],[103.72008565019941,17.16920455597042],[103.71832565896976,17.16867910277978]]],"type":"Polygon"}
+}

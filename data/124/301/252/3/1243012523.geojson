@@ -1,0 +1,80 @@
+{
+  "id": 1243012523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.47878,14.64878,100.47878,14.64878",
+    "geom:latitude":14.64878,
+    "geom:longitude":100.47878,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Chaiyo",
+    "gn:country_code":"TH",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1611405,
+    "gn:latitude":14.64878,
+    "gn:longitude":100.47878,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Chaiyo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e44\u0e0a\u0e42\u0e22"
+    ],
+    "name:und_x_variant":[
+        "Amphoe Chaiyo",
+        "Cheiyo",
+        "Ban Charake Rong",
+        "Chaurakhe Raung",
+        "Ban Chorakhe Rong",
+        "Chaiyo",
+        "\u0e44\u0e0a\u0e42\u0e22",
+        "Amphoe Ban Makham"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678691,
+        890465797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1611405
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"9ba9e04f0dfa8585dbd8bc695fd442f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465797,
+            "locality_id":1243012523,
+            "region_id":85678691
+        }
+    ],
+    "wof:id":1243012523,
+    "wof:lastmodified":1537703649,
+    "wof:name":"Chaiyo",
+    "wof:parent_id":890465797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.47878,
+    14.64878,
+    100.47878,
+    14.64878
+],
+  "geometry": {"coordinates":[100.47878,14.64878],"type":"Point"}
+}

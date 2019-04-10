@@ -1,0 +1,70 @@
+{
+  "id": 1226478207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.9785,10.73881,98.9785,10.73881",
+    "geom:latitude":10.73881,
+    "geom:longitude":98.9785,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Ban Prong Ngo",
+    "gn:country_code":"TH",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8233469,
+    "gn:latitude":10.73881,
+    "gn:longitude":98.9785,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Ban Prong Ngo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e42\u0e1b\u0e23\u0e48\u0e07\u0e40\u0e07\u0e32\u0e30"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678559,
+        1108731983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8233469
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"2abdf774d8d79119a40c94f9b1dd67d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731983,
+            "locality_id":1226478207,
+            "region_id":85678559
+        }
+    ],
+    "wof:id":1226478207,
+    "wof:lastmodified":1537705186,
+    "wof:name":"Ban Prong Ngo",
+    "wof:parent_id":1108731983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.9785,
+    10.73881,
+    98.9785,
+    10.73881
+],
+  "geometry": {"coordinates":[98.9785,10.73881],"type":"Point"}
+}

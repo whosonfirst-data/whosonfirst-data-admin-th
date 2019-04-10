@@ -1,0 +1,70 @@
+{
+  "id": 1309972645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.17389,14.74019,102.17389,14.74019",
+    "geom:latitude":14.74019,
+    "geom:longitude":102.17389,
+    "gn:admin1_code":"27",
+    "gn:asciiname":"Ban Sa Prathum",
+    "gn:country_code":"TH",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9108145,
+    "gn:latitude":14.74019,
+    "gn:longitude":102.17389,
+    "gn:modification_date":"2014-06-07",
+    "gn:name":"Ban Sa Prathum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2a\u0e23\u0e30\u0e1b\u0e23\u0e30\u0e17\u0e38\u0e21"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678841,
+        890467485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9108145
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"65d95ecca02a7c264135ff2a6676ef0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890467485,
+            "locality_id":1309972645,
+            "region_id":85678841
+        }
+    ],
+    "wof:id":1309972645,
+    "wof:lastmodified":1537706180,
+    "wof:name":"Ban Sa Prathum",
+    "wof:parent_id":890467485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.17389,
+    14.74019,
+    102.17389,
+    14.74019
+],
+  "geometry": {"coordinates":[102.17389,14.74019],"type":"Point"}
+}

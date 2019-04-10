@@ -1,0 +1,74 @@
+{
+  "id": 1277073773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.012,18.75936,101.012,18.75936",
+    "geom:latitude":18.75936,
+    "geom:longitude":101.012,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Ban Phae",
+    "gn:country_code":"TH",
+    "gn:dem":305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1614474,
+    "gn:latitude":18.75936,
+    "gn:longitude":101.012,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Phae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e41\u0e1e\u0e30"
+    ],
+    "name:und_x_variant":[
+        "Ban Phea",
+        "Ban Phae"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678633,
+        1108731491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1614474
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"13510cb1be704dc9bb7bdfa841b9bdf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731491,
+            "locality_id":1277073773,
+            "region_id":85678633
+        }
+    ],
+    "wof:id":1277073773,
+    "wof:lastmodified":1537703845,
+    "wof:name":"Ban Phae",
+    "wof:parent_id":1108731491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.012,
+    18.75936,
+    101.012,
+    18.75936
+],
+  "geometry": {"coordinates":[101.012,18.75936],"type":"Point"}
+}

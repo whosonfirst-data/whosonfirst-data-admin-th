@@ -1,0 +1,111 @@
+{
+  "id": 102024067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000258,
+    "geom:bbox":"99.1369902003,10.1166647582,99.155246124,10.1347537106",
+    "geom:latitude":10.125709,
+    "geom:longitude":99.146118,
+    "iso:country":"TH",
+    "lbl:latitude":10.12571,
+    "lbl:longitude":99.146118,
+    "mps:latitude":10.12571,
+    "mps:longitude":99.146118,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bpy_x_preferred":[
+        "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09a5\u09c1\u0982 \u09a4\u09be\u0995\u09cb"
+    ],
+    "name:deu_x_preferred":[
+        "Amphoe Thung Tako"
+    ],
+    "name:eng_x_preferred":[
+        "Thung Tako"
+    ],
+    "name:fra_x_preferred":[
+        "Amphoe Thung Tako"
+    ],
+    "name:ron_x_preferred":[
+        "Districtul Thung Tako"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e17\u0e38\u0e48\u0e07\u0e15\u0e30\u0e42\u0e01"
+    ],
+    "name:tha_x_variant":[
+        "\u0e17\u0e38\u0e48\u0e07\u0e15\u0e30\u0e42\u0e01"
+    ],
+    "name:unk_x_variant":[
+        "\u0e17\u0e38\u0e48\u0e07\u0e15\u0e30\u0e42\u0e01"
+    ],
+    "name:vie_x_preferred":[
+        "Thung Tako"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Thung Tako K\u016bn"
+    ],
+    "name:zho_x_preferred":[
+        "\u5f64\u8fbe\u53e3\u53bf"
+    ],
+    "qs:a0":"Thailand",
+    "qs:a1":"*Chumphon",
+    "qs:a1r":"*",
+    "qs:a2":"Thung Tako",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Thung Tako",
+    "qs:loc_alt":"Thung Tako",
+    "qs:loc_lc":"1150081",
+    "qs:pop":0,
+    "qs:source":"Aquattroshapes",
+    "qs:type":"County",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":166,
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"07cf9e1a-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":1150081,
+        "gp:id":28341580,
+        "qs:id":206833,
+        "wd:id":"Q476954"
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"2f457be4b8d9862abe789ed9a7a99356",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "locality_id":102024067,
+            "region_id":85678559
+        }
+    ],
+    "wof:id":102024067,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527636449,
+    "wof:name":"Thung Tako",
+    "wof:parent_id":85678559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.13699020031528,
+    10.11666475819868,
+    99.15524612403841,
+    10.13475371063613
+],
+  "geometry": {"coordinates":[[[99.14789488007507,10.11683775013999],[99.14611407345326,10.11666475819868],[99.14433342381371,10.11683933096249],[99.14262135497962,10.11735476031467],[99.14104365612788,10.11819124019051],[99.13966095425842,10.11931662747087],[99.13852638480209,10.12068767686922],[99.13768354981157,10.12225170241217],[99.13716484218087,10.12394860172249],[99.13699020031528,10.12571316537822],[99.13716634118579,10.1274775826497],[99.13768650135042,10.12917404735708],[99.13853069602369,10.13073736371619],[99.13966648636706,10.13210745201847],[99.14105022562474,10.13323165781617],[99.14262873628469,10.1340667758183],[99.14434135384242,10.13458071065672],[99.14612225859373,10.13475371063613],[99.14790300577705,10.13457912700565],[99.14961515671924,10.13406366953605],[99.1511929097431,10.1332271485727],[99.15257562960126,10.13210171349024],[99.15371017812474,10.13073061685225],[99.15455295644735,10.12916655182426],[99.15507158030213,10.12746962679444],[99.15524612403841,10.12570505510051],[99.15506988562397,10.12394064869581],[99.15454964335125,10.12224421210576],[99.15370539450591,10.12068093683403],[99.15256958617364,10.11931089633406],[99.15118586784901,10.1181867377759],[99.14960741385705,10.1173516592589],[99.14789488007507,10.11683775013999]]],"type":"Polygon"}
+}

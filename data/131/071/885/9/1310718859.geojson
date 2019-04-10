@@ -1,0 +1,67 @@
+{
+  "id": 1310718859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.16667,9.2,99.16667,9.2",
+    "geom:latitude":9.2,
+    "geom:longitude":99.16667,
+    "gn:admin1_code":"60.0",
+    "gn:asciiname":"Ban Don Riap",
+    "gn:country_code":"TH",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1120087,
+    "gn:latitude":9.2,
+    "gn:longitude":99.16667,
+    "gn:modification_date":"1994-04-10",
+    "gn:name":"Ban Don Riap",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678581,
+        1108802751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1120087
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"f55183289d8e750d1ab33581b1e2f681",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802751,
+            "locality_id":1310718859,
+            "region_id":85678581
+        }
+    ],
+    "wof:id":1310718859,
+    "wof:lastmodified":1536606250,
+    "wof:name":"Ban Don Riap",
+    "wof:parent_id":1108802751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.16667,
+    9.2,
+    99.16667,
+    9.2
+],
+  "geometry": {"coordinates":[99.16667,9.2],"type":"Point"}
+}

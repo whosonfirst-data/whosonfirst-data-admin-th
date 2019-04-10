@@ -1,0 +1,65 @@
+{
+  "id": 1209064443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.54106,16.86322,103.54106,16.86322",
+    "geom:latitude":16.86322,
+    "geom:longitude":103.54106,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Sam Chai",
+    "gn:country_code":"TH",
+    "gn:dem":197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":7511051,
+    "gn:latitude":16.86322,
+    "gn:longitude":103.54106,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Sam Chai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0e2a\u0e32\u0e21\u0e0a\u0e31\u0e22",
+        "King Amphoe Sam Chai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7511051
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"21bf95f135644ef8839276e0e4b6f07e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632293,
+            "locality_id":1209064443
+        }
+    ],
+    "wof:id":1209064443,
+    "wof:lastmodified":1537704550,
+    "wof:name":"Sam Chai",
+    "wof:parent_id":85632293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.54106,
+    16.86322,
+    103.54106,
+    16.86322
+],
+  "geometry": {"coordinates":[103.54106,16.86322],"type":"Point"}
+}

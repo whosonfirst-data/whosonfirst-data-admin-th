@@ -1,0 +1,70 @@
+{
+  "id": 1277091055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.58036,15.54364,104.58036,15.54364",
+    "geom:latitude":15.54364,
+    "geom:longitude":104.58036,
+    "gn:admin1_code":"75.0",
+    "gn:asciiname":"Ban Nong Bua",
+    "gn:country_code":"TH",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1600592,
+    "gn:latitude":15.54364,
+    "gn:longitude":104.58036,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Ban Nong Bua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e19\u0e2d\u0e07\u0e1a\u0e31\u0e27"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678783,
+        1108731533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1600592
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"4427b9d5343c5804f5191f2726e5664e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731533,
+            "locality_id":1277091055,
+            "region_id":85678783
+        }
+    ],
+    "wof:id":1277091055,
+    "wof:lastmodified":1537703481,
+    "wof:name":"Ban Nong Bua",
+    "wof:parent_id":1108731533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.58036,
+    15.54364,
+    104.58036,
+    15.54364
+],
+  "geometry": {"coordinates":[104.58036,15.54364],"type":"Point"}
+}

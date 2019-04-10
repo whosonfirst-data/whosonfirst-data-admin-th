@@ -1,0 +1,70 @@
+{
+  "id": 1310177851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.826,15.48328,99.826,15.48328",
+    "geom:latitude":15.48328,
+    "geom:longitude":99.826,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ban Hiang Ngam",
+    "gn:country_code":"TH",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1157581,
+    "gn:latitude":15.48328,
+    "gn:longitude":99.826,
+    "gn:modification_date":"2012-10-06",
+    "gn:name":"Ban Hiang Ngam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e2b\u0e35\u0e22\u0e07\u0e07\u0e32\u0e21"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678689,
+        1108732011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1157581
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"7ca50d72ca6a47c03d3a3396048a46b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108732011,
+            "locality_id":1310177851,
+            "region_id":85678689
+        }
+    ],
+    "wof:id":1310177851,
+    "wof:lastmodified":1537703271,
+    "wof:name":"Ban Hiang Ngam",
+    "wof:parent_id":1108732011,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.826,
+    15.48328,
+    99.826,
+    15.48328
+],
+  "geometry": {"coordinates":[99.82599999999999,15.48328],"type":"Point"}
+}

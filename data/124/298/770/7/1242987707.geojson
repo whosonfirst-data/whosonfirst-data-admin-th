@@ -1,0 +1,70 @@
+{
+  "id": 1242987707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.28619,18.88733,100.28619,18.88733",
+    "geom:latitude":18.88733,
+    "geom:longitude":100.28619,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Ban Mang",
+    "gn:country_code":"TH",
+    "gn:dem":269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1616710,
+    "gn:latitude":18.88733,
+    "gn:longitude":100.28619,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Ban Mang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e21\u0e32\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678637,
+        1108731245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1616710
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"a3813f3481d362a3cf894393b1a22654",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731245,
+            "locality_id":1242987707,
+            "region_id":85678637
+        }
+    ],
+    "wof:id":1242987707,
+    "wof:lastmodified":1537703998,
+    "wof:name":"Ban Mang",
+    "wof:parent_id":1108731245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.28619,
+    18.88733,
+    100.28619,
+    18.88733
+],
+  "geometry": {"coordinates":[100.28619,18.88733],"type":"Point"}
+}

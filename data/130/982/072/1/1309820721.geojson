@@ -1,0 +1,70 @@
+{
+  "id": 1309820721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.2315,8.151,99.2315,8.151",
+    "geom:latitude":8.151,
+    "geom:longitude":99.2315,
+    "gn:admin1_code":"63.0",
+    "gn:asciiname":"Ban Ang Kep Nam",
+    "gn:country_code":"TH",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8272176,
+    "gn:latitude":8.151,
+    "gn:longitude":99.2315,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Ban Ang Kep Nam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2d\u0e48\u0e32\u0e07\u0e40\u0e01\u0e47\u0e1a\u0e19\u0e49\u0e33"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678585,
+        1108731365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8272176
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"2130f69836491a1c6ebeafdd6317a46c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731365,
+            "locality_id":1309820721,
+            "region_id":85678585
+        }
+    ],
+    "wof:id":1309820721,
+    "wof:lastmodified":1537705294,
+    "wof:name":"Ban Ang Kep Nam",
+    "wof:parent_id":1108731365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.2315,
+    8.151,
+    99.2315,
+    8.151
+],
+  "geometry": {"coordinates":[99.2315,8.151],"type":"Point"}
+}

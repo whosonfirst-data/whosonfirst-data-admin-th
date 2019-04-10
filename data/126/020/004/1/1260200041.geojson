@@ -1,0 +1,70 @@
+{
+  "id": 1260200041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.16633,5.83208,101.16633,5.83208",
+    "geom:latitude":5.83208,
+    "geom:longitude":101.16633,
+    "gn:admin1_code":"70.0",
+    "gn:asciiname":"Ban Sutantanon",
+    "gn:country_code":"TH",
+    "gn:dem":245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6975498,
+    "gn:latitude":5.83208,
+    "gn:longitude":101.16633,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ban Sutantanon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2a\u0e38\u0e15\u0e31\u0e19\u0e15\u0e32\u0e19\u0e19\u0e17\u0e4c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678611,
+        1108731185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6975498
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"9a2294457efad9da9228814476293113",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731185,
+            "locality_id":1260200041,
+            "region_id":85678611
+        }
+    ],
+    "wof:id":1260200041,
+    "wof:lastmodified":1537704353,
+    "wof:name":"Ban Sutantanon",
+    "wof:parent_id":1108731185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.16633,
+    5.83208,
+    101.16633,
+    5.83208
+],
+  "geometry": {"coordinates":[101.16633,5.83208],"type":"Point"}
+}

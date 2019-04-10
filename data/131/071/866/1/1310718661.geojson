@@ -1,0 +1,70 @@
+{
+  "id": 1310718661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.49028,6.476,101.49028,6.476",
+    "geom:latitude":6.476,
+    "geom:longitude":101.49028,
+    "gn:admin1_code":"70.0",
+    "gn:asciiname":"Ban Ta Lo Ha Lo",
+    "gn:country_code":"TH",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7013436,
+    "gn:latitude":6.476,
+    "gn:longitude":101.49028,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ban Ta Lo Ha Lo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e15\u0e30\u0e42\u0e25\u0e4a\u0e30\u0e2b\u0e30\u0e25\u0e2d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678611,
+        1108731791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7013436
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"7677f0efa47330e15094265e0b51b67c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731791,
+            "locality_id":1310718661,
+            "region_id":85678611
+        }
+    ],
+    "wof:id":1310718661,
+    "wof:lastmodified":1537704402,
+    "wof:name":"Ban Ta Lo Ha Lo",
+    "wof:parent_id":1108731791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.49028,
+    6.476,
+    101.49028,
+    6.476
+],
+  "geometry": {"coordinates":[101.49028,6.476],"type":"Point"}
+}

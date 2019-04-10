@@ -1,0 +1,73 @@
+{
+  "id": 1226824855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.86275,17.47439,100.86275,17.47439",
+    "geom:latitude":17.47439,
+    "geom:longitude":100.86275,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Na Chueam",
+    "gn:country_code":"TH",
+    "gn:dem":788,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8039102,
+    "gn:latitude":17.47439,
+    "gn:longitude":100.86275,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Na Chueam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "Ban Na Chueam"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e19\u0e32\u0e40\u0e0a\u0e37\u0e48\u0e2d\u0e21"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678853,
+        1108731547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8039102
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"d842c85faa957634ad624db428afacf1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731547,
+            "locality_id":1226824855,
+            "region_id":85678853
+        }
+    ],
+    "wof:id":1226824855,
+    "wof:lastmodified":1537704945,
+    "wof:name":"Ban Na Chueam",
+    "wof:parent_id":1108731547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.86275,
+    17.47439,
+    100.86275,
+    17.47439
+],
+  "geometry": {"coordinates":[100.86275000000001,17.47439],"type":"Point"}
+}

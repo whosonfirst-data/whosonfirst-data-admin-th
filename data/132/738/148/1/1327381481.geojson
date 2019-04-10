@@ -1,0 +1,75 @@
+{
+  "id": 1327381481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.94367,15.19386,101.94367,15.19386",
+    "geom:latitude":15.19386,
+    "geom:longitude":101.94367,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Ban Banlang",
+    "gn:country_code":"TH",
+    "gn:dem":185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1616721,
+    "gn:latitude":15.19386,
+    "gn:longitude":101.94367,
+    "gn:modification_date":"2014-06-04",
+    "gn:name":"Ban Banlang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1a\u0e31\u0e25\u0e25\u0e31\u0e07\u0e01\u0e4c"
+    ],
+    "name:und_x_variant":[
+        "Ban Masang",
+        "Ban Ma Lang",
+        "Ban Banlang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678841,
+        1108731607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1616721
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"dcd2775ec6d1703bd9288d90b1eb60ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731607,
+            "locality_id":1327381481,
+            "region_id":85678841
+        }
+    ],
+    "wof:id":1327381481,
+    "wof:lastmodified":1537703999,
+    "wof:name":"Ban Banlang",
+    "wof:parent_id":1108731607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.94367,
+    15.19386,
+    101.94367,
+    15.19386
+],
+  "geometry": {"coordinates":[101.94367,15.19386],"type":"Point"}
+}

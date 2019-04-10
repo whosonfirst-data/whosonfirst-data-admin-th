@@ -1,0 +1,70 @@
+{
+  "id": 1226068219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.16083,8.53728,99.16083,8.53728",
+    "geom:latitude":8.53728,
+    "geom:longitude":99.16083,
+    "gn:admin1_code":"60.0",
+    "gn:asciiname":"Ban Hat Charoen",
+    "gn:country_code":"TH",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8325853,
+    "gn:latitude":8.53728,
+    "gn:longitude":99.16083,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Ban Hat Charoen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e32\u0e14\u0e40\u0e08\u0e23\u0e34\u0e0d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678581,
+        1108731743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8325853
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"29f9ece7c9e4b19505feec2c55f1ba8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731743,
+            "locality_id":1226068219,
+            "region_id":85678581
+        }
+    ],
+    "wof:id":1226068219,
+    "wof:lastmodified":1537705390,
+    "wof:name":"Ban Hat Charoen",
+    "wof:parent_id":1108731743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.16083,
+    8.53728,
+    99.16083,
+    8.53728
+],
+  "geometry": {"coordinates":[99.16083,8.53728],"type":"Point"}
+}

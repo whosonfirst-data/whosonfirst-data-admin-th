@@ -1,0 +1,65 @@
+{
+  "id": 1260302453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.03333,8.05,99.03333,8.05",
+    "geom:latitude":8.05,
+    "geom:longitude":99.03333,
+    "gn:admin1_code":"63.0",
+    "gn:asciiname":"Ban Siat",
+    "gn:country_code":"TH",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1117747,
+    "gn:latitude":8.05,
+    "gn:longitude":99.03333,
+    "gn:modification_date":"1994-04-10",
+    "gn:name":"Ban Siat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632293,
+        890466649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1117747
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"62ddbcf81d4528e936390ba8a6fada02",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632293,
+            "county_id":890466649,
+            "locality_id":1260302453,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1260302453,
+    "wof:lastmodified":1536686452,
+    "wof:name":"Ban Siat",
+    "wof:parent_id":890466649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.03333,
+    8.05,
+    99.03333,
+    8.05
+],
+  "geometry": {"coordinates":[99.03333000000001,8.05],"type":"Point"}
+}

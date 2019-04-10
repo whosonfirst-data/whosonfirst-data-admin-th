@@ -1,0 +1,70 @@
+{
+  "id": 1259751895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.70972,16.15914,102.70972,16.15914",
+    "geom:latitude":16.15914,
+    "geom:longitude":102.70972,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Ban Don Po Daeng",
+    "gn:country_code":"TH",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9003148,
+    "gn:latitude":16.15914,
+    "gn:longitude":102.70972,
+    "gn:modification_date":"2014-05-01",
+    "gn:name":"Ban Don Po Daeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e14\u0e2d\u0e19\u0e1b\u0e2d\u0e41\u0e14\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678827,
+        1108802571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9003148
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"5bdd466eba2045b7074af5c4bb2977d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802571,
+            "locality_id":1259751895,
+            "region_id":85678827
+        }
+    ],
+    "wof:id":1259751895,
+    "wof:lastmodified":1537706091,
+    "wof:name":"Ban Don Po Daeng",
+    "wof:parent_id":1108802571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.70972,
+    16.15914,
+    102.70972,
+    16.15914
+],
+  "geometry": {"coordinates":[102.70972,16.15914],"type":"Point"}
+}

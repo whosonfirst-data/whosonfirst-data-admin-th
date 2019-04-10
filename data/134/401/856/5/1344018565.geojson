@@ -1,0 +1,70 @@
+{
+  "id": 1344018565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.05892,14.51869,104.05892,14.51869",
+    "geom:latitude":14.51869,
+    "geom:longitude":104.05892,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Ban Khai Charoen",
+    "gn:country_code":"TH",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7876504,
+    "gn:latitude":14.51869,
+    "gn:longitude":104.05892,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Khai Charoen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e04\u0e48\u0e32\u0e22\u0e40\u0e08\u0e23\u0e34\u0e0d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678779,
+        1108731755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7876504
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"f46b85ef555574c09411114ba883bbbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731755,
+            "locality_id":1344018565,
+            "region_id":85678779
+        }
+    ],
+    "wof:id":1344018565,
+    "wof:lastmodified":1537704762,
+    "wof:name":"Ban Khai Charoen",
+    "wof:parent_id":1108731755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.05892,
+    14.51869,
+    104.05892,
+    14.51869
+],
+  "geometry": {"coordinates":[104.05892,14.51869],"type":"Point"}
+}

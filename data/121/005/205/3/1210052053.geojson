@@ -1,0 +1,70 @@
+{
+  "id": 1210052053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.82939,13.11681,99.82939,13.11681",
+    "geom:latitude":13.11681,
+    "geom:longitude":99.82939,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"Ban Na Nam Phu",
+    "gn:country_code":"TH",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8278763,
+    "gn:latitude":13.11681,
+    "gn:longitude":99.82939,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Ban Na Nam Phu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e19\u0e32\u0e19\u0e49\u0e33\u0e1e\u0e38"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678753,
+        1108731121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8278763
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"37fb80616f51a1d7fcb91ae9ddd037b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731121,
+            "locality_id":1210052053,
+            "region_id":85678753
+        }
+    ],
+    "wof:id":1210052053,
+    "wof:lastmodified":1537705307,
+    "wof:name":"Ban Na Nam Phu",
+    "wof:parent_id":1108731121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.82939,
+    13.11681,
+    99.82939,
+    13.11681
+],
+  "geometry": {"coordinates":[99.82939,13.11681],"type":"Point"}
+}

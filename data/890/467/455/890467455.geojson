@@ -1,0 +1,76 @@
+{
+  "id": 890467455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-11-10",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.18151,13.2528,101.18151,13.2528",
+    "geom:latitude":13.2528,
+    "geom:longitude":101.18151,
+    "gn:country":"TH",
+    "gn:fcode":"ADM2",
+    "gn:pop":0,
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e1a\u0e49\u0e32\u0e19\u0e1a\u0e36\u0e07"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1a\u0e36\u0e07"
+    ],
+    "name:unk_x_variant":[
+        "Amphoe Ban Bung"
+    ],
+    "qs:name":"Amphoe Ban Bueng",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":139,
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1620432,
+        "gp:id":28341352,
+        "qs:id":1151831,
+        "wd:id":"Q475087",
+        "wk:page":"Ban Bueng District"
+    },
+    "wof:country":"TH",
+    "wof:created":1469053641,
+    "wof:geomhash":"db8c5c219ee9749e00839341134d1b82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890467455,
+            "region_id":85678795
+        }
+    ],
+    "wof:id":890467455,
+    "wof:lastmodified":1527792895,
+    "wof:name":"Amphoe Ban Bueng",
+    "wof:parent_id":85678795,
+    "wof:placetype":"county",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.18151,
+    13.2528,
+    101.18151,
+    13.2528
+],
+  "geometry": {"coordinates":[101.18151,13.2528],"type":"Point"}
+}

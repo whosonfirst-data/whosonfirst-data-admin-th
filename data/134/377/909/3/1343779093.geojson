@@ -1,0 +1,67 @@
+{
+  "id": 1343779093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.1,17.0,103.1,17.0",
+    "geom:latitude":17.0,
+    "geom:longitude":103.1,
+    "gn:admin1_code":"76.0",
+    "gn:asciiname":"Ban Thung That",
+    "gn:country_code":"TH",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1597496,
+    "gn:latitude":17.0,
+    "gn:longitude":103.1,
+    "gn:modification_date":"2009-06-01",
+    "gn:name":"Ban Thung That",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678869,
+        1108731905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1597496
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"139b0aa4fdfd229dcd61f6a2c59eec67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731905,
+            "locality_id":1343779093,
+            "region_id":85678869
+        }
+    ],
+    "wof:id":1343779093,
+    "wof:lastmodified":1536784595,
+    "wof:name":"Ban Thung That",
+    "wof:parent_id":1108731905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.1,
+    17.0,
+    103.1,
+    17.0
+],
+  "geometry": {"coordinates":[103.09999999999999,17.0],"type":"Point"}
+}

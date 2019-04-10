@@ -1,0 +1,76 @@
+{
+  "id": 890466311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-11-10",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.68106,14.09323,100.68106,14.09323",
+    "geom:latitude":14.09323,
+    "geom:longitude":100.68106,
+    "gn:country":"TH",
+    "gn:fcode":"ADM2",
+    "gn:pop":0,
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e04\u0e25\u0e2d\u0e07\u0e2b\u0e25\u0e27\u0e07"
+    ],
+    "name:tha_x_variant":[
+        "\u0e04\u0e25\u0e2d\u0e07\u0e2b\u0e25\u0e27\u0e07"
+    ],
+    "name:unk_x_variant":[
+        "Amphoe Bang Wai"
+    ],
+    "qs:name":"Amphoe Khlong Luang",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":223,
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1609898,
+        "gp:id":28341509,
+        "qs:id":1026916,
+        "wd:id":"Q475707",
+        "wk:page":"Khlong Luang District"
+    },
+    "wof:country":"TH",
+    "wof:created":1469053574,
+    "wof:geomhash":"53e8e67925a78e3168d8ee01e46371e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466311,
+            "region_id":85678725
+        }
+    ],
+    "wof:id":890466311,
+    "wof:lastmodified":1527793019,
+    "wof:name":"Amphoe Khlong Luang",
+    "wof:parent_id":85678725,
+    "wof:placetype":"county",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.68106,
+    14.09323,
+    100.68106,
+    14.09323
+],
+  "geometry": {"coordinates":[100.68106,14.09323],"type":"Point"}
+}

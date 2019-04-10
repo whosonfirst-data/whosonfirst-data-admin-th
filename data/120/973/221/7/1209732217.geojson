@@ -1,0 +1,70 @@
+{
+  "id": 1209732217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.97375,7.65789,99.97375,7.65789",
+    "geom:latitude":7.65789,
+    "geom:longitude":99.97375,
+    "gn:admin1_code":"66.0",
+    "gn:asciiname":"Ban Pa Luk Yang",
+    "gn:country_code":"TH",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8203783,
+    "gn:latitude":7.65789,
+    "gn:longitude":99.97375,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Ban Pa Luk Yang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1b\u0e48\u0e32\u0e25\u0e39\u0e01\u0e22\u0e32\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678591,
+        1108731403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8203783
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"5a58a495052b7e49fcf99227482d412b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731403,
+            "locality_id":1209732217,
+            "region_id":85678591
+        }
+    ],
+    "wof:id":1209732217,
+    "wof:lastmodified":1537705078,
+    "wof:name":"Ban Pa Luk Yang",
+    "wof:parent_id":1108731403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.97375,
+    7.65789,
+    99.97375,
+    7.65789
+],
+  "geometry": {"coordinates":[99.97375,7.65789],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243189177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.45636,12.92669,102.45636,12.92669",
+    "geom:latitude":12.92669,
+    "geom:longitude":102.45636,
+    "gn:admin1_code":"48.0",
+    "gn:asciiname":"Ban Siam Chap",
+    "gn:country_code":"TH",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7912946,
+    "gn:latitude":12.92669,
+    "gn:longitude":102.45636,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Siam Chap",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e2a\u0e35\u0e22\u0e21\u0e08\u0e31\u0e1a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678799,
+        1108731775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7912946
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"fa508db48e527d43f9f2ac2c395c6f0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731775,
+            "locality_id":1243189177,
+            "region_id":85678799
+        }
+    ],
+    "wof:id":1243189177,
+    "wof:lastmodified":1537704861,
+    "wof:name":"Ban Siam Chap",
+    "wof:parent_id":1108731775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.45636,
+    12.92669,
+    102.45636,
+    12.92669
+],
+  "geometry": {"coordinates":[102.45636,12.92669],"type":"Point"}
+}

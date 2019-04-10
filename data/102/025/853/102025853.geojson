@@ -1,0 +1,81 @@
+{
+  "id": 102025853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000013,
+    "geom:area_square_m":153985.428333,
+    "geom:bbox":"100.667724609,13.7713987966,100.671844482,13.7767339891",
+    "geom:latitude":13.773971,
+    "geom:longitude":100.669392,
+    "gn:latitude":13.77019,
+    "gn:longitude":100.68531,
+    "iso:country":"TH",
+    "lbl:latitude":13.774055,
+    "lbl:longitude":100.669189,
+    "mps:latitude":13.774055,
+    "mps:longitude":100.669189,
+    "mz:hierarchy_label":1,
+    "name:tha_x_preferred":[
+        "\u0e2a\u0e30\u0e1e\u0e32\u0e19\u0e2a\u0e39\u0e07"
+    ],
+    "qs:a0":"Thailand",
+    "qs:a1":"*Bangkok",
+    "qs:a1r":"*",
+    "qs:a2":"Saphan Sung",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Saphan Sung",
+    "qs:loc_alt":"Saphan Sung",
+    "qs:loc_lc":"7026889",
+    "qs:pop":0,
+    "qs:source":"Aquattroshapes",
+    "qs:type":"County",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678739,
+        890465919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7026889,
+        "gp:id":28341425,
+        "qs:id":206799,
+        "wd:id":"Q1019420",
+        "wk:page":"Saphan Sung District"
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"0fb743d8f2bfaa7bd3b3deae14786891",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465919,
+            "locality_id":102025853,
+            "region_id":85678739
+        }
+    ],
+    "wof:id":102025853,
+    "wof:lastmodified":1501273138,
+    "wof:name":"Saphan Sung",
+    "wof:parent_id":890465919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.66772460899999,
+    13.7713987966,
+    100.671844482,
+    13.7767339891
+],
+  "geometry": {"coordinates":[[[100.6690979,13.7713987966],[100.6690979,13.7727326061],[100.66772460899999,13.7727326061],[100.66772460899999,13.7740664081],[100.66772460899999,13.7754002024],[100.66772460899999,13.7767339891],[100.6690979,13.7767339891],[100.6690979,13.7754002024],[100.67047119099999,13.7754002024],[100.67047119099999,13.7740664081],[100.671844482,13.7740664081],[100.671844482,13.7727326061],[100.67047119099999,13.7727326061],[100.67047119099999,13.7713987966],[100.6690979,13.7713987966]]],"type":"Polygon"}
+}

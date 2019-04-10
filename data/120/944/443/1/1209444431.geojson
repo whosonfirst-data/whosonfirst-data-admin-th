@@ -1,0 +1,65 @@
+{
+  "id": 1209444431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.18333,18.01667,104.18333,18.01667",
+    "geom:latitude":18.01667,
+    "geom:longitude":104.18333,
+    "gn:admin1_code":"81.0",
+    "gn:asciiname":"Ban Buak",
+    "gn:country_code":"TH",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1620472,
+    "gn:latitude":18.01667,
+    "gn:longitude":104.18333,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Ban Buak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pho Sai",
+        "Ban Buak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1620472
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"58b961ca6075e1db6c55daebc40ca347",
+    "wof:hierarchy":[
+        {
+            "country_id":85632293,
+            "locality_id":1209444431
+        }
+    ],
+    "wof:id":1209444431,
+    "wof:lastmodified":1537704233,
+    "wof:name":"Ban Buak",
+    "wof:parent_id":85632293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.18333,
+    18.01667,
+    104.18333,
+    18.01667
+],
+  "geometry": {"coordinates":[104.18333,18.01667],"type":"Point"}
+}

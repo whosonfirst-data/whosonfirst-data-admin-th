@@ -1,0 +1,70 @@
+{
+  "id": 1310221927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.82147,14.03453,99.82147,14.03453",
+    "geom:latitude":14.03453,
+    "geom:longitude":99.82147,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Ban Nong Lan",
+    "gn:country_code":"TH",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8455699,
+    "gn:latitude":14.03453,
+    "gn:longitude":99.82147,
+    "gn:modification_date":"2013-02-10",
+    "gn:name":"Ban Nong Lan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e19\u0e2d\u0e07\u0e25\u0e32\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678663,
+        1108802755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8455699
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"ba3df72abfb80ee63cf3d8c1a3699247",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802755,
+            "locality_id":1310221927,
+            "region_id":85678663
+        }
+    ],
+    "wof:id":1310221927,
+    "wof:lastmodified":1537705635,
+    "wof:name":"Ban Nong Lan",
+    "wof:parent_id":1108802755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.82147,
+    14.03453,
+    99.82147,
+    14.03453
+],
+  "geometry": {"coordinates":[99.82147000000001,14.03453],"type":"Point"}
+}

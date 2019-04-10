@@ -1,0 +1,70 @@
+{
+  "id": 1209173573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.01464,15.05175,100.01464,15.05175",
+    "geom:latitude":15.05175,
+    "geom:longitude":100.01464,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Ban Tha Bot",
+    "gn:country_code":"TH",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1612827,
+    "gn:latitude":15.05175,
+    "gn:longitude":100.01464,
+    "gn:modification_date":"2014-01-08",
+    "gn:name":"Ban Tha Bot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e17\u0e48\u0e32\u0e42\u0e1a\u0e2a\u0e16\u0e4c"
+    ],
+    "name:und_x_variant":[
+        "Tha Bot",
+        "B\u0101n Tha Baut",
+        "B\u0101n Dh\u0101 B\u014dth",
+        "Ban Tha Bot"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1612827
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"6d11401c1c3cd1b4cc42db34b4aacac0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632293,
+            "locality_id":1209173573
+        }
+    ],
+    "wof:id":1209173573,
+    "wof:lastmodified":1537703730,
+    "wof:name":"Ban Tha Bot",
+    "wof:parent_id":85632293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.01464,
+    15.05175,
+    100.01464,
+    15.05175
+],
+  "geometry": {"coordinates":[100.01464,15.05175],"type":"Point"}
+}

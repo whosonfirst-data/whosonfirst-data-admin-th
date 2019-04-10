@@ -1,0 +1,72 @@
+{
+  "id": 890467045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.55063,11.63408,102.55063,11.63408",
+    "geom:latitude":11.63408,
+    "geom:longitude":102.55063,
+    "gn:country":"TH",
+    "gn:fcode":"PPL",
+    "gn:pop":210,
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:rus_x_preferred":[
+        "\u041a\u043b\u043e\u043d\u0433-\u0427\u0430\u043e"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e04\u0e25\u0e2d\u0e07\u0e40\u0e08\u0e49\u0e32"
+    ],
+    "qs:name":"Ban Khlong Chao",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wd:wordcount":247,
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1602693,
+        "gp:id":1225806,
+        "qs:id":85378,
+        "wk:page":"Khlong San District"
+    },
+    "wof:country":"TH",
+    "wof:created":1469053610,
+    "wof:geomhash":"2580cede1c3c373ac316d09ac6a2b049",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "locality_id":890467045,
+            "region_id":85678813
+        }
+    ],
+    "wof:id":890467045,
+    "wof:lastmodified":1527792898,
+    "wof:name":"Ban Khlong Chao",
+    "wof:parent_id":85678813,
+    "wof:placetype":"locality",
+    "wof:population":210,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.55063,
+    11.63408,
+    102.55063,
+    11.63408
+],
+  "geometry": {"coordinates":[102.55063,11.63408],"type":"Point"}
+}

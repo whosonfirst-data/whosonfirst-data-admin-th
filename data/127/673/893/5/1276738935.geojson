@@ -1,0 +1,67 @@
+{
+  "id": 1276738935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.58639,17.77,102.58639,17.77",
+    "geom:latitude":17.77,
+    "geom:longitude":102.58639,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Lian",
+    "gn:country_code":"TH",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1888099,
+    "gn:latitude":17.77,
+    "gn:longitude":102.58639,
+    "gn:modification_date":"2000-03-20",
+    "gn:name":"Ban Lian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678859,
+        890465741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1888099
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"b7620effa9a5d8b03ba7c6ee8649c7ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465741,
+            "locality_id":1276738935,
+            "region_id":85678859
+        }
+    ],
+    "wof:id":1276738935,
+    "wof:lastmodified":1536732661,
+    "wof:name":"Ban Lian",
+    "wof:parent_id":890465741,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.58639,
+    17.77,
+    102.58639,
+    17.77
+],
+  "geometry": {"coordinates":[102.58638999999999,17.77],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1276245719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.54314,15.5065,104.54314,15.5065",
+    "geom:latitude":15.5065,
+    "geom:longitude":104.54314,
+    "gn:admin1_code":"75.0",
+    "gn:asciiname":"Ban Nong Hang",
+    "gn:country_code":"TH",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8540248,
+    "gn:latitude":15.5065,
+    "gn:longitude":104.54314,
+    "gn:modification_date":"2013-06-06",
+    "gn:name":"Ban Nong Hang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e19\u0e2d\u0e07\u0e2b\u0e49\u0e32\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678783,
+        1108731407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8540248
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"dfaaea14a0cc13fc7c0a55e7079b327d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731407,
+            "locality_id":1276245719,
+            "region_id":85678783
+        }
+    ],
+    "wof:id":1276245719,
+    "wof:lastmodified":1537705693,
+    "wof:name":"Ban Nong Hang",
+    "wof:parent_id":1108731407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.54314,
+    15.5065,
+    104.54314,
+    15.5065
+],
+  "geometry": {"coordinates":[104.54313999999999,15.5065],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1242732223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.39286,15.34314,101.39286,15.34314",
+    "geom:latitude":15.34314,
+    "geom:longitude":101.39286,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Ban Chong Samran",
+    "gn:country_code":"TH",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1620112,
+    "gn:latitude":15.34314,
+    "gn:longitude":101.39286,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Ban Chong Samran",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e0a\u0e48\u0e2d\u0e07\u0e2a\u0e33\u0e23\u0e32\u0e0d"
+    ],
+    "name:und_x_variant":[
+        "Chong Samran",
+        "Ban Chong Saran",
+        "Ban Chong Samran"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678825,
+        1108802641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1620112
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"69529434d0f6a6cb61025fa82f1087f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802641,
+            "locality_id":1242732223,
+            "region_id":85678825
+        }
+    ],
+    "wof:id":1242732223,
+    "wof:lastmodified":1537704207,
+    "wof:name":"Ban Chong Samran",
+    "wof:parent_id":1108802641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.39286,
+    15.34314,
+    101.39286,
+    15.34314
+],
+  "geometry": {"coordinates":[101.39286,15.34314],"type":"Point"}
+}

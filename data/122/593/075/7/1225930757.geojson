@@ -1,0 +1,70 @@
+{
+  "id": 1225930757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.95717,16.788,99.95717,16.788",
+    "geom:latitude":16.788,
+    "geom:longitude":99.95717,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Ban Prong Kradon",
+    "gn:country_code":"TH",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8204981,
+    "gn:latitude":16.788,
+    "gn:longitude":99.95717,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Ban Prong Kradon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e42\u0e1b\u0e23\u0e48\u0e07\u0e01\u0e23\u0e30\u0e42\u0e14\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678647,
+        890465827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8204981
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"4c2ea5295bf04b0699d36221647bfd7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465827,
+            "locality_id":1225930757,
+            "region_id":85678647
+        }
+    ],
+    "wof:id":1225930757,
+    "wof:lastmodified":1537705094,
+    "wof:name":"Ban Prong Kradon",
+    "wof:parent_id":890465827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.95717,
+    16.788,
+    99.95717,
+    16.788
+],
+  "geometry": {"coordinates":[99.95717,16.788],"type":"Point"}
+}

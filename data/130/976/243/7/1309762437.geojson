@@ -1,0 +1,70 @@
+{
+  "id": 1309762437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.09994,16.75581,102.09994,16.75581",
+    "geom:latitude":16.75581,
+    "geom:longitude":102.09994,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Ban Charoen Suk",
+    "gn:country_code":"TH",
+    "gn:dem":262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9000626,
+    "gn:latitude":16.75581,
+    "gn:longitude":102.09994,
+    "gn:modification_date":"2014-05-01",
+    "gn:name":"Ban Charoen Suk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e08\u0e23\u0e34\u0e0d\u0e2a\u0e38\u0e02"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678827,
+        1108731883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9000626
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"e5e0c9725a32de7a0f54074cf66fc63b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731883,
+            "locality_id":1309762437,
+            "region_id":85678827
+        }
+    ],
+    "wof:id":1309762437,
+    "wof:lastmodified":1537706069,
+    "wof:name":"Ban Charoen Suk",
+    "wof:parent_id":1108731883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.09994,
+    16.75581,
+    102.09994,
+    16.75581
+],
+  "geometry": {"coordinates":[102.09994,16.75581],"type":"Point"}
+}

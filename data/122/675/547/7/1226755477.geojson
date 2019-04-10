@@ -1,0 +1,75 @@
+{
+  "id": 1226755477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.59553,18.08286,98.59553,18.08286",
+    "geom:latitude":18.08286,
+    "geom:longitude":98.59553,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Dong Dam",
+    "gn:country_code":"TH",
+    "gn:dem":264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1157922,
+    "gn:latitude":18.08286,
+    "gn:longitude":98.59553,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Dong Dam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e14\u0e07\u0e14\u0e33"
+    ],
+    "name:und_x_variant":[
+        "Ban Kariang",
+        "B\u0101n Gariang",
+        "Ban Dong Dam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678619,
+        1108731287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1157922
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"217005157721bb33a12d9a9b718ce141",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731287,
+            "locality_id":1226755477,
+            "region_id":85678619
+        }
+    ],
+    "wof:id":1226755477,
+    "wof:lastmodified":1537703284,
+    "wof:name":"Ban Dong Dam",
+    "wof:parent_id":1108731287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.59553,
+    18.08286,
+    98.59553,
+    18.08286
+],
+  "geometry": {"coordinates":[98.59553,18.08286],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1343475817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.24647,7.27736,100.24647,7.27736",
+    "geom:latitude":7.27736,
+    "geom:longitude":100.24647,
+    "gn:admin1_code":"66.0",
+    "gn:asciiname":"Ban Sai Khae",
+    "gn:country_code":"TH",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8204814,
+    "gn:latitude":7.27736,
+    "gn:longitude":100.24647,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Ban Sai Khae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e44\u0e2a\u0e41\u0e04"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        1108802715,
+        1108731675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8204814
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"4fe221d51800f9093ab406e2732eeef0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802715,
+            "locality_id":1343475817,
+            "region_id":-1
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731675,
+            "locality_id":1343475817,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343475817,
+    "wof:lastmodified":1537705093,
+    "wof:name":"Ban Sai Khae",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.24647,
+    7.27736,
+    100.24647,
+    7.27736
+],
+  "geometry": {"coordinates":[100.24647,7.27736],"type":"Point"}
+}

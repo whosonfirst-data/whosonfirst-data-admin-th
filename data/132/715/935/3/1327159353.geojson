@@ -1,0 +1,70 @@
+{
+  "id": 1327159353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.37694,12.64361,101.37694,12.64361",
+    "geom:latitude":12.64361,
+    "geom:longitude":101.37694,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Ban Noen Sao Thong",
+    "gn:country_code":"TH",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7735855,
+    "gn:latitude":12.64361,
+    "gn:longitude":101.37694,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Noen Sao Thong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e19\u0e34\u0e19\u0e40\u0e2a\u0e32\u0e18\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678809,
+        1108802679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7735855
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"d89b353b8ae9a945dbb0b97a7dcb892c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802679,
+            "locality_id":1327159353,
+            "region_id":85678809
+        }
+    ],
+    "wof:id":1327159353,
+    "wof:lastmodified":1537704636,
+    "wof:name":"Ban Noen Sao Thong",
+    "wof:parent_id":1108802679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.37694,
+    12.64361,
+    101.37694,
+    12.64361
+],
+  "geometry": {"coordinates":[101.37694,12.64361],"type":"Point"}
+}

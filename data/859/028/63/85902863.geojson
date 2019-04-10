@@ -1,0 +1,109 @@
+{
+  "id": 85902863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000456,
+    "geom:area_square_m":5482078.79768,
+    "geom:bbox":"100.492127195,13.6493316793,100.524902344,13.6673382597",
+    "geom:latitude":13.659128,
+    "geom:longitude":100.510503,
+    "gn:id":"",
+    "iso:country":"TH",
+    "lbl:latitude":13.662667,
+    "lbl:longitude":100.513229,
+    "mps:latitude":13.658382,
+    "mps:longitude":100.515712,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":5,
+    "name:eng_x_preferred":[
+        "Rat Burana Khwaeng"
+    ],
+    "name:eng_x_variant":[
+        "Rat Burana Khwang"
+    ],
+    "name:unk_x_variant":[
+        "Rat Burana Khwaeng"
+    ],
+    "qs:gn_adm0_cc":"TH",
+    "qs:gn_id":0,
+    "qs:gn_local":1609350,
+    "qs:gn_nam_loc":"Bangkok, Bangkok, TH",
+    "qs:gn_namadm1":"40",
+    "qs:local_max":21510,
+    "qs:local_sum":280580,
+    "qs:localhoods":117,
+    "qs:name":"Rat Burana Khwaeng",
+    "qs:name_adm0":"Thailand",
+    "qs:name_adm1":"Bangkok",
+    "qs:name_adm2":"Rat Burana",
+    "qs:name_local":"Bangkok",
+    "qs:photo_max":4,
+    "qs:photo_sum":8,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":4,
+    "qs:woe_adm0":23424960,
+    "qs:woe_adm1":2347165,
+    "qs:woe_adm2":28341408,
+    "qs:woe_lau":0,
+    "qs:woe_local":1225448,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85678739,
+        102191569,
+        85632293,
+        102025263,
+        890466393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1225613,
+        "qs:id":895084,
+        "qs_pg:id":895084
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"2563e1f716f157f28ceb5dad9dbf5aca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466393,
+            "locality_id":102025263,
+            "neighbourhood_id":85902863,
+            "region_id":85678739
+        }
+    ],
+    "wof:id":85902863,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527269214,
+    "wof:name":"Rat Burana Khwaeng",
+    "wof:parent_id":102025263,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.49212719487434,
+    13.64933167929993,
+    100.52490234400005,
+    13.66733825970002
+],
+  "geometry": {"coordinates":[[[100.51940918000003,13.66733825970002],[100.51940918000003,13.66733822945034],[100.52215576200018,13.66733822945034],[100.52474903106918,13.66200054950014],[100.52490234400005,13.66184277063726],[100.52490234400005,13.65368464998082],[100.52373366581213,13.65226061148827],[100.52221830033051,13.65101698317692],[100.52048943232387,13.65009288397513],[100.51861350122044,13.64952382649595],[100.51666259800015,13.64933167929993],[100.51471169477992,13.64952382649595],[100.51283576367649,13.65009288397513],[100.51110689566997,13.65101698317692],[100.50959153018823,13.65226061148827],[100.50842285175014,13.65368465028529],[100.50725417331211,13.65226061148827],[100.50573880783048,13.65101698317692],[100.50452147452103,13.65036630496694],[100.50452334707018,13.65034729265797],[100.49995353267235,13.65269865186683],[100.49327838086265,13.65956800710497],[100.49212719487434,13.66193736572254],[100.49936976015056,13.66566413492156],[100.5001831055003,13.66733822945034],[100.50292968800005,13.66733822945034],[100.50292968800005,13.66733825970002],[100.50842285200008,13.66733825970002],[100.50842285200008,13.66733822945034],[100.51116943400012,13.66733822945034],[100.513916016,13.66733822945034],[100.513916016,13.66733825970002],[100.51940918000003,13.66733825970002]]],"type":"Polygon"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1360253811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.50783,16.60128,102.50783,16.60128",
+    "geom:latitude":16.60128,
+    "geom:longitude":102.50783,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Ban Non Samran",
+    "gn:country_code":"TH",
+    "gn:dem":211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9004340,
+    "gn:latitude":16.60128,
+    "gn:longitude":102.50783,
+    "gn:modification_date":"2014-05-01",
+    "gn:name":"Ban Non Samran",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e42\u0e19\u0e19\u0e2a\u0e33\u0e23\u0e32\u0e0d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678827,
+        1108731757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9004340
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"e7fe4b02292b4b80edda6de0c085cf2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731757,
+            "locality_id":1360253811,
+            "region_id":85678827
+        }
+    ],
+    "wof:id":1360253811,
+    "wof:lastmodified":1537706102,
+    "wof:name":"Ban Non Samran",
+    "wof:parent_id":1108731757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.50783,
+    16.60128,
+    102.50783,
+    16.60128
+],
+  "geometry": {"coordinates":[102.50783,16.60128],"type":"Point"}
+}

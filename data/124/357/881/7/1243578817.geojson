@@ -1,0 +1,70 @@
+{
+  "id": 1243578817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.8974,7.95277,99.8974,7.95277",
+    "geom:latitude":7.95277,
+    "geom:longitude":99.8974,
+    "gn:admin1_code":"64.0",
+    "gn:asciiname":"Ban La Mai",
+    "gn:country_code":"TH",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8240233,
+    "gn:latitude":7.95277,
+    "gn:longitude":99.8974,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Ban La Mai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e25\u0e32\u0e44\u0e21"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678565,
+        890465817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8240233
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"fd0d3f4f6b64d0744dc47fc370ef6642",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465817,
+            "locality_id":1243578817,
+            "region_id":85678565
+        }
+    ],
+    "wof:id":1243578817,
+    "wof:lastmodified":1537705213,
+    "wof:name":"Ban La Mai",
+    "wof:parent_id":890465817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.8974,
+    7.95277,
+    99.8974,
+    7.95277
+],
+  "geometry": {"coordinates":[99.8974,7.95277],"type":"Point"}
+}

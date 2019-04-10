@@ -1,0 +1,66 @@
+{
+  "id": 1209242317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.45,9.08333,98.45,9.08333",
+    "geom:latitude":9.08333,
+    "geom:longitude":98.45,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Ban Bang Daeng",
+    "gn:cc2":"TH",
+    "gn:country_code":"TH",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1158345,
+    "gn:latitude":9.08333,
+    "gn:longitude":98.45,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Bang Daeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Bangdeng",
+        "Ban Bang Daeng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1158345
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"976f8ccd49257377751dfe0dc62eea58",
+    "wof:hierarchy":[
+        {
+            "country_id":85632293,
+            "locality_id":1209242317
+        }
+    ],
+    "wof:id":1209242317,
+    "wof:lastmodified":1537703314,
+    "wof:name":"Ban Bang Daeng",
+    "wof:parent_id":85632293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.45,
+    9.08333,
+    98.45,
+    9.08333
+],
+  "geometry": {"coordinates":[98.45,9.08333],"type":"Point"}
+}

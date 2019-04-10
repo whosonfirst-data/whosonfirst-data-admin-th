@@ -1,0 +1,70 @@
+{
+  "id": 1242914767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.06392,14.97017,100.06392,14.97017",
+    "geom:latitude":14.97017,
+    "geom:longitude":100.06392,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Ban Satue Sing",
+    "gn:country_code":"TH",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8676921,
+    "gn:latitude":14.97017,
+    "gn:longitude":100.06392,
+    "gn:modification_date":"2014-01-18",
+    "gn:name":"Ban Satue Sing",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2a\u0e30\u0e15\u0e37\u0e2d\u0e2a\u0e34\u0e07\u0e2b\u0e4c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678699,
+        1108731283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8676921
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"a6895962cdadea879c57a260f0aa9f2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731283,
+            "locality_id":1242914767,
+            "region_id":85678699
+        }
+    ],
+    "wof:id":1242914767,
+    "wof:lastmodified":1537705836,
+    "wof:name":"Ban Satue Sing",
+    "wof:parent_id":1108731283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.06392,
+    14.97017,
+    100.06392,
+    14.97017
+],
+  "geometry": {"coordinates":[100.06392,14.97017],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1260129257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.57267,14.73083,104.57267,14.73083",
+    "geom:latitude":14.73083,
+    "geom:longitude":104.57267,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Ban Na Sombun",
+    "gn:country_code":"TH",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8536126,
+    "gn:latitude":14.73083,
+    "gn:longitude":104.57267,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Ban Na Sombun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e19\u0e32\u0e2a\u0e21\u0e1a\u0e23\u0e39\u0e13\u0e4c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678779,
+        1108731327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8536126
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"ef4854da57c2ba3c46424ac5afd718af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731327,
+            "locality_id":1260129257,
+            "region_id":85678779
+        }
+    ],
+    "wof:id":1260129257,
+    "wof:lastmodified":1537705663,
+    "wof:name":"Ban Na Sombun",
+    "wof:parent_id":1108731327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.57267,
+    14.73083,
+    104.57267,
+    14.73083
+],
+  "geometry": {"coordinates":[104.57267,14.73083],"type":"Point"}
+}

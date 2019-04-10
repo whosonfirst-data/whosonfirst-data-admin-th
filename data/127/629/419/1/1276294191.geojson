@@ -1,0 +1,73 @@
+{
+  "id": 1276294191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.6732,17.16817,101.6732,17.16817",
+    "geom:latitude":17.16817,
+    "geom:longitude":101.6732,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Na Fai",
+    "gn:country_code":"TH",
+    "gn:dem":273,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1601277,
+    "gn:latitude":17.16817,
+    "gn:longitude":101.6732,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Na Fai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "Ban Na Fai"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e19\u0e32\u0e1d\u0e32\u0e22"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678853,
+        1108731747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1601277
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"0cc1ea170cfaa97b7546f941ac239017",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731747,
+            "locality_id":1276294191,
+            "region_id":85678853
+        }
+    ],
+    "wof:id":1276294191,
+    "wof:lastmodified":1537703505,
+    "wof:name":"Ban Na Fai",
+    "wof:parent_id":1108731747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.6732,
+    17.16817,
+    101.6732,
+    17.16817
+],
+  "geometry": {"coordinates":[101.67319999999999,17.16817],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243220647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.69219,15.61608,103.69219,15.61608",
+    "geom:latitude":15.61608,
+    "geom:longitude":103.69219,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Ban Phon Pha-ung",
+    "gn:country_code":"TH",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8683438,
+    "gn:latitude":15.61608,
+    "gn:longitude":103.69219,
+    "gn:modification_date":"2014-01-18",
+    "gn:name":"Ban Phon Pha-ung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e42\u0e1e\u0e19\u0e1e\u0e2d\u0e38\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678845,
+        1108731957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8683438
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"94f87c7d11c1c24b92904c88179299d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731957,
+            "locality_id":1243220647,
+            "region_id":85678845
+        }
+    ],
+    "wof:id":1243220647,
+    "wof:lastmodified":1537705879,
+    "wof:name":"Ban Phon Pha-ung",
+    "wof:parent_id":1108731957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.69219,
+    15.61608,
+    103.69219,
+    15.61608
+],
+  "geometry": {"coordinates":[103.69219,15.61608],"type":"Point"}
+}

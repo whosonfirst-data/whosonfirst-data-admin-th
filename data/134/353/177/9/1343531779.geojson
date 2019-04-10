@@ -1,0 +1,70 @@
+{
+  "id": 1343531779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.86453,16.31689,100.86453,16.31689",
+    "geom:latitude":16.31689,
+    "geom:longitude":100.86453,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ban Chang Chok Hin",
+    "gn:country_code":"TH",
+    "gn:dem":233,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8566947,
+    "gn:latitude":16.31689,
+    "gn:longitude":100.86453,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Ban Chang Chok Hin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e0a\u0e49\u0e32\u0e07\u0e08\u0e01\u0e2b\u0e34\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678673,
+        1108732057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8566947
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"7b8f7a99abb31931ad7fba7b834e3979",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108732057,
+            "locality_id":1343531779,
+            "region_id":85678673
+        }
+    ],
+    "wof:id":1343531779,
+    "wof:lastmodified":1537705739,
+    "wof:name":"Ban Chang Chok Hin",
+    "wof:parent_id":1108732057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.86453,
+    16.31689,
+    100.86453,
+    16.31689
+],
+  "geometry": {"coordinates":[100.86453,16.31689],"type":"Point"}
+}

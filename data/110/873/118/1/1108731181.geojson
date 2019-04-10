@@ -1,0 +1,97 @@
+{
+  "id": 1108731181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00114,
+    "geom:area_square_m":13692481.609864,
+    "geom:bbox":"100.494935371,13.6787534587,100.536976234,13.7222705187",
+    "geom:latitude":13.699391,
+    "geom:longitude":100.516817,
+    "iso:country":"TH",
+    "lbl:latitude":13.699497,
+    "lbl:longitude":100.517217,
+    "meso:admin1_en":"KRUNG THEP",
+    "meso:diss_me":"Bangkho LaemKRUNG THEP",
+    "meso:gadm_admin":"Bang Kho Laem",
+    "meso:gadm_hasc2":"TH.BM.KL",
+    "meso:gaul_admin":"Bangkho Laem",
+    "meso:id":"70",
+    "meso:loc_id_alt":"1031",
+    "meso:local_id":"3231",
+    "meso:mps_x":100.517217,
+    "meso:mps_y":13.699497,
+    "meso:name_en":"Bangkho Laem",
+    "meso:name_local":"\u0e40\u0e02\u0e15\u0e1a\u0e32\u0e07\u0e04\u0e2d\u0e41\u0e2b\u0e25\u0e21",
+    "meso:source":"AOTM",
+    "mps:latitude":13.699497,
+    "mps:longitude":100.517217,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Bang Kho Laem"
+    ],
+    "name:eng_x_variant":[
+        "Bangkho Laem",
+        "Bang Kho Laem"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e02\u0e15\u0e1a\u0e32\u0e07\u0e04\u0e2d\u0e41\u0e2b\u0e25\u0e21"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2000-04-01",
+    "statoids:area_km":"11",
+    "statoids:as_of_date":"2000-04-01",
+    "statoids:capital":"",
+    "statoids:country":"TH",
+    "statoids:hasc":"TH.BM",
+    "statoids:name":"Bang Kho Laem",
+    "statoids:population":"135388",
+    "statoids:statoid":"TH.BM.KL",
+    "statoids:timezone":"7",
+    "statoids:type":"district",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"TH.BM.KL"
+    },
+    "wof:country":"TH",
+    "wof:created":1478798204,
+    "wof:geomhash":"51a651f3b204bc81919598f477dd14d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731181,
+            "region_id":85678739
+        }
+    ],
+    "wof:id":1108731181,
+    "wof:lastmodified":1536615637,
+    "wof:name":"Bangkho Laem",
+    "wof:parent_id":85678739,
+    "wof:placetype":"county",
+    "wof:placetype_local":"district",
+    "wof:population":135388,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:shortcode":"KL",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.49493537069648,
+    13.6787534586803,
+    100.53697623380316,
+    13.7222705187474
+],
+  "geometry": {"coordinates":[[[100.5143062751329,13.7222705187474],[100.52918058114103,13.71505307383674],[100.53051428541048,13.71389094106525],[100.53517182043784,13.71183620317483],[100.53697623380316,13.70361871504072],[100.52906070160815,13.68789062238358],[100.52731728181857,13.68672573675115],[100.52489267347265,13.6787534586803],[100.514563305425,13.68115651950479],[100.51236290838307,13.6832382997976],[100.50944833759729,13.68393188218451],[100.50663534587723,13.68250495813274],[100.49757313155649,13.6835265596701],[100.49493537069648,13.68946678075953],[100.50246505938922,13.7018540752635],[100.50231517173931,13.70281591892323],[100.50467194650258,13.71051862153694],[100.5143062751329,13.7222705187474]]],"type":"Polygon"}
+}

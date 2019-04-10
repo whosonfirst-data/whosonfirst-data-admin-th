@@ -1,0 +1,70 @@
+{
+  "id": 1226556953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.27939,15.73994,104.27939,15.73994",
+    "geom:latitude":15.73994,
+    "geom:longitude":104.27939,
+    "gn:admin1_code":"72.0",
+    "gn:asciiname":"Ban Lao Po",
+    "gn:country_code":"TH",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8671224,
+    "gn:latitude":15.73994,
+    "gn:longitude":104.27939,
+    "gn:modification_date":"2014-01-18",
+    "gn:name":"Ban Lao Po",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e2b\u0e25\u0e48\u0e32\u0e42\u0e1b\u0e48"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678791,
+        1108731347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8671224
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"bb9a08166fdb2a72997537ca4f6e7e86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731347,
+            "locality_id":1226556953,
+            "region_id":85678791
+        }
+    ],
+    "wof:id":1226556953,
+    "wof:lastmodified":1537705817,
+    "wof:name":"Ban Lao Po",
+    "wof:parent_id":1108731347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.27939,
+    15.73994,
+    104.27939,
+    15.73994
+],
+  "geometry": {"coordinates":[104.27939000000001,15.73994],"type":"Point"}
+}

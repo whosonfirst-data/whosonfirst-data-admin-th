@@ -1,0 +1,67 @@
+{
+  "id": 1310178525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.55,16.71667,101.55,16.71667",
+    "geom:latitude":16.71667,
+    "geom:longitude":101.55,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ban Plaek",
+    "gn:country_code":"TH",
+    "gn:dem":920,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1598825,
+    "gn:latitude":16.71667,
+    "gn:longitude":101.55,
+    "gn:modification_date":"1994-04-10",
+    "gn:name":"Ban Plaek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678825,
+        890465699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1598825
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"f8d0e283f7b30e570eb3f733ff365b19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465699,
+            "locality_id":1310178525,
+            "region_id":85678825
+        }
+    ],
+    "wof:id":1310178525,
+    "wof:lastmodified":1536890969,
+    "wof:name":"Ban Plaek",
+    "wof:parent_id":890465699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.55,
+    16.71667,
+    101.55,
+    16.71667
+],
+  "geometry": {"coordinates":[101.55,16.71667],"type":"Point"}
+}

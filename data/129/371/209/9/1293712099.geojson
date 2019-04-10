@@ -1,0 +1,72 @@
+{
+  "id": 1293712099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.2,13.78333,101.2,13.78333",
+    "geom:latitude":13.78333,
+    "geom:longitude":101.2,
+    "gn:admin1_code":"44.0",
+    "gn:asciiname":"Ban Phlap",
+    "gn:cc2":"TH",
+    "gn:country_code":"TH",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1614264,
+    "gn:latitude":13.78333,
+    "gn:longitude":101.2,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Phlap",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phalup",
+        "Ban Phlap"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678797,
+        1108802617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1614264
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"3632d31ee8db72c936ebb445a3f1c9ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802617,
+            "locality_id":1293712099,
+            "region_id":85678797
+        }
+    ],
+    "wof:id":1293712099,
+    "wof:lastmodified":1537703830,
+    "wof:name":"Ban Phlap",
+    "wof:parent_id":1108802617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.2,
+    13.78333,
+    101.2,
+    13.78333
+],
+  "geometry": {"coordinates":[101.2,13.78333],"type":"Point"}
+}

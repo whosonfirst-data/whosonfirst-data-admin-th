@@ -1,0 +1,70 @@
+{
+  "id": 1243118753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.4395,15.36047,103.4395,15.36047",
+    "geom:latitude":15.36047,
+    "geom:longitude":103.4395,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Ban Non Sai Nuea",
+    "gn:country_code":"TH",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8703293,
+    "gn:latitude":15.36047,
+    "gn:longitude":103.4395,
+    "gn:modification_date":"2014-02-17",
+    "gn:name":"Ban Non Sai Nuea",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e42\u0e19\u0e19\u0e2a\u0e32\u0e22\u0e40\u0e2b\u0e19\u0e37\u0e2d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678849,
+        1108731261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8703293
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"c5f20fbe47fe9f23c095cacbdc3a7f83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731261,
+            "locality_id":1243118753,
+            "region_id":85678849
+        }
+    ],
+    "wof:id":1243118753,
+    "wof:lastmodified":1537705924,
+    "wof:name":"Ban Non Sai Nuea",
+    "wof:parent_id":1108731261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.4395,
+    15.36047,
+    103.4395,
+    15.36047
+],
+  "geometry": {"coordinates":[103.4395,15.36047],"type":"Point"}
+}

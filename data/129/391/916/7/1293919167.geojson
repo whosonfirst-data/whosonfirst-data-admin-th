@@ -1,0 +1,70 @@
+{
+  "id": 1293919167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.05442,13.36028,101.05442,13.36028",
+    "geom:latitude":13.36028,
+    "geom:longitude":101.05442,
+    "gn:admin1_code":"46.0",
+    "gn:asciiname":"Ban Samnak Bok",
+    "gn:country_code":"TH",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7851673,
+    "gn:latitude":13.36028,
+    "gn:longitude":101.05442,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Samnak Bok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2a\u0e33\u0e19\u0e31\u0e01\u0e1a\u0e01"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678795,
+        1108802665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7851673
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"8b455c70ae7d96f3cb6b3b38eae3f0c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802665,
+            "locality_id":1293919167,
+            "region_id":85678795
+        }
+    ],
+    "wof:id":1293919167,
+    "wof:lastmodified":1537704722,
+    "wof:name":"Ban Samnak Bok",
+    "wof:parent_id":1108802665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.05442,
+    13.36028,
+    101.05442,
+    13.36028
+],
+  "geometry": {"coordinates":[101.05441999999999,13.36028],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1310608795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.98386,18.99794,98.98386,18.99794",
+    "geom:latitude":18.99794,
+    "geom:longitude":98.98386,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Wang Khum Ngoen",
+    "gn:country_code":"TH",
+    "gn:dem":333,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8196461,
+    "gn:latitude":18.99794,
+    "gn:longitude":98.98386,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Ban Wang Khum Ngoen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e27\u0e31\u0e07\u0e02\u0e38\u0e21\u0e40\u0e07\u0e34\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678619,
+        890466149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8196461
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"4f5b0b4001495c046c1693f533f13315",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466149,
+            "locality_id":1310608795,
+            "region_id":85678619
+        }
+    ],
+    "wof:id":1310608795,
+    "wof:lastmodified":1537705062,
+    "wof:name":"Ban Wang Khum Ngoen",
+    "wof:parent_id":890466149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.98386,
+    18.99794,
+    98.98386,
+    18.99794
+],
+  "geometry": {"coordinates":[98.98386000000001,18.99794],"type":"Point"}
+}

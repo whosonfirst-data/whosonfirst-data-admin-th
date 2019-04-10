@@ -1,0 +1,70 @@
+{
+  "id": 1360097687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.52461,18.43881,98.52461,18.43881",
+    "geom:latitude":18.43881,
+    "geom:longitude":98.52461,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Huai Pu Ling",
+    "gn:country_code":"TH",
+    "gn:dem":1070,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1330926,
+    "gn:latitude":18.43881,
+    "gn:longitude":98.52461,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ban Huai Pu Ling",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e49\u0e27\u0e1b\u0e39\u0e25\u0e34\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678619,
+        1108802597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1330926
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"35f8807b47adb504020e1c51de26393a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802597,
+            "locality_id":1360097687,
+            "region_id":85678619
+        }
+    ],
+    "wof:id":1360097687,
+    "wof:lastmodified":1537703324,
+    "wof:name":"Ban Huai Pu Ling",
+    "wof:parent_id":1108802597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.52461,
+    18.43881,
+    98.52461,
+    18.43881
+],
+  "geometry": {"coordinates":[98.52461,18.43881],"type":"Point"}
+}

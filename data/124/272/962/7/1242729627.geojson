@@ -1,0 +1,70 @@
+{
+  "id": 1242729627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.93969,14.65172,100.93969,14.65172",
+    "geom:latitude":14.65172,
+    "geom:longitude":100.93969,
+    "gn:admin1_code":"37",
+    "gn:asciiname":"Ban Khok Din Daeng",
+    "gn:country_code":"TH",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9030153,
+    "gn:latitude":14.65172,
+    "gn:longitude":100.93969,
+    "gn:modification_date":"2014-05-02",
+    "gn:name":"Ban Khok Din Daeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e42\u0e04\u0e01\u0e14\u0e34\u0e19\u0e41\u0e14\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678735,
+        890466791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9030153
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"88d91be079093183c222dd13fc70a871",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466791,
+            "locality_id":1242729627,
+            "region_id":85678735
+        }
+    ],
+    "wof:id":1242729627,
+    "wof:lastmodified":1537706126,
+    "wof:name":"Ban Khok Din Daeng",
+    "wof:parent_id":890466791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.93969,
+    14.65172,
+    100.93969,
+    14.65172
+],
+  "geometry": {"coordinates":[100.93969,14.65172],"type":"Point"}
+}

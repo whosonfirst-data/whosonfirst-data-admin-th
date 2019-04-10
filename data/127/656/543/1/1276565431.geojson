@@ -1,0 +1,70 @@
+{
+  "id": 1276565431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.62353,9.18531,99.62353,9.18531",
+    "geom:latitude":9.18531,
+    "geom:longitude":99.62353,
+    "gn:admin1_code":"60.0",
+    "gn:asciiname":"Ban Wat Pradu",
+    "gn:country_code":"TH",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8326321,
+    "gn:latitude":9.18531,
+    "gn:longitude":99.62353,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Ban Wat Pradu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e27\u0e31\u0e14\u0e1b\u0e23\u0e30\u0e14\u0e39\u0e48"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678581,
+        1108731325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8326321
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"b49d5ccbd545ea4f066325e67d1b1ac0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731325,
+            "locality_id":1276565431,
+            "region_id":85678581
+        }
+    ],
+    "wof:id":1276565431,
+    "wof:lastmodified":1537705396,
+    "wof:name":"Ban Wat Pradu",
+    "wof:parent_id":1108731325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.62353,
+    9.18531,
+    99.62353,
+    9.18531
+],
+  "geometry": {"coordinates":[99.62353,9.18531],"type":"Point"}
+}

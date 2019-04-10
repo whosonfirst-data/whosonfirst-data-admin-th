@@ -1,0 +1,73 @@
+{
+  "id": 1310030717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.55942,16.05957,104.55942,16.05957",
+    "geom:latitude":16.05957,
+    "geom:longitude":104.55942,
+    "gn:admin1_code":"77.0",
+    "gn:asciiname":"Ban Na Hueang",
+    "gn:country_code":"TH",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8147945,
+    "gn:latitude":16.05957,
+    "gn:longitude":104.55942,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Ban Na Hueang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "Ban Na Hueang"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e19\u0e32\u0e40\u0e2e\u0e37\u0e2d\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678789,
+        1108731873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8147945
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"32e5429d3a189660508515bdb4eaa04d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731873,
+            "locality_id":1310030717,
+            "region_id":85678789
+        }
+    ],
+    "wof:id":1310030717,
+    "wof:lastmodified":1537705028,
+    "wof:name":"Ban Na Hueang",
+    "wof:parent_id":1108731873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.55942,
+    16.05957,
+    104.55942,
+    16.05957
+],
+  "geometry": {"coordinates":[104.55942,16.05957],"type":"Point"}
+}

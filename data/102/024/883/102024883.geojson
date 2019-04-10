@@ -1,0 +1,121 @@
+{
+  "id": 102024883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000255,
+    "geom:area_square_m":3131231.565625,
+    "geom:bbox":"101.587031468,6.63920237371,101.605107138,6.6572758755",
+    "geom:latitude":6.648239,
+    "geom:longitude":101.596069,
+    "gn:population":14356,
+    "iso:country":"TH",
+    "lbl:latitude":6.648239,
+    "lbl:longitude":101.596069,
+    "mps:latitude":6.648239,
+    "mps:longitude":101.596069,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bpy_x_preferred":[
+        "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09b8\u09be\u0987 \u09ac\u09c1\u09b0\u09bf"
+    ],
+    "name:deu_x_preferred":[
+        "Amphoe Sai Buri"
+    ],
+    "name:eng_x_preferred":[
+        "Sai Buri"
+    ],
+    "name:eng_x_variant":[
+        "Telupin"
+    ],
+    "name:por_x_preferred":[
+        "Sai Buri"
+    ],
+    "name:ron_x_preferred":[
+        "Districtul Sai Buri"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e2a\u0e32\u0e22\u0e1a\u0e38\u0e23\u0e35"
+    ],
+    "name:tha_x_variant":[
+        "\u0e2a\u0e32\u0e22\u0e1a\u0e38\u0e23\u0e35"
+    ],
+    "name:unk_x_variant":[
+        "Ban Taluban"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u06cc \u0628\u0631\u06cc \u0636\u0644\u0639"
+    ],
+    "name:vie_x_preferred":[
+        "Sai Buri"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Sai Buri K\u016bn"
+    ],
+    "name:zho_x_preferred":[
+        "\u67ff\u6b66\u91cc\u53bf"
+    ],
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Sai Buri",
+    "qs:loc_lc":"1606851",
+    "qs:pop":0,
+    "qs:source":"Aquattroshapes",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":280,
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"07cec0f8-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":1606851,
+        "gp:id":1226139,
+        "qs:id":845640,
+        "qs_pg:id":845640,
+        "wd:id":"Q476581"
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"c8dc50d1fe6907d7ff74b11fd8aaf37e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "locality_id":102024883,
+            "region_id":85678889
+        }
+    ],
+    "wof:id":102024883,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527636445,
+    "wof:name":"Sai Buri",
+    "wof:parent_id":85678889,
+    "wof:placetype":"locality",
+    "wof:population":14356,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.58703146846965,
+    6.63920237370755,
+    101.60510713751715,
+    6.65727587550059
+],
+  "geometry": {"coordinates":[[[101.59778599777648,6.63936676720476],[101.59602192612586,6.63920237370755],[101.59425967265703,6.63938525135737],[101.5925669564872,6.6399083740326],[101.59100882552652,6.64075164061245],[101.58964515705931,6.64188264711939],[101.58852835681928,6.6432579316389],[101.58770134495656,6.64482464422817],[101.58719590631576,6.6465225776859],[101.58703146846965,6.64828648117744],[101.58721435454295,6.65004856781805],[101.58773753963011,6.65174111984564],[101.5885809202543,6.65329909124394],[101.58971208659231,6.65466260775696],[101.59108756783981,6.65577926817213],[101.59265450287718,6.65660615837936],[101.59435267202026,6.65711150076241],[101.5961168117223,6.65727587550059],[101.59787912320537,6.65709296683096],[101.59957187851977,6.65656980559787],[101.60113002379639,6.65572649879215],[101.602493679571,6.65459545651515],[101.60361044204258,6.65322014612727],[101.60443739681044,6.65165342150958],[101.60494276772248,6.64995549169443],[101.60510713751715,6.64819160696193],[101.60492419342954,6.64642955134114],[101.60440096919787,6.64473703787141],[101.60355757425775,6.64317910669908],[101.60242642061233,6.64181562595593],[101.60105097713348,6.64069899140922],[101.5994840991908,6.6398721132305],[101.59778599777648,6.63936676720476]]],"type":"Polygon"}
+}

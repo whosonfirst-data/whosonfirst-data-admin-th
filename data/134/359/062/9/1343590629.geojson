@@ -1,0 +1,70 @@
+{
+  "id": 1343590629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.08528,14.20708,100.08528,14.20708",
+    "geom:latitude":14.20708,
+    "geom:longitude":100.08528,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Ban Thong Pradit",
+    "gn:country_code":"TH",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8667256,
+    "gn:latitude":14.20708,
+    "gn:longitude":100.08528,
+    "gn:modification_date":"2014-01-18",
+    "gn:name":"Ban Thong Pradit",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e17\u0e2d\u0e07\u0e1b\u0e23\u0e30\u0e14\u0e34\u0e29\u0e10\u0e4c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678679,
+        890465739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8667256
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"ec85898af1e61a01711fc58562f2ef5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465739,
+            "locality_id":1343590629,
+            "region_id":85678679
+        }
+    ],
+    "wof:id":1343590629,
+    "wof:lastmodified":1537705805,
+    "wof:name":"Ban Thong Pradit",
+    "wof:parent_id":890465739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.08528,
+    14.20708,
+    100.08528,
+    14.20708
+],
+  "geometry": {"coordinates":[100.08528,14.20708],"type":"Point"}
+}

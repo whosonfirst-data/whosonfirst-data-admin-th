@@ -1,0 +1,70 @@
+{
+  "id": 1327121239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.65572,17.27742,100.65572,17.27742",
+    "geom:latitude":17.27742,
+    "geom:longitude":100.65572,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Ban Nam Phueng",
+    "gn:country_code":"TH",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8206449,
+    "gn:latitude":17.27742,
+    "gn:longitude":100.65572,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Ban Nam Phueng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e19\u0e49\u0e33\u0e1e\u0e36\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678647,
+        1108731235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8206449
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"4376f1b8ba39c40a75e85790c18cb4ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731235,
+            "locality_id":1327121239,
+            "region_id":85678647
+        }
+    ],
+    "wof:id":1327121239,
+    "wof:lastmodified":1537705113,
+    "wof:name":"Ban Nam Phueng",
+    "wof:parent_id":1108731235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.65572,
+    17.27742000000001,
+    100.65572,
+    17.27742000000001
+],
+  "geometry": {"coordinates":[100.65572,17.27742000000001],"type":"Point"}
+}

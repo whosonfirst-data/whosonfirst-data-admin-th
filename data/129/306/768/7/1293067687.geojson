@@ -1,0 +1,70 @@
+{
+  "id": 1293067687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.81464,14.6415,101.81464,14.6415",
+    "geom:latitude":14.6415,
+    "geom:longitude":101.81464,
+    "gn:admin1_code":"27",
+    "gn:asciiname":"Ban Khlong Sarika",
+    "gn:country_code":"TH",
+    "gn:dem":254,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9105873,
+    "gn:latitude":14.6415,
+    "gn:longitude":101.81464,
+    "gn:modification_date":"2014-06-07",
+    "gn:name":"Ban Khlong Sarika",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e04\u0e25\u0e2d\u0e07\u0e2a\u0e32\u0e23\u0e34\u0e01\u0e32"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678841,
+        1108731679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9105873
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"443670c2d53845e84f7eddcad54927ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731679,
+            "locality_id":1293067687,
+            "region_id":85678841
+        }
+    ],
+    "wof:id":1293067687,
+    "wof:lastmodified":1537706152,
+    "wof:name":"Ban Khlong Sarika",
+    "wof:parent_id":1108731679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.81464,
+    14.6415,
+    101.81464,
+    14.6415
+],
+  "geometry": {"coordinates":[101.81464,14.6415],"type":"Point"}
+}

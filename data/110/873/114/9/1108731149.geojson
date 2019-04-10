@@ -1,0 +1,115 @@
+{
+  "id": 1108731149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.003893,
+    "geom:area_square_m":46571869.848859,
+    "geom:bbox":"100.502114667,14.6175238148,100.607965343,14.67",
+    "geom:latitude":14.644483,
+    "geom:longitude":100.550323,
+    "iso:country":"TH",
+    "lbl:latitude":14.643523,
+    "lbl:longitude":100.545023,
+    "meso:admin1_en":"PHRA NAKHON SI AYUTTHAYA",
+    "meso:diss_me":"Ban PhraekPHRA NAKHON SI AYUTTHAYA",
+    "meso:gadm_admin":"Ban Phraek",
+    "meso:gadm_hasc2":"TH.PA.PK",
+    "meso:gaul_admin":"Ban Phraek",
+    "meso:id":"33",
+    "meso:loc_id_alt":"1416",
+    "meso:local_id":"13309",
+    "meso:mps_x":100.545023,
+    "meso:mps_y":14.643523,
+    "meso:name_en":"Ban Phraek",
+    "meso:name_local":"\u0e1a\u0e49\u0e32\u0e19\u0e41\u0e1e\u0e23\u0e01",
+    "meso:source":"AOTM",
+    "mps:latitude":14.643523,
+    "mps:longitude":100.545023,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bpy_x_preferred":[
+        "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ac\u09be\u09a8 \u09ab\u09b0\u09be\u09af\u09bc\u09c7\u0995"
+    ],
+    "name:eng_x_preferred":[
+        "Ban Phraek"
+    ],
+    "name:fre_x_preferred":[
+        "Ban Phraek"
+    ],
+    "name:ger_x_preferred":[
+        "Amphoe Ban Phraek"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30fc\u30f3\u30d7\u30ec\u30fc\u30af\u90e1"
+    ],
+    "name:nan_x_preferred":[
+        "Ban Phraek K\u016bn"
+    ],
+    "name:rum_x_preferred":[
+        "Districtul Ban Phraek"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e41\u0e1e\u0e23\u0e01"
+    ],
+    "name:vie_x_preferred":[
+        "Ban Phraek"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2000-04-01",
+    "statoids:area_km":"39",
+    "statoids:as_of_date":"2000-04-01",
+    "statoids:capital":"",
+    "statoids:country":"TH",
+    "statoids:hasc":"TH.PA",
+    "statoids:name":"Ban Phraek",
+    "statoids:population":"9437",
+    "statoids:statoid":"TH.PA.PK",
+    "statoids:timezone":"7",
+    "statoids:type":"district",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"TH.PA.PK",
+        "wd:id":"Q475161"
+    },
+    "wof:country":"TH",
+    "wof:created":1478798147,
+    "wof:geomhash":"4e45f2bf93312bc3db476e297b259c3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731149,
+            "region_id":85678721
+        }
+    ],
+    "wof:id":1108731149,
+    "wof:lastmodified":1536615637,
+    "wof:name":"Ban Phraek",
+    "wof:parent_id":85678721,
+    "wof:placetype":"county",
+    "wof:placetype_local":"district",
+    "wof:population":9437,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:shortcode":"PK",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.5021146671088,
+    14.61752381480047,
+    100.60796534345485,
+    14.66999999999978
+],
+  "geometry": {"coordinates":[[[100.51472943239055,14.66970958412188],[100.5263467781885,14.6619726261887],[100.52832551323165,14.66208058252786],[100.53368469329486,14.66999999999978],[100.5414543676541,14.66999999999978],[100.54604248317732,14.66722360859128],[100.55375185502953,14.66670198132783],[100.5613538822451,14.66140963052701],[100.56648910594454,14.66291377731073],[100.57681570778757,14.66230349821686],[100.58193970158133,14.65825542019899],[100.59313633805615,14.66431344674239],[100.59781019077229,14.66273961602657],[100.60796534345485,14.6539692488041],[100.60099763331499,14.64363172726877],[100.59930206832306,14.64291612001169],[100.59442469638871,14.64344228190103],[100.58875724973478,14.6345745646387],[100.59054457664303,14.62396762110972],[100.58932720433521,14.62190135510545],[100.57918323652859,14.62466540234165],[100.56726336354038,14.61936511481281],[100.56173900688327,14.62364567620759],[100.5516672821481,14.62110204511802],[100.55107515441937,14.62067696474939],[100.53912862141166,14.61752381480047],[100.53450856811999,14.6192770652483],[100.53407200910165,14.6196840721898],[100.52348523978887,14.62364817947086],[100.5218603620672,14.62654098477614],[100.52175706071682,14.62660587614936],[100.50627089281319,14.62925060585425],[100.50326911351466,14.64069407328923],[100.50317825199545,14.64772687202709],[100.50411972822117,14.64985117311558],[100.5021146671088,14.65301347711495],[100.50289773209157,14.65686835905235],[100.50498136710699,14.6618925753984],[100.51472943239055,14.66970958412188]]],"type":"Polygon"}
+}

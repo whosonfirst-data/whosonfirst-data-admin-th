@@ -1,0 +1,70 @@
+{
+  "id": 1327248303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.36894,8.81178,98.36894,8.81178",
+    "geom:latitude":8.81178,
+    "geom:longitude":98.36894,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Ban Hua Khwan",
+    "gn:country_code":"TH",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8341417,
+    "gn:latitude":8.81178,
+    "gn:longitude":98.36894,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Ban Hua Khwan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e31\u0e27\u0e02\u0e27\u0e32\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678573,
+        1108731961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8341417
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"cf8cd2f9fe588000fac64fa060ca4df7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731961,
+            "locality_id":1327248303,
+            "region_id":85678573
+        }
+    ],
+    "wof:id":1327248303,
+    "wof:lastmodified":1537705435,
+    "wof:name":"Ban Hua Khwan",
+    "wof:parent_id":1108731961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.36894,
+    8.81178,
+    98.36894,
+    8.81178
+],
+  "geometry": {"coordinates":[98.36893999999999,8.81178],"type":"Point"}
+}

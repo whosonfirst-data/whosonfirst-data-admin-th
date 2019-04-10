@@ -1,0 +1,105 @@
+{
+  "id": 102024717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000265,
+    "geom:bbox":"103.080830485,16.790247663,103.099589493,16.8083170154",
+    "geom:latitude":16.799282,
+    "geom:longitude":103.09021,
+    "iso:country":"TH",
+    "lbl:latitude":16.799282,
+    "lbl:longitude":103.09021,
+    "mps:latitude":16.799282,
+    "mps:longitude":103.09021,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bpy_x_preferred":[
+        "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09a5\u09be \u0996\u09be\u09a8\u09a5\u09cb"
+    ],
+    "name:deu_x_preferred":[
+        "Amphoe Tha Khantho"
+    ],
+    "name:eng_x_preferred":[
+        "Tha Khantho"
+    ],
+    "name:ron_x_preferred":[
+        "Districtul Tha Khantho"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e17\u0e48\u0e32\u0e04\u0e31\u0e19\u0e42\u0e17"
+    ],
+    "name:tha_x_variant":[
+        "\u0e17\u0e48\u0e32\u0e04\u0e31\u0e19\u0e42\u0e17"
+    ],
+    "name:unk_x_variant":[
+        "King Amphoe Tha Khantho"
+    ],
+    "name:vie_x_preferred":[
+        "Tha Khantho"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Tha Khantho K\u016bn"
+    ],
+    "qs:a0":"Thailand",
+    "qs:a1":"*Kalasin",
+    "qs:a1r":"*",
+    "qs:a2":"Tha Khantho",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Tha Khantho",
+    "qs:loc_alt":"Tha Khantho",
+    "qs:loc_lc":"1605639",
+    "qs:pop":0,
+    "qs:source":"Aquattroshapes",
+    "qs:type":"County",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":135,
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"07cf536a-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":1605639,
+        "gp:id":28341137,
+        "qs:id":1013801,
+        "wd:id":"Q476829"
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"6a34c7cc72462b1cc356ea1d55cf8807",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "locality_id":102024717,
+            "region_id":85678827
+        }
+    ],
+    "wof:id":102024717,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527636450,
+    "wof:name":"Tha Khantho",
+    "wof:parent_id":85678827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.08083048511891,
+    16.79024766297466,
+    103.09958949265247,
+    16.80831701543109
+],
+  "geometry": {"coordinates":[[[103.0921283568472,16.7904382307547],[103.09030032597296,16.79024766297466],[103.08846882559662,16.79040427681096],[103.08670422936287,16.79090205350869],[103.08507434084912,16.79172186545244],[103.08364178926048,16.79283221097721],[103.0824616236127,16.79419042446635],[103.08157919770905,16.79574431530733],[103.081028427113,16.79743417282197],[103.08083048511891,16.79919506023332],[103.08099298793597,16.80095930961564],[103.08150970056901,16.80265912203126],[103.08236077491877,16.80422917297803],[103.08351351118084,16.80560912302568],[103.08492361348893,16.8067459371216],[103.08653689170039,16.80759592336051],[103.08829134399913,16.80812641276722],[103.09011954026666,16.80831701543109],[103.09195121452622,16.80816040461184],[103.09371596666087,16.80766259860494],[103.09534596935875,16.80684272948808],[103.09677857603141,16.80573230763005],[103.09795872927658,16.80437401026889],[103.09884107717959,16.80282004078566],[103.09939171605187,16.80113012183102],[103.09958949265247,16.79936919953593],[103.0994268159521,16.79760494713656],[103.09890994741816,16.79590516403003],[103.09805875888419,16.79433517025656],[103.09690596753826,16.79295529654206],[103.09549587763262,16.79181856631816],[103.09388267742186,16.7909686587216],[103.0921283568472,16.7904382307547]]],"type":"Polygon"}
+}

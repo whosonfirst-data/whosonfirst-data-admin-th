@@ -1,0 +1,70 @@
+{
+  "id": 1242654041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.03842,16.89111,100.03842,16.89111",
+    "geom:latitude":16.89111,
+    "geom:longitude":100.03842,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Ban Wang Satue",
+    "gn:country_code":"TH",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8205682,
+    "gn:latitude":16.89111,
+    "gn:longitude":100.03842,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Ban Wang Satue",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e27\u0e31\u0e07\u0e2a\u0e30\u0e15\u0e37\u0e2d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678647,
+        890465827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8205682
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"fe3e0f20f0889a169b6cebb84dadda85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465827,
+            "locality_id":1242654041,
+            "region_id":85678647
+        }
+    ],
+    "wof:id":1242654041,
+    "wof:lastmodified":1537705103,
+    "wof:name":"Ban Wang Satue",
+    "wof:parent_id":890465827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.03842,
+    16.89111,
+    100.03842,
+    16.89111
+],
+  "geometry": {"coordinates":[100.03842,16.89111],"type":"Point"}
+}

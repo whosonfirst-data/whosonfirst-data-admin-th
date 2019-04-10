@@ -1,0 +1,70 @@
+{
+  "id": 1243036201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.22319,16.01289,103.22319,16.01289",
+    "geom:latitude":16.01289,
+    "geom:longitude":103.22319,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Ban Phu Din Takkasila",
+    "gn:country_code":"TH",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8730896,
+    "gn:latitude":16.01289,
+    "gn:longitude":103.22319,
+    "gn:modification_date":"2014-03-12",
+    "gn:name":"Ban Phu Din Takkasila",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e20\u0e39\u0e14\u0e34\u0e19\u0e15\u0e31\u0e01\u0e28\u0e34\u0e25\u0e32"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678835,
+        890465665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8730896
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"e912da9911f48d68df77a80f7ad96c0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465665,
+            "locality_id":1243036201,
+            "region_id":85678835
+        }
+    ],
+    "wof:id":1243036201,
+    "wof:lastmodified":1537705978,
+    "wof:name":"Ban Phu Din Takkasila",
+    "wof:parent_id":890465665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.22319,
+    16.01289,
+    103.22319,
+    16.01289
+],
+  "geometry": {"coordinates":[103.22319,16.01289],"type":"Point"}
+}

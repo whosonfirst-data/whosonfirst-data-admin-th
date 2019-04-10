@@ -1,0 +1,67 @@
+{
+  "id": 1327481269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.6475,15.93806,101.6475,15.93806",
+    "geom:latitude":15.93806,
+    "geom:longitude":101.6475,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Ban Tong Luang",
+    "gn:country_code":"TH",
+    "gn:dem":338,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1597450,
+    "gn:latitude":15.93806,
+    "gn:longitude":101.6475,
+    "gn:modification_date":"2000-07-20",
+    "gn:name":"Ban Tong Luang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678825,
+        1108731611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1597450
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"07797ba4dd8cc0cd2178027611fb75ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731611,
+            "locality_id":1327481269,
+            "region_id":85678825
+        }
+    ],
+    "wof:id":1327481269,
+    "wof:lastmodified":1536607368,
+    "wof:name":"Ban Tong Luang",
+    "wof:parent_id":1108731611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.6475,
+    15.93806,
+    101.6475,
+    15.93806
+],
+  "geometry": {"coordinates":[101.64749999999999,15.93806],"type":"Point"}
+}

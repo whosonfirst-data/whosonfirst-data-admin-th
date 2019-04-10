@@ -1,0 +1,118 @@
+{
+  "id": 1108731597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.002392,
+    "geom:area_square_m":29310801.896259,
+    "geom:bbox":"100.125621165,7.76070736331,100.200048468,7.80898666151",
+    "geom:latitude":7.78363,
+    "geom:longitude":100.161673,
+    "iso:country":"TH",
+    "lbl:latitude":7.785826,
+    "lbl:longitude":100.162346,
+    "meso:admin1_en":"PHATTHALUNG",
+    "meso:diss_me":"NO DATAPHATTHALUNG",
+    "meso:gadm_admin":"Khuan Khanun",
+    "meso:gadm_hasc2":"TH.PL.KK",
+    "meso:gaul_admin":"Khuan Khanun",
+    "meso:id":"442",
+    "meso:loc_id_alt":"-9999",
+    "meso:local_id":"-9999",
+    "meso:mps_x":100.162346,
+    "meso:mps_y":7.785826,
+    "meso:name_en":"NO DATA",
+    "meso:name_local":"NO DATA",
+    "meso:source":"AOTM",
+    "mps:latitude":7.785826,
+    "mps:longitude":100.162346,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bpy_x_preferred":[
+        "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u0996\u09c1\u09af\u09bc\u09be\u09a8 \u0996\u09be\u09a8\u09c1\u09a8"
+    ],
+    "name:eng_x_preferred":[
+        "Khuan Khanun"
+    ],
+    "name:fre_x_preferred":[
+        "Khuan Khanun"
+    ],
+    "name:ger_x_preferred":[
+        "Amphoe Khuan Khanun"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30af\u30a2\u30f3\u30fb\u30ab\u30cc\u30f3\u5730\u533a"
+    ],
+    "name:nan_x_preferred":[
+        "Khuan Khanun K\u016bn"
+    ],
+    "name:por_x_preferred":[
+        "Khuan Khanun"
+    ],
+    "name:rum_x_preferred":[
+        "Districtul Khuan Khanun"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e04\u0e27\u0e19\u0e02\u0e19\u0e38\u0e19"
+    ],
+    "name:vie_x_preferred":[
+        "Khuan Khanun"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2000-04-01",
+    "statoids:area_km":"454",
+    "statoids:as_of_date":"2000-04-01",
+    "statoids:capital":"",
+    "statoids:country":"TH",
+    "statoids:hasc":"TH.PL",
+    "statoids:name":"Khuan Khanun",
+    "statoids:population":"82685",
+    "statoids:statoid":"TH.PL.KK",
+    "statoids:timezone":"7",
+    "statoids:type":"district",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"TH.PL.KK",
+        "wd:id":"Q475752"
+    },
+    "wof:country":"TH",
+    "wof:created":1478798898,
+    "wof:geomhash":"d58dddc92dbc6d623c670229ab9246ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731597,
+            "region_id":85678591
+        }
+    ],
+    "wof:id":1108731597,
+    "wof:lastmodified":1536615645,
+    "wof:name":"",
+    "wof:parent_id":85678591,
+    "wof:placetype":"county",
+    "wof:placetype_local":"district",
+    "wof:population":82685,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:shortcode":"KK",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.12562116518863,
+    7.76070736330868,
+    100.20004846834311,
+    7.80898666150846
+],
+  "geometry": {"coordinates":[[[100.13115381064374,7.80326393747814],[100.13948544291986,7.80075204152757],[100.15123500097995,7.80898666150846],[100.1593927751332,7.80333376323178],[100.16259849343538,7.8047020742978],[100.16757818747185,7.80490543019138],[100.16806900577609,7.80472661558733],[100.17565916255033,7.79847252256087],[100.18404999353905,7.79987478854625],[100.1882983313063,7.79980502195589],[100.19235664808969,7.79058239867119],[100.19319723414223,7.7851962668892],[100.19164677915234,7.77999103097568],[100.19233948709658,7.77627391163479],[100.20004846834311,7.76070736330868],[100.16662553888727,7.76322513267222],[100.16407456655172,7.76690510569381],[100.16089797500898,7.76718427235862],[100.15087457531865,7.77093863835282],[100.15021653025251,7.77107032007943],[100.14751630635435,7.76915430655988],[100.13713327928092,7.76823509240147],[100.13621391302914,7.76778702704512],[100.12927256928589,7.76889741147753],[100.12778897492548,7.77028317354489],[100.12562116518863,7.77614410567865],[100.12879339841008,7.78502685358573],[100.12913017603677,7.78521562581787],[100.12949030590603,7.7996029621829],[100.13115381064374,7.80326393747814]]],"type":"Polygon"}
+}

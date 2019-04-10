@@ -1,0 +1,70 @@
+{
+  "id": 1310328211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.29828,9.15081,98.29828,9.15081",
+    "geom:latitude":9.15081,
+    "geom:longitude":98.29828,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Ban Pae Yoi",
+    "gn:country_code":"TH",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8341399,
+    "gn:latitude":9.15081,
+    "gn:longitude":98.29828,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Ban Pae Yoi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e41\u0e1b\u0e4a\u0e30\u0e42\u0e22\u0e49\u0e22"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678573,
+        1108802629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8341399
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"d2c55e91e5d871b497c38c065fb3e061",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802629,
+            "locality_id":1310328211,
+            "region_id":85678573
+        }
+    ],
+    "wof:id":1310328211,
+    "wof:lastmodified":1537705434,
+    "wof:name":"Ban Pae Yoi",
+    "wof:parent_id":1108802629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.29828,
+    9.15081,
+    98.29828,
+    9.15081
+],
+  "geometry": {"coordinates":[98.29828000000001,9.15081],"type":"Point"}
+}

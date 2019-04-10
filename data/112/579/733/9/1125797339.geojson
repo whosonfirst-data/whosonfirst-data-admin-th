@@ -1,0 +1,95 @@
+{
+  "id": 1125797339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.88333,16.85,102.88333,16.85",
+    "geom:latitude":16.85,
+    "geom:longitude":102.88333,
+    "gn:gn_country":"TH",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"TH",
+    "lbl:latitude":16.85,
+    "lbl:longitude":102.88333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Ban Khao Suan Kwang"
+    ],
+    "qs_pg:aaroncc":"TH",
+    "qs_pg:gn_country":"TH",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1594625,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Khao Suan Kwang",
+    "qs_pg:name_adm0":"Thailand",
+    "qs_pg:name_adm1":"Khon Kaen",
+    "qs_pg:photos":35,
+    "qs_pg:photos_1k":7,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":35,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":271135,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424960,
+    "qs_pg:woe_id":1225392,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424960,
+    "woe:name_adm0":"Thailand",
+    "woe:name_adm1":"Khon Kaen",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678739,
+        890465855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1594625,
+        "gp:id":1225392,
+        "qs_pg:id":271135
+    },
+    "wof:country":"TH",
+    "wof:created":1497291109,
+    "wof:geomhash":"dde213377d64151b892d27a83d26d911",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465855,
+            "locality_id":1125797339,
+            "region_id":85678739
+        }
+    ],
+    "wof:id":1125797339,
+    "wof:lastmodified":1534379464,
+    "wof:name":"Khao Suan Kwang",
+    "wof:parent_id":890465855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[
+        102024507
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.88333,
+    16.85,
+    102.88333,
+    16.85
+],
+  "geometry": {"coordinates":[102.88333,16.85],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1343408761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.66799,15.28659,101.66799,15.28659",
+    "geom:latitude":15.28659,
+    "geom:longitude":101.66799,
+    "gn:admin1_code":"27",
+    "gn:asciiname":"Ban Pong Krasang",
+    "gn:country_code":"TH",
+    "gn:dem":247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9197222,
+    "gn:latitude":15.28659,
+    "gn:longitude":101.66799,
+    "gn:modification_date":"2014-07-10",
+    "gn:name":"Ban Pong Krasang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e42\u0e1b\u0e48\u0e07\u0e01\u0e23\u0e30\u0e2a\u0e31\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678841,
+        890466375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9197222
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"d2a4dc88b12d1d2ca47e40bdaf449cf8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466375,
+            "locality_id":1343408761,
+            "region_id":85678841
+        }
+    ],
+    "wof:id":1343408761,
+    "wof:lastmodified":1537706206,
+    "wof:name":"Ban Pong Krasang",
+    "wof:parent_id":890466375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.66799,
+    15.28659,
+    101.66799,
+    15.28659
+],
+  "geometry": {"coordinates":[101.66799,15.28659],"type":"Point"}
+}

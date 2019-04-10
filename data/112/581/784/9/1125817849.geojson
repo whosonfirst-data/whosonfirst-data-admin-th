@@ -1,0 +1,111 @@
+{
+  "id": 1125817849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.40461,20.26125,100.40461,20.26125",
+    "geom:latitude":20.26125,
+    "geom:longitude":100.40461,
+    "gn:gn_country":"TH",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":14505,
+    "gn:population":14505,
+    "iso:country":"TH",
+    "lbl:latitude":20.26125,
+    "lbl:longitude":100.40461,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Wiang Chiang Khong"
+    ],
+    "name:eng_x_preferred":[
+        "Wiang Chiang Khong"
+    ],
+    "name:ger_x_preferred":[
+        "Wiang Chiang Khong"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0438\u0430\u043d\u0433\u043a\u0445\u043e\u043d\u0433"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e0a\u0e35\u0e22\u0e07\u0e02\u0e2d\u0e07"
+    ],
+    "name:unk_x_variant":[
+        "Muang Jieng Khohng"
+    ],
+    "qs_pg:aaroncc":"TH",
+    "qs_pg:gn_country":"TH",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":1611197,
+    "qs_pg:gn_pop":14505,
+    "qs_pg:name":"Chiang Khong",
+    "qs_pg:name_adm0":"Thailand",
+    "qs_pg:name_adm1":"Chiang Rai",
+    "qs_pg:photos":303,
+    "qs_pg:photos_1k":61,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":303,
+    "qs_pg:photos_sr":5,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":7364,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424960,
+    "qs_pg:woe_id":1225954,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424960,
+    "woe:name_adm0":"Thailand",
+    "woe:name_adm1":"Chiang Rai",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678617,
+        1108802595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1611197,
+        "gp:id":1225954,
+        "qs_pg:id":7364,
+        "wd:id":"Q7998013"
+    },
+    "wof:country":"TH",
+    "wof:created":1497291918,
+    "wof:geomhash":"5cf0355ebea0e3a77310c609e4387d32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802595,
+            "locality_id":1125817849,
+            "region_id":85678617
+        }
+    ],
+    "wof:id":1125817849,
+    "wof:lastmodified":1514506077,
+    "wof:name":"Chiang Khong",
+    "wof:parent_id":1108802595,
+    "wof:placetype":"locality",
+    "wof:population":14505,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.40461,
+    20.26125,
+    100.40461,
+    20.26125
+],
+  "geometry": {"coordinates":[100.40461000000001,20.26125],"type":"Point"}
+}

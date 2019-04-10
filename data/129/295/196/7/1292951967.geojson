@@ -1,0 +1,71 @@
+{
+  "id": 1292951967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.38575,13.62428,100.38575,13.62428",
+    "geom:latitude":13.62428,
+    "geom:longitude":100.38575,
+    "gn:admin1_code":"40.0",
+    "gn:admin2_code":"1021.0",
+    "gn:asciiname":"Ban Phrom Daen",
+    "gn:country_code":"TH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7503780,
+    "gn:latitude":13.62428,
+    "gn:longitude":100.38575,
+    "gn:modification_date":"2017-03-23",
+    "gn:name":"Ban Phrom Daen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1e\u0e23\u0e21\u0e41\u0e14\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678739,
+        890466313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7503780
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"252a21ae6fd1eca4a6f09aef9d5051d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466313,
+            "locality_id":1292951967,
+            "region_id":85678739
+        }
+    ],
+    "wof:id":1292951967,
+    "wof:lastmodified":1537704516,
+    "wof:name":"Ban Phrom Daen",
+    "wof:parent_id":890466313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.38575,
+    13.62428,
+    100.38575,
+    13.62428
+],
+  "geometry": {"coordinates":[100.38575,13.62428],"type":"Point"}
+}

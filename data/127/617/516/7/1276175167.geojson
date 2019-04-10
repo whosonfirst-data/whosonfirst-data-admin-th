@@ -1,0 +1,70 @@
+{
+  "id": 1276175167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.17953,15.57658,102.17953,15.57658",
+    "geom:latitude":15.57658,
+    "geom:longitude":102.17953,
+    "gn:admin1_code":"27",
+    "gn:asciiname":"Ban Khok Samakkhi",
+    "gn:country_code":"TH",
+    "gn:dem":232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9106216,
+    "gn:latitude":15.57658,
+    "gn:longitude":102.17953,
+    "gn:modification_date":"2014-06-07",
+    "gn:name":"Ban Khok Samakkhi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e42\u0e04\u0e01\u0e2a\u0e32\u0e21\u0e31\u0e04\u0e04\u0e35"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678841,
+        1108731125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9106216
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"4d30beb11afce1833318b33d161fe056",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731125,
+            "locality_id":1276175167,
+            "region_id":85678841
+        }
+    ],
+    "wof:id":1276175167,
+    "wof:lastmodified":1537706157,
+    "wof:name":"Ban Khok Samakkhi",
+    "wof:parent_id":1108731125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.17953,
+    15.57658,
+    102.17953,
+    15.57658
+],
+  "geometry": {"coordinates":[102.17953,15.57658],"type":"Point"}
+}

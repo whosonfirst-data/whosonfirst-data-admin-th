@@ -1,0 +1,70 @@
+{
+  "id": 1343375945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.01342,13.88103,100.01342,13.88103",
+    "geom:latitude":13.88103,
+    "geom:longitude":100.01342,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Ban Muang Ta Rot",
+    "gn:country_code":"TH",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7508655,
+    "gn:latitude":13.88103,
+    "gn:longitude":100.01342,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Muang Ta Rot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e21\u0e48\u0e27\u0e07\u0e15\u0e32\u0e23\u0e28"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678747,
+        1108802671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7508655
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"230561ea7f1384ad002854a09f4690bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802671,
+            "locality_id":1343375945,
+            "region_id":85678747
+        }
+    ],
+    "wof:id":1343375945,
+    "wof:lastmodified":1537704548,
+    "wof:name":"Ban Muang Ta Rot",
+    "wof:parent_id":1108802671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.01342,
+    13.88103,
+    100.01342,
+    13.88103
+],
+  "geometry": {"coordinates":[100.01342,13.88103],"type":"Point"}
+}

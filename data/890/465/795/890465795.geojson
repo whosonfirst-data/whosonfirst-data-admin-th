@@ -1,0 +1,76 @@
+{
+  "id": 890465795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-11-10",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.2562,18.12258,100.2562,18.12258",
+    "geom:latitude":18.12258,
+    "geom:longitude":100.2562,
+    "gn:country":"TH",
+    "gn:fcode":"ADM2",
+    "gn:pop":0,
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e41\u0e1e\u0e23\u0e48"
+    ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e41\u0e1e\u0e23\u0e48"
+    ],
+    "name:unk_x_variant":[
+        "Amphoe Muang Phrae"
+    ],
+    "qs:name":"Amphoe Mueang Phrae",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":127,
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1608631,
+        "gp:id":28340891,
+        "qs:id":1151779,
+        "wd:id":"Q476064",
+        "wk:page":"Mueang Phrae District"
+    },
+    "wof:country":"TH",
+    "wof:created":1469053534,
+    "wof:geomhash":"563a5f453fcff36dd3dcf82fd6184040",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465795,
+            "region_id":85678643
+        }
+    ],
+    "wof:id":890465795,
+    "wof:lastmodified":1527736655,
+    "wof:name":"Amphoe Mueang Phrae",
+    "wof:parent_id":85678643,
+    "wof:placetype":"county",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.2562,
+    18.12258,
+    100.2562,
+    18.12258
+],
+  "geometry": {"coordinates":[100.25620000000001,18.12258],"type":"Point"}
+}

@@ -1,0 +1,106 @@
+{
+  "id": 85932615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000045,
+    "geom:area_square_m":540065.995589,
+    "geom:bbox":"100.501102394,13.7013432944,100.508422852,13.7100353383",
+    "geom:latitude":13.706128,
+    "geom:longitude":100.504998,
+    "gn:id":"",
+    "iso:country":"TH",
+    "lbl:latitude":13.706962,
+    "lbl:longitude":100.505683,
+    "mps:latitude":13.706998,
+    "mps:longitude":100.505364,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":5,
+    "name:eng_x_preferred":[
+        "Wat Phraya Krai"
+    ],
+    "name:unk_x_variant":[
+        "Wat Phraya Krai"
+    ],
+    "qs:gn_adm0_cc":"TH",
+    "qs:gn_id":0,
+    "qs:gn_local":1609350,
+    "qs:gn_nam_loc":"Bangkok, Bangkok, TH",
+    "qs:gn_namadm1":"40",
+    "qs:local_max":21510,
+    "qs:local_sum":280580,
+    "qs:localhoods":117,
+    "qs:name":"Wat Phraya Krai",
+    "qs:name_adm0":"Thailand",
+    "qs:name_adm1":"Bangkok",
+    "qs:name_adm2":"Bang Kho Laem",
+    "qs:name_local":"Bangkok",
+    "qs:photo_max":532,
+    "qs:photo_sum":1156,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":12,
+    "qs:woe_adm0":23424960,
+    "qs:woe_adm1":2347165,
+    "qs:woe_adm2":28341386,
+    "qs:woe_lau":0,
+    "qs:woe_local":1225448,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85678739,
+        102191569,
+        85632293,
+        102025263,
+        890466393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55948112,
+        "qs:id":476772,
+        "qs_pg:id":476772
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"f3f825c9b7bc58309ec0c1ebe85745b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466393,
+            "locality_id":102025263,
+            "neighbourhood_id":85932615,
+            "region_id":85678739
+        }
+    ],
+    "wof:id":85932615,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527269353,
+    "wof:name":"Wat Phraya Krai",
+    "wof:parent_id":102025263,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.5011023937721,
+    13.70134329439129,
+    100.50842285200014,
+    13.71003533827782
+],
+  "geometry": {"coordinates":[[[100.50842285200014,13.71003533827782],[100.50842285200014,13.70736699686688],[100.50842285200014,13.70469862634998],[100.50634364662881,13.7046986266667],[100.50591157417534,13.70336443239999],[100.50634365030453,13.70203022235043],[100.50567627000009,13.70134329447718],[100.50430297900016,13.70181446604136],[100.50292968775028,13.70134329439129],[100.50226230752452,13.70203022235043],[100.50269438354883,13.70336443239999],[100.50251257705025,13.70392583053899],[100.50224304200015,13.70409229007154],[100.5011023937721,13.70432710379592],[100.50143874310157,13.70536572615035],[100.50122271016556,13.70603281839998],[100.50155639600001,13.70637628528681],[100.50224304200015,13.70708305836412],[100.50237132857575,13.70730313662666],[100.50255746736832,13.70736700187611],[100.50292968789603,13.70749471279289],[100.5029296878613,13.71003533827782],[100.50567627000009,13.71003533743334],[100.50842285200014,13.71003533827782]]],"type":"Polygon"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1326646735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.04025,10.84281,99.04025,10.84281",
+    "geom:latitude":10.84281,
+    "geom:longitude":99.04025,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Ban Santi Nimit",
+    "gn:country_code":"TH",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8233449,
+    "gn:latitude":10.84281,
+    "gn:longitude":99.04025,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Ban Santi Nimit",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2a\u0e31\u0e19\u0e15\u0e34\u0e19\u0e34\u0e21\u0e34\u0e15\u0e23"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678559,
+        1108731983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8233449
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"15c636d298de954ca17687b4ac9304e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731983,
+            "locality_id":1326646735,
+            "region_id":85678559
+        }
+    ],
+    "wof:id":1326646735,
+    "wof:lastmodified":1537705186,
+    "wof:name":"Ban Santi Nimit",
+    "wof:parent_id":1108731983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.04025,
+    10.84281,
+    99.04025,
+    10.84281
+],
+  "geometry": {"coordinates":[99.04025,10.84281],"type":"Point"}
+}

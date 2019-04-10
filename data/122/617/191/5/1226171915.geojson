@@ -1,0 +1,73 @@
+{
+  "id": 1226171915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.27744,7.65981,99.27744,7.65981",
+    "geom:latitude":7.65981,
+    "geom:longitude":99.27744,
+    "gn:admin1_code":"65.0",
+    "gn:asciiname":"Ban Bang Khangkhao",
+    "gn:country_code":"TH",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1157218,
+    "gn:latitude":7.65981,
+    "gn:longitude":99.27744,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Ban Bang Khangkhao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1a\u0e32\u0e07\u0e04\u0e49\u0e32\u0e07\u0e04\u0e32\u0e27"
+    ],
+    "name:und_x_variant":[
+        "Ban Khang Khao (1)"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678609,
+        1108731911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1157218
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"0f0a5488d7ce3221dbc5918ca751702d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731911,
+            "locality_id":1226171915,
+            "region_id":85678609
+        }
+    ],
+    "wof:id":1226171915,
+    "wof:lastmodified":1537703246,
+    "wof:name":"Ban Bang Khangkhao",
+    "wof:parent_id":1108731911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.27744,
+    7.65981,
+    99.27744,
+    7.65981
+],
+  "geometry": {"coordinates":[99.27744,7.65981],"type":"Point"}
+}

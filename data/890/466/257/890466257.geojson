@@ -1,0 +1,74 @@
+{
+  "id": 890466257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.9417,18.9137,100.9417,18.9137",
+    "geom:latitude":18.9137,
+    "geom:longitude":100.9417,
+    "gn:country":"TH",
+    "gn:fcode":"PPLA2",
+    "gn:pop":0,
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:tha_x_preferred":[
+        "\u0e2a\u0e31\u0e19\u0e15\u0e34\u0e2a\u0e38\u0e02"
+    ],
+    "name:unk_x_variant":[
+        "King Amphoe Santi Suk"
+    ],
+    "qs:name":"Santi Suk",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":13,
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7510916,
+        "qs:id":380850,
+        "wk:page":"Santi Suk"
+    },
+    "wof:country":"TH",
+    "wof:created":1469053571,
+    "wof:geomhash":"07f64449cc820e923e6209c002a21751",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "locality_id":890466257,
+            "region_id":85678633
+        }
+    ],
+    "wof:id":890466257,
+    "wof:lastmodified":1534379463,
+    "wof:name":"Santi Suk",
+    "wof:parent_id":85678633,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[
+        890466339
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.9417,
+    18.9137,
+    100.9417,
+    18.9137
+],
+  "geometry": {"coordinates":[100.9417,18.9137],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1225817009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.42139,15.44997,100.42139,15.44997",
+    "geom:latitude":15.44997,
+    "geom:longitude":100.42139,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ban Udom Thanya",
+    "gn:country_code":"TH",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8344054,
+    "gn:latitude":15.44997,
+    "gn:longitude":100.42139,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Ban Udom Thanya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2d\u0e38\u0e14\u0e21\u0e18\u0e31\u0e0d\u0e0d\u0e32"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678715,
+        890465881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8344054
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"1a078c651cfb55a7c5cdf3c37218bbab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465881,
+            "locality_id":1225817009,
+            "region_id":85678715
+        }
+    ],
+    "wof:id":1225817009,
+    "wof:lastmodified":1537705459,
+    "wof:name":"Ban Udom Thanya",
+    "wof:parent_id":890465881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.42139,
+    15.44997,
+    100.42139,
+    15.44997
+],
+  "geometry": {"coordinates":[100.42139,15.44997],"type":"Point"}
+}

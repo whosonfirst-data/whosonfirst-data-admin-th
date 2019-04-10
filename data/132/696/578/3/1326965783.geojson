@@ -1,0 +1,70 @@
+{
+  "id": 1326965783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.91775,10.557,98.91775,10.557",
+    "geom:latitude":10.557,
+    "geom:longitude":98.91775,
+    "gn:admin1_code":"59.0",
+    "gn:asciiname":"Ban Nikhom Phang Sam",
+    "gn:country_code":"TH",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8270865,
+    "gn:latitude":10.557,
+    "gn:longitude":98.91775,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Ban Nikhom Phang Sam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e19\u0e34\u0e04\u0e21\u0e1c\u0e31\u0e07 \u0e2a\u0e32\u0e21"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678577,
+        1108802631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8270865
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"51dcbf2d41d66466fd0372786b4cc9e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802631,
+            "locality_id":1326965783,
+            "region_id":85678577
+        }
+    ],
+    "wof:id":1326965783,
+    "wof:lastmodified":1537705280,
+    "wof:name":"Ban Nikhom Phang Sam",
+    "wof:parent_id":1108802631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.91775,
+    10.557,
+    98.91775,
+    10.557
+],
+  "geometry": {"coordinates":[98.91775,10.557],"type":"Point"}
+}

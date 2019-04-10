@@ -1,0 +1,70 @@
+{
+  "id": 1293537011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.70083,15.54381,102.70083,15.54381",
+    "geom:latitude":15.54381,
+    "geom:longitude":102.70083,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Ban Toei Kraton",
+    "gn:country_code":"TH",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1597467,
+    "gn:latitude":15.54381,
+    "gn:longitude":102.70083,
+    "gn:modification_date":"2014-06-04",
+    "gn:name":"Ban Toei Kraton",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e15\u0e22\u0e01\u0e23\u0e30\u0e42\u0e15\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678841,
+        1108731785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1597467
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"4ac5ed35ee02c5a6906f5f7b4b860eb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731785,
+            "locality_id":1293537011,
+            "region_id":85678841
+        }
+    ],
+    "wof:id":1293537011,
+    "wof:lastmodified":1537703370,
+    "wof:name":"Ban Toei Kraton",
+    "wof:parent_id":1108731785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.70083,
+    15.54381,
+    102.70083,
+    15.54381
+],
+  "geometry": {"coordinates":[102.70083,15.54381],"type":"Point"}
+}

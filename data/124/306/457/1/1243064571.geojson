@@ -1,0 +1,73 @@
+{
+  "id": 1243064571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.14267,16.8155,99.14267,16.8155",
+    "geom:latitude":16.8155,
+    "geom:longitude":99.14267,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Ban Nong Prue",
+    "gn:country_code":"TH",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8164222,
+    "gn:latitude":16.8155,
+    "gn:longitude":99.14267,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Ban Nong Prue",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "Ban Nong Prue"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e19\u0e2d\u0e07\u0e1b\u0e23\u0e37\u0e2d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678683,
+        890466081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8164222
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"43338d3c19fc8a8a1ece3dd64d79f88a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466081,
+            "locality_id":1243064571,
+            "region_id":85678683
+        }
+    ],
+    "wof:id":1243064571,
+    "wof:lastmodified":1537705050,
+    "wof:name":"Ban Nong Prue",
+    "wof:parent_id":890466081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.14267,
+    16.8155,
+    99.14267,
+    16.8155
+],
+  "geometry": {"coordinates":[99.14267,16.8155],"type":"Point"}
+}

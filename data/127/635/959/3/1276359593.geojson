@@ -1,0 +1,72 @@
+{
+  "id": 1276359593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.3,14.25,101.3,14.25",
+    "geom:latitude":14.25,
+    "geom:longitude":101.3,
+    "gn:admin1_code":"43.0",
+    "gn:asciiname":"Ban Hua Khao Sisiat",
+    "gn:cc2":"TH",
+    "gn:country_code":"TH",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1618860,
+    "gn:latitude":14.25,
+    "gn:longitude":101.3,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Hua Khao Sisiat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Khao Nam Sap",
+        "Ban Hua Khao Sisiat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678705,
+        890466935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1618860
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"28553708eaf448fbb1e5c6384bf17b5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466935,
+            "locality_id":1276359593,
+            "region_id":85678705
+        }
+    ],
+    "wof:id":1276359593,
+    "wof:lastmodified":1537704154,
+    "wof:name":"Ban Hua Khao Sisiat",
+    "wof:parent_id":890466935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.3,
+    14.25,
+    101.3,
+    14.25
+],
+  "geometry": {"coordinates":[101.3,14.25],"type":"Point"}
+}

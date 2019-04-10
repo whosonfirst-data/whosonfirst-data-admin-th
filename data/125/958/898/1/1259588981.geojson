@@ -1,0 +1,70 @@
+{
+  "id": 1259588981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.15437,19.09555,101.15437,19.09555",
+    "geom:latitude":19.09555,
+    "geom:longitude":101.15437,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Ban Na Prueang",
+    "gn:country_code":"TH",
+    "gn:dem":589,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7394915,
+    "gn:latitude":19.09555,
+    "gn:longitude":101.15437,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Ban Na Prueang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e19\u0e32\u0e40\u0e1b\u0e23\u0e37\u0e48\u0e2d\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678633,
+        1108731187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7394915
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"37aa37dd200174be6cd48a79745e73e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731187,
+            "locality_id":1259588981,
+            "region_id":85678633
+        }
+    ],
+    "wof:id":1259588981,
+    "wof:lastmodified":1537704464,
+    "wof:name":"Ban Na Prueang",
+    "wof:parent_id":1108731187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.15437,
+    19.09555,
+    101.15437,
+    19.09555
+],
+  "geometry": {"coordinates":[101.15437,19.09555],"type":"Point"}
+}

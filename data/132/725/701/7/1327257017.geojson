@@ -1,0 +1,70 @@
+{
+  "id": 1327257017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.43275,13.72014,101.43275,13.72014",
+    "geom:latitude":13.72014,
+    "geom:longitude":101.43275,
+    "gn:admin1_code":"44.0",
+    "gn:asciiname":"Ban Bueng Ta Chan",
+    "gn:country_code":"TH",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7853217,
+    "gn:latitude":13.72014,
+    "gn:longitude":101.43275,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Bueng Ta Chan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1a\u0e36\u0e07\u0e15\u0e32\u0e08\u0e31\u0e19\u0e17\u0e23\u0e4c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678797,
+        1108731713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7853217
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"aed4962d15779c4fef754782252374a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731713,
+            "locality_id":1327257017,
+            "region_id":85678797
+        }
+    ],
+    "wof:id":1327257017,
+    "wof:lastmodified":1537704728,
+    "wof:name":"Ban Bueng Ta Chan",
+    "wof:parent_id":1108731713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.43275,
+    13.72014,
+    101.43275,
+    13.72014
+],
+  "geometry": {"coordinates":[101.43275,13.72014],"type":"Point"}
+}

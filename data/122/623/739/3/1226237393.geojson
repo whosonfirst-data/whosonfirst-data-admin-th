@@ -1,0 +1,73 @@
+{
+  "id": 1226237393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.03464,17.39997,100.03464,17.39997",
+    "geom:latitude":17.39997,
+    "geom:longitude":100.03464,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Ban Cham Tok",
+    "gn:country_code":"TH",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8136043,
+    "gn:latitude":17.39997,
+    "gn:longitude":100.03464,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Ban Cham Tok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "Ban Cham Tok"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e0a\u0e33\u0e15\u0e01"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678657,
+        890465911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8136043
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"49736be1a3560a5b3b2e8c6e898d6ae6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465911,
+            "locality_id":1226237393,
+            "region_id":85678657
+        }
+    ],
+    "wof:id":1226237393,
+    "wof:lastmodified":1537704982,
+    "wof:name":"Ban Cham Tok",
+    "wof:parent_id":890465911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.03464,
+    17.39997,
+    100.03464,
+    17.39997
+],
+  "geometry": {"coordinates":[100.03464,17.39997],"type":"Point"}
+}

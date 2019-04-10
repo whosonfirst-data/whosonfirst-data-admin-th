@@ -1,0 +1,70 @@
+{
+  "id": 1293225451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.93931,14.64706,99.93931,14.64706",
+    "geom:latitude":14.64706,
+    "geom:longitude":99.93931,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Ban Nong Pak Phrik",
+    "gn:country_code":"TH",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8665743,
+    "gn:latitude":14.64706,
+    "gn:longitude":99.93931,
+    "gn:modification_date":"2014-01-18",
+    "gn:name":"Ban Nong Pak Phrik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e19\u0e2d\u0e07\u0e1b\u0e31\u0e01\u0e1e\u0e23\u0e34\u0e01"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678679,
+        890466373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8665743
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"8f7e1c85e2397f1cfd640df6576ec4b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466373,
+            "locality_id":1293225451,
+            "region_id":85678679
+        }
+    ],
+    "wof:id":1293225451,
+    "wof:lastmodified":1537705786,
+    "wof:name":"Ban Nong Pak Phrik",
+    "wof:parent_id":890466373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.93931,
+    14.64706,
+    99.93931,
+    14.64706
+],
+  "geometry": {"coordinates":[99.93931000000001,14.64706],"type":"Point"}
+}

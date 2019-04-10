@@ -1,0 +1,70 @@
+{
+  "id": 1360010613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.9205,6.08025,101.9205,6.08025",
+    "geom:latitude":6.08025,
+    "geom:longitude":101.9205,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Ban Ta Se Tai",
+    "gn:country_code":"TH",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7000525,
+    "gn:latitude":6.08025,
+    "gn:longitude":101.9205,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ban Ta Se Tai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e15\u0e32\u0e40\u0e0b\u0e30\u0e43\u0e15\u0e49"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678885,
+        1108731953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7000525
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"46ee11e94bcaf9bc2287902f7a0d9774",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731953,
+            "locality_id":1360010613,
+            "region_id":85678885
+        }
+    ],
+    "wof:id":1360010613,
+    "wof:lastmodified":1537704378,
+    "wof:name":"Ban Ta Se Tai",
+    "wof:parent_id":1108731953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.9205,
+    6.08025,
+    101.9205,
+    6.08025
+],
+  "geometry": {"coordinates":[101.9205,6.08025],"type":"Point"}
+}

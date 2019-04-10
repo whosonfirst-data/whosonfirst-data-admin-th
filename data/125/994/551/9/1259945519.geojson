@@ -1,0 +1,67 @@
+{
+  "id": 1259945519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.3,17.36667,101.3,17.36667",
+    "geom:latitude":17.36667,
+    "geom:longitude":101.3,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Huai Ta",
+    "gn:country_code":"TH",
+    "gn:dem":603,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1603244,
+    "gn:latitude":17.36667,
+    "gn:longitude":101.3,
+    "gn:modification_date":"1994-04-10",
+    "gn:name":"Ban Huai Ta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678853,
+        1108731751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1603244
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"0113c7c2dba5a99df4027b0902f3f109",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731751,
+            "locality_id":1259945519,
+            "region_id":85678853
+        }
+    ],
+    "wof:id":1259945519,
+    "wof:lastmodified":1536690047,
+    "wof:name":"Ban Huai Ta",
+    "wof:parent_id":1108731751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.3,
+    17.36667000000001,
+    101.3,
+    17.36667000000001
+],
+  "geometry": {"coordinates":[101.3,17.36667000000001],"type":"Point"}
+}

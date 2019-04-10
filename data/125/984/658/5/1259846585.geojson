@@ -1,0 +1,70 @@
+{
+  "id": 1259846585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.82419,16.50356,101.82419,16.50356",
+    "geom:latitude":16.50356,
+    "geom:longitude":101.82419,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Ban Nong Chiang Rot",
+    "gn:country_code":"TH",
+    "gn:dem":466,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8370751,
+    "gn:latitude":16.50356,
+    "gn:longitude":101.82419,
+    "gn:modification_date":"2012-08-06",
+    "gn:name":"Ban Nong Chiang Rot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e19\u0e2d\u0e07\u0e40\u0e0a\u0e35\u0e22\u0e07\u0e23\u0e2d\u0e14"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678825,
+        890465699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8370751
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"79d13046b75325ce563025faef4c8fdf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465699,
+            "locality_id":1259846585,
+            "region_id":85678825
+        }
+    ],
+    "wof:id":1259846585,
+    "wof:lastmodified":1537705509,
+    "wof:name":"Ban Nong Chiang Rot",
+    "wof:parent_id":890465699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.82419,
+    16.50356,
+    101.82419,
+    16.50356
+],
+  "geometry": {"coordinates":[101.82419,16.50356],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343449353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.68297,17.58236,100.68297,17.58236",
+    "geom:latitude":17.58236,
+    "geom:longitude":100.68297,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Ban Huai Khom",
+    "gn:country_code":"TH",
+    "gn:dem":314,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1603424,
+    "gn:latitude":17.58236,
+    "gn:longitude":100.68297,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Huai Khom",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "Ban Huai Khom"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e49\u0e27\u0e22\u0e04\u0e2d\u0e21"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678657,
+        890467459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1603424
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"5a17d68d0e5218148141f9ff2bf487bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890467459,
+            "locality_id":1343449353,
+            "region_id":85678657
+        }
+    ],
+    "wof:id":1343449353,
+    "wof:lastmodified":1537703583,
+    "wof:name":"Ban Huai Khom",
+    "wof:parent_id":890467459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.68297,
+    17.58236,
+    100.68297,
+    17.58236
+],
+  "geometry": {"coordinates":[100.68297,17.58236],"type":"Point"}
+}

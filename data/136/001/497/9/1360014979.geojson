@@ -1,0 +1,70 @@
+{
+  "id": 1360014979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.63317,10.03678,98.63317,10.03678",
+    "geom:latitude":10.03678,
+    "geom:longitude":98.63317,
+    "gn:admin1_code":"59.0",
+    "gn:asciiname":"Ban Khon Tham Rai",
+    "gn:country_code":"TH",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1119511,
+    "gn:latitude":10.03678,
+    "gn:longitude":98.63317,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Ban Khon Tham Rai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e04\u0e19\u0e17\u0e33\u0e44\u0e23\u0e48"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678577,
+        890467201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1119511
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"050caa7f65de8482fa1ffafeb9e78ff5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890467201,
+            "locality_id":1360014979,
+            "region_id":85678577
+        }
+    ],
+    "wof:id":1360014979,
+    "wof:lastmodified":1537702982,
+    "wof:name":"Ban Khon Tham Rai",
+    "wof:parent_id":890467201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.63317,
+    10.03678,
+    98.63317,
+    10.03678
+],
+  "geometry": {"coordinates":[98.63317000000001,10.03678],"type":"Point"}
+}

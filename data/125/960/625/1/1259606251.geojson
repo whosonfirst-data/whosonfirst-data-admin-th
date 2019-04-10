@@ -1,0 +1,73 @@
+{
+  "id": 1259606251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.78989,19.13669,100.78989,19.13669",
+    "geom:latitude":19.13669,
+    "geom:longitude":100.78989,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Ban Na Nun Sam",
+    "gn:country_code":"TH",
+    "gn:dem":233,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8262171,
+    "gn:latitude":19.13669,
+    "gn:longitude":100.78989,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Ban Na Nun Sam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e19\u0e32\u0e2b\u0e19\u0e38\u0e19 \u0e2a\u0e32\u0e21"
+    ],
+    "name:und_x_variant":[
+        "Ban Na Nun 3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678633,
+        1108731995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8262171
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"cb86c6a347abdd06cec521a8ca273856",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731995,
+            "locality_id":1259606251,
+            "region_id":85678633
+        }
+    ],
+    "wof:id":1259606251,
+    "wof:lastmodified":1537705257,
+    "wof:name":"Ban Na Nun Sam",
+    "wof:parent_id":1108731995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.78989,
+    19.13669,
+    100.78989,
+    19.13669
+],
+  "geometry": {"coordinates":[100.78989,19.13669],"type":"Point"}
+}

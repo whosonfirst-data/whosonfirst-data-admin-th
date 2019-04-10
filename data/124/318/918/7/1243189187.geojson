@@ -1,0 +1,82 @@
+{
+  "id": 1243189187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.75,10.11646,98.75,10.11646",
+    "geom:latitude":10.11646,
+    "geom:longitude":98.75,
+    "gn:admin1_code":"59.0",
+    "gn:asciiname":"La-Un",
+    "gn:country_code":"TH",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1152375,
+    "gn:latitude":10.11646,
+    "gn:longitude":98.75,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"La-Un",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e25\u0e30\u0e2d\u0e38\u0e48\u0e19"
+    ],
+    "name:und_x_variant":[
+        "Ban Laun",
+        "La-oun",
+        "Amphoe La-un",
+        "Laun Tai",
+        "Muang Laun",
+        "King Amphoe La-Un",
+        "Khao Fachi",
+        "Laun",
+        "La-Un",
+        "\u0e25\u0e30\u0e2d\u0e38\u0e48\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678577,
+        1108731451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1152375
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"c8bead35065d978c406a9bf61fcae894",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731451,
+            "locality_id":1243189187,
+            "region_id":85678577
+        }
+    ],
+    "wof:id":1243189187,
+    "wof:lastmodified":1537703008,
+    "wof:name":"La-Un",
+    "wof:parent_id":1108731451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.75,
+    10.11646,
+    98.75,
+    10.11646
+],
+  "geometry": {"coordinates":[98.75,10.11646],"type":"Point"}
+}

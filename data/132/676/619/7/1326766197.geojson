@@ -1,0 +1,70 @@
+{
+  "id": 1326766197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.32872,8.264,99.32872,8.264",
+    "geom:latitude":8.264,
+    "geom:longitude":99.32872,
+    "gn:admin1_code":"63.0",
+    "gn:asciiname":"Ban Bang Ra Pho",
+    "gn:country_code":"TH",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1120344,
+    "gn:latitude":8.264,
+    "gn:longitude":99.32872,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Ban Bang Ra Pho",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1a\u0e32\u0e07\u0e23\u0e32\u0e42\u0e1e\u0e18\u0e34\u0e4c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678585,
+        1108731365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1120344
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"e21297c152909d37cb2ae38d4c7c44bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731365,
+            "locality_id":1326766197,
+            "region_id":85678585
+        }
+    ],
+    "wof:id":1326766197,
+    "wof:lastmodified":1537703005,
+    "wof:name":"Ban Bang Ra Pho",
+    "wof:parent_id":1108731365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.32872,
+    8.264,
+    99.32872,
+    8.264
+],
+  "geometry": {"coordinates":[99.32872,8.264],"type":"Point"}
+}

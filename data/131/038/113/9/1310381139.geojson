@@ -1,0 +1,73 @@
+{
+  "id": 1310381139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.12946,17.2668,101.12946,17.2668",
+    "geom:latitude":17.2668,
+    "geom:longitude":101.12946,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Na Wa",
+    "gn:country_code":"TH",
+    "gn:dem":366,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1616076,
+    "gn:latitude":17.2668,
+    "gn:longitude":101.12946,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Na Wa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "Ban Na Wa"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e19\u0e32\u0e2b\u0e27\u0e49\u0e32"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678853,
+        1108802605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1616076
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"5879ba16a97b70219f25b95e4eb7a294",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802605,
+            "locality_id":1310381139,
+            "region_id":85678853
+        }
+    ],
+    "wof:id":1310381139,
+    "wof:lastmodified":1537703951,
+    "wof:name":"Ban Na Wa",
+    "wof:parent_id":1108802605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.12946,
+    17.2668,
+    101.12946,
+    17.2668
+],
+  "geometry": {"coordinates":[101.12945999999999,17.2668],"type":"Point"}
+}

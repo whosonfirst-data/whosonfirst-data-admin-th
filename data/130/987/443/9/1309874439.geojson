@@ -1,0 +1,73 @@
+{
+  "id": 1309874439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.30367,16.66556,102.30367,16.66556",
+    "geom:latitude":16.66556,
+    "geom:longitude":102.30367,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Ban Mueang Kao",
+    "gn:country_code":"TH",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1601428,
+    "gn:latitude":16.66556,
+    "gn:longitude":102.30367,
+    "gn:modification_date":"2014-04-29",
+    "gn:name":"Ban Mueang Kao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e40\u0e01\u0e48\u0e32"
+    ],
+    "name:und_x_variant":[
+        "Ban Muang Kao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678827,
+        1108731757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1601428
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"074fbe6d94e0c4574ea76bfc4ad84c09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731757,
+            "locality_id":1309874439,
+            "region_id":85678827
+        }
+    ],
+    "wof:id":1309874439,
+    "wof:lastmodified":1537703511,
+    "wof:name":"Ban Mueang Kao",
+    "wof:parent_id":1108731757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.30367,
+    16.66556,
+    102.30367,
+    16.66556
+],
+  "geometry": {"coordinates":[102.30367,16.66556],"type":"Point"}
+}

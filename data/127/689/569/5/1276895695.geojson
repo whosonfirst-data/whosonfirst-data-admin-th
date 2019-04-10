@@ -1,0 +1,74 @@
+{
+  "id": 1276895695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.38219,18.25553,99.38219,18.25553",
+    "geom:latitude":18.25553,
+    "geom:longitude":99.38219,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Ban Chut",
+    "gn:country_code":"TH",
+    "gn:dem":238,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1157980,
+    "gn:latitude":18.25553,
+    "gn:longitude":99.38219,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Ban Chut",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e08\u0e39\u0e49\u0e14"
+    ],
+    "name:und_x_variant":[
+        "B\u0101n J\u016bt",
+        "Ban Chut"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678625,
+        890466105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1157980
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"75e789733cdf14f93a9776639c9d8b88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466105,
+            "locality_id":1276895695,
+            "region_id":85678625
+        }
+    ],
+    "wof:id":1276895695,
+    "wof:lastmodified":1537703288,
+    "wof:name":"Ban Chut",
+    "wof:parent_id":890466105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.38219,
+    18.25553,
+    99.38219,
+    18.25553
+],
+  "geometry": {"coordinates":[99.38218999999999,18.25553],"type":"Point"}
+}

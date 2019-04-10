@@ -1,0 +1,76 @@
+{
+  "id": 1293328435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.90707,16.2504,104.90707,16.2504",
+    "geom:latitude":16.2504,
+    "geom:longitude":104.90707,
+    "gn:admin1_code":"78.0",
+    "gn:asciiname":"Ban Na Yang",
+    "gn:country_code":"TH",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1600762,
+    "gn:latitude":16.2504,
+    "gn:longitude":104.90707,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Na Yang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "Ban Na Yang"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e19\u0e32\u0e22\u0e32\u0e07"
+    ],
+    "name:und_x_variant":[
+        "Ban Nayang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678881,
+        1108731277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1600762
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"c56e8be2870cf57fd4991e3b09178ff0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731277,
+            "locality_id":1293328435,
+            "region_id":85678881
+        }
+    ],
+    "wof:id":1293328435,
+    "wof:lastmodified":1537703487,
+    "wof:name":"Ban Na Yang",
+    "wof:parent_id":1108731277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.90707,
+    16.2504,
+    104.90707,
+    16.2504
+],
+  "geometry": {"coordinates":[104.90707,16.2504],"type":"Point"}
+}

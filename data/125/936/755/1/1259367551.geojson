@@ -1,0 +1,73 @@
+{
+  "id": 1259367551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.91378,17.23244,98.91378,17.23244",
+    "geom:latitude":17.23244,
+    "geom:longitude":98.91378,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Ban Kao Nam",
+    "gn:country_code":"TH",
+    "gn:dem":240,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8158799,
+    "gn:latitude":17.23244,
+    "gn:longitude":98.91378,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Ban Kao Nam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "Ban Kao Nam"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e02\u0e32\u0e2b\u0e19\u0e32\u0e21"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678683,
+        1108731833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8158799
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"b65e86075da05a2040bba4cd0f2178be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731833,
+            "locality_id":1259367551,
+            "region_id":85678683
+        }
+    ],
+    "wof:id":1259367551,
+    "wof:lastmodified":1537705040,
+    "wof:name":"Ban Kao Nam",
+    "wof:parent_id":1108731833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.91378,
+    17.23244,
+    98.91378,
+    17.23244
+],
+  "geometry": {"coordinates":[98.91378,17.23244],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1344111261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.90225,16.27539,101.90225,16.27539",
+    "geom:latitude":16.27539,
+    "geom:longitude":101.90225,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Ban Nong Tae",
+    "gn:country_code":"TH",
+    "gn:dem":247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8371961,
+    "gn:latitude":16.27539,
+    "gn:longitude":101.90225,
+    "gn:modification_date":"2012-08-06",
+    "gn:name":"Ban Nong Tae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e19\u0e2d\u0e07\u0e41\u0e15\u0e49"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678825,
+        890466305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8371961
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"4875a2e047f7b881eb19cc52356dc3d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466305,
+            "locality_id":1344111261,
+            "region_id":85678825
+        }
+    ],
+    "wof:id":1344111261,
+    "wof:lastmodified":1537705522,
+    "wof:name":"Ban Nong Tae",
+    "wof:parent_id":890466305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.90225,
+    16.27539,
+    101.90225,
+    16.27539
+],
+  "geometry": {"coordinates":[101.90225,16.27539],"type":"Point"}
+}

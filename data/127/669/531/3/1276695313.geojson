@@ -1,0 +1,74 @@
+{
+  "id": 1276695313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.29075,8.31236,98.29075,8.31236",
+    "geom:latitude":8.31236,
+    "geom:longitude":98.29075,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Ban Bang Khli",
+    "gn:country_code":"TH",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1158316,
+    "gn:latitude":8.31236,
+    "gn:longitude":98.29075,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Bang Khli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1a\u0e32\u0e07\u0e04\u0e25\u0e35"
+    ],
+    "name:und_x_variant":[
+        "Ban Bang Klee",
+        "Ban Bang Khli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678573,
+        1108732001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1158316
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"1d9ea1777459c8d465801aaf658a6d4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108732001,
+            "locality_id":1276695313,
+            "region_id":85678573
+        }
+    ],
+    "wof:id":1276695313,
+    "wof:lastmodified":1537703313,
+    "wof:name":"Ban Bang Khli",
+    "wof:parent_id":1108732001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.29075,
+    8.31236,
+    98.29075,
+    8.31236
+],
+  "geometry": {"coordinates":[98.29075,8.31236],"type":"Point"}
+}

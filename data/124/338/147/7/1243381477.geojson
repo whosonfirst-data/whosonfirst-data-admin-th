@@ -1,0 +1,67 @@
+{
+  "id": 1243381477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.10306,18.14444,99.10306,18.14444",
+    "geom:latitude":18.14444,
+    "geom:longitude":99.10306,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Ban Pong Nam Ron",
+    "gn:country_code":"TH",
+    "gn:dem":396,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1463006,
+    "gn:latitude":18.14444,
+    "gn:longitude":99.10306,
+    "gn:modification_date":"1999-10-27",
+    "gn:name":"Ban Pong Nam Ron",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678625,
+        1108731925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1463006
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"56cd417be54d7519c99c68e9a4756f08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731925,
+            "locality_id":1243381477,
+            "region_id":85678625
+        }
+    ],
+    "wof:id":1243381477,
+    "wof:lastmodified":1536899273,
+    "wof:name":"Ban Pong Nam Ron",
+    "wof:parent_id":1108731925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.10306,
+    18.14444,
+    99.10306,
+    18.14444
+],
+  "geometry": {"coordinates":[99.10306,18.14444],"type":"Point"}
+}

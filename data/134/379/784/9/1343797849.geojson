@@ -1,0 +1,70 @@
+{
+  "id": 1343797849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.00258,6.27858,102.00258,6.27858",
+    "geom:latitude":6.27858,
+    "geom:longitude":102.00258,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Ban Ko Nong Nuan",
+    "gn:country_code":"TH",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7463529,
+    "gn:latitude":6.27858,
+    "gn:longitude":102.00258,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Ko Nong Nuan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e01\u0e32\u0e30\u0e19\u0e32\u0e07\u0e19\u0e27\u0e25"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678885,
+        890465893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7463529
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"c21df71259f4c7a0aae52f64862f7118",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465893,
+            "locality_id":1343797849,
+            "region_id":85678885
+        }
+    ],
+    "wof:id":1343797849,
+    "wof:lastmodified":1537704508,
+    "wof:name":"Ban Ko Nong Nuan",
+    "wof:parent_id":890465893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.00258,
+    6.27858,
+    102.00258,
+    6.27858
+],
+  "geometry": {"coordinates":[102.00257999999999,6.27858],"type":"Point"}
+}

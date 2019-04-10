@@ -1,0 +1,65 @@
+{
+  "id": 1276359517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.80865,8.21462,98.80865,8.21462",
+    "geom:latitude":8.21462,
+    "geom:longitude":98.80865,
+    "gn:admin1_code":"63.0",
+    "gn:asciiname":"Khao Kram",
+    "gn:country_code":"TH",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7910572,
+    "gn:latitude":8.21462,
+    "gn:longitude":98.80865,
+    "gn:modification_date":"2011-07-27",
+    "gn:name":"Khao Kram",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632293,
+        890466649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7910572
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"54c85d1734823be3c3053abd58f45dab",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632293,
+            "county_id":890466649,
+            "locality_id":1276359517,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276359517,
+    "wof:lastmodified":1536743292,
+    "wof:name":"Khao Kram",
+    "wof:parent_id":890466649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.80865,
+    8.21462,
+    98.80865,
+    8.21462
+],
+  "geometry": {"coordinates":[98.80865,8.21462],"type":"Point"}
+}

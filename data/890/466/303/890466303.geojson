@@ -1,0 +1,75 @@
+{
+  "id": 890466303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-11-10",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.50071,13.72602,100.50071,13.72602",
+    "geom:latitude":13.72602,
+    "geom:longitude":100.50071,
+    "gn:country":"TH",
+    "gn:fcode":"ADM2",
+    "gn:pop":0,
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:tha_x_preferred":[
+        "\u0e40\u0e02\u0e15\u0e04\u0e25\u0e2d\u0e07\u0e2a\u0e32\u0e19"
+    ],
+    "name:tha_x_variant":[
+        "\u0e04\u0e25\u0e2d\u0e07\u0e2a\u0e32\u0e19"
+    ],
+    "name:unk_x_variant":[
+        "King Amphoe Khlong San"
+    ],
+    "qs:name":"Khet Khlong San",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":247,
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1609878,
+        "qs:id":1026910,
+        "wd:id":"Q1019456",
+        "wk:page":"Khlong San District"
+    },
+    "wof:country":"TH",
+    "wof:created":1469053573,
+    "wof:geomhash":"636b06890467d6f1c413bed940bbb590",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466303,
+            "region_id":85678739
+        }
+    ],
+    "wof:id":890466303,
+    "wof:lastmodified":1527793014,
+    "wof:name":"Khet Khlong San",
+    "wof:parent_id":85678739,
+    "wof:placetype":"county",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.50071,
+    13.72602,
+    100.50071,
+    13.72602
+],
+  "geometry": {"coordinates":[100.50071,13.72602],"type":"Point"}
+}

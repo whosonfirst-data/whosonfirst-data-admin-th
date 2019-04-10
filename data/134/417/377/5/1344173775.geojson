@@ -1,0 +1,70 @@
+{
+  "id": 1344173775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.28669,12.47883,102.28669,12.47883",
+    "geom:latitude":12.47883,
+    "geom:longitude":102.28669,
+    "gn:admin1_code":"48.0",
+    "gn:asciiname":"Ban Na Sok Lang",
+    "gn:country_code":"TH",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7925726,
+    "gn:latitude":12.47883,
+    "gn:longitude":102.28669,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Na Sok Lang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e19\u0e32\u0e0b\u0e4a\u0e2d\u0e01\u0e25\u0e48\u0e32\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678799,
+        1108731385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7925726
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"557d64f5ebc9e0259498f38c4edecce1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731385,
+            "locality_id":1344173775,
+            "region_id":85678799
+        }
+    ],
+    "wof:id":1344173775,
+    "wof:lastmodified":1537704893,
+    "wof:name":"Ban Na Sok Lang",
+    "wof:parent_id":1108731385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.28669,
+    12.47883,
+    102.28669,
+    12.47883
+],
+  "geometry": {"coordinates":[102.28668999999999,12.47883],"type":"Point"}
+}

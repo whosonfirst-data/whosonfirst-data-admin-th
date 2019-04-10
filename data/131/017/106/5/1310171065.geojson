@@ -1,0 +1,73 @@
+{
+  "id": 1310171065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.46089,17.43445,101.46089,17.43445",
+    "geom:latitude":17.43445,
+    "geom:longitude":101.46089,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Saen Suk",
+    "gn:country_code":"TH",
+    "gn:dem":707,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8039221,
+    "gn:latitude":17.43445,
+    "gn:longitude":101.46089,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Saen Suk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "Ban Saen Suk"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e41\u0e2a\u0e19\u0e2a\u0e38\u0e02"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678853,
+        1108731751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8039221
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"b574eec973d7b85e7f246350ef5c6a3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731751,
+            "locality_id":1310171065,
+            "region_id":85678853
+        }
+    ],
+    "wof:id":1310171065,
+    "wof:lastmodified":1537704946,
+    "wof:name":"Ban Saen Suk",
+    "wof:parent_id":1108731751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.46089,
+    17.43445,
+    101.46089,
+    17.43445
+],
+  "geometry": {"coordinates":[101.46089000000001,17.43445],"type":"Point"}
+}

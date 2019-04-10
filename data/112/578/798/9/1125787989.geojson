@@ -1,0 +1,94 @@
+{
+  "id": 1125787989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.10056,17.4897,104.10056,17.4897",
+    "geom:latitude":17.4897,
+    "geom:longitude":104.10056,
+    "gn:gn_country":"TH",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":12989,
+    "gn:population":12989,
+    "iso:country":"TH",
+    "lbl:latitude":17.4897,
+    "lbl:longitude":104.10056,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:tha_x_preferred":[
+        "\u0e19\u0e32\u0e2b\u0e27\u0e49\u0e32"
+    ],
+    "name:unk_x_variant":[
+        "Na Wa"
+    ],
+    "qs_pg:aaroncc":"TH",
+    "qs_pg:gn_country":"TH",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":1608399,
+    "qs_pg:gn_pop":12989,
+    "qs_pg:name":"Ban Na Wa",
+    "qs_pg:name_adm0":"Thailand",
+    "qs_pg:name_adm1":"Nakhon Phanom",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":193746,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424960,
+    "qs_pg:woe_id":1225847,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424960,
+    "woe:name_adm0":"Thailand",
+    "woe:name_adm1":"Nakhon Phanom",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678879,
+        1108731565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1608399,
+        "gp:id":1225847,
+        "qs_pg:id":193746
+    },
+    "wof:country":"TH",
+    "wof:created":1497290753,
+    "wof:geomhash":"1a5475ad1a04f0123b820ccb06340b4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731565,
+            "locality_id":1125787989,
+            "region_id":85678879
+        }
+    ],
+    "wof:id":1125787989,
+    "wof:lastmodified":1509392093,
+    "wof:name":"Ban Na Wa",
+    "wof:parent_id":1108731565,
+    "wof:placetype":"locality",
+    "wof:population":12989,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.10056,
+    17.4897,
+    104.10056,
+    17.4897
+],
+  "geometry": {"coordinates":[104.10056,17.4897],"type":"Point"}
+}

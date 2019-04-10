@@ -1,0 +1,77 @@
+{
+  "id": 1293900371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.31894,7.59186,100.31894,7.59186",
+    "geom:latitude":7.59186,
+    "geom:longitude":100.31894,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Ban Thung Men",
+    "gn:country_code":"TH",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7887334,
+    "gn:latitude":7.59186,
+    "gn:longitude":100.31894,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Thung Men",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e17\u0e38\u0e48\u0e07\u0e40\u0e21\u0e23\u0e38"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        1108802633,
+        1108731433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7887334
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"981b60f811babadbb8ee8b91306be4a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802633,
+            "locality_id":1293900371,
+            "region_id":-1
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731433,
+            "locality_id":1293900371,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293900371,
+    "wof:lastmodified":1537704851,
+    "wof:name":"Ban Thung Men",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.31894,
+    7.59186,
+    100.31894,
+    7.59186
+],
+  "geometry": {"coordinates":[100.31894,7.59186],"type":"Point"}
+}

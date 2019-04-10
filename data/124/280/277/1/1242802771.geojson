@@ -1,0 +1,70 @@
+{
+  "id": 1242802771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.95147,15.714,104.95147,15.714",
+    "geom:latitude":15.714,
+    "geom:longitude":104.95147,
+    "gn:admin1_code":"75.0",
+    "gn:asciiname":"Ban Khueang Yai",
+    "gn:country_code":"TH",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8318472,
+    "gn:latitude":15.714,
+    "gn:longitude":104.95147,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Ban Khueang Yai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e02\u0e37\u0e2d\u0e07\u0e43\u0e2b\u0e0d\u0e48"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678783,
+        890466223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8318472
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"f7565f169fd513e4b26eaa18718d1915",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466223,
+            "locality_id":1242802771,
+            "region_id":85678783
+        }
+    ],
+    "wof:id":1242802771,
+    "wof:lastmodified":1537705338,
+    "wof:name":"Ban Khueang Yai",
+    "wof:parent_id":890466223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.95147,
+    15.714,
+    104.95147,
+    15.714
+],
+  "geometry": {"coordinates":[104.95147,15.714],"type":"Point"}
+}

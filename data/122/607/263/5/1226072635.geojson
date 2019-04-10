@@ -1,0 +1,70 @@
+{
+  "id": 1226072635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.82331,12.94956,99.82331,12.94956",
+    "geom:latitude":12.94956,
+    "geom:longitude":99.82331,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"Ban Huai Takae",
+    "gn:country_code":"TH",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8278726,
+    "gn:latitude":12.94956,
+    "gn:longitude":99.82331,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Ban Huai Takae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e49\u0e27\u0e22\u0e15\u0e30\u0e41\u0e01\u0e30"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678753,
+        890466431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8278726
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"860114dff6dc5ce31cad0b9fc9fb9d68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466431,
+            "locality_id":1226072635,
+            "region_id":85678753
+        }
+    ],
+    "wof:id":1226072635,
+    "wof:lastmodified":1537705306,
+    "wof:name":"Ban Huai Takae",
+    "wof:parent_id":890466431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.82331,
+    12.94956,
+    99.82331,
+    12.94956
+],
+  "geometry": {"coordinates":[99.82331000000001,12.94956],"type":"Point"}
+}

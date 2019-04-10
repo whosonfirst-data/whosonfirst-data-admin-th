@@ -1,0 +1,82 @@
+{
+  "id": 102025859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000003,
+    "geom:area_square_m":32365.314949,
+    "geom:bbox":"100.329973112,13.7954061982,100.332641602,13.7967398756",
+    "geom:latitude":13.796002,
+    "geom:longitude":100.331597,
+    "gn:latitude":13.78851,
+    "gn:longitude":100.33334,
+    "iso:country":"TH",
+    "lbl:latitude":13.796073,
+    "lbl:longitude":100.331597,
+    "mps:latitude":13.796073,
+    "mps:longitude":100.331597,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e17\u0e27\u0e35\u0e27\u0e31\u0e12\u0e19\u0e32"
+    ],
+    "qs:a0":"Thailand",
+    "qs:a1":"*Bangkok",
+    "qs:a1r":"*",
+    "qs:a2":"Thawi Watthana",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Thawi Watthana",
+    "qs:loc_alt":"Thawi Watthana",
+    "qs:loc_lc":"7026994",
+    "qs:pop":0,
+    "qs:source":"Aquattroshapes",
+    "qs:type":"County",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":428,
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678747,
+        890467307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7026994,
+        "gp:id":28341380,
+        "qs:id":1078822,
+        "wd:id":"Q1972329"
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"6795ad51240d1ac0445e35bdf11b86df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890467307,
+            "locality_id":102025859,
+            "region_id":85678747
+        }
+    ],
+    "wof:id":102025859,
+    "wof:lastmodified":1527636682,
+    "wof:name":"Thawi Watthana",
+    "wof:parent_id":890467307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.32997311153203,
+    13.79540619824442,
+    100.33264160200001,
+    13.7967398756
+],
+  "geometry": {"coordinates":[[[100.33126831100007,13.79540620138955],[100.32997311153203,13.79540619824442],[100.33126831075005,13.79673987462505],[100.33264160200001,13.7967398756],[100.33264160200001,13.79540620310001],[100.33126831100007,13.79540620138955]]],"type":"Polygon"}
+}

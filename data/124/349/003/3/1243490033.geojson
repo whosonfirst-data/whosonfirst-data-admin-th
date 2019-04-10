@@ -1,0 +1,67 @@
+{
+  "id": 1243490033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.08806,18.05111,102.08806,18.05111",
+    "geom:latitude":18.05111,
+    "geom:longitude":102.08806,
+    "gn:admin1_code":"76.0",
+    "gn:asciiname":"Ban Hia",
+    "gn:country_code":"TH",
+    "gn:dem":374,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1603600,
+    "gn:latitude":18.05111,
+    "gn:longitude":102.08806,
+    "gn:modification_date":"2009-06-01",
+    "gn:name":"Ban Hia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678869,
+        1108731575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1603600
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"7a9e760e90a46332b14bb96142951fce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731575,
+            "locality_id":1243490033,
+            "region_id":85678869
+        }
+    ],
+    "wof:id":1243490033,
+    "wof:lastmodified":1536742382,
+    "wof:name":"Ban Hia",
+    "wof:parent_id":1108731575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.08806,
+    18.05111,
+    102.08806,
+    18.05111
+],
+  "geometry": {"coordinates":[102.08806,18.05111],"type":"Point"}
+}

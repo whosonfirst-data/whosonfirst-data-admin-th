@@ -1,0 +1,74 @@
+{
+  "id": 102547891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.498256,14.868264,103.498256,14.868264",
+    "geom:latitude":14.868264,
+    "geom:longitude":103.498256,
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Surin"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e17\u0e48\u0e32\u0e2d\u0e32\u0e01\u0e32\u0e28\u0e22\u0e32\u0e19\u0e2a\u0e38\u0e23\u0e34\u0e19\u0e17\u0e23\u0e4c\u0e20\u0e31\u0e01\u0e14\u0e35"
+    ],
+    "oa:elevation_ft":"478",
+    "oa:type":"medium_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":110,
+    "woe:hierarchy":{
+        "country_id":23424960,
+        "county_id":28341284,
+        "planet_id":1,
+        "state_id":2347154
+    },
+    "wof:belongsto":[
+        85632293,
+        102024753,
+        85678849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56049659,
+        "iata:code":"PXR",
+        "icao:code":"VTUJ",
+        "oa:id":"26680",
+        "wd:id":"Q12695185"
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"89cbac9010f378596b158615e8a8215b",
+    "wof:hierarchy":[
+        {
+            "campus_id":102547891,
+            "country_id":85632293,
+            "locality_id":102024753,
+            "region_id":85678849
+        }
+    ],
+    "wof:id":102547891,
+    "wof:lastmodified":1543792155,
+    "wof:name":"Surin Airport",
+    "wof:parent_id":102024753,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    103.498256,
+    14.868264,
+    103.498256,
+    14.868264
+],
+  "geometry": {"coordinates":[103.498256,14.868264],"type":"Point"}
+}

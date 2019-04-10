@@ -1,0 +1,75 @@
+{
+  "id": 1243197251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.37267,12.32719,102.37267,12.32719",
+    "geom:latitude":12.32719,
+    "geom:longitude":102.37267,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"Ban Tha Sao",
+    "gn:country_code":"TH",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1612409,
+    "gn:latitude":12.32719,
+    "gn:longitude":102.37267,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Tha Sao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e17\u0e48\u0e32\u0e40\u0e2a\u0e32"
+    ],
+    "name:und_x_variant":[
+        "Tha Sao",
+        "Ban Tha Sao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678813,
+        1108731367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1612409,
+        "wk:page":"Tha_Sao"
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"ce56f65d0778f546ef755a58b485af77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731367,
+            "locality_id":1243197251,
+            "region_id":85678813
+        }
+    ],
+    "wof:id":1243197251,
+    "wof:lastmodified":1537703702,
+    "wof:name":"Ban Tha Sao",
+    "wof:parent_id":1108731367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.37267,
+    12.32719,
+    102.37267,
+    12.32719
+],
+  "geometry": {"coordinates":[102.37267,12.32719],"type":"Point"}
+}

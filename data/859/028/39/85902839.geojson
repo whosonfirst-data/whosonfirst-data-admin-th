@@ -1,0 +1,111 @@
+{
+  "id": 85902839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00015,
+    "geom:area_square_m":1796631.769057,
+    "geom:bbox":"100.512565788,13.6792685324,100.526237197,13.6940248447",
+    "geom:latitude":13.687147,
+    "geom:longitude":100.518938,
+    "gn:id":"",
+    "gn:latitude":13.69889,
+    "gn:longitude":100.51244,
+    "iso:country":"TH",
+    "lbl:latitude":13.685597,
+    "lbl:longitude":100.51789,
+    "mps:latitude":13.687435,
+    "mps:longitude":100.518809,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":5,
+    "name:eng_x_preferred":[
+        "Bang Khlo"
+    ],
+    "name:unk_x_variant":[
+        "Bang Khlo"
+    ],
+    "qs:gn_adm0_cc":"TH",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":1609350,
+    "qs:gn_nam_loc":"Bangkok, Bangkok, TH",
+    "qs:gn_namadm1":"40",
+    "qs:gn_name":"Bang Khlo",
+    "qs:local_max":21510,
+    "qs:local_sum":280580,
+    "qs:localhoods":117,
+    "qs:name":"Bang Khlo",
+    "qs:name_adm0":"Thailand",
+    "qs:name_adm1":"Bangkok",
+    "qs:name_adm2":"Bang Kho Laem",
+    "qs:name_local":"Bangkok",
+    "qs:photo_max":71,
+    "qs:photo_sum":294,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":15,
+    "qs:woe_adm0":23424960,
+    "qs:woe_adm1":2347165,
+    "qs:woe_adm2":28341386,
+    "qs:woe_lau":0,
+    "qs:woe_local":1225448,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85678739,
+        102191569,
+        85632293,
+        102025263,
+        890466393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"07d5deb0-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":1619496,
+        "gp:id":1225048,
+        "qs:id":232410,
+        "qs_pg:id":232410
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"a0ae9cd6782b6761edf252797c0a73ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466393,
+            "locality_id":102025263,
+            "neighbourhood_id":85902839,
+            "region_id":85678739
+        }
+    ],
+    "wof:id":85902839,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1497315496,
+    "wof:name":"Bang Khlo",
+    "wof:parent_id":102025263,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.51256578791697,
+    13.67926853243826,
+    100.52623719656009,
+    13.69402484470005
+],
+  "geometry": {"coordinates":[[[100.52537292048271,13.68601917935031],[100.52623719656009,13.68335056622534],[100.52490234400005,13.68335056906938],[100.52215576200018,13.68335056906599],[100.52215576200018,13.68068192619185],[100.5194091800002,13.68068192598145],[100.51803588900009,13.67926853243826],[100.51666259800004,13.68068192598145],[100.513916016,13.68068192591704],[100.51344544932272,13.68068192282522],[100.51258114138443,13.68335054352509],[100.51258116343996,13.68335056622534],[100.51344543951751,13.68601917935031],[100.51258116100297,13.68868776979998],[100.51256578791697,13.68873523652493],[100.51294920616613,13.68952449110627],[100.51391601600011,13.69002203095026],[100.513916016,13.69402484470005],[100.5194091800002,13.69402484028129],[100.52215576200018,13.69402483996571],[100.52215576200018,13.69135631766586],[100.52490234400005,13.69135631762155],[100.52537293028786,13.69135631482547],[100.52623716713714,13.68868776222516],[100.52623718919222,13.68868773952518],[100.52537292048271,13.68601917935031]]],"type":"Polygon"}
+}

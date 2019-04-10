@@ -1,0 +1,67 @@
+{
+  "id": 1360026077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.86667,15.4,100.86667,15.4",
+    "geom:latitude":15.4,
+    "geom:longitude":100.86667,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Ban Rai",
+    "gn:country_code":"TH",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1598681,
+    "gn:latitude":15.4,
+    "gn:longitude":100.86667,
+    "gn:modification_date":"1994-04-10",
+    "gn:name":"Ban Rai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678701,
+        1108731387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1598681
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"a93af25d2334fc000c894a7f1f505b7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731387,
+            "locality_id":1360026077,
+            "region_id":85678701
+        }
+    ],
+    "wof:id":1360026077,
+    "wof:lastmodified":1537029458,
+    "wof:name":"Ban Rai",
+    "wof:parent_id":1108731387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.86667,
+    15.4,
+    100.86667,
+    15.4
+],
+  "geometry": {"coordinates":[100.86667,15.4],"type":"Point"}
+}

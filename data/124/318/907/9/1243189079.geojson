@@ -1,0 +1,70 @@
+{
+  "id": 1243189079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.25244,8.25592,99.25244,8.25592",
+    "geom:latitude":8.25592,
+    "geom:longitude":99.25244,
+    "gn:admin1_code":"63.0",
+    "gn:asciiname":"Ban Huai San",
+    "gn:country_code":"TH",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1157399,
+    "gn:latitude":8.25592,
+    "gn:longitude":99.25244,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Ban Huai San",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e49\u0e27\u0e22\u0e2a\u0e32\u0e23"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678585,
+        1108731365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1157399
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"e84742659e2f29f0e2a25076d5cd6ce1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731365,
+            "locality_id":1243189079,
+            "region_id":85678585
+        }
+    ],
+    "wof:id":1243189079,
+    "wof:lastmodified":1537703258,
+    "wof:name":"Ban Huai San",
+    "wof:parent_id":1108731365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.25244,
+    8.25592,
+    99.25244,
+    8.25592
+],
+  "geometry": {"coordinates":[99.25244000000001,8.25592],"type":"Point"}
+}

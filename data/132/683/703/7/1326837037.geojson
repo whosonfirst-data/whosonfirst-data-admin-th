@@ -1,0 +1,75 @@
+{
+  "id": 1326837037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.91583,20.00683,99.91583,20.00683",
+    "geom:latitude":20.00683,
+    "geom:longitude":99.91583,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ban Doi Thewa",
+    "gn:country_code":"TH",
+    "gn:dem":386,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1463847,
+    "gn:latitude":20.00683,
+    "gn:longitude":99.91583,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ban Doi Thewa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e14\u0e2d\u0e22\u0e40\u0e17\u0e27\u0e32"
+    ],
+    "name:und_x_variant":[
+        "Ban Doi",
+        "Ban Doi Thewa",
+        "Ban Don Thewa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678617,
+        890466017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1463847
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"d828befe01a927d1c1816d26e88f074b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466017,
+            "locality_id":1326837037,
+            "region_id":85678617
+        }
+    ],
+    "wof:id":1326837037,
+    "wof:lastmodified":1537703342,
+    "wof:name":"Ban Doi Thewa",
+    "wof:parent_id":890466017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.91583,
+    20.00683,
+    99.91583,
+    20.00683
+],
+  "geometry": {"coordinates":[99.91583,20.00683],"type":"Point"}
+}

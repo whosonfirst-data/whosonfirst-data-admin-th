@@ -1,0 +1,73 @@
+{
+  "id": 1193041489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.42881,15.71506,104.42881,15.71506",
+    "geom:latitude":15.71506,
+    "geom:longitude":104.42881,
+    "gn:admin1_code":"77.0",
+    "gn:asciiname":"Ban Don Wan",
+    "gn:country_code":"TH",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8147484,
+    "gn:latitude":15.71506,
+    "gn:longitude":104.42881,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Ban Don Wan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "Ban Don Wan"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e14\u0e2d\u0e19\u0e27\u0e48\u0e32\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678789,
+        1108731289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8147484
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"91ae907fbe5abbe6e1fc788792c5d70a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731289,
+            "locality_id":1193041489,
+            "region_id":85678789
+        }
+    ],
+    "wof:id":1193041489,
+    "wof:lastmodified":1537705019,
+    "wof:name":"Ban Don Wan",
+    "wof:parent_id":1108731289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.42881,
+    15.71506,
+    104.42881,
+    15.71506
+],
+  "geometry": {"coordinates":[104.42881,15.71506],"type":"Point"}
+}

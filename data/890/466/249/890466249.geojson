@@ -1,0 +1,118 @@
+{
+  "id": 890466249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001243,
+    "geom:area_square_m":14927482.281696,
+    "geom:bbox":"100.515231598,13.7910737091,100.550807951,13.845390908",
+    "geom:latitude":13.817694,
+    "geom:longitude":100.535214,
+    "gn:country":"TH",
+    "gn:fcode":"ADM2",
+    "gn:pop":0,
+    "iso:country":"TH",
+    "lbl:latitude":13.818702,
+    "lbl:longitude":100.534875,
+    "meso:admin1_en":"KRUNG THEP",
+    "meso:diss_me":"Bang SuKRUNG THEP",
+    "meso:gadm_admin":"Bang Su",
+    "meso:gadm_hasc2":"TH.BM.SU",
+    "meso:gaul_admin":"Bang Su",
+    "meso:id":"67",
+    "meso:loc_id_alt":"1029",
+    "meso:local_id":"3229",
+    "meso:mps_x":100.534875,
+    "meso:mps_y":13.818702,
+    "meso:name_en":"Bang Su",
+    "meso:name_local":"\u0e40\u0e02\u0e15\u0e1a\u0e32\u0e07\u0e0b\u0e37\u0e48\u0e2d",
+    "meso:source":"AOTM",
+    "mps:latitude":13.818702,
+    "mps:longitude":100.534875,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Bang Sue"
+    ],
+    "name:eng_x_variant":[
+        "Bang Su"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e02\u0e15\u0e1a\u0e32\u0e07\u0e0b\u0e37\u0e48\u0e2d"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e32\u0e07\u0e0b\u0e37\u0e48\u0e2d",
+        "\u0e40\u0e02\u0e15\u0e1a\u0e32\u0e07\u0e0b\u0e37\u0e48\u0e2d"
+    ],
+    "name:unk_x_variant":[
+        "Khet Bang Sue"
+    ],
+    "qs:name":"Khet Bang Sue",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"0",
+    "src:geom":"unknown",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2000-04-01",
+    "statoids:area_km":"12",
+    "statoids:as_of_date":"2000-04-01",
+    "statoids:capital":"",
+    "statoids:country":"TH",
+    "statoids:hasc":"TH.BM",
+    "statoids:name":"Bang Sue",
+    "statoids:population":"180598",
+    "statoids:statoid":"TH.BM.SU",
+    "statoids:timezone":"7",
+    "statoids:type":"district",
+    "wd:wordcount":271,
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1619230,
+        "hasc:id":"TH.BM.SU",
+        "qs:id":370913,
+        "wd:id":"Q166236",
+        "wk:page":"Bang Sue District"
+    },
+    "wof:country":"TH",
+    "wof:created":1469053571,
+    "wof:geomhash":"2f15c14428f33a4505ed580c734dd16a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466249,
+            "region_id":85678739
+        }
+    ],
+    "wof:id":890466249,
+    "wof:lastmodified":1536617421,
+    "wof:name":"Bang Su",
+    "wof:parent_id":85678739,
+    "wof:placetype":"county",
+    "wof:placetype_local":"district",
+    "wof:population":180598,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:shortcode":"SU",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.51523159795656,
+    13.79107370912593,
+    100.55080795145619,
+    13.84539090800634
+],
+  "geometry": {"coordinates":[[[100.54804649945437,13.84419611614615],[100.55080795145619,13.82744530106698],[100.54829966513573,13.82479383323316],[100.54873332970578,13.81836291162861],[100.54501260719208,13.8105891749526],[100.54846127165821,13.80508493405167],[100.54584658794064,13.79310252932445],[100.54362785597996,13.79226573893229],[100.53506005051219,13.79629563308391],[100.52420139616724,13.79107370912593],[100.52149710868933,13.79232236187823],[100.52495781829121,13.80937684412203],[100.51669030813061,13.81286517994911],[100.51523159795656,13.81614901072194],[100.51888375464094,13.82589525844372],[100.52227187321172,13.8293865172591],[100.53020008011751,13.83067155647574],[100.53061594320106,13.83318058606742],[100.53228913131963,13.83949072782339],[100.53636972143731,13.84539090800634],[100.54804649945437,13.84419611614615]]],"type":"Polygon"}
+}

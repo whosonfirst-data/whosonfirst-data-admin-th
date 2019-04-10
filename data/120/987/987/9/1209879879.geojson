@@ -1,0 +1,70 @@
+{
+  "id": 1209879879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.51856,15.35533,100.51856,15.35533",
+    "geom:latitude":15.35533,
+    "geom:longitude":100.51856,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ban Kaset Chai",
+    "gn:country_code":"TH",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8344946,
+    "gn:latitude":15.35533,
+    "gn:longitude":100.51856,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Ban Kaset Chai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e01\u0e29\u0e15\u0e23\u0e0a\u0e31\u0e22"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678715,
+        890465881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8344946
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"b80d03026108dfa633b7626f6952da23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465881,
+            "locality_id":1209879879,
+            "region_id":85678715
+        }
+    ],
+    "wof:id":1209879879,
+    "wof:lastmodified":1537705473,
+    "wof:name":"Ban Kaset Chai",
+    "wof:parent_id":890465881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.51856,
+    15.35533,
+    100.51856,
+    15.35533
+],
+  "geometry": {"coordinates":[100.51855999999999,15.35533],"type":"Point"}
+}

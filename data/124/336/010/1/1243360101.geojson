@@ -1,0 +1,67 @@
+{
+  "id": 1243360101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.05389,17.11611,99.05389,17.11611",
+    "geom:latitude":17.11611,
+    "geom:longitude":99.05389,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Ban Mae Phayuap",
+    "gn:country_code":"TH",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1330778,
+    "gn:latitude":17.11611,
+    "gn:longitude":99.05389,
+    "gn:modification_date":"1996-07-11",
+    "gn:name":"Ban Mae Phayuap",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678683,
+        1108731155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1330778
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"52b646b7acd2813b2c4a332fcda6d222",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731155,
+            "locality_id":1243360101,
+            "region_id":85678683
+        }
+    ],
+    "wof:id":1243360101,
+    "wof:lastmodified":1536930849,
+    "wof:name":"Ban Mae Phayuap",
+    "wof:parent_id":1108731155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.05389,
+    17.11611,
+    99.05389,
+    17.11611
+],
+  "geometry": {"coordinates":[99.05389,17.11611],"type":"Point"}
+}

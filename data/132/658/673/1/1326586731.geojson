@@ -1,0 +1,70 @@
+{
+  "id": 1326586731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.51036,15.86708,103.51036,15.86708",
+    "geom:latitude":15.86708,
+    "geom:longitude":103.51036,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Ban Hua Fai",
+    "gn:country_code":"TH",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8682223,
+    "gn:latitude":15.86708,
+    "gn:longitude":103.51036,
+    "gn:modification_date":"2014-01-18",
+    "gn:name":"Ban Hua Fai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e31\u0e27\u0e1d\u0e32\u0e22"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678845,
+        1108731239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8682223
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"62c2ba97afa5638a4e2d245d37fca2ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731239,
+            "locality_id":1326586731,
+            "region_id":85678845
+        }
+    ],
+    "wof:id":1326586731,
+    "wof:lastmodified":1537705864,
+    "wof:name":"Ban Hua Fai",
+    "wof:parent_id":1108731239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.51036,
+    15.86708,
+    103.51036,
+    15.86708
+],
+  "geometry": {"coordinates":[103.51036000000001,15.86708],"type":"Point"}
+}

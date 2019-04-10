@@ -1,0 +1,70 @@
+{
+  "id": 1259824227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.35136,15.29389,101.35136,15.29389",
+    "geom:latitude":15.29389,
+    "geom:longitude":101.35136,
+    "gn:admin1_code":"34",
+    "gn:asciiname":"Ban Khong Kun Chon",
+    "gn:country_code":"TH",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9197617,
+    "gn:latitude":15.29389,
+    "gn:longitude":101.35136,
+    "gn:modification_date":"2014-07-10",
+    "gn:name":"Ban Khong Kun Chon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e42\u0e04\u0e49\u0e07\u0e01\u0e38\u0e0d\u0e0a\u0e23"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678825,
+        1108802641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9197617
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"2f471bdc7e0d034c30daf95ce342d137",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802641,
+            "locality_id":1259824227,
+            "region_id":85678825
+        }
+    ],
+    "wof:id":1259824227,
+    "wof:lastmodified":1537706210,
+    "wof:name":"Ban Khong Kun Chon",
+    "wof:parent_id":1108802641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.35136,
+    15.29389,
+    101.35136,
+    15.29389
+],
+  "geometry": {"coordinates":[101.35136,15.29389],"type":"Point"}
+}

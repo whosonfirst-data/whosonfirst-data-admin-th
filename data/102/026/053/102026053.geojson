@@ -1,0 +1,110 @@
+{
+  "id": 102026053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000262,
+    "geom:bbox":"103.146840992,14.760534138,103.16541492,14.7786075398",
+    "geom:latitude":14.769571,
+    "geom:longitude":103.156128,
+    "gn:latitude":14.73011,
+    "gn:longitude":103.16728,
+    "iso:country":"TH",
+    "lbl:latitude":14.769571,
+    "lbl:longitude":103.156128,
+    "mps:latitude":14.769571,
+    "mps:longitude":103.156128,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bpy_x_preferred":[
+        "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ab\u09b2\u09af\u09bc\u09be\u09b0\u09ab\u09b2\u09be \u099a\u09bf"
+    ],
+    "name:deu_x_preferred":[
+        "Amphoe Phlapphla Chai"
+    ],
+    "name:eng_x_preferred":[
+        "Phlapphla Chai"
+    ],
+    "name:ron_x_preferred":[
+        "Districtul Phlapphla Chai"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e1e\u0e25\u0e31\u0e1a\u0e1e\u0e25\u0e32\u0e0a\u0e31\u0e22"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1e\u0e25\u0e31\u0e1a\u0e1e\u0e25\u0e32\u0e0a\u0e31\u0e22"
+    ],
+    "name:unk_x_variant":[
+        "King Amphoe Phlapphla Chai"
+    ],
+    "name:vie_x_preferred":[
+        "Phlapphla Chai"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Phlapphla Chai K\u016bn"
+    ],
+    "qs:a0":"Thailand",
+    "qs:a1":"*Buriram",
+    "qs:a1r":"*",
+    "qs:a2":"Phlapphla Chai",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Phlapphla Chai",
+    "qs:loc_alt":"Phlapphla Chai",
+    "qs:loc_lc":"7510970",
+    "qs:pop":0,
+    "qs:source":"Aquattroshapes",
+    "qs:type":"County",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":143,
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"07ce98ee-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":7510970,
+        "gp:id":28349099,
+        "qs:id":356720,
+        "qs_pg:id":356720,
+        "wd:id":"Q476406"
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"c87b491635d997e5cc37452a75b2f517",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "locality_id":102026053,
+            "region_id":85678817
+        }
+    ],
+    "wof:id":102026053,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527637808,
+    "wof:name":"Phlapphla Chai",
+    "wof:parent_id":85678817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.14684099184602,
+    14.76053413796126,
+    103.165414920056,
+    14.77860753979427
+],
+  "geometry": {"coordinates":[[[103.15801438333024,14.76072222837419],[103.15620412237054,14.76053413796126],[103.1543909363334,14.76069330899051],[103.15264449637569,14.76119362436737],[103.15103190949317,14.76201585862894],[103.14961514080927,14.76312841655898],[103.14844863315624,14.76448854695138],[103.14757721529277,14.76604398494145],[103.14703437908186,14.76773495987912],[103.14684099184602,14.76949649167848],[103.14700449346937,14.77126088748882],[103.14751860925107,14.77296034281338],[103.14836358973308,14.7745295471601],[103.14950696848406,14.77590819409619],[103.1509048088969,14.77704329921507],[103.15250339222216,14.77789123687293],[103.15424128202766,14.77841941733692],[103.15605168574108,14.77860753979427],[103.15786502243238,14.77844837297924],[103.15961159800916,14.7779480333449],[103.1612242848288,14.77712575004701],[103.16264110255328,14.77601312576718],[103.16380760088462,14.77465292181273],[103.16467895248316,14.77309741424757],[103.16522167557379,14.77140638431381],[103.16541492005599,14.76964482046995],[103.1652512677784,14.76788042044538],[103.16473701637774,14.7661809893783],[103.16389193595857,14.76461183406791],[103.16274850816701,14.7632332534815],[103.16135067707587,14.76209822192476],[103.15975216001574,14.761250353842],[103.15801438333024,14.76072222837419]]],"type":"Polygon"}
+}

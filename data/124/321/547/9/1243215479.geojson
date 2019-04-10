@@ -1,0 +1,70 @@
+{
+  "id": 1243215479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.42692,14.90011,101.42692,14.90011",
+    "geom:latitude":14.90011,
+    "geom:longitude":101.42692,
+    "gn:admin1_code":"37",
+    "gn:asciiname":"Ban Khao Nom Nang",
+    "gn:country_code":"TH",
+    "gn:dem":250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9029179,
+    "gn:latitude":14.90011,
+    "gn:longitude":101.42692,
+    "gn:modification_date":"2014-05-02",
+    "gn:name":"Ban Khao Nom Nang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e02\u0e32\u0e19\u0e21\u0e19\u0e32\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678841,
+        890466789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9029179
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"9854e4d71b19521049adeb8799760fcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466789,
+            "locality_id":1243215479,
+            "region_id":85678841
+        }
+    ],
+    "wof:id":1243215479,
+    "wof:lastmodified":1537706116,
+    "wof:name":"Ban Khao Nom Nang",
+    "wof:parent_id":890466789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.42692,
+    14.90011,
+    101.42692,
+    14.90011
+],
+  "geometry": {"coordinates":[101.42692,14.90011],"type":"Point"}
+}

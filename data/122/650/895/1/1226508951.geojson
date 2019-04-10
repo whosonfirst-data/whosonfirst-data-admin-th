@@ -1,0 +1,70 @@
+{
+  "id": 1226508951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.65206,14.98494,102.65206,14.98494",
+    "geom:latitude":14.98494,
+    "geom:longitude":102.65206,
+    "gn:admin1_code":"27",
+    "gn:asciiname":"Ban Thai Ari",
+    "gn:country_code":"TH",
+    "gn:dem":197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9110076,
+    "gn:latitude":14.98494,
+    "gn:longitude":102.65206,
+    "gn:modification_date":"2014-06-07",
+    "gn:name":"Ban Thai Ari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e44\u0e17\u0e22\u0e2d\u0e32\u0e23\u0e35\u0e22\u0e4c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678841,
+        1108731295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9110076
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"861df51a4a3a7189adc323dde5addf59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731295,
+            "locality_id":1226508951,
+            "region_id":85678841
+        }
+    ],
+    "wof:id":1226508951,
+    "wof:lastmodified":1537706203,
+    "wof:name":"Ban Thai Ari",
+    "wof:parent_id":1108731295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.65206,
+    14.98494,
+    102.65206,
+    14.98494
+],
+  "geometry": {"coordinates":[102.65206000000001,14.98494],"type":"Point"}
+}

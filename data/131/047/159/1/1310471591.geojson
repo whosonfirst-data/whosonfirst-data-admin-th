@@ -1,0 +1,70 @@
+{
+  "id": 1310471591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.44492,15.58789,99.44492,15.58789",
+    "geom:latitude":15.58789,
+    "geom:longitude":99.44492,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ban Phon Charoen",
+    "gn:country_code":"TH",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8396447,
+    "gn:latitude":15.58789,
+    "gn:longitude":99.44492,
+    "gn:modification_date":"2012-10-08",
+    "gn:name":"Ban Phon Charoen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1e\u0e23\u0e40\u0e08\u0e23\u0e34\u0e0d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678689,
+        1108802643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8396447
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"5d275cfcfa5142471fbe1561169458f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802643,
+            "locality_id":1310471591,
+            "region_id":85678689
+        }
+    ],
+    "wof:id":1310471591,
+    "wof:lastmodified":1537705568,
+    "wof:name":"Ban Phon Charoen",
+    "wof:parent_id":1108802643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.44492,
+    15.58789,
+    99.44492,
+    15.58789
+],
+  "geometry": {"coordinates":[99.44492,15.58789],"type":"Point"}
+}

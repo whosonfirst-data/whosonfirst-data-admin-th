@@ -1,0 +1,70 @@
+{
+  "id": 1344134163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.48608,16.78017,99.48608,16.78017",
+    "geom:latitude":16.78017,
+    "geom:longitude":99.48608,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Ban Nong Mai Kro",
+    "gn:country_code":"TH",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8386422,
+    "gn:latitude":16.78017,
+    "gn:longitude":99.48608,
+    "gn:modification_date":"2012-09-08",
+    "gn:name":"Ban Nong Mai Kro",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e19\u0e2d\u0e07\u0e44\u0e21\u0e49\u0e01\u0e23\u0e2d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678665,
+        890465763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8386422
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"35ebe24ad38b8be2ceb6466320a3e862",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465763,
+            "locality_id":1344134163,
+            "region_id":85678665
+        }
+    ],
+    "wof:id":1344134163,
+    "wof:lastmodified":1537705544,
+    "wof:name":"Ban Nong Mai Kro",
+    "wof:parent_id":890465763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.48608,
+    16.78017,
+    99.48608,
+    16.78017
+],
+  "geometry": {"coordinates":[99.48608,16.78017],"type":"Point"}
+}

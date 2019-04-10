@@ -1,0 +1,67 @@
+{
+  "id": 1326639617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.61028,19.02083,99.61028,19.02083",
+    "geom:latitude":19.02083,
+    "geom:longitude":99.61028,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Ban Mae Kwang",
+    "gn:country_code":"TH",
+    "gn:dem":393,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1119146,
+    "gn:latitude":19.02083,
+    "gn:longitude":99.61028,
+    "gn:modification_date":"1999-10-25",
+    "gn:name":"Ban Mae Kwang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678625,
+        1108732055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1119146
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"e215dce33831f4f7a9033e4ffac36a11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108732055,
+            "locality_id":1326639617,
+            "region_id":85678625
+        }
+    ],
+    "wof:id":1326639617,
+    "wof:lastmodified":1536828109,
+    "wof:name":"Ban Mae Kwang",
+    "wof:parent_id":1108732055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.61028,
+    19.02083,
+    99.61028,
+    19.02083
+],
+  "geometry": {"coordinates":[99.61028,19.02083],"type":"Point"}
+}

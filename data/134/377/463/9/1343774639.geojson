@@ -1,0 +1,73 @@
+{
+  "id": 1343774639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.04836,19.10431,99.04836,19.10431",
+    "geom:latitude":19.10431,
+    "geom:longitude":99.04836,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Na Meng",
+    "gn:country_code":"TH",
+    "gn:dem":376,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1154850,
+    "gn:latitude":19.10431,
+    "gn:longitude":99.04836,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Na Meng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e19\u0e32\u0e40\u0e21\u0e47\u0e07"
+    ],
+    "name:und_x_variant":[
+        "Ban San Na Meng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678619,
+        1108802653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1154850
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"795d04cb1a1d9ea4d910c07858692190",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802653,
+            "locality_id":1343774639,
+            "region_id":85678619
+        }
+    ],
+    "wof:id":1343774639,
+    "wof:lastmodified":1537703077,
+    "wof:name":"Ban Na Meng",
+    "wof:parent_id":1108802653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.04836,
+    19.10431,
+    99.04836,
+    19.10431
+],
+  "geometry": {"coordinates":[99.04836,19.10431],"type":"Point"}
+}

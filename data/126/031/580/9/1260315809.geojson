@@ -1,0 +1,75 @@
+{
+  "id": 1260315809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.93525,13.05586,99.93525,13.05586",
+    "geom:latitude":13.05586,
+    "geom:longitude":99.93525,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"Ban Tha Sen",
+    "gn:country_code":"TH",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1154417,
+    "gn:latitude":13.05586,
+    "gn:longitude":99.93525,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Ban Tha Sen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e17\u0e48\u0e32\u0e40\u0e2a\u0e19"
+    ],
+    "name:und_x_variant":[
+        "Tha Sen",
+        "Ban Tha Len",
+        "Ban Tha Sen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678753,
+        1108731121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1154417
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"70ca8c616ad39bd1773f71baed4ed77f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731121,
+            "locality_id":1260315809,
+            "region_id":85678753
+        }
+    ],
+    "wof:id":1260315809,
+    "wof:lastmodified":1537703045,
+    "wof:name":"Ban Tha Sen",
+    "wof:parent_id":1108731121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.93525,
+    13.05586,
+    99.93525,
+    13.05586
+],
+  "geometry": {"coordinates":[99.93525,13.05586],"type":"Point"}
+}

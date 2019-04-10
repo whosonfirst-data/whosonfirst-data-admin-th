@@ -1,0 +1,70 @@
+{
+  "id": 1293742123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.10731,16.57803,102.10731,16.57803",
+    "geom:latitude":16.57803,
+    "geom:longitude":102.10731,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Ban Thep Nakhon",
+    "gn:country_code":"TH",
+    "gn:dem":242,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9001422,
+    "gn:latitude":16.57803,
+    "gn:longitude":102.10731,
+    "gn:modification_date":"2014-05-01",
+    "gn:name":"Ban Thep Nakhon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e17\u0e1e\u0e19\u0e04\u0e23"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678827,
+        890467315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9001422
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"8cdb7ba70ffa829aac7baa5ae4fcf8b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890467315,
+            "locality_id":1293742123,
+            "region_id":85678827
+        }
+    ],
+    "wof:id":1293742123,
+    "wof:lastmodified":1537706077,
+    "wof:name":"Ban Thep Nakhon",
+    "wof:parent_id":890467315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.10731,
+    16.57803,
+    102.10731,
+    16.57803
+],
+  "geometry": {"coordinates":[102.10731,16.57803],"type":"Point"}
+}

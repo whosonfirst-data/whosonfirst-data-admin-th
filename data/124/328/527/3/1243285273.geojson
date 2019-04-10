@@ -1,0 +1,70 @@
+{
+  "id": 1243285273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.16981,17.65772,99.16981,17.65772",
+    "geom:latitude":17.65772,
+    "geom:longitude":99.16981,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Ban Phae Den",
+    "gn:country_code":"TH",
+    "gn:dem":206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1118195,
+    "gn:latitude":17.65772,
+    "gn:longitude":99.16981,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Ban Phae Den",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e41\u0e1e\u0e30\u0e40\u0e14\u0e48\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678625,
+        1108802761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1118195
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"3567b605a2f0e8a6b220883037722c94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802761,
+            "locality_id":1243285273,
+            "region_id":85678625
+        }
+    ],
+    "wof:id":1243285273,
+    "wof:lastmodified":1537702938,
+    "wof:name":"Ban Phae Den",
+    "wof:parent_id":1108802761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.16981,
+    17.65772,
+    99.16981,
+    17.65772
+],
+  "geometry": {"coordinates":[99.16981,17.65772],"type":"Point"}
+}

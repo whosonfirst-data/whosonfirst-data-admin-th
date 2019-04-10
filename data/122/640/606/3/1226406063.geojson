@@ -1,0 +1,67 @@
+{
+  "id": 1226406063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.91861,15.93194,99.91861,15.93194",
+    "geom:latitude":15.93194,
+    "geom:longitude":99.91861,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ban Khlong Ngaeng",
+    "gn:country_code":"TH",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1119587,
+    "gn:latitude":15.93194,
+    "gn:longitude":99.91861,
+    "gn:modification_date":"2000-09-11",
+    "gn:name":"Ban Khlong Ngaeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678715,
+        890466389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1119587
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"f28e93ab31b2b1f90f5d7ee3a2a93214",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466389,
+            "locality_id":1226406063,
+            "region_id":85678715
+        }
+    ],
+    "wof:id":1226406063,
+    "wof:lastmodified":1536703084,
+    "wof:name":"Ban Khlong Ngaeng",
+    "wof:parent_id":890466389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.91861,
+    15.93194,
+    99.91861,
+    15.93194
+],
+  "geometry": {"coordinates":[99.91861,15.93194],"type":"Point"}
+}

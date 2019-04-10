@@ -1,0 +1,73 @@
+{
+  "id": 1309800939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.38333,18.2,99.38333,18.2",
+    "geom:latitude":18.2,
+    "geom:longitude":99.38333,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Ban Ko Kha",
+    "gn:cc2":"TH",
+    "gn:country_code":"TH",
+    "gn:dem":223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1156833,
+    "gn:latitude":18.2,
+    "gn:longitude":99.38333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Ko Kha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kau Kha",
+        "Ban Ko Kham",
+        "Ban Ko Kha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678625,
+        890466105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1156833
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"b9f1a61ab98f169167bf8206d9860db0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466105,
+            "locality_id":1309800939,
+            "region_id":85678625
+        }
+    ],
+    "wof:id":1309800939,
+    "wof:lastmodified":1537703222,
+    "wof:name":"Ban Ko Kha",
+    "wof:parent_id":890466105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.38333,
+    18.2,
+    99.38333,
+    18.2
+],
+  "geometry": {"coordinates":[99.38333,18.2],"type":"Point"}
+}

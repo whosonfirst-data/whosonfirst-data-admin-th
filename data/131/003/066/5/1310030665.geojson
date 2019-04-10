@@ -1,0 +1,74 @@
+{
+  "id": 1310030665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.97831,13.44628,99.97831,13.44628",
+    "geom:latitude":13.44628,
+    "geom:longitude":99.97831,
+    "gn:admin1_code":"54.0",
+    "gn:asciiname":"Ban Dao Dong",
+    "gn:country_code":"TH",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1157965,
+    "gn:latitude":13.44628,
+    "gn:longitude":99.97831,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Ban Dao Dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e14\u0e32\u0e27\u0e42\u0e14\u0e48\u0e07"
+    ],
+    "name:und_x_variant":[
+        "Dao Dong",
+        "Ban Dao Dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678775,
+        1108731101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1157965
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"7f5b3db074b1554adcdb3bd745b60bb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731101,
+            "locality_id":1310030665,
+            "region_id":85678775
+        }
+    ],
+    "wof:id":1310030665,
+    "wof:lastmodified":1537703287,
+    "wof:name":"Ban Dao Dong",
+    "wof:parent_id":1108731101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.97831,
+    13.44628,
+    99.97831,
+    13.44628
+],
+  "geometry": {"coordinates":[99.97830999999999,13.44628],"type":"Point"}
+}

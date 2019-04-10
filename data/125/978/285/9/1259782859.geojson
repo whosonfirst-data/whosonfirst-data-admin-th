@@ -1,0 +1,70 @@
+{
+  "id": 1259782859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.0585,19.14908,101.0585,19.14908",
+    "geom:latitude":19.14908,
+    "geom:longitude":101.0585,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Ban Pang Khwai",
+    "gn:country_code":"TH",
+    "gn:dem":1159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7394943,
+    "gn:latitude":19.14908,
+    "gn:longitude":101.0585,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Pang Khwai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1b\u0e32\u0e07\u0e04\u0e27\u0e32\u0e22"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678633,
+        890466167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7394943
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"3a973e38b2379141f9b18fc7967cad32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466167,
+            "locality_id":1259782859,
+            "region_id":85678633
+        }
+    ],
+    "wof:id":1259782859,
+    "wof:lastmodified":1537704465,
+    "wof:name":"Ban Pang Khwai",
+    "wof:parent_id":890466167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.0585,
+    19.14908,
+    101.0585,
+    19.14908
+],
+  "geometry": {"coordinates":[101.0585,19.14908],"type":"Point"}
+}

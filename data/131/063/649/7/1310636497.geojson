@@ -1,0 +1,73 @@
+{
+  "id": 1310636497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.67083,7.58069,99.67083,7.58069",
+    "geom:latitude":7.58069,
+    "geom:longitude":99.67083,
+    "gn:admin1_code":"65.0",
+    "gn:asciiname":"Ban Hua Khao",
+    "gn:country_code":"TH",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1157363,
+    "gn:latitude":7.58069,
+    "gn:longitude":99.67083,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Ban Hua Khao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e31\u0e27\u0e40\u0e02\u0e32"
+    ],
+    "name:und_x_variant":[
+        "Ban Hua Khao Raet (1)"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678609,
+        890466897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1157363
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"5b964266f1b86f034476b670090382a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466897,
+            "locality_id":1310636497,
+            "region_id":85678609
+        }
+    ],
+    "wof:id":1310636497,
+    "wof:lastmodified":1537703256,
+    "wof:name":"Ban Hua Khao",
+    "wof:parent_id":890466897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.67083,
+    7.58069,
+    99.67083,
+    7.58069
+],
+  "geometry": {"coordinates":[99.67083,7.58069],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226339453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.55556,18.5175,99.55556,18.5175",
+    "geom:latitude":18.5175,
+    "geom:longitude":99.55556,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Ban Pang Kha",
+    "gn:country_code":"TH",
+    "gn:dem":375,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1118292,
+    "gn:latitude":18.5175,
+    "gn:longitude":99.55556,
+    "gn:modification_date":"1999-10-26",
+    "gn:name":"Ban Pang Kha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678625,
+        1108731215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1118292
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"b9590345138ca675a2b9390cb632260e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731215,
+            "locality_id":1226339453,
+            "region_id":85678625
+        }
+    ],
+    "wof:id":1226339453,
+    "wof:lastmodified":1536798665,
+    "wof:name":"Ban Pang Kha",
+    "wof:parent_id":1108731215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.55556,
+    18.5175,
+    99.55556,
+    18.5175
+],
+  "geometry": {"coordinates":[99.55556,18.5175],"type":"Point"}
+}

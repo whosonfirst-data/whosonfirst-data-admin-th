@@ -1,0 +1,70 @@
+{
+  "id": 1243571235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.25917,17.36239,102.25917,17.36239",
+    "geom:latitude":17.36239,
+    "geom:longitude":102.25917,
+    "gn:admin1_code":"79.0",
+    "gn:asciiname":"Ban Kut Din Chi Tai",
+    "gn:country_code":"TH",
+    "gn:dem":237,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8460049,
+    "gn:latitude":17.36239,
+    "gn:longitude":102.25917,
+    "gn:modification_date":"2013-02-10",
+    "gn:name":"Ban Kut Din Chi Tai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e01\u0e38\u0e14\u0e14\u0e34\u0e19\u0e08\u0e35\u0e48\u0e43\u0e15\u0e49"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678871,
+        1108731551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8460049
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"c1cc7d0d41a86f437116f15375190ec2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731551,
+            "locality_id":1243571235,
+            "region_id":85678871
+        }
+    ],
+    "wof:id":1243571235,
+    "wof:lastmodified":1537705644,
+    "wof:name":"Ban Kut Din Chi Tai",
+    "wof:parent_id":1108731551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.25917,
+    17.36239,
+    102.25917,
+    17.36239
+],
+  "geometry": {"coordinates":[102.25917,17.36239],"type":"Point"}
+}

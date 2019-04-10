@@ -1,0 +1,70 @@
+{
+  "id": 1327055207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.31394,19.16828,100.31394,19.16828",
+    "geom:latitude":19.16828,
+    "geom:longitude":100.31394,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Ban Mai Don Mun",
+    "gn:country_code":"TH",
+    "gn:dem":313,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8540598,
+    "gn:latitude":19.16828,
+    "gn:longitude":100.31394,
+    "gn:modification_date":"2013-06-06",
+    "gn:name":"Ban Mai Don Mun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e43\u0e2b\u0e21\u0e48\u0e14\u0e2d\u0e19\u0e21\u0e39\u0e25"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678637,
+        890466243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8540598
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"80e53b4572a2cbd6c87d656ecb84ba10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466243,
+            "locality_id":1327055207,
+            "region_id":85678637
+        }
+    ],
+    "wof:id":1327055207,
+    "wof:lastmodified":1537705698,
+    "wof:name":"Ban Mai Don Mun",
+    "wof:parent_id":890466243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.31394,
+    19.16828,
+    100.31394,
+    19.16828
+],
+  "geometry": {"coordinates":[100.31394,19.16828],"type":"Point"}
+}

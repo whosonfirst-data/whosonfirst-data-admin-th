@@ -1,0 +1,70 @@
+{
+  "id": 1243250347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.35119,16.62146,100.35119,16.62146",
+    "geom:latitude":16.62146,
+    "geom:longitude":100.35119,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Ban Dong Phayom",
+    "gn:country_code":"TH",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8217258,
+    "gn:latitude":16.62146,
+    "gn:longitude":100.35119,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Ban Dong Phayom",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e2a\u0e14\u0e07\u0e1e\u0e30\u0e22\u0e2d\u0e21"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678647,
+        1108731167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8217258
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"05f2907985675bd31aa56c654f0a616b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731167,
+            "locality_id":1243250347,
+            "region_id":85678647
+        }
+    ],
+    "wof:id":1243250347,
+    "wof:lastmodified":1537705137,
+    "wof:name":"Ban Dong Phayom",
+    "wof:parent_id":1108731167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.35119,
+    16.62146,
+    100.35119,
+    16.62146
+],
+  "geometry": {"coordinates":[100.35119,16.62146],"type":"Point"}
+}

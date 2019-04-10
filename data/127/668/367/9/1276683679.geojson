@@ -1,0 +1,70 @@
+{
+  "id": 1276683679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.84744,13.79486,99.84744,13.79486",
+    "geom:latitude":13.79486,
+    "geom:longitude":99.84744,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Ban Fang Ko Bon",
+    "gn:country_code":"TH",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8339219,
+    "gn:latitude":13.79486,
+    "gn:longitude":99.84744,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Ban Fang Ko Bon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1d\u0e31\u0e48\u0e07\u0e40\u0e01\u0e32\u0e30\u0e1a\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678761,
+        1108731153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8339219
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"5a9c86205b6f4b12bb8b4c47a8b9a12d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731153,
+            "locality_id":1276683679,
+            "region_id":85678761
+        }
+    ],
+    "wof:id":1276683679,
+    "wof:lastmodified":1537705426,
+    "wof:name":"Ban Fang Ko Bon",
+    "wof:parent_id":1108731153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.84744,
+    13.79486,
+    99.84744,
+    13.79486
+],
+  "geometry": {"coordinates":[99.84744000000001,13.79486],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226196201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.00194,15.2575,101.00194,15.2575",
+    "geom:latitude":15.2575,
+    "geom:longitude":101.00194,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Ban Lai Thong",
+    "gn:country_code":"TH",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1601821,
+    "gn:latitude":15.2575,
+    "gn:longitude":101.00194,
+    "gn:modification_date":"2000-07-20",
+    "gn:name":"Ban Lai Thong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678701,
+        890466247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1601821
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"4f3ced2a9bd823f2f0b992ceed41a7f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466247,
+            "locality_id":1226196201,
+            "region_id":85678701
+        }
+    ],
+    "wof:id":1226196201,
+    "wof:lastmodified":1537004377,
+    "wof:name":"Ban Lai Thong",
+    "wof:parent_id":890466247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.00194,
+    15.2575,
+    101.00194,
+    15.2575
+],
+  "geometry": {"coordinates":[101.00194,15.2575],"type":"Point"}
+}

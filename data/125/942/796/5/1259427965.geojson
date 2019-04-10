@@ -1,0 +1,70 @@
+{
+  "id": 1259427965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.44031,14.79906,100.44031,14.79906",
+    "geom:latitude":14.79906,
+    "geom:longitude":100.44031,
+    "gn:admin1_code":"33",
+    "gn:asciiname":"Ban Phra Haruethai",
+    "gn:country_code":"TH",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8725715,
+    "gn:latitude":14.79906,
+    "gn:longitude":100.44031,
+    "gn:modification_date":"2014-03-11",
+    "gn:name":"Ban Phra Haruethai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1e\u0e23\u0e30\u0e2b\u0e24\u0e17\u0e31\u0e22"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678729,
+        890465951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8725715
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"fe3161ecae948ea447801b8f17bd603e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465951,
+            "locality_id":1259427965,
+            "region_id":85678729
+        }
+    ],
+    "wof:id":1259427965,
+    "wof:lastmodified":1537705973,
+    "wof:name":"Ban Phra Haruethai",
+    "wof:parent_id":890465951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.44031,
+    14.79906,
+    100.44031,
+    14.79906
+],
+  "geometry": {"coordinates":[100.44031,14.79906],"type":"Point"}
+}

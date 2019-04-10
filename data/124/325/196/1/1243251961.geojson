@@ -1,0 +1,73 @@
+{
+  "id": 1243251961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.36344,17.81189,100.36344,17.81189",
+    "geom:latitude":17.81189,
+    "geom:longitude":100.36344,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Ban Loet Chai",
+    "gn:country_code":"TH",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8136211,
+    "gn:latitude":17.81189,
+    "gn:longitude":100.36344,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Ban Loet Chai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "Ban Loet Chai"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e25\u0e34\u0e28\u0e0a\u0e31\u0e22"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678657,
+        1108731981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8136211
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"0ded0ded31366c3d28db0aab66610002",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731981,
+            "locality_id":1243251961,
+            "region_id":85678657
+        }
+    ],
+    "wof:id":1243251961,
+    "wof:lastmodified":1537704987,
+    "wof:name":"Ban Loet Chai",
+    "wof:parent_id":1108731981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.36344,
+    17.81189,
+    100.36344,
+    17.81189
+],
+  "geometry": {"coordinates":[100.36344,17.81189],"type":"Point"}
+}

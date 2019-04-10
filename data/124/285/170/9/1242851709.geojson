@@ -1,0 +1,70 @@
+{
+  "id": 1242851709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.44508,16.49461,99.44508,16.49461",
+    "geom:latitude":16.49461,
+    "geom:longitude":99.44508,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Ban Thung Suan",
+    "gn:country_code":"TH",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1117332,
+    "gn:latitude":16.49461,
+    "gn:longitude":99.44508,
+    "gn:modification_date":"2012-09-05",
+    "gn:name":"Ban Thung Suan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e17\u0e38\u0e48\u0e07\u0e2a\u0e27\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678665,
+        890466023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1117332
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"8f7bfa5f4ab8f129f0e888c41475e014",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466023,
+            "locality_id":1242851709,
+            "region_id":85678665
+        }
+    ],
+    "wof:id":1242851709,
+    "wof:lastmodified":1537702912,
+    "wof:name":"Ban Thung Suan",
+    "wof:parent_id":890466023,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.44508,
+    16.49461,
+    99.44508,
+    16.49461
+],
+  "geometry": {"coordinates":[99.44508,16.49461],"type":"Point"}
+}

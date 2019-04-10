@@ -1,0 +1,67 @@
+{
+  "id": 1343893783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.25,8.63333,98.25,8.63333",
+    "geom:latitude":8.63333,
+    "geom:longitude":98.25,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Ban Sam Poeng",
+    "gn:country_code":"TH",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1154883,
+    "gn:latitude":8.63333,
+    "gn:longitude":98.25,
+    "gn:modification_date":"1994-04-06",
+    "gn:name":"Ban Sam Poeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678573,
+        1108731961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1154883
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"bb864181709b8e059451adab6b5baf42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731961,
+            "locality_id":1343893783,
+            "region_id":85678573
+        }
+    ],
+    "wof:id":1343893783,
+    "wof:lastmodified":1536616165,
+    "wof:name":"Ban Sam Poeng",
+    "wof:parent_id":1108731961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.25,
+    8.63333,
+    98.25,
+    8.63333
+],
+  "geometry": {"coordinates":[98.25,8.63333],"type":"Point"}
+}

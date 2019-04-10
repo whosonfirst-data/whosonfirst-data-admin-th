@@ -1,0 +1,73 @@
+{
+  "id": 1310234357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.0057,14.02208,100.0057,14.02208",
+    "geom:latitude":14.02208,
+    "geom:longitude":100.0057,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Ban Pho Si",
+    "gn:country_code":"TH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8138728,
+    "gn:latitude":14.02208,
+    "gn:longitude":100.0057,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Ban Pho Si",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "Ban Pho Si"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e42\u0e1e\u0e18\u0e34\u0e4c\u0e28\u0e23\u0e35"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678747,
+        1108731323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8138728
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"5f29d216c4ee19461b46e7fed7a7ffc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731323,
+            "locality_id":1310234357,
+            "region_id":85678747
+        }
+    ],
+    "wof:id":1310234357,
+    "wof:lastmodified":1537705009,
+    "wof:name":"Ban Pho Si",
+    "wof:parent_id":1108731323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.0057,
+    14.02208,
+    100.0057,
+    14.02208
+],
+  "geometry": {"coordinates":[100.0057,14.02208],"type":"Point"}
+}

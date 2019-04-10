@@ -1,0 +1,73 @@
+{
+  "id": 1259800465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.11403,6.81283,100.11403,6.81283",
+    "geom:latitude":6.81283,
+    "geom:longitude":100.11403,
+    "gn:admin1_code":"67.0",
+    "gn:asciiname":"Ban Na Prik",
+    "gn:country_code":"TH",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7466987,
+    "gn:latitude":6.81283,
+    "gn:longitude":100.11403,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Ban Na Prik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e19\u0e32\u0e1b\u0e23\u0e34\u0e01"
+    ],
+    "name:tha_x_variant":[
+        "Ban Na Prik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678595,
+        1108731399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7466987
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"6c916adcc991ebcbba02047793691114",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731399,
+            "locality_id":1259800465,
+            "region_id":85678595
+        }
+    ],
+    "wof:id":1259800465,
+    "wof:lastmodified":1537704513,
+    "wof:name":"Ban Na Prik",
+    "wof:parent_id":1108731399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.11403,
+    6.81283,
+    100.11403,
+    6.81283
+],
+  "geometry": {"coordinates":[100.11403,6.81283],"type":"Point"}
+}

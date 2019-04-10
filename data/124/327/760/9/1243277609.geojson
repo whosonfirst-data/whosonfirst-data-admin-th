@@ -1,0 +1,70 @@
+{
+  "id": 1243277609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.09981,18.462,98.09981,18.462",
+    "geom:latitude":18.462,
+    "geom:longitude":98.09981,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ban Mae Samaeng",
+    "gn:country_code":"TH",
+    "gn:dem":1042,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1330897,
+    "gn:latitude":18.462,
+    "gn:longitude":98.09981,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ban Mae Samaeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e41\u0e21\u0e48\u0e2a\u0e30\u0e41\u0e21\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678555,
+        1108731495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1330897
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"7e0d2464ad419f1e37e1d1217e9e1017",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731495,
+            "locality_id":1243277609,
+            "region_id":85678555
+        }
+    ],
+    "wof:id":1243277609,
+    "wof:lastmodified":1537703322,
+    "wof:name":"Ban Mae Samaeng",
+    "wof:parent_id":1108731495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.09981,
+    18.462,
+    98.09981,
+    18.462
+],
+  "geometry": {"coordinates":[98.09981000000001,18.462],"type":"Point"}
+}

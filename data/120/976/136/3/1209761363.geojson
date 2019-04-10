@@ -1,0 +1,70 @@
+{
+  "id": 1209761363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.21161,15.15028,104.21161,15.15028",
+    "geom:latitude":15.15028,
+    "geom:longitude":104.21161,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Ban Thung Sawang",
+    "gn:country_code":"TH",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7877991,
+    "gn:latitude":15.15028,
+    "gn:longitude":104.21161,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Thung Sawang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e17\u0e38\u0e48\u0e07\u0e2a\u0e27\u0e48\u0e32\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678779,
+        1108732039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7877991
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"b4fd931ad68f4a9aeaa5945c19ee263f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108732039,
+            "locality_id":1209761363,
+            "region_id":85678779
+        }
+    ],
+    "wof:id":1209761363,
+    "wof:lastmodified":1537704781,
+    "wof:name":"Ban Thung Sawang",
+    "wof:parent_id":1108732039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.21161,
+    15.15028,
+    104.21161,
+    15.15028
+],
+  "geometry": {"coordinates":[104.21160999999999,15.15028],"type":"Point"}
+}

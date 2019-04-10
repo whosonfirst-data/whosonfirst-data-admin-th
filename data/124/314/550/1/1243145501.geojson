@@ -1,0 +1,70 @@
+{
+  "id": 1243145501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.16367,16.12114,101.16367,16.12114",
+    "geom:latitude":16.12114,
+    "geom:longitude":101.16367,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ban Sap Champa",
+    "gn:country_code":"TH",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8567430,
+    "gn:latitude":16.12114,
+    "gn:longitude":101.16367,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Ban Sap Champa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e17\u0e23\u0e31\u0e1e\u0e22\u0e4c\u0e08\u0e33\u0e1b\u0e32"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678673,
+        890466025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8567430
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"4ee85d2b9386fe0715eb5f36716a5cce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466025,
+            "locality_id":1243145501,
+            "region_id":85678673
+        }
+    ],
+    "wof:id":1243145501,
+    "wof:lastmodified":1537705745,
+    "wof:name":"Ban Sap Champa",
+    "wof:parent_id":890466025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.16367,
+    16.12114,
+    101.16367,
+    16.12114
+],
+  "geometry": {"coordinates":[101.16367,16.12114],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1309872779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.91439,16.58767,101.91439,16.58767",
+    "geom:latitude":16.58767,
+    "geom:longitude":101.91439,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Ban Na Wong Duean",
+    "gn:country_code":"TH",
+    "gn:dem":264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1600764,
+    "gn:latitude":16.58767,
+    "gn:longitude":101.91439,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Ban Na Wong Duean",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e19\u0e32\u0e27\u0e07\u0e40\u0e14\u0e37\u0e2d\u0e19"
+    ],
+    "name:und_x_variant":[
+        "Ban Na Wong Duan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678825,
+        890465699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1600764
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"95173f1f7a1a91dee41f354a312f2111",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465699,
+            "locality_id":1309872779,
+            "region_id":85678825
+        }
+    ],
+    "wof:id":1309872779,
+    "wof:lastmodified":1537703487,
+    "wof:name":"Ban Na Wong Duean",
+    "wof:parent_id":890465699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.91439,
+    16.58767000000001,
+    101.91439,
+    16.58767000000001
+],
+  "geometry": {"coordinates":[101.91439,16.58767000000001],"type":"Point"}
+}

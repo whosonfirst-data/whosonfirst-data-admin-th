@@ -1,0 +1,70 @@
+{
+  "id": 1326498951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.28467,16.68336,102.28467,16.68336",
+    "geom:latitude":16.68336,
+    "geom:longitude":102.28467,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Ban Nong Du",
+    "gn:country_code":"TH",
+    "gn:dem":221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9001036,
+    "gn:latitude":16.68336,
+    "gn:longitude":102.28467,
+    "gn:modification_date":"2014-05-01",
+    "gn:name":"Ban Nong Du",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e19\u0e2d\u0e07\u0e14\u0e39\u0e48"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678827,
+        1108731757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9001036
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"4ef86d08c4ddf82b094d1a6b6eba9f82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731757,
+            "locality_id":1326498951,
+            "region_id":85678827
+        }
+    ],
+    "wof:id":1326498951,
+    "wof:lastmodified":1537706072,
+    "wof:name":"Ban Nong Du",
+    "wof:parent_id":1108731757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.28467,
+    16.68336,
+    102.28467,
+    16.68336
+],
+  "geometry": {"coordinates":[102.28467000000001,16.68336],"type":"Point"}
+}

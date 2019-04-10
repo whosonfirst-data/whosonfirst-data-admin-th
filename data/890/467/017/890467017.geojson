@@ -1,0 +1,77 @@
+{
+  "id": 890467017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.72214,13.67843,100.72214,13.67843",
+    "geom:latitude":13.67843,
+    "geom:longitude":100.72214,
+    "gn:country":"TH",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424960,
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e23\u0e32\u0e0a\u0e32\u0e40\u0e17\u0e27\u0e30"
+    ],
+    "qs:name":"Racha Thewa",
+    "qs:name_adm0":"Thailand",
+    "qs:name_adm1":"Samut Prakan",
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":20,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":57,
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678765,
+        890467329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6695259,
+        "gp:id":55947869,
+        "qs:id":1160933,
+        "wd:id":"Q6578348",
+        "wk:page":"Racha Thewa"
+    },
+    "wof:country":"TH",
+    "wof:created":1469053609,
+    "wof:geomhash":"7f3c9c4e532beb53280c9ae57100cb31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890467329,
+            "locality_id":890467017,
+            "region_id":85678765
+        }
+    ],
+    "wof:id":890467017,
+    "wof:lastmodified":1527792899,
+    "wof:name":"Racha Thewa",
+    "wof:parent_id":890467329,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.72214,
+    13.67843,
+    100.72214,
+    13.67843
+],
+  "geometry": {"coordinates":[100.72214,13.67843],"type":"Point"}
+}

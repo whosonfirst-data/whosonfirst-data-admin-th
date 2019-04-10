@@ -1,0 +1,70 @@
+{
+  "id": 1209851207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.55383,13.60997,99.55383,13.60997",
+    "geom:latitude":13.60997,
+    "geom:longitude":99.55383,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Ban San Don",
+    "gn:country_code":"TH",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8339073,
+    "gn:latitude":13.60997,
+    "gn:longitude":99.55383,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Ban San Don",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2a\u0e31\u0e19\u0e14\u0e2d\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678761,
+        1108731253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8339073
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"ea307dea66dce3004e3d5350b98026ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731253,
+            "locality_id":1209851207,
+            "region_id":85678761
+        }
+    ],
+    "wof:id":1209851207,
+    "wof:lastmodified":1537705424,
+    "wof:name":"Ban San Don",
+    "wof:parent_id":1108731253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.55383,
+    13.60997,
+    99.55383,
+    13.60997
+],
+  "geometry": {"coordinates":[99.55383,13.60997],"type":"Point"}
+}

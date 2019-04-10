@@ -1,0 +1,74 @@
+{
+  "id": 1343712871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.49881,15.66548,102.49881,15.66548",
+    "geom:latitude":15.66548,
+    "geom:longitude":102.49881,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Bua Lai",
+    "gn:country_code":"TH",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":8304649,
+    "gn:latitude":15.66548,
+    "gn:longitude":102.49881,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Bua Lai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e31\u0e27\u0e25\u0e32\u0e22"
+    ],
+    "name:und_x_variant":[
+        "King Amphoe Bua Lai",
+        "Amphoe Bua Lai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678841,
+        1108731197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8304649
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"6efd46887d0a5bfe23b1ce887d3d6cd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731197,
+            "locality_id":1343712871,
+            "region_id":85678841
+        }
+    ],
+    "wof:id":1343712871,
+    "wof:lastmodified":1537705312,
+    "wof:name":"Bua Lai",
+    "wof:parent_id":1108731197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.49881,
+    15.66548,
+    102.49881,
+    15.66548
+],
+  "geometry": {"coordinates":[102.49881000000001,15.66548],"type":"Point"}
+}

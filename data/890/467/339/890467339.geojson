@@ -1,0 +1,66 @@
+{
+  "id": 890467339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.4764165,13.742605,100.4764165,13.742605",
+    "geom:latitude":13.742605,
+    "geom:longitude":100.476416,
+    "gp:adm0":23424960,
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "qs:name":"Tha Phra",
+    "qs:name_adm0":"Thailand",
+    "qs:name_adm1":"Bangkok",
+    "qs:photos":210,
+    "qs:photos_1k":43,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":210,
+    "qs:photos_sr":4,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "wof:belongsto":[
+        102191569,
+        102025695,
+        85632293,
+        85678739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55948135,
+        "qs:id":225230
+    },
+    "wof:country":"TH",
+    "wof:created":1469053636,
+    "wof:geomhash":"619e213d61c6c09e56e4da40e08bdd0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "locality_id":102025695,
+            "neighbourhood_id":890467339,
+            "region_id":85678739
+        }
+    ],
+    "wof:id":890467339,
+    "wof:lastmodified":1469053636,
+    "wof:name":"Tha Phra",
+    "wof:parent_id":102025695,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.4764165,
+    13.742605,
+    100.4764165,
+    13.742605
+],
+  "geometry": {"coordinates":[100.4764165,13.742605],"type":"Point"}
+}

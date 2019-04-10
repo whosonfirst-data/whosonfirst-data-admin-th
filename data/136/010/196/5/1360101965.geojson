@@ -1,0 +1,73 @@
+{
+  "id": 1360101965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.0205,7.49047,100.0205,7.49047",
+    "geom:latitude":7.49047,
+    "geom:longitude":100.0205,
+    "gn:admin1_code":"66.0",
+    "gn:asciiname":"Ban Tok Pot",
+    "gn:country_code":"TH",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1612075,
+    "gn:latitude":7.49047,
+    "gn:longitude":100.0205,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Ban Tok Pot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e15\u0e23\u0e2d\u0e01\u0e1b\u0e14"
+    ],
+    "name:und_x_variant":[
+        "Ban Trok Pot (1)"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678591,
+        1108731425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1612075
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"8857bae394cab8b544a82e201c6afeab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731425,
+            "locality_id":1360101965,
+            "region_id":85678591
+        }
+    ],
+    "wof:id":1360101965,
+    "wof:lastmodified":1537703678,
+    "wof:name":"Ban Tok Pot",
+    "wof:parent_id":1108731425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.0205,
+    7.49047,
+    100.0205,
+    7.49047
+],
+  "geometry": {"coordinates":[100.0205,7.49047],"type":"Point"}
+}

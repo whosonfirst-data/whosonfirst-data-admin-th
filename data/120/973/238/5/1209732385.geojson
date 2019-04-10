@@ -1,0 +1,67 @@
+{
+  "id": 1209732385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.17583,14.27889,101.17583,14.27889",
+    "geom:latitude":14.27889,
+    "geom:longitude":101.17583,
+    "gn:admin1_code":"43.0",
+    "gn:asciiname":"Ban Buk Hoi",
+    "gn:country_code":"TH",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1604332,
+    "gn:latitude":14.27889,
+    "gn:longitude":101.17583,
+    "gn:modification_date":"2000-06-23",
+    "gn:name":"Ban Buk Hoi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678705,
+        890466935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1604332
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"3c956bbe45fa967822b9d705b46f1d30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466935,
+            "locality_id":1209732385,
+            "region_id":85678705
+        }
+    ],
+    "wof:id":1209732385,
+    "wof:lastmodified":1536377307,
+    "wof:name":"Ban Buk Hoi",
+    "wof:parent_id":890466935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.17583,
+    14.27889,
+    101.17583,
+    14.27889
+],
+  "geometry": {"coordinates":[101.17583,14.27889],"type":"Point"}
+}

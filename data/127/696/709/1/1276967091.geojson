@@ -1,0 +1,70 @@
+{
+  "id": 1276967091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.79886,16.17356,99.79886,16.17356",
+    "geom:latitude":16.17356,
+    "geom:longitude":99.79886,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Ban Tha Khamin",
+    "gn:country_code":"TH",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8387350,
+    "gn:latitude":16.17356,
+    "gn:longitude":99.79886,
+    "gn:modification_date":"2012-09-08",
+    "gn:name":"Ban Tha Khamin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e17\u0e48\u0e32\u0e02\u0e21\u0e34\u0e49\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678665,
+        1108731379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8387350
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"699fab34e39b81c69f030fe85c39cd84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731379,
+            "locality_id":1276967091,
+            "region_id":85678665
+        }
+    ],
+    "wof:id":1276967091,
+    "wof:lastmodified":1537705557,
+    "wof:name":"Ban Tha Khamin",
+    "wof:parent_id":1108731379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.79886,
+    16.17356,
+    99.79886,
+    16.17356
+],
+  "geometry": {"coordinates":[99.79886,16.17356],"type":"Point"}
+}

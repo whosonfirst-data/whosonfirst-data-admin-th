@@ -1,0 +1,70 @@
+{
+  "id": 1293842201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.595,16.21658,102.595,16.21658",
+    "geom:latitude":16.21658,
+    "geom:longitude":102.595,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Ban Huai Hin Koeng",
+    "gn:country_code":"TH",
+    "gn:dem":219,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9004465,
+    "gn:latitude":16.21658,
+    "gn:longitude":102.595,
+    "gn:modification_date":"2014-05-01",
+    "gn:name":"Ban Huai Hin Koeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e49\u0e27\u0e22\u0e2b\u0e34\u0e19\u0e40\u0e01\u0e34\u0e49\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678827,
+        1108731521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9004465
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"60749c9979137b1ecac035ec9f8f96fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731521,
+            "locality_id":1293842201,
+            "region_id":85678827
+        }
+    ],
+    "wof:id":1293842201,
+    "wof:lastmodified":1537706103,
+    "wof:name":"Ban Huai Hin Koeng",
+    "wof:parent_id":1108731521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.595,
+    16.21658,
+    102.595,
+    16.21658
+],
+  "geometry": {"coordinates":[102.595,16.21658],"type":"Point"}
+}

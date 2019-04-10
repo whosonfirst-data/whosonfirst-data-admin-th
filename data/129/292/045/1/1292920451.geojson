@@ -1,0 +1,74 @@
+{
+  "id": 1292920451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.23481,7.95386,100.23481,7.95386",
+    "geom:latitude":7.95386,
+    "geom:longitude":100.23481,
+    "gn:admin1_code":"64.0",
+    "gn:asciiname":"Ban Khok Sung",
+    "gn:country_code":"TH",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1617811,
+    "gn:latitude":7.95386,
+    "gn:longitude":100.23481,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Ban Khok Sung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e42\u0e04\u0e01\u0e2a\u0e39\u0e07"
+    ],
+    "name:und_x_variant":[
+        "Ban Kok Sung",
+        "Ban Khok Sung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678565,
+        890466369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1617811
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"4b0e892bf052c38acf838f2c5fc1dd07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466369,
+            "locality_id":1292920451,
+            "region_id":85678565
+        }
+    ],
+    "wof:id":1292920451,
+    "wof:lastmodified":1537704076,
+    "wof:name":"Ban Khok Sung",
+    "wof:parent_id":890466369,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.23481,
+    7.95386,
+    100.23481,
+    7.95386
+],
+  "geometry": {"coordinates":[100.23481,7.95386],"type":"Point"}
+}

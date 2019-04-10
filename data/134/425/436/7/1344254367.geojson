@@ -1,0 +1,70 @@
+{
+  "id": 1344254367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.50531,19.00961,99.50531,19.00961",
+    "geom:latitude":19.00961,
+    "geom:longitude":99.50531,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Ban Mae Tom Nok",
+    "gn:country_code":"TH",
+    "gn:dem":543,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8313116,
+    "gn:latitude":19.00961,
+    "gn:longitude":99.50531,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Ban Mae Tom Nok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e41\u0e21\u0e48\u0e15\u0e4b\u0e2d\u0e21\u0e19\u0e2d\u0e01"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678625,
+        890465907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8313116
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"3e6dc56fb56f526a9160e808513e6fb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465907,
+            "locality_id":1344254367,
+            "region_id":85678625
+        }
+    ],
+    "wof:id":1344254367,
+    "wof:lastmodified":1537705315,
+    "wof:name":"Ban Mae Tom Nok",
+    "wof:parent_id":890465907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.50531,
+    19.00961,
+    99.50531,
+    19.00961
+],
+  "geometry": {"coordinates":[99.50530999999999,19.00961],"type":"Point"}
+}

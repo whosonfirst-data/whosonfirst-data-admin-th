@@ -1,0 +1,74 @@
+{
+  "id": 1243015661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.80536,14.92919,101.80536,14.92919",
+    "geom:latitude":14.92919,
+    "geom:longitude":101.80536,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Ban Thale",
+    "gn:country_code":"TH",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1612619,
+    "gn:latitude":14.92919,
+    "gn:longitude":101.80536,
+    "gn:modification_date":"2014-06-04",
+    "gn:name":"Ban Thale",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e17\u0e30\u0e40\u0e25"
+    ],
+    "name:und_x_variant":[
+        "Ban Tale",
+        "Ban Thale"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678841,
+        1108731949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1612619
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"08a4526f2010d44f8e4ca6229d09b570",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731949,
+            "locality_id":1243015661,
+            "region_id":85678841
+        }
+    ],
+    "wof:id":1243015661,
+    "wof:lastmodified":1537703716,
+    "wof:name":"Ban Thale",
+    "wof:parent_id":1108731949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.80536,
+    14.92919,
+    101.80536,
+    14.92919
+],
+  "geometry": {"coordinates":[101.80535999999999,14.92919],"type":"Point"}
+}

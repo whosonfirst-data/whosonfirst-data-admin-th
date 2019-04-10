@@ -1,0 +1,77 @@
+{
+  "id": 1243380545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.20231,13.98072,101.20231,13.98072",
+    "geom:latitude":13.98072,
+    "geom:longitude":101.20231,
+    "gn:admin1_code":"74.0",
+    "gn:asciiname":"Ban Krapho",
+    "gn:country_code":"TH",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1620860,
+    "gn:latitude":13.98072,
+    "gn:longitude":101.20231,
+    "gn:modification_date":"2014-04-05",
+    "gn:name":"Ban Krapho",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "Ban Krapho"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e01\u0e23\u0e30\u0e1e\u0e49\u0e2d"
+    ],
+    "name:und_x_variant":[
+        "Ban Bang Kaphlo",
+        "Ban Bang Kapho"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678711,
+        890466387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1620860
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"782bd2ec52c9748848fb2158f56501be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466387,
+            "locality_id":1243380545,
+            "region_id":85678711
+        }
+    ],
+    "wof:id":1243380545,
+    "wof:lastmodified":1537704258,
+    "wof:name":"Ban Krapho",
+    "wof:parent_id":890466387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.20231,
+    13.98072,
+    101.20231,
+    13.98072
+],
+  "geometry": {"coordinates":[101.20231,13.98072],"type":"Point"}
+}

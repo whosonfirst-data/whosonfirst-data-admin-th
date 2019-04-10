@@ -1,0 +1,73 @@
+{
+  "id": 1326453613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.65278,17.04531,104.65278,17.04531",
+    "geom:latitude":17.04531,
+    "geom:longitude":104.65278,
+    "gn:admin1_code":"73.0",
+    "gn:asciiname":"Ban Khok Sai",
+    "gn:country_code":"TH",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8027808,
+    "gn:latitude":17.04531,
+    "gn:longitude":104.65278,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Khok Sai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "Ban Khok Sai"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e42\u0e04\u0e01\u0e2a\u0e32\u0e22"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678879,
+        1108731811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8027808
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"84a688f426a5105a4d4fb1bed7b15152",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731811,
+            "locality_id":1326453613,
+            "region_id":85678879
+        }
+    ],
+    "wof:id":1326453613,
+    "wof:lastmodified":1537704921,
+    "wof:name":"Ban Khok Sai",
+    "wof:parent_id":1108731811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.65278,
+    17.04531,
+    104.65278,
+    17.04531
+],
+  "geometry": {"coordinates":[104.65278000000001,17.04531],"type":"Point"}
+}

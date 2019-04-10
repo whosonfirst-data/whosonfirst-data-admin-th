@@ -1,0 +1,70 @@
+{
+  "id": 1243490025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.80239,14.66069,99.80239,14.66069",
+    "geom:latitude":14.66069,
+    "geom:longitude":99.80239,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Ban Huai Ta Man",
+    "gn:country_code":"TH",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8455220,
+    "gn:latitude":14.66069,
+    "gn:longitude":99.80239,
+    "gn:modification_date":"2013-02-10",
+    "gn:name":"Ban Huai Ta Man",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e49\u0e27\u0e22\u0e15\u0e32\u0e21\u0e31\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678663,
+        1108731473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8455220
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"c36043f6e7f64adb7df0abc2468c798a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731473,
+            "locality_id":1243490025,
+            "region_id":85678663
+        }
+    ],
+    "wof:id":1243490025,
+    "wof:lastmodified":1537705628,
+    "wof:name":"Ban Huai Ta Man",
+    "wof:parent_id":1108731473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.80239,
+    14.66069,
+    99.80239,
+    14.66069
+],
+  "geometry": {"coordinates":[99.80239,14.66069],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1344081839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.07164,8.33778,100.07164,8.33778",
+    "geom:latitude":8.33778,
+    "geom:longitude":100.07164,
+    "gn:admin1_code":"64.0",
+    "gn:asciiname":"Ban Bang Chak",
+    "gn:country_code":"TH",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1620915,
+    "gn:latitude":8.33778,
+    "gn:longitude":100.07164,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Ban Bang Chak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1a\u0e32\u0e07\u0e08\u0e32\u0e01"
+    ],
+    "name:und_x_variant":[
+        "Ban Bang Chaak",
+        "Ban Bang Chak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678565,
+        890465711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1620915
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"f50b35a3a2129fd7eab227226c0545c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465711,
+            "locality_id":1344081839,
+            "region_id":85678565
+        }
+    ],
+    "wof:id":1344081839,
+    "wof:lastmodified":1537704261,
+    "wof:name":"Ban Bang Chak",
+    "wof:parent_id":890465711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.07164,
+    8.33778,
+    100.07164,
+    8.33778
+],
+  "geometry": {"coordinates":[100.07164,8.33778],"type":"Point"}
+}

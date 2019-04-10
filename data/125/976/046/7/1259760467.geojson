@@ -1,0 +1,70 @@
+{
+  "id": 1259760467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.6535,16.34131,99.6535,16.34131",
+    "geom:latitude":16.34131,
+    "geom:longitude":99.6535,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Ban Thammarong",
+    "gn:country_code":"TH",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8386677,
+    "gn:latitude":16.34131,
+    "gn:longitude":99.6535,
+    "gn:modification_date":"2012-09-08",
+    "gn:name":"Ban Thammarong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e18\u0e33\u0e21\u0e23\u0e07\u0e04\u0e4c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678665,
+        890466023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8386677
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"7a2bc9f369a03fbd32f9a53d86d806a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466023,
+            "locality_id":1259760467,
+            "region_id":85678665
+        }
+    ],
+    "wof:id":1259760467,
+    "wof:lastmodified":1537705547,
+    "wof:name":"Ban Thammarong",
+    "wof:parent_id":890466023,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.6535,
+    16.34131,
+    99.6535,
+    16.34131
+],
+  "geometry": {"coordinates":[99.65349999999999,16.34131],"type":"Point"}
+}

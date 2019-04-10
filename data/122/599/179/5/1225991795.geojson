@@ -1,0 +1,72 @@
+{
+  "id": 1225991795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.51667,15.2,102.51667,15.2",
+    "geom:latitude":15.2,
+    "geom:longitude":102.51667,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Ban Cha Makha",
+    "gn:cc2":"TH",
+    "gn:country_code":"TH",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1620289,
+    "gn:latitude":15.2,
+    "gn:longitude":102.51667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Cha Makha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Nong Makha",
+        "Ban Cha Makha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678841,
+        890466783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1620289
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"995818c1aa5769455993114502233a05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466783,
+            "locality_id":1225991795,
+            "region_id":85678841
+        }
+    ],
+    "wof:id":1225991795,
+    "wof:lastmodified":1537704220,
+    "wof:name":"Ban Cha Makha",
+    "wof:parent_id":890466783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.51667,
+    15.2,
+    102.51667,
+    15.2
+],
+  "geometry": {"coordinates":[102.51667,15.2],"type":"Point"}
+}

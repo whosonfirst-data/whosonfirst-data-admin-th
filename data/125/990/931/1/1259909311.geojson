@@ -1,0 +1,70 @@
+{
+  "id": 1259909311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.68994,6.18222,101.68994,6.18222",
+    "geom:latitude":6.18222,
+    "geom:longitude":101.68994,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Ban Bue Nae Chi Cha",
+    "gn:country_code":"TH",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7000931,
+    "gn:latitude":6.18222,
+    "gn:longitude":101.68994,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ban Bue Nae Chi Cha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1a\u0e37\u0e2d\u0e41\u0e19\u0e08\u0e35\u0e08\u0e32"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678885,
+        1108731223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7000931
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"8027404d605ef3ff0facd9e737041a65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731223,
+            "locality_id":1259909311,
+            "region_id":85678885
+        }
+    ],
+    "wof:id":1259909311,
+    "wof:lastmodified":1537704384,
+    "wof:name":"Ban Bue Nae Chi Cha",
+    "wof:parent_id":1108731223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.68994,
+    6.18222,
+    101.68994,
+    6.18222
+],
+  "geometry": {"coordinates":[101.68994000000001,6.18222],"type":"Point"}
+}

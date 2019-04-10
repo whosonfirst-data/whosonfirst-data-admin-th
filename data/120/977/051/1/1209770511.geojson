@@ -1,0 +1,70 @@
+{
+  "id": 1209770511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.46419,15.79808,103.46419,15.79808",
+    "geom:latitude":15.79808,
+    "geom:longitude":103.46419,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Ban Chang I Kaeo",
+    "gn:country_code":"TH",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8680005,
+    "gn:latitude":15.79808,
+    "gn:longitude":103.46419,
+    "gn:modification_date":"2014-01-18",
+    "gn:name":"Ban Chang I Kaeo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e0a\u0e49\u0e32\u0e07\u0e2d\u0e35\u0e41\u0e01\u0e49\u0e27"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678845,
+        1108731239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8680005
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"9e6cd60f21a9caac7820b00a18d24053",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731239,
+            "locality_id":1209770511,
+            "region_id":85678845
+        }
+    ],
+    "wof:id":1209770511,
+    "wof:lastmodified":1537705841,
+    "wof:name":"Ban Chang I Kaeo",
+    "wof:parent_id":1108731239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.46419,
+    15.79808,
+    103.46419,
+    15.79808
+],
+  "geometry": {"coordinates":[103.46419,15.79808],"type":"Point"}
+}

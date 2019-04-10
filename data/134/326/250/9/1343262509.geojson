@@ -1,0 +1,75 @@
+{
+  "id": 1343262509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.18058,20.25736,100.18058,20.25736",
+    "geom:latitude":20.25736,
+    "geom:longitude":100.18058,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ban Saeo",
+    "gn:country_code":"TH",
+    "gn:dem":373,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1613659,
+    "gn:latitude":20.25736,
+    "gn:longitude":100.18058,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Saeo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e41\u0e0b\u0e27"
+    ],
+    "name:und_x_variant":[
+        "Ban Siu",
+        "Ban Saeo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678617,
+        890465683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1613659,
+        "wk:page":"Ban_Saeo"
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"28d30f0f072c7a097fa6e1095ea3ebf7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465683,
+            "locality_id":1343262509,
+            "region_id":85678617
+        }
+    ],
+    "wof:id":1343262509,
+    "wof:lastmodified":1537703788,
+    "wof:name":"Ban Saeo",
+    "wof:parent_id":890465683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.18058,
+    20.25736,
+    100.18058,
+    20.25736
+],
+  "geometry": {"coordinates":[100.18058000000001,20.25736],"type":"Point"}
+}

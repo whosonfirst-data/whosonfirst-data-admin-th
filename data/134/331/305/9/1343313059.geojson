@@ -1,0 +1,70 @@
+{
+  "id": 1343313059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.68564,14.40764,101.68564,14.40764",
+    "geom:latitude":14.40764,
+    "geom:longitude":101.68564,
+    "gn:admin1_code":"27",
+    "gn:asciiname":"Ban Khlong Sathon",
+    "gn:country_code":"TH",
+    "gn:dem":437,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9105381,
+    "gn:latitude":14.40764,
+    "gn:longitude":101.68564,
+    "gn:modification_date":"2014-06-07",
+    "gn:name":"Ban Khlong Sathon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e04\u0e25\u0e2d\u0e07\u0e2a\u0e30\u0e17\u0e49\u0e2d\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678841,
+        1108802771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9105381
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"8dacf08080ae316cb15397bc59dcc313",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802771,
+            "locality_id":1343313059,
+            "region_id":85678841
+        }
+    ],
+    "wof:id":1343313059,
+    "wof:lastmodified":1537706146,
+    "wof:name":"Ban Khlong Sathon",
+    "wof:parent_id":1108802771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.68564,
+    14.40764,
+    101.68564,
+    14.40764
+],
+  "geometry": {"coordinates":[101.68564000000001,14.40764],"type":"Point"}
+}

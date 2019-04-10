@@ -1,0 +1,73 @@
+{
+  "id": 1260105403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.12931,13.93113,100.12931,13.93113",
+    "geom:latitude":13.93113,
+    "geom:longitude":100.12931,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Ban Don Phutsa",
+    "gn:country_code":"TH",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1619760,
+    "gn:latitude":13.93113,
+    "gn:longitude":100.12931,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Don Phutsa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e14\u0e2d\u0e19\u0e1e\u0e38\u0e17\u0e18\u0e32"
+    ],
+    "name:und_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e14\u0e2d\u0e19\u0e1e\u0e38\u0e17\u0e18\u0e32"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678747,
+        1108731279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1619760
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"68107c279719f2e8481fcbb883c605aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731279,
+            "locality_id":1260105403,
+            "region_id":85678747
+        }
+    ],
+    "wof:id":1260105403,
+    "wof:lastmodified":1537704184,
+    "wof:name":"Ban Don Phutsa",
+    "wof:parent_id":1108731279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.12931,
+    13.93113,
+    100.12931,
+    13.93113
+],
+  "geometry": {"coordinates":[100.12931,13.93113],"type":"Point"}
+}

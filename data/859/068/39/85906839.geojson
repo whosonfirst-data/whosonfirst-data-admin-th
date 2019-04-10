@@ -1,0 +1,107 @@
+{
+  "id": 85906839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000038,
+    "geom:area_square_m":462098.285242,
+    "geom:bbox":"100.530395508,13.734049038,100.538635254,13.7420530627",
+    "geom:latitude":13.737956,
+    "geom:longitude":100.534417,
+    "gn:id":"",
+    "iso:country":"TH",
+    "lbl:latitude":13.737801,
+    "lbl:longitude":100.532884,
+    "mps:latitude":13.737677,
+    "mps:longitude":100.534136,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":5,
+    "name:eng_x_preferred":[
+        "Pathumwan Khwaeng"
+    ],
+    "name:eng_x_variant":[
+        "Pathumwan Khwang"
+    ],
+    "name:unk_x_variant":[
+        "Pathumwan Khwaeng"
+    ],
+    "qs:gn_adm0_cc":"TH",
+    "qs:gn_id":0,
+    "qs:gn_local":1609350,
+    "qs:gn_nam_loc":"Bangkok, Bangkok, TH",
+    "qs:gn_namadm1":"40",
+    "qs:local_max":21510,
+    "qs:local_sum":280580,
+    "qs:localhoods":117,
+    "qs:name":"Pathumwan Khwaeng",
+    "qs:name_adm0":"Thailand",
+    "qs:name_adm1":"Bangkok",
+    "qs:name_adm2":"Pathum Wan",
+    "qs:name_local":"Bangkok",
+    "qs:photo_max":772,
+    "qs:photo_sum":1263,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":6,
+    "qs:woe_adm0":23424960,
+    "qs:woe_adm1":2347165,
+    "qs:woe_adm2":28341401,
+    "qs:woe_lau":0,
+    "qs:woe_local":1225448,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191569,
+        102025847,
+        85632293,
+        85678739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22724357,
+        "qs:id":1087550,
+        "qs_pg:id":1087550
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"286b155daf7768213e91a793d1a91808",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "locality_id":102025847,
+            "neighbourhood_id":85906839,
+            "region_id":85678739
+        }
+    ],
+    "wof:id":85906839,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527269265,
+    "wof:name":"Pathumwan Khwaeng",
+    "wof:parent_id":102025847,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.53039550800008,
+    13.73404903798139,
+    100.53863525399998,
+    13.74205306270004
+],
+  "geometry": {"coordinates":[[[100.53314208999996,13.74205306270004],[100.53380935976918,13.74205305763343],[100.53588867200011,13.74205305795006],[100.53588867200011,13.73938508156571],[100.53863525399998,13.73938508209179],[100.53863525399998,13.73671707483453],[100.53588867200011,13.73671707483453],[100.53588867200011,13.73473597311398],[100.53588867200011,13.73404904240007],[100.5352213776265,13.73404903798139],[100.53380938244908,13.7340490400376],[100.53314208999996,13.73404904240007],[100.53314209000013,13.73538306343505],[100.53176879900002,13.7353830636125],[100.53176879900002,13.73671707960004],[100.53039550800008,13.73671707960004],[100.53039550800008,13.73740401049098],[100.53039550800008,13.73938508156571],[100.53314209000013,13.73938508156571],[100.53314209000013,13.74136612385254],[100.53314208999996,13.74205306270004]]],"type":"Polygon"}
+}

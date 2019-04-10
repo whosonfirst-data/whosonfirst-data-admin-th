@@ -1,0 +1,109 @@
+{
+  "id": 85908037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000137,
+    "geom:area_square_m":1644502.941533,
+    "geom:bbox":"100.542832903,13.7620618978,100.559195738,13.7740664081",
+    "geom:latitude":13.768403,
+    "geom:longitude":100.551955,
+    "gn:id":"",
+    "iso:country":"TH",
+    "lbl:latitude":13.767483,
+    "lbl:longitude":100.553452,
+    "mps:latitude":13.76866,
+    "mps:longitude":100.55211,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":5,
+    "name:eng_x_preferred":[
+        "Din Daeng Khwaeng"
+    ],
+    "name:eng_x_variant":[
+        "Din Daeng Khwang"
+    ],
+    "name:unk_x_variant":[
+        "Din Daeng Khwaeng"
+    ],
+    "qs:gn_adm0_cc":"TH",
+    "qs:gn_id":0,
+    "qs:gn_local":1609350,
+    "qs:gn_nam_loc":"Bangkok, Bangkok, TH",
+    "qs:gn_namadm1":"40",
+    "qs:local_max":21510,
+    "qs:local_sum":280580,
+    "qs:localhoods":117,
+    "qs:name":"Din Daeng Khwaeng",
+    "qs:name_adm0":"Thailand",
+    "qs:name_adm1":"Bangkok",
+    "qs:name_adm2":"Din Daeng",
+    "qs:name_local":"Bangkok",
+    "qs:photo_max":146,
+    "qs:photo_sum":208,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":8,
+    "qs:woe_adm0":23424960,
+    "qs:woe_adm1":2347165,
+    "qs:woe_adm2":28341387,
+    "qs:woe_lau":0,
+    "qs:woe_local":1225448,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85678739,
+        102191569,
+        85632293,
+        102025263,
+        890466393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28349054,
+        "qs:id":1087157,
+        "qs_pg:id":1087157
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"fa2eb7ae8d302395680aca2af2f39232",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466393,
+            "locality_id":102025263,
+            "neighbourhood_id":85908037,
+            "region_id":85678739
+        }
+    ],
+    "wof:id":85908037,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527269173,
+    "wof:name":"Din Daeng Khwaeng",
+    "wof:parent_id":102025263,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.54283290313253,
+    13.76206189780021,
+    100.55919573790959,
+    13.77406640810005
+],
+  "geometry": {"coordinates":[[[100.55786132800012,13.77406640810005],[100.55786132686069,13.76873114979344],[100.55886213146573,13.76770073401453],[100.55833205189083,13.76606347477495],[100.55919573790959,13.76339577516671],[100.55786132800012,13.76339577688871],[100.55511474600007,13.76339577516671],[100.55381917200566,13.76206189780021],[100.55236816400009,13.76206189780021],[100.55232930549755,13.76206189780021],[100.55103374629078,13.76339574917516],[100.54820943248927,13.76339574917516],[100.54820940960678,13.76339577600542],[100.546875,13.76339577721424],[100.54687500000017,13.76606347697604],[100.54412841800018,13.76606347795206],[100.54283290313253,13.76739730332505],[100.54412841961442,13.76873115123203],[100.54542390331716,13.77006496044994],[100.546875,13.77006496044994],[100.546875,13.77406640810005],[100.54820935027283,13.77406640556333],[100.55236816400009,13.77406640810005],[100.55652698422756,13.77406640810005],[100.55786132800012,13.77406640810005]]],"type":"Polygon"}
+}

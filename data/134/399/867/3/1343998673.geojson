@@ -1,0 +1,70 @@
+{
+  "id": 1343998673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.87853,14.87814,100.87853,14.87814",
+    "geom:latitude":14.87814,
+    "geom:longitude":100.87853,
+    "gn:admin1_code":"34",
+    "gn:asciiname":"Ban Huai Sao",
+    "gn:country_code":"TH",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9198892,
+    "gn:latitude":14.87814,
+    "gn:longitude":100.87853,
+    "gn:modification_date":"2014-07-10",
+    "gn:name":"Ban Huai Sao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e49\u0e27\u0e22\u0e40\u0e2a\u0e32\u0e23\u0e4c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678701,
+        890466931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9198892
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"594bc621386a65d6902611a538e764e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466931,
+            "locality_id":1343998673,
+            "region_id":85678701
+        }
+    ],
+    "wof:id":1343998673,
+    "wof:lastmodified":1537706226,
+    "wof:name":"Ban Huai Sao",
+    "wof:parent_id":890466931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.87853,
+    14.87814,
+    100.87853,
+    14.87814
+],
+  "geometry": {"coordinates":[100.87853,14.87814],"type":"Point"}
+}

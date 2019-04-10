@@ -1,0 +1,73 @@
+{
+  "id": 1293639985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.84208,14.56667,102.84208,14.56667",
+    "geom:latitude":14.56667,
+    "geom:longitude":102.84208,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Ban Sai Bua",
+    "gn:country_code":"TH",
+    "gn:dem":215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1598542,
+    "gn:latitude":14.56667,
+    "gn:longitude":102.84208,
+    "gn:modification_date":"2014-08-05",
+    "gn:name":"Ban Sai Bua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2a\u0e32\u0e22\u0e1a\u0e31\u0e27"
+    ],
+    "name:und_x_variant":[
+        "Ban Sai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678817,
+        1108802689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1598542
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"0295fe76b07d09031045af5fd2875c74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802689,
+            "locality_id":1293639985,
+            "region_id":85678817
+        }
+    ],
+    "wof:id":1293639985,
+    "wof:lastmodified":1537703406,
+    "wof:name":"Ban Sai Bua",
+    "wof:parent_id":1108802689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.84208,
+    14.56667,
+    102.84208,
+    14.56667
+],
+  "geometry": {"coordinates":[102.84208,14.56667],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209545023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.46306,16.93944,102.46306,16.93944",
+    "geom:latitude":16.93944,
+    "geom:longitude":102.46306,
+    "gn:admin1_code":"79.0",
+    "gn:asciiname":"Ban Wang Mon",
+    "gn:country_code":"TH",
+    "gn:dem":229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8460283,
+    "gn:latitude":16.93944,
+    "gn:longitude":102.46306,
+    "gn:modification_date":"2013-02-10",
+    "gn:name":"Ban Wang Mon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e27\u0e31\u0e07\u0e21\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8460283
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"18f0ba3452cf13c4e34600e969e89db0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632293,
+            "locality_id":1209545023
+        }
+    ],
+    "wof:id":1209545023,
+    "wof:lastmodified":1537705646,
+    "wof:name":"Ban Wang Mon",
+    "wof:parent_id":85632293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.46306,
+    16.93944,
+    102.46306,
+    16.93944
+],
+  "geometry": {"coordinates":[102.46306,16.93944],"type":"Point"}
+}

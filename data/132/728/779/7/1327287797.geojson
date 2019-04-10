@@ -1,0 +1,70 @@
+{
+  "id": 1327287797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.67831,15.17975,100.67831,15.17975",
+    "geom:latitude":15.17975,
+    "geom:longitude":100.67831,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Ban Chon Saradet",
+    "gn:country_code":"TH",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1604100,
+    "gn:latitude":15.17975,
+    "gn:longitude":100.67831,
+    "gn:modification_date":"2014-07-08",
+    "gn:name":"Ban Chon Saradet",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e0a\u0e2d\u0e19\u0e2a\u0e32\u0e23\u0e40\u0e14\u0e0a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678701,
+        1108731633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1604100
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"588c031ec866651ae61fe5120d104c66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731633,
+            "locality_id":1327287797,
+            "region_id":85678701
+        }
+    ],
+    "wof:id":1327287797,
+    "wof:lastmodified":1537703608,
+    "wof:name":"Ban Chon Saradet",
+    "wof:parent_id":1108731633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.67831,
+    15.17975,
+    100.67831,
+    15.17975
+],
+  "geometry": {"coordinates":[100.67831,15.17975],"type":"Point"}
+}

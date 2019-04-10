@@ -1,0 +1,102 @@
+{
+  "id": 85932755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000135,
+    "geom:area_square_m":1627254.543419,
+    "geom:bbox":"100.458984375,13.7473888939,100.472717285,13.7580602828",
+    "geom:latitude":13.752739,
+    "geom:longitude":100.465352,
+    "iso:country":"TH",
+    "lbl:latitude":13.7512,
+    "lbl:longitude":100.46546,
+    "mps:latitude":13.752724,
+    "mps:longitude":100.465351,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_locality":5,
+    "name:eng_x_preferred":[
+        "Bang Khun Si"
+    ],
+    "name:unk_x_variant":[
+        "Bang Khun Si"
+    ],
+    "qs:gn_adm0_cc":"TH",
+    "qs:gn_id":0,
+    "qs:gn_local":1609350,
+    "qs:gn_nam_loc":"Bangkok, Bangkok, TH",
+    "qs:gn_namadm1":"40",
+    "qs:id":0,
+    "qs:local_max":21510,
+    "qs:local_sum":280580,
+    "qs:localhoods":117,
+    "qs:name":"Bang Khun Si",
+    "qs:name_adm0":"Thailand",
+    "qs:name_adm1":"Bangkok",
+    "qs:name_adm2":"Bangkok Noi",
+    "qs:name_local":"Bangkok",
+    "qs:photo_max":14,
+    "qs:photo_sum":28,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":4,
+    "qs:woe_adm0":23424960,
+    "qs:woe_adm1":2347165,
+    "qs:woe_adm2":28341383,
+    "qs:woe_lau":0,
+    "qs:woe_local":1225448,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85678739,
+        102191569,
+        85632293,
+        102025263,
+        890466393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55948155
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"0c4134339611540e1128910c59c81810",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466393,
+            "locality_id":102025263,
+            "neighbourhood_id":85932755,
+            "region_id":85678739
+        }
+    ],
+    "wof:id":85932755,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527269310,
+    "wof:name":"Bang Khun Si",
+    "wof:parent_id":102025263,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.458984375,
+    13.74738889392518,
+    100.47271728500021,
+    13.75806028279996
+],
+  "geometry": {"coordinates":[[[100.4644775390002,13.74738889392518],[100.458984375,13.74738889392518],[100.45898437500011,13.74738892430007],[100.458984375,13.75272463397515],[100.458984375,13.75272466440005],[100.45898437500011,13.7580602524],[100.45898437500011,13.75806028279996],[100.46447753900014,13.75806028279996],[100.46997070300006,13.75806028279996],[100.46997070300006,13.7580602524],[100.47271728500021,13.75523253944174],[100.47271728500021,13.75504107633165],[100.47175299118129,13.75272463397515],[100.47212318999448,13.75005680197494],[100.47205002591079,13.74952954011437],[100.46997073250475,13.74738892429998],[100.46997070300006,13.74738889392518],[100.4644775390002,13.74738889392518]]],"type":"Polygon"}
+}

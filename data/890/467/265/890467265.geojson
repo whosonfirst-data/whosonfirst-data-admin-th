@@ -1,0 +1,76 @@
+{
+  "id": 890467265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-11-10",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.64767,19.16011,99.64767,19.16011",
+    "geom:latitude":19.16011,
+    "geom:longitude":99.64767,
+    "gn:country":"TH",
+    "gn:fcode":"ADM2",
+    "gn:pop":0,
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e27\u0e31\u0e07\u0e40\u0e2b\u0e19\u0e37\u0e2d"
+    ],
+    "name:tha_x_variant":[
+        "\u0e27\u0e31\u0e07\u0e40\u0e2b\u0e19\u0e37\u0e2d"
+    ],
+    "name:unk_x_variant":[
+        "Amphoe Wang Nua"
+    ],
+    "qs:name":"Amphoe Wang Nuea",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":241,
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1149914,
+        "gp:id":28340843,
+        "qs:id":1243016,
+        "wd:id":"Q477015",
+        "wk:page":"Wang Nuea District"
+    },
+    "wof:country":"TH",
+    "wof:created":1469053628,
+    "wof:geomhash":"d55ac859b954debff7612d714f53793f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890467265,
+            "region_id":85678625
+        }
+    ],
+    "wof:id":890467265,
+    "wof:lastmodified":1527792900,
+    "wof:name":"Amphoe Wang Nuea",
+    "wof:parent_id":85678625,
+    "wof:placetype":"county",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.64767,
+    19.16011,
+    99.64767,
+    19.16011
+],
+  "geometry": {"coordinates":[99.64767000000001,19.16011],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1326559439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.45,12.35,102.45,12.35",
+    "geom:latitude":12.35,
+    "geom:longitude":102.45,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"Ban Tha Krathon",
+    "gn:cc2":"TH",
+    "gn:country_code":"TH",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1612639,
+    "gn:latitude":12.35,
+    "gn:longitude":102.45,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Tha Krathon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Tha Sathon",
+        "Ban Tha Krathon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678813,
+        1108731367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1612639
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"724eef35855fef95b037d6fb4b3481fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731367,
+            "locality_id":1326559439,
+            "region_id":85678813
+        }
+    ],
+    "wof:id":1326559439,
+    "wof:lastmodified":1537703718,
+    "wof:name":"Ban Tha Krathon",
+    "wof:parent_id":1108731367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.45,
+    12.35,
+    102.45,
+    12.35
+],
+  "geometry": {"coordinates":[102.45,12.35],"type":"Point"}
+}

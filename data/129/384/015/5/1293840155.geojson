@@ -1,0 +1,70 @@
+{
+  "id": 1293840155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.42792,16.62333,102.42792,16.62333",
+    "geom:latitude":16.62333,
+    "geom:longitude":102.42792,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Ban Khok Mai Ngam",
+    "gn:country_code":"TH",
+    "gn:dem":234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9001067,
+    "gn:latitude":16.62333,
+    "gn:longitude":102.42792,
+    "gn:modification_date":"2014-05-01",
+    "gn:name":"Ban Khok Mai Ngam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e42\u0e04\u0e01\u0e44\u0e21\u0e49\u0e07\u0e32\u0e21"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678827,
+        1108731757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9001067
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"0e56c79ed4f63989985aac937681f432",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731757,
+            "locality_id":1293840155,
+            "region_id":85678827
+        }
+    ],
+    "wof:id":1293840155,
+    "wof:lastmodified":1537706073,
+    "wof:name":"Ban Khok Mai Ngam",
+    "wof:parent_id":1108731757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.42792,
+    16.62333,
+    102.42792,
+    16.62333
+],
+  "geometry": {"coordinates":[102.42792,16.62333],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209275341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.25936,14.62997,103.25936,14.62997",
+    "geom:latitude":14.62997,
+    "geom:longitude":103.25936,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Ban Tani",
+    "gn:country_code":"TH",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1612913,
+    "gn:latitude":14.62997,
+    "gn:longitude":103.25936,
+    "gn:modification_date":"2014-02-06",
+    "gn:name":"Ban Tani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e15\u0e32\u0e19\u0e35"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1612913
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"3b09d0aeff3f614265241eab707da0da",
+    "wof:hierarchy":[
+        {
+            "country_id":85632293,
+            "locality_id":1209275341
+        }
+    ],
+    "wof:id":1209275341,
+    "wof:lastmodified":1537703736,
+    "wof:name":"Ban Tani",
+    "wof:parent_id":85632293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.25936,
+    14.62997,
+    103.25936,
+    14.62997
+],
+  "geometry": {"coordinates":[103.25936,14.62997],"type":"Point"}
+}

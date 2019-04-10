@@ -1,0 +1,70 @@
+{
+  "id": 1276640453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.59178,16.79164,98.59178,16.79164",
+    "geom:latitude":16.79164,
+    "geom:longitude":98.59178,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Ban Mae Kuet Mai",
+    "gn:country_code":"TH",
+    "gn:dem":224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7581259,
+    "gn:latitude":16.79164,
+    "gn:longitude":98.59178,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Mae Kuet Mai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e41\u0e21\u0e48\u0e01\u0e37\u0e4a\u0e14\u0e43\u0e2b\u0e21\u0e48"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678683,
+        890466271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7581259
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"877052643ee41925b17f00ebb8a28e50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466271,
+            "locality_id":1276640453,
+            "region_id":85678683
+        }
+    ],
+    "wof:id":1276640453,
+    "wof:lastmodified":1537704559,
+    "wof:name":"Ban Mae Kuet Mai",
+    "wof:parent_id":890466271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.59178,
+    16.79164,
+    98.59178,
+    16.79164
+],
+  "geometry": {"coordinates":[98.59178,16.79164],"type":"Point"}
+}

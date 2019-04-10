@@ -1,0 +1,74 @@
+{
+  "id": 1226471701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.32619,12.60469,102.32619,12.60469",
+    "geom:latitude":12.60469,
+    "geom:longitude":102.32619,
+    "gn:admin1_code":"48.0",
+    "gn:asciiname":"Ban Ang Et",
+    "gn:country_code":"TH",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1620957,
+    "gn:latitude":12.60469,
+    "gn:longitude":102.32619,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Ang Et",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2d\u0e48\u0e32\u0e07\u0e40\u0e2d\u0e47\u0e14"
+    ],
+    "name:und_x_variant":[
+        "Ang Let",
+        "Ban Ang Et"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678799,
+        1108731385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1620957
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"f58da4f840e60e63709b2dce755e25a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731385,
+            "locality_id":1226471701,
+            "region_id":85678799
+        }
+    ],
+    "wof:id":1226471701,
+    "wof:lastmodified":1537704264,
+    "wof:name":"Ban Ang Et",
+    "wof:parent_id":1108731385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.32619,
+    12.60469,
+    102.32619,
+    12.60469
+],
+  "geometry": {"coordinates":[102.32619,12.60469],"type":"Point"}
+}

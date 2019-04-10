@@ -1,0 +1,81 @@
+{
+  "id": 890467399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.47361,13.92839,100.47361,13.92839",
+    "geom:latitude":13.92839,
+    "geom:longitude":100.47361,
+    "gn:country":"TH",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424960,
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e25\u0e33\u0e1e\u0e39\u0e25\u0e32\u0e22"
+    ],
+    "name:unk_x_variant":[
+        "Ban Lam Phu Lai"
+    ],
+    "qs:name":"Bang Lam Phu Lang",
+    "qs:name_adm0":"Thailand",
+    "qs:name_adm1":"Bangkok",
+    "qs:photos":326,
+    "qs:photos_1k":66,
+    "qs:photos_9k":1,
+    "qs:photos_9r":5,
+    "qs:photos_all":326,
+    "qs:photos_sr":5,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85678743,
+        102191569,
+        85632293,
+        102025081,
+        890466145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6866552,
+        "gp:id":55948176,
+        "qs:id":241706
+    },
+    "wof:country":"TH",
+    "wof:created":1469053639,
+    "wof:geomhash":"fade5a0219baa29f2a9fc92800ab1e97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466145,
+            "locality_id":102025081,
+            "neighbourhood_id":890467399,
+            "region_id":85678743
+        }
+    ],
+    "wof:id":890467399,
+    "wof:lastmodified":1505343710,
+    "wof:name":"Bang Lam Phu Lang",
+    "wof:parent_id":102025081,
+    "wof:placetype":"neighbourhood",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.47361,
+    13.92839,
+    100.47361,
+    13.92839
+],
+  "geometry": {"coordinates":[100.47360999999999,13.92839],"type":"Point"}
+}

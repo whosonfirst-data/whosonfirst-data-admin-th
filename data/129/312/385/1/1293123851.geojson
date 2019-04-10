@@ -1,0 +1,70 @@
+{
+  "id": 1293123851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.04367,14.22714,100.04367,14.22714",
+    "geom:latitude":14.22714,
+    "geom:longitude":100.04367,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Ban Phai Mu",
+    "gn:country_code":"TH",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1614394,
+    "gn:latitude":14.22714,
+    "gn:longitude":100.04367,
+    "gn:modification_date":"2014-01-08",
+    "gn:name":"Ban Phai Mu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e44\u0e1c\u0e48\u0e2b\u0e21\u0e39\u0e48"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678679,
+        890465739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1614394
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"a9e6364159b6b8e9ad6ce57f3335b276",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465739,
+            "locality_id":1293123851,
+            "region_id":85678679
+        }
+    ],
+    "wof:id":1293123851,
+    "wof:lastmodified":1537703840,
+    "wof:name":"Ban Phai Mu",
+    "wof:parent_id":890465739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.04367,
+    14.22714,
+    100.04367,
+    14.22714
+],
+  "geometry": {"coordinates":[100.04367000000001,14.22714],"type":"Point"}
+}

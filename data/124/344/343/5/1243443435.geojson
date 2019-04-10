@@ -1,0 +1,70 @@
+{
+  "id": 1243443435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.77256,17.53222,99.77256,17.53222",
+    "geom:latitude":17.53222,
+    "geom:longitude":99.77256,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ban Mae Rak",
+    "gn:country_code":"TH",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1119078,
+    "gn:latitude":17.53222,
+    "gn:longitude":99.77256,
+    "gn:modification_date":"2012-11-07",
+    "gn:name":"Ban Mae Rak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e41\u0e21\u0e48\u0e23\u0e32\u0e01"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678651,
+        890466181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1119078
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"0776e0c3efeb3fdcc62be11cafe8fdb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466181,
+            "locality_id":1243443435,
+            "region_id":85678651
+        }
+    ],
+    "wof:id":1243443435,
+    "wof:lastmodified":1537702970,
+    "wof:name":"Ban Mae Rak",
+    "wof:parent_id":890466181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.77256,
+    17.53222,
+    99.77256,
+    17.53222
+],
+  "geometry": {"coordinates":[99.77256,17.53222],"type":"Point"}
+}

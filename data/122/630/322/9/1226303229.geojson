@@ -1,0 +1,70 @@
+{
+  "id": 1226303229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.24222,14.64953,104.24222,14.64953",
+    "geom:latitude":14.64953,
+    "geom:longitude":104.24222,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Ban Nong Pladuk",
+    "gn:country_code":"TH",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7876634,
+    "gn:latitude":14.64953,
+    "gn:longitude":104.24222,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Nong Pladuk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e19\u0e2d\u0e07\u0e1b\u0e25\u0e32\u0e14\u0e38\u0e01"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678779,
+        1108731409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7876634
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"7277fcc29a1860a32553aac4d09867a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731409,
+            "locality_id":1226303229,
+            "region_id":85678779
+        }
+    ],
+    "wof:id":1226303229,
+    "wof:lastmodified":1537704766,
+    "wof:name":"Ban Nong Pladuk",
+    "wof:parent_id":1108731409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.24222,
+    14.64953,
+    104.24222,
+    14.64953
+],
+  "geometry": {"coordinates":[104.24222,14.64953],"type":"Point"}
+}

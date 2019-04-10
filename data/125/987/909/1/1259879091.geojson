@@ -1,0 +1,67 @@
+{
+  "id": 1259879091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.61667,19.55,100.61667,19.55",
+    "geom:latitude":19.55,
+    "geom:longitude":100.61667,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Ban Nam Yao",
+    "gn:country_code":"TH",
+    "gn:dem":785,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1600966,
+    "gn:latitude":19.55,
+    "gn:longitude":100.61667,
+    "gn:modification_date":"1994-04-10",
+    "gn:name":"Ban Nam Yao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678633,
+        890466413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1600966
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"4630a26748703f10656d4b1715ae1365",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466413,
+            "locality_id":1259879091,
+            "region_id":85678633
+        }
+    ],
+    "wof:id":1259879091,
+    "wof:lastmodified":1536786021,
+    "wof:name":"Ban Nam Yao",
+    "wof:parent_id":890466413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.61667,
+    19.55,
+    100.61667,
+    19.55
+],
+  "geometry": {"coordinates":[100.61667,19.55],"type":"Point"}
+}

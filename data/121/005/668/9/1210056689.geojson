@@ -1,0 +1,70 @@
+{
+  "id": 1210056689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.273,14.62739,100.273,14.62739",
+    "geom:latitude":14.62739,
+    "geom:longitude":100.273,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Ban Nong Phak Khiao",
+    "gn:country_code":"TH",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8197047,
+    "gn:latitude":14.62739,
+    "gn:longitude":100.273,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Ban Nong Phak Khiao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e19\u0e2d\u0e07\u0e1c\u0e31\u0e01\u0e40\u0e02\u0e35\u0e22\u0e27"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678691,
+        1108731837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8197047
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"7a7e70281e7a218219c5f268f15764a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731837,
+            "locality_id":1210056689,
+            "region_id":85678691
+        }
+    ],
+    "wof:id":1210056689,
+    "wof:lastmodified":1537705066,
+    "wof:name":"Ban Nong Phak Khiao",
+    "wof:parent_id":1108731837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.273,
+    14.62739,
+    100.273,
+    14.62739
+],
+  "geometry": {"coordinates":[100.273,14.62739],"type":"Point"}
+}

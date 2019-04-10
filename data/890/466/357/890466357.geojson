@@ -1,0 +1,67 @@
+{
+  "id": 890466357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-11-10",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.06878,6.65225,100.06878,6.65225",
+    "geom:latitude":6.65225,
+    "geom:longitude":100.06878,
+    "gn:country":"TH",
+    "gn:fcode":"ADM2",
+    "gn:pop":0,
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "qs:name":"Amphoe Mueang Satun",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":334,
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1608619,
+        "gp:id":28341677,
+        "qs:id":1030557,
+        "wd:id":"Q476085",
+        "wk:page":"Mueang Satun District"
+    },
+    "wof:country":"TH",
+    "wof:created":1469053575,
+    "wof:geomhash":"cbc3ef389401f407baff62012b823d41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466357,
+            "region_id":85678595
+        }
+    ],
+    "wof:id":890466357,
+    "wof:lastmodified":1527793013,
+    "wof:name":"Amphoe Mueang Satun",
+    "wof:parent_id":85678595,
+    "wof:placetype":"county",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.06878,
+    6.65225,
+    100.06878,
+    6.65225
+],
+  "geometry": {"coordinates":[100.06878,6.65225],"type":"Point"}
+}

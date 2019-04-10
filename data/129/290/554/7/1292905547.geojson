@@ -1,0 +1,70 @@
+{
+  "id": 1292905547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.93847,19.45839,98.93847,19.45839",
+    "geom:latitude":19.45839,
+    "geom:longitude":98.93847,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Muang Ngom",
+    "gn:country_code":"TH",
+    "gn:dem":505,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8536267,
+    "gn:latitude":19.45839,
+    "gn:longitude":98.93847,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Ban Muang Ngom",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e21\u0e48\u0e27\u0e07\u0e42\u0e07\u0e49\u0e21"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678619,
+        1108802591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8536267
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"2f4cdcd0d8d19c1547ac21c04730933e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802591,
+            "locality_id":1292905547,
+            "region_id":85678619
+        }
+    ],
+    "wof:id":1292905547,
+    "wof:lastmodified":1537705663,
+    "wof:name":"Ban Muang Ngom",
+    "wof:parent_id":1108802591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.93847,
+    19.45839,
+    98.93847,
+    19.45839
+],
+  "geometry": {"coordinates":[98.93847,19.45839],"type":"Point"}
+}

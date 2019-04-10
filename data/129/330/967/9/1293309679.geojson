@@ -1,0 +1,75 @@
+{
+  "id": 1293309679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.02522,19.07994,100.02522,19.07994",
+    "geom:latitude":19.07994,
+    "geom:longitude":100.02522,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Ban Pang",
+    "gn:country_code":"TH",
+    "gn:dem":413,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1614547,
+    "gn:latitude":19.07994,
+    "gn:longitude":100.02522,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Ban Pang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1b\u0e32\u0e07"
+    ],
+    "name:und_x_variant":[
+        "B\u0101n Tha K\u0101m",
+        "Ban Tha Kham",
+        "Ban Pang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678637,
+        890466523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1614547
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"42788c6dd205b6bb25c4d8cfd5f5bcd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466523,
+            "locality_id":1293309679,
+            "region_id":85678637
+        }
+    ],
+    "wof:id":1293309679,
+    "wof:lastmodified":1537703850,
+    "wof:name":"Ban Pang",
+    "wof:parent_id":890466523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.02522,
+    19.07994,
+    100.02522,
+    19.07994
+],
+  "geometry": {"coordinates":[100.02522,19.07994],"type":"Point"}
+}

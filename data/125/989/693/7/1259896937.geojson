@@ -1,0 +1,67 @@
+{
+  "id": 1259896937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.3,8.16667,99.3,8.16667",
+    "geom:latitude":8.16667,
+    "geom:longitude":99.3,
+    "gn:admin1_code":"63.0",
+    "gn:asciiname":"Ban Bang Hin",
+    "gn:country_code":"TH",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1158336,
+    "gn:latitude":8.16667,
+    "gn:longitude":99.3,
+    "gn:modification_date":"1994-04-06",
+    "gn:name":"Ban Bang Hin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678585,
+        1108731365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1158336
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"eea493f6d764836bd7737a51c1393a36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731365,
+            "locality_id":1259896937,
+            "region_id":85678585
+        }
+    ],
+    "wof:id":1259896937,
+    "wof:lastmodified":1536759941,
+    "wof:name":"Ban Bang Hin",
+    "wof:parent_id":1108731365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.3,
+    8.16667,
+    99.3,
+    8.16667
+],
+  "geometry": {"coordinates":[99.3,8.16667],"type":"Point"}
+}

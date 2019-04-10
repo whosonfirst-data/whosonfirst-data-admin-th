@@ -1,0 +1,70 @@
+{
+  "id": 1276789759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.68603,13.61156,100.68603,13.61156",
+    "geom:latitude":13.61156,
+    "geom:longitude":100.68603,
+    "gn:admin1_code":"42.0",
+    "gn:asciiname":"Ban Chaturamit",
+    "gn:country_code":"TH",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6908149,
+    "gn:latitude":13.61156,
+    "gn:longitude":100.68603,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ban Chaturamit",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e08\u0e15\u0e38\u0e23\u0e21\u0e34\u0e15\u0e23"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678765,
+        890467329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6908149
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"357ffe8a5ad30df1b453996e59e1db58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890467329,
+            "locality_id":1276789759,
+            "region_id":85678765
+        }
+    ],
+    "wof:id":1276789759,
+    "wof:lastmodified":1537704335,
+    "wof:name":"Ban Chaturamit",
+    "wof:parent_id":890467329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.68603,
+    13.61156,
+    100.68603,
+    13.61156
+],
+  "geometry": {"coordinates":[100.68603,13.61156],"type":"Point"}
+}

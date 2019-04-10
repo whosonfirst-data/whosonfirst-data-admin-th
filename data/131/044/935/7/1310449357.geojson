@@ -1,0 +1,73 @@
+{
+  "id": 1310449357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.81117,15.54147,101.81117,15.54147",
+    "geom:latitude":15.54147,
+    "geom:longitude":101.81117,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Ban Yang Khruea",
+    "gn:country_code":"TH",
+    "gn:dem":201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1597150,
+    "gn:latitude":15.54147,
+    "gn:longitude":101.81117,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Ban Yang Khruea",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e22\u0e32\u0e07\u0e40\u0e04\u0e23\u0e37\u0e2d"
+    ],
+    "name:und_x_variant":[
+        "Ban Yang Khrua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678825,
+        1108731237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1597150
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"454c23cd9d2e6e43aeae111938a2a7ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731237,
+            "locality_id":1310449357,
+            "region_id":85678825
+        }
+    ],
+    "wof:id":1310449357,
+    "wof:lastmodified":1537703358,
+    "wof:name":"Ban Yang Khruea",
+    "wof:parent_id":1108731237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.81117,
+    15.54147,
+    101.81117,
+    15.54147
+],
+  "geometry": {"coordinates":[101.81117,15.54147],"type":"Point"}
+}

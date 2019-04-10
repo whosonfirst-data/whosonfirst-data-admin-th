@@ -1,0 +1,75 @@
+{
+  "id": 1327081379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.05439,14.65356,103.05439,14.65356",
+    "geom:latitude":14.65356,
+    "geom:longitude":103.05439,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Ban Chan Phen",
+    "gn:country_code":"TH",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1620350,
+    "gn:latitude":14.65356,
+    "gn:longitude":103.05439,
+    "gn:modification_date":"2014-08-05",
+    "gn:name":"Ban Chan Phen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e09\u0e31\u0e19\u0e40\u0e1e\u0e25"
+    ],
+    "name:und_x_variant":[
+        "Ban Kandan",
+        "Ban Chabian",
+        "Ban Chan Phen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678817,
+        1108731779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1620350
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"66467c23a40100b5737d412e92c162e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731779,
+            "locality_id":1327081379,
+            "region_id":85678817
+        }
+    ],
+    "wof:id":1327081379,
+    "wof:lastmodified":1537704223,
+    "wof:name":"Ban Chan Phen",
+    "wof:parent_id":1108731779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.05439,
+    14.65356,
+    103.05439,
+    14.65356
+],
+  "geometry": {"coordinates":[103.05439,14.65356],"type":"Point"}
+}

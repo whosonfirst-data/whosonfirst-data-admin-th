@@ -1,0 +1,84 @@
+{
+  "id": 890466769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-11-10",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.30508,14.44575,103.30508,14.44575",
+    "geom:latitude":14.44575,
+    "geom:longitude":103.30508,
+    "gn:country":"TH",
+    "gn:fcode":"PPLA2",
+    "gn:pop":0,
+    "gp:adm0":23424960,
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1e\u0e19\u0e21\u0e14\u0e07\u0e23\u0e31\u0e01"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1e\u0e19\u0e21\u0e14\u0e07\u0e23\u0e31\u0e01"
+    ],
+    "name:unk_x_variant":[
+        "Ban Phanom Dong Rak"
+    ],
+    "qs:name":"Phanom Dong Rak",
+    "qs:name_adm0":"Thailand",
+    "qs:name_adm1":"Surin",
+    "qs:photos":64,
+    "qs:photos_1k":13,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":64,
+    "qs:photos_sr":2,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":202,
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1954056,
+        "gp:id":28341276,
+        "qs:id":1060916,
+        "wd:id":"Q476375",
+        "wk:page":"Phanom Dong Rak District"
+    },
+    "wof:country":"TH",
+    "wof:created":1469053592,
+    "wof:geomhash":"c8a5c8733611cdc9ed1a88b3eaa2fbd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466769,
+            "region_id":85678849
+        }
+    ],
+    "wof:id":890466769,
+    "wof:lastmodified":1527793014,
+    "wof:name":"Phanom Dong Rak",
+    "wof:parent_id":85678849,
+    "wof:placetype":"county",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.30508,
+    14.44575,
+    103.30508,
+    14.44575
+],
+  "geometry": {"coordinates":[103.30508,14.44575],"type":"Point"}
+}

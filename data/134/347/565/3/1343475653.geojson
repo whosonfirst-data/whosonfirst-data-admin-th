@@ -1,0 +1,73 @@
+{
+  "id": 1343475653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.61264,13.55419,100.61264,13.55419",
+    "geom:latitude":13.55419,
+    "geom:longitude":100.61264,
+    "gn:admin1_code":"42.0",
+    "gn:asciiname":"Ban Bang Mek Khao",
+    "gn:country_code":"TH",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1620769,
+    "gn:latitude":13.55419,
+    "gn:longitude":100.61264,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Bang Mek Khao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1a\u0e32\u0e07\u0e40\u0e21\u0e06\u0e02\u0e32\u0e27"
+    ],
+    "name:und_x_variant":[
+        "Ban Bang Mak Khan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678765,
+        1108802737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1620769
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"7971406c518ca81211e8a3536810af3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802737,
+            "locality_id":1343475653,
+            "region_id":85678765
+        }
+    ],
+    "wof:id":1343475653,
+    "wof:lastmodified":1537704251,
+    "wof:name":"Ban Bang Mek Khao",
+    "wof:parent_id":1108802737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.61264,
+    13.55419,
+    100.61264,
+    13.55419
+],
+  "geometry": {"coordinates":[100.61264,13.55419],"type":"Point"}
+}

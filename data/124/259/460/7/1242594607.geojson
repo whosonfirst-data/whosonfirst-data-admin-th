@@ -1,0 +1,70 @@
+{
+  "id": 1242594607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.00055,12.87975,100.00055,12.87975",
+    "geom:latitude":12.87975,
+    "geom:longitude":100.00055,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"Ban Tanot Luang",
+    "gn:country_code":"TH",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1612898,
+    "gn:latitude":12.87975,
+    "gn:longitude":100.00055,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Ban Tanot Luang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e42\u0e15\u0e19\u0e14\u0e2b\u0e25\u0e27\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678753,
+        890466433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1612898
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"dd38320f0db17e7d8d9149f727e66c3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466433,
+            "locality_id":1242594607,
+            "region_id":85678753
+        }
+    ],
+    "wof:id":1242594607,
+    "wof:lastmodified":1537703735,
+    "wof:name":"Ban Tanot Luang",
+    "wof:parent_id":890466433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.00055,
+    12.87975,
+    100.00055,
+    12.87975
+],
+  "geometry": {"coordinates":[100.00055,12.87975],"type":"Point"}
+}

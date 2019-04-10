@@ -1,0 +1,70 @@
+{
+  "id": 1242746483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.19711,16.73581,103.19711,16.73581",
+    "geom:latitude":16.73581,
+    "geom:longitude":103.19711,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Ban Khrong Sap",
+    "gn:country_code":"TH",
+    "gn:dem":227,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8652845,
+    "gn:latitude":16.73581,
+    "gn:longitude":103.19711,
+    "gn:modification_date":"2013-12-17",
+    "gn:name":"Ban Khrong Sap",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e04\u0e23\u0e2d\u0e07\u0e17\u0e23\u0e31\u0e1e\u0e22\u0e4c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678831,
+        1108731629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8652845
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"60dc707d8a983ba8f2c30d04e4e58c0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731629,
+            "locality_id":1242746483,
+            "region_id":85678831
+        }
+    ],
+    "wof:id":1242746483,
+    "wof:lastmodified":1537705764,
+    "wof:name":"Ban Khrong Sap",
+    "wof:parent_id":1108731629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.19711,
+    16.73581,
+    103.19711,
+    16.73581
+],
+  "geometry": {"coordinates":[103.19711,16.73581],"type":"Point"}
+}

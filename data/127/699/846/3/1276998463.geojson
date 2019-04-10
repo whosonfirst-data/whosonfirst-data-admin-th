@@ -1,0 +1,70 @@
+{
+  "id": 1276998463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.3375,8.05286,98.3375,8.05286",
+    "geom:latitude":8.05286,
+    "geom:longitude":98.3375,
+    "gn:admin1_code":"62.0",
+    "gn:asciiname":"Ban Mut Dok Khao",
+    "gn:country_code":"TH",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1156267,
+    "gn:latitude":8.05286,
+    "gn:longitude":98.3375,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Mut Dok Khao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e21\u0e38\u0e14\u0e14\u0e2d\u0e01\u0e02\u0e32\u0e27"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678567,
+        1108802759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1156267
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"68371dc182000fada6b580bcb596f4fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802759,
+            "locality_id":1276998463,
+            "region_id":85678567
+        }
+    ],
+    "wof:id":1276998463,
+    "wof:lastmodified":1537703176,
+    "wof:name":"Ban Mut Dok Khao",
+    "wof:parent_id":1108802759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.3375,
+    8.05286,
+    98.3375,
+    8.05286
+],
+  "geometry": {"coordinates":[98.33750000000001,8.05286],"type":"Point"}
+}

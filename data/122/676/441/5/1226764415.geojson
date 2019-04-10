@@ -1,0 +1,70 @@
+{
+  "id": 1226764415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.2975,14.79669,105.2975,14.79669",
+    "geom:latitude":14.79669,
+    "geom:longitude":105.2975,
+    "gn:admin1_code":"75.0",
+    "gn:asciiname":"Ban Nong Sano",
+    "gn:country_code":"TH",
+    "gn:dem":167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1599851,
+    "gn:latitude":14.79669,
+    "gn:longitude":105.2975,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Ban Nong Sano",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e19\u0e2d\u0e07\u0e2a\u0e30\u0e42\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678783,
+        1108731211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1599851
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"b95f77156a679388405aa75170477b7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731211,
+            "locality_id":1226764415,
+            "region_id":85678783
+        }
+    ],
+    "wof:id":1226764415,
+    "wof:lastmodified":1537703452,
+    "wof:name":"Ban Nong Sano",
+    "wof:parent_id":1108731211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.2975,
+    14.79669,
+    105.2975,
+    14.79669
+],
+  "geometry": {"coordinates":[105.2975,14.79669],"type":"Point"}
+}

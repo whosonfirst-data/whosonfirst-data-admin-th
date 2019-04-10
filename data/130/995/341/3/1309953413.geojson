@@ -1,0 +1,70 @@
+{
+  "id": 1309953413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.6165,15.50908,101.6165,15.50908",
+    "geom:latitude":15.50908,
+    "geom:longitude":101.6165,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Ban Krok Hin Pun",
+    "gn:country_code":"TH",
+    "gn:dem":245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8370100,
+    "gn:latitude":15.50908,
+    "gn:longitude":101.6165,
+    "gn:modification_date":"2012-08-06",
+    "gn:name":"Ban Krok Hin Pun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e42\u0e01\u0e23\u0e01\u0e2b\u0e34\u0e19\u0e1b\u0e39\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678825,
+        890467457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8370100
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"0972231ce76b9df906effe8e8e414a72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890467457,
+            "locality_id":1309953413,
+            "region_id":85678825
+        }
+    ],
+    "wof:id":1309953413,
+    "wof:lastmodified":1537705503,
+    "wof:name":"Ban Krok Hin Pun",
+    "wof:parent_id":890467457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.6165,
+    15.50908,
+    101.6165,
+    15.50908
+],
+  "geometry": {"coordinates":[101.6165,15.50908],"type":"Point"}
+}

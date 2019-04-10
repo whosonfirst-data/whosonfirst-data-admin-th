@@ -1,0 +1,70 @@
+{
+  "id": 1243583255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.58,12.87306,101.58,12.87306",
+    "geom:latitude":12.87306,
+    "geom:longitude":101.58,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Ban Yup Chong Kho",
+    "gn:country_code":"TH",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1611647,
+    "gn:latitude":12.87306,
+    "gn:longitude":101.58,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Yup Chong Kho",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e22\u0e38\u0e1a\u0e0a\u0e07\u0e42\u0e04"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678809,
+        1108732049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1611647
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"1d2194a8d7acf683c68c6735fa9f5173",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108732049,
+            "locality_id":1243583255,
+            "region_id":85678809
+        }
+    ],
+    "wof:id":1243583255,
+    "wof:lastmodified":1537703649,
+    "wof:name":"Ban Yup Chong Kho",
+    "wof:parent_id":1108732049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.58,
+    12.87306,
+    101.58,
+    12.87306
+],
+  "geometry": {"coordinates":[101.58,12.87306],"type":"Point"}
+}

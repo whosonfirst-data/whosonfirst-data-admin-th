@@ -1,0 +1,73 @@
+{
+  "id": 1276188169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.24628,18.22531,103.24628,18.22531",
+    "geom:latitude":18.22531,
+    "geom:longitude":103.24628,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Dong Dan",
+    "gn:country_code":"TH",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1603865,
+    "gn:latitude":18.22531,
+    "gn:longitude":103.24628,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Dong Dan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e14\u0e07\u0e14\u0e32\u0e25"
+    ],
+    "name:und_x_variant":[
+        "Ban Dong Tan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678859,
+        890465905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1603865
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"9cf66a39cdffa111fcead72be966f2e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465905,
+            "locality_id":1276188169,
+            "region_id":85678859
+        }
+    ],
+    "wof:id":1276188169,
+    "wof:lastmodified":1537703598,
+    "wof:name":"Ban Dong Dan",
+    "wof:parent_id":890465905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.24628,
+    18.22531,
+    103.24628,
+    18.22531
+],
+  "geometry": {"coordinates":[103.24628,18.22531],"type":"Point"}
+}

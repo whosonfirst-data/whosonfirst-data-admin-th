@@ -1,0 +1,70 @@
+{
+  "id": 1243045209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.47244,16.575,99.47244,16.575",
+    "geom:latitude":16.575,
+    "geom:longitude":99.47244,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Ban Laem Yang",
+    "gn:country_code":"TH",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8386172,
+    "gn:latitude":16.575,
+    "gn:longitude":99.47244,
+    "gn:modification_date":"2012-09-08",
+    "gn:name":"Ban Laem Yang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e41\u0e2b\u0e25\u0e21\u0e22\u0e32\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678665,
+        890465763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8386172
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"e34ea7a7805bc8688d2798abe8c85da7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465763,
+            "locality_id":1243045209,
+            "region_id":85678665
+        }
+    ],
+    "wof:id":1243045209,
+    "wof:lastmodified":1537705541,
+    "wof:name":"Ban Laem Yang",
+    "wof:parent_id":890465763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.47244,
+    16.575,
+    99.47244,
+    16.575
+],
+  "geometry": {"coordinates":[99.47244000000001,16.575],"type":"Point"}
+}

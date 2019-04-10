@@ -1,0 +1,96 @@
+{
+  "id": 1125903667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.16353,13.79131,101.16353,13.79131",
+    "geom:latitude":13.79131,
+    "geom:longitude":101.16353,
+    "gn:gn_country":"TH",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":0,
+    "gn:population":3703,
+    "iso:country":"TH",
+    "lbl:latitude":13.79131,
+    "lbl:longitude":101.16353,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:tha_x_preferred":[
+        "\u0e04\u0e25\u0e2d\u0e07\u0e40\u0e02\u0e37\u0e48\u0e2d\u0e19"
+    ],
+    "name:unk_x_variant":[
+        "Khlaung Khuan"
+    ],
+    "qs_pg:aaroncc":"TH",
+    "qs_pg:gn_country":"TH",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":1618294,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Ban Khlong Khuan",
+    "qs_pg:name_adm0":"Thailand",
+    "qs_pg:name_adm1":"Chachoengsao",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":30,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":213149,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424960,
+    "qs_pg:woe_id":1206521,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424960,
+    "woe:name_adm0":"Thailand",
+    "woe:name_adm1":"Chachoengsao",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678797,
+        1108802617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1618294,
+        "gp:id":1206521,
+        "qs_pg:id":213149
+    },
+    "wof:country":"TH",
+    "wof:created":1497295907,
+    "wof:geomhash":"31414709ab46673748d8d080803ddac0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802617,
+            "locality_id":1125903667,
+            "region_id":85678797
+        }
+    ],
+    "wof:id":1125903667,
+    "wof:lastmodified":1509399600,
+    "wof:name":"Ban Khlong Khuan",
+    "wof:parent_id":1108802617,
+    "wof:placetype":"locality",
+    "wof:population":3703,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.16353,
+    13.79131,
+    101.16353,
+    13.79131
+],
+  "geometry": {"coordinates":[101.16352999999999,13.79131],"type":"Point"}
+}

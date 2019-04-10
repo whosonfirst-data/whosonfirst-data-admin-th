@@ -1,0 +1,70 @@
+{
+  "id": 1293556933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.20689,16.36928,104.20689,16.36928",
+    "geom:latitude":16.36928,
+    "geom:longitude":104.20689,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Ban Lao Phon Ngam",
+    "gn:country_code":"TH",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8684116,
+    "gn:latitude":16.36928,
+    "gn:longitude":104.20689,
+    "gn:modification_date":"2014-01-18",
+    "gn:name":"Ban Lao Phon Ngam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e2b\u0e25\u0e48\u0e32\u0e42\u0e1e\u0e19\u0e07\u0e32\u0e21"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678845,
+        1108731637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8684116
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"b9ff09db8ea7af472ae4d6e927b8adc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731637,
+            "locality_id":1293556933,
+            "region_id":85678845
+        }
+    ],
+    "wof:id":1293556933,
+    "wof:lastmodified":1537705887,
+    "wof:name":"Ban Lao Phon Ngam",
+    "wof:parent_id":1108731637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.20689,
+    16.36928,
+    104.20689,
+    16.36928
+],
+  "geometry": {"coordinates":[104.20689,16.36928],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1226467581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.49031,7.33992,100.49031,7.33992",
+    "geom:latitude":7.33992,
+    "geom:longitude":100.49031,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Ban Bo Klong",
+    "gn:country_code":"TH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7886900,
+    "gn:latitude":7.33992,
+    "gn:longitude":100.49031,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Bo Klong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1a\u0e48\u0e2d\u0e01\u0e25\u0e2d\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678603,
+        1108731919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7886900
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"88f3d7e3c9870ed90aaf5a07fae79b39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731919,
+            "locality_id":1226467581,
+            "region_id":85678603
+        }
+    ],
+    "wof:id":1226467581,
+    "wof:lastmodified":1537704847,
+    "wof:name":"Ban Bo Klong",
+    "wof:parent_id":1108731919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.49031,
+    7.33992,
+    100.49031,
+    7.33992
+],
+  "geometry": {"coordinates":[100.49030999999999,7.33992],"type":"Point"}
+}

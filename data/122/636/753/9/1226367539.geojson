@@ -1,0 +1,74 @@
+{
+  "id": 1226367539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.84125,16.44722,104.84125,16.44722",
+    "geom:latitude":16.44722,
+    "geom:longitude":104.84125,
+    "gn:admin1_code":"78.0",
+    "gn:asciiname":"Ban Tha Khai",
+    "gn:country_code":"TH",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1612700,
+    "gn:latitude":16.44722,
+    "gn:longitude":104.84125,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Tha Khai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e17\u0e48\u0e32\u0e44\u0e04\u0e49"
+    ],
+    "name:und_x_variant":[
+        "Ban Tha Dai",
+        "Ban Tha Khai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678881,
+        890467231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1612700
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"1cf955ace9fd0ef894fb423eefaafa26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890467231,
+            "locality_id":1226367539,
+            "region_id":85678881
+        }
+    ],
+    "wof:id":1226367539,
+    "wof:lastmodified":1537703722,
+    "wof:name":"Ban Tha Khai",
+    "wof:parent_id":890467231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.84125,
+    16.44722,
+    104.84125,
+    16.44722
+],
+  "geometry": {"coordinates":[104.84125,16.44722],"type":"Point"}
+}

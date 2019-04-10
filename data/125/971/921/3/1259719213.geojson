@@ -1,0 +1,73 @@
+{
+  "id": 1259719213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.61239,17.26308,104.61239,17.26308",
+    "geom:latitude":17.26308,
+    "geom:longitude":104.61239,
+    "gn:admin1_code":"73.0",
+    "gn:asciiname":"Ban Na Ngam",
+    "gn:country_code":"TH",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1616205,
+    "gn:latitude":17.26308,
+    "gn:longitude":104.61239,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Na Ngam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "Ban Na Ngam"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e19\u0e32\u0e07\u0e32\u0e21"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678879,
+        1108731765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1616205
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"7cf3aee3db3c3449b3d213fa09163e41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731765,
+            "locality_id":1259719213,
+            "region_id":85678879
+        }
+    ],
+    "wof:id":1259719213,
+    "wof:lastmodified":1537703961,
+    "wof:name":"Ban Na Ngam",
+    "wof:parent_id":1108731765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.61239,
+    17.26308,
+    104.61239,
+    17.26308
+],
+  "geometry": {"coordinates":[104.61239,17.26308],"type":"Point"}
+}

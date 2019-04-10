@@ -1,0 +1,67 @@
+{
+  "id": 1225965701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.4,18.25,99.4,18.25",
+    "geom:latitude":18.25,
+    "geom:longitude":99.4,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Ban Nong Tum",
+    "gn:country_code":"TH",
+    "gn:dem":233,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1155568,
+    "gn:latitude":18.25,
+    "gn:longitude":99.4,
+    "gn:modification_date":"1994-04-06",
+    "gn:name":"Ban Nong Tum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678625,
+        890466105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1155568
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"0c49d6f7534847cedbc864efaf351dd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466105,
+            "locality_id":1225965701,
+            "region_id":85678625
+        }
+    ],
+    "wof:id":1225965701,
+    "wof:lastmodified":1536839522,
+    "wof:name":"Ban Nong Tum",
+    "wof:parent_id":890466105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.4,
+    18.25,
+    99.4,
+    18.25
+],
+  "geometry": {"coordinates":[99.40000000000001,18.25],"type":"Point"}
+}

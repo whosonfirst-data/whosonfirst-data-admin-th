@@ -1,0 +1,73 @@
+{
+  "id": 1242613257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.34758,8.53947,98.34758,8.53947",
+    "geom:latitude":8.53947,
+    "geom:longitude":98.34758,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Ban Khuan Raet",
+    "gn:country_code":"TH",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1156938,
+    "gn:latitude":8.53947,
+    "gn:longitude":98.34758,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Khuan Raet",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e04\u0e27\u0e19\u0e41\u0e23\u0e14"
+    ],
+    "name:und_x_variant":[
+        "Ban Khuan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678573,
+        1108732001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1156938
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"ffa7b840ed35f3d75a2ff02124b99dd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108732001,
+            "locality_id":1242613257,
+            "region_id":85678573
+        }
+    ],
+    "wof:id":1242613257,
+    "wof:lastmodified":1537703229,
+    "wof:name":"Ban Khuan Raet",
+    "wof:parent_id":1108732001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.34758,
+    8.53947,
+    98.34758,
+    8.53947
+],
+  "geometry": {"coordinates":[98.34757999999999,8.53947],"type":"Point"}
+}

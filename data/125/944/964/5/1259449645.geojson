@@ -1,0 +1,70 @@
+{
+  "id": 1259449645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.5225,14.89186,101.5225,14.89186",
+    "geom:latitude":14.89186,
+    "geom:longitude":101.5225,
+    "gn:admin1_code":"27",
+    "gn:asciiname":"Ban Sap Sawan",
+    "gn:country_code":"TH",
+    "gn:dem":344,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9105171,
+    "gn:latitude":14.89186,
+    "gn:longitude":101.5225,
+    "gn:modification_date":"2014-06-07",
+    "gn:name":"Ban Sap Sawan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e0b\u0e31\u0e1a\u0e2a\u0e27\u0e23\u0e23\u0e04\u0e4c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678841,
+        1108731913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9105171
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"8ebe476d8a24ec1e009a54637d12fa03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731913,
+            "locality_id":1259449645,
+            "region_id":85678841
+        }
+    ],
+    "wof:id":1259449645,
+    "wof:lastmodified":1537706143,
+    "wof:name":"Ban Sap Sawan",
+    "wof:parent_id":1108731913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.5225,
+    14.89186,
+    101.5225,
+    14.89186
+],
+  "geometry": {"coordinates":[101.52249999999999,14.89186],"type":"Point"}
+}

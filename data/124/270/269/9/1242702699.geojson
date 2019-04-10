@@ -1,0 +1,70 @@
+{
+  "id": 1242702699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.30189,8.17672,98.30189,8.17672",
+    "geom:latitude":8.17672,
+    "geom:longitude":98.30189,
+    "gn:admin1_code":"62.0",
+    "gn:asciiname":"Ban Hin Luk Diao",
+    "gn:country_code":"TH",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7092159,
+    "gn:latitude":8.17672,
+    "gn:longitude":98.30189,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Hin Luk Diao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e34\u0e19\u0e25\u0e39\u0e01\u0e40\u0e14\u0e35\u0e22\u0e27"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678567,
+        1108802759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7092159
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"a650f81f52d54a5879fce64f1d2c6157",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802759,
+            "locality_id":1242702699,
+            "region_id":85678567
+        }
+    ],
+    "wof:id":1242702699,
+    "wof:lastmodified":1537704415,
+    "wof:name":"Ban Hin Luk Diao",
+    "wof:parent_id":1108802759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.30189,
+    8.17672,
+    98.30189,
+    8.17672
+],
+  "geometry": {"coordinates":[98.30189,8.17672],"type":"Point"}
+}

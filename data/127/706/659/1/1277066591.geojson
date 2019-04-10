@@ -1,0 +1,73 @@
+{
+  "id": 1277066591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.40019,16.98872,99.40019,16.98872",
+    "geom:latitude":16.98872,
+    "geom:longitude":99.40019,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Ban Mai",
+    "gn:country_code":"TH",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8164000,
+    "gn:latitude":16.98872,
+    "gn:longitude":99.40019,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Ban Mai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "Ban Mai"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e43\u0e2b\u0e21\u0e48"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678683,
+        890466081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8164000
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"657d49aea486c9ebad28ab766d9e626e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466081,
+            "locality_id":1277066591,
+            "region_id":85678683
+        }
+    ],
+    "wof:id":1277066591,
+    "wof:lastmodified":1537705046,
+    "wof:name":"Ban Mai",
+    "wof:parent_id":890466081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.40019,
+    16.98872,
+    99.40019,
+    16.98872
+],
+  "geometry": {"coordinates":[99.40018999999999,16.98872],"type":"Point"}
+}

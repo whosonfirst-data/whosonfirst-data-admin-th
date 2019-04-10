@@ -1,0 +1,76 @@
+{
+  "id": 890465865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-11-10",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.79004,16.30968,103.79004,16.30968",
+    "geom:latitude":16.30968,
+    "geom:longitude":103.79004,
+    "gn:country":"TH",
+    "gn:fcode":"ADM2",
+    "gn:pop":0,
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e42\u0e1e\u0e18\u0e34\u0e4c\u0e0a\u0e31\u0e22"
+    ],
+    "name:tha_x_variant":[
+        "\u0e42\u0e1e\u0e18\u0e34\u0e4c\u0e0a\u0e31\u0e22"
+    ],
+    "name:unk_x_variant":[
+        "King Amphoe Pho Chai"
+    ],
+    "qs:name":"Amphoe Pho Chai",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":190,
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7510811,
+        "gp:id":28341186,
+        "qs:id":1154779,
+        "wd:id":"Q476408",
+        "wk:page":"Pho Chai District"
+    },
+    "wof:country":"TH",
+    "wof:created":1469053544,
+    "wof:geomhash":"3ea255ac58de10faa963a5d3a1bbb16c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465865,
+            "region_id":85678845
+        }
+    ],
+    "wof:id":890465865,
+    "wof:lastmodified":1527736656,
+    "wof:name":"Amphoe Pho Chai",
+    "wof:parent_id":85678845,
+    "wof:placetype":"county",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.79004,
+    16.30968,
+    103.79004,
+    16.30968
+],
+  "geometry": {"coordinates":[103.79004,16.30968],"type":"Point"}
+}

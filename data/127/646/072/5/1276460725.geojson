@@ -1,0 +1,73 @@
+{
+  "id": 1276460725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.87119,8.84294,99.87119,8.84294",
+    "geom:latitude":8.84294,
+    "geom:longitude":99.87119,
+    "gn:admin1_code":"64.0",
+    "gn:asciiname":"Ban Sai Riang",
+    "gn:country_code":"TH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1117883,
+    "gn:latitude":8.84294,
+    "gn:longitude":99.87119,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Ban Sai Riang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e44\u0e2a\u0e40\u0e2b\u0e23\u0e35\u0e22\u0e07"
+    ],
+    "name:und_x_variant":[
+        "Ban Sai Liang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678565,
+        890466877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1117883
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"a72748e833042db1dea5761f86645358",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466877,
+            "locality_id":1276460725,
+            "region_id":85678565
+        }
+    ],
+    "wof:id":1276460725,
+    "wof:lastmodified":1537702929,
+    "wof:name":"Ban Sai Riang",
+    "wof:parent_id":890466877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.87119,
+    8.84294,
+    99.87119,
+    8.84294
+],
+  "geometry": {"coordinates":[99.87119,8.84294],"type":"Point"}
+}

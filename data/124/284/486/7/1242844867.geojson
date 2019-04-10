@@ -1,0 +1,70 @@
+{
+  "id": 1242844867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.22119,16.90339,101.22119,16.90339",
+    "geom:latitude":16.90339,
+    "geom:longitude":101.22119,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ban Hin Kling",
+    "gn:country_code":"TH",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8565229,
+    "gn:latitude":16.90339,
+    "gn:longitude":101.22119,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Ban Hin Kling",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e34\u0e19\u0e01\u0e25\u0e34\u0e49\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678673,
+        1108731485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8565229
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"d1ee0b3cde3178771199852966cf4faa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731485,
+            "locality_id":1242844867,
+            "region_id":85678673
+        }
+    ],
+    "wof:id":1242844867,
+    "wof:lastmodified":1537705717,
+    "wof:name":"Ban Hin Kling",
+    "wof:parent_id":1108731485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.22119,
+    16.90339,
+    101.22119,
+    16.90339
+],
+  "geometry": {"coordinates":[101.22119000000001,16.90339],"type":"Point"}
+}

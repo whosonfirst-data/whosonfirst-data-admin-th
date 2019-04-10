@@ -1,0 +1,70 @@
+{
+  "id": 1293309471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.58861,13.55436,100.58861,13.55436",
+    "geom:latitude":13.55436,
+    "geom:longitude":100.58861,
+    "gn:admin1_code":"42.0",
+    "gn:asciiname":"Ban Khlong Ta Pae",
+    "gn:country_code":"TH",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6907942,
+    "gn:latitude":13.55436,
+    "gn:longitude":100.58861,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ban Khlong Ta Pae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e04\u0e25\u0e2d\u0e07\u0e15\u0e32\u0e41\u0e1b\u0e4b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678765,
+        1108802737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6907942
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"7661bf20036236291d45315b7699fca2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802737,
+            "locality_id":1293309471,
+            "region_id":85678765
+        }
+    ],
+    "wof:id":1293309471,
+    "wof:lastmodified":1537704332,
+    "wof:name":"Ban Khlong Ta Pae",
+    "wof:parent_id":1108802737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.58861,
+    13.55436,
+    100.58861,
+    13.55436
+],
+  "geometry": {"coordinates":[100.58861,13.55436],"type":"Point"}
+}

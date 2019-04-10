@@ -1,0 +1,75 @@
+{
+  "id": 1343804501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.90044,14.84614,103.90044,14.84614",
+    "geom:latitude":14.84614,
+    "geom:longitude":103.90044,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Ban Noi",
+    "gn:country_code":"TH",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1618726,
+    "gn:latitude":14.84614,
+    "gn:longitude":103.90044,
+    "gn:modification_date":"2014-02-06",
+    "gn:name":"Ban Noi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e19\u0e49\u0e2d\u0e22"
+    ],
+    "name:und_x_variant":[
+        "Ban Li Noi",
+        "Ban I Noi",
+        "Ban Noi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678849,
+        1108802741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1618726
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"b41772387c6d5db38155ac9429139184",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802741,
+            "locality_id":1343804501,
+            "region_id":85678849
+        }
+    ],
+    "wof:id":1343804501,
+    "wof:lastmodified":1537704146,
+    "wof:name":"Ban Noi",
+    "wof:parent_id":1108802741,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.90044,
+    14.84614,
+    103.90044,
+    14.84614
+],
+  "geometry": {"coordinates":[103.90044,14.84614],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1226459503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.51594,16.84256,102.51594,16.84256",
+    "geom:latitude":16.84256,
+    "geom:longitude":102.51594,
+    "gn:admin1_code":"79.0",
+    "gn:asciiname":"Ban Nong Lum Phuk",
+    "gn:country_code":"TH",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8460850,
+    "gn:latitude":16.84256,
+    "gn:longitude":102.51594,
+    "gn:modification_date":"2013-02-10",
+    "gn:name":"Ban Nong Lum Phuk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e19\u0e2d\u0e07\u0e25\u0e38\u0e21\u0e1e\u0e38\u0e01"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678871,
+        890466637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8460850
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"e383f604d18a658ac78b9fff58f2afb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466637,
+            "locality_id":1226459503,
+            "region_id":85678871
+        }
+    ],
+    "wof:id":1226459503,
+    "wof:lastmodified":1537705651,
+    "wof:name":"Ban Nong Lum Phuk",
+    "wof:parent_id":890466637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.51594,
+    16.84256,
+    102.51594,
+    16.84256
+],
+  "geometry": {"coordinates":[102.51594,16.84256],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1360021141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.80833,12.78222,101.80833,12.78222",
+    "geom:latitude":12.78222,
+    "geom:longitude":101.80833,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Ban Si Yaek Kong Din",
+    "gn:country_code":"TH",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1598185,
+    "gn:latitude":12.78222,
+    "gn:longitude":101.80833,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Si Yaek Kong Din",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2a\u0e35\u0e48\u0e41\u0e22\u0e01\u0e01\u0e2d\u0e07\u0e14\u0e34\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678809,
+        890465677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1598185
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"16652cc525baacc33daeeee7d5df3cab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465677,
+            "locality_id":1360021141,
+            "region_id":85678809
+        }
+    ],
+    "wof:id":1360021141,
+    "wof:lastmodified":1537703393,
+    "wof:name":"Ban Si Yaek Kong Din",
+    "wof:parent_id":890465677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.80833,
+    12.78222,
+    101.80833,
+    12.78222
+],
+  "geometry": {"coordinates":[101.80833,12.78222],"type":"Point"}
+}

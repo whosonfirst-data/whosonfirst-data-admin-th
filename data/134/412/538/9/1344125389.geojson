@@ -1,0 +1,70 @@
+{
+  "id": 1344125389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.52003,16.45189,103.52003,16.45189",
+    "geom:latitude":16.45189,
+    "geom:longitude":103.52003,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Ban Hua Non Ko",
+    "gn:country_code":"TH",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8653039,
+    "gn:latitude":16.45189,
+    "gn:longitude":103.52003,
+    "gn:modification_date":"2013-12-17",
+    "gn:name":"Ban Hua Non Ko",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e31\u0e27\u0e42\u0e19\u0e19\u0e42\u0e01"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678831,
+        890466881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8653039
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"fc7b80a40b431eb5e69971fd3b2c53be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466881,
+            "locality_id":1344125389,
+            "region_id":85678831
+        }
+    ],
+    "wof:id":1344125389,
+    "wof:lastmodified":1537705766,
+    "wof:name":"Ban Hua Non Ko",
+    "wof:parent_id":890466881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.52003,
+    16.45189,
+    103.52003,
+    16.45189
+],
+  "geometry": {"coordinates":[103.52003000000001,16.45189],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1276827473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.7335,16.12506,102.7335,16.12506",
+    "geom:latitude":16.12506,
+    "geom:longitude":102.7335,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Ban Hua Nong",
+    "gn:country_code":"TH",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9003808,
+    "gn:latitude":16.12506,
+    "gn:longitude":102.7335,
+    "gn:modification_date":"2014-05-01",
+    "gn:name":"Ban Hua Nong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e31\u0e27\u0e2b\u0e19\u0e2d\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678827,
+        1108802571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9003808
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"440335d7a92f3c540668652163b0e955",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802571,
+            "locality_id":1276827473,
+            "region_id":85678827
+        }
+    ],
+    "wof:id":1276827473,
+    "wof:lastmodified":1537706097,
+    "wof:name":"Ban Hua Nong",
+    "wof:parent_id":1108802571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.7335,
+    16.12506,
+    102.7335,
+    16.12506
+],
+  "geometry": {"coordinates":[102.73350000000001,16.12506],"type":"Point"}
+}

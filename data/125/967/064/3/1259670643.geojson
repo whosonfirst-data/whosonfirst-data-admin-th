@@ -1,0 +1,67 @@
+{
+  "id": 1259670643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.43333,17.3,100.43333,17.3",
+    "geom:latitude":17.3,
+    "geom:longitude":100.43333,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Ban Tin Tok",
+    "gn:country_code":"TH",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1597478,
+    "gn:latitude":17.3,
+    "gn:longitude":100.43333,
+    "gn:modification_date":"1994-04-10",
+    "gn:name":"Ban Tin Tok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678647,
+        890466287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1597478
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"b730ff3586abe38c159248af6e2a27d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466287,
+            "locality_id":1259670643,
+            "region_id":85678647
+        }
+    ],
+    "wof:id":1259670643,
+    "wof:lastmodified":1537082371,
+    "wof:name":"Ban Tin Tok",
+    "wof:parent_id":890466287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.43333,
+    17.3,
+    100.43333,
+    17.3
+],
+  "geometry": {"coordinates":[100.43333,17.3],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1310526443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.65061,13.18603,99.65061,13.18603",
+    "geom:latitude":13.18603,
+    "geom:longitude":99.65061,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"Ban Huai Kasem",
+    "gn:country_code":"TH",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1157507,
+    "gn:latitude":13.18603,
+    "gn:longitude":99.65061,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Ban Huai Kasem",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e49\u0e27\u0e22\u0e40\u0e01\u0e29\u0e21"
+    ],
+    "name:und_x_variant":[
+        "Ban Huai Haeng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678753,
+        1108731651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1157507
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"9b38fca0cae34eba4719c24894186b28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731651,
+            "locality_id":1310526443,
+            "region_id":85678753
+        }
+    ],
+    "wof:id":1310526443,
+    "wof:lastmodified":1537703266,
+    "wof:name":"Ban Huai Kasem",
+    "wof:parent_id":1108731651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.65061,
+    13.18603,
+    99.65061,
+    13.18603
+],
+  "geometry": {"coordinates":[99.65061,13.18603],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1327018133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.07173,17.18481,100.07173,17.18481",
+    "geom:latitude":17.18481,
+    "geom:longitude":100.07173,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Ban Choeng Wai",
+    "gn:country_code":"TH",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8135922,
+    "gn:latitude":17.18481,
+    "gn:longitude":100.07173,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Ban Choeng Wai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "Ban Choeng Wai"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e0a\u0e34\u0e07\u0e2b\u0e27\u0e32\u0e22"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678657,
+        890465911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8135922
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"927c0ba3d93e1cc6e43c61b6b54942db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465911,
+            "locality_id":1327018133,
+            "region_id":85678657
+        }
+    ],
+    "wof:id":1327018133,
+    "wof:lastmodified":1537704981,
+    "wof:name":"Ban Choeng Wai",
+    "wof:parent_id":890465911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.07173,
+    17.18481,
+    100.07173,
+    17.18481
+],
+  "geometry": {"coordinates":[100.07173,17.18481],"type":"Point"}
+}

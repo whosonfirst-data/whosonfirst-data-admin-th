@@ -1,0 +1,70 @@
+{
+  "id": 1310680613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.41636,17.33981,100.41636,17.33981",
+    "geom:latitude":17.33981,
+    "geom:longitude":100.41636,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Ban Huai Nam Yen",
+    "gn:country_code":"TH",
+    "gn:dem":276,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8205522,
+    "gn:latitude":17.33981,
+    "gn:longitude":100.41636,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Ban Huai Nam Yen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e49\u0e27\u0e22\u0e19\u0e49\u0e33\u0e40\u0e22\u0e47\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678647,
+        1108731235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8205522
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"1cd8b9b43d08aa1a62f3a2b02591c7b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731235,
+            "locality_id":1310680613,
+            "region_id":85678647
+        }
+    ],
+    "wof:id":1310680613,
+    "wof:lastmodified":1537705100,
+    "wof:name":"Ban Huai Nam Yen",
+    "wof:parent_id":1108731235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.41636,
+    17.33981,
+    100.41636,
+    17.33981
+],
+  "geometry": {"coordinates":[100.41636,17.33981],"type":"Point"}
+}

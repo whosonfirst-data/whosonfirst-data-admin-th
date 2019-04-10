@@ -1,0 +1,70 @@
+{
+  "id": 1243333997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.16022,16.6565,101.16022,16.6565",
+    "geom:latitude":16.6565,
+    "geom:longitude":101.16022,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ban Bung Nam Tao",
+    "gn:country_code":"TH",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8564987,
+    "gn:latitude":16.6565,
+    "gn:longitude":101.16022,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Ban Bung Nam Tao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1a\u0e38\u0e48\u0e07\u0e19\u0e49\u0e33\u0e40\u0e15\u0e49\u0e32"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678673,
+        890466361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8564987
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"095d94a5abd3b4e314de702a0cb459b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466361,
+            "locality_id":1243333997,
+            "region_id":85678673
+        }
+    ],
+    "wof:id":1243333997,
+    "wof:lastmodified":1537705715,
+    "wof:name":"Ban Bung Nam Tao",
+    "wof:parent_id":890466361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.16022,
+    16.6565,
+    101.16022,
+    16.6565
+],
+  "geometry": {"coordinates":[101.16022,16.6565],"type":"Point"}
+}

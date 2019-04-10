@@ -1,0 +1,70 @@
+{
+  "id": 1259600123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.87561,14.38514,99.87561,14.38514",
+    "geom:latitude":14.38514,
+    "geom:longitude":99.87561,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Ban Khao Phra",
+    "gn:country_code":"TH",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8666294,
+    "gn:latitude":14.38514,
+    "gn:longitude":99.87561,
+    "gn:modification_date":"2014-01-18",
+    "gn:name":"Ban Khao Phra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e02\u0e32\u0e1e\u0e23\u0e30"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678679,
+        1108732035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8666294
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"a804e2b9bccfebc5ee1d984d027921cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108732035,
+            "locality_id":1259600123,
+            "region_id":85678679
+        }
+    ],
+    "wof:id":1259600123,
+    "wof:lastmodified":1537705794,
+    "wof:name":"Ban Khao Phra",
+    "wof:parent_id":1108732035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.87561,
+    14.38514,
+    99.87561,
+    14.38514
+],
+  "geometry": {"coordinates":[99.87560999999999,14.38514],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1242654845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.66667,16.35,99.66667,16.35",
+    "geom:latitude":16.35,
+    "geom:longitude":99.66667,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Ban Khon",
+    "gn:country_code":"TH",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1119517,
+    "gn:latitude":16.35,
+    "gn:longitude":99.66667,
+    "gn:modification_date":"1994-04-10",
+    "gn:name":"Ban Khon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678665,
+        890466023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1119517
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"430ea194278c1cbdfc0695ea518cd930",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466023,
+            "locality_id":1242654845,
+            "region_id":85678665
+        }
+    ],
+    "wof:id":1242654845,
+    "wof:lastmodified":1536952748,
+    "wof:name":"Ban Khon",
+    "wof:parent_id":890466023,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.66667,
+    16.35,
+    99.66667,
+    16.35
+],
+  "geometry": {"coordinates":[99.66667,16.35],"type":"Point"}
+}

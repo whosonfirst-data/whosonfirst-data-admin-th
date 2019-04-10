@@ -1,0 +1,70 @@
+{
+  "id": 1326791591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.59464,15.14275,103.59464,15.14275",
+    "geom:latitude":15.14275,
+    "geom:longitude":103.59464,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Ban Ta Kuan Noi",
+    "gn:country_code":"TH",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8705508,
+    "gn:latitude":15.14275,
+    "gn:longitude":103.59464,
+    "gn:modification_date":"2014-02-17",
+    "gn:name":"Ban Ta Kuan Noi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e15\u0e32\u0e01\u0e27\u0e19\u0e19\u0e49\u0e2d\u0e22"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678849,
+        1108731255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8705508
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"06a39de280d5a5ca7367d8c6fb5c5c85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731255,
+            "locality_id":1326791591,
+            "region_id":85678849
+        }
+    ],
+    "wof:id":1326791591,
+    "wof:lastmodified":1537705958,
+    "wof:name":"Ban Ta Kuan Noi",
+    "wof:parent_id":1108731255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.59464,
+    15.14275,
+    103.59464,
+    15.14275
+],
+  "geometry": {"coordinates":[103.59464,15.14275],"type":"Point"}
+}

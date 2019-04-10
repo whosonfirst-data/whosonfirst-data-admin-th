@@ -1,0 +1,70 @@
+{
+  "id": 1293517007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.09919,8.12608,100.09919,8.12608",
+    "geom:latitude":8.12608,
+    "geom:longitude":100.09919,
+    "gn:admin1_code":"64.0",
+    "gn:asciiname":"Ban Yang Kan",
+    "gn:country_code":"TH",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8241825,
+    "gn:latitude":8.12608,
+    "gn:longitude":100.09919,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Ban Yang Kan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e22\u0e32\u0e07\u0e01\u0e32\u0e0d\u0e08\u0e19\u0e4c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678565,
+        1108731241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8241825
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"3bac27ed94dbdddc9552d127465e2223",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731241,
+            "locality_id":1293517007,
+            "region_id":85678565
+        }
+    ],
+    "wof:id":1293517007,
+    "wof:lastmodified":1537705235,
+    "wof:name":"Ban Yang Kan",
+    "wof:parent_id":1108731241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.09919,
+    8.12608,
+    100.09919,
+    8.12608
+],
+  "geometry": {"coordinates":[100.09918999999999,8.12608],"type":"Point"}
+}

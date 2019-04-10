@@ -1,0 +1,73 @@
+{
+  "id": 1226681869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.94639,9.43061,99.94639,9.43061",
+    "geom:latitude":9.43061,
+    "geom:longitude":99.94639,
+    "gn:admin1_code":"60.0",
+    "gn:asciiname":"Ban Phangka",
+    "gn:country_code":"TH",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1118169,
+    "gn:latitude":9.43061,
+    "gn:longitude":99.94639,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Ban Phangka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1e\u0e31\u0e07\u0e01\u0e32"
+    ],
+    "name:und_x_variant":[
+        "Ban Phang Ka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678581,
+        890466647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1118169
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"b80850b5b3703e84940d0031923c8d58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466647,
+            "locality_id":1226681869,
+            "region_id":85678581
+        }
+    ],
+    "wof:id":1226681869,
+    "wof:lastmodified":1537702937,
+    "wof:name":"Ban Phangka",
+    "wof:parent_id":890466647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.94639,
+    9.43061,
+    99.94639,
+    9.43061
+],
+  "geometry": {"coordinates":[99.94638999999999,9.43061],"type":"Point"}
+}

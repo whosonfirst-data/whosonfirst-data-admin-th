@@ -1,0 +1,67 @@
+{
+  "id": 1326530591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.30251,20.3455,100.30251,20.3455",
+    "geom:latitude":20.3455,
+    "geom:longitude":100.30251,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ban Pa Kluai",
+    "gn:country_code":"TH",
+    "gn:dem":769,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8434200,
+    "gn:latitude":20.3455,
+    "gn:longitude":100.30251,
+    "gn:modification_date":"2012-12-07",
+    "gn:name":"Ban Pa Kluai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678617,
+        1108802595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8434200
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"6e2ef886b4e80c9fae09f8bb1271a38f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802595,
+            "locality_id":1326530591,
+            "region_id":85678617
+        }
+    ],
+    "wof:id":1326530591,
+    "wof:lastmodified":1536985618,
+    "wof:name":"Ban Pa Kluai",
+    "wof:parent_id":1108802595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.30251,
+    20.3455,
+    100.30251,
+    20.3455
+],
+  "geometry": {"coordinates":[100.30251,20.3455],"type":"Point"}
+}

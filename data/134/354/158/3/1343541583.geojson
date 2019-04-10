@@ -1,0 +1,70 @@
+{
+  "id": 1343541583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.78228,15.99644,99.78228,15.99644",
+    "geom:latitude":15.99644,
+    "geom:longitude":99.78228,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Ban Non Takhro",
+    "gn:country_code":"TH",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8387033,
+    "gn:latitude":15.99644,
+    "gn:longitude":99.78228,
+    "gn:modification_date":"2012-09-08",
+    "gn:name":"Ban Non Takhro",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e42\u0e19\u0e19\u0e15\u0e30\u0e04\u0e23\u0e49\u0e2d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678665,
+        1108731355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8387033
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"c6110b67c4b6aa88bac9865f1ae208bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731355,
+            "locality_id":1343541583,
+            "region_id":85678665
+        }
+    ],
+    "wof:id":1343541583,
+    "wof:lastmodified":1537705553,
+    "wof:name":"Ban Non Takhro",
+    "wof:parent_id":1108731355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.78228,
+    15.99644,
+    99.78228,
+    15.99644
+],
+  "geometry": {"coordinates":[99.78228,15.99644],"type":"Point"}
+}

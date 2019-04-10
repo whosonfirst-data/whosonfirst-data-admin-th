@@ -1,0 +1,70 @@
+{
+  "id": 1209952205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.244,17.38883,102.244,17.38883",
+    "geom:latitude":17.38883,
+    "geom:longitude":102.244,
+    "gn:admin1_code":"79.0",
+    "gn:asciiname":"Ban Bon Si Wilai",
+    "gn:country_code":"TH",
+    "gn:dem":248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8460197,
+    "gn:latitude":17.38883,
+    "gn:longitude":102.244,
+    "gn:modification_date":"2013-02-10",
+    "gn:name":"Ban Bon Si Wilai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1a\u0e19\u0e28\u0e23\u0e35\u0e27\u0e34\u0e44\u0e25"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678871,
+        1108731551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8460197
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"a0b2a79b5945644cba56ffbad4c50239",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731551,
+            "locality_id":1209952205,
+            "region_id":85678871
+        }
+    ],
+    "wof:id":1209952205,
+    "wof:lastmodified":1537705645,
+    "wof:name":"Ban Bon Si Wilai",
+    "wof:parent_id":1108731551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.244,
+    17.38883,
+    102.244,
+    17.38883
+],
+  "geometry": {"coordinates":[102.244,17.38883],"type":"Point"}
+}

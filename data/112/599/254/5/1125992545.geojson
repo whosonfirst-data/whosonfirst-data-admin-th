@@ -1,0 +1,94 @@
+{
+  "id": 1125992545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.19218,9.26418,99.19218,9.26418",
+    "geom:latitude":9.26418,
+    "geom:longitude":99.19218,
+    "gn:gn_country":"TH",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":0,
+    "iso:country":"TH",
+    "lbl:latitude":9.26418,
+    "lbl:longitude":99.19218,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:tha_x_preferred":[
+        "\u0e17\u0e48\u0e32\u0e09\u0e32\u0e07"
+    ],
+    "name:unk_x_variant":[
+        "Ban Tha Chang"
+    ],
+    "qs_pg:aaroncc":"TH",
+    "qs_pg:gn_country":"TH",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":1150338,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Tha Chang",
+    "qs_pg:name_adm0":"Thailand",
+    "qs_pg:name_adm1":"Surat Thani",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1158077,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424960,
+    "qs_pg:woe_id":1226256,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424960,
+    "woe:name_adm0":"Thailand",
+    "woe:name_adm1":"Surat Thani",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678581,
+        1108802751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1150338,
+        "gp:id":1226256,
+        "qs_pg:id":1158077
+    },
+    "wof:country":"TH",
+    "wof:created":1497299129,
+    "wof:geomhash":"7728759c982aed703ea2258d248d7e70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802751,
+            "locality_id":1125992545,
+            "region_id":85678581
+        }
+    ],
+    "wof:id":1125992545,
+    "wof:lastmodified":1534379464,
+    "wof:name":"Tha Chang",
+    "wof:parent_id":1108802751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[
+        102024103
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.19218,
+    9.26418,
+    99.19218,
+    9.26418
+],
+  "geometry": {"coordinates":[99.19217999999999,9.26418],"type":"Point"}
+}

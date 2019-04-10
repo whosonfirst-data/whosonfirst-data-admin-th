@@ -1,0 +1,73 @@
+{
+  "id": 1243161305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.00106,16.92656,100.00106,16.92656",
+    "geom:latitude":16.92656,
+    "geom:longitude":100.00106,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ban Dong Dueai",
+    "gn:country_code":"TH",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1619939,
+    "gn:latitude":16.92656,
+    "gn:longitude":100.00106,
+    "gn:modification_date":"2012-11-07",
+    "gn:name":"Ban Dong Dueai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e14\u0e07\u0e40\u0e14\u0e37\u0e2d\u0e22"
+    ],
+    "name:und_x_variant":[
+        "Ban Dong Duai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678651,
+        1108731423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1619939
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"6710d10566943b39344509c8d22ab73a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731423,
+            "locality_id":1243161305,
+            "region_id":85678651
+        }
+    ],
+    "wof:id":1243161305,
+    "wof:lastmodified":1537704196,
+    "wof:name":"Ban Dong Dueai",
+    "wof:parent_id":1108731423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.00106,
+    16.92656,
+    100.00106,
+    16.92656
+],
+  "geometry": {"coordinates":[100.00106,16.92656],"type":"Point"}
+}

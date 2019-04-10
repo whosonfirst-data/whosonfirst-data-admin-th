@@ -1,0 +1,70 @@
+{
+  "id": 1293419275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.92086,8.98686,98.92086,8.98686",
+    "geom:latitude":8.98686,
+    "geom:longitude":98.92086,
+    "gn:admin1_code":"60.0",
+    "gn:asciiname":"Ban Hat Maduea",
+    "gn:country_code":"TH",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8326773,
+    "gn:latitude":8.98686,
+    "gn:longitude":98.92086,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Ban Hat Maduea",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e32\u0e14\u0e21\u0e30\u0e40\u0e14\u0e37\u0e48\u0e2d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678581,
+        1108731377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8326773
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"a7b0d7e52f0291bd26a1aa96c0648363",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731377,
+            "locality_id":1293419275,
+            "region_id":85678581
+        }
+    ],
+    "wof:id":1293419275,
+    "wof:lastmodified":1537705398,
+    "wof:name":"Ban Hat Maduea",
+    "wof:parent_id":1108731377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.92086,
+    8.98686,
+    98.92086,
+    8.98686
+],
+  "geometry": {"coordinates":[98.92086,8.98686],"type":"Point"}
+}

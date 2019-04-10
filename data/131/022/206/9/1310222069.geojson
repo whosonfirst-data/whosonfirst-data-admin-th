@@ -1,0 +1,70 @@
+{
+  "id": 1310222069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.446,17.19958,102.446,17.19958",
+    "geom:latitude":17.19958,
+    "geom:longitude":102.446,
+    "gn:admin1_code":"79.0",
+    "gn:asciiname":"Ban Khiang Doi",
+    "gn:country_code":"TH",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8460575,
+    "gn:latitude":17.19958,
+    "gn:longitude":102.446,
+    "gn:modification_date":"2013-02-10",
+    "gn:name":"Ban Khiang Doi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e04\u0e35\u0e22\u0e07\u0e14\u0e2d\u0e22"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678871,
+        1108802677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8460575
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"8547b55273e6be39e1befb28e2b0a66e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802677,
+            "locality_id":1310222069,
+            "region_id":85678871
+        }
+    ],
+    "wof:id":1310222069,
+    "wof:lastmodified":1537705648,
+    "wof:name":"Ban Khiang Doi",
+    "wof:parent_id":1108802677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.446,
+    17.19957999999999,
+    102.446,
+    17.19957999999999
+],
+  "geometry": {"coordinates":[102.446,17.19957999999999],"type":"Point"}
+}

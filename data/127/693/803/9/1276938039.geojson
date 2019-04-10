@@ -1,0 +1,70 @@
+{
+  "id": 1276938039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.69922,15.23469,103.69922,15.23469",
+    "geom:latitude":15.23469,
+    "geom:longitude":103.69922,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Ban Phing Phuai",
+    "gn:country_code":"TH",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8705717,
+    "gn:latitude":15.23469,
+    "gn:longitude":103.69922,
+    "gn:modification_date":"2014-02-17",
+    "gn:name":"Ban Phing Phuai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1e\u0e34\u0e07\u0e1e\u0e27\u0e22"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678849,
+        1108731991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8705717
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"2d4ecbdaf12f9d005cccb56316f5d6a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731991,
+            "locality_id":1276938039,
+            "region_id":85678849
+        }
+    ],
+    "wof:id":1276938039,
+    "wof:lastmodified":1537705963,
+    "wof:name":"Ban Phing Phuai",
+    "wof:parent_id":1108731991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.69922,
+    15.23469,
+    103.69922,
+    15.23469
+],
+  "geometry": {"coordinates":[103.69922,15.23469],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293025811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.65572,17.97503,103.65572,17.97503",
+    "geom:latitude":17.97503,
+    "geom:longitude":103.65572,
+    "gn:admin1_code":"81.0",
+    "gn:asciiname":"Ban Bung Khla",
+    "gn:country_code":"TH",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7673829,
+    "gn:latitude":17.97503,
+    "gn:longitude":103.65572,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Ban Bung Khla",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1a\u0e38\u0e48\u0e07\u0e04\u0e25\u0e49\u0e32"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678895,
+        1108731727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7673829
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"ca04e242f2130dfe9bb7bfb4e888c02d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731727,
+            "locality_id":1293025811,
+            "region_id":85678895
+        }
+    ],
+    "wof:id":1293025811,
+    "wof:lastmodified":1537704589,
+    "wof:name":"Ban Bung Khla",
+    "wof:parent_id":1108731727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.65572,
+    17.97503,
+    103.65572,
+    17.97503
+],
+  "geometry": {"coordinates":[103.65572,17.97503],"type":"Point"}
+}

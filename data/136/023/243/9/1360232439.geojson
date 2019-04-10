@@ -1,0 +1,70 @@
+{
+  "id": 1360232439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.46756,15.51939,101.46756,15.51939",
+    "geom:latitude":15.51939,
+    "geom:longitude":101.46756,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Ban Pradu Ngam",
+    "gn:country_code":"TH",
+    "gn:dem":272,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8369362,
+    "gn:latitude":15.51939,
+    "gn:longitude":101.46756,
+    "gn:modification_date":"2012-08-06",
+    "gn:name":"Ban Pradu Ngam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1b\u0e23\u0e30\u0e14\u0e39\u0e48\u0e07\u0e32\u0e21"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678825,
+        1108732015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8369362
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"e979ae1f2296fdb26b28a357851f7eec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108732015,
+            "locality_id":1360232439,
+            "region_id":85678825
+        }
+    ],
+    "wof:id":1360232439,
+    "wof:lastmodified":1537705495,
+    "wof:name":"Ban Pradu Ngam",
+    "wof:parent_id":1108732015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.46756,
+    15.51939,
+    101.46756,
+    15.51939
+],
+  "geometry": {"coordinates":[101.46756000000001,15.51939],"type":"Point"}
+}

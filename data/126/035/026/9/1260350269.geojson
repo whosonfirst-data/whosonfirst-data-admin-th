@@ -1,0 +1,67 @@
+{
+  "id": 1260350269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.83333,14.58333,102.83333,14.58333",
+    "geom:latitude":14.58333,
+    "geom:longitude":102.83333,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Ban Samran",
+    "gn:country_code":"TH",
+    "gn:dem":194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1598419,
+    "gn:latitude":14.58333,
+    "gn:longitude":102.83333,
+    "gn:modification_date":"1994-04-10",
+    "gn:name":"Ban Samran",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678817,
+        1108802689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1598419
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"f1c2ff1696bec9c6d8774f0b7e2b368c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802689,
+            "locality_id":1260350269,
+            "region_id":85678817
+        }
+    ],
+    "wof:id":1260350269,
+    "wof:lastmodified":1536620566,
+    "wof:name":"Ban Samran",
+    "wof:parent_id":1108802689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.83333,
+    14.58333,
+    102.83333,
+    14.58333
+],
+  "geometry": {"coordinates":[102.83333,14.58333],"type":"Point"}
+}

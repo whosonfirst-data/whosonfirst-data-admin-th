@@ -1,0 +1,70 @@
+{
+  "id": 1293926439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.11856,14.42786,101.11856,14.42786",
+    "geom:latitude":14.42786,
+    "geom:longitude":101.11856,
+    "gn:admin1_code":"37",
+    "gn:asciiname":"Ban Krok Sida",
+    "gn:country_code":"TH",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9029709,
+    "gn:latitude":14.42786,
+    "gn:longitude":101.11856,
+    "gn:modification_date":"2014-05-02",
+    "gn:name":"Ban Krok Sida",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e42\u0e01\u0e23\u0e01\u0e2a\u0e35\u0e14\u0e32"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678735,
+        1108731311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9029709
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"9427de0f89c8ec8df9fb3d65bb3dc99a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731311,
+            "locality_id":1293926439,
+            "region_id":85678735
+        }
+    ],
+    "wof:id":1293926439,
+    "wof:lastmodified":1537706122,
+    "wof:name":"Ban Krok Sida",
+    "wof:parent_id":1108731311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.11856,
+    14.42786,
+    101.11856,
+    14.42786
+],
+  "geometry": {"coordinates":[101.11856,14.42786],"type":"Point"}
+}

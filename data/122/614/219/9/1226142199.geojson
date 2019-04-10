@@ -1,0 +1,67 @@
+{
+  "id": 1226142199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.55316,19.22885,100.55316,19.22885",
+    "geom:latitude":19.22885,
+    "geom:longitude":100.55316,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Ban Huai Hom",
+    "gn:country_code":"TH",
+    "gn:dem":744,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8530053,
+    "gn:latitude":19.22885,
+    "gn:longitude":100.55316,
+    "gn:modification_date":"2013-05-10",
+    "gn:name":"Ban Huai Hom",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678637,
+        890466243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8530053
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"243ca2ff74c8ef74feaafb489d0fb142",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466243,
+            "locality_id":1226142199,
+            "region_id":85678637
+        }
+    ],
+    "wof:id":1226142199,
+    "wof:lastmodified":1537079693,
+    "wof:name":"Ban Huai Hom",
+    "wof:parent_id":890466243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.55316,
+    19.22885,
+    100.55316,
+    19.22885
+],
+  "geometry": {"coordinates":[100.55316000000001,19.22885],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1310290701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.1,18.0,100.1,18.0",
+    "geom:latitude":18.0,
+    "geom:longitude":100.1,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ban Phae Mai",
+    "gn:cc2":"TH",
+    "gn:country_code":"TH",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1614473,
+    "gn:latitude":18.0,
+    "gn:longitude":100.1,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Phae Mai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u0101n Phea",
+        "Ban Phae",
+        "Ban Phae Mai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678643,
+        890466703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1614473
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"2f41737149dc1103cc27a25e85c02b83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466703,
+            "locality_id":1310290701,
+            "region_id":85678643
+        }
+    ],
+    "wof:id":1310290701,
+    "wof:lastmodified":1537703845,
+    "wof:name":"Ban Phae Mai",
+    "wof:parent_id":890466703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.1,
+    18.0,
+    100.1,
+    18.0
+],
+  "geometry": {"coordinates":[100.09999999999999,18.0],"type":"Point"}
+}

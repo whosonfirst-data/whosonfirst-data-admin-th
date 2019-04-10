@@ -1,0 +1,70 @@
+{
+  "id": 1360131737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.80786,15.55664,102.80786,15.55664",
+    "geom:latitude":15.55664,
+    "geom:longitude":102.80786,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Ban Nong Yueang",
+    "gn:country_code":"TH",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9283386,
+    "gn:latitude":15.55664,
+    "gn:longitude":102.80786,
+    "gn:modification_date":"2014-08-07",
+    "gn:name":"Ban Nong Yueang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e19\u0e2d\u0e07\u0e40\u0e22\u0e37\u0e2d\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678817,
+        1108731129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9283386
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"e142310e14513dcff91b4842116f5b69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731129,
+            "locality_id":1360131737,
+            "region_id":85678817
+        }
+    ],
+    "wof:id":1360131737,
+    "wof:lastmodified":1537706252,
+    "wof:name":"Ban Nong Yueang",
+    "wof:parent_id":1108731129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.80786,
+    15.55664,
+    102.80786,
+    15.55664
+],
+  "geometry": {"coordinates":[102.80786000000001,15.55664],"type":"Point"}
+}

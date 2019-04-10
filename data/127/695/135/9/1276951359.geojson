@@ -1,0 +1,70 @@
+{
+  "id": 1276951359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.81469,15.87906,100.81469,15.87906",
+    "geom:latitude":15.87906,
+    "geom:longitude":100.81469,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ban Samran Tai",
+    "gn:country_code":"TH",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8566613,
+    "gn:latitude":15.87906,
+    "gn:longitude":100.81469,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Ban Samran Tai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2a\u0e33\u0e23\u0e32\u0e0d\u0e43\u0e15\u0e49"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678673,
+        1108731257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8566613
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"a64da7e33ca37b5231b5e55e74f76606",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731257,
+            "locality_id":1276951359,
+            "region_id":85678673
+        }
+    ],
+    "wof:id":1276951359,
+    "wof:lastmodified":1537705735,
+    "wof:name":"Ban Samran Tai",
+    "wof:parent_id":1108731257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.81469,
+    15.87906,
+    100.81469,
+    15.87906
+],
+  "geometry": {"coordinates":[100.81469,15.87906],"type":"Point"}
+}

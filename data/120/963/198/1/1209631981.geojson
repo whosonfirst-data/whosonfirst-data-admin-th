@@ -1,0 +1,64 @@
+{
+  "id": 1209631981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.25572,6.68044,100.25572,6.68044",
+    "geom:latitude":6.68044,
+    "geom:longitude":100.25572,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Ban Takhian Phao",
+    "gn:country_code":"TH",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6966605,
+    "gn:latitude":6.68044,
+    "gn:longitude":100.25572,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ban Takhian Phao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e27\u0e31\u0e07\u0e1e\u0e32"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6966605
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"c170c88d731d9c453f7bbbed324442e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632293,
+            "locality_id":1209631981
+        }
+    ],
+    "wof:id":1209631981,
+    "wof:lastmodified":1537704345,
+    "wof:name":"Ban Takhian Phao",
+    "wof:parent_id":85632293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.25572,
+    6.68044,
+    100.25572,
+    6.68044
+],
+  "geometry": {"coordinates":[100.25572,6.68044],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 890466213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-11-10",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.21272,18.92372,99.21272,18.92372",
+    "geom:latitude":18.92372,
+    "geom:longitude":99.21272,
+    "gn:country":"TH",
+    "gn:fcode":"ADM2",
+    "gn:pop":0,
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e14\u0e2d\u0e22\u0e2a\u0e30\u0e40\u0e01\u0e47\u0e14"
+    ],
+    "name:tha_x_variant":[
+        "\u0e14\u0e2d\u0e22\u0e2a\u0e30\u0e40\u0e01\u0e47\u0e14"
+    ],
+    "qs:name":"Amphoe Doi Saket",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":199,
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1153468,
+        "gp:id":28340826,
+        "qs:id":370299,
+        "wd:id":"Q475465",
+        "wk:page":"Doi Saket District"
+    },
+    "wof:country":"TH",
+    "wof:created":1469053570,
+    "wof:geomhash":"0728143ace08c1421578f52f456cf8be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466213,
+            "region_id":85678619
+        }
+    ],
+    "wof:id":890466213,
+    "wof:lastmodified":1527793017,
+    "wof:name":"Amphoe Doi Saket",
+    "wof:parent_id":85678619,
+    "wof:placetype":"county",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.21272,
+    18.92372,
+    99.21272,
+    18.92372
+],
+  "geometry": {"coordinates":[99.21272,18.92372],"type":"Point"}
+}

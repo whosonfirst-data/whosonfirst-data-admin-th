@@ -1,0 +1,67 @@
+{
+  "id": 1310287627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.7675,15.51361,99.7675,15.51361",
+    "geom:latitude":15.51361,
+    "geom:longitude":99.7675,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ban Thung Laeng",
+    "gn:country_code":"TH",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1117399,
+    "gn:latitude":15.51361,
+    "gn:longitude":99.7675,
+    "gn:modification_date":"2000-09-11",
+    "gn:name":"Ban Thung Laeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678689,
+        1108732011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1117399
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"ab7c0a4557b335d1cc9fcb7d21478ebb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108732011,
+            "locality_id":1310287627,
+            "region_id":85678689
+        }
+    ],
+    "wof:id":1310287627,
+    "wof:lastmodified":1536733933,
+    "wof:name":"Ban Thung Laeng",
+    "wof:parent_id":1108732011,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.7675,
+    15.51361,
+    99.7675,
+    15.51361
+],
+  "geometry": {"coordinates":[99.7675,15.51361],"type":"Point"}
+}

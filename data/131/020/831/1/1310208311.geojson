@@ -1,0 +1,70 @@
+{
+  "id": 1310208311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.10256,19.62472,98.10256,19.62472",
+    "geom:latitude":19.62472,
+    "geom:longitude":98.10256,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ban Thung Salae",
+    "gn:country_code":"TH",
+    "gn:dem":418,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7072878,
+    "gn:latitude":19.62472,
+    "gn:longitude":98.10256,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ban Thung Salae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e17\u0e38\u0e48\u0e07\u0e2a\u0e32\u0e41\u0e25"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678555,
+        890465713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7072878
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"9f8576e2374f759c479d2b48a7574fa9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465713,
+            "locality_id":1310208311,
+            "region_id":85678555
+        }
+    ],
+    "wof:id":1310208311,
+    "wof:lastmodified":1537704405,
+    "wof:name":"Ban Thung Salae",
+    "wof:parent_id":890465713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.10256,
+    19.62472,
+    98.10256,
+    19.62472
+],
+  "geometry": {"coordinates":[98.10256,19.62472],"type":"Point"}
+}

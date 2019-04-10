@@ -1,0 +1,70 @@
+{
+  "id": 1260068629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.25095,17.64364,100.25095,17.64364",
+    "geom:latitude":17.64364,
+    "geom:longitude":100.25095,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Ban Pha Chak",
+    "gn:country_code":"TH",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8538246,
+    "gn:latitude":17.64364,
+    "gn:longitude":100.25095,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Ban Pha Chak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1c\u0e32\u0e08\u0e31\u0e01\u0e23"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678657,
+        890466775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8538246
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"d2617c0a2d0f28451decf57365c931ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466775,
+            "locality_id":1260068629,
+            "region_id":85678657
+        }
+    ],
+    "wof:id":1260068629,
+    "wof:lastmodified":1537705677,
+    "wof:name":"Ban Pha Chak",
+    "wof:parent_id":890466775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.25095,
+    17.64363999999999,
+    100.25095,
+    17.64363999999999
+],
+  "geometry": {"coordinates":[100.25095,17.64363999999999],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1209704125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.04864,17.20831,100.04864,17.20831",
+    "geom:latitude":17.20831,
+    "geom:longitude":100.04864,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Ban Tha Maprang",
+    "gn:country_code":"TH",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1612582,
+    "gn:latitude":17.20831,
+    "gn:longitude":100.04864,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Tha Maprang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "Ban Tha Maprang"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e17\u0e48\u0e32\u0e21\u0e30\u0e1b\u0e23\u0e32\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678657,
+        890465911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1612582
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"471dccb2ebe258c1431bfbb54be3127e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465911,
+            "locality_id":1209704125,
+            "region_id":85678657
+        }
+    ],
+    "wof:id":1209704125,
+    "wof:lastmodified":1537703713,
+    "wof:name":"Ban Tha Maprang",
+    "wof:parent_id":890465911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.04864,
+    17.20831,
+    100.04864,
+    17.20831
+],
+  "geometry": {"coordinates":[100.04864000000001,17.20831],"type":"Point"}
+}

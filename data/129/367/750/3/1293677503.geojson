@@ -1,0 +1,73 @@
+{
+  "id": 1293677503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.19167,17.66119,100.19167,17.66119",
+    "geom:latitude":17.66119,
+    "geom:longitude":100.19167,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Ban Wang Khon",
+    "gn:country_code":"TH",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8136649,
+    "gn:latitude":17.66119,
+    "gn:longitude":100.19167,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Ban Wang Khon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "Ban Wang Khon"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e27\u0e31\u0e07\u0e02\u0e2d\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678657,
+        890466775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8136649
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"dc86edd4c65d43b72ace49fea01df19d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466775,
+            "locality_id":1293677503,
+            "region_id":85678657
+        }
+    ],
+    "wof:id":1293677503,
+    "wof:lastmodified":1537704994,
+    "wof:name":"Ban Wang Khon",
+    "wof:parent_id":890466775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.19167,
+    17.66118999999999,
+    100.19167,
+    17.66118999999999
+],
+  "geometry": {"coordinates":[100.19167,17.66118999999999],"type":"Point"}
+}

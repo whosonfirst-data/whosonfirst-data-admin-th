@@ -1,0 +1,67 @@
+{
+  "id": 1343626123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.43583,17.37694,103.43583,17.37694",
+    "geom:latitude":17.37694,
+    "geom:longitude":103.43583,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Upmung",
+    "gn:country_code":"TH",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1597397,
+    "gn:latitude":17.37694,
+    "gn:longitude":103.43583,
+    "gn:modification_date":"1995-02-08",
+    "gn:name":"Ban Upmung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678863,
+        1108731935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1597397
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"064c5fa21c7c07239c79000e8078cc09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731935,
+            "locality_id":1343626123,
+            "region_id":85678863
+        }
+    ],
+    "wof:id":1343626123,
+    "wof:lastmodified":1537003936,
+    "wof:name":"Ban Upmung",
+    "wof:parent_id":1108731935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.43583,
+    17.37694,
+    103.43583,
+    17.37694
+],
+  "geometry": {"coordinates":[103.43583,17.37694],"type":"Point"}
+}

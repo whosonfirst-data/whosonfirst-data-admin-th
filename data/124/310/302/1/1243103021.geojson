@@ -1,0 +1,73 @@
+{
+  "id": 1243103021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.98556,13.63611,99.98556,13.63611",
+    "geom:latitude":13.63611,
+    "geom:longitude":99.98556,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Ban Rang Fuea",
+    "gn:country_code":"TH",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1155023,
+    "gn:latitude":13.63611,
+    "gn:longitude":99.98556,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Ban Rang Fuea",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e23\u0e32\u0e07\u0e40\u0e1f\u0e37\u0e49\u0e2d"
+    ],
+    "name:und_x_variant":[
+        "Ban Rang Fua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678761,
+        890467267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1155023
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"7354109a48f5d40155ce91fe8b4587fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890467267,
+            "locality_id":1243103021,
+            "region_id":85678761
+        }
+    ],
+    "wof:id":1243103021,
+    "wof:lastmodified":1537703089,
+    "wof:name":"Ban Rang Fuea",
+    "wof:parent_id":890467267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.98556,
+    13.63611,
+    99.98556,
+    13.63611
+],
+  "geometry": {"coordinates":[99.98556000000001,13.63611],"type":"Point"}
+}

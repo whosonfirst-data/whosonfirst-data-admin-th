@@ -1,0 +1,73 @@
+{
+  "id": 1259896949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.82553,6.90567,99.82553,6.90567",
+    "geom:latitude":6.90567,
+    "geom:longitude":99.82553,
+    "gn:admin1_code":"67.0",
+    "gn:asciiname":"Ban Da Lam",
+    "gn:country_code":"TH",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8065203,
+    "gn:latitude":6.90567,
+    "gn:longitude":99.82553,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Ban Da Lam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "Ban Da Lam"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e14\u0e32\u0e2b\u0e25\u0e33"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678595,
+        1108731471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8065203
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"5fe9dc18618a0a36636908025202e580",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731471,
+            "locality_id":1259896949,
+            "region_id":85678595
+        }
+    ],
+    "wof:id":1259896949,
+    "wof:lastmodified":1537704965,
+    "wof:name":"Ban Da Lam",
+    "wof:parent_id":1108731471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.82553,
+    6.90567,
+    99.82553,
+    6.90567
+],
+  "geometry": {"coordinates":[99.82553,6.90567],"type":"Point"}
+}

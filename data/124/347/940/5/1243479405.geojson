@@ -1,0 +1,70 @@
+{
+  "id": 1243479405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.24256,8.44408,99.24256,8.44408",
+    "geom:latitude":8.44408,
+    "geom:longitude":99.24256,
+    "gn:admin1_code":"60.0",
+    "gn:asciiname":"Ban Bang Kam Yan",
+    "gn:country_code":"TH",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8324927,
+    "gn:latitude":8.44408,
+    "gn:longitude":99.24256,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Ban Bang Kam Yan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1a\u0e32\u0e07\u0e01\u0e33\u0e22\u0e32\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678581,
+        1108731743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8324927
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"0a4d231d417eef4adca1a7c7c09b2aeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731743,
+            "locality_id":1243479405,
+            "region_id":85678581
+        }
+    ],
+    "wof:id":1243479405,
+    "wof:lastmodified":1537705388,
+    "wof:name":"Ban Bang Kam Yan",
+    "wof:parent_id":1108731743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.24256,
+    8.44408,
+    99.24256,
+    8.44408
+],
+  "geometry": {"coordinates":[99.24256,8.44408],"type":"Point"}
+}

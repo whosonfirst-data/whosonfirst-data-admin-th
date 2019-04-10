@@ -1,0 +1,73 @@
+{
+  "id": 1326855239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.78428,7.07211,99.78428,7.07211",
+    "geom:latitude":7.07211,
+    "geom:longitude":99.78428,
+    "gn:admin1_code":"67.0",
+    "gn:asciiname":"Ban Saphan Wa",
+    "gn:country_code":"TH",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8065574,
+    "gn:latitude":7.07211,
+    "gn:longitude":99.78428,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Ban Saphan Wa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "Ban Saphan Wa"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2a\u0e30\u0e1e\u0e32\u0e19\u0e27\u0e32"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678595,
+        1108732029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8065574
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"b22e400b5f3f21be355b362f40ccadc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108732029,
+            "locality_id":1326855239,
+            "region_id":85678595
+        }
+    ],
+    "wof:id":1326855239,
+    "wof:lastmodified":1537704978,
+    "wof:name":"Ban Saphan Wa",
+    "wof:parent_id":1108732029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.78428,
+    7.07211,
+    99.78428,
+    7.07211
+],
+  "geometry": {"coordinates":[99.78428,7.07211],"type":"Point"}
+}

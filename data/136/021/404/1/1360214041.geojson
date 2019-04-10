@@ -1,0 +1,70 @@
+{
+  "id": 1360214041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.78361,14.00228,102.78361,14.00228",
+    "geom:latitude":14.00228,
+    "geom:longitude":102.78361,
+    "gn:admin1_code":"80.0",
+    "gn:asciiname":"Ban Khok Klang",
+    "gn:country_code":"TH",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1949398,
+    "gn:latitude":14.00228,
+    "gn:longitude":102.78361,
+    "gn:modification_date":"2014-04-06",
+    "gn:name":"Ban Khok Klang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e42\u0e04\u0e01\u0e01\u0e25\u0e32\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678805,
+        1108731959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1949398
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"f2c2b6741f657294de76a0cea496e691",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731959,
+            "locality_id":1360214041,
+            "region_id":85678805
+        }
+    ],
+    "wof:id":1360214041,
+    "wof:lastmodified":1537704298,
+    "wof:name":"Ban Khok Klang",
+    "wof:parent_id":1108731959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.78361,
+    14.00228,
+    102.78361,
+    14.00228
+],
+  "geometry": {"coordinates":[102.78361,14.00228],"type":"Point"}
+}

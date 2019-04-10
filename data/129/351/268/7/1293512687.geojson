@@ -1,0 +1,74 @@
+{
+  "id": 1293512687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.14283,14.591,100.14283,14.591",
+    "geom:latitude":14.591,
+    "geom:longitude":100.14283,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Ban Si Chan",
+    "gn:country_code":"TH",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1613276,
+    "gn:latitude":14.591,
+    "gn:longitude":100.14283,
+    "gn:modification_date":"2014-01-08",
+    "gn:name":"Ban Si Chan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e28\u0e23\u0e35\u0e08\u0e31\u0e19\u0e15\u0e4c"
+    ],
+    "name:und_x_variant":[
+        "Ban Srichan",
+        "Ban Si Chan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678679,
+        1108731891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1613276
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"5404dc7327c3b3a91f9a8dcd46bd03e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731891,
+            "locality_id":1293512687,
+            "region_id":85678679
+        }
+    ],
+    "wof:id":1293512687,
+    "wof:lastmodified":1537703762,
+    "wof:name":"Ban Si Chan",
+    "wof:parent_id":1108731891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.14283,
+    14.591,
+    100.14283,
+    14.591
+],
+  "geometry": {"coordinates":[100.14283,14.591],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1344266697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.79525,14.88086,103.79525,14.88086",
+    "geom:latitude":14.88086,
+    "geom:longitude":103.79525,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Ban Kadu",
+    "gn:country_code":"TH",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1603065,
+    "gn:latitude":14.88086,
+    "gn:longitude":103.79525,
+    "gn:modification_date":"2014-02-06",
+    "gn:name":"Ban Kadu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678849,
+        1108731917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1603065
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"f9b3b98d12bb2c26f6dc9e151f225d24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731917,
+            "locality_id":1344266697,
+            "region_id":85678849
+        }
+    ],
+    "wof:id":1344266697,
+    "wof:lastmodified":1537071951,
+    "wof:name":"Ban Kadu",
+    "wof:parent_id":1108731917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.79525,
+    14.88086,
+    103.79525,
+    14.88086
+],
+  "geometry": {"coordinates":[103.79525,14.88086],"type":"Point"}
+}

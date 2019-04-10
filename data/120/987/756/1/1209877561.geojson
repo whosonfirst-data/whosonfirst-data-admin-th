@@ -1,0 +1,70 @@
+{
+  "id": 1209877561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.98572,14.27606,102.98572,14.27606",
+    "geom:latitude":14.27606,
+    "geom:longitude":102.98572,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Ban Phathai Ruam Phon",
+    "gn:country_code":"TH",
+    "gn:dem":269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9281881,
+    "gn:latitude":14.27606,
+    "gn:longitude":102.98572,
+    "gn:modification_date":"2014-08-07",
+    "gn:name":"Ban Phathai Ruam Phon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1c\u0e44\u0e17\u0e23\u0e27\u0e21\u0e1e\u0e25"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678817,
+        1108731455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9281881
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"612be5baaa52b4179c677b2fa9356de0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731455,
+            "locality_id":1209877561,
+            "region_id":85678817
+        }
+    ],
+    "wof:id":1209877561,
+    "wof:lastmodified":1537706231,
+    "wof:name":"Ban Phathai Ruam Phon",
+    "wof:parent_id":1108731455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.98572,
+    14.27606,
+    102.98572,
+    14.27606
+],
+  "geometry": {"coordinates":[102.98572,14.27606],"type":"Point"}
+}

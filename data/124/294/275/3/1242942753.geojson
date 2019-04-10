@@ -1,0 +1,70 @@
+{
+  "id": 1242942753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.90622,15.49606,99.90622,15.49606",
+    "geom:latitude":15.49606,
+    "geom:longitude":99.90622,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ban Nong Yaplong",
+    "gn:country_code":"TH",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8396546,
+    "gn:latitude":15.49606,
+    "gn:longitude":99.90622,
+    "gn:modification_date":"2012-10-08",
+    "gn:name":"Ban Nong Yaplong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e19\u0e2d\u0e07\u0e2b\u0e0d\u0e49\u0e32\u0e1b\u0e25\u0e49\u0e2d\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678689,
+        1108732011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8396546
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"3422e6f8ec8a66d1dd33223525eb5941",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108732011,
+            "locality_id":1242942753,
+            "region_id":85678689
+        }
+    ],
+    "wof:id":1242942753,
+    "wof:lastmodified":1537705569,
+    "wof:name":"Ban Nong Yaplong",
+    "wof:parent_id":1108732011,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.90622,
+    15.49606,
+    99.90622,
+    15.49606
+],
+  "geometry": {"coordinates":[99.90622,15.49606],"type":"Point"}
+}

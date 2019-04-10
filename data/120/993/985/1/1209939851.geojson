@@ -1,0 +1,70 @@
+{
+  "id": 1209939851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.26375,8.21694,100.26375,8.21694",
+    "geom:latitude":8.21694,
+    "geom:longitude":100.26375,
+    "gn:admin1_code":"64.0",
+    "gn:asciiname":"Ban Pak Chong",
+    "gn:country_code":"TH",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8242058,
+    "gn:latitude":8.21694,
+    "gn:longitude":100.26375,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Ban Pak Chong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1b\u0e32\u0e01\u0e0a\u0e48\u0e2d\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678565,
+        1108731673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8242058
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"9d374c242463ff01752107cae0b5943b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731673,
+            "locality_id":1209939851,
+            "region_id":85678565
+        }
+    ],
+    "wof:id":1209939851,
+    "wof:lastmodified":1537705240,
+    "wof:name":"Ban Pak Chong",
+    "wof:parent_id":1108731673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.26375,
+    8.21694,
+    100.26375,
+    8.21694
+],
+  "geometry": {"coordinates":[100.26375,8.21694],"type":"Point"}
+}

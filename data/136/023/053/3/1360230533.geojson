@@ -1,0 +1,70 @@
+{
+  "id": 1360230533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.12881,15.14817,104.12881,15.14817",
+    "geom:latitude":15.14817,
+    "geom:longitude":104.12881,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Ban Khi Lek",
+    "gn:country_code":"TH",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7878028,
+    "gn:latitude":15.14817,
+    "gn:longitude":104.12881,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Khi Lek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e02\u0e35\u0e49\u0e40\u0e2b\u0e25\u0e47\u0e01"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678779,
+        1108732039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7878028
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"e5d3eb59ff84bb562230e62e1df397c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108732039,
+            "locality_id":1360230533,
+            "region_id":85678779
+        }
+    ],
+    "wof:id":1360230533,
+    "wof:lastmodified":1537704782,
+    "wof:name":"Ban Khi Lek",
+    "wof:parent_id":1108732039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.12881,
+    15.14817,
+    104.12881,
+    15.14817
+],
+  "geometry": {"coordinates":[104.12881,15.14817],"type":"Point"}
+}

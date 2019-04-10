@@ -1,0 +1,70 @@
+{
+  "id": 1226093063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.19533,14.45231,102.19533,14.45231",
+    "geom:latitude":14.45231,
+    "geom:longitude":102.19533,
+    "gn:admin1_code":"27",
+    "gn:asciiname":"Ban Map Yakha",
+    "gn:country_code":"TH",
+    "gn:dem":257,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9106968,
+    "gn:latitude":14.45231,
+    "gn:longitude":102.19533,
+    "gn:modification_date":"2014-06-07",
+    "gn:name":"Ban Map Yakha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e21\u0e32\u0e1a\u0e2b\u0e0d\u0e49\u0e32\u0e04\u0e32"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678841,
+        1108802623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9106968
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"69d0b1912c0507fd54b95d8fdcfd705c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802623,
+            "locality_id":1226093063,
+            "region_id":85678841
+        }
+    ],
+    "wof:id":1226093063,
+    "wof:lastmodified":1537706165,
+    "wof:name":"Ban Map Yakha",
+    "wof:parent_id":1108802623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.19533,
+    14.45231,
+    102.19533,
+    14.45231
+],
+  "geometry": {"coordinates":[102.19533,14.45231],"type":"Point"}
+}

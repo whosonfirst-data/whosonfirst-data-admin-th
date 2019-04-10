@@ -1,0 +1,64 @@
+{
+  "id": 1209250443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.22225,19.51045,100.22225,19.51045",
+    "geom:latitude":19.51045,
+    "geom:longitude":100.22225,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Ban Pha Lat",
+    "gn:country_code":"TH",
+    "gn:dem":386,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1599092,
+    "gn:latitude":19.51045,
+    "gn:longitude":100.22225,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Pha Lat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1c\u0e32\u0e25\u0e32\u0e14"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1599092
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"62a63a33a09f8a101edfd09a5e355373",
+    "wof:hierarchy":[
+        {
+            "country_id":85632293,
+            "locality_id":1209250443
+        }
+    ],
+    "wof:id":1209250443,
+    "wof:lastmodified":1537703425,
+    "wof:name":"Ban Pha Lat",
+    "wof:parent_id":85632293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.22225,
+    19.51045,
+    100.22225,
+    19.51045
+],
+  "geometry": {"coordinates":[100.22225,19.51045],"type":"Point"}
+}

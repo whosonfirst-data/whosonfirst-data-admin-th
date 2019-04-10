@@ -1,0 +1,70 @@
+{
+  "id": 1243562417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.07353,19.82483,99.07353,19.82483",
+    "geom:latitude":19.82483,
+    "geom:longitude":99.07353,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Lao Khrae",
+    "gn:country_code":"TH",
+    "gn:dem":803,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7506137,
+    "gn:latitude":19.82483,
+    "gn:longitude":99.07353,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Lao Khrae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e25\u0e32\u0e41\u0e04\u0e23\u0e30"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678619,
+        890466211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7506137
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"c371e3a9b2edfaf3e12ab3d8206e9acd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466211,
+            "locality_id":1243562417,
+            "region_id":85678619
+        }
+    ],
+    "wof:id":1243562417,
+    "wof:lastmodified":1537704533,
+    "wof:name":"Ban Lao Khrae",
+    "wof:parent_id":890466211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.07353,
+    19.82483,
+    99.07353,
+    19.82483
+],
+  "geometry": {"coordinates":[99.07353000000001,19.82483],"type":"Point"}
+}

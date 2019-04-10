@@ -1,0 +1,70 @@
+{
+  "id": 1309833535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.46161,13.04419,102.46161,13.04419",
+    "geom:latitude":13.04419,
+    "geom:longitude":102.46161,
+    "gn:admin1_code":"48.0",
+    "gn:asciiname":"Ban Bueng Chanang Lang",
+    "gn:country_code":"TH",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7922046,
+    "gn:latitude":13.04419,
+    "gn:longitude":102.46161,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Bueng Chanang Lang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1a\u0e36\u0e07\u0e0a\u0e19\u0e31\u0e07\u0e25\u0e48\u0e32\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678799,
+        1108731775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7922046
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"0c2c16a7d58a3369cc82a5de3b9f6309",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731775,
+            "locality_id":1309833535,
+            "region_id":85678799
+        }
+    ],
+    "wof:id":1309833535,
+    "wof:lastmodified":1537704888,
+    "wof:name":"Ban Bueng Chanang Lang",
+    "wof:parent_id":1108731775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.46161,
+    13.04419,
+    102.46161,
+    13.04419
+],
+  "geometry": {"coordinates":[102.46160999999999,13.04419],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1243207893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.77308,12.80956,99.77308,12.80956",
+    "geom:latitude":12.80956,
+    "geom:longitude":99.77308,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"Ban Sanhet",
+    "gn:country_code":"TH",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1154794,
+    "gn:latitude":12.80956,
+    "gn:longitude":99.77308,
+    "gn:modification_date":"2017-05-05",
+    "gn:name":"Ban Sanhet",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2a\u0e32\u0e23\u0e40\u0e2b\u0e47\u0e14"
+    ],
+    "name:und_x_variant":[
+        "Sarahet",
+        "Ban Sarahet"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678753,
+        890466431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1154794
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"c6718ae5b5e9b3f47f0877f599ce100c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466431,
+            "locality_id":1243207893,
+            "region_id":85678753
+        }
+    ],
+    "wof:id":1243207893,
+    "wof:lastmodified":1537703072,
+    "wof:name":"Ban Sanhet",
+    "wof:parent_id":890466431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.77308,
+    12.80956,
+    99.77308,
+    12.80956
+],
+  "geometry": {"coordinates":[99.77307999999999,12.80956],"type":"Point"}
+}

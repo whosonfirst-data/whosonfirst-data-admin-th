@@ -1,0 +1,81 @@
+{
+  "id": 890467501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.9311,17.96126,97.9311,17.96126",
+    "geom:latitude":17.96126,
+    "geom:longitude":97.9311,
+    "gn:country":"TH",
+    "gn:fcode":"ADM3",
+    "gn:pop":7015,
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sop Moei subdistrict"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043e\u043f-\u041c\u043e\u0438"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2a\u0e1a\u0e40\u0e21\u0e22"
+    ],
+    "name:tha_x_variant":[
+        "\u0e15\u0e33\u0e1a\u0e25\u0e2a\u0e1a\u0e40\u0e21\u0e22"
+    ],
+    "name:unk_x_variant":[
+        "Sop Moei"
+    ],
+    "qs:name":"Ban Sop Moei",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":298,
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1154723,
+        "qs:id":555274,
+        "wd:id":"Q476854",
+        "wk:page":"Tha Song Yang District"
+    },
+    "wof:country":"TH",
+    "wof:created":1469053649,
+    "wof:geomhash":"413de78d8a275a7fe3579dee32029b97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "localadmin_id":890467501,
+            "region_id":85678555
+        }
+    ],
+    "wof:id":890467501,
+    "wof:lastmodified":1527792897,
+    "wof:name":"Ban Sop Moei",
+    "wof:parent_id":85678555,
+    "wof:placetype":"localadmin",
+    "wof:population":7015,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.9311,
+    17.96126,
+    97.9311,
+    17.96126
+],
+  "geometry": {"coordinates":[97.9311,17.96126],"type":"Point"}
+}

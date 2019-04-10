@@ -1,0 +1,70 @@
+{
+  "id": 1276683667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.32331,13.86711,101.32331,13.86711",
+    "geom:latitude":13.86711,
+    "geom:longitude":101.32331,
+    "gn:admin1_code":"74",
+    "gn:asciiname":"Ban Wang Krathum",
+    "gn:country_code":"TH",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8748106,
+    "gn:latitude":13.86711,
+    "gn:longitude":101.32331,
+    "gn:modification_date":"2014-04-07",
+    "gn:name":"Ban Wang Krathum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e27\u0e31\u0e07\u0e01\u0e23\u0e30\u0e17\u0e38\u0e48\u0e21"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678797,
+        1108731801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8748106
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"9389c8a3c053c6962a99838f536566a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731801,
+            "locality_id":1276683667,
+            "region_id":85678797
+        }
+    ],
+    "wof:id":1276683667,
+    "wof:lastmodified":1537706015,
+    "wof:name":"Ban Wang Krathum",
+    "wof:parent_id":1108731801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.32331,
+    13.86711,
+    101.32331,
+    13.86711
+],
+  "geometry": {"coordinates":[101.32331000000001,13.86711],"type":"Point"}
+}

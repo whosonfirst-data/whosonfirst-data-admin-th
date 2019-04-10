@@ -1,0 +1,70 @@
+{
+  "id": 1210018611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.88692,19.71953,98.88692,19.71953",
+    "geom:latitude":19.71953,
+    "geom:longitude":98.88692,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Chia Chan",
+    "gn:country_code":"TH",
+    "gn:dem":670,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7073688,
+    "gn:latitude":19.71953,
+    "gn:longitude":98.88692,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ban Chia Chan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e08\u0e35\u0e22\u0e08\u0e31\u0e19\u0e17\u0e23\u0e4c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678619,
+        1108802591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7073688
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"c1dff7255a582e91962efb5b05203841",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802591,
+            "locality_id":1210018611,
+            "region_id":85678619
+        }
+    ],
+    "wof:id":1210018611,
+    "wof:lastmodified":1537704407,
+    "wof:name":"Ban Chia Chan",
+    "wof:parent_id":1108802591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.88692,
+    19.71953,
+    98.88692,
+    19.71953
+],
+  "geometry": {"coordinates":[98.88692,19.71953],"type":"Point"}
+}

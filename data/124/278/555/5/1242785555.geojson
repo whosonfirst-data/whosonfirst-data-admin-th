@@ -1,0 +1,70 @@
+{
+  "id": 1242785555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.043,19.93825,99.043,19.93825",
+    "geom:latitude":19.93825,
+    "geom:longitude":99.043,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Palong No Lae",
+    "gn:country_code":"TH",
+    "gn:dem":1429,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7506057,
+    "gn:latitude":19.93825,
+    "gn:longitude":99.043,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Palong No Lae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1b\u0e30\u0e2b\u0e25\u0e48\u0e2d\u0e07\u0e19\u0e2d\u0e41\u0e25"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678619,
+        890466211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7506057
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"490ccd87826d93b8688a830fc4a59a92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466211,
+            "locality_id":1242785555,
+            "region_id":85678619
+        }
+    ],
+    "wof:id":1242785555,
+    "wof:lastmodified":1537704532,
+    "wof:name":"Ban Palong No Lae",
+    "wof:parent_id":890466211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.043,
+    19.93825,
+    99.043,
+    19.93825
+],
+  "geometry": {"coordinates":[99.04300000000001,19.93825],"type":"Point"}
+}

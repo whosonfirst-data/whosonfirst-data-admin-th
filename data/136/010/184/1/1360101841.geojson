@@ -1,0 +1,70 @@
+{
+  "id": 1360101841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.234,6.82342,101.234,6.82342",
+    "geom:latitude":6.82342,
+    "geom:longitude":101.234,
+    "gn:admin1_code":"69.0",
+    "gn:asciiname":"Ban Chue Lae Nibong",
+    "gn:country_code":"TH",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7882487,
+    "gn:latitude":6.82342,
+    "gn:longitude":101.234,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Chue Lae Nibong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e08\u0e37\u0e2d\u0e41\u0e25\u0e19\u0e34\u0e1a\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678889,
+        890466133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7882487
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"34f9aba7fde6c022e318fe123616d4f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466133,
+            "locality_id":1360101841,
+            "region_id":85678889
+        }
+    ],
+    "wof:id":1360101841,
+    "wof:lastmodified":1537704828,
+    "wof:name":"Ban Chue Lae Nibong",
+    "wof:parent_id":890466133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.234,
+    6.82342,
+    101.234,
+    6.82342
+],
+  "geometry": {"coordinates":[101.23399999999999,6.82342],"type":"Point"}
+}

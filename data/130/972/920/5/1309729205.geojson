@@ -1,0 +1,73 @@
+{
+  "id": 1309729205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.33658,16.484,104.33658,16.484",
+    "geom:latitude":16.484,
+    "geom:longitude":104.33658,
+    "gn:admin1_code":"78.0",
+    "gn:asciiname":"Ban Nong O",
+    "gn:country_code":"TH",
+    "gn:dem":205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8036317,
+    "gn:latitude":16.484,
+    "gn:longitude":104.33658,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Nong O",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "Ban Nong O"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e19\u0e2d\u0e07\u0e42\u0e2d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678881,
+        1108802707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8036317
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"75782db524e2cdcd7db0eb3c34ad1676",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802707,
+            "locality_id":1309729205,
+            "region_id":85678881
+        }
+    ],
+    "wof:id":1309729205,
+    "wof:lastmodified":1537704927,
+    "wof:name":"Ban Nong O",
+    "wof:parent_id":1108802707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.33658,
+    16.484,
+    104.33658,
+    16.484
+],
+  "geometry": {"coordinates":[104.33658,16.484],"type":"Point"}
+}

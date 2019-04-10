@@ -1,0 +1,70 @@
+{
+  "id": 1343447041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.54344,16.30594,100.54344,16.30594",
+    "geom:latitude":16.30594,
+    "geom:longitude":100.54344,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Ban Khao Phanom Pha",
+    "gn:country_code":"TH",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8451865,
+    "gn:latitude":16.30594,
+    "gn:longitude":100.54344,
+    "gn:modification_date":"2013-02-10",
+    "gn:name":"Ban Khao Phanom Pha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e02\u0e32\u0e1e\u0e19\u0e21\u0e1e\u0e32"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678669,
+        890466721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8451865
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"6322f3ba09eb2a0d04583aa773f9b87e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466721,
+            "locality_id":1343447041,
+            "region_id":85678669
+        }
+    ],
+    "wof:id":1343447041,
+    "wof:lastmodified":1537705610,
+    "wof:name":"Ban Khao Phanom Pha",
+    "wof:parent_id":890466721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.54344,
+    16.30594,
+    100.54344,
+    16.30594
+],
+  "geometry": {"coordinates":[100.54344,16.30594],"type":"Point"}
+}

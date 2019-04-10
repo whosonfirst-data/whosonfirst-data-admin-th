@@ -1,0 +1,81 @@
+{
+  "id": 890467277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.00533,12.67264,102.00533,12.67264",
+    "geom:latitude":12.67264,
+    "geom:longitude":102.00533,
+    "gn:country":"TH",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424960,
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2a\u0e2d\u0e07\u0e1e\u0e35\u0e48\u0e19\u0e49\u0e2d\u0e07"
+    ],
+    "name:unk_x_variant":[
+        "Song Phi Naung"
+    ],
+    "qs:name":"Song Phi Nong",
+    "qs:name_adm0":"Thailand",
+    "qs:name_adm1":"Chanthaburi",
+    "qs:photos":4,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":4,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":374,
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678799,
+        890466889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1613171,
+        "gp:id":55944881,
+        "qs:id":911241,
+        "wk:page":"Song Phi Nong District"
+    },
+    "wof:country":"TH",
+    "wof:created":1469053634,
+    "wof:geomhash":"91190bbf641d3bd6068acd361a7535fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466889,
+            "locality_id":890467277,
+            "region_id":85678799
+        }
+    ],
+    "wof:id":890467277,
+    "wof:lastmodified":1527792898,
+    "wof:name":"Song Phi Nong",
+    "wof:parent_id":890466889,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.00533,
+    12.67264,
+    102.00533,
+    12.67264
+],
+  "geometry": {"coordinates":[102.00533,12.67264],"type":"Point"}
+}

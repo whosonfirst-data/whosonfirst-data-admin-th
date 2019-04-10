@@ -1,0 +1,70 @@
+{
+  "id": 1344073821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.3925,13.48561,101.3925,13.48561",
+    "geom:latitude":13.48561,
+    "geom:longitude":101.3925,
+    "gn:admin1_code":"44.0",
+    "gn:asciiname":"Ban Noen Krathin",
+    "gn:country_code":"TH",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7852946,
+    "gn:latitude":13.48561,
+    "gn:longitude":101.3925,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Noen Krathin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e19\u0e34\u0e19\u0e01\u0e23\u0e30\u0e16\u0e34\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678797,
+        1108731767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7852946
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"810e6f1bfe6ea2a8b807223feb0a1f89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731767,
+            "locality_id":1344073821,
+            "region_id":85678797
+        }
+    ],
+    "wof:id":1344073821,
+    "wof:lastmodified":1537704725,
+    "wof:name":"Ban Noen Krathin",
+    "wof:parent_id":1108731767,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.3925,
+    13.48561,
+    101.3925,
+    13.48561
+],
+  "geometry": {"coordinates":[101.3925,13.48561],"type":"Point"}
+}

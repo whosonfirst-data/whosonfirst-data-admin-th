@@ -1,0 +1,68 @@
+{
+  "id": 1243207879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.77119,8.21161,98.77119,8.21161",
+    "geom:latitude":8.21161,
+    "geom:longitude":98.77119,
+    "gn:admin1_code":"63.0",
+    "gn:asciiname":"Ban Tha Talum Than",
+    "gn:country_code":"TH",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8271360,
+    "gn:latitude":8.21161,
+    "gn:longitude":98.77119,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Ban Tha Talum Than",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e17\u0e48\u0e32\u0e15\u0e25\u0e38\u0e21\u0e16\u0e48\u0e32\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632293,
+        890466649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8271360
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"930ae6206918042c866f872b12b2f6f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632293,
+            "county_id":890466649,
+            "locality_id":1243207879,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1243207879,
+    "wof:lastmodified":1537705286,
+    "wof:name":"Ban Tha Talum Than",
+    "wof:parent_id":890466649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.77119,
+    8.21161,
+    98.77119,
+    8.21161
+],
+  "geometry": {"coordinates":[98.77119,8.21161],"type":"Point"}
+}

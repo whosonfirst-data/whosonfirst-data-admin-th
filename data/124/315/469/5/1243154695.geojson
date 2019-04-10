@@ -1,0 +1,73 @@
+{
+  "id": 1243154695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.76604,15.37579,99.76604,15.37579",
+    "geom:latitude":15.37579,
+    "geom:longitude":99.76604,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ban Ko Ta Song",
+    "gn:country_code":"TH",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1119402,
+    "gn:latitude":15.37579,
+    "gn:longitude":99.76604,
+    "gn:modification_date":"2012-10-06",
+    "gn:name":"Ban Ko Ta Song",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e01\u0e32\u0e30\u0e15\u0e32\u0e0b\u0e49\u0e07"
+    ],
+    "name:und_x_variant":[
+        "Ban Ko Ai Song"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678689,
+        1108802703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1119402
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"c30fe3fbc36194d681672a2d0b9e5f39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802703,
+            "locality_id":1243154695,
+            "region_id":85678689
+        }
+    ],
+    "wof:id":1243154695,
+    "wof:lastmodified":1537702978,
+    "wof:name":"Ban Ko Ta Song",
+    "wof:parent_id":1108802703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.76604,
+    15.37579,
+    99.76604,
+    15.37579
+],
+  "geometry": {"coordinates":[99.76604,15.37579],"type":"Point"}
+}

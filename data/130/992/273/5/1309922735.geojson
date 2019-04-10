@@ -1,0 +1,73 @@
+{
+  "id": 1309922735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.28294,7.86795,100.28294,7.86795",
+    "geom:latitude":7.86795,
+    "geom:longitude":100.28294,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Ban Thung Sa-nguan",
+    "gn:country_code":"TH",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1597506,
+    "gn:latitude":7.86795,
+    "gn:longitude":100.28294,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Thung Sa-nguan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e17\u0e38\u0e48\u0e07\u0e2a\u0e07\u0e27\u0e19"
+    ],
+    "name:und_x_variant":[
+        "Ban Thung Sanguan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678603,
+        1108731795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1597506
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"016d2a4bf2d87dac761ebdc11ee38c93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731795,
+            "locality_id":1309922735,
+            "region_id":85678603
+        }
+    ],
+    "wof:id":1309922735,
+    "wof:lastmodified":1537703371,
+    "wof:name":"Ban Thung Sa-nguan",
+    "wof:parent_id":1108731795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.28294,
+    7.86795,
+    100.28294,
+    7.86795
+],
+  "geometry": {"coordinates":[100.28294,7.86795],"type":"Point"}
+}

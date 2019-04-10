@@ -1,0 +1,75 @@
+{
+  "id": 890466351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-11-10",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.25105,6.54378,101.25105,6.54378",
+    "geom:latitude":6.54378,
+    "geom:longitude":101.25105,
+    "gn:country":"TH",
+    "gn:fcode":"ADM2",
+    "gn:pop":0,
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e22\u0e30\u0e25\u0e32"
+    ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e22\u0e30\u0e25\u0e32"
+    ],
+    "name:unk_x_variant":[
+        "Yala"
+    ],
+    "qs:name":"Amphoe Mueang Yala",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":407,
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1608605,
+        "qs:id":1030554,
+        "wd:id":"Q1935289",
+        "wk:page":"Mueang Yala District"
+    },
+    "wof:country":"TH",
+    "wof:created":1469053575,
+    "wof:geomhash":"cb0d179d34dc35ce27f930832652201e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466351,
+            "region_id":85678611
+        }
+    ],
+    "wof:id":890466351,
+    "wof:lastmodified":1527793014,
+    "wof:name":"Amphoe Mueang Yala",
+    "wof:parent_id":85678611,
+    "wof:placetype":"county",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.25105,
+    6.54378,
+    101.25105,
+    6.54378
+],
+  "geometry": {"coordinates":[101.25105000000001,6.54378],"type":"Point"}
+}

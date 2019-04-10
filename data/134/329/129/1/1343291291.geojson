@@ -1,0 +1,67 @@
+{
+  "id": 1343291291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.36667,8.8,98.36667,8.8",
+    "geom:latitude":8.8,
+    "geom:longitude":98.36667,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Ban Bang Riang",
+    "gn:country_code":"TH",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1120342,
+    "gn:latitude":8.8,
+    "gn:longitude":98.36667,
+    "gn:modification_date":"1994-04-10",
+    "gn:name":"Ban Bang Riang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678573,
+        1108731961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1120342
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"ae5231827763b3c507b4d23e05898a0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731961,
+            "locality_id":1343291291,
+            "region_id":85678573
+        }
+    ],
+    "wof:id":1343291291,
+    "wof:lastmodified":1536989693,
+    "wof:name":"Ban Bang Riang",
+    "wof:parent_id":1108731961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.36667,
+    8.8,
+    98.36667,
+    8.8
+],
+  "geometry": {"coordinates":[98.36667,8.8],"type":"Point"}
+}

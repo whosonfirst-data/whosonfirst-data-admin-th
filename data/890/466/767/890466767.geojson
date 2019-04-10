@@ -1,0 +1,73 @@
+{
+  "id": 890466767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.23022,16.19772,100.23022,16.19772",
+    "geom:latitude":16.19772,
+    "geom:longitude":100.23022,
+    "gn:country":"TH",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424960,
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1a\u0e32\u0e07\u0e25\u0e32\u0e22"
+    ],
+    "name:unk_x_variant":[
+        "Bang Lai"
+    ],
+    "qs:name":"Ban Bang Lai (1)",
+    "qs:name_adm0":"Thailand",
+    "qs:name_adm1":"Phichit",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1620793,
+        "gp:id":1200727,
+        "qs:id":1060911
+    },
+    "wof:country":"TH",
+    "wof:created":1469053592,
+    "wof:geomhash":"f90bdd396e9ab12323d69b6fef7c31fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "locality_id":890466767,
+            "region_id":85678669
+        }
+    ],
+    "wof:id":890466767,
+    "wof:lastmodified":1505343708,
+    "wof:name":"Ban Bang Lai (1)",
+    "wof:parent_id":85678669,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.23022,
+    16.19772,
+    100.23022,
+    16.19772
+],
+  "geometry": {"coordinates":[100.23022,16.19772],"type":"Point"}
+}

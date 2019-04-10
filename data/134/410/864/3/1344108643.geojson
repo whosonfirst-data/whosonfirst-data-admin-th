@@ -1,0 +1,70 @@
+{
+  "id": 1344108643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.1835,14.90075,101.1835,14.90075",
+    "geom:latitude":14.90075,
+    "geom:longitude":101.1835,
+    "gn:admin1_code":"37",
+    "gn:asciiname":"Ban Khlong Makluea",
+    "gn:country_code":"TH",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9029063,
+    "gn:latitude":14.90075,
+    "gn:longitude":101.1835,
+    "gn:modification_date":"2014-05-02",
+    "gn:name":"Ban Khlong Makluea",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e04\u0e25\u0e2d\u0e07\u0e21\u0e30\u0e40\u0e01\u0e25\u0e37\u0e2d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678735,
+        890465983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9029063
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"50aa0afddc8ecd44d4b94641d87b16f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465983,
+            "locality_id":1344108643,
+            "region_id":85678735
+        }
+    ],
+    "wof:id":1344108643,
+    "wof:lastmodified":1537706114,
+    "wof:name":"Ban Khlong Makluea",
+    "wof:parent_id":890465983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.1835,
+    14.90075,
+    101.1835,
+    14.90075
+],
+  "geometry": {"coordinates":[101.1835,14.90075],"type":"Point"}
+}

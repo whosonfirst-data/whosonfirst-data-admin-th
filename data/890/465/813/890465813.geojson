@@ -1,0 +1,76 @@
+{
+  "id": 890465813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-11-10",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.04039,8.06058,99.04039,8.06058",
+    "geom:latitude":8.06058,
+    "geom:longitude":99.04039,
+    "gn:country":"TH",
+    "gn:fcode":"ADM2",
+    "gn:pop":0,
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e40\u0e2b\u0e19\u0e37\u0e2d\u0e04\u0e25\u0e2d\u0e07"
+    ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e2b\u0e19\u0e37\u0e2d\u0e04\u0e25\u0e2d\u0e07"
+    ],
+    "name:unk_x_variant":[
+        "King Amphoe Nuea Khlong"
+    ],
+    "qs:name":"Amphoe Nuea Khlong",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":310,
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7511034,
+        "gp:id":28341646,
+        "qs:id":1154792,
+        "wd:id":"Q476298",
+        "wk:page":"Nuea Khlong District"
+    },
+    "wof:country":"TH",
+    "wof:created":1469053535,
+    "wof:geomhash":"42850eb7008ec89be2847ee13c00fc08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465813,
+            "region_id":85678585
+        }
+    ],
+    "wof:id":890465813,
+    "wof:lastmodified":1527736656,
+    "wof:name":"Amphoe Nuea Khlong",
+    "wof:parent_id":85678585,
+    "wof:placetype":"county",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.04039,
+    8.06058,
+    99.04039,
+    8.06058
+],
+  "geometry": {"coordinates":[99.04039,8.06058],"type":"Point"}
+}

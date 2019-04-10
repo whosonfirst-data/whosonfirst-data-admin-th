@@ -1,0 +1,70 @@
+{
+  "id": 1293912685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.20692,6.83439,101.20692,6.83439",
+    "geom:latitude":6.83439,
+    "geom:longitude":101.20692,
+    "gn:admin1_code":"69.0",
+    "gn:asciiname":"Ban Kampong Bala",
+    "gn:country_code":"TH",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7882476,
+    "gn:latitude":6.83439,
+    "gn:longitude":101.20692,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Kampong Bala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e01\u0e33\u0e1b\u0e07\u0e1a\u0e32\u0e25\u0e32"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678889,
+        1108731613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7882476
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"59631a7de3e08059aa197b97cc223816",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731613,
+            "locality_id":1293912685,
+            "region_id":85678889
+        }
+    ],
+    "wof:id":1293912685,
+    "wof:lastmodified":1537704827,
+    "wof:name":"Ban Kampong Bala",
+    "wof:parent_id":1108731613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.20692,
+    6.83439,
+    101.20692,
+    6.83439
+],
+  "geometry": {"coordinates":[101.20692,6.83439],"type":"Point"}
+}

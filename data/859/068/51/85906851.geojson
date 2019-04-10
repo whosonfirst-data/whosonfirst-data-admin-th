@@ -1,0 +1,128 @@
+{
+  "id": 85906851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000021,
+    "geom:area_square_m":248555.968596,
+    "geom:bbox":"100.488863146,13.7420530627,100.494689941,13.7473889243",
+    "geom:latitude":13.745376,
+    "geom:longitude":100.492223,
+    "iso:country":"TH",
+    "lbl:latitude":13.746498,
+    "lbl:longitude":100.492079,
+    "mps:latitude":13.74572,
+    "mps:longitude":100.49257,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":12.0,
+    "mz:tier_locality":5,
+    "name:deu_x_preferred":[
+        "Sanam Luang"
+    ],
+    "name:eng_x_preferred":[
+        "Sanam Luang"
+    ],
+    "name:fra_x_preferred":[
+        "Sanam Luang"
+    ],
+    "name:ita_x_preferred":[
+        "Sanam Luang"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0ac\ub0a8\ub8e8\uc559"
+    ],
+    "name:nld_x_preferred":[
+        "Sanam Luang"
+    ],
+    "name:spa_x_preferred":[
+        "Sanam Luang"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e17\u0e49\u0e2d\u0e07\u0e2a\u0e19\u0e32\u0e21\u0e2b\u0e25\u0e27\u0e07"
+    ],
+    "name:unk_x_variant":[
+        "Sanam Luang"
+    ],
+    "name:vie_x_preferred":[
+        "Sanam Luang"
+    ],
+    "qs:gn_adm0_cc":"TH",
+    "qs:gn_id":0,
+    "qs:gn_local":1609350,
+    "qs:gn_nam_loc":"Bangkok, Bangkok, TH",
+    "qs:gn_namadm1":"40",
+    "qs:id":0,
+    "qs:local_max":21510,
+    "qs:local_sum":280580,
+    "qs:localhoods":117,
+    "qs:name":"Sanam Luang",
+    "qs:name_adm0":"Thailand",
+    "qs:name_adm1":"Bangkok",
+    "qs:name_adm2":"Phra Nakhon",
+    "qs:name_local":"Bangkok",
+    "qs:photo_max":5307,
+    "qs:photo_sum":12632,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":16,
+    "qs:woe_adm0":23424960,
+    "qs:woe_adm1":2347165,
+    "qs:woe_adm2":28341398,
+    "qs:woe_lau":0,
+    "qs:woe_local":1225448,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":778,
+    "wof:belongsto":[
+        85678739,
+        102191569,
+        85632293,
+        102025263,
+        890466393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22724362,
+        "wd:id":"Q767544"
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"f674d86fe6857fce4442841dae7326a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466393,
+            "locality_id":102025263,
+            "neighbourhood_id":85906851,
+            "region_id":85678739
+        }
+    ],
+    "wof:id":85906851,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527269265,
+    "wof:name":"Sanam Luang",
+    "wof:parent_id":102025263,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.48886314642459,
+    13.74205306270004,
+    100.49468994100005,
+    13.74738892430007
+],
+  "geometry": {"coordinates":[[[100.49468994100005,13.74738892430007],[100.49468994100005,13.74605497030001],[100.49468994100005,13.74571150174428],[100.49468994100005,13.74472100764457],[100.49468994100005,13.74373050610448],[100.49468994100005,13.74338703949999],[100.49435630765589,13.74338703894595],[100.49331665000011,13.74338703831268],[100.49331665000011,13.74239652941928],[100.49331665000011,13.74205306270004],[100.49194335900006,13.74205306270004],[100.49194335900006,13.74239652924778],[100.49194335900017,13.74304357088654],[100.49194335900006,13.74338703949999],[100.49194335900006,13.74405402474099],[100.49125671384388,13.74405402478762],[100.49125671384877,13.74472100869998],[100.49057006800012,13.74472100869998],[100.48988342300009,13.74472100869998],[100.48988342300015,13.74505449972838],[100.4895401,13.74505449973327],[100.48919677700002,13.74505449973691],[100.48889069434347,13.74505449970005],[100.48900184063518,13.74562661887661],[100.48886314642459,13.74605496840012],[100.48919677700002,13.74639843701854],[100.48919677700019,13.74738892336278],[100.49057006800012,13.74738892305022],[100.49194335900006,13.74738892305022],[100.49298302228596,13.74738892320654],[100.49331665000011,13.74738892430007],[100.49468994100005,13.74738892430007]]],"type":"Polygon"}
+}

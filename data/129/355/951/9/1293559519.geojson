@@ -1,0 +1,70 @@
+{
+  "id": 1293559519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.91131,15.92792,100.91131,15.92792",
+    "geom:latitude":15.92792,
+    "geom:longitude":100.91131,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ban Sap Tathen",
+    "gn:country_code":"TH",
+    "gn:dem":314,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8565305,
+    "gn:latitude":15.92792,
+    "gn:longitude":100.91131,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Ban Sap Tathen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e0b\u0e31\u0e1a\u0e15\u0e32\u0e40\u0e16\u0e23"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678673,
+        1108731635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8565305
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"3461a3d13cc272e44b18bd3da2efc049",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731635,
+            "locality_id":1293559519,
+            "region_id":85678673
+        }
+    ],
+    "wof:id":1293559519,
+    "wof:lastmodified":1537705718,
+    "wof:name":"Ban Sap Tathen",
+    "wof:parent_id":1108731635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.91131,
+    15.92792,
+    100.91131,
+    15.92792
+],
+  "geometry": {"coordinates":[100.91131,15.92792],"type":"Point"}
+}

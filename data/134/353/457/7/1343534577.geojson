@@ -1,0 +1,70 @@
+{
+  "id": 1343534577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.25655,15.74535,101.25655,15.74535",
+    "geom:latitude":15.74535,
+    "geom:longitude":101.25655,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ban Wang Wat",
+    "gn:country_code":"TH",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8565801,
+    "gn:latitude":15.74535,
+    "gn:longitude":101.25655,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Ban Wang Wat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e27\u0e31\u0e07\u0e27\u0e31\u0e14"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678673,
+        890467495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8565801
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"b421bb9b61ad04fcd25af2c73c6f3e90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890467495,
+            "locality_id":1343534577,
+            "region_id":85678673
+        }
+    ],
+    "wof:id":1343534577,
+    "wof:lastmodified":1537705726,
+    "wof:name":"Ban Wang Wat",
+    "wof:parent_id":890467495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.25655,
+    15.74535,
+    101.25655,
+    15.74535
+],
+  "geometry": {"coordinates":[101.25655,15.74535],"type":"Point"}
+}

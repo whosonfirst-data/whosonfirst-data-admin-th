@@ -1,0 +1,73 @@
+{
+  "id": 1226512745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.10444,15.88167,101.10444,15.88167",
+    "geom:latitude":15.88167,
+    "geom:longitude":101.10444,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ban Mai Khon Yang Khwang",
+    "gn:cc2":"TH",
+    "gn:country_code":"TH",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1616798,
+    "gn:latitude":15.88167,
+    "gn:longitude":101.10444,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Mai Khon Yang Khwang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u0101n Kaun Y\u0101ng Kw\u0101ng",
+        "Ban Khon Yang Khwang",
+        "Ban Mai Khon Yang Khwang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678673,
+        1108731635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1616798
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"afb086d26523f02ae47f3eb0289b8c3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731635,
+            "locality_id":1226512745,
+            "region_id":85678673
+        }
+    ],
+    "wof:id":1226512745,
+    "wof:lastmodified":1537704005,
+    "wof:name":"Ban Mai Khon Yang Khwang",
+    "wof:parent_id":1108731635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.10444,
+    15.88167,
+    101.10444,
+    15.88167
+],
+  "geometry": {"coordinates":[101.10444,15.88167],"type":"Point"}
+}

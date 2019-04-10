@@ -1,0 +1,70 @@
+{
+  "id": 1327097805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.12667,18.02975,103.12667,18.02975",
+    "geom:latitude":18.02975,
+    "geom:longitude":103.12667,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Prong Yen",
+    "gn:country_code":"TH",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7673793,
+    "gn:latitude":18.02975,
+    "gn:longitude":103.12667,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Prong Yen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e42\u0e1b\u0e23\u0e48\u0e07\u0e40\u0e22\u0e47\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678859,
+        890465905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7673793
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"b0766777746e67c0f0e5534c73c04318",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465905,
+            "locality_id":1327097805,
+            "region_id":85678859
+        }
+    ],
+    "wof:id":1327097805,
+    "wof:lastmodified":1537704589,
+    "wof:name":"Ban Prong Yen",
+    "wof:parent_id":890465905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.12667,
+    18.02975,
+    103.12667,
+    18.02975
+],
+  "geometry": {"coordinates":[103.12667,18.02975],"type":"Point"}
+}

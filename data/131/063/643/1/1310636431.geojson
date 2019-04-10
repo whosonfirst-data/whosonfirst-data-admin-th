@@ -1,0 +1,73 @@
+{
+  "id": 1310636431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.5928,16.25643,104.5928,16.25643",
+    "geom:latitude":16.25643,
+    "geom:longitude":104.5928,
+    "gn:admin1_code":"78.0",
+    "gn:asciiname":"Ban Pa Toei",
+    "gn:country_code":"TH",
+    "gn:dem":194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8036936,
+    "gn:latitude":16.25643,
+    "gn:longitude":104.5928,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Pa Toei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "Ban Pa Toei"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1b\u0e48\u0e32\u0e40\u0e15\u0e22"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678881,
+        1108731593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8036936
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"51a7293c9f9168ee10cb0105783a9621",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731593,
+            "locality_id":1310636431,
+            "region_id":85678881
+        }
+    ],
+    "wof:id":1310636431,
+    "wof:lastmodified":1537704939,
+    "wof:name":"Ban Pa Toei",
+    "wof:parent_id":1108731593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.5928,
+    16.25643,
+    104.5928,
+    16.25643
+],
+  "geometry": {"coordinates":[104.5928,16.25643],"type":"Point"}
+}

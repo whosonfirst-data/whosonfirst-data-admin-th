@@ -1,0 +1,73 @@
+{
+  "id": 1226688449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.30467,14.00347,100.30467,14.00347",
+    "geom:latitude":14.00347,
+    "geom:longitude":100.30467,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Ban Khlong Na Mon",
+    "gn:country_code":"TH",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8141781,
+    "gn:latitude":14.00347,
+    "gn:longitude":100.30467,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Ban Khlong Na Mon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "Ban Khlong Na Mon"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e04\u0e25\u0e2d\u0e07\u0e19\u0e32\u0e2b\u0e21\u0e2d\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678743,
+        890465791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8141781
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"f7954cd9a434db4f2f4df9c76a2db495",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465791,
+            "locality_id":1226688449,
+            "region_id":85678743
+        }
+    ],
+    "wof:id":1226688449,
+    "wof:lastmodified":1537705018,
+    "wof:name":"Ban Khlong Na Mon",
+    "wof:parent_id":890465791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.30467,
+    14.00347,
+    100.30467,
+    14.00347
+],
+  "geometry": {"coordinates":[100.30467,14.00347],"type":"Point"}
+}

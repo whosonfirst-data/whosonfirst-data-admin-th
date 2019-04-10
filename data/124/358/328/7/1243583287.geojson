@@ -1,0 +1,70 @@
+{
+  "id": 1243583287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.57414,6.68075,101.57414,6.68075",
+    "geom:latitude":6.68075,
+    "geom:longitude":101.57414,
+    "gn:admin1_code":"69.0",
+    "gn:asciiname":"Ban Ka Yo Ma Ti",
+    "gn:country_code":"TH",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7882928,
+    "gn:latitude":6.68075,
+    "gn:longitude":101.57414,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Ka Yo Ma Ti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e01\u0e32\u0e40\u0e22\u0e32\u0e30\u0e21\u0e32\u0e15\u0e35"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678889,
+        1108731827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7882928
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"5fff8fe795ac64747ad429f27341eac5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731827,
+            "locality_id":1243583287,
+            "region_id":85678889
+        }
+    ],
+    "wof:id":1243583287,
+    "wof:lastmodified":1537704834,
+    "wof:name":"Ban Ka Yo Ma Ti",
+    "wof:parent_id":1108731827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.57414,
+    6.68075,
+    101.57414,
+    6.68075
+],
+  "geometry": {"coordinates":[101.57414,6.68075],"type":"Point"}
+}

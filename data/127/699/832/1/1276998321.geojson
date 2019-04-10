@@ -1,0 +1,70 @@
+{
+  "id": 1276998321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.10514,14.48089,100.10514,14.48089",
+    "geom:latitude":14.48089,
+    "geom:longitude":100.10514,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Ban Khai Kao",
+    "gn:country_code":"TH",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8666736,
+    "gn:latitude":14.48089,
+    "gn:longitude":100.10514,
+    "gn:modification_date":"2014-01-18",
+    "gn:name":"Ban Khai Kao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e04\u0e48\u0e32\u0e22\u0e40\u0e01\u0e48\u0e32"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678679,
+        890466933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8666736
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"b545d2a053f7c19023315b0e5e0e11c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466933,
+            "locality_id":1276998321,
+            "region_id":85678679
+        }
+    ],
+    "wof:id":1276998321,
+    "wof:lastmodified":1537705799,
+    "wof:name":"Ban Khai Kao",
+    "wof:parent_id":890466933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.10514,
+    14.48089,
+    100.10514,
+    14.48089
+],
+  "geometry": {"coordinates":[100.10514000000001,14.48089],"type":"Point"}
+}

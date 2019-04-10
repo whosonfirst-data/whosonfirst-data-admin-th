@@ -1,0 +1,70 @@
+{
+  "id": 1242669467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.51669,17.99764,99.51669,17.99764",
+    "geom:latitude":17.99764,
+    "geom:longitude":99.51669,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Ban O",
+    "gn:country_code":"TH",
+    "gn:dem":340,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1118418,
+    "gn:latitude":17.99764,
+    "gn:longitude":99.51669,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Ban O",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2d\u0e49\u0e2d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678625,
+        1108802657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1118418
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"1776a82ec90fe4c33660e8f40ad67a1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802657,
+            "locality_id":1242669467,
+            "region_id":85678625
+        }
+    ],
+    "wof:id":1242669467,
+    "wof:lastmodified":1537702946,
+    "wof:name":"Ban O",
+    "wof:parent_id":1108802657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.51669,
+    17.99764,
+    99.51669,
+    17.99764
+],
+  "geometry": {"coordinates":[99.51669,17.99764],"type":"Point"}
+}

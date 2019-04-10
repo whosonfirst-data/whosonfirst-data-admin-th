@@ -1,0 +1,118 @@
+{
+  "id": 1108732069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.003212,
+    "geom:area_square_m":38631066.326159,
+    "geom:bbox":"99.83909412,13.4065068081,99.8928702814,13.4880026381",
+    "geom:latitude":13.447964,
+    "geom:longitude":99.866303,
+    "iso:country":"TH",
+    "lbl:latitude":13.449204,
+    "lbl:longitude":99.866812,
+    "meso:admin1_en":"RATCHABURI",
+    "meso:diss_me":"Wat PhlengRATCHABURI",
+    "meso:gadm_admin":"Wat Phleng",
+    "meso:gadm_hasc2":"TH.RT.WP",
+    "meso:gaul_admin":"Wat Phleng",
+    "meso:id":"788",
+    "meso:loc_id_alt":"7009",
+    "meso:local_id":"34803",
+    "meso:mps_x":99.866812,
+    "meso:mps_y":13.449204,
+    "meso:name_en":"Wat Phleng",
+    "meso:name_local":"\u0e27\u0e31\u0e14\u0e40\u0e1e\u0e25\u0e07",
+    "meso:source":"AOTM",
+    "mps:latitude":13.449204,
+    "mps:longitude":99.866812,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bpy_x_preferred":[
+        "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09f1\u09be\u09a4 \u09ab\u09cd\u09b2\u09c7\u0982"
+    ],
+    "name:eng_x_preferred":[
+        "Wat Phleng"
+    ],
+    "name:fre_x_preferred":[
+        "Wat Phleng"
+    ],
+    "name:ger_x_preferred":[
+        "Amphoe Wat Phleng"
+    ],
+    "name:ita_x_preferred":[
+        "Wat Phleng"
+    ],
+    "name:nan_x_preferred":[
+        "Wat Phleng K\u016bn"
+    ],
+    "name:rum_x_preferred":[
+        "Districtul Wat Phleng"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u0442 \u041f\u0445\u043b\u0435\u043d\u0433"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e27\u0e31\u0e14\u0e40\u0e1e\u0e25\u0e07"
+    ],
+    "name:vie_x_preferred":[
+        "Wat Phleng"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2000-04-01",
+    "statoids:area_km":"38",
+    "statoids:as_of_date":"2000-04-01",
+    "statoids:capital":"",
+    "statoids:country":"TH",
+    "statoids:hasc":"TH.RT",
+    "statoids:name":"Wat Phleng",
+    "statoids:population":"11932",
+    "statoids:statoid":"TH.RT.WP",
+    "statoids:timezone":"7",
+    "statoids:type":"district",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"TH.RT.WP",
+        "wd:id":"Q477050"
+    },
+    "wof:country":"TH",
+    "wof:created":1478799677,
+    "wof:geomhash":"1287ada8c60b8e20ba85373031a44fa6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108732069,
+            "region_id":85678761
+        }
+    ],
+    "wof:id":1108732069,
+    "wof:lastmodified":1536615654,
+    "wof:name":"Wat Phleng",
+    "wof:parent_id":85678761,
+    "wof:placetype":"county",
+    "wof:placetype_local":"district",
+    "wof:population":11932,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:shortcode":"WP",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.83909411995143,
+    13.40650680814668,
+    99.89287028143046,
+    13.4880026380598
+],
+  "geometry": {"coordinates":[[[99.84336181859722,13.45859953633256],[99.84363476374557,13.46942887612908],[99.84051194555119,13.47830790589004],[99.85455861968124,13.48738107360975],[99.85496908711721,13.48738777650354],[99.85710818455691,13.4880026380598],[99.86076125512112,13.48734005649412],[99.86913667704015,13.48038462171777],[99.87460401475801,13.48263087637214],[99.88265721416307,13.48395303397959],[99.88275985621246,13.4838634035897],[99.89073040543587,13.46663180405389],[99.89024742883367,13.46583403809453],[99.89217985011163,13.4590450255083],[99.8880052603769,13.44611485937148],[99.89051889861226,13.44280349011018],[99.89009798708459,13.43263553877745],[99.89126461122507,13.43153575283789],[99.89287028143046,13.4282307269778],[99.89210685972432,13.42070159634882],[99.88619408860873,13.41373875866],[99.87370430717127,13.42004598547878],[99.87142446102335,13.41947083383303],[99.86960019820643,13.4158210017226],[99.8645419163182,13.41073923154088],[99.85632084616941,13.41164987737038],[99.84838274573973,13.40650680814668],[99.84183630723646,13.41350451172957],[99.83909411995143,13.42068112337699],[99.84489616879539,13.42863587472775],[99.8457529288934,13.42896510398476],[99.84895872357151,13.43881838505902],[99.84737217719616,13.44337377090333],[99.84567542515641,13.45652171036668],[99.84442652656546,13.45806744551966],[99.84336181859722,13.45859953633256]]],"type":"Polygon"}
+}

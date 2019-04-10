@@ -1,0 +1,70 @@
+{
+  "id": 1344243009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.50881,16.30075,100.50881,16.30075",
+    "geom:latitude":16.30075,
+    "geom:longitude":100.50881,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Ban Nong Nok Yang",
+    "gn:country_code":"TH",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1600061,
+    "gn:latitude":16.30075,
+    "gn:longitude":100.50881,
+    "gn:modification_date":"2013-02-07",
+    "gn:name":"Ban Nong Nok Yang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e19\u0e2d\u0e07\u0e19\u0e01\u0e22\u0e32\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678669,
+        890466721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1600061
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"4424e2a81343bf13cdf6dd8d40a2d9a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466721,
+            "locality_id":1344243009,
+            "region_id":85678669
+        }
+    ],
+    "wof:id":1344243009,
+    "wof:lastmodified":1537703461,
+    "wof:name":"Ban Nong Nok Yang",
+    "wof:parent_id":890466721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.50881,
+    16.30075,
+    100.50881,
+    16.30075
+],
+  "geometry": {"coordinates":[100.50881,16.30075],"type":"Point"}
+}

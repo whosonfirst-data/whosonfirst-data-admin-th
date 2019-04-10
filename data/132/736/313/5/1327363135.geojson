@@ -1,0 +1,70 @@
+{
+  "id": 1327363135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.19717,17.64486,102.19717,17.64486",
+    "geom:latitude":17.64486,
+    "geom:longitude":102.19717,
+    "gn:admin1_code":"79.0",
+    "gn:asciiname":"Ban Non Mi Chai",
+    "gn:country_code":"TH",
+    "gn:dem":220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7683608,
+    "gn:latitude":17.64486,
+    "gn:longitude":102.19717,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Non Mi Chai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e42\u0e19\u0e19\u0e21\u0e35\u0e0a\u0e31\u0e22"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678871,
+        1108731955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7683608
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"9ddc4e9973cd42a733b8a65cab6f9dd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731955,
+            "locality_id":1327363135,
+            "region_id":85678871
+        }
+    ],
+    "wof:id":1327363135,
+    "wof:lastmodified":1537704626,
+    "wof:name":"Ban Non Mi Chai",
+    "wof:parent_id":1108731955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.19717,
+    17.64486,
+    102.19717,
+    17.64486
+],
+  "geometry": {"coordinates":[102.19717,17.64486],"type":"Point"}
+}

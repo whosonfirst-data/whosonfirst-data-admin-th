@@ -1,0 +1,72 @@
+{
+  "id": 1293512705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.48308,8.45106,98.48308,8.45106",
+    "geom:latitude":8.45106,
+    "geom:longitude":98.48308,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Ban Tak Daet",
+    "gn:country_code":"TH",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1154674,
+    "gn:latitude":8.45106,
+    "gn:longitude":98.48308,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Tak Daet",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e15\u0e32\u0e01\u0e41\u0e14\u0e14"
+    ],
+    "name:und_x_variant":[
+        "Ban Tak Daad",
+        "Ban Tak Daet"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632293,
+        890466041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1154674
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"54bf545d375490896532b171bfcc6078",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632293,
+            "county_id":890466041,
+            "locality_id":1293512705,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293512705,
+    "wof:lastmodified":1537703063,
+    "wof:name":"Ban Tak Daet",
+    "wof:parent_id":890466041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.48308,
+    8.45106,
+    98.48308,
+    8.45106
+],
+  "geometry": {"coordinates":[98.48308,8.45106],"type":"Point"}
+}

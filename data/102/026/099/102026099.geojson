@@ -1,0 +1,100 @@
+{
+  "id": 102026099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000263,
+    "geom:bbox":"104.388257399,15.5452121506,104.406908634,15.5632927093",
+    "geom:latitude":15.554252,
+    "geom:longitude":104.397583,
+    "iso:country":"TH",
+    "lbl:latitude":15.554253,
+    "lbl:longitude":104.397583,
+    "mps:latitude":15.554253,
+    "mps:longitude":104.397583,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bpy_x_preferred":[
+        "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u0996\u09be\u09ae \u0996\u09c1\u09af\u09bc\u09be\u09a8 \u0995\u09be\u09af\u09bc\u09c7\u0993"
+    ],
+    "name:deu_x_preferred":[
+        "Amphoe Kham Khuean Kaeo"
+    ],
+    "name:eng_x_preferred":[
+        "Kham Khuean Kaeo"
+    ],
+    "name:ron_x_preferred":[
+        "Districtul Kham Khuean Kaeo"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e04\u0e33\u0e40\u0e02\u0e37\u0e48\u0e2d\u0e19\u0e41\u0e01\u0e49\u0e27"
+    ],
+    "name:vie_x_preferred":[
+        "Kham Khuean Kaeo"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Kham Khuean Kaeo K\u016bn"
+    ],
+    "qs:a0":"Thailand",
+    "qs:a1":"*Yasothon",
+    "qs:a1r":"*",
+    "qs:a2":"Kham Khuean Kaeo",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Kham Khuean Kaeo",
+    "qs:loc_alt":"Kham Khuean Kaeo",
+    "qs:loc_lc":"7511003",
+    "qs:pop":0,
+    "qs:source":"Aquattroshapes",
+    "qs:type":"County",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":206,
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"07d3f816-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":7511003,
+        "gp:id":28341210,
+        "qs:id":206756,
+        "wd:id":"Q475626",
+        "wk:page":"Brainerd Dam"
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"330c465cd7e0a31f0b0dc794745f7be9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "locality_id":102026099,
+            "region_id":85678791
+        }
+    ],
+    "wof:id":102026099,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527637808,
+    "wof:name":"Kham Khuean Kaeo",
+    "wof:parent_id":85678791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.38825739949074,
+    15.54521215060532,
+    104.40690863370934,
+    15.56329270934752
+],
+  "geometry": {"coordinates":[[[104.39942804808034,15.54539081934762],[104.39760929283936,15.54521215060532],[104.39578952846524,15.54538088000618],[104.3940386785528,15.5458905238723],[104.39242401956177,15.54672149897242],[104.39100759659458,15.54784187477557],[104.38984383985071,15.54920860001069],[104.38897747323067,15.55076915647278],[104.38844179541302,15.55246357661751],[104.38825739949074,15.55422674750645],[104.38843138048169,15.55599091265286],[104.38895706133307,15.55768827568458],[104.38981424815584,15.55925360579492],[104.39097000508671,15.56062674484494],[104.39237991917922,15.5617549197213],[104.39398980684079,15.56259477100954],[104.39573779628803,15.56311401992595],[104.39755670596104,15.56329270934752],[104.39937662738554,15.56312397116152],[104.40112761305745,15.56261429038322],[104.40274236584885,15.56178325586372],[104.40415882637701,15.56066280717992],[104.40532255872402,15.55929600669833],[104.40618884270377,15.55773538407936],[104.406724392219,15.55604091693935],[104.40690863370934,15.55427772537122],[104.406734495668,15.55251356901005],[104.40620867905723,15.55081624289039],[104.40535139843412,15.54925097219937],[104.40419560394226,15.54787790603],[104.40278571424652,15.54674980640029],[104.40117590922524,15.54591002126871],[104.39942804808034,15.54539081934762]]],"type":"Polygon"}
+}

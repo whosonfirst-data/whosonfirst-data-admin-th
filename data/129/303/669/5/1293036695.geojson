@@ -1,0 +1,70 @@
+{
+  "id": 1293036695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.18286,15.6425,105.18286,15.6425",
+    "geom:latitude":15.6425,
+    "geom:longitude":105.18286,
+    "gn:admin1_code":"75.0",
+    "gn:asciiname":"Ban Loeng Nok Tha",
+    "gn:country_code":"TH",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8318852,
+    "gn:latitude":15.6425,
+    "gn:longitude":105.18286,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Ban Loeng Nok Tha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e25\u0e34\u0e07\u0e19\u0e01\u0e17\u0e32"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678783,
+        890466223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8318852
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"12a45ac29983a5789ab63814946d423f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466223,
+            "locality_id":1293036695,
+            "region_id":85678783
+        }
+    ],
+    "wof:id":1293036695,
+    "wof:lastmodified":1537705342,
+    "wof:name":"Ban Loeng Nok Tha",
+    "wof:parent_id":890466223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.18286,
+    15.6425,
+    105.18286,
+    15.6425
+],
+  "geometry": {"coordinates":[105.18286000000001,15.6425],"type":"Point"}
+}

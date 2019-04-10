@@ -1,0 +1,70 @@
+{
+  "id": 1259508417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.66275,13.87314,101.66275,13.87314",
+    "geom:latitude":13.87314,
+    "geom:longitude":101.66275,
+    "gn:admin1_code":"74",
+    "gn:asciiname":"Ban Khok Mai Siap",
+    "gn:country_code":"TH",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8749337,
+    "gn:latitude":13.87314,
+    "gn:longitude":101.66275,
+    "gn:modification_date":"2014-04-08",
+    "gn:name":"Ban Khok Mai Siap",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e42\u0e04\u0e01\u0e44\u0e21\u0e49\u0e40\u0e2a\u0e35\u0e22\u0e1a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678711,
+        1108731305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8749337
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"384499da51779082f9d808cd234706c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731305,
+            "locality_id":1259508417,
+            "region_id":85678711
+        }
+    ],
+    "wof:id":1259508417,
+    "wof:lastmodified":1537706032,
+    "wof:name":"Ban Khok Mai Siap",
+    "wof:parent_id":1108731305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.66275,
+    13.87314,
+    101.66275,
+    13.87314
+],
+  "geometry": {"coordinates":[101.66275,13.87314],"type":"Point"}
+}

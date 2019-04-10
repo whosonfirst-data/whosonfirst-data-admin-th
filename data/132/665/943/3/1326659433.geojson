@@ -1,0 +1,70 @@
+{
+  "id": 1326659433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.47317,7.08497,100.47317,7.08497",
+    "geom:latitude":7.08497,
+    "geom:longitude":100.47317,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Ban Na Rang Nok",
+    "gn:country_code":"TH",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8536895,
+    "gn:latitude":7.08497,
+    "gn:longitude":100.47317,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Ban Na Rang Nok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e19\u0e32\u0e23\u0e31\u0e07\u0e19\u0e01"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678603,
+        1108802577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8536895
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"6afa79d8d5c82436e3ee80114b21edcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802577,
+            "locality_id":1326659433,
+            "region_id":85678603
+        }
+    ],
+    "wof:id":1326659433,
+    "wof:lastmodified":1537705671,
+    "wof:name":"Ban Na Rang Nok",
+    "wof:parent_id":1108802577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.47317,
+    7.08497,
+    100.47317,
+    7.08497
+],
+  "geometry": {"coordinates":[100.47317,7.08497],"type":"Point"}
+}

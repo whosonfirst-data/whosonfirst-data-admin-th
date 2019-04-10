@@ -1,0 +1,70 @@
+{
+  "id": 1226189861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.06678,16.03022,102.06678,16.03022",
+    "geom:latitude":16.03022,
+    "geom:longitude":102.06678,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Ban Phu Song Chan",
+    "gn:country_code":"TH",
+    "gn:dem":546,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8371304,
+    "gn:latitude":16.03022,
+    "gn:longitude":102.06678,
+    "gn:modification_date":"2012-08-06",
+    "gn:name":"Ban Phu Song Chan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e20\u0e39\u0e2a\u0e2d\u0e07\u0e0a\u0e31\u0e49\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678825,
+        1108731313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8371304
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"16f9616a8161c10305dbc069f909b2f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731313,
+            "locality_id":1226189861,
+            "region_id":85678825
+        }
+    ],
+    "wof:id":1226189861,
+    "wof:lastmodified":1537705515,
+    "wof:name":"Ban Phu Song Chan",
+    "wof:parent_id":1108731313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.06678,
+    16.03022,
+    102.06678,
+    16.03022
+],
+  "geometry": {"coordinates":[102.06677999999999,16.03022],"type":"Point"}
+}

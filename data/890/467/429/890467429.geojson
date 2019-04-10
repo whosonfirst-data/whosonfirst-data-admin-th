@@ -1,0 +1,80 @@
+{
+  "id": 890467429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.81567,8.0509,98.81567,8.0509",
+    "geom:latitude":8.0509,
+    "geom:longitude":98.81567,
+    "gn:country":"TH",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424960,
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e15.\u0e2d\u0e48\u0e32\u0e27\u0e19\u0e32\u0e07"
+    ],
+    "name:tha_x_variant":[
+        "\u0e2d\u0e48\u0e32\u0e27\u0e19\u0e32\u0e07"
+    ],
+    "qs:name":"Ao Nang",
+    "qs:name_adm0":"Thailand",
+    "qs:name_adm1":"Krabi",
+    "qs:photos":5000,
+    "qs:photos_1k":1000,
+    "qs:photos_9k":22,
+    "qs:photos_9r":14,
+    "qs:photos_all":5000,
+    "qs:photos_sr":24,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":477,
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1120400,
+        "gp:id":55863748,
+        "qs:id":245516,
+        "wd:id":"Q375819",
+        "wk:page":"Ao Nang"
+    },
+    "wof:country":"TH",
+    "wof:created":1469053640,
+    "wof:geomhash":"02b635d5b7db13ba5ede048ee49f8eb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "locality_id":890467429,
+            "region_id":85678585
+        }
+    ],
+    "wof:id":890467429,
+    "wof:lastmodified":1527792899,
+    "wof:name":"Ao Nang",
+    "wof:parent_id":85678585,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.81567,
+    8.0509,
+    98.81567,
+    8.0509
+],
+  "geometry": {"coordinates":[98.81567,8.0509],"type":"Point"}
+}

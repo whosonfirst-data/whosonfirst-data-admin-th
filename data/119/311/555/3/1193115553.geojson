@@ -1,0 +1,73 @@
+{
+  "id": 1193115553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.97142,17.54492,99.97142,17.54492",
+    "geom:latitude":17.54492,
+    "geom:longitude":99.97142,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Ban Noen Kwao",
+    "gn:country_code":"TH",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8135840,
+    "gn:latitude":17.54492,
+    "gn:longitude":99.97142,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Ban Noen Kwao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "Ban Noen Kwao"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e19\u0e34\u0e19\u0e01\u0e27\u0e49\u0e32\u0e27"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678657,
+        1108731475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8135840
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"96aeea479a9e3f9d86c9585d722e74c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731475,
+            "locality_id":1193115553,
+            "region_id":85678657
+        }
+    ],
+    "wof:id":1193115553,
+    "wof:lastmodified":1537704979,
+    "wof:name":"Ban Noen Kwao",
+    "wof:parent_id":1108731475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.97142,
+    17.54492,
+    99.97142,
+    17.54492
+],
+  "geometry": {"coordinates":[99.97141999999999,17.54492],"type":"Point"}
+}

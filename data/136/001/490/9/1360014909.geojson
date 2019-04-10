@@ -1,0 +1,70 @@
+{
+  "id": 1360014909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.85822,14.04181,102.85822,14.04181",
+    "geom:latitude":14.04181,
+    "geom:longitude":102.85822,
+    "gn:admin1_code":"80.0",
+    "gn:asciiname":"Ban Khok Thahan",
+    "gn:country_code":"TH",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1949380,
+    "gn:latitude":14.04181,
+    "gn:longitude":102.85822,
+    "gn:modification_date":"2014-04-06",
+    "gn:name":"Ban Khok Thahan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e42\u0e04\u0e01\u0e17\u0e2b\u0e32\u0e23"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678805,
+        1108731959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1949380
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"0077a9ef0927e5a92f78cbfe5d1f40f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731959,
+            "locality_id":1360014909,
+            "region_id":85678805
+        }
+    ],
+    "wof:id":1360014909,
+    "wof:lastmodified":1537704298,
+    "wof:name":"Ban Khok Thahan",
+    "wof:parent_id":1108731959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.85822,
+    14.04181,
+    102.85822,
+    14.04181
+],
+  "geometry": {"coordinates":[102.85822,14.04181],"type":"Point"}
+}

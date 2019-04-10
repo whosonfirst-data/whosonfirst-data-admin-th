@@ -1,0 +1,70 @@
+{
+  "id": 1293536685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.80331,15.01086,102.80331,15.01086",
+    "geom:latitude":15.01086,
+    "geom:longitude":102.80331,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Ban Thaen Phra",
+    "gn:country_code":"TH",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1612769,
+    "gn:latitude":15.01086,
+    "gn:longitude":102.80331,
+    "gn:modification_date":"2014-08-05",
+    "gn:name":"Ban Thaen Phra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e41\u0e17\u0e48\u0e19\u0e1e\u0e23\u0e30"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678817,
+        1108731457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1612769
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"eea33cb1a75803b88274c703abeb236f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731457,
+            "locality_id":1293536685,
+            "region_id":85678817
+        }
+    ],
+    "wof:id":1293536685,
+    "wof:lastmodified":1537703726,
+    "wof:name":"Ban Thaen Phra",
+    "wof:parent_id":1108731457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.80331,
+    15.01086,
+    102.80331,
+    15.01086
+],
+  "geometry": {"coordinates":[102.80331,15.01086],"type":"Point"}
+}

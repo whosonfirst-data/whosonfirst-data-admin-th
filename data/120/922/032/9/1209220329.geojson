@@ -1,0 +1,64 @@
+{
+  "id": 1209220329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.85125,19.2775,100.85125,19.2775",
+    "geom:latitude":19.2775,
+    "geom:longitude":100.85125,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Ban Sali",
+    "gn:country_code":"TH",
+    "gn:dem":254,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1598465,
+    "gn:latitude":19.2775,
+    "gn:longitude":100.85125,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Ban Sali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2a\u0e25\u0e35"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1598465
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"41e737ed638e6804cc1b268d8219ed51",
+    "wof:hierarchy":[
+        {
+            "country_id":85632293,
+            "locality_id":1209220329
+        }
+    ],
+    "wof:id":1209220329,
+    "wof:lastmodified":1537703403,
+    "wof:name":"Ban Sali",
+    "wof:parent_id":85632293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.85125,
+    19.2775,
+    100.85125,
+    19.2775
+],
+  "geometry": {"coordinates":[100.85124999999999,19.2775],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293712031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.30481,18.30919,103.30481,18.30919",
+    "geom:latitude":18.30919,
+    "geom:longitude":103.30481,
+    "gn:admin1_code":"81.0",
+    "gn:asciiname":"Ban Non Ho",
+    "gn:country_code":"TH",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1599585,
+    "gn:latitude":18.30919,
+    "gn:longitude":103.30481,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Ban Non Ho",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678895,
+        1108802713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1599585
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"a2b1578e0767c3acd570dbd3275d4364",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802713,
+            "locality_id":1293712031,
+            "region_id":85678895
+        }
+    ],
+    "wof:id":1293712031,
+    "wof:lastmodified":1536960700,
+    "wof:name":"Ban Non Ho",
+    "wof:parent_id":1108802713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.30481,
+    18.30919,
+    103.30481,
+    18.30919
+],
+  "geometry": {"coordinates":[103.30481,18.30919],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243028631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.49222,15.15742,104.49222,15.15742",
+    "geom:latitude":15.15742,
+    "geom:longitude":104.49222,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Ban Bua Noi",
+    "gn:country_code":"TH",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7877636,
+    "gn:latitude":15.15742,
+    "gn:longitude":104.49222,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Bua Noi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1a\u0e31\u0e27\u0e19\u0e49\u0e2d\u0e22"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678779,
+        1108731329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7877636
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"ca178b58004bf11185ef1d80658e5adf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731329,
+            "locality_id":1243028631,
+            "region_id":85678779
+        }
+    ],
+    "wof:id":1243028631,
+    "wof:lastmodified":1537704779,
+    "wof:name":"Ban Bua Noi",
+    "wof:parent_id":1108731329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.49222,
+    15.15742,
+    104.49222,
+    15.15742
+],
+  "geometry": {"coordinates":[104.49222,15.15742],"type":"Point"}
+}

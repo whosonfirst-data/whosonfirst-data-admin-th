@@ -1,0 +1,70 @@
+{
+  "id": 1309774769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.33339,15.85489,102.33339,15.85489",
+    "geom:latitude":15.85489,
+    "geom:longitude":102.33339,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Ban Tha Nang Naeo",
+    "gn:country_code":"TH",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9001734,
+    "gn:latitude":15.85489,
+    "gn:longitude":102.33339,
+    "gn:modification_date":"2014-05-01",
+    "gn:name":"Ban Tha Nang Naeo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e17\u0e48\u0e32\u0e19\u0e32\u0e07\u0e41\u0e19\u0e27"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678827,
+        1108732043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9001734
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"463e5acc77d79966e542c44d48635e0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108732043,
+            "locality_id":1309774769,
+            "region_id":85678827
+        }
+    ],
+    "wof:id":1309774769,
+    "wof:lastmodified":1537706080,
+    "wof:name":"Ban Tha Nang Naeo",
+    "wof:parent_id":1108732043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.33339,
+    15.85489,
+    102.33339,
+    15.85489
+],
+  "geometry": {"coordinates":[102.33338999999999,15.85489],"type":"Point"}
+}

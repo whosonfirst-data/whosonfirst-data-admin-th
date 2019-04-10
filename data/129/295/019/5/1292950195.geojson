@@ -1,0 +1,70 @@
+{
+  "id": 1292950195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.11636,15.45006,104.11636,15.45006",
+    "geom:latitude":15.45006,
+    "geom:longitude":104.11636,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Ban Koi Noi",
+    "gn:country_code":"TH",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8536120,
+    "gn:latitude":15.45006,
+    "gn:longitude":104.11636,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Ban Koi Noi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e01\u0e2d\u0e22\u0e19\u0e49\u0e2d\u0e22"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678779,
+        1108731797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8536120
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"11a2dae2a706f74c7bedfe90c0c7ae4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731797,
+            "locality_id":1292950195,
+            "region_id":85678779
+        }
+    ],
+    "wof:id":1292950195,
+    "wof:lastmodified":1537705663,
+    "wof:name":"Ban Koi Noi",
+    "wof:parent_id":1108731797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.11636,
+    15.45006,
+    104.11636,
+    15.45006
+],
+  "geometry": {"coordinates":[104.11636,15.45006],"type":"Point"}
+}

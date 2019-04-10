@@ -1,0 +1,70 @@
+{
+  "id": 1260350283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.96447,14.7765,102.96447,14.7765",
+    "geom:latitude":14.7765,
+    "geom:longitude":102.96447,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Ban Khok Lamduan",
+    "gn:country_code":"TH",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9282094,
+    "gn:latitude":14.7765,
+    "gn:longitude":102.96447,
+    "gn:modification_date":"2014-08-07",
+    "gn:name":"Ban Khok Lamduan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e42\u0e04\u0e01\u0e25\u0e33\u0e14\u0e27\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678817,
+        890466883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9282094
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"7fcf0b8c9ea3a1a32436423abe62f632",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466883,
+            "locality_id":1260350283,
+            "region_id":85678817
+        }
+    ],
+    "wof:id":1260350283,
+    "wof:lastmodified":1537706234,
+    "wof:name":"Ban Khok Lamduan",
+    "wof:parent_id":890466883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.96447,
+    14.7765,
+    102.96447,
+    14.7765
+],
+  "geometry": {"coordinates":[102.96447000000001,14.7765],"type":"Point"}
+}

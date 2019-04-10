@@ -1,0 +1,68 @@
+{
+  "id": 1209415709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.13606,20.05797,100.13606,20.05797",
+    "geom:latitude":20.05797,
+    "geom:longitude":100.13606,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ban Pa Sang Nuea",
+    "gn:country_code":"TH",
+    "gn:dem":405,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1950431,
+    "gn:latitude":20.05797,
+    "gn:longitude":100.13606,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ban Pa Sang Nuea",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1b\u0e48\u0e32\u0e0b\u0e32\u0e07\u0e40\u0e2b\u0e19\u0e37\u0e2d"
+    ],
+    "name:und_x_variant":[
+        "Ban Pa Sang Nua",
+        "Ban Pa Sang Nuea"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1950431
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"5043f7f6cf85142d5aa9b1519f98ba6f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632293,
+            "locality_id":1209415709
+        }
+    ],
+    "wof:id":1209415709,
+    "wof:lastmodified":1537704305,
+    "wof:name":"Ban Pa Sang Nuea",
+    "wof:parent_id":85632293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.13606,
+    20.05797,
+    100.13606,
+    20.05797
+],
+  "geometry": {"coordinates":[100.13606,20.05797],"type":"Point"}
+}

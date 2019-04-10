@@ -1,0 +1,74 @@
+{
+  "id": 1243589613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.344,10.74814,99.344,10.74814",
+    "geom:latitude":10.74814,
+    "geom:longitude":99.344,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Ban Nong Bo",
+    "gn:country_code":"TH",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1155955,
+    "gn:latitude":10.74814,
+    "gn:longitude":99.344,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Ban Nong Bo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e19\u0e2d\u0e07\u0e1a\u0e48\u0e2d"
+    ],
+    "name:und_x_variant":[
+        "Hnohng-boh",
+        "Ban Nong Bo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678559,
+        890466197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1155955
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"c00f2b346ef653e67e1672fd43f1b3ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466197,
+            "locality_id":1243589613,
+            "region_id":85678559
+        }
+    ],
+    "wof:id":1243589613,
+    "wof:lastmodified":1537703155,
+    "wof:name":"Ban Nong Bo",
+    "wof:parent_id":890466197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.344,
+    10.74814,
+    99.344,
+    10.74814
+],
+  "geometry": {"coordinates":[99.34399999999999,10.74814],"type":"Point"}
+}

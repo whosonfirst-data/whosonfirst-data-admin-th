@@ -1,0 +1,76 @@
+{
+  "id": 1310007985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.53186,20.09967,99.53186,20.09967",
+    "geom:latitude":20.09967,
+    "geom:longitude":99.53186,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Suk Ruethai",
+    "gn:country_code":"TH",
+    "gn:dem":585,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7323410,
+    "gn:latitude":20.09967,
+    "gn:longitude":99.53186,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Suk Ruethai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2a\u0e38\u0e02\u0e24\u0e17\u0e31\u0e22"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e31\u0e27\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e07\u0e32\u0e21"
+    ],
+    "name:und_x_variant":[
+        "Ban Hua Mueang Ngam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678619,
+        890467229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7323410
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"35f470fdc1e830da1b5f22cbfc955e2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890467229,
+            "locality_id":1310007985,
+            "region_id":85678619
+        }
+    ],
+    "wof:id":1310007985,
+    "wof:lastmodified":1537704448,
+    "wof:name":"Ban Suk Ruethai",
+    "wof:parent_id":890467229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.53186,
+    20.09967,
+    99.53186,
+    20.09967
+],
+  "geometry": {"coordinates":[99.53185999999999,20.09967],"type":"Point"}
+}

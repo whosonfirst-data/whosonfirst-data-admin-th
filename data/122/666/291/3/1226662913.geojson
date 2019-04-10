@@ -1,0 +1,77 @@
+{
+  "id": 1226662913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.32192,7.37664,100.32192,7.37664",
+    "geom:latitude":7.37664,
+    "geom:longitude":100.32192,
+    "gn:admin1_code":"66.0",
+    "gn:asciiname":"Ban Pho Chi",
+    "gn:country_code":"TH",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8538957,
+    "gn:latitude":7.37664,
+    "gn:longitude":100.32192,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Ban Pho Chi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e42\u0e1e\u0e18\u0e34\u0e4c\u0e0a\u0e35"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        1108802715,
+        1108731675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8538957
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"1fff22eac66003257da4b45d7fc7f3ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802715,
+            "locality_id":1226662913,
+            "region_id":-1
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731675,
+            "locality_id":1226662913,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226662913,
+    "wof:lastmodified":1537705681,
+    "wof:name":"Ban Pho Chi",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.32192,
+    7.37664,
+    100.32192,
+    7.37664
+],
+  "geometry": {"coordinates":[100.32192000000001,7.37664],"type":"Point"}
+}

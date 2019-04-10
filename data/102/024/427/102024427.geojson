@@ -1,0 +1,68 @@
+{
+  "id": 102024427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000061,
+    "geom:bbox":"99.3831123048,18.2867340236,99.3971463712,18.2959324824",
+    "geom:latitude":18.290117,
+    "geom:longitude":99.389624,
+    "iso:country":"TH",
+    "lbl:latitude":18.289342,
+    "lbl:longitude":99.38847,
+    "mps:latitude":18.289342,
+    "mps:longitude":99.38847,
+    "mz:hierarchy_label":1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2a\u0e31\u0e19\u0e2b\u0e25\u0e27\u0e07"
+    ],
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Ban San Luang",
+    "qs:loc_lc":"1154855",
+    "qs:pop":0,
+    "qs:source":"Aquattroshapes",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1154855
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"870b785ee6d4875926a166d4a525dd0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "locality_id":102024427,
+            "region_id":85678625
+        }
+    ],
+    "wof:id":102024427,
+    "wof:lastmodified":1501216987,
+    "wof:name":"Ban San Luang",
+    "wof:parent_id":85678625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.38311230479674,
+    18.28673402364998,
+    99.3971463711567,
+    18.29593248238496
+],
+  "geometry": {"coordinates":[[[[99.3933105469,18.29194973359996],[99.3933105469,18.28673406290001],[99.38781738280004,18.28673406290001],[99.38781738280004,18.28673402364998],[99.38394512695633,18.28673402364998],[99.38311230479674,18.29111954891124],[99.38547697458198,18.29194973359996],[99.38781738280004,18.29194973359996],[99.3933105469,18.29194973359996]]],[[[99.3933105469,18.29194973359996],[99.3933105469,18.29469993231157],[99.39682130053934,18.29593248238496],[99.39714637115669,18.29581835536486],[99.39592193633011,18.29194973359996],[99.3933105469,18.29194973359996]]]],"type":"MultiPolygon"}
+}

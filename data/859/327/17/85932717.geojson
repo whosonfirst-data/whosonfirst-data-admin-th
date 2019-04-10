@@ -1,0 +1,106 @@
+{
+  "id": 85932717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000014,
+    "geom:area_square_m":172050.755538,
+    "geom:bbox":"100.524455179,13.7520377246,100.529022217,13.7560794213",
+    "geom:latitude":13.75412,
+    "geom:longitude":100.526978,
+    "gn:id":"",
+    "iso:country":"TH",
+    "lbl:latitude":13.754339,
+    "lbl:longitude":100.527233,
+    "mps:latitude":13.754059,
+    "mps:longitude":100.527022,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":5,
+    "name:eng_x_preferred":[
+        "Thanon Phet Buri"
+    ],
+    "name:unk_x_variant":[
+        "Thanon Phet Buri"
+    ],
+    "qs:gn_adm0_cc":"TH",
+    "qs:gn_id":0,
+    "qs:gn_local":1609350,
+    "qs:gn_nam_loc":"Bangkok, Bangkok, TH",
+    "qs:gn_namadm1":"40",
+    "qs:local_max":21510,
+    "qs:local_sum":280580,
+    "qs:localhoods":117,
+    "qs:name":"Thanon Phet Buri",
+    "qs:name_adm0":"Thailand",
+    "qs:name_adm1":"Bangkok",
+    "qs:name_adm2":"Ratchathewi",
+    "qs:name_local":"Bangkok",
+    "qs:photo_max":40,
+    "qs:photo_sum":119,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":5,
+    "qs:woe_adm0":23424960,
+    "qs:woe_adm1":2347165,
+    "qs:woe_adm2":28341412,
+    "qs:woe_lau":0,
+    "qs:woe_local":1225448,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85678739,
+        102191569,
+        85632293,
+        102025263,
+        890466393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55948144,
+        "qs:id":383486,
+        "qs_pg:id":383486
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"e7b8c6b59170ffaba893298bf81e0cc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466393,
+            "locality_id":102025263,
+            "neighbourhood_id":85932717,
+            "region_id":85678739
+        }
+    ],
+    "wof:id":85932717,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527269310,
+    "wof:name":"Thanon Phet Buri",
+    "wof:parent_id":102025263,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.5244551785782,
+    13.75203772464279,
+    100.52902221700015,
+    13.75607942129899
+],
+  "geometry": {"coordinates":[[[100.52902221700015,13.75560813983377],[100.52902221700015,13.75539248879993],[100.52902221700015,13.75405857913347],[100.52902221700015,13.75272466440005],[100.52902221700015,13.75250899805287],[100.5276489260001,13.75203772464279],[100.52564718313459,13.75272466440005],[100.52514677264679,13.75289639068168],[100.52504974982787,13.75287641337228],[100.52490234400005,13.75333168438641],[100.52445517857819,13.75471277940903],[100.52458059217167,13.7549968355987],[100.52487949686082,13.75539248879993],[100.52490234400005,13.75542273102795],[100.52494548484225,13.7554798355598],[100.52555406521998,13.75585576576562],[100.52627563500016,13.75560813983377],[100.5276489260001,13.75607942129899],[100.52902221700015,13.75560813983377]]],"type":"Polygon"}
+}

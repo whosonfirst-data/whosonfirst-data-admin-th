@@ -1,0 +1,73 @@
+{
+  "id": 1226520627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.09942,17.52706,100.09942,17.52706",
+    "geom:latitude":17.52706,
+    "geom:longitude":100.09942,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Ban Pa Thon",
+    "gn:country_code":"TH",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8136680,
+    "gn:latitude":17.52706,
+    "gn:longitude":100.09942,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Ban Pa Thon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "Ban Pa Thon"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1b\u0e48\u0e32\u0e16\u0e48\u0e2d\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678657,
+        890466775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8136680
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"64096c6e4903936bb883ddbc705e4996",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466775,
+            "locality_id":1226520627,
+            "region_id":85678657
+        }
+    ],
+    "wof:id":1226520627,
+    "wof:lastmodified":1537704996,
+    "wof:name":"Ban Pa Thon",
+    "wof:parent_id":890466775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.09942,
+    17.52706,
+    100.09942,
+    17.52706
+],
+  "geometry": {"coordinates":[100.09941999999999,17.52706],"type":"Point"}
+}

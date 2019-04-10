@@ -1,0 +1,70 @@
+{
+  "id": 1277075039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.43947,20.19578,100.43947,20.19578",
+    "geom:latitude":20.19578,
+    "geom:longitude":100.43947,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ban Ten",
+    "gn:country_code":"TH",
+    "gn:dem":359,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1612835,
+    "gn:latitude":20.19578,
+    "gn:longitude":100.43947,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Ten",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e15\u0e48\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678617,
+        1108802595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1612835
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"2644e4daa7255b01cb77d72ebdf3ac75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802595,
+            "locality_id":1277075039,
+            "region_id":85678617
+        }
+    ],
+    "wof:id":1277075039,
+    "wof:lastmodified":1537703731,
+    "wof:name":"Ban Ten",
+    "wof:parent_id":1108802595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.43947,
+    20.19578,
+    100.43947,
+    20.19578
+],
+  "geometry": {"coordinates":[100.43947,20.19578],"type":"Point"}
+}

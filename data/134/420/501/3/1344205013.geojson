@@ -1,0 +1,70 @@
+{
+  "id": 1344205013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.18622,15.97042,102.18622,15.97042",
+    "geom:latitude":15.97042,
+    "geom:longitude":102.18622,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Ban Sap Mak Kut",
+    "gn:country_code":"TH",
+    "gn:dem":239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8370932,
+    "gn:latitude":15.97042,
+    "gn:longitude":102.18622,
+    "gn:modification_date":"2012-08-06",
+    "gn:name":"Ban Sap Mak Kut",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e0b\u0e31\u0e1a\u0e2b\u0e21\u0e32\u0e01\u0e01\u0e39\u0e14"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678825,
+        1108731397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8370932
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"6432d5210047636a5be2bff3783cd606",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731397,
+            "locality_id":1344205013,
+            "region_id":85678825
+        }
+    ],
+    "wof:id":1344205013,
+    "wof:lastmodified":1537705512,
+    "wof:name":"Ban Sap Mak Kut",
+    "wof:parent_id":1108731397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.18622,
+    15.97042,
+    102.18622,
+    15.97042
+],
+  "geometry": {"coordinates":[102.18622000000001,15.97042],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1326859759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.78358,15.60631,104.78358,15.60631",
+    "geom:latitude":15.60631,
+    "geom:longitude":104.78358,
+    "gn:admin1_code":"75.0",
+    "gn:asciiname":"Ban Tha Lat",
+    "gn:country_code":"TH",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1612622,
+    "gn:latitude":15.60631,
+    "gn:longitude":104.78358,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Ban Tha Lat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e17\u0e48\u0e32\u0e25\u0e32\u0e14"
+    ],
+    "name:und_x_variant":[
+        "Ban Lai",
+        "Ban Tha Lat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678783,
+        1108731533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1612622
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"3a8e4b2693dce61d8d4ad35ad7c63bf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731533,
+            "locality_id":1326859759,
+            "region_id":85678783
+        }
+    ],
+    "wof:id":1326859759,
+    "wof:lastmodified":1537703717,
+    "wof:name":"Ban Tha Lat",
+    "wof:parent_id":1108731533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.78358,
+    15.60631,
+    104.78358,
+    15.60631
+],
+  "geometry": {"coordinates":[104.78358,15.60631],"type":"Point"}
+}

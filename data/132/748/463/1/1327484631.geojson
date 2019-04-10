@@ -1,0 +1,70 @@
+{
+  "id": 1327484631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.5115,15.40172,102.5115,15.40172",
+    "geom:latitude":15.40172,
+    "geom:longitude":102.5115,
+    "gn:admin1_code":"27",
+    "gn:asciiname":"Ban Nong Talo",
+    "gn:country_code":"TH",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9108984,
+    "gn:latitude":15.40172,
+    "gn:longitude":102.5115,
+    "gn:modification_date":"2014-06-07",
+    "gn:name":"Ban Nong Talo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e19\u0e2d\u0e07\u0e15\u0e32\u0e42\u0e25"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678841,
+        1108802695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9108984
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"c9e81ce9000f667cde56329a3345aa72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802695,
+            "locality_id":1327484631,
+            "region_id":85678841
+        }
+    ],
+    "wof:id":1327484631,
+    "wof:lastmodified":1537706188,
+    "wof:name":"Ban Nong Talo",
+    "wof:parent_id":1108802695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.5115,
+    15.40172,
+    102.5115,
+    15.40172
+],
+  "geometry": {"coordinates":[102.5115,15.40172],"type":"Point"}
+}

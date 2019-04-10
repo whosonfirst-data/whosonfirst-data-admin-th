@@ -1,0 +1,73 @@
+{
+  "id": 1276565475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.38072,17.44411,104.38072,17.44411",
+    "geom:latitude":17.44411,
+    "geom:longitude":104.38072,
+    "gn:admin1_code":"73.0",
+    "gn:asciiname":"Ban Na Lom",
+    "gn:country_code":"TH",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8026877,
+    "gn:latitude":17.44411,
+    "gn:longitude":104.38072,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Na Lom",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "Ban Na Lom"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e19\u0e32\u0e25\u0e49\u0e2d\u0e21"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678879,
+        1108731731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8026877
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"1d3d4713cc06bd2e32e072effcbeaad5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731731,
+            "locality_id":1276565475,
+            "region_id":85678879
+        }
+    ],
+    "wof:id":1276565475,
+    "wof:lastmodified":1537704906,
+    "wof:name":"Ban Na Lom",
+    "wof:parent_id":1108731731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.38072,
+    17.44411,
+    104.38072,
+    17.44411
+],
+  "geometry": {"coordinates":[104.38072,17.44411],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1243151071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.49078,16.02072,100.49078,16.02072",
+    "geom:latitude":16.02072,
+    "geom:longitude":100.49078,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Ban Wang Taku",
+    "gn:country_code":"TH",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1611849,
+    "gn:latitude":16.02072,
+    "gn:longitude":100.49078,
+    "gn:modification_date":"2013-02-07",
+    "gn:name":"Ban Wang Taku",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e27\u0e31\u0e07\u0e15\u0e30\u0e01\u0e39"
+    ],
+    "name:und_x_variant":[
+        "Ban Wang Gatu",
+        "Ban Wang Katu",
+        "Ban Wang Taku"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678669,
+        890465835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1611849
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"14efe9554bf546f5b8253b68cd3d8fb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465835,
+            "locality_id":1243151071,
+            "region_id":85678669
+        }
+    ],
+    "wof:id":1243151071,
+    "wof:lastmodified":1537703662,
+    "wof:name":"Ban Wang Taku",
+    "wof:parent_id":890465835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.49078,
+    16.02072,
+    100.49078,
+    16.02072
+],
+  "geometry": {"coordinates":[100.49078,16.02072],"type":"Point"}
+}

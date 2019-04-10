@@ -1,0 +1,70 @@
+{
+  "id": 1243092395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.63403,6.01442,101.63403,6.01442",
+    "geom:latitude":6.01442,
+    "geom:longitude":101.63403,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Ban Mue Ba Rae Nae",
+    "gn:country_code":"TH",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7000270,
+    "gn:latitude":6.01442,
+    "gn:longitude":101.63403,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ban Mue Ba Rae Nae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e21\u0e37\u0e2d\u0e1a\u0e32\u0e41\u0e23\u0e41\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678885,
+        1108731223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7000270
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"6a844b2da35798fefd585b6126d86b36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731223,
+            "locality_id":1243092395,
+            "region_id":85678885
+        }
+    ],
+    "wof:id":1243092395,
+    "wof:lastmodified":1537704375,
+    "wof:name":"Ban Mue Ba Rae Nae",
+    "wof:parent_id":1108731223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.63403,
+    6.01442,
+    101.63403,
+    6.01442
+],
+  "geometry": {"coordinates":[101.63403,6.01442],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1276467317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.78556,11.868,99.78556,11.868",
+    "geom:latitude":11.868,
+    "geom:longitude":99.78556,
+    "gn:admin1_code":"57.0",
+    "gn:asciiname":"Ban Bueng",
+    "gn:country_code":"TH",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1158095,
+    "gn:latitude":11.868,
+    "gn:longitude":99.78556,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Ban Bueng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1a\u0e36\u0e07"
+    ],
+    "name:und_x_variant":[
+        "Bung",
+        "B\u0101n Boeng",
+        "Ban Bung (1)",
+        "Ban Bueng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678757,
+        890466989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1158095
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"5455fc5cf1c5a06b5adf56f3af1cc64b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466989,
+            "locality_id":1276467317,
+            "region_id":85678757
+        }
+    ],
+    "wof:id":1276467317,
+    "wof:lastmodified":1537703296,
+    "wof:name":"Ban Bueng",
+    "wof:parent_id":890466989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.78556,
+    11.868,
+    99.78556,
+    11.868
+],
+  "geometry": {"coordinates":[99.78556,11.868],"type":"Point"}
+}

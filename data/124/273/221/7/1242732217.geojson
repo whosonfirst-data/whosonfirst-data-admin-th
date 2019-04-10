@@ -1,0 +1,70 @@
+{
+  "id": 1242732217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.37867,15.88894,101.37867,15.88894",
+    "geom:latitude":15.88894,
+    "geom:longitude":101.37867,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Ban Sap Prasit",
+    "gn:country_code":"TH",
+    "gn:dem":318,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8369183,
+    "gn:latitude":15.88894,
+    "gn:longitude":101.37867,
+    "gn:modification_date":"2012-08-06",
+    "gn:name":"Ban Sap Prasit",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e0b\u0e31\u0e1a\u0e1b\u0e23\u0e30\u0e2a\u0e34\u0e17\u0e18\u0e34\u0e4c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678825,
+        1108731697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8369183
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"bd177d5404add0c9d5b64bc038d1ef05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731697,
+            "locality_id":1242732217,
+            "region_id":85678825
+        }
+    ],
+    "wof:id":1242732217,
+    "wof:lastmodified":1537705493,
+    "wof:name":"Ban Sap Prasit",
+    "wof:parent_id":1108731697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.37867,
+    15.88894,
+    101.37867,
+    15.88894
+],
+  "geometry": {"coordinates":[101.37867,15.88894],"type":"Point"}
+}

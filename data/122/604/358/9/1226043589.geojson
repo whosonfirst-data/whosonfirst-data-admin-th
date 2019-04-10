@@ -1,0 +1,70 @@
+{
+  "id": 1226043589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.01936,20.34331,100.01936,20.34331",
+    "geom:latitude":20.34331,
+    "geom:longitude":100.01936,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ban Doi Sa-ngo Bon",
+    "gn:country_code":"TH",
+    "gn:dem":660,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1950472,
+    "gn:latitude":20.34331,
+    "gn:longitude":100.01936,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ban Doi Sa-ngo Bon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e14\u0e2d\u0e22\u0e2a\u0e30\u0e42\u0e07\u0e30\u0e1a\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678617,
+        890465683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1950472
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"b78fc0f51627d623b542150a3a819087",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465683,
+            "locality_id":1226043589,
+            "region_id":85678617
+        }
+    ],
+    "wof:id":1226043589,
+    "wof:lastmodified":1537704305,
+    "wof:name":"Ban Doi Sa-ngo Bon",
+    "wof:parent_id":890465683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.01936,
+    20.34331,
+    100.01936,
+    20.34331
+],
+  "geometry": {"coordinates":[100.01936000000001,20.34331],"type":"Point"}
+}

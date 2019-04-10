@@ -1,0 +1,105 @@
+{
+  "id": 102024121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000267,
+    "geom:bbox":"99.2025891746,18.0062652345,99.2214830846,18.024342361",
+    "geom:latitude":18.015304,
+    "geom:longitude":99.212036,
+    "iso:country":"TH",
+    "lbl:latitude":18.015304,
+    "lbl:longitude":99.212036,
+    "mps:latitude":18.015304,
+    "mps:longitude":99.212036,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bpy_x_preferred":[
+        "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09b8\u09cb\u09af\u09bc\u09c7\u09ae \u0999\u09be\u09ae"
+    ],
+    "name:deu_x_preferred":[
+        "Amphoe Soem Ngam"
+    ],
+    "name:eng_x_preferred":[
+        "Soem Ngam"
+    ],
+    "name:ron_x_preferred":[
+        "Districtul Soem Ngam"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e40\u0e2a\u0e23\u0e34\u0e21\u0e07\u0e32\u0e21"
+    ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e2a\u0e23\u0e34\u0e21\u0e07\u0e32\u0e21"
+    ],
+    "name:unk_x_variant":[
+        "Amphoe Soem Ngam"
+    ],
+    "name:vie_x_preferred":[
+        "Soem Ngam"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Soem Ngam K\u016bn"
+    ],
+    "qs:a0":"Thailand",
+    "qs:a1":"*Lampang",
+    "qs:a1r":"*",
+    "qs:a2":"Soem Ngam",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Soem Ngam",
+    "qs:loc_alt":"Soem Ngam",
+    "qs:loc_lc":"1150607",
+    "qs:pop":0,
+    "qs:source":"Aquattroshapes",
+    "qs:type":"County",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":225,
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"07cf50ea-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":1150607,
+        "gp:id":28340850,
+        "qs:id":1175982,
+        "wd:id":"Q250854"
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"198946ba291c4c30c25eab482096071a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "locality_id":102024121,
+            "region_id":85678625
+        }
+    ],
+    "wof:id":102024121,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527636442,
+    "wof:name":"Soem Ngam",
+    "wof:parent_id":85678625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.20258917464197,
+    18.00626523452978,
+    99.22148308461071,
+    18.02434236103659
+],
+  "geometry": {"coordinates":[[[99.21386844848506,18.0064368822444],[99.21202532361794,18.00626523452978],[99.2101826137805,18.00644091652042],[99.20841112282331,18.00695717795492],[99.20677891934061,18.00779418208474],[99.20534872217245,18.00891976755003],[99.20417549104162,18.01029068367846],[99.20330431478028,18.01185425183235],[99.20276867825483,18.01355038907305],[99.20258917464197,18.01531391648959],[99.20277271268033,18.01707706357685],[99.20331224957131,18.01877207248555],[99.20418706003609,18.02033380208444],[99.20536353143241,18.02170223173643],[99.20679645457984,18.02282476850442],[99.20843076082438,18.02365826902245],[99.2102036386333,18.02417069821956],[99.21204694832973,18.02434236103659],[99.21388984203013,18.02416665970657],[99.21566148789243,18.02365034743541],[99.21729379373961,18.02281326871095],[99.21872402514741,18.02168759624948],[99.21989721718036,18.02031659396755],[99.2207682869588,18.01875295361916],[99.22130376582716,18.01705676913366],[99.22148308461071,18.01529322661489],[99.22129936270956,18.01353009886691],[99.22075967091332,18.01183514079489],[99.21988475808412,18.01027348579063],[99.21870825244817,18.00890514313483],[99.21727536839855,18.00778269252034],[99.21564116863699,18.00694926419682],[99.21386844848506,18.0064368822444]]],"type":"Polygon"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 890466193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-11-10",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.75622,13.70708,99.75622,13.70708",
+    "geom:latitude":13.70708,
+    "geom:longitude":99.75622,
+    "gn:country":"TH",
+    "gn:fcode":"ADM2",
+    "gn:pop":0,
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e42\u0e1e\u0e18\u0e32\u0e23\u0e32\u0e21"
+    ],
+    "name:tha_x_variant":[
+        "\u0e42\u0e1e\u0e18\u0e32\u0e23\u0e32\u0e21"
+    ],
+    "name:unk_x_variant":[
+        "Kwaeng Photharam"
+    ],
+    "qs:name":"Amphoe Photharam",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":215,
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1151339,
+        "qs:id":370271,
+        "wd:id":"Q476432",
+        "wk:page":"Photharam District"
+    },
+    "wof:country":"TH",
+    "wof:created":1469053569,
+    "wof:geomhash":"e2a4694fc500cc32690fe9525fff1f91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466193,
+            "region_id":85678761
+        }
+    ],
+    "wof:id":890466193,
+    "wof:lastmodified":1527793007,
+    "wof:name":"Amphoe Photharam",
+    "wof:parent_id":85678761,
+    "wof:placetype":"county",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.75622,
+    13.70708,
+    99.75622,
+    13.70708
+],
+  "geometry": {"coordinates":[99.75622,13.70708],"type":"Point"}
+}

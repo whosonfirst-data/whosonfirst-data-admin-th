@@ -1,0 +1,70 @@
+{
+  "id": 1259599907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.1642,17.08697,103.1642,17.08697",
+    "geom:latitude":17.08697,
+    "geom:longitude":103.1642,
+    "gn:admin1_code":"76.0",
+    "gn:asciiname":"Ban Kham Plakang",
+    "gn:country_code":"TH",
+    "gn:dem":220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7748982,
+    "gn:latitude":17.08697,
+    "gn:longitude":103.1642,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Kham Plakang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e04\u0e33\u0e1b\u0e25\u0e32\u0e01\u0e31\u0e49\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678869,
+        1108731905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7748982
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"ea4143178d1f631a13bdd468e183c83b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731905,
+            "locality_id":1259599907,
+            "region_id":85678869
+        }
+    ],
+    "wof:id":1259599907,
+    "wof:lastmodified":1537704661,
+    "wof:name":"Ban Kham Plakang",
+    "wof:parent_id":1108731905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.1642,
+    17.08697,
+    103.1642,
+    17.08697
+],
+  "geometry": {"coordinates":[103.16419999999999,17.08697],"type":"Point"}
+}

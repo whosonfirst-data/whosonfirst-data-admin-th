@@ -1,0 +1,75 @@
+{
+  "id": 1259619055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.09058,13.4865,101.09058,13.4865",
+    "geom:latitude":13.4865,
+    "geom:longitude":101.09058,
+    "gn:admin1_code":"46.0",
+    "gn:asciiname":"Ban Laem Khae",
+    "gn:country_code":"TH",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1617216,
+    "gn:latitude":13.4865,
+    "gn:longitude":101.09058,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Laem Khae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e41\u0e2b\u0e25\u0e21\u0e41\u0e04"
+    ],
+    "name:und_x_variant":[
+        "Laem Khae",
+        "Ban Laem Khao",
+        "Ban Laem Khae"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678795,
+        1108731701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1617216
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"5bb8cc7948b3cf9c6c9e08e777d3c2ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731701,
+            "locality_id":1259619055,
+            "region_id":85678795
+        }
+    ],
+    "wof:id":1259619055,
+    "wof:lastmodified":1537704034,
+    "wof:name":"Ban Laem Khae",
+    "wof:parent_id":1108731701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.09058,
+    13.4865,
+    101.09058,
+    13.4865
+],
+  "geometry": {"coordinates":[101.09058,13.4865],"type":"Point"}
+}

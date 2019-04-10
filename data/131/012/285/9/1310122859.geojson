@@ -1,0 +1,70 @@
+{
+  "id": 1310122859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.24306,17.13442,103.24306,17.13442",
+    "geom:latitude":17.13442,
+    "geom:longitude":103.24306,
+    "gn:admin1_code":"76.0",
+    "gn:asciiname":"Ban Kham Takla",
+    "gn:country_code":"TH",
+    "gn:dem":234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7748981,
+    "gn:latitude":17.13442,
+    "gn:longitude":103.24306,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Kham Takla",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e04\u0e33\u0e15\u0e30\u0e01\u0e25\u0e49\u0e32"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678869,
+        1108731219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7748981
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"669f0fb7596044234e5484f1fdaff986",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731219,
+            "locality_id":1310122859,
+            "region_id":85678869
+        }
+    ],
+    "wof:id":1310122859,
+    "wof:lastmodified":1537704661,
+    "wof:name":"Ban Kham Takla",
+    "wof:parent_id":1108731219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.24306,
+    17.13442,
+    103.24306,
+    17.13442
+],
+  "geometry": {"coordinates":[103.24306,17.13442],"type":"Point"}
+}

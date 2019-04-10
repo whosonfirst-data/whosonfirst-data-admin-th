@@ -1,0 +1,70 @@
+{
+  "id": 1260254145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.06353,16.16247,100.06353,16.16247",
+    "geom:latitude":16.16247,
+    "geom:longitude":100.06353,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ban Noen Mamuang",
+    "gn:country_code":"TH",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8343800,
+    "gn:latitude":16.16247,
+    "gn:longitude":100.06353,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Ban Noen Mamuang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e19\u0e34\u0e19\u0e21\u0e30\u0e21\u0e48\u0e27\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678715,
+        890466389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8343800
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"b5819a15d7bf706940f6bb7f57c64347",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466389,
+            "locality_id":1260254145,
+            "region_id":85678715
+        }
+    ],
+    "wof:id":1260254145,
+    "wof:lastmodified":1537705455,
+    "wof:name":"Ban Noen Mamuang",
+    "wof:parent_id":890466389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.06353,
+    16.16247000000001,
+    100.06353,
+    16.16247000000001
+],
+  "geometry": {"coordinates":[100.06353,16.16247000000001],"type":"Point"}
+}

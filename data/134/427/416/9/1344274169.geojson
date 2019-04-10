@@ -1,0 +1,70 @@
+{
+  "id": 1344274169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.11205,8.10009,99.11205,8.10009",
+    "geom:latitude":8.10009,
+    "geom:longitude":99.11205,
+    "gn:admin1_code":"63.0",
+    "gn:asciiname":"Ban Pak Khlong",
+    "gn:country_code":"TH",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8276905,
+    "gn:latitude":8.10009,
+    "gn:longitude":99.11205,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Ban Pak Khlong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1b\u0e32\u0e01\u0e04\u0e25\u0e2d\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678585,
+        1108802621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8276905
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"ef70f27e067524d759c1708df1a46e3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802621,
+            "locality_id":1344274169,
+            "region_id":85678585
+        }
+    ],
+    "wof:id":1344274169,
+    "wof:lastmodified":1537705296,
+    "wof:name":"Ban Pak Khlong",
+    "wof:parent_id":1108802621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.11205,
+    8.10009,
+    99.11205,
+    8.10009
+],
+  "geometry": {"coordinates":[99.11205,8.10009],"type":"Point"}
+}

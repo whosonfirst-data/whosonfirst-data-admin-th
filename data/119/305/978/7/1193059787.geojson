@@ -1,0 +1,77 @@
+{
+  "id": 1193059787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.06353,15.26394,100.06353,15.26394",
+    "geom:latitude":15.26394,
+    "geom:longitude":100.06353,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Ban Khung Samphao",
+    "gn:country_code":"TH",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1617663,
+    "gn:latitude":15.26394,
+    "gn:longitude":100.06353,
+    "gn:modification_date":"2014-01-08",
+    "gn:name":"Ban Khung Samphao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e01\u0e32\u0e30\u0e04\u0e38\u0e49\u0e07\u0e2a\u0e33\u0e40\u0e20\u0e32"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e04\u0e38\u0e49\u0e07\u0e2a\u0e33\u0e40\u0e20\u0e32"
+    ],
+    "name:und_x_variant":[
+        "Ban Ko Khung Samphao",
+        "Ban Khung Samphao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678699,
+        1108731523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1617663
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"160d26003813d15a782010f28a7ebb63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731523,
+            "locality_id":1193059787,
+            "region_id":85678699
+        }
+    ],
+    "wof:id":1193059787,
+    "wof:lastmodified":1537704065,
+    "wof:name":"Ban Khung Samphao",
+    "wof:parent_id":1108731523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.06353,
+    15.26394,
+    100.06353,
+    15.26394
+],
+  "geometry": {"coordinates":[100.06353,15.26394],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1276974905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.42886,17.73372,100.42886,17.73372",
+    "geom:latitude":17.73372,
+    "geom:longitude":100.42886,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Ban Na Dong Nok",
+    "gn:country_code":"TH",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8136299,
+    "gn:latitude":17.73372,
+    "gn:longitude":100.42886,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Ban Na Dong Nok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "Ban Na Dong Nok"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e19\u0e32\u0e14\u0e07\u0e19\u0e01"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678657,
+        1108731981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8136299
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"9d69350ad3bfd277d1532075d7a3a423",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731981,
+            "locality_id":1276974905,
+            "region_id":85678657
+        }
+    ],
+    "wof:id":1276974905,
+    "wof:lastmodified":1537704987,
+    "wof:name":"Ban Na Dong Nok",
+    "wof:parent_id":1108731981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.42886,
+    17.73372,
+    100.42886,
+    17.73372
+],
+  "geometry": {"coordinates":[100.42886,17.73372],"type":"Point"}
+}

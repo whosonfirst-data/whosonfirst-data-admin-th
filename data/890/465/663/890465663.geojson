@@ -1,0 +1,76 @@
+{
+  "id": 890465663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-11-10",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.02375,13.81944,100.02375,13.81944",
+    "geom:latitude":13.81944,
+    "geom:longitude":100.02375,
+    "gn:country":"TH",
+    "gn:fcode":"ADM2",
+    "gn:pop":0,
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e19\u0e04\u0e23\u0e1b\u0e10\u0e21"
+    ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e19\u0e04\u0e23\u0e1b\u0e10\u0e21"
+    ],
+    "name:unk_x_variant":[
+        "Amphoe Muang Nakhon Pathom"
+    ],
+    "qs:name":"Amphoe Mueang Nakhon Pathom",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":238,
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1608648,
+        "gp:id":28341543,
+        "qs:id":1151799,
+        "wd:id":"Q476034",
+        "wk:page":"Mueang Nakhon Pathom District"
+    },
+    "wof:country":"TH",
+    "wof:created":1469053528,
+    "wof:geomhash":"79dccafa43b2afffeaca4adaa7e5b399",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465663,
+            "region_id":85678747
+        }
+    ],
+    "wof:id":890465663,
+    "wof:lastmodified":1527736656,
+    "wof:name":"Amphoe Mueang Nakhon Pathom",
+    "wof:parent_id":85678747,
+    "wof:placetype":"county",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.02375,
+    13.81944,
+    100.02375,
+    13.81944
+],
+  "geometry": {"coordinates":[100.02375000000001,13.81944],"type":"Point"}
+}

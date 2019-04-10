@@ -1,0 +1,70 @@
+{
+  "id": 1344157999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.90608,19.88031,99.90608,19.88031",
+    "geom:latitude":19.88031,
+    "geom:longitude":99.90608,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ban Chai Narai",
+    "gn:country_code":"TH",
+    "gn:dem":395,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7420490,
+    "gn:latitude":19.88031,
+    "gn:longitude":99.90608,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Chai Narai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e44\u0e0a\u0e22\u0e19\u0e32\u0e23\u0e32\u0e22\u0e13\u0e4c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678617,
+        1108732075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7420490
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"b3df399de10cd7bcff88916d54633e5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108732075,
+            "locality_id":1344157999,
+            "region_id":85678617
+        }
+    ],
+    "wof:id":1344157999,
+    "wof:lastmodified":1537704468,
+    "wof:name":"Ban Chai Narai",
+    "wof:parent_id":1108732075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.90608,
+    19.88031,
+    99.90608,
+    19.88031
+],
+  "geometry": {"coordinates":[99.90608,19.88031],"type":"Point"}
+}

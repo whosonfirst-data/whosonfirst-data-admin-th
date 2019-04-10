@@ -1,0 +1,70 @@
+{
+  "id": 1209944177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.49151,18.36764,103.49151,18.36764",
+    "geom:latitude":18.36764,
+    "geom:longitude":103.49151,
+    "gn:admin1_code":"81.0",
+    "gn:asciiname":"Ban Nong Din Dam",
+    "gn:country_code":"TH",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1600494,
+    "gn:latitude":18.36764,
+    "gn:longitude":103.49151,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Ban Nong Din Dam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e19\u0e2d\u0e07\u0e14\u0e34\u0e19\u0e14\u0e33"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678895,
+        1108731203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1600494
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"ba02a4bdaa9b4dc10ad1b8c1130ad7cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731203,
+            "locality_id":1209944177,
+            "region_id":85678895
+        }
+    ],
+    "wof:id":1209944177,
+    "wof:lastmodified":1537703477,
+    "wof:name":"Ban Nong Din Dam",
+    "wof:parent_id":1108731203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.49151,
+    18.36764,
+    103.49151,
+    18.36764
+],
+  "geometry": {"coordinates":[103.49151000000001,18.36764],"type":"Point"}
+}

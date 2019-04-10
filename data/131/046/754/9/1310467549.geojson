@@ -1,0 +1,73 @@
+{
+  "id": 1310467549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.03981,17.37942,101.03981,17.37942",
+    "geom:latitude":17.37942,
+    "geom:longitude":101.03981,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Hua Dan",
+    "gn:country_code":"TH",
+    "gn:dem":517,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1603528,
+    "gn:latitude":17.37942,
+    "gn:longitude":101.03981,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Hua Dan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "Ban Hua Dan"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e31\u0e27\u0e14\u0e48\u0e32\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678853,
+        1108731547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1603528
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"613b1e0a7c54a5069e5a671574f67a27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731547,
+            "locality_id":1310467549,
+            "region_id":85678853
+        }
+    ],
+    "wof:id":1310467549,
+    "wof:lastmodified":1537703587,
+    "wof:name":"Ban Hua Dan",
+    "wof:parent_id":1108731547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.03981,
+    17.37942,
+    101.03981,
+    17.37942
+],
+  "geometry": {"coordinates":[101.03981,17.37942],"type":"Point"}
+}

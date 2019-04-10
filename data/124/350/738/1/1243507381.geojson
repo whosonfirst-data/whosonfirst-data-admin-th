@@ -1,0 +1,73 @@
+{
+  "id": 1243507381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.56506,14.44303,100.56506,14.44303",
+    "geom:latitude":14.44303,
+    "geom:longitude":100.56506,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Ban Ko Loeng",
+    "gn:country_code":"TH",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1617418,
+    "gn:latitude":14.44303,
+    "gn:longitude":100.56506,
+    "gn:modification_date":"2014-02-06",
+    "gn:name":"Ban Ko Loeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e01\u0e32\u0e30\u0e40\u0e25\u0e34\u0e07"
+    ],
+    "name:und_x_variant":[
+        "Ban Ko Soeng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678721,
+        890465831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1617418
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"66f1c338a0aeaba1bece206fbc6b06b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465831,
+            "locality_id":1243507381,
+            "region_id":85678721
+        }
+    ],
+    "wof:id":1243507381,
+    "wof:lastmodified":1537704048,
+    "wof:name":"Ban Ko Loeng",
+    "wof:parent_id":890465831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.56506,
+    14.44303,
+    100.56506,
+    14.44303
+],
+  "geometry": {"coordinates":[100.56506,14.44303],"type":"Point"}
+}

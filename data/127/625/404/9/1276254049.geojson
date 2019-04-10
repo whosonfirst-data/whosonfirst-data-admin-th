@@ -1,0 +1,67 @@
+{
+  "id": 1276254049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.58333,9.25,99.58333,9.25",
+    "geom:latitude":9.25,
+    "geom:longitude":99.58333,
+    "gn:admin1_code":"60.0",
+    "gn:asciiname":"Ban Don Yuan",
+    "gn:country_code":"TH",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1120074,
+    "gn:latitude":9.25,
+    "gn:longitude":99.58333,
+    "gn:modification_date":"1994-04-10",
+    "gn:name":"Ban Don Yuan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678581,
+        1108731275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1120074
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"500ba0a07108b29c70c02c6d756f07a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731275,
+            "locality_id":1276254049,
+            "region_id":85678581
+        }
+    ],
+    "wof:id":1276254049,
+    "wof:lastmodified":1536884396,
+    "wof:name":"Ban Don Yuan",
+    "wof:parent_id":1108731275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.58333,
+    9.25,
+    99.58333,
+    9.25
+],
+  "geometry": {"coordinates":[99.58333,9.25],"type":"Point"}
+}

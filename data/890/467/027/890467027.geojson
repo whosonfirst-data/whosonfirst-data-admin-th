@@ -1,0 +1,64 @@
+{
+  "id": 890467027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.7993965,20.1185345,99.7993965,20.1185345",
+    "geom:latitude":20.118534,
+    "geom:longitude":99.799397,
+    "gp:adm0":23424960,
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "qs:name":"Pa Ting",
+    "qs:name_adm0":"Thailand",
+    "qs:name_adm1":"Chiang Rai",
+    "qs:photos":10,
+    "qs:photos_1k":2,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":10,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55946827,
+        "qs:id":140915
+    },
+    "wof:country":"TH",
+    "wof:created":1469053609,
+    "wof:geomhash":"937466a0553c0817ebad21b41af59319",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "locality_id":890467027,
+            "region_id":85678617
+        }
+    ],
+    "wof:id":890467027,
+    "wof:lastmodified":1469053609,
+    "wof:name":"Pa Ting",
+    "wof:parent_id":85678617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.7993965,
+    20.1185345,
+    99.7993965,
+    20.1185345
+],
+  "geometry": {"coordinates":[99.7993965,20.1185345],"type":"Point"}
+}

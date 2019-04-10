@@ -1,0 +1,73 @@
+{
+  "id": 1344047183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.56303,17.32878,98.56303,17.32878",
+    "geom:latitude":17.32878,
+    "geom:longitude":98.56303,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Ban Chan Di",
+    "gn:country_code":"TH",
+    "gn:dem":1002,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8163828,
+    "gn:latitude":17.32878,
+    "gn:longitude":98.56303,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Ban Chan Di",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "Ban Chan Di"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e08\u0e31\u0e19\u0e14\u0e35"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678683,
+        1108731833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8163828
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"5ab33d52c745e5a4c8029ac9785f93c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731833,
+            "locality_id":1344047183,
+            "region_id":85678683
+        }
+    ],
+    "wof:id":1344047183,
+    "wof:lastmodified":1537705040,
+    "wof:name":"Ban Chan Di",
+    "wof:parent_id":1108731833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.56303,
+    17.32878,
+    98.56303,
+    17.32878
+],
+  "geometry": {"coordinates":[98.56303,17.32878],"type":"Point"}
+}

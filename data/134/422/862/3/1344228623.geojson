@@ -1,0 +1,70 @@
+{
+  "id": 1344228623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.22333,15.67939,100.22333,15.67939",
+    "geom:latitude":15.67939,
+    "geom:longitude":100.22333,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ban Pluak Sung",
+    "gn:country_code":"TH",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1598803,
+    "gn:latitude":15.67939,
+    "gn:longitude":100.22333,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Ban Pluak Sung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1b\u0e25\u0e27\u0e01\u0e2a\u0e39\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678715,
+        890466923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1598803
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"d9b62a76e69126e0d737250e6a16579a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466923,
+            "locality_id":1344228623,
+            "region_id":85678715
+        }
+    ],
+    "wof:id":1344228623,
+    "wof:lastmodified":1537703414,
+    "wof:name":"Ban Pluak Sung",
+    "wof:parent_id":890466923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.22333,
+    15.67939,
+    100.22333,
+    15.67939
+],
+  "geometry": {"coordinates":[100.22333,15.67939],"type":"Point"}
+}

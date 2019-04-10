@@ -1,0 +1,70 @@
+{
+  "id": 1360145221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.19592,15.11767,104.19592,15.11767",
+    "geom:latitude":15.11767,
+    "geom:longitude":104.19592,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Ban Noi Samrong",
+    "gn:country_code":"TH",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7877988,
+    "gn:latitude":15.11767,
+    "gn:longitude":104.19592,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Noi Samrong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e19\u0e49\u0e2d\u0e22\u0e2a\u0e33\u0e42\u0e23\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678779,
+        1108732039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7877988
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"a613a034e8fda555f796bd0bd6ac3bfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108732039,
+            "locality_id":1360145221,
+            "region_id":85678779
+        }
+    ],
+    "wof:id":1360145221,
+    "wof:lastmodified":1537704781,
+    "wof:name":"Ban Noi Samrong",
+    "wof:parent_id":1108732039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.19592,
+    15.11767,
+    104.19592,
+    15.11767
+],
+  "geometry": {"coordinates":[104.19592,15.11767],"type":"Point"}
+}

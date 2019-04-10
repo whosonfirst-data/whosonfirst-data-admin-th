@@ -1,0 +1,70 @@
+{
+  "id": 1193110453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.05747,15.97539,101.05747,15.97539",
+    "geom:latitude":15.97539,
+    "geom:longitude":101.05747,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ban Nuen Makok",
+    "gn:country_code":"TH",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8565451,
+    "gn:latitude":15.97539,
+    "gn:longitude":101.05747,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Ban Nuen Makok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e19\u0e34\u0e19\u0e21\u0e30\u0e01\u0e2d\u0e01"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678673,
+        1108731635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8565451
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"d6e6ded8188f2aff26ffcfc81fc4330c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731635,
+            "locality_id":1193110453,
+            "region_id":85678673
+        }
+    ],
+    "wof:id":1193110453,
+    "wof:lastmodified":1537705721,
+    "wof:name":"Ban Nuen Makok",
+    "wof:parent_id":1108731635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.05747,
+    15.97539,
+    101.05747,
+    15.97539
+],
+  "geometry": {"coordinates":[101.05747,15.97539],"type":"Point"}
+}

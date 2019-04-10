@@ -1,0 +1,70 @@
+{
+  "id": 1276373087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.25444,6.25664,101.25444,6.25664",
+    "geom:latitude":6.25664,
+    "geom:longitude":101.25444,
+    "gn:admin1_code":"70.0",
+    "gn:asciiname":"Ban Ngo Ka Po",
+    "gn:country_code":"TH",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7013326,
+    "gn:latitude":6.25664,
+    "gn:longitude":101.25444,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ban Ngo Ka Po",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e07\u0e32\u0e30\u0e01\u0e32\u0e42\u0e1b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678611,
+        1108731183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7013326
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"d79cf4ef7e3f3ebf765ea75246512099",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731183,
+            "locality_id":1276373087,
+            "region_id":85678611
+        }
+    ],
+    "wof:id":1276373087,
+    "wof:lastmodified":1537704398,
+    "wof:name":"Ban Ngo Ka Po",
+    "wof:parent_id":1108731183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.25444,
+    6.25664,
+    101.25444,
+    6.25664
+],
+  "geometry": {"coordinates":[101.25444,6.25664],"type":"Point"}
+}

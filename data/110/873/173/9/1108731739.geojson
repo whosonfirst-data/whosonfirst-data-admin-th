@@ -1,0 +1,128 @@
+{
+  "id": 1108731739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00485,
+    "geom:area_square_m":58270896.763416,
+    "geom:bbox":"100.515112982,13.6002425959,100.597357996,13.7101201278",
+    "geom:latitude":13.653939,
+    "geom:longitude":100.555497,
+    "iso:country":"TH",
+    "lbl:latitude":13.644155,
+    "lbl:longitude":100.544608,
+    "meso:admin1_en":"SAMUT PRAKAN",
+    "meso:diss_me":"Phra PradaengSAMUT PRAKAN",
+    "meso:gadm_admin":"Phra Pra Daeng",
+    "meso:gadm_hasc2":"TH.SP.PP",
+    "meso:gaul_admin":"Phra Pradaeng",
+    "meso:id":"553",
+    "meso:loc_id_alt":"1104",
+    "meso:local_id":"25704",
+    "meso:mps_x":100.544608,
+    "meso:mps_y":13.644155,
+    "meso:name_en":"Phra Pradaeng",
+    "meso:name_local":"\u0e1e\u0e23\u0e30\u0e1b\u0e23\u0e30\u0e41\u0e14\u0e07",
+    "meso:source":"AOTM",
+    "mps:latitude":13.644155,
+    "mps:longitude":100.544608,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bpy_x_preferred":[
+        "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ab\u09b0\u09be \u09aa\u09cd\u09b0\u09be\u09a6\u09be\u09af\u09bc\u09c7\u0982"
+    ],
+    "name:dut_x_preferred":[
+        "Amphoe Phra Pradaeng"
+    ],
+    "name:eng_x_preferred":[
+        "Phra Pradaeng"
+    ],
+    "name:eng_x_variant":[
+        "Phra Pradaeng",
+        "Phra Pra Daeng"
+    ],
+    "name:fre_x_preferred":[
+        "Phra Pradaeng"
+    ],
+    "name:ger_x_preferred":[
+        "Amphoe Phra Pradaeng"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d7\u30e9\u30d7\u30e9\u30c7\u30fc\u30f3\u90e1"
+    ],
+    "name:nan_x_preferred":[
+        "Phra Pradaeng K\u016bn"
+    ],
+    "name:nob_x_preferred":[
+        "Phra Pradaeng"
+    ],
+    "name:rum_x_preferred":[
+        "Districtul Phra Pradaeng"
+    ],
+    "name:sco_x_preferred":[
+        "Phra Pradaeng Destrict"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e1e\u0e23\u0e30\u0e1b\u0e23\u0e30\u0e41\u0e14\u0e07"
+    ],
+    "name:vie_x_preferred":[
+        "Phra Pradaeng"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2000-04-01",
+    "statoids:area_km":"73",
+    "statoids:as_of_date":"2000-04-01",
+    "statoids:capital":"",
+    "statoids:country":"TH",
+    "statoids:hasc":"TH.SP",
+    "statoids:name":"Phra Pradaeng",
+    "statoids:population":"212027",
+    "statoids:statoid":"TH.SP.PP",
+    "statoids:timezone":"7",
+    "statoids:type":"district",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"TH.SP.PP",
+        "wd:id":"Q476440"
+    },
+    "wof:country":"TH",
+    "wof:created":1478799158,
+    "wof:geomhash":"ff147412a753cf5e8e5584bc8748483c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731739,
+            "region_id":85678765
+        }
+    ],
+    "wof:id":1108731739,
+    "wof:lastmodified":1536615648,
+    "wof:name":"Phra Pradaeng",
+    "wof:parent_id":85678765,
+    "wof:placetype":"county",
+    "wof:placetype_local":"district",
+    "wof:population":212027,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:shortcode":"PP",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.51511298162843,
+    13.60024259592761,
+    100.59735799610397,
+    13.7101201277639
+],
+  "geometry": {"coordinates":[[[100.52536963440733,13.67784950019478],[100.53450318275274,13.67506824879439],[100.53525749311245,13.674229208115],[100.53746337325735,13.66983042562431],[100.54503041598721,13.6697318702194],[100.5470977017393,13.66897674591521],[100.55420317208147,13.67491758089657],[100.55749325010973,13.68304079374741],[100.56060279999643,13.68615215721032],[100.55899954468894,13.68820023025347],[100.55715243874643,13.7101201277639],[100.56595103004837,13.70941910760591],[100.57498368925843,13.6987454155573],[100.58494959586022,13.70464811632342],[100.59480005296385,13.68927623363891],[100.59475796000855,13.68659092896192],[100.59152502710354,13.68368768613211],[100.59150988612912,13.6836119625228],[100.58434926174223,13.6699999999998],[100.59241119260996,13.65995422804093],[100.59108490787077,13.65408197347235],[100.59152638939092,13.65254479109867],[100.59298573750522,13.65104402082541],[100.59735799610397,13.63967673952263],[100.58583495393448,13.62970487891338],[100.57978794085605,13.63840114555198],[100.57890768477186,13.6386804495013],[100.56649993836892,13.63400190233048],[100.56487670084444,13.63152763461461],[100.5646137511347,13.63142329635337],[100.55698632409796,13.62193721913699],[100.5515863807764,13.62073582373832],[100.5497575694139,13.61629590807369],[100.5438164171825,13.61029555045474],[100.54369946474179,13.60610812549926],[100.54111585279328,13.60024259592761],[100.52586649332058,13.60059097267033],[100.52638796525406,13.60805425934641],[100.52298450120361,13.61513276336525],[100.51911327484909,13.61871299119696],[100.51950612453278,13.62162243602204],[100.5183934748991,13.6314905831196],[100.51511298162843,13.63608092895727],[100.51759458236826,13.64329723261485],[100.51884623139958,13.64527414241899],[100.51962241823831,13.65889956613985],[100.51882928537694,13.65985413345477],[100.52536963440733,13.67784950019478]]],"type":"Polygon"}
+}

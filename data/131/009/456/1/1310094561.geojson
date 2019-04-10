@@ -1,0 +1,70 @@
+{
+  "id": 1310094561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.77256,17.75186,99.77256,17.75186",
+    "geom:latitude":17.75186,
+    "geom:longitude":99.77256,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ban Mae Thoen Tai",
+    "gn:country_code":"TH",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8414472,
+    "gn:latitude":17.75186,
+    "gn:longitude":99.77256,
+    "gn:modification_date":"2012-11-10",
+    "gn:name":"Ban Mae Thoen Tai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e41\u0e21\u0e48\u0e40\u0e17\u0e34\u0e19\u0e43\u0e15\u0e49"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678651,
+        890466181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8414472
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"9c2554a1edee9139904c2cddfcfdcf33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466181,
+            "locality_id":1310094561,
+            "region_id":85678651
+        }
+    ],
+    "wof:id":1310094561,
+    "wof:lastmodified":1537705591,
+    "wof:name":"Ban Mae Thoen Tai",
+    "wof:parent_id":890466181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.77256,
+    17.75186,
+    99.77256,
+    17.75186
+],
+  "geometry": {"coordinates":[99.77256,17.75186],"type":"Point"}
+}

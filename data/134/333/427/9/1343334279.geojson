@@ -1,0 +1,70 @@
+{
+  "id": 1343334279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.18511,15.01958,99.18511,15.01958",
+    "geom:latitude":15.01958,
+    "geom:longitude":99.18511,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ban Krai Kriang",
+    "gn:country_code":"TH",
+    "gn:dem":199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8396450,
+    "gn:latitude":15.01958,
+    "gn:longitude":99.18511,
+    "gn:modification_date":"2012-10-08",
+    "gn:name":"Ban Krai Kriang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e44\u0e01\u0e23\u0e40\u0e01\u0e23\u0e35\u0e22\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678663,
+        890466317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8396450
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"b64849f2af92d3a7f1e8587c0953cef1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466317,
+            "locality_id":1343334279,
+            "region_id":85678663
+        }
+    ],
+    "wof:id":1343334279,
+    "wof:lastmodified":1537705568,
+    "wof:name":"Ban Krai Kriang",
+    "wof:parent_id":890466317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.18511,
+    15.01958,
+    99.18511,
+    15.01958
+],
+  "geometry": {"coordinates":[99.18510999999999,15.01958],"type":"Point"}
+}

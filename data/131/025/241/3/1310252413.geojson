@@ -1,0 +1,70 @@
+{
+  "id": 1310252413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.16353,15.85633,102.16353,15.85633",
+    "geom:latitude":15.85633,
+    "geom:longitude":102.16353,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Ban Khum Muang Ngo",
+    "gn:country_code":"TH",
+    "gn:dem":212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8371700,
+    "gn:latitude":15.85633,
+    "gn:longitude":102.16353,
+    "gn:modification_date":"2012-08-06",
+    "gn:name":"Ban Khum Muang Ngo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e04\u0e38\u0e49\u0e21\u0e21\u0e48\u0e27\u0e07\u0e40\u0e07\u0e32\u0e30"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678825,
+        890466029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8371700
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"e6b68abec0c9aa8e4e3716ec22fe23cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466029,
+            "locality_id":1310252413,
+            "region_id":85678825
+        }
+    ],
+    "wof:id":1310252413,
+    "wof:lastmodified":1537705519,
+    "wof:name":"Ban Khum Muang Ngo",
+    "wof:parent_id":890466029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.16353,
+    15.85633,
+    102.16353,
+    15.85633
+],
+  "geometry": {"coordinates":[102.16352999999999,15.85633],"type":"Point"}
+}

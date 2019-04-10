@@ -1,0 +1,118 @@
+{
+  "id": 890466403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00245,
+    "geom:area_square_m":29420115.756502,
+    "geom:bbox":"100.545012607,13.7896965095,100.597490424,13.8526924684",
+    "geom:latitude":13.821136,
+    "geom:longitude":100.571585,
+    "gn:country":"TH",
+    "gn:fcode":"ADM2",
+    "gn:pop":0,
+    "iso:country":"TH",
+    "lbl:latitude":13.822309,
+    "lbl:longitude":100.571086,
+    "meso:admin1_en":"KRUNG THEP",
+    "meso:diss_me":"ChatuchakKRUNG THEP",
+    "meso:gadm_admin":"Chatuchak",
+    "meso:gadm_hasc2":"TH.BM.CH",
+    "meso:gaul_admin":"Chatuchak",
+    "meso:id":"107",
+    "meso:loc_id_alt":"1030",
+    "meso:local_id":"3230",
+    "meso:mps_x":100.571086,
+    "meso:mps_y":13.822309,
+    "meso:name_en":"Chatuchak",
+    "meso:name_local":"\u0e40\u0e02\u0e15\u0e08\u0e15\u0e38\u0e08\u0e31\u0e01\u0e23",
+    "meso:source":"AOTM",
+    "mps:latitude":13.822309,
+    "mps:longitude":100.571086,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Chatuchak"
+    ],
+    "name:eng_x_variant":[
+        "Chatuchak"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e02\u0e15\u0e08\u0e15\u0e38\u0e08\u0e31\u0e01\u0e23"
+    ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e15\u0e38\u0e08\u0e31\u0e01\u0e23",
+        "\u0e40\u0e02\u0e15\u0e08\u0e15\u0e38\u0e08\u0e31\u0e01\u0e23"
+    ],
+    "name:unk_x_variant":[
+        "Khet Chatuchak"
+    ],
+    "qs:name":"Khet Chatuchak",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"0",
+    "src:geom":"unknown",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2000-04-01",
+    "statoids:area_km":"33",
+    "statoids:as_of_date":"2000-04-01",
+    "statoids:capital":"",
+    "statoids:country":"TH",
+    "statoids:hasc":"TH.BM",
+    "statoids:name":"Chatuchak",
+    "statoids:population":"190578",
+    "statoids:statoid":"TH.BM.CH",
+    "statoids:timezone":"7",
+    "statoids:type":"district",
+    "wd:wordcount":843,
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6845605,
+        "hasc:id":"TH.BM.CH",
+        "qs:id":1039225,
+        "wd:id":"Q1019658",
+        "wk:page":"Chatuchak District"
+    },
+    "wof:country":"TH",
+    "wof:created":1469053576,
+    "wof:geomhash":"d7581d18c7240a77db24fcd4635d80c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466403,
+            "region_id":85678739
+        }
+    ],
+    "wof:id":890466403,
+    "wof:lastmodified":1536617423,
+    "wof:name":"Chatuchak",
+    "wof:parent_id":85678739,
+    "wof:placetype":"county",
+    "wof:placetype_local":"district",
+    "wof:population":190578,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:shortcode":"CH",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.54501260719208,
+    13.78969650953111,
+    100.59749042425736,
+    13.85269246835344
+],
+  "geometry": {"coordinates":[[[100.54804649945437,13.84419611614615],[100.55012111525494,13.84573121532033],[100.56564343985642,13.84297155703583],[100.56805433780598,13.8437426228649],[100.57238407396164,13.85262133569949],[100.5734369762838,13.85269246835344],[100.57876377923583,13.8505738055555],[100.59197872471796,13.85187324869262],[100.59749042425736,13.84340939602555],[100.59056833592082,13.83305555958041],[100.58997176617335,13.8299999999998],[100.59627161684504,13.82067185704016],[100.59645649269416,13.81972268757606],[100.59537118765984,13.81708416744016],[100.59482840878131,13.81640371658746],[100.59598171156051,13.79643813645037],[100.57798799120538,13.79530134028358],[100.57174270741798,13.80106063120317],[100.56990203065405,13.79992943334302],[100.56807103710264,13.79752585512798],[100.55323503632434,13.78969650953111],[100.54584658794064,13.79310252932445],[100.54846127165821,13.80508493405167],[100.54501260719208,13.8105891749526],[100.54873332970578,13.81836291162861],[100.54829966513573,13.82479383323316],[100.55080795145619,13.82744530106698],[100.54804649945437,13.84419611614615]]],"type":"Polygon"}
+}

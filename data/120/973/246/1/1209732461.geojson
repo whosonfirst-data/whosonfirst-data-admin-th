@@ -1,0 +1,67 @@
+{
+  "id": 1209732461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.08333,14.65,105.08333,14.65",
+    "geom:latitude":14.65,
+    "geom:longitude":105.08333,
+    "gn:admin1_code":"75.0",
+    "gn:asciiname":"Ban Kham Pa Tan",
+    "gn:country_code":"TH",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1602841,
+    "gn:latitude":14.65,
+    "gn:longitude":105.08333,
+    "gn:modification_date":"2009-06-01",
+    "gn:name":"Ban Kham Pa Tan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678783,
+        1108731269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1602841
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"5bdb88a89d4872067eb39dd50496b132",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731269,
+            "locality_id":1209732461,
+            "region_id":85678783
+        }
+    ],
+    "wof:id":1209732461,
+    "wof:lastmodified":1536377233,
+    "wof:name":"Ban Kham Pa Tan",
+    "wof:parent_id":1108731269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.08333,
+    14.65,
+    105.08333,
+    14.65
+],
+  "geometry": {"coordinates":[105.08333,14.65],"type":"Point"}
+}

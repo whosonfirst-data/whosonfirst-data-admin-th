@@ -1,0 +1,74 @@
+{
+  "id": 1260129255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.26225,14.83558,104.26225,14.83558",
+    "geom:latitude":14.83558,
+    "geom:longitude":104.26225,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Ban Ta Sut",
+    "gn:country_code":"TH",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1612844,
+    "gn:latitude":14.83558,
+    "gn:longitude":104.26225,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Ta Sut",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e15\u0e32\u0e2a\u0e38\u0e14"
+    ],
+    "name:und_x_variant":[
+        "Ban Tha Sut",
+        "Ban Ta Sut"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678779,
+        1108731409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1612844
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"154ccdf17bb3998bac7ed818bbbdea66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731409,
+            "locality_id":1260129255,
+            "region_id":85678779
+        }
+    ],
+    "wof:id":1260129255,
+    "wof:lastmodified":1537703732,
+    "wof:name":"Ban Ta Sut",
+    "wof:parent_id":1108731409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.26225,
+    14.83558,
+    104.26225,
+    14.83558
+],
+  "geometry": {"coordinates":[104.26224999999999,14.83558],"type":"Point"}
+}

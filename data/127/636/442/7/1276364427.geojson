@@ -1,0 +1,74 @@
+{
+  "id": 1276364427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.53056,18.32004,103.53056,18.32004",
+    "geom:latitude":18.32004,
+    "geom:longitude":103.53056,
+    "gn:admin1_code":"81.0",
+    "gn:asciiname":"Ban Pong Pueai",
+    "gn:country_code":"TH",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1884914,
+    "gn:latitude":18.32004,
+    "gn:longitude":103.53056,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Ban Pong Pueai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e42\u0e1b\u0e48\u0e07\u0e40\u0e1b\u0e37\u0e48\u0e2d\u0e22"
+    ],
+    "name:und_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e42\u0e1b\u0e48\u0e07\u0e40\u0e1b\u0e37\u0e48\u0e2d\u0e22",
+        "Ban Pong Puai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678895,
+        1108731203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1884914
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"443646f722cc2589c3d75c64dcd4f375",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731203,
+            "locality_id":1276364427,
+            "region_id":85678895
+        }
+    ],
+    "wof:id":1276364427,
+    "wof:lastmodified":1537704275,
+    "wof:name":"Ban Pong Pueai",
+    "wof:parent_id":1108731203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.53056,
+    18.32004,
+    103.53056,
+    18.32004
+],
+  "geometry": {"coordinates":[103.53055999999999,18.32004],"type":"Point"}
+}

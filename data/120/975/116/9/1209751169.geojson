@@ -1,0 +1,70 @@
+{
+  "id": 1209751169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.96703,13.39931,99.96703,13.39931",
+    "geom:latitude":13.39931,
+    "geom:longitude":99.96703,
+    "gn:admin1_code":"54.0",
+    "gn:asciiname":"Ban Bang Samae Noi",
+    "gn:country_code":"TH",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8540871,
+    "gn:latitude":13.39931,
+    "gn:longitude":99.96703,
+    "gn:modification_date":"2013-06-06",
+    "gn:name":"Ban Bang Samae Noi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1a\u0e32\u0e07\u0e41\u0e2a\u0e21\u0e19\u0e49\u0e2d\u0e22"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678775,
+        890467269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8540871
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"28d42de5db428822597fea8438d5d06a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890467269,
+            "locality_id":1209751169,
+            "region_id":85678775
+        }
+    ],
+    "wof:id":1209751169,
+    "wof:lastmodified":1537705703,
+    "wof:name":"Ban Bang Samae Noi",
+    "wof:parent_id":890467269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.96703,
+    13.39931,
+    99.96703,
+    13.39931
+],
+  "geometry": {"coordinates":[99.96702999999999,13.39931],"type":"Point"}
+}

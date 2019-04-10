@@ -1,0 +1,73 @@
+{
+  "id": 1259429281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.45408,14.58896,103.45408,14.58896",
+    "geom:latitude":14.58896,
+    "geom:longitude":103.45408,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Ban Kuan",
+    "gn:country_code":"TH",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8442082,
+    "gn:latitude":14.58896,
+    "gn:longitude":103.45408,
+    "gn:modification_date":"2014-02-16",
+    "gn:name":"Ban Kuan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e01\u0e47\u0e27\u0e25"
+    ],
+    "name:und_x_variant":[
+        "Ban Kuam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678849,
+        1108731783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8442082
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"211cb8cb53898eaf23ba356559b00f10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731783,
+            "locality_id":1259429281,
+            "region_id":85678849
+        }
+    ],
+    "wof:id":1259429281,
+    "wof:lastmodified":1537705599,
+    "wof:name":"Ban Kuan",
+    "wof:parent_id":1108731783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.45408,
+    14.58896,
+    103.45408,
+    14.58896
+],
+  "geometry": {"coordinates":[103.45408,14.58896],"type":"Point"}
+}

@@ -1,0 +1,113 @@
+{
+  "id": 85932611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000444,
+    "geom:area_square_m":5328311.11687,
+    "geom:bbox":"100.446465036,13.7262876511,100.475463867,13.7473889243",
+    "geom:latitude":13.737155,
+    "geom:longitude":100.460217,
+    "gn:latitude":13.53144,
+    "gn:longitude":99.93336,
+    "iso:country":"TH",
+    "lbl:latitude":13.737003,
+    "lbl:longitude":100.463497,
+    "mps:latitude":13.737305,
+    "mps:longitude":100.459941,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":5,
+    "name:eng_x_preferred":[
+        "Khuha Sawan"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e04\u0e39\u0e2b\u0e32\u0e2a\u0e27\u0e23\u0e23\u0e04\u0e4c"
+    ],
+    "name:unk_x_variant":[
+        "Ban Khuha Sawan",
+        "Khuha Sawan"
+    ],
+    "qs:gn_adm0_cc":"TH",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":1609350,
+    "qs:gn_nam_loc":"Bangkok, Bangkok, TH",
+    "qs:gn_namadm1":"52",
+    "qs:gn_name":"Ban Khuha Sawan",
+    "qs:local_max":21510,
+    "qs:local_sum":280580,
+    "qs:localhoods":117,
+    "qs:name":"Khuha Sawan",
+    "qs:name_adm0":"Thailand",
+    "qs:name_adm1":"Bangkok",
+    "qs:name_adm2":"Phasi Charoen",
+    "qs:name_local":"Bangkok",
+    "qs:photo_max":40,
+    "qs:photo_sum":158,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":13,
+    "qs:woe_adm0":23424960,
+    "qs:woe_adm1":2347165,
+    "qs:woe_adm2":28341416,
+    "qs:woe_lau":0,
+    "qs:woe_local":1225448,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85678739,
+        102191569,
+        85632293,
+        102025263,
+        890466393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8339155,
+        "gp:id":55948111,
+        "qs:id":361175,
+        "qs_pg:id":361175
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"65e4a09dc793a468133a7d19e3ba7b94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466393,
+            "locality_id":102025263,
+            "neighbourhood_id":85932611,
+            "region_id":85678739
+        }
+    ],
+    "wof:id":85932611,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1497316685,
+    "wof:name":"Khuha Sawan",
+    "wof:parent_id":102025263,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.44646503597943,
+    13.72628765110562,
+    100.47546386700014,
+    13.74738892430007
+],
+  "geometry": {"coordinates":[[[100.46997070300006,13.74205303232505],[100.46997070300006,13.73671707960004],[100.47546386700009,13.73671707960004],[100.47546386700014,13.7367170492001],[100.47546386700009,13.73138097489999],[100.47546386700014,13.73138094457509],[100.46997070300006,13.73138094457509],[100.46789141988717,13.72924048557643],[100.46776326837465,13.72831704776559],[100.4644775390002,13.72628765110562],[100.45806557633904,13.72760774517754],[100.45236030605793,13.72676873975685],[100.45236116790852,13.72677158089679],[100.45204296987714,13.72715930631976],[100.45111887067509,13.72888817432629],[100.45054981319618,13.73076410542981],[100.45050536344661,13.73121541131101],[100.45049038340051,13.73122770511716],[100.44916672518832,13.73231400333815],[100.44792309687705,13.73382936881985],[100.44699899767517,13.73555823682639],[100.44646503597943,13.73731847263772],[100.44792050585249,13.74181355381701],[100.44799804700023,13.74189338089484],[100.44830820629448,13.74205303232505],[100.45349121100008,13.74738889392518],[100.45349121100008,13.74738892430007],[100.45898437500011,13.74738892430007],[100.46447753900003,13.74738892430007],[100.46997070300006,13.74738892430007],[100.46997070300006,13.74738889392518],[100.46997070300006,13.74205306270004],[100.46997070300006,13.74205303232505]]],"type":"Polygon"}
+}

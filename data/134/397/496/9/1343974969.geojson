@@ -1,0 +1,72 @@
+{
+  "id": 1343974969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.25,8.06667,100.25,8.06667",
+    "geom:latitude":8.06667,
+    "geom:longitude":100.25,
+    "gn:admin1_code":"64.0",
+    "gn:asciiname":"Ban Don Faek",
+    "gn:cc2":"TH",
+    "gn:country_code":"TH",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1619964,
+    "gn:latitude":8.06667,
+    "gn:longitude":100.25,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Don Faek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Faet",
+        "Ban Don Faek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678565,
+        890466369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1619964
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"6af362fb82467612fadda672fbb6e95a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466369,
+            "locality_id":1343974969,
+            "region_id":85678565
+        }
+    ],
+    "wof:id":1343974969,
+    "wof:lastmodified":1537704198,
+    "wof:name":"Ban Don Faek",
+    "wof:parent_id":890466369,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.25,
+    8.06667,
+    100.25,
+    8.06667
+],
+  "geometry": {"coordinates":[100.25,8.06667],"type":"Point"}
+}

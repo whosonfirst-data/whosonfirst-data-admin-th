@@ -1,0 +1,70 @@
+{
+  "id": 1277091089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.97733,18.2609,103.97733,18.2609",
+    "geom:latitude":18.2609,
+    "geom:longitude":103.97733,
+    "gn:admin1_code":"81.0",
+    "gn:asciiname":"Ban Kham Pia",
+    "gn:country_code":"TH",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1618520,
+    "gn:latitude":18.2609,
+    "gn:longitude":103.97733,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Ban Kham Pia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e02\u0e32\u0e21\u0e40\u0e1b\u0e35\u0e49\u0e22"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678895,
+        1108731205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1618520
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"6cde1921193a6564b760ae3e98bedab3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731205,
+            "locality_id":1277091089,
+            "region_id":85678895
+        }
+    ],
+    "wof:id":1277091089,
+    "wof:lastmodified":1537704129,
+    "wof:name":"Ban Kham Pia",
+    "wof:parent_id":1108731205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.97733,
+    18.2609,
+    103.97733,
+    18.2609
+],
+  "geometry": {"coordinates":[103.97732999999999,18.2609],"type":"Point"}
+}

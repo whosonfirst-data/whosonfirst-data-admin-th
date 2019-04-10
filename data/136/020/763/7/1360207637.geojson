@@ -1,0 +1,67 @@
+{
+  "id": 1360207637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.55,18.81667,100.55,18.81667",
+    "geom:latitude":18.81667,
+    "geom:longitude":100.55,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Ban Khamu Nua",
+    "gn:country_code":"TH",
+    "gn:dem":706,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1602790,
+    "gn:latitude":18.81667,
+    "gn:longitude":100.55,
+    "gn:modification_date":"1994-04-10",
+    "gn:name":"Ban Khamu Nua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678633,
+        890465705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1602790
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"01761c385f2913b6eeb8b4f16b1171d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465705,
+            "locality_id":1360207637,
+            "region_id":85678633
+        }
+    ],
+    "wof:id":1360207637,
+    "wof:lastmodified":1536769414,
+    "wof:name":"Ban Khamu Nua",
+    "wof:parent_id":890465705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.55,
+    18.81667,
+    100.55,
+    18.81667
+],
+  "geometry": {"coordinates":[100.55,18.81667],"type":"Point"}
+}

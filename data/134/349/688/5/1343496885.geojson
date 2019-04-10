@@ -1,0 +1,70 @@
+{
+  "id": 1343496885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.93627,10.74391,98.93627,10.74391",
+    "geom:latitude":10.74391,
+    "geom:longitude":98.93627,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Ban Hin Ruea",
+    "gn:country_code":"TH",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8238437,
+    "gn:latitude":10.74391,
+    "gn:longitude":98.93627,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Ban Hin Ruea",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e34\u0e19\u0e40\u0e23\u0e37\u0e2d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678559,
+        1108731983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8238437
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"40f9d18b4d2bfa38a016ce8f05832581",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731983,
+            "locality_id":1343496885,
+            "region_id":85678559
+        }
+    ],
+    "wof:id":1343496885,
+    "wof:lastmodified":1537705205,
+    "wof:name":"Ban Hin Ruea",
+    "wof:parent_id":1108731983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.93627,
+    10.74391,
+    98.93627,
+    10.74391
+],
+  "geometry": {"coordinates":[98.93626999999999,10.74391],"type":"Point"}
+}

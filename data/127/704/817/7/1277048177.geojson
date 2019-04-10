@@ -1,0 +1,76 @@
+{
+  "id": 1277048177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.2885,15.1135,99.2885,15.1135",
+    "geom:latitude":15.1135,
+    "geom:longitude":99.2885,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ban Talasoeng",
+    "gn:country_code":"TH",
+    "gn:dem":440,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8396357,
+    "gn:latitude":15.1135,
+    "gn:longitude":99.2885,
+    "gn:modification_date":"2012-10-08",
+    "gn:name":"Ban Talasoeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e15\u0e30\u0e25\u0e30\u0e40\u0e0b\u0e34\u0e48\u0e07"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e04\u0e25\u0e2d\u0e07\u0e40\u0e2a\u0e25\u0e32"
+    ],
+    "name:und_x_variant":[
+        "Ban Khlong Salao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678689,
+        890465633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8396357
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"3e40a9eb20aa992cc8c99bd2c368377a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465633,
+            "locality_id":1277048177,
+            "region_id":85678689
+        }
+    ],
+    "wof:id":1277048177,
+    "wof:lastmodified":1537705566,
+    "wof:name":"Ban Talasoeng",
+    "wof:parent_id":890465633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.2885,
+    15.1135,
+    99.2885,
+    15.1135
+],
+  "geometry": {"coordinates":[99.2885,15.1135],"type":"Point"}
+}

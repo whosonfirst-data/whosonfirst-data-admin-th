@@ -1,0 +1,73 @@
+{
+  "id": 1242633649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.07903,16.82239,103.07903,16.82239",
+    "geom:latitude":16.82239,
+    "geom:longitude":103.07903,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Ban Nam Sam Wang",
+    "gn:country_code":"TH",
+    "gn:dem":247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1598385,
+    "gn:latitude":16.82239,
+    "gn:longitude":103.07903,
+    "gn:modification_date":"2014-04-29",
+    "gn:name":"Ban Nam Sam Wang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e19\u0e49\u0e33\u0e2a\u0e32\u0e21\u0e27\u0e31\u0e07"
+    ],
+    "name:und_x_variant":[
+        "Ban Sam Wang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678827,
+        1108731431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1598385
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"0d594af46ea634187a1387922bccc132",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731431,
+            "locality_id":1242633649,
+            "region_id":85678827
+        }
+    ],
+    "wof:id":1242633649,
+    "wof:lastmodified":1537703400,
+    "wof:name":"Ban Nam Sam Wang",
+    "wof:parent_id":1108731431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.07903,
+    16.82239,
+    103.07903,
+    16.82239
+],
+  "geometry": {"coordinates":[103.07903,16.82239],"type":"Point"}
+}

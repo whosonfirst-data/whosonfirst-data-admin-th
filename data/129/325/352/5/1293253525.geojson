@@ -1,0 +1,75 @@
+{
+  "id": 1293253525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.77736,14.54708,102.77736,14.54708",
+    "geom:latitude":14.54708,
+    "geom:longitude":102.77736,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Ban Takut Ta Sa",
+    "gn:country_code":"TH",
+    "gn:dem":192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1617253,
+    "gn:latitude":14.54708,
+    "gn:longitude":102.77736,
+    "gn:modification_date":"2014-08-05",
+    "gn:name":"Ban Takut Ta Sa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e15\u0e30\u0e01\u0e38\u0e14\u0e15\u0e32\u0e2a\u0e32"
+    ],
+    "name:und_x_variant":[
+        "Ban Nong Phayung",
+        "Ban Kut Ta Sa (1)",
+        "Ban Takut Ta Sa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678817,
+        1108802689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1617253
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"7c71a799db9794971a8ecf34349223e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802689,
+            "locality_id":1293253525,
+            "region_id":85678817
+        }
+    ],
+    "wof:id":1293253525,
+    "wof:lastmodified":1537704036,
+    "wof:name":"Ban Takut Ta Sa",
+    "wof:parent_id":1108802689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.77736,
+    14.54708,
+    102.77736,
+    14.54708
+],
+  "geometry": {"coordinates":[102.77736,14.54708],"type":"Point"}
+}

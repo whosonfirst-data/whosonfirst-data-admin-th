@@ -1,0 +1,70 @@
+{
+  "id": 1193231167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.31656,14.45722,100.31656,14.45722",
+    "geom:latitude":14.45722,
+    "geom:longitude":100.31656,
+    "gn:admin1_code":"36",
+    "gn:asciiname":"Ban Nam Klang",
+    "gn:country_code":"TH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8697600,
+    "gn:latitude":14.45722,
+    "gn:longitude":100.31656,
+    "gn:modification_date":"2014-02-16",
+    "gn:name":"Ban Nam Klang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e19\u0e49\u0e33\u0e01\u0e25\u0e32\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678721,
+        890466739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8697600
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"16a7f4af18d64c9352fecd68802c3855",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466739,
+            "locality_id":1193231167,
+            "region_id":85678721
+        }
+    ],
+    "wof:id":1193231167,
+    "wof:lastmodified":1537705893,
+    "wof:name":"Ban Nam Klang",
+    "wof:parent_id":890466739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.31656,
+    14.45722,
+    100.31656,
+    14.45722
+],
+  "geometry": {"coordinates":[100.31656,14.45722],"type":"Point"}
+}

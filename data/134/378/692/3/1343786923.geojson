@@ -1,0 +1,70 @@
+{
+  "id": 1343786923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.07133,8.22383,100.07133,8.22383",
+    "geom:latitude":8.22383,
+    "geom:longitude":100.07133,
+    "gn:admin1_code":"64.0",
+    "gn:asciiname":"Ban Nam Yom",
+    "gn:country_code":"TH",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8241651,
+    "gn:latitude":8.22383,
+    "gn:longitude":100.07133,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Ban Nam Yom",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e19\u0e33\u0e2b\u0e22\u0e48\u0e2d\u0e21"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678565,
+        1108731673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8241651
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"66648428282894c7247a8a52b6e220e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731673,
+            "locality_id":1343786923,
+            "region_id":85678565
+        }
+    ],
+    "wof:id":1343786923,
+    "wof:lastmodified":1537705233,
+    "wof:name":"Ban Nam Yom",
+    "wof:parent_id":1108731673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.07133,
+    8.22383,
+    100.07133,
+    8.22383
+],
+  "geometry": {"coordinates":[100.07133,8.22383],"type":"Point"}
+}

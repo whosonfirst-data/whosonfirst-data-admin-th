@@ -1,0 +1,70 @@
+{
+  "id": 1344073795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.97639,8.33289,98.97639,8.33289",
+    "geom:latitude":8.33289,
+    "geom:longitude":98.97639,
+    "gn:admin1_code":"63.0",
+    "gn:asciiname":"Ban Thon Phakkut",
+    "gn:country_code":"TH",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8271222,
+    "gn:latitude":8.33289,
+    "gn:longitude":98.97639,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Ban Thon Phakkut",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e17\u0e2d\u0e19\u0e1c\u0e31\u0e01\u0e01\u0e39\u0e14"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678581,
+        1108731217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8271222
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"abf1909b702a15c1fb53022d1a30e5ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731217,
+            "locality_id":1344073795,
+            "region_id":85678581
+        }
+    ],
+    "wof:id":1344073795,
+    "wof:lastmodified":1537705284,
+    "wof:name":"Ban Thon Phakkut",
+    "wof:parent_id":1108731217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.97639,
+    8.33289,
+    98.97639,
+    8.33289
+],
+  "geometry": {"coordinates":[98.97638999999999,8.33289],"type":"Point"}
+}

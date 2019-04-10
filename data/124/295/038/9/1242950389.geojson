@@ -1,0 +1,70 @@
+{
+  "id": 1242950389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.64281,15.93272,99.64281,15.93272",
+    "geom:latitude":15.93272,
+    "geom:longitude":99.64281,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Ban Song Ta Lae",
+    "gn:country_code":"TH",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8387088,
+    "gn:latitude":15.93272,
+    "gn:longitude":99.64281,
+    "gn:modification_date":"2012-09-08",
+    "gn:name":"Ban Song Ta Lae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2a\u0e48\u0e2d\u0e07\u0e15\u0e32\u0e41\u0e25"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678665,
+        1108731355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8387088
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"b885267f6c17c0a21c9d10cb96d2d485",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731355,
+            "locality_id":1242950389,
+            "region_id":85678665
+        }
+    ],
+    "wof:id":1242950389,
+    "wof:lastmodified":1537705554,
+    "wof:name":"Ban Song Ta Lae",
+    "wof:parent_id":1108731355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.64281,
+    15.93272,
+    99.64281,
+    15.93272
+],
+  "geometry": {"coordinates":[99.64281,15.93272],"type":"Point"}
+}

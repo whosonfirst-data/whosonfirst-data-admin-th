@@ -1,0 +1,70 @@
+{
+  "id": 1277042269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.40772,15.81908,101.40772,15.81908",
+    "geom:latitude":15.81908,
+    "geom:longitude":101.40772,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Ban Na Thung Yai",
+    "gn:country_code":"TH",
+    "gn:dem":299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8369169,
+    "gn:latitude":15.81908,
+    "gn:longitude":101.40772,
+    "gn:modification_date":"2012-08-06",
+    "gn:name":"Ban Na Thung Yai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e19\u0e32\u0e17\u0e38\u0e48\u0e07\u0e43\u0e2b\u0e0d\u0e48"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678825,
+        1108731697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8369169
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"aa51c5342acde017d2aedf2ad233bda8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731697,
+            "locality_id":1277042269,
+            "region_id":85678825
+        }
+    ],
+    "wof:id":1277042269,
+    "wof:lastmodified":1537705493,
+    "wof:name":"Ban Na Thung Yai",
+    "wof:parent_id":1108731697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.40772,
+    15.81908,
+    101.40772,
+    15.81908
+],
+  "geometry": {"coordinates":[101.40772,15.81908],"type":"Point"}
+}

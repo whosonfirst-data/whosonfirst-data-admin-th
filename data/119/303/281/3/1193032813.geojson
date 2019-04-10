@@ -1,0 +1,67 @@
+{
+  "id": 1193032813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.6,8.1,98.6,8.1",
+    "geom:latitude":8.1,
+    "geom:longitude":98.6,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Ban Nai Khlong",
+    "gn:country_code":"TH",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1156224,
+    "gn:latitude":8.1,
+    "gn:longitude":98.6,
+    "gn:modification_date":"1994-04-06",
+    "gn:name":"Ban Nai Khlong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678573,
+        890466907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1156224
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"4217f39d52195fa3af1fd6c104e575f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466907,
+            "locality_id":1193032813,
+            "region_id":85678573
+        }
+    ],
+    "wof:id":1193032813,
+    "wof:lastmodified":1536384172,
+    "wof:name":"Ban Nai Khlong",
+    "wof:parent_id":890466907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.6,
+    8.1,
+    98.6,
+    8.1
+],
+  "geometry": {"coordinates":[98.59999999999999,8.1],"type":"Point"}
+}

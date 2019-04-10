@@ -1,0 +1,70 @@
+{
+  "id": 1226705001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.64269,16.18067,103.64269,16.18067",
+    "geom:latitude":16.18067,
+    "geom:longitude":103.64269,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Ban Bueng Don",
+    "gn:country_code":"TH",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8682434,
+    "gn:latitude":16.18067,
+    "gn:longitude":103.64269,
+    "gn:modification_date":"2014-01-18",
+    "gn:name":"Ban Bueng Don",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1a\u0e36\u0e07\u0e42\u0e14\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678845,
+        1108731227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8682434
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"282ba92b4346a3fa1befb9162178a35c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731227,
+            "locality_id":1226705001,
+            "region_id":85678845
+        }
+    ],
+    "wof:id":1226705001,
+    "wof:lastmodified":1537705867,
+    "wof:name":"Ban Bueng Don",
+    "wof:parent_id":1108731227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.64269,
+    16.18067000000001,
+    103.64269,
+    16.18067000000001
+],
+  "geometry": {"coordinates":[103.64269,16.18067000000001],"type":"Point"}
+}

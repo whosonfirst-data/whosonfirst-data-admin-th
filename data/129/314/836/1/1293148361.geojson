@@ -1,0 +1,70 @@
+{
+  "id": 1293148361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.87164,15.63733,101.87164,15.63733",
+    "geom:latitude":15.63733,
+    "geom:longitude":101.87164,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Ban Non Lahan Khao",
+    "gn:country_code":"TH",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8540777,
+    "gn:latitude":15.63733,
+    "gn:longitude":101.87164,
+    "gn:modification_date":"2013-06-06",
+    "gn:name":"Ban Non Lahan Khao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e42\u0e19\u0e19\u0e25\u0e30\u0e2b\u0e32\u0e19\u0e02\u0e49\u0e32\u0e27"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678825,
+        1108731237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8540777
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"21369d8e46d517baa87efe67c505dd82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731237,
+            "locality_id":1293148361,
+            "region_id":85678825
+        }
+    ],
+    "wof:id":1293148361,
+    "wof:lastmodified":1537705702,
+    "wof:name":"Ban Non Lahan Khao",
+    "wof:parent_id":1108731237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.87164,
+    15.63733,
+    101.87164,
+    15.63733
+],
+  "geometry": {"coordinates":[101.87164,15.63733],"type":"Point"}
+}

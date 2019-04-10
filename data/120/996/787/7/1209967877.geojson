@@ -1,0 +1,70 @@
+{
+  "id": 1209967877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.99139,14.94853,101.99139,14.94853",
+    "geom:latitude":14.94853,
+    "geom:longitude":101.99139,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Ban Nong Pet Nam",
+    "gn:country_code":"TH",
+    "gn:dem":198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1615299,
+    "gn:latitude":14.94853,
+    "gn:longitude":101.99139,
+    "gn:modification_date":"2014-06-04",
+    "gn:name":"Ban Nong Pet Nam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e19\u0e2d\u0e07\u0e40\u0e1b\u0e47\u0e14\u0e19\u0e49\u0e33"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678841,
+        1108731353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1615299
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"5b377773e2b5678a269cfdbd756cd0a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731353,
+            "locality_id":1209967877,
+            "region_id":85678841
+        }
+    ],
+    "wof:id":1209967877,
+    "wof:lastmodified":1537703900,
+    "wof:name":"Ban Nong Pet Nam",
+    "wof:parent_id":1108731353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.99139,
+    14.94853,
+    101.99139,
+    14.94853
+],
+  "geometry": {"coordinates":[101.99139,14.94853],"type":"Point"}
+}

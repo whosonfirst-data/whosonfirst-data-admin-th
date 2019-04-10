@@ -1,0 +1,73 @@
+{
+  "id": 1360250535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.80239,17.21022,101.80239,17.21022",
+    "geom:latitude":17.21022,
+    "geom:longitude":101.80239,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Dong Noi",
+    "gn:country_code":"TH",
+    "gn:dem":294,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1603901,
+    "gn:latitude":17.21022,
+    "gn:longitude":101.80239,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Dong Noi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "Ban Dong Noi"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e14\u0e07\u0e19\u0e49\u0e2d\u0e22"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678853,
+        1108732063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1603901
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"be9c1c38250fea8966403d4e68620617",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108732063,
+            "locality_id":1360250535,
+            "region_id":85678853
+        }
+    ],
+    "wof:id":1360250535,
+    "wof:lastmodified":1537703600,
+    "wof:name":"Ban Dong Noi",
+    "wof:parent_id":1108732063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.80239,
+    17.21022,
+    101.80239,
+    17.21022
+],
+  "geometry": {"coordinates":[101.80239,17.21022],"type":"Point"}
+}

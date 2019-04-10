@@ -1,0 +1,70 @@
+{
+  "id": 1293800963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.23981,6.72403,101.23981,6.72403",
+    "geom:latitude":6.72403,
+    "geom:longitude":101.23981,
+    "gn:admin1_code":"69.0",
+    "gn:asciiname":"Ban Khok Mak",
+    "gn:country_code":"TH",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7882133,
+    "gn:latitude":6.72403,
+    "gn:longitude":101.23981,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Khok Mak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e42\u0e04\u0e01\u0e2b\u0e21\u0e31\u0e01"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678889,
+        1108731613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7882133
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"13de22bb422e29d567ff607fafed0a3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731613,
+            "locality_id":1293800963,
+            "region_id":85678889
+        }
+    ],
+    "wof:id":1293800963,
+    "wof:lastmodified":1537704823,
+    "wof:name":"Ban Khok Mak",
+    "wof:parent_id":1108731613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.23981,
+    6.72403,
+    101.23981,
+    6.72403
+],
+  "geometry": {"coordinates":[101.23981000000001,6.72403],"type":"Point"}
+}

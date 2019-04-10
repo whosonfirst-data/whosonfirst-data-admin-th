@@ -1,0 +1,68 @@
+{
+  "id": 1225986881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.7,13.9,100.7,13.9",
+    "geom:latitude":13.9,
+    "geom:longitude":100.7,
+    "gn:admin1_code":"40.0",
+    "gn:admin2_code":"1046.0",
+    "gn:asciiname":"Ban Tao Pun",
+    "gn:country_code":"TH",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1597917,
+    "gn:latitude":13.9,
+    "gn:longitude":100.7,
+    "gn:modification_date":"2017-03-23",
+    "gn:name":"Ban Tao Pun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678739,
+        890466367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1597917
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"b62309031f33fe070c1c693a0c7ee9aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466367,
+            "locality_id":1225986881,
+            "region_id":85678739
+        }
+    ],
+    "wof:id":1225986881,
+    "wof:lastmodified":1536809605,
+    "wof:name":"Ban Tao Pun",
+    "wof:parent_id":890466367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.7,
+    13.9,
+    100.7,
+    13.9
+],
+  "geometry": {"coordinates":[100.7,13.9],"type":"Point"}
+}

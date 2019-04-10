@@ -1,0 +1,70 @@
+{
+  "id": 1327456817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.04544,8.5165,99.04544,8.5165",
+    "geom:latitude":8.5165,
+    "geom:longitude":99.04544,
+    "gn:admin1_code":"60.0",
+    "gn:asciiname":"Ban Khuan Thang",
+    "gn:country_code":"TH",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8324393,
+    "gn:latitude":8.5165,
+    "gn:longitude":99.04544,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Ban Khuan Thang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e04\u0e27\u0e19\u0e17\u0e31\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678581,
+        1108731217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8324393
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"ee1c114b8b468f4d70aed22ca9f6d626",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731217,
+            "locality_id":1327456817,
+            "region_id":85678581
+        }
+    ],
+    "wof:id":1327456817,
+    "wof:lastmodified":1537705380,
+    "wof:name":"Ban Khuan Thang",
+    "wof:parent_id":1108731217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.04544,
+    8.5165,
+    99.04544,
+    8.5165
+],
+  "geometry": {"coordinates":[99.04544,8.5165],"type":"Point"}
+}

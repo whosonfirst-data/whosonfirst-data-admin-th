@@ -1,0 +1,69 @@
+{
+  "id": 1209632065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.87117,13.44939,99.87117,13.44939",
+    "geom:latitude":13.44939,
+    "geom:longitude":99.87117,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Ban Bang Nang Sun",
+    "gn:country_code":"TH",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1158269,
+    "gn:latitude":13.44939,
+    "gn:longitude":99.87117,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Ban Bang Nang Sun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1a\u0e32\u0e07\u0e19\u0e32\u0e07\u0e2a\u0e39\u0e0d"
+    ],
+    "name:und_x_variant":[
+        "Ban Khlong Ban I Sun",
+        "Ban Bang I Sun",
+        "Ban Bang Nang Sun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1158269
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"3446a35d263f3b71c3f9d98f33d33754",
+    "wof:hierarchy":[
+        {
+            "country_id":85632293,
+            "locality_id":1209632065
+        }
+    ],
+    "wof:id":1209632065,
+    "wof:lastmodified":1537703309,
+    "wof:name":"Ban Bang Nang Sun",
+    "wof:parent_id":85632293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.87117,
+    13.44939,
+    99.87117,
+    13.44939
+],
+  "geometry": {"coordinates":[99.87117000000001,13.44939],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1310658153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.44094,16.10717,103.44094,16.10717",
+    "geom:latitude":16.10717,
+    "geom:longitude":103.44094,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Ban Nam Thiang",
+    "gn:country_code":"TH",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8731128,
+    "gn:latitude":16.10717,
+    "gn:longitude":103.44094,
+    "gn:modification_date":"2014-03-12",
+    "gn:name":"Ban Nam Thiang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e19\u0e49\u0e33\u0e40\u0e17\u0e35\u0e22\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678835,
+        1108731307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8731128
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"7e993cdde0c19bd89f07e4d6cb88e954",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731307,
+            "locality_id":1310658153,
+            "region_id":85678835
+        }
+    ],
+    "wof:id":1310658153,
+    "wof:lastmodified":1537705981,
+    "wof:name":"Ban Nam Thiang",
+    "wof:parent_id":1108731307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.44094,
+    16.10717,
+    103.44094,
+    16.10717
+],
+  "geometry": {"coordinates":[103.44094,16.10717],"type":"Point"}
+}

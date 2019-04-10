@@ -1,0 +1,77 @@
+{
+  "id": 1326655267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.32833,7.69222,100.32833,7.69222",
+    "geom:latitude":7.69222,
+    "geom:longitude":100.32833,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Ban Rong",
+    "gn:country_code":"TH",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1598608,
+    "gn:latitude":7.69222,
+    "gn:longitude":100.32833,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Rong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e42\u0e23\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        1108802633,
+        1108731433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1598608
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"5d61634ddbb8e46b462690992c9b0798",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802633,
+            "locality_id":1326655267,
+            "region_id":-1
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731433,
+            "locality_id":1326655267,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1326655267,
+    "wof:lastmodified":1537703408,
+    "wof:name":"Ban Rong",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.32833,
+    7.69222,
+    100.32833,
+    7.69222
+],
+  "geometry": {"coordinates":[100.32832999999999,7.69222],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1292904563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.40089,20.26919,100.40089,20.26919",
+    "geom:latitude":20.26919,
+    "geom:longitude":100.40089,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ban Wiang Kaeo",
+    "gn:country_code":"TH",
+    "gn:dem":361,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7325475,
+    "gn:latitude":20.26919,
+    "gn:longitude":100.40089,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Wiang Kaeo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e27\u0e35\u0e22\u0e07\u0e41\u0e01\u0e49\u0e27"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678617,
+        1108802595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7325475
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"b955e7f964e3fd001ed15cba7828aa23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802595,
+            "locality_id":1292904563,
+            "region_id":85678617
+        }
+    ],
+    "wof:id":1292904563,
+    "wof:lastmodified":1537704451,
+    "wof:name":"Ban Wiang Kaeo",
+    "wof:parent_id":1108802595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.40089,
+    20.26919,
+    100.40089,
+    20.26919
+],
+  "geometry": {"coordinates":[100.40089,20.26919],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1259719275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.00668,8.75669,99.00668,8.75669",
+    "geom:latitude":8.75669,
+    "geom:longitude":99.00668,
+    "gn:admin1_code":"60.0",
+    "gn:asciiname":"Ban Thap Kao",
+    "gn:country_code":"TH",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8323572,
+    "gn:latitude":8.75669,
+    "gn:longitude":99.00668,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Ban Thap Kao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e17\u0e31\u0e1a\u0e40\u0e01\u0e48\u0e32"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678581,
+        1108731345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8323572
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"ccc3bce73f95446c820ac763a8ea0a51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731345,
+            "locality_id":1259719275,
+            "region_id":85678581
+        }
+    ],
+    "wof:id":1259719275,
+    "wof:lastmodified":1537705369,
+    "wof:name":"Ban Thap Kao",
+    "wof:parent_id":1108731345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.00668,
+    8.75669,
+    99.00668,
+    8.75669
+],
+  "geometry": {"coordinates":[99.00668,8.75669],"type":"Point"}
+}

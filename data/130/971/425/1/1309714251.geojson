@@ -1,0 +1,72 @@
+{
+  "id": 1309714251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.95,18.78333,98.95,18.78333",
+    "geom:latitude":18.78333,
+    "geom:longitude":98.95,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Muang Ha",
+    "gn:cc2":"TH",
+    "gn:country_code":"TH",
+    "gn:dem":352,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1156303,
+    "gn:latitude":18.78333,
+    "gn:longitude":98.95,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Muang Ha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Tin Doi",
+        "Ban Muang Ha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678619,
+        890467179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1156303
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"c5ffd1105f7471562acf3eb2d618ff0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890467179,
+            "locality_id":1309714251,
+            "region_id":85678619
+        }
+    ],
+    "wof:id":1309714251,
+    "wof:lastmodified":1537703179,
+    "wof:name":"Ban Muang Ha",
+    "wof:parent_id":890467179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.95,
+    18.78333,
+    98.95,
+    18.78333
+],
+  "geometry": {"coordinates":[98.95,18.78333],"type":"Point"}
+}

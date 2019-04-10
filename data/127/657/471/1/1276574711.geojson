@@ -1,0 +1,70 @@
+{
+  "id": 1276574711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.95367,8.37786,99.95367,8.37786",
+    "geom:latitude":8.37786,
+    "geom:longitude":99.95367,
+    "gn:admin1_code":"64.0",
+    "gn:asciiname":"Ban Mamuang Talot",
+    "gn:country_code":"TH",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8241029,
+    "gn:latitude":8.37786,
+    "gn:longitude":99.95367,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Ban Mamuang Talot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e21\u0e30\u0e21\u0e48\u0e27\u0e07\u0e15\u0e25\u0e2d\u0e14"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678565,
+        890465711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8241029
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"2c8b43221a52e46a69927344d87128d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465711,
+            "locality_id":1276574711,
+            "region_id":85678565
+        }
+    ],
+    "wof:id":1276574711,
+    "wof:lastmodified":1537705224,
+    "wof:name":"Ban Mamuang Talot",
+    "wof:parent_id":890465711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.95367,
+    8.37786,
+    99.95367,
+    8.37786
+],
+  "geometry": {"coordinates":[99.95367,8.37786],"type":"Point"}
+}

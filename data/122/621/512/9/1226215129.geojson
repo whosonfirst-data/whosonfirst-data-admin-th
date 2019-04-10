@@ -1,0 +1,67 @@
+{
+  "id": 1226215129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.555,15.07861,99.555,15.07861",
+    "geom:latitude":15.07861,
+    "geom:longitude":99.555,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ban Phung Klan",
+    "gn:country_code":"TH",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1118101,
+    "gn:latitude":15.07861,
+    "gn:longitude":99.555,
+    "gn:modification_date":"2000-09-11",
+    "gn:name":"Ban Phung Klan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678689,
+        890465633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1118101
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"96b04ba2597fd1d02f346803d68b3a29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465633,
+            "locality_id":1226215129,
+            "region_id":85678689
+        }
+    ],
+    "wof:id":1226215129,
+    "wof:lastmodified":1536977282,
+    "wof:name":"Ban Phung Klan",
+    "wof:parent_id":890465633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.555,
+    15.07861,
+    99.555,
+    15.07861
+],
+  "geometry": {"coordinates":[99.55500000000001,15.07861],"type":"Point"}
+}

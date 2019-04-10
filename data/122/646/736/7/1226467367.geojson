@@ -1,0 +1,74 @@
+{
+  "id": 1226467367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.42283,13.28656,101.42283,13.28656",
+    "geom:latitude":13.28656,
+    "geom:longitude":101.42283,
+    "gn:admin1_code":"46.0",
+    "gn:asciiname":"Ban Om Phanom",
+    "gn:country_code":"TH",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1614759,
+    "gn:latitude":13.28656,
+    "gn:longitude":101.42283,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Om Phanom",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2d\u0e21\u0e1e\u0e19\u0e21"
+    ],
+    "name:und_x_variant":[
+        "Aum Phanom",
+        "Ban Om Phanom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678795,
+        1108731193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1614759
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"f9de5492e9afda997625bd071ce99f3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731193,
+            "locality_id":1226467367,
+            "region_id":85678795
+        }
+    ],
+    "wof:id":1226467367,
+    "wof:lastmodified":1537703865,
+    "wof:name":"Ban Om Phanom",
+    "wof:parent_id":1108731193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.42283,
+    13.28656,
+    101.42283,
+    13.28656
+],
+  "geometry": {"coordinates":[101.42283,13.28656],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243471187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.17264,13.47225,101.17264,13.47225",
+    "geom:latitude":13.47225,
+    "geom:longitude":101.17264,
+    "gn:admin1_code":"46.0",
+    "gn:asciiname":"Ban Hin Chon",
+    "gn:country_code":"TH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7851620,
+    "gn:latitude":13.47225,
+    "gn:longitude":101.17264,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Hin Chon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e34\u0e19\u0e42\u0e08\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678795,
+        1108731705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7851620
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"2537cb8fd8d2524c0a4ec6fc9fc33d41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731705,
+            "locality_id":1243471187,
+            "region_id":85678795
+        }
+    ],
+    "wof:id":1243471187,
+    "wof:lastmodified":1537704721,
+    "wof:name":"Ban Hin Chon",
+    "wof:parent_id":1108731705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.17264,
+    13.47225,
+    101.17264,
+    13.47225
+],
+  "geometry": {"coordinates":[101.17264,13.47225],"type":"Point"}
+}

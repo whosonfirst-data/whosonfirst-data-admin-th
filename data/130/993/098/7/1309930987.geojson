@@ -1,0 +1,67 @@
+{
+  "id": 1309930987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.81667,10.55,98.81667,10.55",
+    "geom:latitude":10.55,
+    "geom:longitude":98.81667,
+    "gn:admin1_code":"59.0",
+    "gn:asciiname":"Ban Mat Ok",
+    "gn:country_code":"TH",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1118944,
+    "gn:latitude":10.55,
+    "gn:longitude":98.81667,
+    "gn:modification_date":"1994-04-10",
+    "gn:name":"Ban Mat Ok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678577,
+        1108802631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1118944
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"4fd03f2a9e2f488cf82b8066d094118c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802631,
+            "locality_id":1309930987,
+            "region_id":85678577
+        }
+    ],
+    "wof:id":1309930987,
+    "wof:lastmodified":1536750632,
+    "wof:name":"Ban Mat Ok",
+    "wof:parent_id":1108802631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.81667,
+    10.55,
+    98.81667,
+    10.55
+],
+  "geometry": {"coordinates":[98.81667,10.55],"type":"Point"}
+}

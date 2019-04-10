@@ -1,0 +1,70 @@
+{
+  "id": 1310445897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.22142,14.7,100.22142,14.7",
+    "geom:latitude":14.7,
+    "geom:longitude":100.22142,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Ban Thung Ta Ngoen",
+    "gn:country_code":"TH",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8197019,
+    "gn:latitude":14.7,
+    "gn:longitude":100.22142,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Ban Thung Ta Ngoen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e17\u0e38\u0e48\u0e07\u0e15\u0e32\u0e40\u0e07\u0e34\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678691,
+        1108802723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8197019
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"0ed4d45cbdec45d93f273b773c61db39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802723,
+            "locality_id":1310445897,
+            "region_id":85678691
+        }
+    ],
+    "wof:id":1310445897,
+    "wof:lastmodified":1537705066,
+    "wof:name":"Ban Thung Ta Ngoen",
+    "wof:parent_id":1108802723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.22142,
+    14.7,
+    100.22142,
+    14.7
+],
+  "geometry": {"coordinates":[100.22141999999999,14.7],"type":"Point"}
+}

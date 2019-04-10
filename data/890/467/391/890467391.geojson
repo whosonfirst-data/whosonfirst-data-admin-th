@@ -1,0 +1,77 @@
+{
+  "id": 890467391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.96772,18.87864,98.96772,18.87864",
+    "geom:latitude":18.87864,
+    "geom:longitude":98.96772,
+    "gn:country":"TH",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424960,
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e14\u0e2d\u0e19\u0e41\u0e01\u0e49\u0e27"
+    ],
+    "name:unk_x_variant":[
+        "Ban Daun Geo"
+    ],
+    "qs:name":"Ban Don Kaeo",
+    "qs:name_adm0":"Thailand",
+    "qs:name_adm1":"Chiang Mai",
+    "qs:photos":468,
+    "qs:photos_1k":95,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":468,
+    "qs:photos_sr":7,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1157896,
+        "gp:id":1202681,
+        "qs:id":238640
+    },
+    "wof:country":"TH",
+    "wof:created":1469053639,
+    "wof:geomhash":"9e95c0af629c42cd1f086310b3b9e84e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "locality_id":890467391,
+            "region_id":85678619
+        }
+    ],
+    "wof:id":890467391,
+    "wof:lastmodified":1505343710,
+    "wof:name":"Ban Don Kaeo",
+    "wof:parent_id":85678619,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.96772,
+    18.87864,
+    98.96772,
+    18.87864
+],
+  "geometry": {"coordinates":[98.96772,18.87864],"type":"Point"}
+}

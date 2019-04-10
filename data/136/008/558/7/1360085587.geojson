@@ -1,0 +1,70 @@
+{
+  "id": 1360085587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.1255,19.61908,100.1255,19.61908",
+    "geom:latitude":19.61908,
+    "geom:longitude":100.1255,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ban Nong Raet Tai",
+    "gn:country_code":"TH",
+    "gn:dem":370,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7382675,
+    "gn:latitude":19.61908,
+    "gn:longitude":100.1255,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Nong Raet Tai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e19\u0e2d\u0e07\u0e41\u0e23\u0e14\u0e43\u0e15\u0e49"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678617,
+        890466587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7382675
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"591e0f828b1e3497a498fec7b639b9d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466587,
+            "locality_id":1360085587,
+            "region_id":85678617
+        }
+    ],
+    "wof:id":1360085587,
+    "wof:lastmodified":1537704459,
+    "wof:name":"Ban Nong Raet Tai",
+    "wof:parent_id":890466587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.1255,
+    19.61908,
+    100.1255,
+    19.61908
+],
+  "geometry": {"coordinates":[100.1255,19.61908],"type":"Point"}
+}

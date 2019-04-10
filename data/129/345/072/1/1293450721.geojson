@@ -1,0 +1,70 @@
+{
+  "id": 1293450721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.66447,14.66178,103.66447,14.66178",
+    "geom:latitude":14.66178,
+    "geom:longitude":103.66447,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Ban Mueang Thong",
+    "gn:country_code":"TH",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8704306,
+    "gn:latitude":14.66178,
+    "gn:longitude":103.66447,
+    "gn:modification_date":"2014-02-17",
+    "gn:name":"Ban Mueang Thong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e17\u0e2d\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678849,
+        1108731461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8704306
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"a39d64f642a5a3fc1bc6b4ec7cf18138",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731461,
+            "locality_id":1293450721,
+            "region_id":85678849
+        }
+    ],
+    "wof:id":1293450721,
+    "wof:lastmodified":1537705940,
+    "wof:name":"Ban Mueang Thong",
+    "wof:parent_id":1108731461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.66447,
+    14.66178,
+    103.66447,
+    14.66178
+],
+  "geometry": {"coordinates":[103.66446999999999,14.66178],"type":"Point"}
+}

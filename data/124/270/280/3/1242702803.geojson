@@ -1,0 +1,70 @@
+{
+  "id": 1242702803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.08372,12.73764,102.08372,12.73764",
+    "geom:latitude":12.73764,
+    "geom:longitude":102.08372,
+    "gn:admin1_code":"48.0",
+    "gn:asciiname":"Ban Khao Krachae",
+    "gn:country_code":"TH",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7913549,
+    "gn:latitude":12.73764,
+    "gn:longitude":102.08372,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Khao Krachae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e02\u0e32\u0e01\u0e23\u0e30\u0e41\u0e08\u0e30"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678799,
+        890466889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7913549
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"34399566c1f45874b4dbac122c70b0ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466889,
+            "locality_id":1242702803,
+            "region_id":85678799
+        }
+    ],
+    "wof:id":1242702803,
+    "wof:lastmodified":1537704865,
+    "wof:name":"Ban Khao Krachae",
+    "wof:parent_id":890466889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.08372,
+    12.73764,
+    102.08372,
+    12.73764
+],
+  "geometry": {"coordinates":[102.08372,12.73764],"type":"Point"}
+}

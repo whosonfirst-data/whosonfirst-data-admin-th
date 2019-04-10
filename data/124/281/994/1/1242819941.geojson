@@ -1,0 +1,70 @@
+{
+  "id": 1242819941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.01033,15.20103,104.01033,15.20103",
+    "geom:latitude":15.20103,
+    "geom:longitude":104.01033,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Ban Dae",
+    "gn:country_code":"TH",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7878072,
+    "gn:latitude":15.20103,
+    "gn:longitude":104.01033,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Dae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e41\u0e14\u0e30"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678779,
+        1108731531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7878072
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"fae96f4dc9eb47b60f9bc4d15b5d8a4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731531,
+            "locality_id":1242819941,
+            "region_id":85678779
+        }
+    ],
+    "wof:id":1242819941,
+    "wof:lastmodified":1537704783,
+    "wof:name":"Ban Dae",
+    "wof:parent_id":1108731531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.01033,
+    15.20103,
+    104.01033,
+    15.20103
+],
+  "geometry": {"coordinates":[104.01033,15.20103],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1293425493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.48333,6.36667,101.48333,6.36667",
+    "geom:latitude":6.36667,
+    "geom:longitude":101.48333,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Kampong Poyodulae",
+    "gn:cc2":"TH",
+    "gn:country_code":"TH",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1610290,
+    "gn:latitude":6.36667,
+    "gn:longitude":101.48333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Kampong Poyodulae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kampong Pau Yau Du Lae",
+        "Kampong Poyotule",
+        "Kampong Poyodulae"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678885,
+        890465725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1610290
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"c4a3a3e849f0c3389923dab00ce158af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465725,
+            "locality_id":1293425493,
+            "region_id":85678885
+        }
+    ],
+    "wof:id":1293425493,
+    "wof:lastmodified":1537703634,
+    "wof:name":"Kampong Poyodulae",
+    "wof:parent_id":890465725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.48333,
+    6.36667,
+    101.48333,
+    6.36667
+],
+  "geometry": {"coordinates":[101.48333,6.36667],"type":"Point"}
+}

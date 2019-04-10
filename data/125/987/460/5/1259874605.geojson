@@ -1,0 +1,76 @@
+{
+  "id": 1259874605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.30386,17.66228,100.30386,17.66228",
+    "geom:latitude":17.66228,
+    "geom:longitude":100.30386,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Ban Saen To",
+    "gn:country_code":"TH",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1613663,
+    "gn:latitude":17.66228,
+    "gn:longitude":100.30386,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Saen To",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e41\u0e2a\u0e19\u0e15\u0e2d"
+    ],
+    "name:und_x_variant":[
+        "Saen Tau",
+        "Ban San Tor",
+        "B\u0101n Sean Tau",
+        "Ban Saen To"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678657,
+        890466775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1613663
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"ecf096306c5e9416d1db3805382e9e0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466775,
+            "locality_id":1259874605,
+            "region_id":85678657
+        }
+    ],
+    "wof:id":1259874605,
+    "wof:lastmodified":1537703789,
+    "wof:name":"Ban Saen To",
+    "wof:parent_id":890466775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.30386,
+    17.66228,
+    100.30386,
+    17.66228
+],
+  "geometry": {"coordinates":[100.30386,17.66228],"type":"Point"}
+}

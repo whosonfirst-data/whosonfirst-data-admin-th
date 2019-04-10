@@ -1,0 +1,73 @@
+{
+  "id": 1209881751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.8627,17.46895,100.8627,17.46895",
+    "geom:latitude":17.46895,
+    "geom:longitude":100.8627,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Na Lueng",
+    "gn:country_code":"TH",
+    "gn:dem":775,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8039100,
+    "gn:latitude":17.46895,
+    "gn:longitude":100.8627,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Na Lueng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "Ban Na Lueng"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e19\u0e32\u0e25\u0e36\u0e48\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678853,
+        1108731547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8039100
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"a1d110b8e611ea3162f4224169677a09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731547,
+            "locality_id":1209881751,
+            "region_id":85678853
+        }
+    ],
+    "wof:id":1209881751,
+    "wof:lastmodified":1537704945,
+    "wof:name":"Ban Na Lueng",
+    "wof:parent_id":1108731547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.8627,
+    17.46895,
+    100.8627,
+    17.46895
+],
+  "geometry": {"coordinates":[100.8627,17.46895],"type":"Point"}
+}

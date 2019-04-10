@@ -1,0 +1,74 @@
+{
+  "id": 1310312827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.2792,17.61167,98.2792,17.61167",
+    "geom:latitude":17.61167,
+    "geom:longitude":98.2792,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Khun Hat",
+    "gn:country_code":"TH",
+    "gn:dem":1081,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1156888,
+    "gn:latitude":17.61167,
+    "gn:longitude":98.2792,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Ban Khun Hat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e02\u0e38\u0e19\u0e2b\u0e32\u0e14"
+    ],
+    "name:und_x_variant":[
+        "Ban Khun Mae Hat",
+        "Ban Mae Hat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678619,
+        890465947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1156888
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"f0b735558738077cac1785057b572c72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465947,
+            "locality_id":1310312827,
+            "region_id":85678619
+        }
+    ],
+    "wof:id":1310312827,
+    "wof:lastmodified":1537703225,
+    "wof:name":"Ban Khun Hat",
+    "wof:parent_id":890465947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.2792,
+    17.61167,
+    98.2792,
+    17.61167
+],
+  "geometry": {"coordinates":[98.2792,17.61167],"type":"Point"}
+}

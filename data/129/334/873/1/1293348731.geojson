@@ -1,0 +1,70 @@
+{
+  "id": 1293348731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.59906,15.87786,102.59906,15.87786",
+    "geom:latitude":15.87786,
+    "geom:longitude":102.59906,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Ban Nong Tana",
+    "gn:country_code":"TH",
+    "gn:dem":205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9004267,
+    "gn:latitude":15.87786,
+    "gn:longitude":102.59906,
+    "gn:modification_date":"2014-05-01",
+    "gn:name":"Ban Nong Tana",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e19\u0e2d\u0e07\u0e15\u0e32\u0e19\u0e32"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678827,
+        890465789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9004267
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"f8029954c7d7b2cfed554b5ed5c3d4be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465789,
+            "locality_id":1293348731,
+            "region_id":85678827
+        }
+    ],
+    "wof:id":1293348731,
+    "wof:lastmodified":1537706101,
+    "wof:name":"Ban Nong Tana",
+    "wof:parent_id":890465789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.59906,
+    15.87786,
+    102.59906,
+    15.87786
+],
+  "geometry": {"coordinates":[102.59905999999999,15.87786],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1309978727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.74881,15.53464,99.74881,15.53464",
+    "geom:latitude":15.53464,
+    "geom:longitude":99.74881,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ban Nong I Hen",
+    "gn:country_code":"TH",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8397083,
+    "gn:latitude":15.53464,
+    "gn:longitude":99.74881,
+    "gn:modification_date":"2012-10-08",
+    "gn:name":"Ban Nong I Hen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e19\u0e2d\u0e07\u0e2d\u0e35\u0e40\u0e2b\u0e47\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678689,
+        1108731867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8397083
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"ee7527a3cd03d965dcdb94ec42c56983",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731867,
+            "locality_id":1309978727,
+            "region_id":85678689
+        }
+    ],
+    "wof:id":1309978727,
+    "wof:lastmodified":1537705578,
+    "wof:name":"Ban Nong I Hen",
+    "wof:parent_id":1108731867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.74881,
+    15.53464,
+    99.74881,
+    15.53464
+],
+  "geometry": {"coordinates":[99.74881000000001,15.53464],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1259734449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.21239,14.63303,101.21239,14.63303",
+    "geom:latitude":14.63303,
+    "geom:longitude":101.21239,
+    "gn:admin1_code":"27",
+    "gn:asciiname":"Ban Phan Suek",
+    "gn:country_code":"TH",
+    "gn:dem":243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9104501,
+    "gn:latitude":14.63303,
+    "gn:longitude":101.21239,
+    "gn:modification_date":"2014-06-07",
+    "gn:name":"Ban Phan Suek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1c\u0e48\u0e32\u0e19\u0e28\u0e36\u0e01"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678841,
+        890466789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9104501
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"0262ca9c670fe9c1d1ca4aa491f9b19c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466789,
+            "locality_id":1259734449,
+            "region_id":85678841
+        }
+    ],
+    "wof:id":1259734449,
+    "wof:lastmodified":1537706135,
+    "wof:name":"Ban Phan Suek",
+    "wof:parent_id":890466789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.21239,
+    14.63303,
+    101.21239,
+    14.63303
+],
+  "geometry": {"coordinates":[101.21239,14.63303],"type":"Point"}
+}

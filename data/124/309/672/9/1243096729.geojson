@@ -1,0 +1,70 @@
+{
+  "id": 1243096729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.85903,8.076,99.85903,8.076",
+    "geom:latitude":8.076,
+    "geom:longitude":99.85903,
+    "gn:admin1_code":"64.0",
+    "gn:asciiname":"Ban Samnak Mai Riap",
+    "gn:country_code":"TH",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8240151,
+    "gn:latitude":8.076,
+    "gn:longitude":99.85903,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Ban Samnak Mai Riap",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2a\u0e33\u0e19\u0e31\u0e01\u0e44\u0e21\u0e49\u0e40\u0e23\u0e35\u0e22\u0e1a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678565,
+        1108731813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8240151
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"635ad59f3c8903a633c721bf990994ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731813,
+            "locality_id":1243096729,
+            "region_id":85678565
+        }
+    ],
+    "wof:id":1243096729,
+    "wof:lastmodified":1537705211,
+    "wof:name":"Ban Samnak Mai Riap",
+    "wof:parent_id":1108731813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.85903,
+    8.076,
+    99.85903,
+    8.076
+],
+  "geometry": {"coordinates":[99.85903,8.076],"type":"Point"}
+}

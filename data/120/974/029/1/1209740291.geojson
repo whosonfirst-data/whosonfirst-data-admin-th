@@ -1,0 +1,72 @@
+{
+  "id": 1209740291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.83333,6.43333,101.83333,6.43333",
+    "geom:latitude":6.43333,
+    "geom:longitude":101.83333,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Kampong Botong",
+    "gn:cc2":"TH",
+    "gn:country_code":"TH",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1610400,
+    "gn:latitude":6.43333,
+    "gn:longitude":101.83333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Kampong Botong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kampong Bau Tong",
+        "Kampong Botong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678885,
+        890465659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1610400
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"e68ef6da2ca43d9dd24e8a852860153e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465659,
+            "locality_id":1209740291,
+            "region_id":85678885
+        }
+    ],
+    "wof:id":1209740291,
+    "wof:lastmodified":1537703645,
+    "wof:name":"Kampong Botong",
+    "wof:parent_id":890465659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.83333,
+    6.43333,
+    101.83333,
+    6.43333
+],
+  "geometry": {"coordinates":[101.83333,6.43333],"type":"Point"}
+}

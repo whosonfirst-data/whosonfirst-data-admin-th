@@ -1,0 +1,70 @@
+{
+  "id": 1309792769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.08417,17.17286,100.08417,17.17286",
+    "geom:latitude":17.17286,
+    "geom:longitude":100.08417,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Ban Tha Tamnak",
+    "gn:country_code":"TH",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8205810,
+    "gn:latitude":17.17286,
+    "gn:longitude":100.08417,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Ban Tha Tamnak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e17\u0e48\u0e32\u0e15\u0e33\u0e2b\u0e19\u0e31\u0e01"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678647,
+        1108802729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8205810
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"d5668d5bb6b6574c9657dd33a9611d79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802729,
+            "locality_id":1309792769,
+            "region_id":85678647
+        }
+    ],
+    "wof:id":1309792769,
+    "wof:lastmodified":1537705104,
+    "wof:name":"Ban Tha Tamnak",
+    "wof:parent_id":1108802729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.08417,
+    17.17286,
+    100.08417,
+    17.17286
+],
+  "geometry": {"coordinates":[100.08417,17.17286],"type":"Point"}
+}

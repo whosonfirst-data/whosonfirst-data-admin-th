@@ -1,0 +1,77 @@
+{
+  "id": 1243174179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.95378,19.54831,98.95378,19.54831",
+    "geom:latitude":19.54831,
+    "geom:longitude":98.95378,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Thung Khao Phuang",
+    "gn:country_code":"TH",
+    "gn:dem":446,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1154311,
+    "gn:latitude":19.54831,
+    "gn:longitude":98.95378,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Thung Khao Phuang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e17\u0e38\u0e48\u0e07\u0e02\u0e49\u0e32\u0e27\u0e1e\u0e27\u0e07"
+    ],
+    "name:und_x_variant":[
+        "Thung Kapaung",
+        "Dhungkap\u016banghno\u0113a",
+        "Ban Thung Kapuang",
+        "Ban Thung Khao Phuang (1)",
+        "Ban Thung Khao Phuang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678619,
+        1108802591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1154311
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"d64bf9bb3b0d9a033b3d795f9a6c5206",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802591,
+            "locality_id":1243174179,
+            "region_id":85678619
+        }
+    ],
+    "wof:id":1243174179,
+    "wof:lastmodified":1537703037,
+    "wof:name":"Ban Thung Khao Phuang",
+    "wof:parent_id":1108802591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.95378,
+    19.54831,
+    98.95378,
+    19.54831
+],
+  "geometry": {"coordinates":[98.95377999999999,19.54831],"type":"Point"}
+}

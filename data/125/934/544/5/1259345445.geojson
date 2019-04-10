@@ -1,0 +1,73 @@
+{
+  "id": 1259345445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.96325,17.34103,101.96325,17.34103",
+    "geom:latitude":17.34103,
+    "geom:longitude":101.96325,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Nong Nam Sai",
+    "gn:country_code":"TH",
+    "gn:dem":308,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8039744,
+    "gn:latitude":17.34103,
+    "gn:longitude":101.96325,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Nong Nam Sai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "Ban Nong Nam Sai"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e19\u0e2d\u0e07\u0e19\u0e49\u0e33\u0e43\u0e2a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678853,
+        1108732063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8039744
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"946d979c4d2d84535865a5573a26c660",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108732063,
+            "locality_id":1259345445,
+            "region_id":85678853
+        }
+    ],
+    "wof:id":1259345445,
+    "wof:lastmodified":1537704952,
+    "wof:name":"Ban Nong Nam Sai",
+    "wof:parent_id":1108732063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.96325,
+    17.34103,
+    101.96325,
+    17.34103
+],
+  "geometry": {"coordinates":[101.96325,17.34103],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243103107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.74328,8.98703,99.74328,8.98703",
+    "geom:latitude":8.98703,
+    "geom:longitude":99.74328,
+    "gn:admin1_code":"64.0",
+    "gn:asciiname":"Ban Nam Ron",
+    "gn:country_code":"TH",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1118749,
+    "gn:latitude":8.98703,
+    "gn:longitude":99.74328,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Ban Nam Ron",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e19\u0e49\u0e33\u0e23\u0e49\u0e2d\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678565,
+        890466877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1118749
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"92e99a8012217dfa8264c0cbd3b2e272",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466877,
+            "locality_id":1243103107,
+            "region_id":85678565
+        }
+    ],
+    "wof:id":1243103107,
+    "wof:lastmodified":1537702960,
+    "wof:name":"Ban Nam Ron",
+    "wof:parent_id":890466877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.74328,
+    8.98703,
+    99.74328,
+    8.98703
+],
+  "geometry": {"coordinates":[99.74328,8.98703],"type":"Point"}
+}

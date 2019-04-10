@@ -1,0 +1,65 @@
+{
+  "id": 1310035069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.28333,8.25,98.28333,8.25",
+    "geom:latitude":8.25,
+    "geom:longitude":98.28333,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Ban Han Pa To",
+    "gn:country_code":"TH",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1120027,
+    "gn:latitude":8.25,
+    "gn:longitude":98.28333,
+    "gn:modification_date":"1994-04-10",
+    "gn:name":"Ban Han Pa To",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1120027
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"215541abb27d754593135fb2beec6a64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "locality_id":1310035069,
+            "region_id":85678573
+        }
+    ],
+    "wof:id":1310035069,
+    "wof:lastmodified":1537094962,
+    "wof:name":"Ban Han Pa To",
+    "wof:parent_id":85678573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.28333,
+    8.25,
+    98.28333,
+    8.25
+],
+  "geometry": {"coordinates":[98.28333000000001,8.25],"type":"Point"}
+}

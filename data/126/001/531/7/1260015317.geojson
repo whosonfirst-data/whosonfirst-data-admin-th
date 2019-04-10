@@ -1,0 +1,76 @@
+{
+  "id": 1260015317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.089,14.0127,100.089,14.0127",
+    "geom:latitude":14.0127,
+    "geom:longitude":100.089,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Ban Ko Than",
+    "gn:country_code":"TH",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1617407,
+    "gn:latitude":14.0127,
+    "gn:longitude":100.089,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Ko Than",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "Ban Ko Than"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e01\u0e32\u0e30\u0e16\u0e48\u0e32\u0e19"
+    ],
+    "name:und_x_variant":[
+        "Ban Ko Than (1)"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678747,
+        1108731279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1617407
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"f1a8a468bf227f2676075ecb0960feb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731279,
+            "locality_id":1260015317,
+            "region_id":85678747
+        }
+    ],
+    "wof:id":1260015317,
+    "wof:lastmodified":1537704048,
+    "wof:name":"Ban Ko Than",
+    "wof:parent_id":1108731279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.089,
+    14.0127,
+    100.089,
+    14.0127
+],
+  "geometry": {"coordinates":[100.089,14.0127],"type":"Point"}
+}

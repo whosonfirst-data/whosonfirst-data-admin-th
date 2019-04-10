@@ -1,0 +1,70 @@
+{
+  "id": 1309719767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.24336,18.568,98.24336,18.568",
+    "geom:latitude":18.568,
+    "geom:longitude":98.24336,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban San Pu Loei",
+    "gn:country_code":"TH",
+    "gn:dem":1093,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7788848,
+    "gn:latitude":18.568,
+    "gn:longitude":98.24336,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban San Pu Loei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2a\u0e31\u0e19\u0e1b\u0e39\u0e40\u0e25\u0e22"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678619,
+        890466281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7788848
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"486c3da75f9b54efcad776bffecfaa6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466281,
+            "locality_id":1309719767,
+            "region_id":85678619
+        }
+    ],
+    "wof:id":1309719767,
+    "wof:lastmodified":1537704684,
+    "wof:name":"Ban San Pu Loei",
+    "wof:parent_id":890466281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.24336,
+    18.568,
+    98.24336,
+    18.568
+],
+  "geometry": {"coordinates":[98.24336,18.568],"type":"Point"}
+}

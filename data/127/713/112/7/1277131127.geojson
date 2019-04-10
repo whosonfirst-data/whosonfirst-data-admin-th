@@ -1,0 +1,70 @@
+{
+  "id": 1277131127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.17181,16.13189,102.17181,16.13189",
+    "geom:latitude":16.13189,
+    "geom:longitude":102.17181,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Ban Krung Klang",
+    "gn:country_code":"TH",
+    "gn:dem":224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8371261,
+    "gn:latitude":16.13189,
+    "gn:longitude":102.17181,
+    "gn:modification_date":"2012-08-06",
+    "gn:name":"Ban Krung Klang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e01\u0e23\u0e38\u0e07\u0e01\u0e25\u0e32\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678825,
+        1108731313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8371261
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"0096a66ebd7cd26415517027b678bd4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731313,
+            "locality_id":1277131127,
+            "region_id":85678825
+        }
+    ],
+    "wof:id":1277131127,
+    "wof:lastmodified":1537705514,
+    "wof:name":"Ban Krung Klang",
+    "wof:parent_id":1108731313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.17181,
+    16.13189,
+    102.17181,
+    16.13189
+],
+  "geometry": {"coordinates":[102.17180999999999,16.13189],"type":"Point"}
+}

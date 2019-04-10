@@ -1,0 +1,105 @@
+{
+  "id": 102026101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000265,
+    "geom:area_square_m":3134102.635567,
+    "geom:bbox":"104.256350606,17.0424941569,104.275143555,17.0605716704",
+    "geom:latitude":17.051533,
+    "geom:longitude":104.265747,
+    "iso:country":"TH",
+    "lbl:latitude":17.051533,
+    "lbl:longitude":104.265747,
+    "mps:latitude":17.051533,
+    "mps:longitude":104.265747,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bpy_x_preferred":[
+        "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u0996\u09cb\u0995 \u09b8\u09bf \u09b8\u09c1\u09ab\u09be\u09a8"
+    ],
+    "name:deu_x_preferred":[
+        "Amphoe Khok Si Suphan"
+    ],
+    "name:eng_x_preferred":[
+        "Khok Si Suphan"
+    ],
+    "name:eng_x_variant":[
+        "Khok Si Supan"
+    ],
+    "name:ron_x_preferred":[
+        "Districtul Khok Si Suphan"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e42\u0e04\u0e01\u0e28\u0e23\u0e35\u0e2a\u0e38\u0e1e\u0e23\u0e23\u0e13"
+    ],
+    "name:vie_x_preferred":[
+        "Khok Si Suphan"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Khok Si Suphan K\u016bn"
+    ],
+    "qs:a0":"Thailand",
+    "qs:a1":"*Sakon Nakhon",
+    "qs:a1r":"*",
+    "qs:a2":"Khok Si Suphan",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Khok Si Suphan",
+    "qs:loc_alt":"Khok Si Suphan",
+    "qs:loc_lc":"7511007",
+    "qs:pop":0,
+    "qs:source":"Aquattroshapes",
+    "qs:type":"County",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":173,
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678863,
+        1108731395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"07cf3042-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":7511007,
+        "gp:id":28341058,
+        "qs:id":356706,
+        "wd:id":"Q475732"
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"f1e9b9641dbafe7ec307d978e6fb2da6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731395,
+            "locality_id":102026101,
+            "region_id":85678863
+        }
+    ],
+    "wof:id":102026101,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527637811,
+    "wof:name":"Khok Si Suphan",
+    "wof:parent_id":1108731395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.25635060614935,
+    17.04249415692175,
+    104.27514355540985,
+    17.0605716703745
+],
+  "geometry": {"coordinates":[[[104.26761476844247,17.0426744491167],[104.26578237128588,17.04249415692175],[104.26394861874736,17.04266120285492],[104.26218397098388,17.04316916794171],[104.26055623381787,17.04399853364316],[104.25912795430499,17.04511743159684],[104.2579540179962,17.04648286773859],[104.25707954008585,17.0480423738472],[104.2565381314371,17.0497360231503],[104.25635060614935,17.05149873264094],[104.25652418045716,17.05326276372605],[104.25705219393178,17.05496032517702],[104.25791436392426,17.0565261783843],[104.25907756370476,17.0579001447861],[104.26049709459137,17.05902941906047],[104.26211840332469,17.05987059909907],[104.26387917874321,17.06039135464727],[104.26571174715552,17.0605716703745],[104.26754567423195,17.06040461550793],[104.26931047324358,17.05989661038205],[104.27093831534212,17.05906717963158],[104.27236663749638,17.05794820152185],[104.27354054766401,17.05658268232023],[104.27441493463031,17.05502310289285],[104.27495620137775,17.05332940117442],[104.27514355540985,17.05156666815158],[104.27496980656404,17.04980264599985],[104.27444164184125,17.04810512458788],[104.27357936691637,17.04653933642965],[104.27241612449451,17.04516545018389],[104.27099661974903,17.0440362589695],[104.26937540195969,17.04319515224958],[104.26761476844247,17.0426744491167]]],"type":"Polygon"}
+}

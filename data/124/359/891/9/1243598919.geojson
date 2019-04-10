@@ -1,0 +1,70 @@
+{
+  "id": 1243598919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.61839,15.00939,100.61839,15.00939",
+    "geom:latitude":15.00939,
+    "geom:longitude":100.61839,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Ban Wang Woen",
+    "gn:country_code":"TH",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1611825,
+    "gn:latitude":15.00939,
+    "gn:longitude":100.61839,
+    "gn:modification_date":"2014-07-08",
+    "gn:name":"Ban Wang Woen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e27\u0e31\u0e07\u0e40\u0e27\u0e34\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678701,
+        1108731391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1611825
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"01c5ad8c3e4ca24db829bd4bb08a0d5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731391,
+            "locality_id":1243598919,
+            "region_id":85678701
+        }
+    ],
+    "wof:id":1243598919,
+    "wof:lastmodified":1537703660,
+    "wof:name":"Ban Wang Woen",
+    "wof:parent_id":1108731391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.61839,
+    15.00939,
+    100.61839,
+    15.00939
+],
+  "geometry": {"coordinates":[100.61839000000001,15.00939],"type":"Point"}
+}

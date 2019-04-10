@@ -1,0 +1,76 @@
+{
+  "id": 1277006993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.62836,15.805,104.62836,15.805",
+    "geom:latitude":15.805,
+    "geom:longitude":104.62836,
+    "gn:admin1_code":"77.0",
+    "gn:asciiname":"Ban Bo Bu",
+    "gn:country_code":"TH",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1620558,
+    "gn:latitude":15.805,
+    "gn:longitude":104.62836,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Bo Bu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1a\u0e48\u0e2d\u0e1a\u0e38"
+    ],
+    "name:und_x_variant":[
+        "Ban Bo Bo",
+        "Ban Boboh",
+        "Ban Bua Bu",
+        "Ban Bo Bu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678789,
+        1108731529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1620558
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"5133ecaffb5fb8483154d14364a239f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731529,
+            "locality_id":1277006993,
+            "region_id":85678789
+        }
+    ],
+    "wof:id":1277006993,
+    "wof:lastmodified":1537704238,
+    "wof:name":"Ban Bo Bu",
+    "wof:parent_id":1108731529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.62836,
+    15.805,
+    104.62836,
+    15.805
+],
+  "geometry": {"coordinates":[104.62836,15.805],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1259351637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.44283,15.75775,102.44283,15.75775",
+    "geom:latitude":15.75775,
+    "geom:longitude":102.44283,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Ban Han Sok Chueak",
+    "gn:country_code":"TH",
+    "gn:dem":194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9001701,
+    "gn:latitude":15.75775,
+    "gn:longitude":102.44283,
+    "gn:modification_date":"2014-05-01",
+    "gn:name":"Ban Han Sok Chueak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e31\u0e19\u0e42\u0e2a\u0e01\u0e40\u0e0a\u0e37\u0e2d\u0e01"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678827,
+        1108732043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9001701
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"ffb0d1d4329dfd2e5a216827d3083eda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108732043,
+            "locality_id":1259351637,
+            "region_id":85678827
+        }
+    ],
+    "wof:id":1259351637,
+    "wof:lastmodified":1537706079,
+    "wof:name":"Ban Han Sok Chueak",
+    "wof:parent_id":1108732043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.44283,
+    15.75775,
+    102.44283,
+    15.75775
+],
+  "geometry": {"coordinates":[102.44283,15.75775],"type":"Point"}
+}

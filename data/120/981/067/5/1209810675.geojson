@@ -1,0 +1,70 @@
+{
+  "id": 1209810675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.46675,17.23333,98.46675,17.23333",
+    "geom:latitude":17.23333,
+    "geom:longitude":98.46675,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Ban Khun Huai Pong",
+    "gn:country_code":"TH",
+    "gn:dem":1036,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8534832,
+    "gn:latitude":17.23333,
+    "gn:longitude":98.46675,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Ban Khun Huai Pong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e02\u0e38\u0e19\u0e2b\u0e49\u0e27\u0e22\u0e42\u0e1b\u0e48\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678683,
+        1108731505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8534832
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"e0977e8b41f0ef3d38a390bfff4fab62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731505,
+            "locality_id":1209810675,
+            "region_id":85678683
+        }
+    ],
+    "wof:id":1209810675,
+    "wof:lastmodified":1537705655,
+    "wof:name":"Ban Khun Huai Pong",
+    "wof:parent_id":1108731505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.46675,
+    17.23333,
+    98.46675,
+    17.23333
+],
+  "geometry": {"coordinates":[98.46675,17.23333],"type":"Point"}
+}

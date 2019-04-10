@@ -1,0 +1,70 @@
+{
+  "id": 1210041455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.74703,13.53633,99.74703,13.53633",
+    "geom:latitude":13.53633,
+    "geom:longitude":99.74703,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Ban Nong Rak",
+    "gn:country_code":"TH",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1155648,
+    "gn:latitude":13.53633,
+    "gn:longitude":99.74703,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Ban Nong Rak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e19\u0e2d\u0e07\u0e23\u0e31\u0e01\u0e29\u0e4c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678761,
+        890466987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1155648
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"aad298a0bbdb5a1c911d707659346d98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466987,
+            "locality_id":1210041455,
+            "region_id":85678761
+        }
+    ],
+    "wof:id":1210041455,
+    "wof:lastmodified":1537703133,
+    "wof:name":"Ban Nong Rak",
+    "wof:parent_id":890466987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.74703,
+    13.53633,
+    99.74703,
+    13.53633
+],
+  "geometry": {"coordinates":[99.74703,13.53633],"type":"Point"}
+}

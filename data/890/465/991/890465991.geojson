@@ -1,0 +1,64 @@
+{
+  "id": 890465991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.820575,11.918573,99.820575,11.918573",
+    "geom:latitude":11.918573,
+    "geom:longitude":99.820575,
+    "gp:adm0":23424960,
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "qs:name":"Sup Nam",
+    "qs:name_adm0":"Thailand",
+    "qs:name_adm1":"Prachuap Khiri Khan",
+    "qs:photos":224,
+    "qs:photos_1k":45,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":224,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1226238,
+        "qs:id":1195664
+    },
+    "wof:country":"TH",
+    "wof:created":1469053555,
+    "wof:geomhash":"4cd5f8b6cc71a961900b5946440c22ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "locality_id":890465991,
+            "region_id":85678757
+        }
+    ],
+    "wof:id":890465991,
+    "wof:lastmodified":1469053555,
+    "wof:name":"Sup Nam",
+    "wof:parent_id":85678757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.820575,
+    11.918573,
+    99.820575,
+    11.918573
+],
+  "geometry": {"coordinates":[99.82057500000001,11.918573],"type":"Point"}
+}

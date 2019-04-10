@@ -1,0 +1,74 @@
+{
+  "id": 1276579495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.14378,13.85564,101.14378,13.85564",
+    "geom:latitude":13.85564,
+    "geom:longitude":101.14378,
+    "gn:admin1_code":"44.0",
+    "gn:asciiname":"Ban Sam Hom",
+    "gn:country_code":"TH",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1613523,
+    "gn:latitude":13.85564,
+    "gn:longitude":101.14378,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Sam Hom",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2a\u0e32\u0e21\u0e2b\u0e2d\u0e21"
+    ],
+    "name:und_x_variant":[
+        "Saum Ham",
+        "Ban Sam Hom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678797,
+        1108802585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1613523
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"23bde786ffed91411a61a7825936d5f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802585,
+            "locality_id":1276579495,
+            "region_id":85678797
+        }
+    ],
+    "wof:id":1276579495,
+    "wof:lastmodified":1537703779,
+    "wof:name":"Ban Sam Hom",
+    "wof:parent_id":1108802585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.14378,
+    13.85564,
+    101.14378,
+    13.85564
+],
+  "geometry": {"coordinates":[101.14378000000001,13.85564],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1293516987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.37619,8.82714,98.37619,8.82714",
+    "geom:latitude":8.82714,
+    "geom:longitude":98.37619,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Ban Na Pa To",
+    "gn:country_code":"TH",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1156080,
+    "gn:latitude":8.82714,
+    "gn:longitude":98.37619,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Ban Na Pa To",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e19\u0e32\u0e1b\u0e48\u0e32\u0e15\u0e2d"
+    ],
+    "name:und_x_variant":[
+        "Ban Pa To",
+        "Ban Na Pa To"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678573,
+        1108731961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1156080
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"82a1413b17651f5adc0496805c1b51bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731961,
+            "locality_id":1293516987,
+            "region_id":85678573
+        }
+    ],
+    "wof:id":1293516987,
+    "wof:lastmodified":1537703164,
+    "wof:name":"Ban Na Pa To",
+    "wof:parent_id":1108731961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.37619,
+    8.82714,
+    98.37619,
+    8.82714
+],
+  "geometry": {"coordinates":[98.37618999999999,8.82714],"type":"Point"}
+}

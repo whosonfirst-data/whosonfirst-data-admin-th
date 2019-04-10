@@ -1,0 +1,73 @@
+{
+  "id": 1225932353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.41564,17.732,100.41564,17.732",
+    "geom:latitude":17.732,
+    "geom:longitude":100.41564,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Ban Pak Thap",
+    "gn:country_code":"TH",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8136315,
+    "gn:latitude":17.732,
+    "gn:longitude":100.41564,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Ban Pak Thap",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "Ban Pak Thap"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1b\u0e32\u0e01\u0e17\u0e31\u0e1a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678657,
+        1108731981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8136315
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"72f1ab220a9b364b502ac044a95158cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731981,
+            "locality_id":1225932353,
+            "region_id":85678657
+        }
+    ],
+    "wof:id":1225932353,
+    "wof:lastmodified":1537704988,
+    "wof:name":"Ban Pak Thap",
+    "wof:parent_id":1108731981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.41564,
+    17.732,
+    100.41564,
+    17.732
+],
+  "geometry": {"coordinates":[100.41564,17.732],"type":"Point"}
+}

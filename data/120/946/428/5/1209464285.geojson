@@ -1,0 +1,66 @@
+{
+  "id": 1209464285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.41667,14.58333,104.41667,14.58333",
+    "geom:latitude":14.58333,
+    "geom:longitude":104.41667,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Ban Kan Chan",
+    "gn:cc2":"TH",
+    "gn:country_code":"TH",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1618646,
+    "gn:latitude":14.58333,
+    "gn:longitude":104.41667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Kan Chan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Chan",
+        "Ban Kan Chan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1618646
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"aa1907fde60725e9e1f203882df2abaf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632293,
+            "locality_id":1209464285
+        }
+    ],
+    "wof:id":1209464285,
+    "wof:lastmodified":1537704139,
+    "wof:name":"Ban Kan Chan",
+    "wof:parent_id":85632293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.41667,
+    14.58333,
+    104.41667,
+    14.58333
+],
+  "geometry": {"coordinates":[104.41667,14.58333],"type":"Point"}
+}

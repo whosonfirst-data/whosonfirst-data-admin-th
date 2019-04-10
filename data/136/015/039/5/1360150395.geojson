@@ -1,0 +1,73 @@
+{
+  "id": 1360150395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.86889,17.05283,101.86889,17.05283",
+    "geom:latitude":17.05283,
+    "geom:longitude":101.86889,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Sam Thong",
+    "gn:country_code":"TH",
+    "gn:dem":326,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8039918,
+    "gn:latitude":17.05283,
+    "gn:longitude":101.86889,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Sam Thong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "Ban Sam Thong"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e0b\u0e33\u0e17\u0e2d\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678853,
+        890466061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8039918
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"fdbc047a17c1d8d81ca23cae0e199e7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466061,
+            "locality_id":1360150395,
+            "region_id":85678853
+        }
+    ],
+    "wof:id":1360150395,
+    "wof:lastmodified":1537704955,
+    "wof:name":"Ban Sam Thong",
+    "wof:parent_id":890466061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.86889,
+    17.05283,
+    101.86889,
+    17.05283
+],
+  "geometry": {"coordinates":[101.86888999999999,17.05283],"type":"Point"}
+}

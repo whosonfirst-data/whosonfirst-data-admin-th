@@ -1,0 +1,70 @@
+{
+  "id": 1310669259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.09192,16.72811,104.09192,16.72811",
+    "geom:latitude":16.72811,
+    "geom:longitude":104.09192,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Ban Na Ta Lio",
+    "gn:country_code":"TH",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8654409,
+    "gn:latitude":16.72811,
+    "gn:longitude":104.09192,
+    "gn:modification_date":"2013-12-17",
+    "gn:name":"Ban Na Ta Lio",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e19\u0e32\u0e15\u0e32\u0e2b\u0e25\u0e34\u0e27"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678831,
+        1108731369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8654409
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"5ed3a11ae693085b9c3cf711a694b500",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731369,
+            "locality_id":1310669259,
+            "region_id":85678831
+        }
+    ],
+    "wof:id":1310669259,
+    "wof:lastmodified":1537705780,
+    "wof:name":"Ban Na Ta Lio",
+    "wof:parent_id":1108731369,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.09192,
+    16.72811,
+    104.09192,
+    16.72811
+],
+  "geometry": {"coordinates":[104.09192,16.72811],"type":"Point"}
+}

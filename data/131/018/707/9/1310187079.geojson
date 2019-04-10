@@ -1,0 +1,70 @@
+{
+  "id": 1310187079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.05231,15.80547,100.05231,15.80547",
+    "geom:latitude":15.80547,
+    "geom:longitude":100.05231,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ban Wang Pla Ra",
+    "gn:country_code":"TH",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1611885,
+    "gn:latitude":15.80547,
+    "gn:longitude":100.05231,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Ban Wang Pla Ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e27\u0e31\u0e07\u0e1b\u0e25\u0e32\u0e23\u0e49\u0e32"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678715,
+        890466923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1611885
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"ce8a21fda6feeabd3bbc4723610497d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466923,
+            "locality_id":1310187079,
+            "region_id":85678715
+        }
+    ],
+    "wof:id":1310187079,
+    "wof:lastmodified":1537703664,
+    "wof:name":"Ban Wang Pla Ra",
+    "wof:parent_id":890466923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.05231,
+    15.80547,
+    100.05231,
+    15.80547
+],
+  "geometry": {"coordinates":[100.05231000000001,15.80547],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1209851279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.52667,6.40353,101.52667,6.40353",
+    "geom:latitude":6.40353,
+    "geom:longitude":101.52667,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Ban Bue Nae Kha De",
+    "gn:country_code":"TH",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7463080,
+    "gn:latitude":6.40353,
+    "gn:longitude":101.52667,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Bue Nae Kha De",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1a\u0e37\u0e2d\u0e41\u0e19\u0e06\u0e32\u0e40\u0e14"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678885,
+        890465725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7463080
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"c27d6b3bc32c7e00f28730fff3828d2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465725,
+            "locality_id":1209851279,
+            "region_id":85678885
+        }
+    ],
+    "wof:id":1209851279,
+    "wof:lastmodified":1537704499,
+    "wof:name":"Ban Bue Nae Kha De",
+    "wof:parent_id":890465725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.52667,
+    6.40353,
+    101.52667,
+    6.40353
+],
+  "geometry": {"coordinates":[101.52667,6.40353],"type":"Point"}
+}

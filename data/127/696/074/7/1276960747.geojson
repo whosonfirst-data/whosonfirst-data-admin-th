@@ -1,0 +1,70 @@
+{
+  "id": 1276960747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.858,15.78103,99.858,15.78103",
+    "geom:latitude":15.78103,
+    "geom:longitude":99.858,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ban Don Kluai Tao",
+    "gn:country_code":"TH",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8343322,
+    "gn:latitude":15.78103,
+    "gn:longitude":99.858,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Ban Don Kluai Tao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e14\u0e2d\u0e19\u0e01\u0e25\u0e49\u0e27\u0e22\u0e40\u0e15\u0e48\u0e32"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678715,
+        890466203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8343322
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"b4ed41a99472368e2bb26f350026e57b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466203,
+            "locality_id":1276960747,
+            "region_id":85678715
+        }
+    ],
+    "wof:id":1276960747,
+    "wof:lastmodified":1537705449,
+    "wof:name":"Ban Don Kluai Tao",
+    "wof:parent_id":890466203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.858,
+    15.78103,
+    99.858,
+    15.78103
+],
+  "geometry": {"coordinates":[99.858,15.78103],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1242946275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.20258,16.75542,101.20258,16.75542",
+    "geom:latitude":16.75542,
+    "geom:longitude":101.20258,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ban Nam Ko Hua Khua",
+    "gn:country_code":"TH",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8565069,
+    "gn:latitude":16.75542,
+    "gn:longitude":101.20258,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Ban Nam Ko Hua Khua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e19\u0e49\u0e33\u0e01\u0e49\u0e2d\u0e2b\u0e31\u0e27\u0e02\u0e31\u0e27"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678673,
+        890466361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8565069
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"070157bad697d8155425a384c13bec51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466361,
+            "locality_id":1242946275,
+            "region_id":85678673
+        }
+    ],
+    "wof:id":1242946275,
+    "wof:lastmodified":1537705716,
+    "wof:name":"Ban Nam Ko Hua Khua",
+    "wof:parent_id":890466361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.20258,
+    16.75542,
+    101.20258,
+    16.75542
+],
+  "geometry": {"coordinates":[101.20258,16.75542],"type":"Point"}
+}

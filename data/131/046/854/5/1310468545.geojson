@@ -1,0 +1,70 @@
+{
+  "id": 1310468545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.91808,15.09125,101.91808,15.09125",
+    "geom:latitude":15.09125,
+    "geom:longitude":101.91808,
+    "gn:admin1_code":"27",
+    "gn:asciiname":"Ban Nong Wong",
+    "gn:country_code":"TH",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9107470,
+    "gn:latitude":15.09125,
+    "gn:longitude":101.91808,
+    "gn:modification_date":"2014-06-07",
+    "gn:name":"Ban Nong Wong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e19\u0e2d\u0e07\u0e27\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678841,
+        1108731353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9107470
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"3f977f1ba5d4e3b2e6bd512d263ec45b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731353,
+            "locality_id":1310468545,
+            "region_id":85678841
+        }
+    ],
+    "wof:id":1310468545,
+    "wof:lastmodified":1537706171,
+    "wof:name":"Ban Nong Wong",
+    "wof:parent_id":1108731353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.91808,
+    15.09125,
+    101.91808,
+    15.09125
+],
+  "geometry": {"coordinates":[101.91808,15.09125],"type":"Point"}
+}

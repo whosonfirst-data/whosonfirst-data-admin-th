@@ -1,0 +1,73 @@
+{
+  "id": 890465759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-11-10",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.27152,14.77706,101.27152,14.77706",
+    "geom:latitude":14.77706,
+    "geom:longitude":101.27152,
+    "gn:country":"TH",
+    "gn:fcode":"ADM2",
+    "gn:pop":0,
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e21\u0e27\u0e01\u0e40\u0e2b\u0e25\u0e47\u0e01"
+    ],
+    "name:tha_x_variant":[
+        "\u0e21\u0e27\u0e01\u0e40\u0e2b\u0e25\u0e47\u0e01"
+    ],
+    "qs:name":"Amphoe Muak Lek",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":364,
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7510710,
+        "gp:id":28341498,
+        "qs:id":1041651,
+        "wd:id":"Q56588",
+        "wk:page":"Muak Lek District"
+    },
+    "wof:country":"TH",
+    "wof:created":1469053533,
+    "wof:geomhash":"ce8abf54c0a1c72416a47622f8007804",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465759,
+            "region_id":85678701
+        }
+    ],
+    "wof:id":890465759,
+    "wof:lastmodified":1527736655,
+    "wof:name":"Amphoe Muak Lek",
+    "wof:parent_id":85678701,
+    "wof:placetype":"county",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.27152,
+    14.77706,
+    101.27152,
+    14.77706
+],
+  "geometry": {"coordinates":[101.27152,14.77706],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1360209551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.36092,7.41657,100.36092,7.41657",
+    "geom:latitude":7.41657,
+    "geom:longitude":100.36092,
+    "gn:admin1_code":"66.0",
+    "gn:asciiname":"Ban Ao Chat",
+    "gn:country_code":"TH",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1604188,
+    "gn:latitude":7.41657,
+    "gn:longitude":100.36092,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Ao Chat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2d\u0e48\u0e32\u0e27\u0e08\u0e32\u0e14"
+    ],
+    "name:und_x_variant":[
+        "Ban Chat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        1108802715,
+        1108731675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1604188
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"96b2605592eb78a12a0e1b50b960e68d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802715,
+            "locality_id":1360209551,
+            "region_id":-1
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731675,
+            "locality_id":1360209551,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1360209551,
+    "wof:lastmodified":1537703611,
+    "wof:name":"Ban Ao Chat",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.36092,
+    7.41657,
+    100.36092,
+    7.41657
+],
+  "geometry": {"coordinates":[100.36091999999999,7.41657],"type":"Point"}
+}

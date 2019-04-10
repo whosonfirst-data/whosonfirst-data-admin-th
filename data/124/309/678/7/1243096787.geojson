@@ -1,0 +1,70 @@
+{
+  "id": 1243096787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.64433,18.37375,103.64433,18.37375",
+    "geom:latitude":18.37375,
+    "geom:longitude":103.64433,
+    "gn:admin1_code":"81.0",
+    "gn:asciiname":"Ban Bueng Kan Nuea",
+    "gn:country_code":"TH",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7671565,
+    "gn:latitude":18.37375,
+    "gn:longitude":103.64433,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Ban Bueng Kan Nuea",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1a\u0e36\u0e07\u0e01\u0e32\u0e2c\u0e40\u0e2b\u0e19\u0e37\u0e2d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678895,
+        1108731203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7671565
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"9f3f92d96513c841174c8909fe57ea1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731203,
+            "locality_id":1243096787,
+            "region_id":85678895
+        }
+    ],
+    "wof:id":1243096787,
+    "wof:lastmodified":1537704573,
+    "wof:name":"Ban Bueng Kan Nuea",
+    "wof:parent_id":1108731203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.64433,
+    18.37375,
+    103.64433,
+    18.37375
+],
+  "geometry": {"coordinates":[103.64433,18.37375],"type":"Point"}
+}

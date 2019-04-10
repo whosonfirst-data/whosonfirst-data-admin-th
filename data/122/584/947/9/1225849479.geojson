@@ -1,0 +1,73 @@
+{
+  "id": 1225849479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.04531,17.86725,99.04531,17.86725",
+    "geom:latitude":17.86725,
+    "geom:longitude":99.04531,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ban Long",
+    "gn:country_code":"TH",
+    "gn:dem":502,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1330828,
+    "gn:latitude":17.86725,
+    "gn:longitude":99.04531,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Ban Long",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e25\u0e49\u0e2d\u0e07"
+    ],
+    "name:und_x_variant":[
+        "Ban Rong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678629,
+        1108802767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1330828
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"22d2cd6251311af767abbfaef1646eeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802767,
+            "locality_id":1225849479,
+            "region_id":85678629
+        }
+    ],
+    "wof:id":1225849479,
+    "wof:lastmodified":1537703320,
+    "wof:name":"Ban Long",
+    "wof:parent_id":1108802767,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.04531,
+    17.86725,
+    99.04531,
+    17.86725
+],
+  "geometry": {"coordinates":[99.04531,17.86725],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1209845033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.4525,12.55722,101.4525,12.55722",
+    "geom:latitude":12.55722,
+    "geom:longitude":101.4525,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Ban Ao Cho",
+    "gn:country_code":"TH",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7735931,
+    "gn:latitude":12.55722,
+    "gn:longitude":101.4525,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Ao Cho",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2d\u0e48\u0e32\u0e27\u0e0a\u0e48\u0e2d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678809,
+        1108802679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7735931
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"3b6a4797ddb2f89772edda9d8c3849bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802679,
+            "locality_id":1209845033,
+            "region_id":85678809
+        }
+    ],
+    "wof:id":1209845033,
+    "wof:lastmodified":1537704637,
+    "wof:name":"Ban Ao Cho",
+    "wof:parent_id":1108802679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.4525,
+    12.55722,
+    101.4525,
+    12.55722
+],
+  "geometry": {"coordinates":[101.4525,12.55722],"type":"Point"}
+}

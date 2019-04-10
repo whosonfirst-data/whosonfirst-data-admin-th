@@ -1,0 +1,70 @@
+{
+  "id": 1226772739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.96368,7.785,99.96368,7.785",
+    "geom:latitude":7.785,
+    "geom:longitude":99.96368,
+    "gn:admin1_code":"66.0",
+    "gn:asciiname":"Ban Sala Tam Sao",
+    "gn:country_code":"TH",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8203281,
+    "gn:latitude":7.785,
+    "gn:longitude":99.96368,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Ban Sala Tam Sao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e28\u0e32\u0e25\u0e32\u0e15\u0e33\u0e40\u0e2a\u0e32"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678591,
+        1108731403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8203281
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"92e46c468a479284b579537e8e915aa6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731403,
+            "locality_id":1226772739,
+            "region_id":85678591
+        }
+    ],
+    "wof:id":1226772739,
+    "wof:lastmodified":1537705069,
+    "wof:name":"Ban Sala Tam Sao",
+    "wof:parent_id":1108731403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.96368,
+    7.785,
+    99.96368,
+    7.785
+],
+  "geometry": {"coordinates":[99.96368,7.785],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1242850117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.97775,17.26403,101.97775,17.26403",
+    "geom:latitude":17.26403,
+    "geom:longitude":101.97775,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Pha Sam Bon",
+    "gn:country_code":"TH",
+    "gn:dem":388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8039762,
+    "gn:latitude":17.26403,
+    "gn:longitude":101.97775,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Pha Sam Bon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "Ban Pha Sam Bon"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1c\u0e32\u0e0b\u0e33\u0e1a\u0e2d\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678853,
+        1108732063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8039762
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"f80f44115135967d96af044cee81020f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108732063,
+            "locality_id":1242850117,
+            "region_id":85678853
+        }
+    ],
+    "wof:id":1242850117,
+    "wof:lastmodified":1537704953,
+    "wof:name":"Ban Pha Sam Bon",
+    "wof:parent_id":1108732063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.97775,
+    17.26403,
+    101.97775,
+    17.26403
+],
+  "geometry": {"coordinates":[101.97775,17.26403],"type":"Point"}
+}

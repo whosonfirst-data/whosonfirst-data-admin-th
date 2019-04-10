@@ -1,0 +1,70 @@
+{
+  "id": 1226595785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.77667,14.69533,100.77667,14.69533",
+    "geom:latitude":14.69533,
+    "geom:longitude":100.77667,
+    "gn:admin1_code":"37",
+    "gn:asciiname":"Ban Khao Liao",
+    "gn:country_code":"TH",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9029454,
+    "gn:latitude":14.69533,
+    "gn:longitude":100.77667,
+    "gn:modification_date":"2014-05-02",
+    "gn:name":"Ban Khao Liao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e02\u0e32\u0e40\u0e25\u0e35\u0e49\u0e22\u0e27"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678735,
+        890466793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9029454
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"0ace6d78c69bdd0404e54c9c3a866c7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466793,
+            "locality_id":1226595785,
+            "region_id":85678735
+        }
+    ],
+    "wof:id":1226595785,
+    "wof:lastmodified":1537706120,
+    "wof:name":"Ban Khao Liao",
+    "wof:parent_id":890466793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.77667,
+    14.69533,
+    100.77667,
+    14.69533
+],
+  "geometry": {"coordinates":[100.77667,14.69533],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293504247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.54672,12.58194,102.54672,12.58194",
+    "geom:latitude":12.58194,
+    "geom:longitude":102.54672,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"Ban Hua Thung",
+    "gn:country_code":"TH",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1949478,
+    "gn:latitude":12.58194,
+    "gn:longitude":102.54672,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ban Hua Thung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e31\u0e27\u0e17\u0e38\u0e48\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678813,
+        1108731191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1949478
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"5ea520bf2e62830105420b98d16be85d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731191,
+            "locality_id":1293504247,
+            "region_id":85678813
+        }
+    ],
+    "wof:id":1293504247,
+    "wof:lastmodified":1537704298,
+    "wof:name":"Ban Hua Thung",
+    "wof:parent_id":1108731191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.54672,
+    12.58194,
+    102.54672,
+    12.58194
+],
+  "geometry": {"coordinates":[102.54671999999999,12.58194],"type":"Point"}
+}

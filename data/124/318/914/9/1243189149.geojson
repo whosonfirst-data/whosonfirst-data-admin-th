@@ -1,0 +1,70 @@
+{
+  "id": 1243189149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.86964,14.28569,99.86964,14.28569",
+    "geom:latitude":14.28569,
+    "geom:longitude":99.86964,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Ban Pong",
+    "gn:country_code":"TH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1155087,
+    "gn:latitude":14.28569,
+    "gn:longitude":99.86964,
+    "gn:modification_date":"2014-01-08",
+    "gn:name":"Ban Pong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e42\u0e1b\u0e48\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678679,
+        1108732035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1155087
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"5a7e62067cebb4033ca3c24dd84cbb42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108732035,
+            "locality_id":1243189149,
+            "region_id":85678679
+        }
+    ],
+    "wof:id":1243189149,
+    "wof:lastmodified":1537703093,
+    "wof:name":"Ban Pong",
+    "wof:parent_id":1108732035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.86964,
+    14.28569,
+    99.86964,
+    14.28569
+],
+  "geometry": {"coordinates":[99.86964,14.28569],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1225798977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.14908,15.17486,101.14908,15.17486",
+    "geom:latitude":15.17486,
+    "geom:longitude":101.14908,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Ban Tha Din Dam",
+    "gn:country_code":"TH",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1884538,
+    "gn:latitude":15.17486,
+    "gn:longitude":101.14908,
+    "gn:modification_date":"2014-07-09",
+    "gn:name":"Ban Tha Din Dam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e17\u0e48\u0e32\u0e14\u0e34\u0e19\u0e14\u0e33"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678701,
+        890466247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1884538
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"f3abba1129d9d8fa4c0f015140307b99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466247,
+            "locality_id":1225798977,
+            "region_id":85678701
+        }
+    ],
+    "wof:id":1225798977,
+    "wof:lastmodified":1537704268,
+    "wof:name":"Ban Tha Din Dam",
+    "wof:parent_id":890466247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.14908,
+    15.17486,
+    101.14908,
+    15.17486
+],
+  "geometry": {"coordinates":[101.14908,15.17486],"type":"Point"}
+}

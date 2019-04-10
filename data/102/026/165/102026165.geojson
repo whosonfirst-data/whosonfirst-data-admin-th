@@ -1,0 +1,75 @@
+{
+  "id": 102026165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00027,
+    "geom:area_square_m":3309746.658828,
+    "geom:bbox":"100.458984375,6.88280024177,100.480957031,6.89916069003",
+    "geom:latitude":6.889163,
+    "geom:longitude":100.469666,
+    "gn:latitude":6.7325,
+    "gn:longitude":101.06175,
+    "iso:country":"TH",
+    "lbl:latitude":6.888469,
+    "lbl:longitude":100.469456,
+    "mps:latitude":6.888469,
+    "mps:longitude":100.469456,
+    "mz:hierarchy_label":1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e04\u0e25\u0e2d\u0e07\u0e1b\u0e2d\u0e21"
+    ],
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Ban Khlong Pom",
+    "qs:loc_lc":"7882072",
+    "qs:pop":0,
+    "qs:source":"Aquattroshapes",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678603,
+        890467223
+    ],
+    "wof:breaches":[
+        102025409
+    ],
+    "wof:concordances":{
+        "gn:id":7882072
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"df74bc6ab23037ab0923a0b45a42218b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890467223,
+            "locality_id":102026165,
+            "region_id":85678603
+        }
+    ],
+    "wof:id":102026165,
+    "wof:lastmodified":1501273368,
+    "wof:name":"Ban Khlong Pom",
+    "wof:parent_id":890467223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.458984375,
+    6.88280024177,
+    100.480957031,
+    6.89916069003
+],
+  "geometry": {"coordinates":[[[100.46997070299999,6.89370727001],[100.480957031,6.89370727001],[100.480957031,6.88280024177],[100.46997070299999,6.88280024177],[100.458984375,6.88280024177],[100.458984375,6.89370727001],[100.46447753899999,6.89370727001],[100.46447753899999,6.89916069003],[100.46997070299999,6.89916069003],[100.46997070299999,6.89370727001]]],"type":"Polygon"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1310530935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.18408,7.725,99.18408,7.725",
+    "geom:latitude":7.725,
+    "geom:longitude":99.18408,
+    "gn:admin1_code":"63.0",
+    "gn:asciiname":"Ban Mu Sa",
+    "gn:country_code":"TH",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1154162,
+    "gn:latitude":7.725,
+    "gn:longitude":99.18408,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Ban Mu Sa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e21\u0e39\u0e48\u0e2a\u0e32"
+    ],
+    "name:und_x_variant":[
+        "Ban To Mula",
+        "Ban To Musa",
+        "Ban Mu Sa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678585,
+        1108802621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1154162
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"8058e785ae7eee481407b93cead763c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802621,
+            "locality_id":1310530935,
+            "region_id":85678585
+        }
+    ],
+    "wof:id":1310530935,
+    "wof:lastmodified":1537703027,
+    "wof:name":"Ban Mu Sa",
+    "wof:parent_id":1108802621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.18408,
+    7.725,
+    99.18408,
+    7.725
+],
+  "geometry": {"coordinates":[99.18407999999999,7.725],"type":"Point"}
+}

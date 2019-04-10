@@ -1,0 +1,80 @@
+{
+  "id": 1343875255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.01675,15.11639,105.01675,15.11639",
+    "geom:latitude":15.11639,
+    "geom:longitude":105.01675,
+    "gn:admin1_code":"75.0",
+    "gn:asciiname":"Ban Na Du",
+    "gn:country_code":"TH",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1616452,
+    "gn:latitude":15.11639,
+    "gn:longitude":105.01675,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Ban Na Du",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e19\u0e32\u0e14\u0e39\u0e48"
+    ],
+    "name:und_x_variant":[
+        "Noen Khu",
+        "Ban Nonot",
+        "Noendu",
+        "Ban Non Dul",
+        "Ban Non Khu",
+        "Ban Non Du",
+        "Ban Noen Du",
+        "Ban Na Du"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678783,
+        1108731569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1616452
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"f4d23e630a3afdd4013647baae89e6ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731569,
+            "locality_id":1343875255,
+            "region_id":85678783
+        }
+    ],
+    "wof:id":1343875255,
+    "wof:lastmodified":1537703981,
+    "wof:name":"Ban Na Du",
+    "wof:parent_id":1108731569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.01675,
+    15.11639,
+    105.01675,
+    15.11639
+],
+  "geometry": {"coordinates":[105.01675,15.11639],"type":"Point"}
+}

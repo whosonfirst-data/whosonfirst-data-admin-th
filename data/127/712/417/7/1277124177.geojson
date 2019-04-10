@@ -1,0 +1,70 @@
+{
+  "id": 1277124177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.39078,15.20968,102.39078,15.20968",
+    "geom:latitude":15.20968,
+    "geom:longitude":102.39078,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Ban Samrit",
+    "gn:country_code":"TH",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1613459,
+    "gn:latitude":15.20968,
+    "gn:longitude":102.39078,
+    "gn:modification_date":"2014-06-04",
+    "gn:name":"Ban Samrit",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2a\u0e31\u0e21\u0e24\u0e17\u0e18\u0e34\u0e4c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678841,
+        890466783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1613459
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"7c9cc5b17d4c2a0477d49282810546a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466783,
+            "locality_id":1277124177,
+            "region_id":85678841
+        }
+    ],
+    "wof:id":1277124177,
+    "wof:lastmodified":1537703775,
+    "wof:name":"Ban Samrit",
+    "wof:parent_id":890466783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.39078,
+    15.20968,
+    102.39078,
+    15.20968
+],
+  "geometry": {"coordinates":[102.39078000000001,15.20968],"type":"Point"}
+}

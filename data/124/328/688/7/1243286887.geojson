@@ -1,0 +1,76 @@
+{
+  "id": 1243286887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.54456,6.72697,101.54456,6.72697",
+    "geom:latitude":6.72697,
+    "geom:longitude":101.54456,
+    "gn:admin1_code":"69.0",
+    "gn:asciiname":"Ban Ko To",
+    "gn:country_code":"TH",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1610352,
+    "gn:latitude":6.72697,
+    "gn:longitude":101.54456,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Ko To",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e01\u0e2d\u0e15\u0e2d"
+    ],
+    "name:und_x_variant":[
+        "Kampong Kotak",
+        "Kampong Kau Tau",
+        "Kampong Koto",
+        "Ban Ko To"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678889,
+        1108731827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1610352
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"8c6ada41f4e5df423f309ec7640f3eb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731827,
+            "locality_id":1243286887,
+            "region_id":85678889
+        }
+    ],
+    "wof:id":1243286887,
+    "wof:lastmodified":1537703640,
+    "wof:name":"Ban Ko To",
+    "wof:parent_id":1108731827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.54456,
+    6.72697,
+    101.54456,
+    6.72697
+],
+  "geometry": {"coordinates":[101.54456,6.72697],"type":"Point"}
+}

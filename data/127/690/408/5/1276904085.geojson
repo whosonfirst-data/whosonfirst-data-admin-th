@@ -1,0 +1,70 @@
+{
+  "id": 1276904085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.20486,10.70981,99.20486,10.70981",
+    "geom:latitude":10.70981,
+    "geom:longitude":99.20486,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Ban Kaeng Pheka",
+    "gn:country_code":"TH",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8233535,
+    "gn:latitude":10.70981,
+    "gn:longitude":99.20486,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Ban Kaeng Pheka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e41\u0e01\u0e48\u0e07\u0e40\u0e1e\u0e01\u0e32"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678559,
+        1108731983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8233535
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"6c92d67136f4758ba7ac02761c6315b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731983,
+            "locality_id":1276904085,
+            "region_id":85678559
+        }
+    ],
+    "wof:id":1276904085,
+    "wof:lastmodified":1537705187,
+    "wof:name":"Ban Kaeng Pheka",
+    "wof:parent_id":1108731983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.20486,
+    10.70981,
+    99.20486,
+    10.70981
+],
+  "geometry": {"coordinates":[99.20486,10.70981],"type":"Point"}
+}

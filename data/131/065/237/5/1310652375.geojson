@@ -1,0 +1,70 @@
+{
+  "id": 1310652375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.99092,14.35939,100.99092,14.35939",
+    "geom:latitude":14.35939,
+    "geom:longitude":100.99092,
+    "gn:admin1_code":"37",
+    "gn:asciiname":"Ban Thung Khui Pu",
+    "gn:country_code":"TH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9028954,
+    "gn:latitude":14.35939,
+    "gn:longitude":100.99092,
+    "gn:modification_date":"2014-05-02",
+    "gn:name":"Ban Thung Khui Pu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e17\u0e38\u0e48\u0e07\u0e02\u0e38\u0e4b\u0e22\u0e1b\u0e39"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678735,
+        1108802775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9028954
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"9d2740bc851e79a72f4a9c6f65848e4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802775,
+            "locality_id":1310652375,
+            "region_id":85678735
+        }
+    ],
+    "wof:id":1310652375,
+    "wof:lastmodified":1537706113,
+    "wof:name":"Ban Thung Khui Pu",
+    "wof:parent_id":1108802775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.99092,
+    14.35939,
+    100.99092,
+    14.35939
+],
+  "geometry": {"coordinates":[100.99092,14.35939],"type":"Point"}
+}

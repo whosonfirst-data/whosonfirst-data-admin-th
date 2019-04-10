@@ -1,0 +1,70 @@
+{
+  "id": 1276502815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.89839,16.64386,101.89839,16.64386",
+    "geom:latitude":16.64386,
+    "geom:longitude":101.89839,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Ban Tha Krabue",
+    "gn:country_code":"TH",
+    "gn:dem":251,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9000670,
+    "gn:latitude":16.64386,
+    "gn:longitude":101.89839,
+    "gn:modification_date":"2014-05-01",
+    "gn:name":"Ban Tha Krabue",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e17\u0e48\u0e32\u0e01\u0e23\u0e30\u0e1a\u0e37\u0e2d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678825,
+        890465699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9000670
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"57db15587f9c2c2697a3de6ebb470db5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465699,
+            "locality_id":1276502815,
+            "region_id":85678825
+        }
+    ],
+    "wof:id":1276502815,
+    "wof:lastmodified":1537706069,
+    "wof:name":"Ban Tha Krabue",
+    "wof:parent_id":890465699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.89839,
+    16.64386,
+    101.89839,
+    16.64386
+],
+  "geometry": {"coordinates":[101.89839000000001,16.64386],"type":"Point"}
+}

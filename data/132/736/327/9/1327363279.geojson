@@ -1,0 +1,70 @@
+{
+  "id": 1327363279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.42417,13.87586,102.42417,13.87586",
+    "geom:latitude":13.87586,
+    "geom:longitude":102.42417,
+    "gn:admin1_code":"80",
+    "gn:asciiname":"Ban Sap Nam Bun",
+    "gn:country_code":"TH",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8760136,
+    "gn:latitude":13.87586,
+    "gn:longitude":102.42417,
+    "gn:modification_date":"2014-04-08",
+    "gn:name":"Ban Sap Nam Bun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e0b\u0e31\u0e1a\u0e19\u0e49\u0e33\u0e1a\u0e38\u0e49\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678805,
+        1108732073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8760136
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"50f14239457b40e43140dcd8182dd31e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108732073,
+            "locality_id":1327363279,
+            "region_id":85678805
+        }
+    ],
+    "wof:id":1327363279,
+    "wof:lastmodified":1537706038,
+    "wof:name":"Ban Sap Nam Bun",
+    "wof:parent_id":1108732073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.42417,
+    13.87586,
+    102.42417,
+    13.87586
+],
+  "geometry": {"coordinates":[102.42417,13.87586],"type":"Point"}
+}

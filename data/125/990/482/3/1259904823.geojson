@@ -1,0 +1,70 @@
+{
+  "id": 1259904823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.03389,17.28636,102.03389,17.28636",
+    "geom:latitude":17.28636,
+    "geom:longitude":102.03389,
+    "gn:admin1_code":"79.0",
+    "gn:asciiname":"Ban Na Surin",
+    "gn:country_code":"TH",
+    "gn:dem":307,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8459996,
+    "gn:latitude":17.28636,
+    "gn:longitude":102.03389,
+    "gn:modification_date":"2013-02-10",
+    "gn:name":"Ban Na Surin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e19\u0e32\u0e2a\u0e38\u0e23\u0e34\u0e19\u0e17\u0e23\u0e4c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678871,
+        1108731551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8459996
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"2ee5d2f9f9664ade408cda7da5a9bb4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731551,
+            "locality_id":1259904823,
+            "region_id":85678871
+        }
+    ],
+    "wof:id":1259904823,
+    "wof:lastmodified":1537705643,
+    "wof:name":"Ban Na Surin",
+    "wof:parent_id":1108731551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.03389,
+    17.28636,
+    102.03389,
+    17.28636
+],
+  "geometry": {"coordinates":[102.03389,17.28636],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1226670949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.85747,19.15222,99.85747,19.15222",
+    "geom:latitude":19.15222,
+    "geom:longitude":99.85747,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Ban San Kwan",
+    "gn:country_code":"TH",
+    "gn:dem":395,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8332189,
+    "gn:latitude":19.15222,
+    "gn:longitude":99.85747,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Ban San Kwan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2a\u0e31\u0e19\u0e01\u0e27\u0e4a\u0e32\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678637,
+        890467463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8332189
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"8d4b641f573ea51666c20c13b33d1e89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890467463,
+            "locality_id":1226670949,
+            "region_id":85678637
+        }
+    ],
+    "wof:id":1226670949,
+    "wof:lastmodified":1537705403,
+    "wof:name":"Ban San Kwan",
+    "wof:parent_id":890467463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.85747,
+    19.15222,
+    99.85747,
+    19.15222
+],
+  "geometry": {"coordinates":[99.85747000000001,19.15222],"type":"Point"}
+}

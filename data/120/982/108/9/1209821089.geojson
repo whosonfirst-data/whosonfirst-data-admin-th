@@ -1,0 +1,70 @@
+{
+  "id": 1209821089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.65258,18.36894,100.65258,18.36894",
+    "geom:latitude":18.36894,
+    "geom:longitude":100.65258,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Ban Namphu",
+    "gn:country_code":"TH",
+    "gn:dem":364,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8262170,
+    "gn:latitude":18.36894,
+    "gn:longitude":100.65258,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Ban Namphu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e19\u0e49\u0e33\u0e1e\u0e38"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678633,
+        1108731561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8262170
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"0d112c1d39da43681a0a38f28230ac86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731561,
+            "locality_id":1209821089,
+            "region_id":85678633
+        }
+    ],
+    "wof:id":1209821089,
+    "wof:lastmodified":1537705257,
+    "wof:name":"Ban Namphu",
+    "wof:parent_id":1108731561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.65258,
+    18.36894,
+    100.65258,
+    18.36894
+],
+  "geometry": {"coordinates":[100.65258,18.36894],"type":"Point"}
+}

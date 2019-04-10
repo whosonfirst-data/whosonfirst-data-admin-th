@@ -1,0 +1,70 @@
+{
+  "id": 1276656387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.63261,18.25528,100.63261,18.25528",
+    "geom:latitude":18.25528,
+    "geom:longitude":100.63261,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Ban Rai Nam Hin",
+    "gn:country_code":"TH",
+    "gn:dem":417,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1598651,
+    "gn:latitude":18.25528,
+    "gn:longitude":100.63261,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Ban Rai Nam Hin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e44\u0e23\u0e48\u0e19\u0e49\u0e33\u0e2b\u0e34\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678633,
+        1108731561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1598651
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"2e9c205402d48e5b32e6a10ced83c946",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731561,
+            "locality_id":1276656387,
+            "region_id":85678633
+        }
+    ],
+    "wof:id":1276656387,
+    "wof:lastmodified":1537703409,
+    "wof:name":"Ban Rai Nam Hin",
+    "wof:parent_id":1108731561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.63261,
+    18.25528,
+    100.63261,
+    18.25528
+],
+  "geometry": {"coordinates":[100.63261,18.25528],"type":"Point"}
+}

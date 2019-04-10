@@ -1,0 +1,70 @@
+{
+  "id": 1343232555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.98492,15.71764,100.98492,15.71764",
+    "geom:latitude":15.71764,
+    "geom:longitude":100.98492,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ban Pong Nok Pao",
+    "gn:country_code":"TH",
+    "gn:dem":103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8565697,
+    "gn:latitude":15.71764,
+    "gn:longitude":100.98492,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Ban Pong Nok Pao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e42\u0e1b\u0e48\u0e07\u0e19\u0e01\u0e40\u0e1b\u0e49\u0e32"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678673,
+        890467495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8565697
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"c663596e21eabde74435d53e9270497b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890467495,
+            "locality_id":1343232555,
+            "region_id":85678673
+        }
+    ],
+    "wof:id":1343232555,
+    "wof:lastmodified":1537705724,
+    "wof:name":"Ban Pong Nok Pao",
+    "wof:parent_id":890467495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.98492,
+    15.71764,
+    100.98492,
+    15.71764
+],
+  "geometry": {"coordinates":[100.98492,15.71764],"type":"Point"}
+}

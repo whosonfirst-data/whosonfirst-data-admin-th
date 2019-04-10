@@ -1,0 +1,70 @@
+{
+  "id": 1243280809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.32339,8.85872,98.32339,8.85872",
+    "geom:latitude":8.85872,
+    "geom:longitude":98.32339,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Ban Bang Tao",
+    "gn:country_code":"TH",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8341479,
+    "gn:latitude":8.85872,
+    "gn:longitude":98.32339,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Ban Bang Tao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1a\u0e32\u0e07\u0e40\u0e15\u0e48\u0e32"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678573,
+        1108731961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8341479
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"17bd2bcee2f3f44cd208f4e5a78c95ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731961,
+            "locality_id":1243280809,
+            "region_id":85678573
+        }
+    ],
+    "wof:id":1243280809,
+    "wof:lastmodified":1537705435,
+    "wof:name":"Ban Bang Tao",
+    "wof:parent_id":1108731961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.32339,
+    8.85872,
+    98.32339,
+    8.85872
+],
+  "geometry": {"coordinates":[98.32339,8.85872],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1276265275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.07453,8.54997,99.07453,8.54997",
+    "geom:latitude":8.54997,
+    "geom:longitude":99.07453,
+    "gn:admin1_code":"60.0",
+    "gn:asciiname":"Ban Nikhom Nueng",
+    "gn:country_code":"TH",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8325803,
+    "gn:latitude":8.54997,
+    "gn:longitude":99.07453,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Ban Nikhom Nueng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e19\u0e34\u0e04\u0e21 \u0e2b\u0e19\u0e36\u0e48\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678581,
+        1108731743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8325803
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"17b1c42977eb4c506cb3a79faf2bf1ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731743,
+            "locality_id":1276265275,
+            "region_id":85678581
+        }
+    ],
+    "wof:id":1276265275,
+    "wof:lastmodified":1537705389,
+    "wof:name":"Ban Nikhom Nueng",
+    "wof:parent_id":1108731743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.07453,
+    8.54997,
+    99.07453,
+    8.54997
+],
+  "geometry": {"coordinates":[99.07453,8.54997],"type":"Point"}
+}

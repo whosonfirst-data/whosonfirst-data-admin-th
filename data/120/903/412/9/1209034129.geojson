@@ -1,0 +1,64 @@
+{
+  "id": 1209034129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.0515,7.57,100.0515,7.57",
+    "geom:latitude":7.57,
+    "geom:longitude":100.0515,
+    "gn:admin1_code":"66.0",
+    "gn:asciiname":"Ban Chai Na",
+    "gn:country_code":"TH",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8203963,
+    "gn:latitude":7.57,
+    "gn:longitude":100.0515,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Ban Chai Na",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e0a\u0e32\u0e22\u0e19\u0e32"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8203963
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"ca5fdf5ef3e88a131ed1b9406cb0a318",
+    "wof:hierarchy":[
+        {
+            "country_id":85632293,
+            "locality_id":1209034129
+        }
+    ],
+    "wof:id":1209034129,
+    "wof:lastmodified":1537705080,
+    "wof:name":"Ban Chai Na",
+    "wof:parent_id":85632293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.0515,
+    7.57,
+    100.0515,
+    7.57
+],
+  "geometry": {"coordinates":[100.0515,7.57],"type":"Point"}
+}

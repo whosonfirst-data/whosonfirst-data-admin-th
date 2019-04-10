@@ -1,0 +1,70 @@
+{
+  "id": 1259512809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.05867,6.25678,102.05867,6.25678",
+    "geom:latitude":6.25678,
+    "geom:longitude":102.05867,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Ban Talat Che He",
+    "gn:country_code":"TH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7463530,
+    "gn:latitude":6.25678,
+    "gn:longitude":102.05867,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Talat Che He",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e15\u0e25\u0e32\u0e14\u0e40\u0e08\u0e4a\u0e30\u0e40\u0e2b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678885,
+        890465893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7463530
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"f79836e630e4918e13f937890f48e268",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465893,
+            "locality_id":1259512809,
+            "region_id":85678885
+        }
+    ],
+    "wof:id":1259512809,
+    "wof:lastmodified":1537704508,
+    "wof:name":"Ban Talat Che He",
+    "wof:parent_id":890465893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.05867,
+    6.25678,
+    102.05867,
+    6.25678
+],
+  "geometry": {"coordinates":[102.05867000000001,6.25678],"type":"Point"}
+}

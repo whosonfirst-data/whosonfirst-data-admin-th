@@ -1,0 +1,70 @@
+{
+  "id": 1259868783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.76044,17.33342,99.76044,17.33342",
+    "geom:latitude":17.33342,
+    "geom:longitude":99.76044,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ban Bot Pho",
+    "gn:country_code":"TH",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8414847,
+    "gn:latitude":17.33342,
+    "gn:longitude":99.76044,
+    "gn:modification_date":"2012-11-10",
+    "gn:name":"Ban Bot Pho",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e42\u0e1a\u0e2a\u0e16\u0e4c\u0e42\u0e1e\u0e18\u0e34\u0e4c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678651,
+        1108731869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8414847
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"766038c83524e0f5b791915c04f1140e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731869,
+            "locality_id":1259868783,
+            "region_id":85678651
+        }
+    ],
+    "wof:id":1259868783,
+    "wof:lastmodified":1537705596,
+    "wof:name":"Ban Bot Pho",
+    "wof:parent_id":1108731869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.76044,
+    17.33342,
+    99.76044,
+    17.33342
+],
+  "geometry": {"coordinates":[99.76044,17.33342],"type":"Point"}
+}

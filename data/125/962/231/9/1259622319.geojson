@@ -1,0 +1,73 @@
+{
+  "id": 1259622319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.8,14.25,100.8,14.25",
+    "geom:latitude":14.25,
+    "geom:longitude":100.8,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Ban Khao Ngam Khlong Yi Sip Hok",
+    "gn:cc2":"TH",
+    "gn:country_code":"TH",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1618438,
+    "gn:latitude":14.25,
+    "gn:longitude":100.8,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Khao Ngam Khlong Yi Sip Hok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khlong Yi Sip Hok",
+        "Ban Khao Ngam",
+        "Ban Khao Ngam Khlong Yi Sip Hok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678721,
+        1108732053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1618438
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"a023a210f2af30463701af67f921db94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108732053,
+            "locality_id":1259622319,
+            "region_id":85678721
+        }
+    ],
+    "wof:id":1259622319,
+    "wof:lastmodified":1537704123,
+    "wof:name":"Ban Khao Ngam Khlong Yi Sip Hok",
+    "wof:parent_id":1108732053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.8,
+    14.25,
+    100.8,
+    14.25
+],
+  "geometry": {"coordinates":[100.8,14.25],"type":"Point"}
+}

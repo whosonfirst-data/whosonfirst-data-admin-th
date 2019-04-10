@@ -1,0 +1,74 @@
+{
+  "id": 1226591417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.73033,15.16494,101.73033,15.16494",
+    "geom:latitude":15.16494,
+    "geom:longitude":101.73033,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Ban Kut Muang",
+    "gn:country_code":"TH",
+    "gn:dem":225,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1617280,
+    "gn:latitude":15.16494,
+    "gn:longitude":101.73033,
+    "gn:modification_date":"2014-06-04",
+    "gn:name":"Ban Kut Muang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e01\u0e38\u0e14\u0e21\u0e48\u0e27\u0e07"
+    ],
+    "name:und_x_variant":[
+        "B\u0101n Gut Muang",
+        "Ban Kut Muang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678841,
+        890466375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1617280
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"e5c53e2bf770b3046a53d980b5e298fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466375,
+            "locality_id":1226591417,
+            "region_id":85678841
+        }
+    ],
+    "wof:id":1226591417,
+    "wof:lastmodified":1537704039,
+    "wof:name":"Ban Kut Muang",
+    "wof:parent_id":890466375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.73033,
+    15.16494,
+    101.73033,
+    15.16494
+],
+  "geometry": {"coordinates":[101.73033,15.16494],"type":"Point"}
+}

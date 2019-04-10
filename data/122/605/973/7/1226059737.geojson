@@ -1,0 +1,73 @@
+{
+  "id": 1226059737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.70186,16.55203,104.70186,16.55203",
+    "geom:latitude":16.55203,
+    "geom:longitude":104.70186,
+    "gn:admin1_code":"78.0",
+    "gn:asciiname":"Ban Tat Khaen",
+    "gn:country_code":"TH",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8037142,
+    "gn:latitude":16.55203,
+    "gn:longitude":104.70186,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Tat Khaen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "Ban Tat Khaen"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e15\u0e32\u0e14\u0e41\u0e04\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678881,
+        890467231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8037142
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"c900c5a010ac62e09368c051abdee96b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890467231,
+            "locality_id":1226059737,
+            "region_id":85678881
+        }
+    ],
+    "wof:id":1226059737,
+    "wof:lastmodified":1537704940,
+    "wof:name":"Ban Tat Khaen",
+    "wof:parent_id":890467231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.70186,
+    16.55203,
+    104.70186,
+    16.55203
+],
+  "geometry": {"coordinates":[104.70186,16.55203],"type":"Point"}
+}

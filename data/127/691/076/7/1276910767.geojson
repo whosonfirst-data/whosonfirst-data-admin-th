@@ -1,0 +1,70 @@
+{
+  "id": 1276910767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.79786,17.59286,102.79786,17.59286",
+    "geom:latitude":17.59286,
+    "geom:longitude":102.79786,
+    "gn:admin1_code":"76.0",
+    "gn:asciiname":"Ban Pho Tak",
+    "gn:country_code":"TH",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7680722,
+    "gn:latitude":17.59286,
+    "gn:longitude":102.79786,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Pho Tak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e42\u0e1e\u0e18\u0e34\u0e4c\u0e15\u0e32\u0e01"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678869,
+        1108731719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7680722
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"de89bc05a40ba0de0a13779db2249d47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731719,
+            "locality_id":1276910767,
+            "region_id":85678869
+        }
+    ],
+    "wof:id":1276910767,
+    "wof:lastmodified":1537704613,
+    "wof:name":"Ban Pho Tak",
+    "wof:parent_id":1108731719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.79786,
+    17.59286,
+    102.79786,
+    17.59286
+],
+  "geometry": {"coordinates":[102.79786,17.59286],"type":"Point"}
+}

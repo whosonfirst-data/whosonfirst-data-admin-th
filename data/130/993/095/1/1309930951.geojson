@@ -1,0 +1,73 @@
+{
+  "id": 1309930951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.41667,16.45742,104.41667,16.45742",
+    "geom:latitude":16.45742,
+    "geom:longitude":104.41667,
+    "gn:admin1_code":"78.0",
+    "gn:asciiname":"Ban Bung",
+    "gn:country_code":"TH",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1604328,
+    "gn:latitude":16.45742,
+    "gn:longitude":104.41667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Bung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "Ban Bung"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1a\u0e38\u0e48\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678881,
+        1108802707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1604328
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"17cf84533c2b73ccf02f994ebb223c33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802707,
+            "locality_id":1309930951,
+            "region_id":85678881
+        }
+    ],
+    "wof:id":1309930951,
+    "wof:lastmodified":1537703616,
+    "wof:name":"Ban Bung",
+    "wof:parent_id":1108802707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.41667,
+    16.45742000000001,
+    104.41667,
+    16.45742000000001
+],
+  "geometry": {"coordinates":[104.41667,16.45742000000001],"type":"Point"}
+}

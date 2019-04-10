@@ -1,0 +1,70 @@
+{
+  "id": 1293692617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.96981,18.88178,100.96981,18.88178",
+    "geom:latitude":18.88178,
+    "geom:longitude":100.96981,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Ban Kao Tum",
+    "gn:country_code":"TH",
+    "gn:dem":305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1602974,
+    "gn:latitude":18.88178,
+    "gn:longitude":100.96981,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Kao Tum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e01\u0e49\u0e32\u0e15\u0e38\u0e49\u0e21"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678633,
+        1108731855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1602974
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"5a4847290745d0db7b3f20802cfd4aa3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731855,
+            "locality_id":1293692617,
+            "region_id":85678633
+        }
+    ],
+    "wof:id":1293692617,
+    "wof:lastmodified":1537703567,
+    "wof:name":"Ban Kao Tum",
+    "wof:parent_id":1108731855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.96981,
+    18.88178,
+    100.96981,
+    18.88178
+],
+  "geometry": {"coordinates":[100.96981,18.88178],"type":"Point"}
+}

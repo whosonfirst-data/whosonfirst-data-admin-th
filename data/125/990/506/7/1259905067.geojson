@@ -1,0 +1,70 @@
+{
+  "id": 1259905067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.16217,14.02139,100.16217,14.02139",
+    "geom:latitude":14.02139,
+    "geom:longitude":100.16217,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Ban Talat Bang Len",
+    "gn:country_code":"TH",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8594206,
+    "gn:latitude":14.02139,
+    "gn:longitude":100.16217,
+    "gn:modification_date":"2013-08-09",
+    "gn:name":"Ban Talat Bang Len",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e15\u0e25\u0e32\u0e14\u0e1a\u0e32\u0e07\u0e40\u0e25\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678747,
+        1108802581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8594206
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"8b9549217412a21275eaa1d72b9c299e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802581,
+            "locality_id":1259905067,
+            "region_id":85678747
+        }
+    ],
+    "wof:id":1259905067,
+    "wof:lastmodified":1537705753,
+    "wof:name":"Ban Talat Bang Len",
+    "wof:parent_id":1108802581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.16217,
+    14.02139,
+    100.16217,
+    14.02139
+],
+  "geometry": {"coordinates":[100.16217,14.02139],"type":"Point"}
+}

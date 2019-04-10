@@ -1,0 +1,70 @@
+{
+  "id": 1293271117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.07319,16.56644,100.07319,16.56644",
+    "geom:latitude":16.56644,
+    "geom:longitude":100.07319,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Ban Sa Boraphet",
+    "gn:country_code":"TH",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1598566,
+    "gn:latitude":16.56644,
+    "gn:longitude":100.07319,
+    "gn:modification_date":"2013-02-07",
+    "gn:name":"Ban Sa Boraphet",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2a\u0e23\u0e30\u0e1a\u0e23\u0e40\u0e1e\u0e47\u0e14"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678669,
+        1108731831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1598566
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"84e8667c077b160cf5531019886d1821",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731831,
+            "locality_id":1293271117,
+            "region_id":85678669
+        }
+    ],
+    "wof:id":1293271117,
+    "wof:lastmodified":1537703406,
+    "wof:name":"Ban Sa Boraphet",
+    "wof:parent_id":1108731831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.07319,
+    16.56644,
+    100.07319,
+    16.56644
+],
+  "geometry": {"coordinates":[100.07319,16.56644],"type":"Point"}
+}

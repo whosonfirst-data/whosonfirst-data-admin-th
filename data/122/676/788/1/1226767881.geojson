@@ -1,0 +1,73 @@
+{
+  "id": 1226767881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.69281,17.728,100.69281,17.728",
+    "geom:latitude":17.728,
+    "geom:longitude":100.69281,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Ban Na Khan Thung",
+    "gn:country_code":"TH",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1601199,
+    "gn:latitude":17.728,
+    "gn:longitude":100.69281,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Na Khan Thung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "Ban Na Khan Thung"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e19\u0e32\u0e04\u0e31\u0e19\u0e17\u0e38\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678657,
+        890467459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1601199
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"453115b164270ab6bc87d6f4ce45afb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890467459,
+            "locality_id":1226767881,
+            "region_id":85678657
+        }
+    ],
+    "wof:id":1226767881,
+    "wof:lastmodified":1537703502,
+    "wof:name":"Ban Na Khan Thung",
+    "wof:parent_id":890467459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.69281,
+    17.72799999999999,
+    100.69281,
+    17.72799999999999
+],
+  "geometry": {"coordinates":[100.69280999999999,17.72799999999999],"type":"Point"}
+}

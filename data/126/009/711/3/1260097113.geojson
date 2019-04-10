@@ -1,0 +1,72 @@
+{
+  "id": 1260097113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.15,13.66667,100.15,13.66667",
+    "geom:latitude":13.66667,
+    "geom:longitude":100.15,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Ban Khru",
+    "gn:cc2":"TH",
+    "gn:country_code":"TH",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1617738,
+    "gn:latitude":13.66667,
+    "gn:longitude":100.15,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Khru",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Kruk",
+        "Ban Khru"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678771,
+        1108731145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1617738
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"54cd3dee8ec9af067eb1da2c65135937",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731145,
+            "locality_id":1260097113,
+            "region_id":85678771
+        }
+    ],
+    "wof:id":1260097113,
+    "wof:lastmodified":1537704071,
+    "wof:name":"Ban Khru",
+    "wof:parent_id":1108731145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.15,
+    13.66667,
+    100.15,
+    13.66667
+],
+  "geometry": {"coordinates":[100.15000000000001,13.66667],"type":"Point"}
+}

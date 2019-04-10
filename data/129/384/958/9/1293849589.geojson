@@ -1,0 +1,73 @@
+{
+  "id": 1293849589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.92914,17.16311,101.92914,17.16311",
+    "geom:latitude":17.16311,
+    "geom:longitude":101.92914,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Phu Samran",
+    "gn:country_code":"TH",
+    "gn:dem":335,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8039997,
+    "gn:latitude":17.16311,
+    "gn:longitude":101.92914,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Phu Samran",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "Ban Phu Samran"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e20\u0e39\u0e2a\u0e33\u0e23\u0e32\u0e0d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678853,
+        1108732063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8039997
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"cf69e06afdd0b793f30ef12bda4487a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108732063,
+            "locality_id":1293849589,
+            "region_id":85678853
+        }
+    ],
+    "wof:id":1293849589,
+    "wof:lastmodified":1537704958,
+    "wof:name":"Ban Phu Samran",
+    "wof:parent_id":1108732063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.92914,
+    17.16311,
+    101.92914,
+    17.16311
+],
+  "geometry": {"coordinates":[101.92914,17.16311],"type":"Point"}
+}

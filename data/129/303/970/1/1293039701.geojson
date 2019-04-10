@@ -1,0 +1,70 @@
+{
+  "id": 1293039701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.65131,14.31681,100.65131,14.31681",
+    "geom:latitude":14.31681,
+    "geom:longitude":100.65131,
+    "gn:admin1_code":"36",
+    "gn:asciiname":"Ban Khok Rawang",
+    "gn:country_code":"TH",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8697727,
+    "gn:latitude":14.31681,
+    "gn:longitude":100.65131,
+    "gn:modification_date":"2014-02-16",
+    "gn:name":"Ban Khok Rawang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e42\u0e04\u0e01\u0e23\u0e30\u0e27\u0e32\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678689,
+        890466353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8697727
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"2f262f4c258003c5795d6b25982cee11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466353,
+            "locality_id":1293039701,
+            "region_id":85678689
+        }
+    ],
+    "wof:id":1293039701,
+    "wof:lastmodified":1537705895,
+    "wof:name":"Ban Khok Rawang",
+    "wof:parent_id":890466353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.65131,
+    14.31681,
+    100.65131,
+    14.31681
+],
+  "geometry": {"coordinates":[100.65131,14.31681],"type":"Point"}
+}

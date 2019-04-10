@@ -1,0 +1,73 @@
+{
+  "id": 1226607675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.6655,17.33428,101.6655,17.33428",
+    "geom:latitude":17.33428,
+    "geom:longitude":101.6655,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Kaeng Hin",
+    "gn:country_code":"TH",
+    "gn:dem":270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8040235,
+    "gn:latitude":17.33428,
+    "gn:longitude":101.6655,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Kaeng Hin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "Ban Kaeng Hin"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e41\u0e01\u0e48\u0e07\u0e2b\u0e34\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678853,
+        1108732063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8040235
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"e8c2af4d85f77dcd4e2dea10c531876d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108732063,
+            "locality_id":1226607675,
+            "region_id":85678853
+        }
+    ],
+    "wof:id":1226607675,
+    "wof:lastmodified":1537704960,
+    "wof:name":"Ban Kaeng Hin",
+    "wof:parent_id":1108732063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.6655,
+    17.33428,
+    101.6655,
+    17.33428
+],
+  "geometry": {"coordinates":[101.66549999999999,17.33428],"type":"Point"}
+}

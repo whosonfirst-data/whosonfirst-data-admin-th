@@ -1,0 +1,70 @@
+{
+  "id": 1343718879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.64461,16.17617,103.64461,16.17617",
+    "geom:latitude":16.17617,
+    "geom:longitude":103.64461,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Ban Saen Chat",
+    "gn:country_code":"TH",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8682407,
+    "gn:latitude":16.17617,
+    "gn:longitude":103.64461,
+    "gn:modification_date":"2014-01-18",
+    "gn:name":"Ban Saen Chat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e41\u0e2a\u0e19\u0e0a\u0e32\u0e15\u0e34"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678845,
+        1108731227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8682407
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"14ac234fb870be3e9ae280cc9024d05d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731227,
+            "locality_id":1343718879,
+            "region_id":85678845
+        }
+    ],
+    "wof:id":1343718879,
+    "wof:lastmodified":1537705866,
+    "wof:name":"Ban Saen Chat",
+    "wof:parent_id":1108731227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.64461,
+    16.17617000000001,
+    103.64461,
+    16.17617000000001
+],
+  "geometry": {"coordinates":[103.64461,16.17617000000001],"type":"Point"}
+}

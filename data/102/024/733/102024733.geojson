@@ -1,0 +1,115 @@
+{
+  "id": 102024733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000263,
+    "geom:area_square_m":3135206.935612,
+    "geom:bbox":"105.168294264,15.3652055973,105.186930341,15.3832873672",
+    "geom:latitude":15.374247,
+    "geom:longitude":105.177612,
+    "iso:country":"TH",
+    "lbl:latitude":15.374246,
+    "lbl:longitude":105.177612,
+    "mps:latitude":15.374246,
+    "mps:longitude":105.177612,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bpy_x_preferred":[
+        "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09a4\u09be\u09a8 \u09b8\u09c1\u09ae"
+    ],
+    "name:deu_x_preferred":[
+        "Amphoe Tan Sum"
+    ],
+    "name:eng_x_preferred":[
+        "Tan Sum"
+    ],
+    "name:ger_x_preferred":[
+        "Tan Sum"
+    ],
+    "name:ron_x_preferred":[
+        "Districtul Tan Sum"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e15\u0e32\u0e25\u0e2a\u0e38\u0e21"
+    ],
+    "name:tha_x_variant":[
+        "\u0e15\u0e32\u0e25\u0e2a\u0e38\u0e21",
+        "\u0e40\u0e17\u0e28\u0e1a\u0e32\u0e25\u0e15\u0e33\u0e1a\u0e25\u0e15\u0e32\u0e25\u0e2a\u0e38\u0e21"
+    ],
+    "name:unk_x_variant":[
+        "\u0e15\u0e32\u0e25\u0e2a\u0e38\u0e21"
+    ],
+    "name:vie_x_preferred":[
+        "Tan Sum"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Tan Sum K\u016bn"
+    ],
+    "qs:a0":"Thailand",
+    "qs:a1":"*Ubon Ratchathani",
+    "qs:a1r":"*",
+    "qs:a2":"Tan Sum",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Tan Sum",
+    "qs:loc_alt":"Tan Sum",
+    "qs:loc_lc":"1605773",
+    "qs:pop":0,
+    "qs:source":"Aquattroshapes",
+    "qs:type":"County",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":214,
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678783,
+        890466223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"07cf52a2-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":1605773,
+        "gp:id":1225683,
+        "qs:id":1060915,
+        "qs_pg:id":1060915,
+        "wd:id":"Q15310423"
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"74a691b2bfea5a24f91b03ffb86906bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466223,
+            "locality_id":102024733,
+            "region_id":85678783
+        }
+    ],
+    "wof:id":102024733,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527636442,
+    "wof:name":"Tan Sum",
+    "wof:parent_id":890466223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.16829426390872,
+    15.36520559727924,
+    105.18693034103624,
+    15.38328736718958
+],
+  "geometry": {"coordinates":[[[105.17942257864696,15.3653778593593],[105.17760464938702,15.36520559727924],[105.17578701404044,15.36538075678934],[105.17403951459421,15.36589660753457],[105.17242929912224,15.36673332809957],[105.17101824244007,15.3678587673642],[105.16986056903069,15.36922967950863],[105.16900076947779,15.37079338529028],[105.16847189043766,15.37248979584756],[105.16829426390872,15.37425372135198],[105.16847472474787,15.37601737586925],[105.1690063466756,15.37771298222218],[105.16986870712016,15.37927537676924],[105.17102867092358,15.38064451397757],[105.17244166296437,15.3817677744852],[105.17405338090403,15.38260198787138],[105.17580188227588,15.38311509230419],[105.17761996566834,15.38328736718958],[105.17943775437784,15.38311219137003],[105.18118538306929,15.38259629768369],[105.1827956839925,15.38175951408323],[105.1842067693225,15.38063400128543],[105.18536441021497,15.37926301630486],[105.1862241210368,15.37769924947276],[105.18675286863991,15.37600279894505],[105.18693034103624,15.37423886063542],[105.18674972683426,15.3724752224275],[105.18621797566119,15.37077965901568],[105.18535552976552,15.36921732750406],[105.18419553731427,15.36784826382892],[105.18278257779032,15.36672507615742],[105.18117094858182,15.36589092382168],[105.17942257864696,15.3653778593593]]],"type":"Polygon"}
+}

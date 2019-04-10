@@ -1,0 +1,82 @@
+{
+  "id": 890466797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.92411,18.72681,98.92411,18.72681",
+    "geom:latitude":18.72681,
+    "geom:longitude":98.92411,
+    "gn:country":"TH",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424960,
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e19\u0e2d\u0e07\u0e04\u0e27\u0e32\u0e22"
+    ],
+    "name:unk_x_variant":[
+        "Ban Nong Khwai"
+    ],
+    "qs:name":"Nong Khwai",
+    "qs:name_adm0":"Thailand",
+    "qs:name_adm1":"Chiang Mai",
+    "qs:photos":221,
+    "qs:photos_1k":45,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":221,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":39,
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678619,
+        1108802611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7790816,
+        "gp:id":55945437,
+        "qs:id":1063134,
+        "wd:id":"Q7049360",
+        "wk:page":"Nong Khwai"
+    },
+    "wof:country":"TH",
+    "wof:created":1469053599,
+    "wof:geomhash":"0fbe46483b5e3dfa08e4d7c14181f9c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802611,
+            "locality_id":890466797,
+            "region_id":85678619
+        }
+    ],
+    "wof:id":890466797,
+    "wof:lastmodified":1527793005,
+    "wof:name":"Nong Khwai",
+    "wof:parent_id":1108802611,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.92411,
+    18.72681,
+    98.92411,
+    18.72681
+],
+  "geometry": {"coordinates":[98.92411,18.72681],"type":"Point"}
+}

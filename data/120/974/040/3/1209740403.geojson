@@ -1,0 +1,70 @@
+{
+  "id": 1209740403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.26733,17.19081,102.26733,17.19081",
+    "geom:latitude":17.19081,
+    "geom:longitude":102.26733,
+    "gn:admin1_code":"79.0",
+    "gn:asciiname":"Ban Kao Ko Tai",
+    "gn:country_code":"TH",
+    "gn:dem":247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8460467,
+    "gn:latitude":17.19081,
+    "gn:longitude":102.26733,
+    "gn:modification_date":"2013-02-10",
+    "gn:name":"Ban Kao Ko Tai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e01\u0e48\u0e32\u0e42\u0e01\u0e43\u0e15\u0e49"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678871,
+        1108802677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8460467
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"8af8a7c275309b740427ea2008187789",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802677,
+            "locality_id":1209740403,
+            "region_id":85678871
+        }
+    ],
+    "wof:id":1209740403,
+    "wof:lastmodified":1537705647,
+    "wof:name":"Ban Kao Ko Tai",
+    "wof:parent_id":1108802677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.26733,
+    17.19081,
+    102.26733,
+    17.19081
+],
+  "geometry": {"coordinates":[102.26733,17.19081],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1292902869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.64892,19.25622,100.64892,19.25622",
+    "geom:latitude":19.25622,
+    "geom:longitude":100.64892,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Ban San Charoen",
+    "gn:country_code":"TH",
+    "gn:dem":423,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8230582,
+    "gn:latitude":19.25622,
+    "gn:longitude":100.64892,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Ban San Charoen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2a\u0e31\u0e19\u0e40\u0e08\u0e23\u0e34\u0e0d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678633,
+        1108731995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8230582
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"a14da7f806267e6f7e3eb04bb03a6f5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731995,
+            "locality_id":1292902869,
+            "region_id":85678633
+        }
+    ],
+    "wof:id":1292902869,
+    "wof:lastmodified":1537705175,
+    "wof:name":"Ban San Charoen",
+    "wof:parent_id":1108731995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.64892,
+    19.25622000000001,
+    100.64892,
+    19.25622000000001
+],
+  "geometry": {"coordinates":[100.64892,19.25622000000001],"type":"Point"}
+}

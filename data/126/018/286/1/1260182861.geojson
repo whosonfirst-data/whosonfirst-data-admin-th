@@ -1,0 +1,70 @@
+{
+  "id": 1260182861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.64442,20.25925,99.64442,20.25925",
+    "geom:latitude":20.25925,
+    "geom:longitude":99.64442,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ban Sam Tao",
+    "gn:country_code":"TH",
+    "gn:dem":543,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7323466,
+    "gn:latitude":20.25925,
+    "gn:longitude":99.64442,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Sam Tao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2a\u0e32\u0e21\u0e40\u0e15\u0e49\u0e32"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678617,
+        1108731493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7323466
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"922212c5db668e8272055ad5081524e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731493,
+            "locality_id":1260182861,
+            "region_id":85678617
+        }
+    ],
+    "wof:id":1260182861,
+    "wof:lastmodified":1537704449,
+    "wof:name":"Ban Sam Tao",
+    "wof:parent_id":1108731493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.64442,
+    20.25925,
+    99.64442,
+    20.25925
+],
+  "geometry": {"coordinates":[99.64442,20.25925],"type":"Point"}
+}

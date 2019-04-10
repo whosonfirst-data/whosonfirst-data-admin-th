@@ -1,0 +1,70 @@
+{
+  "id": 1259684993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.849,19.86006,99.849,19.86006",
+    "geom:latitude":19.86006,
+    "geom:longitude":99.849,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ban Mae Lao Tha Sai",
+    "gn:country_code":"TH",
+    "gn:dem":400,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7420651,
+    "gn:latitude":19.86006,
+    "gn:longitude":99.849,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Mae Lao Tha Sai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e41\u0e21\u0e48\u0e25\u0e32\u0e27\u0e17\u0e48\u0e32\u0e2a\u0e32\u0e22"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678617,
+        890466017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7420651
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"c7544c74587ab325fb45e77e5ffbc07e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466017,
+            "locality_id":1259684993,
+            "region_id":85678617
+        }
+    ],
+    "wof:id":1259684993,
+    "wof:lastmodified":1537704472,
+    "wof:name":"Ban Mae Lao Tha Sai",
+    "wof:parent_id":890466017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.849,
+    19.86006,
+    99.849,
+    19.86006
+],
+  "geometry": {"coordinates":[99.849,19.86006],"type":"Point"}
+}

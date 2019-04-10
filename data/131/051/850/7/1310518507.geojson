@@ -1,0 +1,70 @@
+{
+  "id": 1310518507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.13694,5.75097,101.13694,5.75097",
+    "geom:latitude":5.75097,
+    "geom:longitude":101.13694,
+    "gn:admin1_code":"70.0",
+    "gn:asciiname":"Ban Kho Lo Betong",
+    "gn:country_code":"TH",
+    "gn:dem":230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6975382,
+    "gn:latitude":5.75097,
+    "gn:longitude":101.13694,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ban Kho Lo Betong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e04\u0e2d\u0e25\u0e2d\u0e40\u0e1a\u0e15\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678611,
+        1108731185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6975382
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"869eb5e107f04f5f11348995072dc7c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731185,
+            "locality_id":1310518507,
+            "region_id":85678611
+        }
+    ],
+    "wof:id":1310518507,
+    "wof:lastmodified":1537704351,
+    "wof:name":"Ban Kho Lo Betong",
+    "wof:parent_id":1108731185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.13694,
+    5.75097,
+    101.13694,
+    5.75097
+],
+  "geometry": {"coordinates":[101.13694,5.75097],"type":"Point"}
+}

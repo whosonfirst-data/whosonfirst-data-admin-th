@@ -1,0 +1,70 @@
+{
+  "id": 1243024519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.12806,16.60508,103.12806,16.60508",
+    "geom:latitude":16.60508,
+    "geom:longitude":103.12806,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Ban Kham Maet",
+    "gn:country_code":"TH",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9003045,
+    "gn:latitude":16.60508,
+    "gn:longitude":103.12806,
+    "gn:modification_date":"2014-05-01",
+    "gn:name":"Ban Kham Maet",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e04\u0e33\u0e41\u0e21\u0e14"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678827,
+        1108731431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9003045
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"a8fb27a6bbf91add7124b8a440c19411",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731431,
+            "locality_id":1243024519,
+            "region_id":85678827
+        }
+    ],
+    "wof:id":1243024519,
+    "wof:lastmodified":1537706090,
+    "wof:name":"Ban Kham Maet",
+    "wof:parent_id":1108731431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.12806,
+    16.60507999999999,
+    103.12806,
+    16.60507999999999
+],
+  "geometry": {"coordinates":[103.12806,16.60507999999999],"type":"Point"}
+}

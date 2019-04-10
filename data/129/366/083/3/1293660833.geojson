@@ -1,0 +1,74 @@
+{
+  "id": 1293660833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.25623,15.76406,100.25623,15.76406",
+    "geom:latitude":15.76406,
+    "geom:longitude":100.25623,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ban Thap Krit",
+    "gn:country_code":"TH",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1612484,
+    "gn:latitude":15.76406,
+    "gn:longitude":100.25623,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Ban Thap Krit",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e17\u0e31\u0e1a\u0e01\u0e24\u0e29"
+    ],
+    "name:und_x_variant":[
+        "Ban Thap Greut",
+        "Ban Thap Krit"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678715,
+        1108731263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1612484
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"ccc38692d1e561e59355dddf283b28ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731263,
+            "locality_id":1293660833,
+            "region_id":85678715
+        }
+    ],
+    "wof:id":1293660833,
+    "wof:lastmodified":1537703707,
+    "wof:name":"Ban Thap Krit",
+    "wof:parent_id":1108731263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.25623,
+    15.76406,
+    100.25623,
+    15.76406
+],
+  "geometry": {"coordinates":[100.25623,15.76406],"type":"Point"}
+}

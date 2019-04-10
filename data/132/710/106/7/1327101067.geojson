@@ -1,0 +1,70 @@
+{
+  "id": 1327101067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.87081,15.23378,102.87081,15.23378",
+    "geom:latitude":15.23378,
+    "geom:longitude":102.87081,
+    "gn:admin1_code":"27",
+    "gn:asciiname":"Ban Lao Ta Ma",
+    "gn:country_code":"TH",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9109473,
+    "gn:latitude":15.23378,
+    "gn:longitude":102.87081,
+    "gn:modification_date":"2014-06-07",
+    "gn:name":"Ban Lao Ta Ma",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e2b\u0e25\u0e48\u0e32\u0e15\u0e32\u0e21\u0e32"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678841,
+        1108802599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9109473
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"05a48bfc994c0b5d099bbc4f48f1c218",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802599,
+            "locality_id":1327101067,
+            "region_id":85678841
+        }
+    ],
+    "wof:id":1327101067,
+    "wof:lastmodified":1537706195,
+    "wof:name":"Ban Lao Ta Ma",
+    "wof:parent_id":1108802599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.87081,
+    15.23378,
+    102.87081,
+    15.23378
+],
+  "geometry": {"coordinates":[102.87081000000001,15.23378],"type":"Point"}
+}

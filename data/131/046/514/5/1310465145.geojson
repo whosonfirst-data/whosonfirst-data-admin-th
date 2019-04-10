@@ -1,0 +1,67 @@
+{
+  "id": 1310465145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.45,17.96528,102.45,17.96528",
+    "geom:latitude":17.96528,
+    "geom:longitude":102.45,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Huai Hat",
+    "gn:country_code":"TH",
+    "gn:dem":203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1618999,
+    "gn:latitude":17.96528,
+    "gn:longitude":102.45,
+    "gn:modification_date":"2000-03-20",
+    "gn:name":"Ban Huai Hat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678859,
+        1108731881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1618999
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"586fa2d9cf7c1e2efd89e93ec31cdf2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731881,
+            "locality_id":1310465145,
+            "region_id":85678859
+        }
+    ],
+    "wof:id":1310465145,
+    "wof:lastmodified":1536974751,
+    "wof:name":"Ban Huai Hat",
+    "wof:parent_id":1108731881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.45,
+    17.96528,
+    102.45,
+    17.96528
+],
+  "geometry": {"coordinates":[102.45,17.96528],"type":"Point"}
+}

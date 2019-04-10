@@ -1,0 +1,73 @@
+{
+  "id": 1226226707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.89314,17.01178,98.89314,17.01178",
+    "geom:latitude":17.01178,
+    "geom:longitude":98.89314,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Ban Krathu",
+    "gn:country_code":"TH",
+    "gn:dem":943,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8163886,
+    "gn:latitude":17.01178,
+    "gn:longitude":98.89314,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Ban Krathu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "Ban Krathu"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e01\u0e23\u0e30\u0e17\u0e39\u0e49"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678683,
+        1108731505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8163886
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"46048dcb244ddf2faf27ea688dc55aee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731505,
+            "locality_id":1226226707,
+            "region_id":85678683
+        }
+    ],
+    "wof:id":1226226707,
+    "wof:lastmodified":1537705042,
+    "wof:name":"Ban Krathu",
+    "wof:parent_id":1108731505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.89314,
+    17.01178,
+    98.89314,
+    17.01178
+],
+  "geometry": {"coordinates":[98.89314,17.01178],"type":"Point"}
+}

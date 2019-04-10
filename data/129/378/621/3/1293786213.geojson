@@ -1,0 +1,73 @@
+{
+  "id": 1293786213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.77425,19.09975,98.77425,19.09975",
+    "geom:latitude":19.09975,
+    "geom:longitude":98.77425,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Mae Lot",
+    "gn:country_code":"TH",
+    "gn:dem":683,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1117008,
+    "gn:latitude":19.09975,
+    "gn:longitude":98.77425,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Mae Lot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e41\u0e21\u0e48\u0e2b\u0e25\u0e2d\u0e14"
+    ],
+    "name:und_x_variant":[
+        "Ban Yang Mae Lot"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678619,
+        1108802653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1117008
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"c031bf6ef65fca3e52c06894ffa0088f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802653,
+            "locality_id":1293786213,
+            "region_id":85678619
+        }
+    ],
+    "wof:id":1293786213,
+    "wof:lastmodified":1537702903,
+    "wof:name":"Ban Mae Lot",
+    "wof:parent_id":1108802653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.77425,
+    19.09975,
+    98.77425,
+    19.09975
+],
+  "geometry": {"coordinates":[98.77424999999999,19.09975],"type":"Point"}
+}

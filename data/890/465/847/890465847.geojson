@@ -1,0 +1,72 @@
+{
+  "id": 890465847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-11-10",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.56889,13.8821,100.56889,13.8821",
+    "geom:latitude":13.8821,
+    "geom:longitude":100.56889,
+    "gn:country":"TH",
+    "gn:fcode":"ADM2",
+    "gn:pop":0,
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:tha_x_preferred":[
+        "\u0e40\u0e02\u0e15\u0e2b\u0e25\u0e31\u0e01\u0e2a\u0e35\u0e48"
+    ],
+    "name:tha_x_variant":[
+        "\u0e2b\u0e25\u0e31\u0e01\u0e2a\u0e35\u0e48"
+    ],
+    "qs:name":"Khet Lak Si",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":137,
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6845541,
+        "qs:id":1153769,
+        "wd:id":"Q1008352",
+        "wk:page":"Lak Si District"
+    },
+    "wof:country":"TH",
+    "wof:created":1469053538,
+    "wof:geomhash":"2c35b71363688ec5ff478df23e1e6708",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465847,
+            "region_id":85678739
+        }
+    ],
+    "wof:id":890465847,
+    "wof:lastmodified":1527736655,
+    "wof:name":"Khet Lak Si",
+    "wof:parent_id":85678739,
+    "wof:placetype":"county",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.56889,
+    13.8821,
+    100.56889,
+    13.8821
+],
+  "geometry": {"coordinates":[100.56889,13.8821],"type":"Point"}
+}

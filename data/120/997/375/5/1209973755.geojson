@@ -1,0 +1,70 @@
+{
+  "id": 1209973755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.08642,15.69039,104.08642,15.69039",
+    "geom:latitude":15.69039,
+    "geom:longitude":104.08642,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Ban Charoen Sin",
+    "gn:country_code":"TH",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8682867,
+    "gn:latitude":15.69039,
+    "gn:longitude":104.08642,
+    "gn:modification_date":"2014-01-18",
+    "gn:name":"Ban Charoen Sin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e08\u0e23\u0e34\u0e0d\u0e28\u0e34\u0e25\u0e1b\u0e4c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678845,
+        1108731711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8682867
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"1a941c52a60836c1c4dd9e0faf3629e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731711,
+            "locality_id":1209973755,
+            "region_id":85678845
+        }
+    ],
+    "wof:id":1209973755,
+    "wof:lastmodified":1537705871,
+    "wof:name":"Ban Charoen Sin",
+    "wof:parent_id":1108731711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.08642,
+    15.69039,
+    104.08642,
+    15.69039
+],
+  "geometry": {"coordinates":[104.08642,15.69039],"type":"Point"}
+}

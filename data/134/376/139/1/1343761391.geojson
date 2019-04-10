@@ -1,0 +1,74 @@
+{
+  "id": 1343761391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.65747,18.18369,100.65747,18.18369",
+    "geom:latitude":18.18369,
+    "geom:longitude":100.65747,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Ban Na Thanung",
+    "gn:country_code":"TH",
+    "gn:dem":354,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1616093,
+    "gn:latitude":18.18369,
+    "gn:longitude":100.65747,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Ban Na Thanung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e19\u0e32\u0e17\u0e30\u0e19\u0e38\u0e07"
+    ],
+    "name:und_x_variant":[
+        "Na Thanuno",
+        "Ban Na Thanung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678633,
+        1108731559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1616093
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"80b61149a8f013d9d06146dbe4ad765d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731559,
+            "locality_id":1343761391,
+            "region_id":85678633
+        }
+    ],
+    "wof:id":1343761391,
+    "wof:lastmodified":1537703953,
+    "wof:name":"Ban Na Thanung",
+    "wof:parent_id":1108731559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.65747,
+    18.18369,
+    100.65747,
+    18.18369
+],
+  "geometry": {"coordinates":[100.65747,18.18369],"type":"Point"}
+}

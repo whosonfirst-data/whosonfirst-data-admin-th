@@ -1,0 +1,70 @@
+{
+  "id": 1310322013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.56033,12.42669,99.56033,12.42669",
+    "geom:latitude":12.42669,
+    "geom:longitude":99.56033,
+    "gn:admin1_code":"57.0",
+    "gn:asciiname":"Ban Hup Kabak",
+    "gn:country_code":"TH",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8208533,
+    "gn:latitude":12.42669,
+    "gn:longitude":99.56033,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Ban Hup Kabak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e38\u0e1a\u0e01\u0e30\u0e1a\u0e32\u0e01"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678757,
+        890466945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8208533
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"aef0e7ef7554d55ebd093cd4ccdd555f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466945,
+            "locality_id":1310322013,
+            "region_id":85678757
+        }
+    ],
+    "wof:id":1310322013,
+    "wof:lastmodified":1537705121,
+    "wof:name":"Ban Hup Kabak",
+    "wof:parent_id":890466945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.56033,
+    12.42669,
+    99.56033,
+    12.42669
+],
+  "geometry": {"coordinates":[99.56032999999999,12.42669],"type":"Point"}
+}

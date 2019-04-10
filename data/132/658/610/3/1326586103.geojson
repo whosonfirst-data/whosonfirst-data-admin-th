@@ -1,0 +1,70 @@
+{
+  "id": 1326586103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.47022,16.46806,102.47022,16.46806",
+    "geom:latitude":16.46806,
+    "geom:longitude":102.47022,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Ban Pa Siao",
+    "gn:country_code":"TH",
+    "gn:dem":210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9000343,
+    "gn:latitude":16.46806,
+    "gn:longitude":102.47022,
+    "gn:modification_date":"2014-05-01",
+    "gn:name":"Ban Pa Siao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1b\u0e48\u0e32\u0e40\u0e2a\u0e35\u0e49\u0e22\u0e27"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678827,
+        1108731641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9000343
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"8cd5d8d72059c9725f90432a24eb44e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731641,
+            "locality_id":1326586103,
+            "region_id":85678827
+        }
+    ],
+    "wof:id":1326586103,
+    "wof:lastmodified":1537706065,
+    "wof:name":"Ban Pa Siao",
+    "wof:parent_id":1108731641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.47022,
+    16.46806,
+    102.47022,
+    16.46806
+],
+  "geometry": {"coordinates":[102.47022,16.46806],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1276565303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.08028,13.68178,101.08028,13.68178",
+    "geom:latitude":13.68178,
+    "geom:longitude":101.08028,
+    "gn:admin1_code":"44.0",
+    "gn:asciiname":"Ban Bang Tin Pet",
+    "gn:country_code":"TH",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7853601,
+    "gn:latitude":13.68178,
+    "gn:longitude":101.08028,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Bang Tin Pet",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1a\u0e32\u0e07\u0e15\u0e35\u0e19\u0e40\u0e1b\u0e47\u0e14"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678797,
+        890467477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7853601
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"5dce3e48c000bd062a096315f980dcc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890467477,
+            "locality_id":1276565303,
+            "region_id":85678797
+        }
+    ],
+    "wof:id":1276565303,
+    "wof:lastmodified":1537704734,
+    "wof:name":"Ban Bang Tin Pet",
+    "wof:parent_id":890467477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.08028,
+    13.68178,
+    101.08028,
+    13.68178
+],
+  "geometry": {"coordinates":[101.08028,13.68178],"type":"Point"}
+}

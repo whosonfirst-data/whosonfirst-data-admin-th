@@ -1,0 +1,70 @@
+{
+  "id": 1343548961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.00497,16.23867,100.00497,16.23867",
+    "geom:latitude":16.23867,
+    "geom:longitude":100.00497,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Ban Lahan",
+    "gn:country_code":"TH",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1601826,
+    "gn:latitude":16.23867,
+    "gn:longitude":100.00497,
+    "gn:modification_date":"2012-09-05",
+    "gn:name":"Ban Lahan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e25\u0e30\u0e2b\u0e32\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678665,
+        1108731355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1601826
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"dea7f05b9aa665d568bedaa9d7076b51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731355,
+            "locality_id":1343548961,
+            "region_id":85678665
+        }
+    ],
+    "wof:id":1343548961,
+    "wof:lastmodified":1537703525,
+    "wof:name":"Ban Lahan",
+    "wof:parent_id":1108731355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.00497,
+    16.23867000000001,
+    100.00497,
+    16.23867000000001
+],
+  "geometry": {"coordinates":[100.00497,16.23867000000001],"type":"Point"}
+}

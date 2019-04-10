@@ -1,0 +1,67 @@
+{
+  "id": 1225848457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.07194,18.74361,98.07194,18.74361",
+    "geom:latitude":18.74361,
+    "geom:longitude":98.07194,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ban Do Phu",
+    "gn:country_code":"TH",
+    "gn:dem":999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1462880,
+    "gn:latitude":18.74361,
+    "gn:longitude":98.07194,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"Ban Do Phu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678555,
+        890466207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1462880
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"16970292614612ee2c8c445b2718f18b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466207,
+            "locality_id":1225848457,
+            "region_id":85678555
+        }
+    ],
+    "wof:id":1225848457,
+    "wof:lastmodified":1537009029,
+    "wof:name":"Ban Do Phu",
+    "wof:parent_id":890466207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.07194,
+    18.74361,
+    98.07194,
+    18.74361
+],
+  "geometry": {"coordinates":[98.07194,18.74361],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1343230791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.82258,16.85144,102.82258,16.85144",
+    "geom:latitude":16.85144,
+    "geom:longitude":102.82258,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Ban Kham Nang Pum",
+    "gn:country_code":"TH",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1602847,
+    "gn:latitude":16.85144,
+    "gn:longitude":102.82258,
+    "gn:modification_date":"2014-04-29",
+    "gn:name":"Ban Kham Nang Pum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e04\u0e33\u0e19\u0e32\u0e07\u0e1b\u0e38\u0e48\u0e21"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678739,
+        890465855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1602847
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"aa7a99f26eceb9fa39c5a0b452fa2651",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465855,
+            "locality_id":1343230791,
+            "region_id":85678739
+        }
+    ],
+    "wof:id":1343230791,
+    "wof:lastmodified":1537703562,
+    "wof:name":"Ban Kham Nang Pum",
+    "wof:parent_id":890465855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.82258,
+    16.85144,
+    102.82258,
+    16.85144
+],
+  "geometry": {"coordinates":[102.82258,16.85144],"type":"Point"}
+}

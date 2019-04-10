@@ -1,0 +1,70 @@
+{
+  "id": 1242707277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.04744,10.02069,99.04744,10.02069",
+    "geom:latitude":10.02069,
+    "geom:longitude":99.04744,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Ban Saphan Sung",
+    "gn:country_code":"TH",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8234358,
+    "gn:latitude":10.02069,
+    "gn:longitude":99.04744,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Ban Saphan Sung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2a\u0e30\u0e1e\u0e32\u0e19\u0e2a\u0e39\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678559,
+        1108731469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8234358
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"30eb7c87a7b4bb25dbbdfa0e9657e35e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731469,
+            "locality_id":1242707277,
+            "region_id":85678559
+        }
+    ],
+    "wof:id":1242707277,
+    "wof:lastmodified":1537705201,
+    "wof:name":"Ban Saphan Sung",
+    "wof:parent_id":1108731469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.04744,
+    10.02069,
+    99.04744,
+    10.02069
+],
+  "geometry": {"coordinates":[99.04743999999999,10.02069],"type":"Point"}
+}

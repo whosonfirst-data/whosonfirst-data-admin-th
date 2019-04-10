@@ -1,0 +1,77 @@
+{
+  "id": 1193045633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.24772,7.41031,100.24772,7.41031",
+    "geom:latitude":7.41031,
+    "geom:longitude":100.24772,
+    "gn:admin1_code":"66.0",
+    "gn:asciiname":"Ban Phrung",
+    "gn:country_code":"TH",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8204815,
+    "gn:latitude":7.41031,
+    "gn:longitude":100.24772,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Ban Phrung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1e\u0e23\u0e38\u0e49\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        1108802715,
+        1108731675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8204815
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"f2bcd7419464f2ead22e4b2cd0d74cde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802715,
+            "locality_id":1193045633,
+            "region_id":-1
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731675,
+            "locality_id":1193045633,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1193045633,
+    "wof:lastmodified":1537705093,
+    "wof:name":"Ban Phrung",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.24772,
+    7.41031,
+    100.24772,
+    7.41031
+],
+  "geometry": {"coordinates":[100.24772,7.41031],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 890467021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.82575,8.07958,98.82575,8.07958",
+    "geom:latitude":8.07958,
+    "geom:longitude":98.82575,
+    "gn:country":"TH",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424960,
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Nong Thale"
+    ],
+    "name:eng_x_variant":[
+        "Ban Nong Thale"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2b\u0e19\u0e2d\u0e07\u0e17\u0e30\u0e40\u0e25"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e19\u0e2d\u0e07\u0e17\u0e30\u0e40\u0e25"
+    ],
+    "qs:name":"Ban Nong Thale",
+    "qs:name_adm0":"Thailand",
+    "qs:name_adm1":"Krabi",
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1118450,
+        "gp:id":1216015,
+        "qs:id":1162113
+    },
+    "wof:country":"TH",
+    "wof:created":1469053609,
+    "wof:geomhash":"98a38718677acdfe9f3280341e55789b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "locality_id":890467021,
+            "region_id":85678585
+        }
+    ],
+    "wof:id":890467021,
+    "wof:lastmodified":1505343709,
+    "wof:name":"Ban Nong Thale",
+    "wof:parent_id":85678585,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.82575,
+    8.07958,
+    98.82575,
+    8.07958
+],
+  "geometry": {"coordinates":[98.82575,8.07958],"type":"Point"}
+}

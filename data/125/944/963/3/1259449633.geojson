@@ -1,0 +1,73 @@
+{
+  "id": 1259449633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.15219,15.59969,102.15219,15.59969",
+    "geom:latitude":15.59969,
+    "geom:longitude":102.15219,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Ban Khok Krabueang",
+    "gn:country_code":"TH",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1602454,
+    "gn:latitude":15.59969,
+    "gn:longitude":102.15219,
+    "gn:modification_date":"2014-06-04",
+    "gn:name":"Ban Khok Krabueang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e42\u0e04\u0e01\u0e01\u0e23\u0e30\u0e40\u0e1a\u0e37\u0e49\u0e2d\u0e07"
+    ],
+    "name:und_x_variant":[
+        "Ban Khok Krabuang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678841,
+        1108731125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1602454
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"2fbe1d73f349490c1616006c489f7093",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731125,
+            "locality_id":1259449633,
+            "region_id":85678841
+        }
+    ],
+    "wof:id":1259449633,
+    "wof:lastmodified":1537703547,
+    "wof:name":"Ban Khok Krabueang",
+    "wof:parent_id":1108731125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.15219,
+    15.59969,
+    102.15219,
+    15.59969
+],
+  "geometry": {"coordinates":[102.15219,15.59969],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243380533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.66842,14.26556,99.66842,14.26556",
+    "geom:latitude":14.26556,
+    "geom:longitude":99.66842,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Ban Khao Dinso",
+    "gn:country_code":"TH",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8455970,
+    "gn:latitude":14.26556,
+    "gn:longitude":99.66842,
+    "gn:modification_date":"2013-02-10",
+    "gn:name":"Ban Khao Dinso",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e02\u0e32\u0e14\u0e34\u0e19\u0e2a\u0e2d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678663,
+        890465747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8455970
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"80c4963d53b6aff3ad49a9fd876a57a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465747,
+            "locality_id":1243380533,
+            "region_id":85678663
+        }
+    ],
+    "wof:id":1243380533,
+    "wof:lastmodified":1537705638,
+    "wof:name":"Ban Khao Dinso",
+    "wof:parent_id":890465747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.66842,
+    14.26556,
+    99.66842,
+    14.26556
+],
+  "geometry": {"coordinates":[99.66842,14.26556],"type":"Point"}
+}

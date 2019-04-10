@@ -1,0 +1,85 @@
+{
+  "id": 102025699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000071,
+    "geom:area_square_m":858735.606155,
+    "geom:bbox":"100.435638428,13.6566627789,100.445251465,13.6673382597",
+    "geom:latitude":13.662291,
+    "geom:longitude":100.440093,
+    "gn:latitude":13.66302,
+    "gn:longitude":100.43416,
+    "iso:country":"TH",
+    "lbl:latitude":13.663099,
+    "lbl:longitude":100.439703,
+    "mps:latitude":13.663099,
+    "mps:longitude":100.439703,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e32\u0e07\u0e02\u0e38\u0e19\u0e40\u0e17\u0e35\u0e22\u0e19"
+    ],
+    "name:unk_x_variant":[
+        "Amphoe Bang Khun Thian"
+    ],
+    "qs:a0":"Thailand",
+    "qs:a1":"*Bangkok",
+    "qs:a1r":"*",
+    "qs:a2":"Bang Khun Thian",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Bang Khun Thian",
+    "qs:loc_alt":"Bang Khun Thian",
+    "qs:loc_lc":"1619485",
+    "qs:pop":0,
+    "qs:source":"Aquattroshapes",
+    "qs:type":"County",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":357,
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678739,
+        890466313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1619485,
+        "gp:id":28341417,
+        "qs:id":391375,
+        "wd:id":"Q806447"
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"d18c837484916ec90d0ced1aad621784",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466313,
+            "locality_id":102025699,
+            "region_id":85678739
+        }
+    ],
+    "wof:id":102025699,
+    "wof:lastmodified":1527636687,
+    "wof:name":"Bang Khun Thian",
+    "wof:parent_id":890466313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.43563842799999,
+    13.6566627789,
+    100.445251465,
+    13.6673382597
+],
+  "geometry": {"coordinates":[[[100.442504883,13.6593316944],[100.442504883,13.6566627789],[100.439758301,13.6566627789],[100.437011719,13.6566627789],[100.437011719,13.6593316944],[100.437011719,13.6620005797],[100.43563842799999,13.6620005797],[100.43563842799999,13.663335011],[100.43563842799999,13.6646694348],[100.437011719,13.6646694348],[100.437011719,13.6673382597],[100.439758301,13.6673382597],[100.442504883,13.6673382597],[100.442504883,13.666003851],[100.44387817400001,13.666003851],[100.44387817400001,13.6646694348],[100.445251465,13.6646694348],[100.445251465,13.6620005797],[100.442504883,13.6620005797],[100.442504883,13.6606661409],[100.442504883,13.6593316944]]],"type":"Polygon"}
+}

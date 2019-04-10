@@ -1,0 +1,73 @@
+{
+  "id": 1327385777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.7825,14.43969,100.7825,14.43969",
+    "geom:latitude":14.43969,
+    "geom:longitude":100.7825,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Ban Huai Pa",
+    "gn:country_code":"TH",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1619024,
+    "gn:latitude":14.43969,
+    "gn:longitude":100.7825,
+    "gn:modification_date":"2014-04-29",
+    "gn:name":"Ban Huai Pa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "Ban Huai Ba (1)"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e49\u0e27\u0e22\u0e1b\u0e48\u0e32"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678735,
+        1108802705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1619024
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"ddabc8c05a853b70322691e1a20e035d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802705,
+            "locality_id":1327385777,
+            "region_id":85678735
+        }
+    ],
+    "wof:id":1327385777,
+    "wof:lastmodified":1537704166,
+    "wof:name":"Ban Huai Pa",
+    "wof:parent_id":1108802705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.7825,
+    14.43969,
+    100.7825,
+    14.43969
+],
+  "geometry": {"coordinates":[100.7825,14.43969],"type":"Point"}
+}

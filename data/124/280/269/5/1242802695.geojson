@@ -1,0 +1,73 @@
+{
+  "id": 1242802695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.52608,16.79647,104.52608,16.79647",
+    "geom:latitude":16.79647,
+    "geom:longitude":104.52608,
+    "gn:admin1_code":"78.0",
+    "gn:asciiname":"Ban Piat",
+    "gn:country_code":"TH",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8037268,
+    "gn:latitude":16.79647,
+    "gn:longitude":104.52608,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Piat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "Ban Piat"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e1b\u0e35\u0e22\u0e14"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678881,
+        1108802607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8037268
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"9e626a82a7da4f6bad0526e7f497e510",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802607,
+            "locality_id":1242802695,
+            "region_id":85678881
+        }
+    ],
+    "wof:id":1242802695,
+    "wof:lastmodified":1537704944,
+    "wof:name":"Ban Piat",
+    "wof:parent_id":1108802607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.52608,
+    16.79647000000001,
+    104.52608,
+    16.79647000000001
+],
+  "geometry": {"coordinates":[104.52607999999999,16.79647000000001],"type":"Point"}
+}

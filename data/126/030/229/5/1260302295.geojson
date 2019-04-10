@@ -1,0 +1,70 @@
+{
+  "id": 1260302295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.21392,9.18581,99.21392,9.18581",
+    "geom:latitude":9.18581,
+    "geom:longitude":99.21392,
+    "gn:admin1_code":"60.0",
+    "gn:asciiname":"Ban Thung Ao",
+    "gn:country_code":"TH",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8540459,
+    "gn:latitude":9.18581,
+    "gn:longitude":99.21392,
+    "gn:modification_date":"2013-06-06",
+    "gn:name":"Ban Thung Ao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e17\u0e38\u0e48\u0e07\u0e2d\u0e48\u0e32\u0e27"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678581,
+        890466591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8540459
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"fdc8c9cd152c9bf0c37d843486beec3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466591,
+            "locality_id":1260302295,
+            "region_id":85678581
+        }
+    ],
+    "wof:id":1260302295,
+    "wof:lastmodified":1537705697,
+    "wof:name":"Ban Thung Ao",
+    "wof:parent_id":890466591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.21392,
+    9.18581,
+    99.21392,
+    9.18581
+],
+  "geometry": {"coordinates":[99.21392,9.18581],"type":"Point"}
+}

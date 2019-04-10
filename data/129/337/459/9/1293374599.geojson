@@ -1,0 +1,73 @@
+{
+  "id": 1293374599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.98514,17.03561,98.98514,17.03561",
+    "geom:latitude":17.03561,
+    "geom:longitude":98.98514,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Ban Den",
+    "gn:country_code":"TH",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8163884,
+    "gn:latitude":17.03561,
+    "gn:longitude":98.98514,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Ban Den",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "Ban Den"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e14\u0e48\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678683,
+        1108731155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8163884
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"889e860e399bf3d950ed83ca78a81b78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731155,
+            "locality_id":1293374599,
+            "region_id":85678683
+        }
+    ],
+    "wof:id":1293374599,
+    "wof:lastmodified":1537705042,
+    "wof:name":"Ban Den",
+    "wof:parent_id":1108731155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.98514,
+    17.03561,
+    98.98514,
+    17.03561
+],
+  "geometry": {"coordinates":[98.98514,17.03561],"type":"Point"}
+}

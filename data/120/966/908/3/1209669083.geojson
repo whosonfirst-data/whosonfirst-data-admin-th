@@ -1,0 +1,64 @@
+{
+  "id": 1209669083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.86019,15.01656,100.86019,15.01656",
+    "geom:latitude":15.01656,
+    "geom:longitude":100.86019,
+    "gn:admin1_code":"34",
+    "gn:asciiname":"Ban Phu Muang",
+    "gn:country_code":"TH",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9198637,
+    "gn:latitude":15.01656,
+    "gn:longitude":100.86019,
+    "gn:modification_date":"2014-07-10",
+    "gn:name":"Ban Phu Muang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1e\u0e38\u0e21\u0e48\u0e27\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9198637
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"af2f388ff0242ec680ac921078954716",
+    "wof:hierarchy":[
+        {
+            "country_id":85632293,
+            "locality_id":1209669083
+        }
+    ],
+    "wof:id":1209669083,
+    "wof:lastmodified":1537706224,
+    "wof:name":"Ban Phu Muang",
+    "wof:parent_id":85632293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.86019,
+    15.01656,
+    100.86019,
+    15.01656
+],
+  "geometry": {"coordinates":[100.86019,15.01656],"type":"Point"}
+}

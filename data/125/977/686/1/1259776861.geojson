@@ -1,0 +1,73 @@
+{
+  "id": 1259776861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.07922,17.29581,100.07922,17.29581",
+    "geom:latitude":17.29581,
+    "geom:longitude":100.07922,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Ban Hat Wen",
+    "gn:country_code":"TH",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8136088,
+    "gn:latitude":17.29581,
+    "gn:longitude":100.07922,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Ban Hat Wen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "Ban Hat Wen"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e32\u0e14\u0e40\u0e27\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678657,
+        890465911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8136088
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"b21ce275f7de8e1ff3bb6f1a24483476",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465911,
+            "locality_id":1259776861,
+            "region_id":85678657
+        }
+    ],
+    "wof:id":1259776861,
+    "wof:lastmodified":1537704983,
+    "wof:name":"Ban Hat Wen",
+    "wof:parent_id":890465911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.07922,
+    17.29581,
+    100.07922,
+    17.29581
+],
+  "geometry": {"coordinates":[100.07922000000001,17.29581],"type":"Point"}
+}

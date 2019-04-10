@@ -1,0 +1,73 @@
+{
+  "id": 1276753891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.09217,17.00536,99.09217,17.00536",
+    "geom:latitude":17.00536,
+    "geom:longitude":99.09217,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Ban Hin Khwo",
+    "gn:country_code":"TH",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8164418,
+    "gn:latitude":17.00536,
+    "gn:longitude":99.09217,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Ban Hin Khwo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "Ban Hin Khwo"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e34\u0e19\u0e42\u0e04\u0e49\u0e27"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678683,
+        1108731155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8164418
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"275741c3489b9ed8559e721d62e846ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731155,
+            "locality_id":1276753891,
+            "region_id":85678683
+        }
+    ],
+    "wof:id":1276753891,
+    "wof:lastmodified":1537705053,
+    "wof:name":"Ban Hin Khwo",
+    "wof:parent_id":1108731155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.09217,
+    17.00536,
+    99.09217,
+    17.00536
+],
+  "geometry": {"coordinates":[99.09217,17.00536],"type":"Point"}
+}

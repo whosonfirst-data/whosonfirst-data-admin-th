@@ -1,0 +1,73 @@
+{
+  "id": 1243479493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.18231,13.62217,101.18231,13.62217",
+    "geom:latitude":13.62217,
+    "geom:longitude":101.18231,
+    "gn:admin1_code":"44.0",
+    "gn:asciiname":"Ban Lat Bua",
+    "gn:country_code":"TH",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1617013,
+    "gn:latitude":13.62217,
+    "gn:longitude":101.18231,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Lat Bua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e25\u0e32\u0e14\u0e1a\u0e31\u0e27"
+    ],
+    "name:und_x_variant":[
+        "Ban Lat Bua Nua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678797,
+        1108731147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1617013
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"2592bef2fe8aaf41cde53438603c6e6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731147,
+            "locality_id":1243479493,
+            "region_id":85678797
+        }
+    ],
+    "wof:id":1243479493,
+    "wof:lastmodified":1537704021,
+    "wof:name":"Ban Lat Bua",
+    "wof:parent_id":1108731147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.18231,
+    13.62217,
+    101.18231,
+    13.62217
+],
+  "geometry": {"coordinates":[101.18231,13.62217],"type":"Point"}
+}

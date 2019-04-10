@@ -1,0 +1,73 @@
+{
+  "id": 1293660845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.95497,15.93107,99.95497,15.93107",
+    "geom:latitude":15.93107,
+    "geom:longitude":99.95497,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ban Tua Kao",
+    "gn:country_code":"TH",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1154581,
+    "gn:latitude":15.93107,
+    "gn:longitude":99.95497,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Ban Tua Kao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e15\u0e31\u0e49\u0e27\u0e40\u0e01\u0e32"
+    ],
+    "name:und_x_variant":[
+        "Ban Tha Kao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678715,
+        890466389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1154581
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"275ba684398544889aafec851b884da0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466389,
+            "locality_id":1293660845,
+            "region_id":85678715
+        }
+    ],
+    "wof:id":1293660845,
+    "wof:lastmodified":1537703057,
+    "wof:name":"Ban Tua Kao",
+    "wof:parent_id":890466389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.95497,
+    15.93107,
+    99.95497,
+    15.93107
+],
+  "geometry": {"coordinates":[99.95497,15.93107],"type":"Point"}
+}

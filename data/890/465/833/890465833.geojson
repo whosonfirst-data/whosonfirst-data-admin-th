@@ -1,0 +1,73 @@
+{
+  "id": 890465833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-11-10",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.03232,13.88034,101.03232,13.88034",
+    "geom:latitude":13.88034,
+    "geom:longitude":101.03232,
+    "gn:country":"TH",
+    "gn:fcode":"ADM2",
+    "gn:pop":0,
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e1a\u0e32\u0e07\u0e19\u0e49\u0e33\u0e40\u0e1b\u0e23\u0e35\u0e49\u0e22\u0e27"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e32\u0e07\u0e19\u0e49\u0e33\u0e40\u0e1b\u0e23\u0e35\u0e49\u0e22\u0e27"
+    ],
+    "qs:name":"Amphoe Bang Nam Priao",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":352,
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1619390,
+        "gp:id":28341333,
+        "qs:id":1151828,
+        "wd:id":"Q475222",
+        "wk:page":"Bang Nam Priao District"
+    },
+    "wof:country":"TH",
+    "wof:created":1469053537,
+    "wof:geomhash":"2948ab099275981f7b5ecb13b559d362",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465833,
+            "region_id":85678797
+        }
+    ],
+    "wof:id":890465833,
+    "wof:lastmodified":1527736650,
+    "wof:name":"Amphoe Bang Nam Priao",
+    "wof:parent_id":85678797,
+    "wof:placetype":"county",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.03232,
+    13.88034,
+    101.03232,
+    13.88034
+],
+  "geometry": {"coordinates":[101.03232,13.88034],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1226591143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.24458,15.2795,103.24458,15.2795",
+    "geom:latitude":15.2795,
+    "geom:longitude":103.24458,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Ban Khok Itsara",
+    "gn:country_code":"TH",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9285328,
+    "gn:latitude":15.2795,
+    "gn:longitude":103.24458,
+    "gn:modification_date":"2014-08-07",
+    "gn:name":"Ban Khok Itsara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e42\u0e04\u0e01\u0e2d\u0e34\u0e2a\u0e23\u0e30"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678817,
+        890466239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9285328
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"b67f4d64775cc2d4e4014d576d3a4fbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466239,
+            "locality_id":1226591143,
+            "region_id":85678817
+        }
+    ],
+    "wof:id":1226591143,
+    "wof:lastmodified":1537706279,
+    "wof:name":"Ban Khok Itsara",
+    "wof:parent_id":890466239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.24458,
+    15.2795,
+    103.24458,
+    15.2795
+],
+  "geometry": {"coordinates":[103.24458,15.2795],"type":"Point"}
+}

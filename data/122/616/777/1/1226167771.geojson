@@ -1,0 +1,70 @@
+{
+  "id": 1226167771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.73161,13.52539,100.73161,13.52539",
+    "geom:latitude":13.52539,
+    "geom:longitude":100.73161,
+    "gn:admin1_code":"42.0",
+    "gn:asciiname":"Ban Khlong Song",
+    "gn:country_code":"TH",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6907880,
+    "gn:latitude":13.52539,
+    "gn:longitude":100.73161,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ban Khlong Song",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e04\u0e25\u0e2d\u0e07\u0e2a\u0e2d\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678765,
+        1108802737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6907880
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"13d89a9dc63edab5ffa8f88fb12d4033",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802737,
+            "locality_id":1226167771,
+            "region_id":85678765
+        }
+    ],
+    "wof:id":1226167771,
+    "wof:lastmodified":1537704331,
+    "wof:name":"Ban Khlong Song",
+    "wof:parent_id":1108802737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.73161,
+    13.52539,
+    100.73161,
+    13.52539
+],
+  "geometry": {"coordinates":[100.73161,13.52539],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1276527443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.26381,16.76242,100.26381,16.76242",
+    "geom:latitude":16.76242,
+    "geom:longitude":100.26381,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Ban Bueng Phra",
+    "gn:country_code":"TH",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1604299,
+    "gn:latitude":16.76242,
+    "gn:longitude":100.26381,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Ban Bueng Phra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1a\u0e36\u0e07\u0e1e\u0e23\u0e30"
+    ],
+    "name:und_x_variant":[
+        "Ban Bung Phra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678647,
+        890466019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1604299
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"7f0d34c23b5c007142fe92e7088eba18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466019,
+            "locality_id":1276527443,
+            "region_id":85678647
+        }
+    ],
+    "wof:id":1276527443,
+    "wof:lastmodified":1537703615,
+    "wof:name":"Ban Bueng Phra",
+    "wof:parent_id":890466019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.26381,
+    16.76242,
+    100.26381,
+    16.76242
+],
+  "geometry": {"coordinates":[100.26381000000001,16.76242],"type":"Point"}
+}

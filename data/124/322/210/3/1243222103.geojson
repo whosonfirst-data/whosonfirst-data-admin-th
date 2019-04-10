@@ -1,0 +1,70 @@
+{
+  "id": 1243222103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.67139,15.83892,102.67139,15.83892",
+    "geom:latitude":15.83892,
+    "geom:longitude":102.67139,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Ban Pa Pao",
+    "gn:country_code":"TH",
+    "gn:dem":195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9004247,
+    "gn:latitude":15.83892,
+    "gn:longitude":102.67139,
+    "gn:modification_date":"2014-05-01",
+    "gn:name":"Ban Pa Pao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1b\u0e48\u0e32\u0e40\u0e1b\u0e49\u0e32"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678827,
+        890465789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9004247
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"8dff2311bbb05dd0c1ce147033eec5d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465789,
+            "locality_id":1243222103,
+            "region_id":85678827
+        }
+    ],
+    "wof:id":1243222103,
+    "wof:lastmodified":1537706100,
+    "wof:name":"Ban Pa Pao",
+    "wof:parent_id":890465789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.67139,
+    15.83892,
+    102.67139,
+    15.83892
+],
+  "geometry": {"coordinates":[102.67139,15.83892],"type":"Point"}
+}

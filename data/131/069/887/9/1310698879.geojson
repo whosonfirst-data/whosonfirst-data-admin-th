@@ -1,0 +1,73 @@
+{
+  "id": 1310698879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.47511,18.68011,99.47511,18.68011",
+    "geom:latitude":18.68011,
+    "geom:longitude":99.47511,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Ban Pa Heo",
+    "gn:country_code":"TH",
+    "gn:dem":382,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8267213,
+    "gn:latitude":18.68011,
+    "gn:longitude":99.47511,
+    "gn:modification_date":"2013-05-10",
+    "gn:name":"Ban Pa Heo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1b\u0e48\u0e32\u0e40\u0e2b\u0e48\u0e27"
+    ],
+    "name:und_x_variant":[
+        "Ban Pa Hao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678625,
+        890465907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8267213
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"7a2fa04175e19294ea3866c59b26921d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465907,
+            "locality_id":1310698879,
+            "region_id":85678625
+        }
+    ],
+    "wof:id":1310698879,
+    "wof:lastmodified":1537705261,
+    "wof:name":"Ban Pa Heo",
+    "wof:parent_id":890465907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.47511,
+    18.68011,
+    99.47511,
+    18.68011
+],
+  "geometry": {"coordinates":[99.47511,18.68011],"type":"Point"}
+}

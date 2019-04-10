@@ -1,0 +1,70 @@
+{
+  "id": 1209763043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.95947,15.25958,101.95947,15.25958",
+    "geom:latitude":15.25958,
+    "geom:longitude":101.95947,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Ban Krok Chang Noi",
+    "gn:country_code":"TH",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1601962,
+    "gn:latitude":15.25958,
+    "gn:longitude":101.95947,
+    "gn:modification_date":"2014-06-04",
+    "gn:name":"Ban Krok Chang Noi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e42\u0e01\u0e23\u0e01\u0e0a\u0e49\u0e32\u0e07\u0e19\u0e49\u0e2d\u0e22"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678841,
+        1108731607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1601962
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"d5cc9717b258d3fa698024a51f6a77ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731607,
+            "locality_id":1209763043,
+            "region_id":85678841
+        }
+    ],
+    "wof:id":1209763043,
+    "wof:lastmodified":1537703530,
+    "wof:name":"Ban Krok Chang Noi",
+    "wof:parent_id":1108731607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.95947,
+    15.25958,
+    101.95947,
+    15.25958
+],
+  "geometry": {"coordinates":[101.95947,15.25958],"type":"Point"}
+}

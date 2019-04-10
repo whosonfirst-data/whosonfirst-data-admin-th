@@ -1,0 +1,70 @@
+{
+  "id": 1225834269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.69664,17.26175,99.69664,17.26175",
+    "geom:latitude":17.26175,
+    "geom:longitude":99.69664,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ban Nam Duan",
+    "gn:country_code":"TH",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8414962,
+    "gn:latitude":17.26175,
+    "gn:longitude":99.69664,
+    "gn:modification_date":"2012-11-10",
+    "gn:name":"Ban Nam Duan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e19\u0e49\u0e33\u0e14\u0e49\u0e27\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678651,
+        1108731869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8414962
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"3c63163a0bb7b0955a1e9b8d10aeb3ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731869,
+            "locality_id":1225834269,
+            "region_id":85678651
+        }
+    ],
+    "wof:id":1225834269,
+    "wof:lastmodified":1537705598,
+    "wof:name":"Ban Nam Duan",
+    "wof:parent_id":1108731869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.69664,
+    17.26175,
+    99.69664,
+    17.26175
+],
+  "geometry": {"coordinates":[99.69664,17.26175],"type":"Point"}
+}

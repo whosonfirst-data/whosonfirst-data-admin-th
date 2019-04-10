@@ -1,0 +1,77 @@
+{
+  "id": 890466583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.02386,9.45028,100.02386,9.45028",
+    "geom:latitude":9.45028,
+    "geom:longitude":100.02386,
+    "gn:country":"TH",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424960,
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e31\u0e27\u0e16\u0e19\u0e19"
+    ],
+    "name:unk_x_variant":[
+        "Ban Hua Thanon"
+    ],
+    "qs:name":"Hua Thanon",
+    "qs:name_adm0":"Thailand",
+    "qs:name_adm1":"Surat Thani",
+    "qs:photos":5000,
+    "qs:photos_1k":1000,
+    "qs:photos_9k":22,
+    "qs:photos_9r":14,
+    "qs:photos_all":5000,
+    "qs:photos_sr":24,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8326159,
+        "gp:id":1226251,
+        "qs:id":484811
+    },
+    "wof:country":"TH",
+    "wof:created":1469053585,
+    "wof:geomhash":"dc756519165267771e81c04fc619ffc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "locality_id":890466583,
+            "region_id":85678581
+        }
+    ],
+    "wof:id":890466583,
+    "wof:lastmodified":1505343707,
+    "wof:name":"Hua Thanon",
+    "wof:parent_id":85678581,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.02386,
+    9.45028,
+    100.02386,
+    9.45028
+],
+  "geometry": {"coordinates":[100.02386,9.45028],"type":"Point"}
+}

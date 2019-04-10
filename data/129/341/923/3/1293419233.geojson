@@ -1,0 +1,76 @@
+{
+  "id": 1293419233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.52131,6.41983,101.52131,6.41983",
+    "geom:latitude":6.41983,
+    "geom:longitude":101.52131,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Ban La Se",
+    "gn:country_code":"TH",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1610330,
+    "gn:latitude":6.41983,
+    "gn:longitude":101.52131,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban La Se",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e25\u0e32\u0e40\u0e0b\u0e4a\u0e30"
+    ],
+    "name:und_x_variant":[
+        "Kampong Ma Se",
+        "Kampong Lakse",
+        "Ban La Se",
+        "Kampong Lase"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678885,
+        890465725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1610330
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"3c4c34c3e184fa7c6e264301306e188e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465725,
+            "locality_id":1293419233,
+            "region_id":85678885
+        }
+    ],
+    "wof:id":1293419233,
+    "wof:lastmodified":1537703638,
+    "wof:name":"Ban La Se",
+    "wof:parent_id":890465725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.52131,
+    6.41983,
+    101.52131,
+    6.41983
+],
+  "geometry": {"coordinates":[101.52131,6.41983],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1276631831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.51431,17.34992,100.51431,17.34992",
+    "geom:latitude":17.34992,
+    "geom:longitude":100.51431,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Ban Nam Thong Noi",
+    "gn:country_code":"TH",
+    "gn:dem":229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1600987,
+    "gn:latitude":17.34992,
+    "gn:longitude":100.51431,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Ban Nam Thong Noi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e19\u0e49\u0e33\u0e17\u0e2d\u0e07\u0e19\u0e49\u0e2d\u0e22"
+    ],
+    "name:und_x_variant":[
+        "Ban Nam Thong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678647,
+        1108731235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1600987
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"b5a039c137530b6b1bdff85a2efe87e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731235,
+            "locality_id":1276631831,
+            "region_id":85678647
+        }
+    ],
+    "wof:id":1276631831,
+    "wof:lastmodified":1537703495,
+    "wof:name":"Ban Nam Thong Noi",
+    "wof:parent_id":1108731235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.51431,
+    17.34992,
+    100.51431,
+    17.34992
+],
+  "geometry": {"coordinates":[100.51430999999999,17.34992],"type":"Point"}
+}

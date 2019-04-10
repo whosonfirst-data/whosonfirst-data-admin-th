@@ -1,0 +1,70 @@
+{
+  "id": 1259670639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.92358,17.66353,100.92358,17.66353",
+    "geom:latitude":17.66353,
+    "geom:longitude":100.92358,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Ban Nut Thian",
+    "gn:country_code":"TH",
+    "gn:dem":559,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8206469,
+    "gn:latitude":17.66353,
+    "gn:longitude":100.92358,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Ban Nut Thian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e19\u0e38\u0e0a\u0e40\u0e17\u0e35\u0e22\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678647,
+        1108731235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8206469
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"0b2a8e2d8c8f927ae8c1e0a285c8546a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731235,
+            "locality_id":1259670639,
+            "region_id":85678647
+        }
+    ],
+    "wof:id":1259670639,
+    "wof:lastmodified":1537705113,
+    "wof:name":"Ban Nut Thian",
+    "wof:parent_id":1108731235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.92358,
+    17.66352999999999,
+    100.92358,
+    17.66352999999999
+],
+  "geometry": {"coordinates":[100.92358,17.66352999999999],"type":"Point"}
+}

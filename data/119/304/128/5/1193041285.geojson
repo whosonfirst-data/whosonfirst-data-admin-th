@@ -1,0 +1,70 @@
+{
+  "id": 1193041285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.3375,14.17281,101.3375,14.17281",
+    "geom:latitude":14.17281,
+    "geom:longitude":101.3375,
+    "gn:admin1_code":"74",
+    "gn:asciiname":"Ban Nong Ngulueam",
+    "gn:country_code":"TH",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8748487,
+    "gn:latitude":14.17281,
+    "gn:longitude":101.3375,
+    "gn:modification_date":"2014-04-08",
+    "gn:name":"Ban Nong Ngulueam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e19\u0e2d\u0e07\u0e07\u0e39\u0e40\u0e2b\u0e25\u0e37\u0e2d\u0e21"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678711,
+        890466781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8748487
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"b22a677298160d84fd293cda9ed9eea1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466781,
+            "locality_id":1193041285,
+            "region_id":85678711
+        }
+    ],
+    "wof:id":1193041285,
+    "wof:lastmodified":1537706019,
+    "wof:name":"Ban Nong Ngulueam",
+    "wof:parent_id":890466781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.3375,
+    14.17281,
+    101.3375,
+    14.17281
+],
+  "geometry": {"coordinates":[101.33750000000001,14.17281],"type":"Point"}
+}

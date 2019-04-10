@@ -1,0 +1,70 @@
+{
+  "id": 1310328129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.674,6.59164,101.674,6.59164",
+    "geom:latitude":6.59164,
+    "geom:longitude":101.674,
+    "gn:admin1_code":"69.0",
+    "gn:asciiname":"Ban Khok Ni Bong",
+    "gn:country_code":"TH",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7882784,
+    "gn:latitude":6.59164,
+    "gn:longitude":101.674,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Khok Ni Bong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e42\u0e04\u0e01\u0e19\u0e34\u0e1a\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678889,
+        1108731517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7882784
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"4b555462cdd6d1f33726bf8f96099031",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731517,
+            "locality_id":1310328129,
+            "region_id":85678889
+        }
+    ],
+    "wof:id":1310328129,
+    "wof:lastmodified":1537704829,
+    "wof:name":"Ban Khok Ni Bong",
+    "wof:parent_id":1108731517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.674,
+    6.59164,
+    101.674,
+    6.59164
+],
+  "geometry": {"coordinates":[101.67400000000001,6.59164],"type":"Point"}
+}

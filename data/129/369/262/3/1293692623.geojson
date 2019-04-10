@@ -1,0 +1,74 @@
+{
+  "id": 1293692623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.72061,18.3575,100.72061,18.3575",
+    "geom:latitude":18.3575,
+    "geom:longitude":100.72061,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Ban Khua Kom",
+    "gn:country_code":"TH",
+    "gn:dem":253,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1617726,
+    "gn:latitude":18.3575,
+    "gn:longitude":100.72061,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Ban Khua Kom",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e02\u0e31\u0e27\u0e01\u0e49\u0e2d\u0e21"
+    ],
+    "name:und_x_variant":[
+        "Ban Kam Ku",
+        "Ban Khua Kom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678633,
+        1108731561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1617726
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"252c1f507173f642ec0ebf872dbead5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731561,
+            "locality_id":1293692623,
+            "region_id":85678633
+        }
+    ],
+    "wof:id":1293692623,
+    "wof:lastmodified":1537704070,
+    "wof:name":"Ban Khua Kom",
+    "wof:parent_id":1108731561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.72061,
+    18.3575,
+    100.72061,
+    18.3575
+],
+  "geometry": {"coordinates":[100.72060999999999,18.3575],"type":"Point"}
+}

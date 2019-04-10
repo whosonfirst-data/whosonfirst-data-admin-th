@@ -1,0 +1,77 @@
+{
+  "id": 890466089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.08556,14.88583,101.08556,14.88583",
+    "geom:latitude":14.88583,
+    "geom:longitude":101.08556,
+    "gn:country":"TH",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424960,
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e17\u0e48\u0e32\u0e24\u0e17\u0e18\u0e34\u0e4c"
+    ],
+    "name:unk_x_variant":[
+        "Ban Tah Rit"
+    ],
+    "qs:name":"Nong Bua",
+    "qs:name_adm0":"Thailand",
+    "qs:name_adm1":"Lop Buri",
+    "qs:photos":26,
+    "qs:photos_1k":5,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":26,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1615853,
+        "gp:id":55944955,
+        "qs:id":1318009
+    },
+    "wof:country":"TH",
+    "wof:created":1469053565,
+    "wof:geomhash":"ba6c6382f1067f6ba27529f54890bfdd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "locality_id":890466089,
+            "region_id":85678701
+        }
+    ],
+    "wof:id":890466089,
+    "wof:lastmodified":1505343706,
+    "wof:name":"Nong Bua",
+    "wof:parent_id":85678701,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.08556,
+    14.88583,
+    101.08556,
+    14.88583
+],
+  "geometry": {"coordinates":[101.08556,14.88583],"type":"Point"}
+}

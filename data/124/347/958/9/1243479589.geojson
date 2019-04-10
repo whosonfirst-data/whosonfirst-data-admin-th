@@ -1,0 +1,73 @@
+{
+  "id": 1243479589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.3,6.3,101.3,6.3",
+    "geom:latitude":6.3,
+    "geom:longitude":101.3,
+    "gn:admin1_code":"70.0",
+    "gn:asciiname":"Kampong Tabung",
+    "gn:cc2":"TH",
+    "gn:country_code":"TH",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1610269,
+    "gn:latitude":6.3,
+    "gn:longitude":101.3,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Kampong Tabung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Taboeng",
+        "Kampong Taboeng",
+        "Kampong Tabung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678611,
+        1108731183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1610269
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"e57adf02d5b0c06459aa0d7866c5b3e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731183,
+            "locality_id":1243479589,
+            "region_id":85678611
+        }
+    ],
+    "wof:id":1243479589,
+    "wof:lastmodified":1537703632,
+    "wof:name":"Kampong Tabung",
+    "wof:parent_id":1108731183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.3,
+    6.3,
+    101.3,
+    6.3
+],
+  "geometry": {"coordinates":[101.3,6.3],"type":"Point"}
+}

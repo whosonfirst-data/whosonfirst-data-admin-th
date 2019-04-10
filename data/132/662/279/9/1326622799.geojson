@@ -1,0 +1,70 @@
+{
+  "id": 1326622799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.13169,18.49992,99.13169,18.49992",
+    "geom:latitude":18.49992,
+    "geom:longitude":99.13169,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ban Den Nok Tae",
+    "gn:country_code":"TH",
+    "gn:dem":385,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8218322,
+    "gn:latitude":18.49992,
+    "gn:longitude":99.13169,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Ban Den Nok Tae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e14\u0e48\u0e19\u0e19\u0e01\u0e41\u0e15\u0e49"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678629,
+        890466981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8218322
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"04c5af994d463922f189f7dd44ca534f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466981,
+            "locality_id":1326622799,
+            "region_id":85678629
+        }
+    ],
+    "wof:id":1326622799,
+    "wof:lastmodified":1537705138,
+    "wof:name":"Ban Den Nok Tae",
+    "wof:parent_id":890466981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.13169,
+    18.49992,
+    99.13169,
+    18.49992
+],
+  "geometry": {"coordinates":[99.13169000000001,18.49992],"type":"Point"}
+}

@@ -1,0 +1,119 @@
+{
+  "id": 890466405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.003345,
+    "geom:area_square_m":40195323.152276,
+    "geom:bbox":"100.437055285,13.5948961026,100.488393387,13.712044301",
+    "geom:latitude":13.658972,
+    "geom:longitude":100.46615,
+    "gn:country":"TH",
+    "gn:fcode":"ADM2",
+    "gn:pop":0,
+    "iso:country":"TH",
+    "lbl:latitude":13.674905,
+    "lbl:longitude":100.467897,
+    "meso:admin1_en":"KRUNG THEP",
+    "meso:diss_me":"Chom ThongKRUNG THEP",
+    "meso:gadm_admin":"Bangkhuntien",
+    "meso:gadm_hasc2":"TH.BM.KT",
+    "meso:gaul_admin":"Chom Thong",
+    "meso:id":"124",
+    "meso:loc_id_alt":"1035",
+    "meso:local_id":"3235",
+    "meso:mps_x":100.467897,
+    "meso:mps_y":13.674905,
+    "meso:name_en":"Chom Thong",
+    "meso:name_local":"\u0e40\u0e02\u0e15\u0e08\u0e2d\u0e21\u0e17\u0e2d\u0e07",
+    "meso:source":"AOTM",
+    "mps:latitude":13.674905,
+    "mps:longitude":100.467897,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Chom Thong"
+    ],
+    "name:eng_x_variant":[
+        "Chom Thong",
+        "Bangkhuntien"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e02\u0e15\u0e08\u0e2d\u0e21\u0e17\u0e2d\u0e07"
+    ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e2d\u0e21\u0e17\u0e2d\u0e07",
+        "\u0e40\u0e02\u0e15\u0e08\u0e2d\u0e21\u0e17\u0e2d\u0e07"
+    ],
+    "name:unk_x_variant":[
+        "Khet Chom Thong"
+    ],
+    "qs:name":"Khet Chom Thong",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"0",
+    "src:geom":"unknown",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2000-04-01",
+    "statoids:area_km":"26",
+    "statoids:as_of_date":"2000-04-01",
+    "statoids:capital":"",
+    "statoids:country":"TH",
+    "statoids:hasc":"TH.BM",
+    "statoids:name":"Chom Thong",
+    "statoids:population":"195602",
+    "statoids:statoid":"TH.BM.CT",
+    "statoids:timezone":"7",
+    "statoids:type":"district",
+    "wd:wordcount":325,
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6958161,
+        "hasc:id":"TH.BM.CT",
+        "qs:id":1039372,
+        "wd:id":"Q1019598",
+        "wk:page":"Chom Thong District, Bangkok"
+    },
+    "wof:country":"TH",
+    "wof:created":1469053577,
+    "wof:geomhash":"8a670bd35d06cf42deda166236972b03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466405,
+            "region_id":85678739
+        }
+    ],
+    "wof:id":890466405,
+    "wof:lastmodified":1536617423,
+    "wof:name":"Chom Thong",
+    "wof:parent_id":85678739,
+    "wof:placetype":"county",
+    "wof:placetype_local":"district",
+    "wof:population":195602,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:shortcode":"CT",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.43705528468718,
+    13.59489610263645,
+    100.48839338684019,
+    13.71204430099558
+],
+  "geometry": {"coordinates":[[[100.47180758879834,13.71204430099558],[100.47590828275831,13.70398074074516],[100.48402472791268,13.70318803670117],[100.48548294438112,13.70143380768058],[100.48463178841402,13.69101466531909],[100.4792733436543,13.68674597119443],[100.47855117684446,13.68540389239651],[100.48832748667088,13.67665393274435],[100.48839338684019,13.67326502507571],[100.48778628042321,13.66441887155557],[100.47886900765583,13.6642909110527],[100.47664682294615,13.65987714066888],[100.47592591929416,13.6489016679482],[100.47250716787003,13.64447836429899],[100.47634005795692,13.63559118963334],[100.47506593350077,13.63207639488636],[100.47487188640653,13.62970309963112],[100.47967878979017,13.62202985135117],[100.48666067246404,13.61958058041669],[100.48777322499542,13.61812621425588],[100.48776581228613,13.61604369728421],[100.48387696347343,13.60020045015418],[100.48390341110417,13.60004922583242],[100.47302454271883,13.59491116004673],[100.47189512874918,13.59489610263645],[100.46627691848568,13.60310591139347],[100.45841646553232,13.60412981394746],[100.4557240722784,13.61517186383344],[100.4571994523351,13.62002242161146],[100.44988969143066,13.62544093437003],[100.44704004245922,13.62999999999981],[100.44999999999732,13.637025390614],[100.44999999999733,13.64337884501784],[100.45819769162718,13.65276532250516],[100.45818870419889,13.65288406058143],[100.45094693574841,13.66255686678017],[100.45089125815618,13.6627896015195],[100.45135294535073,13.67065043857071],[100.45214248624066,13.67150497779891],[100.45253762850751,13.67987257348522],[100.44712251504893,13.68830032633291],[100.44386666008812,13.68852925637266],[100.43705528468718,13.69938688941886],[100.45182100580391,13.7082823365904],[100.45427316547875,13.7106567393681],[100.45428578181978,13.71073590229359],[100.47180758879834,13.71204430099558]]],"type":"Polygon"}
+}

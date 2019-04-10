@@ -1,0 +1,70 @@
+{
+  "id": 1293187773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.80683,16.90383,100.80683,16.90383",
+    "geom:latitude":16.90383,
+    "geom:longitude":100.80683,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Ban Khlong Yaeng",
+    "gn:country_code":"TH",
+    "gn:dem":369,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8539005,
+    "gn:latitude":16.90383,
+    "gn:longitude":100.80683,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Ban Khlong Yaeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e04\u0e25\u0e2d\u0e07\u0e41\u0e22\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678647,
+        1108731579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8539005
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"997a87992eaa931c36e45844a206998d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731579,
+            "locality_id":1293187773,
+            "region_id":85678647
+        }
+    ],
+    "wof:id":1293187773,
+    "wof:lastmodified":1537705682,
+    "wof:name":"Ban Khlong Yaeng",
+    "wof:parent_id":1108731579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.80683,
+    16.90383,
+    100.80683,
+    16.90383
+],
+  "geometry": {"coordinates":[100.80683000000001,16.90383],"type":"Point"}
+}

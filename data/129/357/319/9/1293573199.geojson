@@ -1,0 +1,70 @@
+{
+  "id": 1293573199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.67625,17.26061,99.67625,17.26061",
+    "geom:latitude":17.26061,
+    "geom:longitude":99.67625,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ban Kamon Rat",
+    "gn:country_code":"TH",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8414241,
+    "gn:latitude":17.26061,
+    "gn:longitude":99.67625,
+    "gn:modification_date":"2012-11-10",
+    "gn:name":"Ban Kamon Rat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e01\u0e21\u0e25\u0e23\u0e32\u0e29\u0e0e\u0e23\u0e4c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678651,
+        1108732025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8414241
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"b66f7327fd8dd077c477f82ef7862e9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108732025,
+            "locality_id":1293573199,
+            "region_id":85678651
+        }
+    ],
+    "wof:id":1293573199,
+    "wof:lastmodified":1537705589,
+    "wof:name":"Ban Kamon Rat",
+    "wof:parent_id":1108732025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.67625,
+    17.26061,
+    99.67625,
+    17.26061
+],
+  "geometry": {"coordinates":[99.67625,17.26061],"type":"Point"}
+}

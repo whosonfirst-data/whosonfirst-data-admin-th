@@ -1,0 +1,73 @@
+{
+  "id": 1343384427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.59139,12.73278,101.59139,12.73278",
+    "geom:latitude":12.73278,
+    "geom:longitude":101.59139,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Ban Khlong Kha",
+    "gn:country_code":"TH",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1618304,
+    "gn:latitude":12.73278,
+    "gn:longitude":101.59139,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Khlong Kha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e04\u0e25\u0e2d\u0e07\u0e04\u0e32"
+    ],
+    "name:und_x_variant":[
+        "Ban Khlong Kha (1)"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678809,
+        890465677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1618304
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"551bca64750257205b66c8fdad83c3c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465677,
+            "locality_id":1343384427,
+            "region_id":85678809
+        }
+    ],
+    "wof:id":1343384427,
+    "wof:lastmodified":1537704112,
+    "wof:name":"Ban Khlong Kha",
+    "wof:parent_id":890465677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.59139,
+    12.73278,
+    101.59139,
+    12.73278
+],
+  "geometry": {"coordinates":[101.59139,12.73278],"type":"Point"}
+}

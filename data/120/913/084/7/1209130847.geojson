@@ -1,0 +1,64 @@
+{
+  "id": 1209130847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.28122,18.88011,100.28122,18.88011",
+    "geom:latitude":18.88011,
+    "geom:longitude":100.28122,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Ban Phaet",
+    "gn:country_code":"TH",
+    "gn:dem":265,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1599137,
+    "gn:latitude":18.88011,
+    "gn:longitude":100.28122,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Ban Phaet",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e41\u0e1e\u0e17\u0e22\u0e4c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1599137
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"6ec12dc1b1f678b024d84c4257f1bb46",
+    "wof:hierarchy":[
+        {
+            "country_id":85632293,
+            "locality_id":1209130847
+        }
+    ],
+    "wof:id":1209130847,
+    "wof:lastmodified":1537703426,
+    "wof:name":"Ban Phaet",
+    "wof:parent_id":85632293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.28122,
+    18.88011,
+    100.28122,
+    18.88011
+],
+  "geometry": {"coordinates":[100.28122,18.88011],"type":"Point"}
+}

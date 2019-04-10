@@ -1,0 +1,81 @@
+{
+  "id": 890466961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-11-10",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.57621,7.24034,99.57621,7.24034",
+    "geom:latitude":7.24034,
+    "geom:longitude":99.57621,
+    "gn:country":"TH",
+    "gn:fcode":"PPLA2",
+    "gn:pop":0,
+    "gp:adm0":23424960,
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:tha_x_preferred":[
+        "\u0e2b\u0e32\u0e14\u0e2a\u0e33\u0e23\u0e32\u0e0d"
+    ],
+    "name:unk_x_variant":[
+        "King Amphoe Hat Samran"
+    ],
+    "qs:name":"Hat Samran",
+    "qs:name_adm0":"Thailand",
+    "qs:name_adm1":"Trang",
+    "qs:photos":72,
+    "qs:photos_1k":15,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":72,
+    "qs:photos_sr":2,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":169,
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7603495,
+        "gp:id":28341659,
+        "qs:id":1150667,
+        "wd:id":"Q475515",
+        "wk:page":"Hat Samran District"
+    },
+    "wof:country":"TH",
+    "wof:created":1469053606,
+    "wof:geomhash":"fad631cbec7155289daaa241e21221c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466961,
+            "region_id":85678609
+        }
+    ],
+    "wof:id":890466961,
+    "wof:lastmodified":1527793013,
+    "wof:name":"Hat Samran",
+    "wof:parent_id":85678609,
+    "wof:placetype":"county",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.57621,
+    7.24034,
+    99.57621,
+    7.24034
+],
+  "geometry": {"coordinates":[99.57621,7.24034],"type":"Point"}
+}

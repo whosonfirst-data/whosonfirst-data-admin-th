@@ -1,0 +1,71 @@
+{
+  "id": 1209393245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.17056,17.45706,100.17056,17.45706",
+    "geom:latitude":17.45706,
+    "geom:longitude":100.17056,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Ban Phong Satue",
+    "gn:country_code":"TH",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1614186,
+    "gn:latitude":17.45706,
+    "gn:longitude":100.17056,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Phong Satue",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "Ban Phong Satue"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1e\u0e07\u0e2a\u0e30\u0e15\u0e37\u0e2d"
+    ],
+    "name:und_x_variant":[
+        "B\u0101n Phong Sateu",
+        "Ban Phong Satu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1614186
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"e39cb3e1a2be1c112567753b79385167",
+    "wof:hierarchy":[
+        {
+            "country_id":85632293,
+            "locality_id":1209393245
+        }
+    ],
+    "wof:id":1209393245,
+    "wof:lastmodified":1537703825,
+    "wof:name":"Ban Phong Satue",
+    "wof:parent_id":85632293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.17056,
+    17.45706,
+    100.17056,
+    17.45706
+],
+  "geometry": {"coordinates":[100.17055999999999,17.45706],"type":"Point"}
+}

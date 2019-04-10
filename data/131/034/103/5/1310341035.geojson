@@ -1,0 +1,70 @@
+{
+  "id": 1310341035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.1245,14.37181,101.1245,14.37181",
+    "geom:latitude":14.37181,
+    "geom:longitude":101.1245,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Ban Krariang",
+    "gn:country_code":"TH",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8773206,
+    "gn:latitude":14.37181,
+    "gn:longitude":101.1245,
+    "gn:modification_date":"2014-04-08",
+    "gn:name":"Ban Krariang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e01\u0e23\u0e30\u0e40\u0e2b\u0e23\u0e35\u0e48\u0e22\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678705,
+        1108731143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8773206
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"9cb52d459ae54755314e2e912ef4b9a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731143,
+            "locality_id":1310341035,
+            "region_id":85678705
+        }
+    ],
+    "wof:id":1310341035,
+    "wof:lastmodified":1537706058,
+    "wof:name":"Ban Krariang",
+    "wof:parent_id":1108731143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.1245,
+    14.37181,
+    101.1245,
+    14.37181
+],
+  "geometry": {"coordinates":[101.1245,14.37181],"type":"Point"}
+}

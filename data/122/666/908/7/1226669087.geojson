@@ -1,0 +1,73 @@
+{
+  "id": 1226669087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.85189,19.26439,100.85189,19.26439",
+    "geom:latitude":19.26439,
+    "geom:longitude":100.85189,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Ban Wang Ka",
+    "gn:country_code":"TH",
+    "gn:dem":258,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1597319,
+    "gn:latitude":19.26439,
+    "gn:longitude":100.85189,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Ban Wang Ka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e27\u0e31\u0e07\u0e01\u0e49\u0e32"
+    ],
+    "name:und_x_variant":[
+        "Ban Wang Kla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678633,
+        890466499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1597319
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"25107d7656fc67030ad7934203292cb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466499,
+            "locality_id":1226669087,
+            "region_id":85678633
+        }
+    ],
+    "wof:id":1226669087,
+    "wof:lastmodified":1537703365,
+    "wof:name":"Ban Wang Ka",
+    "wof:parent_id":890466499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.85189,
+    19.26439,
+    100.85189,
+    19.26439
+],
+  "geometry": {"coordinates":[100.85189,19.26439],"type":"Point"}
+}

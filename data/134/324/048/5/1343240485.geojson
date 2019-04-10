@@ -1,0 +1,75 @@
+{
+  "id": 1343240485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.51667,17.98333,100.51667,17.98333",
+    "geom:latitude":17.98333,
+    "geom:longitude":100.51667,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Ban Tha Faek (1)",
+    "gn:cc2":"TH",
+    "gn:country_code":"TH",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1612765,
+    "gn:latitude":17.98333,
+    "gn:longitude":100.51667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Tha Faek (1)",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dh\u0101fhek",
+        "B\u0101n Tha Feak",
+        "Tha Faek",
+        "Ban Ta Pak",
+        "Ban Tha Faek (1)"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678657,
+        1108731981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1612765
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"ca780a4cbbdae5bedf5502b9becceb36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731981,
+            "locality_id":1343240485,
+            "region_id":85678657
+        }
+    ],
+    "wof:id":1343240485,
+    "wof:lastmodified":1537703726,
+    "wof:name":"Ban Tha Faek (1)",
+    "wof:parent_id":1108731981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.51667,
+    17.98333,
+    100.51667,
+    17.98333
+],
+  "geometry": {"coordinates":[100.51667,17.98333],"type":"Point"}
+}

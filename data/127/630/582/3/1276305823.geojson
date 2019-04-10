@@ -1,0 +1,70 @@
+{
+  "id": 1276305823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.9235,15.58533,100.9235,15.58533",
+    "geom:latitude":15.58533,
+    "geom:longitude":100.9235,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ban Tao Than",
+    "gn:country_code":"TH",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8566017,
+    "gn:latitude":15.58533,
+    "gn:longitude":100.9235,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Ban Tao Than",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e15\u0e32\u0e16\u0e48\u0e32\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678673,
+        890467495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8566017
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"604300abd4030a82bb52904aedaf2d5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890467495,
+            "locality_id":1276305823,
+            "region_id":85678673
+        }
+    ],
+    "wof:id":1276305823,
+    "wof:lastmodified":1537705729,
+    "wof:name":"Ban Tao Than",
+    "wof:parent_id":890467495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.9235,
+    15.58533,
+    100.9235,
+    15.58533
+],
+  "geometry": {"coordinates":[100.9235,15.58533],"type":"Point"}
+}

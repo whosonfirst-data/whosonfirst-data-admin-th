@@ -1,0 +1,74 @@
+{
+  "id": 1327369511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.94797,8.63836,99.94797,8.63836",
+    "geom:latitude":8.63836,
+    "geom:longitude":99.94797,
+    "gn:admin1_code":"64.0",
+    "gn:asciiname":"Ban Nai Thung",
+    "gn:country_code":"TH",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1156217,
+    "gn:latitude":8.63836,
+    "gn:longitude":99.94797,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Ban Nai Thung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e43\u0e19\u0e16\u0e38\u0e49\u0e07"
+    ],
+    "name:und_x_variant":[
+        "Ban Nai Kung",
+        "Ban Nai Thung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678565,
+        890467405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1156217
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"5a20ada26cf69cbb9dfa7c7d46f5d36a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890467405,
+            "locality_id":1327369511,
+            "region_id":85678565
+        }
+    ],
+    "wof:id":1327369511,
+    "wof:lastmodified":1537703173,
+    "wof:name":"Ban Nai Thung",
+    "wof:parent_id":890467405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.94797,
+    8.63836,
+    99.94797,
+    8.63836
+],
+  "geometry": {"coordinates":[99.94797,8.63836],"type":"Point"}
+}

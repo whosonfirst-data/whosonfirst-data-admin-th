@@ -1,0 +1,70 @@
+{
+  "id": 1260115873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.76117,5.80325,101.76117,5.80325",
+    "geom:latitude":5.80325,
+    "geom:longitude":101.76117,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Ban Laem Thong",
+    "gn:country_code":"TH",
+    "gn:dem":223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6987251,
+    "gn:latitude":5.80325,
+    "gn:longitude":101.76117,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ban Laem Thong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e41\u0e2b\u0e25\u0e21\u0e17\u0e2d\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678885,
+        1108731943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6987251
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"28f57dbd759582860e0c11bab23e7e28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731943,
+            "locality_id":1260115873,
+            "region_id":85678885
+        }
+    ],
+    "wof:id":1260115873,
+    "wof:lastmodified":1537704366,
+    "wof:name":"Ban Laem Thong",
+    "wof:parent_id":1108731943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.76117,
+    5.80325,
+    101.76117,
+    5.80325
+],
+  "geometry": {"coordinates":[101.76117000000001,5.80325],"type":"Point"}
+}

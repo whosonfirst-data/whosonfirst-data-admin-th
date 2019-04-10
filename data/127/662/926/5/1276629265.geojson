@@ -1,0 +1,74 @@
+{
+  "id": 1276629265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.75764,17.34883,103.75764,17.34883",
+    "geom:latitude":17.34883,
+    "geom:longitude":103.75764,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Rae",
+    "gn:country_code":"TH",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1613856,
+    "gn:latitude":17.34883,
+    "gn:longitude":103.75764,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Rae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e41\u0e23\u0e48"
+    ],
+    "name:und_x_variant":[
+        "Ban Hae",
+        "Ban Rae"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678863,
+        1108731707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1613856
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"935ade313c79f09cc4fa39fe22ace758",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731707,
+            "locality_id":1276629265,
+            "region_id":85678863
+        }
+    ],
+    "wof:id":1276629265,
+    "wof:lastmodified":1537703801,
+    "wof:name":"Ban Rae",
+    "wof:parent_id":1108731707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.75764,
+    17.34883,
+    103.75764,
+    17.34883
+],
+  "geometry": {"coordinates":[103.75763999999999,17.34883],"type":"Point"}
+}

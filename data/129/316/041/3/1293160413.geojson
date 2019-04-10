@@ -1,0 +1,70 @@
+{
+  "id": 1293160413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.26372,15.10925,100.26372,15.10925",
+    "geom:latitude":15.10925,
+    "geom:longitude":100.26372,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Ban Khok Chan",
+    "gn:country_code":"TH",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8676588,
+    "gn:latitude":15.10925,
+    "gn:longitude":100.26372,
+    "gn:modification_date":"2014-01-18",
+    "gn:name":"Ban Khok Chan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e42\u0e04\u0e01\u0e08\u0e31\u0e19\u0e17\u0e23\u0e4c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678699,
+        1108731857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8676588
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"b4f5c8b9817c208461f20b20a52f655e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731857,
+            "locality_id":1293160413,
+            "region_id":85678699
+        }
+    ],
+    "wof:id":1293160413,
+    "wof:lastmodified":1537705832,
+    "wof:name":"Ban Khok Chan",
+    "wof:parent_id":1108731857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.26372,
+    15.10925,
+    100.26372,
+    15.10925
+],
+  "geometry": {"coordinates":[100.26372000000001,15.10925],"type":"Point"}
+}

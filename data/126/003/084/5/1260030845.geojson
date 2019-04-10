@@ -1,0 +1,70 @@
+{
+  "id": 1260030845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.88669,15.38064,101.88669,15.38064",
+    "geom:latitude":15.38064,
+    "geom:longitude":101.88669,
+    "gn:admin1_code":"27",
+    "gn:asciiname":"Ban Khok Suwan",
+    "gn:country_code":"TH",
+    "gn:dem":253,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9107521,
+    "gn:latitude":15.38064,
+    "gn:longitude":101.88669,
+    "gn:modification_date":"2014-06-07",
+    "gn:name":"Ban Khok Suwan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e42\u0e04\u0e01\u0e2a\u0e38\u0e27\u0e23\u0e23\u0e13"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678841,
+        1108731607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9107521
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"4eb5b1585da6da5183f8e2991c0b7289",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731607,
+            "locality_id":1260030845,
+            "region_id":85678841
+        }
+    ],
+    "wof:id":1260030845,
+    "wof:lastmodified":1537706172,
+    "wof:name":"Ban Khok Suwan",
+    "wof:parent_id":1108731607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.88669,
+    15.38064,
+    101.88669,
+    15.38064
+],
+  "geometry": {"coordinates":[101.88669,15.38064],"type":"Point"}
+}

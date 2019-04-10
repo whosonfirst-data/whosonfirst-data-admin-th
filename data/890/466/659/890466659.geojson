@@ -1,0 +1,74 @@
+{
+  "id": 890466659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.36261,14.74833,104.36261,14.74833",
+    "geom:latitude":14.74833,
+    "geom:longitude":104.36261,
+    "gn:country":"TH",
+    "gn:fcode":"PPLA2",
+    "gn:pop":11494,
+    "gp:adm0":23424960,
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e44\u0e1e\u0e23\u0e1a\u0e36\u0e07"
+    ],
+    "name:unk_x_variant":[
+        "Phrai Bueng"
+    ],
+    "qs:name":"Phrai Bung",
+    "qs:name_adm0":"Thailand",
+    "qs:name_adm1":"Sisaket",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1607544,
+        "gp:id":1225593,
+        "qs:id":1295738
+    },
+    "wof:country":"TH",
+    "wof:created":1469053588,
+    "wof:geomhash":"4d3b5e446ef56da2f8e1f173317c2453",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "locality_id":890466659,
+            "region_id":85678779
+        }
+    ],
+    "wof:id":890466659,
+    "wof:lastmodified":1505343707,
+    "wof:name":"Phrai Bung",
+    "wof:parent_id":85678779,
+    "wof:placetype":"locality",
+    "wof:population":11494,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.36261,
+    14.74833,
+    104.36261,
+    14.74833
+],
+  "geometry": {"coordinates":[104.36261,14.74833],"type":"Point"}
+}

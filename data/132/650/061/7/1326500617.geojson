@@ -1,0 +1,70 @@
+{
+  "id": 1326500617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.21758,16.13822,101.21758,16.13822",
+    "geom:latitude":16.13822,
+    "geom:longitude":101.21758,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ban Na Wang Haen",
+    "gn:country_code":"TH",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8565612,
+    "gn:latitude":16.13822,
+    "gn:longitude":101.21758,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Ban Na Wang Haen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e19\u0e32\u0e27\u0e31\u0e07\u0e41\u0e2b\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678673,
+        1108731635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8565612
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"2b01f230febe595d7e1dc0902995bc55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731635,
+            "locality_id":1326500617,
+            "region_id":85678673
+        }
+    ],
+    "wof:id":1326500617,
+    "wof:lastmodified":1537705723,
+    "wof:name":"Ban Na Wang Haen",
+    "wof:parent_id":1108731635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.21758,
+    16.13822,
+    101.21758,
+    16.13822
+],
+  "geometry": {"coordinates":[101.21758,16.13822],"type":"Point"}
+}

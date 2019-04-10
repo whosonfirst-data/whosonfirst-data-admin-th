@@ -1,0 +1,70 @@
+{
+  "id": 1326932495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.12806,18.73128,99.12806,18.73128",
+    "geom:latitude":18.73128,
+    "geom:longitude":99.12806,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Pa Phai Tai",
+    "gn:country_code":"TH",
+    "gn:dem":316,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7791155,
+    "gn:latitude":18.73128,
+    "gn:longitude":99.12806,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Pa Phai Tai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1b\u0e48\u0e32\u0e44\u0e1c\u0e48\u0e43\u0e15\u0e49"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678619,
+        1108731841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7791155
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"598c45a649b448814d0045545d76e091",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731841,
+            "locality_id":1326932495,
+            "region_id":85678619
+        }
+    ],
+    "wof:id":1326932495,
+    "wof:lastmodified":1537704694,
+    "wof:name":"Ban Pa Phai Tai",
+    "wof:parent_id":1108731841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.12806,
+    18.73128,
+    99.12806,
+    18.73128
+],
+  "geometry": {"coordinates":[99.12806,18.73128],"type":"Point"}
+}

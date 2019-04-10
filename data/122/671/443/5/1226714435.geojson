@@ -1,0 +1,73 @@
+{
+  "id": 1226714435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.30722,17.31778,103.30722,17.31778",
+    "geom:latitude":17.31778,
+    "geom:longitude":103.30722,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Khok Sawatdi",
+    "gn:country_code":"TH",
+    "gn:dem":194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1598239,
+    "gn:latitude":17.31778,
+    "gn:longitude":103.30722,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Khok Sawatdi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e42\u0e04\u0e01\u0e2a\u0e27\u0e31\u0e2a\u0e14\u0e35"
+    ],
+    "name:und_x_variant":[
+        "Ban Sawatdi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678863,
+        890466235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1598239
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"89b754aaef33ef38c2081db35675a84f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466235,
+            "locality_id":1226714435,
+            "region_id":85678863
+        }
+    ],
+    "wof:id":1226714435,
+    "wof:lastmodified":1537703395,
+    "wof:name":"Ban Khok Sawatdi",
+    "wof:parent_id":890466235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.30722,
+    17.31778,
+    103.30722,
+    17.31778
+],
+  "geometry": {"coordinates":[103.30722,17.31778],"type":"Point"}
+}

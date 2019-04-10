@@ -1,0 +1,73 @@
+{
+  "id": 1193276715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.46888,19.06689,99.46888,19.06689",
+    "geom:latitude":19.06689,
+    "geom:longitude":99.46888,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ban Mueang Noi",
+    "gn:country_code":"TH",
+    "gn:dem":871,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1118904,
+    "gn:latitude":19.06689,
+    "gn:longitude":99.46888,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Ban Mueang Noi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e19\u0e49\u0e2d\u0e22"
+    ],
+    "name:und_x_variant":[
+        "Ban Muang Noi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678617,
+        1108732079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1118904
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"807f29b2cebc7a4d0b980386f5589f78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108732079,
+            "locality_id":1193276715,
+            "region_id":85678617
+        }
+    ],
+    "wof:id":1193276715,
+    "wof:lastmodified":1537702965,
+    "wof:name":"Ban Mueang Noi",
+    "wof:parent_id":1108732079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.46888,
+    19.06689,
+    99.46888,
+    19.06689
+],
+  "geometry": {"coordinates":[99.46888,19.06689],"type":"Point"}
+}

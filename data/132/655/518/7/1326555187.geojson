@@ -1,0 +1,77 @@
+{
+  "id": 1326555187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.30256,7.56389,100.30256,7.56389",
+    "geom:latitude":7.56389,
+    "geom:longitude":100.30256,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Ban Bo Rian",
+    "gn:country_code":"TH",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7887336,
+    "gn:latitude":7.56389,
+    "gn:longitude":100.30256,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Bo Rian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1a\u0e48\u0e2d\u0e40\u0e23\u0e35\u0e22\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        1108802633,
+        1108731433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7887336
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"b3d5cc9fabb3bdef6bda8d9968aeefa6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802633,
+            "locality_id":1326555187,
+            "region_id":-1
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731433,
+            "locality_id":1326555187,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1326555187,
+    "wof:lastmodified":1537704851,
+    "wof:name":"Ban Bo Rian",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.30256,
+    7.56389,
+    100.30256,
+    7.56389
+],
+  "geometry": {"coordinates":[100.30256,7.56389],"type":"Point"}
+}

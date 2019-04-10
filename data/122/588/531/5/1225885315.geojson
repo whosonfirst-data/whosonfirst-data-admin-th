@@ -1,0 +1,74 @@
+{
+  "id": 1225885315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.47653,14.79794,100.47653,14.79794",
+    "geom:latitude":14.79794,
+    "geom:longitude":100.47653,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Ban Paeng",
+    "gn:country_code":"TH",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1611648,
+    "gn:latitude":14.79794,
+    "gn:longitude":100.47653,
+    "gn:modification_date":"2014-07-08",
+    "gn:name":"Ban Paeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e41\u0e1b\u0e49\u0e07"
+    ],
+    "name:und_x_variant":[
+        "Ban Peng",
+        "Ban Yuan (1)"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678729,
+        890465951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1611648
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"c8d5fe215ff3301ba457d9f555222234",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465951,
+            "locality_id":1225885315,
+            "region_id":85678729
+        }
+    ],
+    "wof:id":1225885315,
+    "wof:lastmodified":1537703649,
+    "wof:name":"Ban Paeng",
+    "wof:parent_id":890465951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.47653,
+    14.79794,
+    100.47653,
+    14.79794
+],
+  "geometry": {"coordinates":[100.47653,14.79794],"type":"Point"}
+}

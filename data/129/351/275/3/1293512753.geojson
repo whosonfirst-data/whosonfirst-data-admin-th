@@ -1,0 +1,70 @@
+{
+  "id": 1293512753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.012,9.44219,100.012,9.44219",
+    "geom:latitude":9.44219,
+    "geom:longitude":100.012,
+    "gn:admin1_code":"60.0",
+    "gn:asciiname":"Ban Maret",
+    "gn:country_code":"TH",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8540464,
+    "gn:latitude":9.44219,
+    "gn:longitude":100.012,
+    "gn:modification_date":"2013-06-06",
+    "gn:name":"Ban Maret",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e21\u0e30\u0e40\u0e23\u0e47\u0e15"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678581,
+        890466647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8540464
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"7ce59ffa4ba4620f7dfd18433ad4fadd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466647,
+            "locality_id":1293512753,
+            "region_id":85678581
+        }
+    ],
+    "wof:id":1293512753,
+    "wof:lastmodified":1537705697,
+    "wof:name":"Ban Maret",
+    "wof:parent_id":890466647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.012,
+    9.44219,
+    100.012,
+    9.44219
+],
+  "geometry": {"coordinates":[100.012,9.44219],"type":"Point"}
+}

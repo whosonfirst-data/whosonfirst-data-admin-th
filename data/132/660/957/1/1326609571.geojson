@@ -1,0 +1,74 @@
+{
+  "id": 1326609571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.24583,16.59711,100.24583,16.59711",
+    "geom:latitude":16.59711,
+    "geom:longitude":100.24583,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Ban Khok Salut",
+    "gn:country_code":"TH",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1617842,
+    "gn:latitude":16.59711,
+    "gn:longitude":100.24583,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Ban Khok Salut",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e42\u0e04\u0e01\u0e2a\u0e25\u0e38\u0e15"
+    ],
+    "name:und_x_variant":[
+        "B\u0101n Kauk Salut",
+        "Ban Khok Salut"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678647,
+        1108731167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1617842
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"fe67bb42d69dd65153059d0abdb3e2e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731167,
+            "locality_id":1326609571,
+            "region_id":85678647
+        }
+    ],
+    "wof:id":1326609571,
+    "wof:lastmodified":1537704078,
+    "wof:name":"Ban Khok Salut",
+    "wof:parent_id":1108731167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.24583,
+    16.59711,
+    100.24583,
+    16.59711
+],
+  "geometry": {"coordinates":[100.24583,16.59711],"type":"Point"}
+}

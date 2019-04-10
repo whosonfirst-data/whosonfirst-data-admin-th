@@ -1,0 +1,74 @@
+{
+  "id": 1344269761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.35044,18.51481,98.35044,18.51481",
+    "geom:latitude":18.51481,
+    "geom:longitude":98.35044,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban En",
+    "gn:country_code":"TH",
+    "gn:dem":482,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1157774,
+    "gn:latitude":18.51481,
+    "gn:longitude":98.35044,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban En",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e2d\u0e49\u0e19"
+    ],
+    "name:und_x_variant":[
+        "Ban On",
+        "Ban En"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678619,
+        890466281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1157774
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"c39b8fb8414f81b97f7d7f49ba7835e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466281,
+            "locality_id":1344269761,
+            "region_id":85678619
+        }
+    ],
+    "wof:id":1344269761,
+    "wof:lastmodified":1537703275,
+    "wof:name":"Ban En",
+    "wof:parent_id":890466281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.35044,
+    18.51481,
+    98.35044,
+    18.51481
+],
+  "geometry": {"coordinates":[98.35044000000001,18.51481],"type":"Point"}
+}

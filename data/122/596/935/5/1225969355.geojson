@@ -1,0 +1,70 @@
+{
+  "id": 1225969355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.71278,13.05156,99.71278,13.05156",
+    "geom:latitude":13.05156,
+    "geom:longitude":99.71278,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"Ban Prong Wichian",
+    "gn:country_code":"TH",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8279100,
+    "gn:latitude":13.05156,
+    "gn:longitude":99.71278,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Ban Prong Wichian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e42\u0e1b\u0e23\u0e48\u0e07\u0e27\u0e34\u0e40\u0e0a\u0e35\u0e22\u0e23"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678753,
+        1108731651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8279100
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"4d4e3ce01554b2d02d4385f855b5c4e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731651,
+            "locality_id":1225969355,
+            "region_id":85678753
+        }
+    ],
+    "wof:id":1225969355,
+    "wof:lastmodified":1537705311,
+    "wof:name":"Ban Prong Wichian",
+    "wof:parent_id":1108731651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.71278,
+    13.05156,
+    99.71278,
+    13.05156
+],
+  "geometry": {"coordinates":[99.71278,13.05156],"type":"Point"}
+}

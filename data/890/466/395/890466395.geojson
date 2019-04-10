@@ -1,0 +1,119 @@
+{
+  "id": 890466395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.003848,
+    "geom:area_square_m":46211705.34868,
+    "geom:bbox":"100.591715545,13.7312172993,100.684270171,13.8173344648",
+    "geom:latitude":13.767887,
+    "geom:longitude":100.634042,
+    "gn:country":"TH",
+    "gn:fcode":"ADM2",
+    "gn:pop":0,
+    "iso:country":"TH",
+    "lbl:latitude":13.76859,
+    "lbl:longitude":100.634035,
+    "meso:admin1_en":"KRUNG THEP",
+    "meso:diss_me":"BangkapiKRUNG THEP",
+    "meso:gadm_admin":"Bang Kapi",
+    "meso:gadm_hasc2":"TH.BM.KP",
+    "meso:gaul_admin":"Bangkapi",
+    "meso:id":"69",
+    "meso:loc_id_alt":"1006",
+    "meso:local_id":"3206",
+    "meso:mps_x":100.634035,
+    "meso:mps_y":13.76859,
+    "meso:name_en":"Bangkapi",
+    "meso:name_local":"\u0e40\u0e02\u0e15\u0e1a\u0e32\u0e07\u0e01\u0e30\u0e1b\u0e34",
+    "meso:source":"AOTM",
+    "mps:latitude":13.76859,
+    "mps:longitude":100.634035,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Bang Kapi"
+    ],
+    "name:eng_x_variant":[
+        "Bangkapi",
+        "Bang Kapi"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e02\u0e15\u0e1a\u0e32\u0e07\u0e01\u0e30\u0e1b\u0e34"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e32\u0e07\u0e01\u0e30\u0e1b\u0e34",
+        "\u0e40\u0e02\u0e15\u0e1a\u0e32\u0e07\u0e01\u0e30\u0e1b\u0e34"
+    ],
+    "name:unk_x_variant":[
+        "Amphoe Bang Kapi"
+    ],
+    "qs:name":"Khet Bang Kapi",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"0",
+    "src:geom":"unknown",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2000-04-01",
+    "statoids:area_km":"29",
+    "statoids:as_of_date":"2000-04-01",
+    "statoids:capital":"",
+    "statoids:country":"TH",
+    "statoids:hasc":"TH.BM",
+    "statoids:name":"Bang Kapi",
+    "statoids:population":"159014",
+    "statoids:statoid":"TH.BM.KP",
+    "statoids:timezone":"7",
+    "statoids:type":"district",
+    "wd:wordcount":454,
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1619530,
+        "hasc:id":"TH.BM.KP",
+        "qs:id":1030615,
+        "wd:id":"Q806445",
+        "wk:page":"Bang Kapi District"
+    },
+    "wof:country":"TH",
+    "wof:created":1469053576,
+    "wof:geomhash":"d3abf320d0971cc514487cf72e7ab2e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466395,
+            "region_id":85678739
+        }
+    ],
+    "wof:id":890466395,
+    "wof:lastmodified":1536617423,
+    "wof:name":"Bangkapi",
+    "wof:parent_id":85678739,
+    "wof:placetype":"county",
+    "wof:placetype_local":"district",
+    "wof:population":159014,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:shortcode":"KP",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.5917155445189,
+    13.7312172992607,
+    100.68427017069979,
+    13.81733446478344
+],
+  "geometry": {"coordinates":[[[100.59889416274522,13.79385788783678],[100.60590359190881,13.7944275136417],[100.60989901534663,13.78899232021037],[100.61417107951794,13.78612753037582],[100.61480317928815,13.78633418527545],[100.62302290929286,13.79206654661213],[100.62077995163462,13.8047727186248],[100.62024763419502,13.80564948867253],[100.62094678085305,13.81060500992476],[100.63437294611093,13.81733446478344],[100.63942838736861,13.80377777423785],[100.6397396560096,13.80338874611444],[100.64343572932535,13.79258793408028],[100.64885555271722,13.79114444727986],[100.65379728472311,13.78620271527397],[100.65273237892316,13.78117652023786],[100.65897775972186,13.76824272945282],[100.66987074607013,13.76540336087908],[100.6711013791181,13.76402298312642],[100.67192121351921,13.76226134102915],[100.67098595112473,13.75815051694081],[100.68427017069979,13.74231404930137],[100.67733566837768,13.73822644742777],[100.67247012629605,13.7370295875908],[100.67111812622383,13.73543870372275],[100.65254661865596,13.7312172992607],[100.65249018970019,13.73122535681068],[100.65106529192862,13.73862492953657],[100.65078431480488,13.74313171207902],[100.63234756314306,13.745465951674],[100.62861623617484,13.74738026732271],[100.62375944796779,13.7390467475941],[100.60874182194593,13.73931348488505],[100.60916113330039,13.74897180741828],[100.60231237900427,13.75682073244082],[100.59722174455997,13.75761200001978],[100.59637137962326,13.77047518897269],[100.59173001195606,13.77727602910693],[100.59171554451891,13.77797128600171],[100.59175856232022,13.77826143762231],[100.59278201144292,13.77925153702438],[100.59514607080165,13.78343511524962],[100.59889416274522,13.79385788783678]]],"type":"Polygon"}
+}

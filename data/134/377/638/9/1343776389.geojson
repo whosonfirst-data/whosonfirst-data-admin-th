@@ -1,0 +1,67 @@
+{
+  "id": 1343776389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.25,17.35,101.25,17.35",
+    "geom:latitude":17.35,
+    "geom:longitude":101.25,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Ban Na Khun",
+    "gn:country_code":"TH",
+    "gn:dem":623,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1601177,
+    "gn:latitude":17.35,
+    "gn:longitude":101.25,
+    "gn:modification_date":"1994-04-10",
+    "gn:name":"Ban Na Khun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678853,
+        1108802605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1601177
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"607885f3ff363c3f2032e90f0fa6e934",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802605,
+            "locality_id":1343776389,
+            "region_id":85678853
+        }
+    ],
+    "wof:id":1343776389,
+    "wof:lastmodified":1536788355,
+    "wof:name":"Ban Na Khun",
+    "wof:parent_id":1108802605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.25,
+    17.35,
+    101.25,
+    17.35
+],
+  "geometry": {"coordinates":[101.25,17.35],"type":"Point"}
+}

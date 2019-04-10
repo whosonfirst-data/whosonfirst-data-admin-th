@@ -1,0 +1,70 @@
+{
+  "id": 1226681925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.32636,6.65847,101.32636,6.65847",
+    "geom:latitude":6.65847,
+    "geom:longitude":101.32636,
+    "gn:admin1_code":"69.0",
+    "gn:asciiname":"Ban Ba La Ka Sing",
+    "gn:country_code":"TH",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7881619,
+    "gn:latitude":6.65847,
+    "gn:longitude":101.32636,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Ba La Ka Sing",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1a\u0e32\u0e25\u0e32\u0e01\u0e32\u0e0b\u0e34\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678889,
+        1108732087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7881619
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"72182f8261bf2fa2b4d9a3ca26e25b94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108732087,
+            "locality_id":1226681925,
+            "region_id":85678889
+        }
+    ],
+    "wof:id":1226681925,
+    "wof:lastmodified":1537704815,
+    "wof:name":"Ban Ba La Ka Sing",
+    "wof:parent_id":1108732087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.32636,
+    6.65847,
+    101.32636,
+    6.65847
+],
+  "geometry": {"coordinates":[101.32635999999999,6.65847],"type":"Point"}
+}

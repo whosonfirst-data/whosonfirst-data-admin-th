@@ -1,0 +1,70 @@
+{
+  "id": 1209744867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.25272,8.17536,100.25272,8.17536",
+    "geom:latitude":8.17536,
+    "geom:longitude":100.25272,
+    "gn:admin1_code":"64.0",
+    "gn:asciiname":"Ban Suea Hueng",
+    "gn:country_code":"TH",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8242495,
+    "gn:latitude":8.17536,
+    "gn:longitude":100.25272,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Ban Suea Hueng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e2a\u0e37\u0e2d\u0e2b\u0e36\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678565,
+        1108731241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8242495
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"736d0a512bc58e225209eff54d7393c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731241,
+            "locality_id":1209744867,
+            "region_id":85678565
+        }
+    ],
+    "wof:id":1209744867,
+    "wof:lastmodified":1537705246,
+    "wof:name":"Ban Suea Hueng",
+    "wof:parent_id":1108731241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.25272,
+    8.17536,
+    100.25272,
+    8.17536
+],
+  "geometry": {"coordinates":[100.25272,8.17536],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1242807297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.5305,11.24614,99.5305,11.24614",
+    "geom:latitude":11.24614,
+    "geom:longitude":99.5305,
+    "gn:admin1_code":"57.0",
+    "gn:asciiname":"Ban Thung Lan Khwai",
+    "gn:country_code":"TH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8208414,
+    "gn:latitude":11.24614,
+    "gn:longitude":99.5305,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Ban Thung Lan Khwai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e17\u0e38\u0e48\u0e07\u0e25\u0e32\u0e19\u0e04\u0e27\u0e32\u0e22"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678757,
+        890466329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8208414
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"ccdfd6cbe7b30239400e3297b6ecc1ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466329,
+            "locality_id":1242807297,
+            "region_id":85678757
+        }
+    ],
+    "wof:id":1242807297,
+    "wof:lastmodified":1537705118,
+    "wof:name":"Ban Thung Lan Khwai",
+    "wof:parent_id":890466329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.5305,
+    11.24614,
+    99.5305,
+    11.24614
+],
+  "geometry": {"coordinates":[99.5305,11.24614],"type":"Point"}
+}

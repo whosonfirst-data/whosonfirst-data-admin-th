@@ -1,0 +1,71 @@
+{
+  "id": 1327448335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.04056,12.65136,102.04056,12.65136",
+    "geom:latitude":12.65136,
+    "geom:longitude":102.04056,
+    "gn:admin1_code":"48.0",
+    "gn:asciiname":"Ban Nong Chawi",
+    "gn:country_code":"TH",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1615259,
+    "gn:latitude":12.65136,
+    "gn:longitude":102.04056,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Nong Chawi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e19\u0e2d\u0e07\u0e09\u0e27\u0e35",
+        "Ban Nong Phawi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678799,
+        890466889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1615259
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"859c85c00065aa5e22f822fd4686a527",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466889,
+            "locality_id":1327448335,
+            "region_id":85678799
+        }
+    ],
+    "wof:id":1327448335,
+    "wof:lastmodified":1537703898,
+    "wof:name":"Ban Nong Chawi",
+    "wof:parent_id":890466889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.04056,
+    12.65136,
+    102.04056,
+    12.65136
+],
+  "geometry": {"coordinates":[102.04056,12.65136],"type":"Point"}
+}

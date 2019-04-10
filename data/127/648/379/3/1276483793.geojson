@@ -1,0 +1,73 @@
+{
+  "id": 1276483793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.86189,14.45083,100.86189,14.45083",
+    "geom:latitude":14.45083,
+    "geom:longitude":100.86189,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Ban Nong Lao",
+    "gn:country_code":"TH",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1615455,
+    "gn:latitude":14.45083,
+    "gn:longitude":100.86189,
+    "gn:modification_date":"2014-04-29",
+    "gn:name":"Ban Nong Lao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "Ban Nong Lao (2)"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e19\u0e2d\u0e07\u0e40\u0e25\u0e32"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678735,
+        1108731621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1615455
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"62052002bf345fb60b76acc69af58fe8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731621,
+            "locality_id":1276483793,
+            "region_id":85678735
+        }
+    ],
+    "wof:id":1276483793,
+    "wof:lastmodified":1537703910,
+    "wof:name":"Ban Nong Lao",
+    "wof:parent_id":1108731621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.86189,
+    14.45083,
+    100.86189,
+    14.45083
+],
+  "geometry": {"coordinates":[100.86189,14.45083],"type":"Point"}
+}

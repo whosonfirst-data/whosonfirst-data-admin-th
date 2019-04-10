@@ -1,0 +1,70 @@
+{
+  "id": 1343859297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.40322,20.10211,100.40322,20.10211",
+    "geom:latitude":20.10211,
+    "geom:longitude":100.40322,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ban Muang Chum",
+    "gn:country_code":"TH",
+    "gn:dem":371,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1601440,
+    "gn:latitude":20.10211,
+    "gn:longitude":100.40322,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Muang Chum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e21\u0e48\u0e27\u0e07\u0e0a\u0e38\u0e21"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678617,
+        1108802595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1601440
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"5d42efbb4ecfc8e8d071e26ff6d75518",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802595,
+            "locality_id":1343859297,
+            "region_id":85678617
+        }
+    ],
+    "wof:id":1343859297,
+    "wof:lastmodified":1537703512,
+    "wof:name":"Ban Muang Chum",
+    "wof:parent_id":1108802595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.40322,
+    20.10211,
+    100.40322,
+    20.10211
+],
+  "geometry": {"coordinates":[100.40322,20.10211],"type":"Point"}
+}

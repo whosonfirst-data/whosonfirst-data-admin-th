@@ -1,0 +1,70 @@
+{
+  "id": 1209939771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.00883,16.98436,103.00883,16.98436",
+    "geom:latitude":16.98436,
+    "geom:longitude":103.00883,
+    "gn:admin1_code":"76.0",
+    "gn:asciiname":"Ban Tha Lum Phu",
+    "gn:country_code":"TH",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7748546,
+    "gn:latitude":16.98436,
+    "gn:longitude":103.00883,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Tha Lum Phu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e17\u0e48\u0e32\u0e25\u0e38\u0e21\u0e1e\u0e39"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678869,
+        1108731603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7748546
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"fb8bb96e1ec5b8c1844517c0e93b08d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731603,
+            "locality_id":1209939771,
+            "region_id":85678869
+        }
+    ],
+    "wof:id":1209939771,
+    "wof:lastmodified":1537704658,
+    "wof:name":"Ban Tha Lum Phu",
+    "wof:parent_id":1108731603,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.00883,
+    16.98436,
+    103.00883,
+    16.98436
+],
+  "geometry": {"coordinates":[103.00883,16.98436],"type":"Point"}
+}

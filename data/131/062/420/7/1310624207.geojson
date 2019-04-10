@@ -1,0 +1,70 @@
+{
+  "id": 1310624207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.31564,17.91478,102.31564,17.91478",
+    "geom:latitude":17.91478,
+    "geom:longitude":102.31564,
+    "gn:admin1_code":"76.0",
+    "gn:asciiname":"Ban Tat Namphu",
+    "gn:country_code":"TH",
+    "gn:dem":339,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7679983,
+    "gn:latitude":17.91478,
+    "gn:longitude":102.31564,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Tat Namphu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e15\u0e32\u0e14\u0e19\u0e49\u0e33\u0e1e\u0e38"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678869,
+        1108731151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7679983
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"8ad494f7eff3b5bb328ad2bbfd09d35c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731151,
+            "locality_id":1310624207,
+            "region_id":85678869
+        }
+    ],
+    "wof:id":1310624207,
+    "wof:lastmodified":1537704606,
+    "wof:name":"Ban Tat Namphu",
+    "wof:parent_id":1108731151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.31564,
+    17.91478,
+    102.31564,
+    17.91478
+],
+  "geometry": {"coordinates":[102.31564,17.91478],"type":"Point"}
+}

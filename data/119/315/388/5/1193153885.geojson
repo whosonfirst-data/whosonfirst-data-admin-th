@@ -1,0 +1,70 @@
+{
+  "id": 1193153885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.78828,17.15597,102.78828,17.15597",
+    "geom:latitude":17.15597,
+    "geom:longitude":102.78828,
+    "gn:admin1_code":"76.0",
+    "gn:asciiname":"Ban Kham Wa Thong",
+    "gn:country_code":"TH",
+    "gn:dem":215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7747805,
+    "gn:latitude":17.15597,
+    "gn:longitude":102.78828,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Kham Wa Thong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e04\u0e33\u0e2b\u0e27\u0e49\u0e32\u0e17\u0e2d\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678869,
+        890467129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7747805
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"eccfb9e3cdfbb14fe398baebf81e697a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890467129,
+            "locality_id":1193153885,
+            "region_id":85678869
+        }
+    ],
+    "wof:id":1193153885,
+    "wof:lastmodified":1537704651,
+    "wof:name":"Ban Kham Wa Thong",
+    "wof:parent_id":890467129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.78828,
+    17.15597,
+    102.78828,
+    17.15597
+],
+  "geometry": {"coordinates":[102.78828,17.15597],"type":"Point"}
+}

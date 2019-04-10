@@ -1,0 +1,70 @@
+{
+  "id": 1242740441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.70453,17.75958,101.70453,17.75958",
+    "geom:latitude":17.75958,
+    "geom:longitude":101.70453,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Saen Samran",
+    "gn:country_code":"TH",
+    "gn:dem":261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7683163,
+    "gn:latitude":17.75958,
+    "gn:longitude":101.70453,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Saen Samran",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e41\u0e2a\u0e19\u0e2a\u0e33\u0e23\u0e32\u0e0d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678853,
+        1108802593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7683163
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"29c2ffd15406b5cec74679117d325fa9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802593,
+            "locality_id":1242740441,
+            "region_id":85678853
+        }
+    ],
+    "wof:id":1242740441,
+    "wof:lastmodified":1537704624,
+    "wof:name":"Ban Saen Samran",
+    "wof:parent_id":1108802593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.70453,
+    17.75958,
+    101.70453,
+    17.75958
+],
+  "geometry": {"coordinates":[101.70453000000001,17.75958],"type":"Point"}
+}

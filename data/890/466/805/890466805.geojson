@@ -1,0 +1,72 @@
+{
+  "id": 890466805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.1,13.46667,101.1,13.46667",
+    "geom:latitude":13.46667,
+    "geom:longitude":101.1,
+    "gn:country":"TH",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424960,
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:unk_x_variant":[
+        "Phanthong"
+    ],
+    "qs:name":"Ban Phan Thong Luang",
+    "qs:name_adm0":"Thailand",
+    "qs:name_adm1":"Chon Buri",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":482,
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1614307,
+        "gp:id":1217700,
+        "qs:id":1070635,
+        "wk:page":"Wang Thong District"
+    },
+    "wof:country":"TH",
+    "wof:created":1469053599,
+    "wof:geomhash":"84a5252c2e44c757a57bebb4dfeddb59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "locality_id":890466805,
+            "region_id":85678795
+        }
+    ],
+    "wof:id":890466805,
+    "wof:lastmodified":1527793011,
+    "wof:name":"Ban Phan Thong Luang",
+    "wof:parent_id":85678795,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.1,
+    13.46667,
+    101.1,
+    13.46667
+],
+  "geometry": {"coordinates":[101.09999999999999,13.46667],"type":"Point"}
+}

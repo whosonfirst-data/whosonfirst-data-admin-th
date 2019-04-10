@@ -1,0 +1,70 @@
+{
+  "id": 1293808903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.52394,12.21897,102.52394,12.21897",
+    "geom:latitude":12.21897,
+    "geom:longitude":102.52394,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"Ban Trok Talat",
+    "gn:country_code":"TH",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7929635,
+    "gn:latitude":12.21897,
+    "gn:longitude":102.52394,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Trok Talat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e15\u0e23\u0e2d\u0e01\u0e15\u0e25\u0e32\u0e14"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678813,
+        890466929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7929635
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"8b15b6cfd3d76c824ff33ddf96cd3689",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466929,
+            "locality_id":1293808903,
+            "region_id":85678813
+        }
+    ],
+    "wof:id":1293808903,
+    "wof:lastmodified":1537704902,
+    "wof:name":"Ban Trok Talat",
+    "wof:parent_id":890466929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.52394,
+    12.21897,
+    102.52394,
+    12.21897
+],
+  "geometry": {"coordinates":[102.52394,12.21897],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 890467055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.83272,13.64172,100.83272,13.64172",
+    "geom:latitude":13.64172,
+    "geom:longitude":100.83272,
+    "gn:country":"TH",
+    "gn:fcode":"PPL",
+    "gn:pop":31153,
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e04\u0e25\u0e2d\u0e07\u0e1a\u0e32\u0e07\u0e40\u0e2a\u0e32\u0e18\u0e07"
+    ],
+    "name:unk_x_variant":[
+        "Ban Bang Sao Thong"
+    ],
+    "qs:name":"Ban Khlong Bang Sao Thong",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678765,
+        890467329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1604452,
+        "gp:id":55947413,
+        "qs:id":85379
+    },
+    "wof:country":"TH",
+    "wof:created":1469053610,
+    "wof:geomhash":"b0bdc901ee4e9cfec2231156528614fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890467329,
+            "locality_id":890467055,
+            "region_id":85678765
+        }
+    ],
+    "wof:id":890467055,
+    "wof:lastmodified":1505343709,
+    "wof:name":"Ban Khlong Bang Sao Thong",
+    "wof:parent_id":890467329,
+    "wof:placetype":"locality",
+    "wof:population":31153,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.83272,
+    13.64172,
+    100.83272,
+    13.64172
+],
+  "geometry": {"coordinates":[100.83271999999999,13.64172],"type":"Point"}
+}

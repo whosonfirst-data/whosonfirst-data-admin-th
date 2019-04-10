@@ -1,0 +1,70 @@
+{
+  "id": 1226709535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.09331,15.26381,100.09331,15.26381",
+    "geom:latitude":15.26381,
+    "geom:longitude":100.09331,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Ban Dak Khanon",
+    "gn:country_code":"TH",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8676586,
+    "gn:latitude":15.26381,
+    "gn:longitude":100.09331,
+    "gn:modification_date":"2014-01-18",
+    "gn:name":"Ban Dak Khanon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e14\u0e31\u0e01\u0e04\u0e30\u0e19\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678699,
+        890466895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8676586
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"011160c281b14b34ea7c31670439a3c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466895,
+            "locality_id":1226709535,
+            "region_id":85678699
+        }
+    ],
+    "wof:id":1226709535,
+    "wof:lastmodified":1537705831,
+    "wof:name":"Ban Dak Khanon",
+    "wof:parent_id":890466895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.09331,
+    15.26381,
+    100.09331,
+    15.26381
+],
+  "geometry": {"coordinates":[100.09331,15.26381],"type":"Point"}
+}

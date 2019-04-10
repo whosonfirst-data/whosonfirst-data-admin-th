@@ -1,0 +1,67 @@
+{
+  "id": 1243380273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.06667,14.43333,100.06667,14.43333",
+    "geom:latitude":14.43333,
+    "geom:longitude":100.06667,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Ban Don Kamyan",
+    "gn:country_code":"TH",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1619863,
+    "gn:latitude":14.43333,
+    "gn:longitude":100.06667,
+    "gn:modification_date":"1994-04-06",
+    "gn:name":"Ban Don Kamyan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678679,
+        890466933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1619863
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"55a18d474cd9d2147600c7adef32a5c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466933,
+            "locality_id":1243380273,
+            "region_id":85678679
+        }
+    ],
+    "wof:id":1243380273,
+    "wof:lastmodified":1536901101,
+    "wof:name":"Ban Don Kamyan",
+    "wof:parent_id":890466933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.06667,
+    14.43333,
+    100.06667,
+    14.43333
+],
+  "geometry": {"coordinates":[100.06667,14.43333],"type":"Point"}
+}

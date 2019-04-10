@@ -1,0 +1,67 @@
+{
+  "id": 1327449431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.61667,16.45,104.61667,16.45",
+    "geom:latitude":16.45,
+    "geom:longitude":104.61667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Ban Muang Ba",
+    "gn:country_code":"TH",
+    "gn:dem":197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1601449,
+    "gn:latitude":16.45,
+    "gn:longitude":104.61667,
+    "gn:modification_date":"1994-04-10",
+    "gn:name":"Ban Muang Ba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678881,
+        1108731593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1601449
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"ae0af822de1f4028866b1336b167d690",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731593,
+            "locality_id":1327449431,
+            "region_id":85678881
+        }
+    ],
+    "wof:id":1327449431,
+    "wof:lastmodified":1536656229,
+    "wof:name":"Ban Muang Ba",
+    "wof:parent_id":1108731593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.61667,
+    16.45,
+    104.61667,
+    16.45
+],
+  "geometry": {"coordinates":[104.61667,16.45],"type":"Point"}
+}

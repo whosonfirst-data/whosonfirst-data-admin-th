@@ -1,0 +1,119 @@
+{
+  "id": 890465843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001446,
+    "geom:area_square_m":17359930.816339,
+    "geom:bbox":"100.471437641,13.7492798265,100.524957818,13.8128651799",
+    "geom:latitude":13.781332,
+    "geom:longitude":100.497949,
+    "gn:country":"TH",
+    "gn:fcode":"ADM2",
+    "gn:pop":0,
+    "iso:country":"TH",
+    "lbl:latitude":13.783395,
+    "lbl:longitude":100.493083,
+    "meso:admin1_en":"KRUNG THEP",
+    "meso:diss_me":"BangphlatKRUNG THEP",
+    "meso:gadm_admin":"Dusit",
+    "meso:gadm_hasc2":"TH.BM.DU",
+    "meso:gaul_admin":"Bangphlat",
+    "meso:id":"72",
+    "meso:loc_id_alt":"1025",
+    "meso:local_id":"3225",
+    "meso:mps_x":100.493083,
+    "meso:mps_y":13.783395,
+    "meso:name_en":"Bangphlat",
+    "meso:name_local":"\u0e40\u0e02\u0e15\u0e1a\u0e32\u0e07\u0e1e\u0e25\u0e31\u0e14",
+    "meso:source":"AOTM",
+    "mps:latitude":13.783395,
+    "mps:longitude":100.493083,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Bang Phlat"
+    ],
+    "name:eng_x_variant":[
+        "Bangphlat",
+        "Dusit"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e02\u0e15\u0e1a\u0e32\u0e07\u0e1e\u0e25\u0e31\u0e14"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e32\u0e07\u0e1e\u0e25\u0e31\u0e14",
+        "\u0e40\u0e02\u0e15\u0e1a\u0e32\u0e07\u0e1e\u0e25\u0e31\u0e14"
+    ],
+    "name:unk_x_variant":[
+        "Khet Bang Phlat"
+    ],
+    "qs:name":"Khet Bang Phlat",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"0",
+    "src:geom":"unknown",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2000-04-01",
+    "statoids:area_km":"11",
+    "statoids:as_of_date":"2000-04-01",
+    "statoids:capital":"",
+    "statoids:country":"TH",
+    "statoids:hasc":"TH.BM",
+    "statoids:name":"Bang Phlat",
+    "statoids:population":"137344",
+    "statoids:statoid":"TH.BM.PH",
+    "statoids:timezone":"7",
+    "statoids:type":"district",
+    "wd:wordcount":307,
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6845259,
+        "hasc:id":"TH.BM.PH",
+        "qs:id":1153767,
+        "wd:id":"Q806453",
+        "wk:page":"Bang Phlat District"
+    },
+    "wof:country":"TH",
+    "wof:created":1469053538,
+    "wof:geomhash":"2a800135ed62c7194a234c0ad97c0dd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465843,
+            "region_id":85678739
+        }
+    ],
+    "wof:id":890465843,
+    "wof:lastmodified":1536617417,
+    "wof:name":"Bangphlat",
+    "wof:parent_id":85678739,
+    "wof:placetype":"county",
+    "wof:placetype_local":"district",
+    "wof:population":137344,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:shortcode":"PH",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.47143764139308,
+    13.7492798264789,
+    100.52495781829121,
+    13.81286517994911
+],
+  "geometry": {"coordinates":[[[100.47486204848984,13.7882092747026],[100.48238994011639,13.79059012403331],[100.48301687447831,13.79198506840532],[100.4877908252049,13.79657559976754],[100.49328234528647,13.79946907541314],[100.49913376036444,13.79563996629965],[100.50859151850464,13.79590363968832],[100.50968031864005,13.80425524450509],[100.51669030813061,13.81286517994911],[100.52495781829121,13.80937684412203],[100.52149710868933,13.79232236187823],[100.51420534233576,13.79150623076197],[100.51051485501807,13.77996201646353],[100.50178916038509,13.7733241509172],[100.50859818731952,13.75610174933962],[100.50772461207436,13.7492798264789],[100.48787871539867,13.75738870845042],[100.48443574910686,13.76619850399325],[100.4816049541966,13.76784829996517],[100.47978265411376,13.77218614246535],[100.47143764139308,13.77716221611691],[100.47486204848984,13.7882092747026]]],"type":"Polygon"}
+}

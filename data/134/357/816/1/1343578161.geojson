@@ -1,0 +1,85 @@
+{
+  "id": 1343578161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.53426,6.55968,101.53426,6.55968",
+    "geom:latitude":6.55968,
+    "geom:longitude":101.53426,
+    "gn:admin1_code":"69.0",
+    "gn:asciiname":"Kapho",
+    "gn:country_code":"TH",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1618661,
+    "gn:latitude":6.55968,
+    "gn:longitude":101.53426,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Kapho",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e01\u0e30\u0e1e\u0e49\u0e2d"
+    ],
+    "name:und_x_variant":[
+        "Taluban",
+        "King Amphoe Taluban",
+        "Kalapho",
+        "Ban Klapor",
+        "Ka La Pau",
+        "King Amphoe Kalabhoh",
+        "Ban Gala Phau",
+        "Ban Kelapa",
+        "Ban Kalabhoh",
+        "Ban Kalapho",
+        "Kapho",
+        "\u0e01\u0e30\u0e1e\u0e49\u0e2d",
+        "King Amphoe Kapho"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678889,
+        1108731301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1618661
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"348c81d2080fd864bae76f949d4e5901",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731301,
+            "locality_id":1343578161,
+            "region_id":85678889
+        }
+    ],
+    "wof:id":1343578161,
+    "wof:lastmodified":1537704141,
+    "wof:name":"Kapho",
+    "wof:parent_id":1108731301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.53426,
+    6.55968,
+    101.53426,
+    6.55968
+],
+  "geometry": {"coordinates":[101.53426,6.55968],"type":"Point"}
+}

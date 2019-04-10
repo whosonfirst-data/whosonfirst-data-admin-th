@@ -1,0 +1,65 @@
+{
+  "id": 1209365945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.69753,13.67025,100.69753,13.67025",
+    "geom:latitude":13.67025,
+    "geom:longitude":100.69753,
+    "gn:admin1_code":"40.0",
+    "gn:admin2_code":"1032",
+    "gn:asciiname":"Ban Khlong Krathum Chae",
+    "gn:country_code":"TH",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6908421,
+    "gn:latitude":13.67025,
+    "gn:longitude":100.69753,
+    "gn:modification_date":"2017-03-23",
+    "gn:name":"Ban Khlong Krathum Chae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e04\u0e25\u0e2d\u0e07\u0e01\u0e23\u0e30\u0e17\u0e38\u0e48\u0e21\u0e41\u0e08\u0e49"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6908421
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"7a1ec460fcf4c99a4d9197185f39a7aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85632293,
+            "locality_id":1209365945
+        }
+    ],
+    "wof:id":1209365945,
+    "wof:lastmodified":1537704337,
+    "wof:name":"Ban Khlong Krathum Chae",
+    "wof:parent_id":85632293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.69753,
+    13.67025,
+    100.69753,
+    13.67025
+],
+  "geometry": {"coordinates":[100.69753,13.67025],"type":"Point"}
+}

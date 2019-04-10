@@ -1,0 +1,75 @@
+{
+  "id": 1309753517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.298,14.76064,102.298,14.76064",
+    "geom:latitude":14.76064,
+    "geom:longitude":102.298,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Ban Khlong San Phet",
+    "gn:country_code":"TH",
+    "gn:dem":226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1613333,
+    "gn:latitude":14.76064,
+    "gn:longitude":102.298,
+    "gn:modification_date":"2014-06-04",
+    "gn:name":"Ban Khlong San Phet",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e04\u0e25\u0e2d\u0e07\u0e2a\u0e32\u0e23\u0e40\u0e1e\u0e0a\u0e23"
+    ],
+    "name:und_x_variant":[
+        "Ban Sarapet",
+        "Ban Saraphet",
+        "Ban Khlong San Phet"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678841,
+        890467127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1613333
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"9edbc171e9e198b4e78a16eabb8995e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890467127,
+            "locality_id":1309753517,
+            "region_id":85678841
+        }
+    ],
+    "wof:id":1309753517,
+    "wof:lastmodified":1537703766,
+    "wof:name":"Ban Khlong San Phet",
+    "wof:parent_id":890467127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.298,
+    14.76064,
+    102.298,
+    14.76064
+],
+  "geometry": {"coordinates":[102.298,14.76064],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243610147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.67775,16.53067,103.67775,16.53067",
+    "geom:latitude":16.53067,
+    "geom:longitude":103.67775,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Ban Dong Phayung Nuea",
+    "gn:country_code":"TH",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8653280,
+    "gn:latitude":16.53067,
+    "gn:longitude":103.67775,
+    "gn:modification_date":"2013-12-17",
+    "gn:name":"Ban Dong Phayung Nuea",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e14\u0e07\u0e1e\u0e22\u0e38\u0e07\u0e40\u0e2b\u0e19\u0e37\u0e2d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678831,
+        890466881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8653280
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"9ec2155079265242fbf64f930b41e4ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466881,
+            "locality_id":1243610147,
+            "region_id":85678831
+        }
+    ],
+    "wof:id":1243610147,
+    "wof:lastmodified":1537705768,
+    "wof:name":"Ban Dong Phayung Nuea",
+    "wof:parent_id":890466881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.67775,
+    16.53067,
+    103.67775,
+    16.53067
+],
+  "geometry": {"coordinates":[103.67775,16.53067],"type":"Point"}
+}

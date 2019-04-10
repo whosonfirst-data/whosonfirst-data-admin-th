@@ -1,0 +1,75 @@
+{
+  "id": 1293808783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.55411,6.47297,101.55411,6.47297",
+    "geom:latitude":6.47297,
+    "geom:longitude":101.55411,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Ban Ta Ya",
+    "gn:country_code":"TH",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1612345,
+    "gn:latitude":6.47297,
+    "gn:longitude":101.55411,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Ta Ya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e15\u0e32\u0e22\u0e32"
+    ],
+    "name:und_x_variant":[
+        "Tha Ya",
+        "Ban Ta Ya",
+        "Ban Tha Ya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678885,
+        890465725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1612345
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"e191773c37185223ae04ab88d72aa46e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465725,
+            "locality_id":1293808783,
+            "region_id":85678885
+        }
+    ],
+    "wof:id":1293808783,
+    "wof:lastmodified":1537703697,
+    "wof:name":"Ban Ta Ya",
+    "wof:parent_id":890465725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.55411,
+    6.47297,
+    101.55411,
+    6.47297
+],
+  "geometry": {"coordinates":[101.55410999999999,6.47297],"type":"Point"}
+}

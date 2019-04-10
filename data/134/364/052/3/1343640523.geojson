@@ -1,0 +1,74 @@
+{
+  "id": 1343640523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.39872,16.35122,100.39872,16.35122",
+    "geom:latitude":16.35122,
+    "geom:longitude":100.39872,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Ban Hua Dong",
+    "gn:country_code":"TH",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1619035,
+    "gn:latitude":16.35122,
+    "gn:longitude":100.39872,
+    "gn:modification_date":"2013-02-07",
+    "gn:name":"Ban Hua Dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e31\u0e27\u0e14\u0e07"
+    ],
+    "name:und_x_variant":[
+        "Hua Dong",
+        "Ban Hua Dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678647,
+        890466725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1619035
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"2ae19db3166f9695ee1eaa8bab4caa15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466725,
+            "locality_id":1343640523,
+            "region_id":85678647
+        }
+    ],
+    "wof:id":1343640523,
+    "wof:lastmodified":1537704167,
+    "wof:name":"Ban Hua Dong",
+    "wof:parent_id":890466725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.39872,
+    16.35122,
+    100.39872,
+    16.35122
+],
+  "geometry": {"coordinates":[100.39872,16.35122],"type":"Point"}
+}

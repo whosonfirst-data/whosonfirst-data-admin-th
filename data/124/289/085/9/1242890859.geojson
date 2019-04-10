@@ -1,0 +1,70 @@
+{
+  "id": 1242890859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.42997,18.38786,103.42997,18.38786",
+    "geom:latitude":18.38786,
+    "geom:longitude":103.42997,
+    "gn:admin1_code":"81.0",
+    "gn:asciiname":"Ban Chai Badan",
+    "gn:country_code":"TH",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7671310,
+    "gn:latitude":18.38786,
+    "gn:longitude":103.42997,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Ban Chai Badan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e0a\u0e31\u0e22\u0e1a\u0e32\u0e14\u0e32\u0e25"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678895,
+        1108731203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7671310
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"7986794e054b208b578b7d7bd972c011",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731203,
+            "locality_id":1242890859,
+            "region_id":85678895
+        }
+    ],
+    "wof:id":1242890859,
+    "wof:lastmodified":1537704571,
+    "wof:name":"Ban Chai Badan",
+    "wof:parent_id":1108731203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.42997,
+    18.38786,
+    103.42997,
+    18.38786
+],
+  "geometry": {"coordinates":[103.42997,18.38786],"type":"Point"}
+}

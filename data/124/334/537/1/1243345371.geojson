@@ -1,0 +1,74 @@
+{
+  "id": 1243345371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.13431,15.43806,100.13431,15.43806",
+    "geom:latitude":15.43806,
+    "geom:longitude":100.13431,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ban Tha Nam Oi",
+    "gn:country_code":"TH",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1612550,
+    "gn:latitude":15.43806,
+    "gn:longitude":100.13431,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Ban Tha Nam Oi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e17\u0e48\u0e32\u0e19\u0e49\u0e33\u0e2d\u0e49\u0e2d\u0e22"
+    ],
+    "name:und_x_variant":[
+        "Ban Ba Nam Oi",
+        "Ban Tha Nam Oi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678715,
+        1108731763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1612550
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"06093d44db61e080fce9ae50abb45fe9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731763,
+            "locality_id":1243345371,
+            "region_id":85678715
+        }
+    ],
+    "wof:id":1243345371,
+    "wof:lastmodified":1537703711,
+    "wof:name":"Ban Tha Nam Oi",
+    "wof:parent_id":1108731763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.13431,
+    15.43806,
+    100.13431,
+    15.43806
+],
+  "geometry": {"coordinates":[100.13431,15.43806],"type":"Point"}
+}

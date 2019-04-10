@@ -1,0 +1,70 @@
+{
+  "id": 1327159145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.21739,6.12744,101.21739,6.12744",
+    "geom:latitude":6.12744,
+    "geom:longitude":101.21739,
+    "gn:admin1_code":"70.0",
+    "gn:asciiname":"Ban Nat Tan Yong",
+    "gn:country_code":"TH",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6975715,
+    "gn:latitude":6.12744,
+    "gn:longitude":101.21739,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ban Nat Tan Yong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e19\u0e31\u0e14\u0e15\u0e31\u0e19\u0e2b\u0e22\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678611,
+        1108732003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6975715
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"d6f291a3475ef32c3c6b9f21471f27c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108732003,
+            "locality_id":1327159145,
+            "region_id":85678611
+        }
+    ],
+    "wof:id":1327159145,
+    "wof:lastmodified":1537704358,
+    "wof:name":"Ban Nat Tan Yong",
+    "wof:parent_id":1108732003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.21739,
+    6.12744,
+    101.21739,
+    6.12744
+],
+  "geometry": {"coordinates":[101.21738999999999,6.12744],"type":"Point"}
+}

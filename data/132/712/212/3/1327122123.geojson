@@ -1,0 +1,70 @@
+{
+  "id": 1327122123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.47508,16.50539,99.47508,16.50539",
+    "geom:latitude":16.50539,
+    "geom:longitude":99.47508,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Ban Thung Sahakon",
+    "gn:country_code":"TH",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8386157,
+    "gn:latitude":16.50539,
+    "gn:longitude":99.47508,
+    "gn:modification_date":"2012-09-08",
+    "gn:name":"Ban Thung Sahakon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e17\u0e38\u0e48\u0e07\u0e2a\u0e2b\u0e01\u0e23\u0e13\u0e4c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678665,
+        890466023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8386157
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"4f941e363ab3bdee4d641c1cc8976bd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466023,
+            "locality_id":1327122123,
+            "region_id":85678665
+        }
+    ],
+    "wof:id":1327122123,
+    "wof:lastmodified":1537705540,
+    "wof:name":"Ban Thung Sahakon",
+    "wof:parent_id":890466023,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.47508,
+    16.50539,
+    99.47508,
+    16.50539
+],
+  "geometry": {"coordinates":[99.47508000000001,16.50539],"type":"Point"}
+}

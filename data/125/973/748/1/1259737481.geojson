@@ -1,0 +1,70 @@
+{
+  "id": 1259737481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.81558,16.36053,101.81558,16.36053",
+    "geom:latitude":16.36053,
+    "geom:longitude":101.81558,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Ban Non Nong Hai",
+    "gn:country_code":"TH",
+    "gn:dem":251,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8371914,
+    "gn:latitude":16.36053,
+    "gn:longitude":101.81558,
+    "gn:modification_date":"2012-08-06",
+    "gn:name":"Ban Non Nong Hai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e42\u0e19\u0e19\u0e2b\u0e19\u0e2d\u0e07\u0e44\u0e2e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678825,
+        890466305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8371914
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"15d03b4ce44d694f88a6cbd11b8f367c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466305,
+            "locality_id":1259737481,
+            "region_id":85678825
+        }
+    ],
+    "wof:id":1259737481,
+    "wof:lastmodified":1537705521,
+    "wof:name":"Ban Non Nong Hai",
+    "wof:parent_id":890466305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.81558,
+    16.36052999999999,
+    101.81558,
+    16.36052999999999
+],
+  "geometry": {"coordinates":[101.81558,16.36052999999999],"type":"Point"}
+}

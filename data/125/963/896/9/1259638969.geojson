@@ -1,0 +1,70 @@
+{
+  "id": 1259638969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.04244,15.88142,103.04244,15.88142",
+    "geom:latitude":15.88142,
+    "geom:longitude":103.04244,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Ban Khwao Rai",
+    "gn:country_code":"TH",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8732274,
+    "gn:latitude":15.88142,
+    "gn:longitude":103.04244,
+    "gn:modification_date":"2014-03-12",
+    "gn:name":"Ban Khwao Rai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e02\u0e27\u0e32\u0e44\u0e23\u0e48"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678835,
+        1108731539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8732274
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"20a6b04e00a6d6f7fb81d66d47daa8f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731539,
+            "locality_id":1259638969,
+            "region_id":85678835
+        }
+    ],
+    "wof:id":1259638969,
+    "wof:lastmodified":1537705995,
+    "wof:name":"Ban Khwao Rai",
+    "wof:parent_id":1108731539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.04244,
+    15.88142,
+    103.04244,
+    15.88142
+],
+  "geometry": {"coordinates":[103.04244,15.88142],"type":"Point"}
+}

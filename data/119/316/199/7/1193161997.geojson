@@ -1,0 +1,67 @@
+{
+  "id": 1193161997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.71667,16.65,104.71667,16.65",
+    "geom:latitude":16.65,
+    "geom:longitude":104.71667,
+    "gn:admin1_code":"78.0",
+    "gn:asciiname":"Ban Phaluka",
+    "gn:country_code":"TH",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1599090,
+    "gn:latitude":16.65,
+    "gn:longitude":104.71667,
+    "gn:modification_date":"1994-04-10",
+    "gn:name":"Ban Phaluka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678881,
+        1108732047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1599090
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"fdf94cc6011cd54edca417e65cb5ae22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108732047,
+            "locality_id":1193161997,
+            "region_id":85678881
+        }
+    ],
+    "wof:id":1193161997,
+    "wof:lastmodified":1536366998,
+    "wof:name":"Ban Phaluka",
+    "wof:parent_id":1108732047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.71667,
+    16.65,
+    104.71667,
+    16.65
+],
+  "geometry": {"coordinates":[104.71666999999999,16.65],"type":"Point"}
+}

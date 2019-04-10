@@ -1,0 +1,70 @@
+{
+  "id": 1243126489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.25422,16.25128,102.25422,16.25128",
+    "geom:latitude":16.25128,
+    "geom:longitude":102.25422,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Ban Loeng Thom",
+    "gn:country_code":"TH",
+    "gn:dem":231,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8540764,
+    "gn:latitude":16.25128,
+    "gn:longitude":102.25422,
+    "gn:modification_date":"2013-06-06",
+    "gn:name":"Ban Loeng Thom",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e25\u0e34\u0e07\u0e17\u0e21"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678825,
+        1108731745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8540764
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"d1562a318a131904d24d6e190116e8c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731745,
+            "locality_id":1243126489,
+            "region_id":85678825
+        }
+    ],
+    "wof:id":1243126489,
+    "wof:lastmodified":1537705701,
+    "wof:name":"Ban Loeng Thom",
+    "wof:parent_id":1108731745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.25422,
+    16.25128,
+    102.25422,
+    16.25128
+],
+  "geometry": {"coordinates":[102.25422,16.25128],"type":"Point"}
+}

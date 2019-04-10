@@ -1,0 +1,67 @@
+{
+  "id": 1276579519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.11667,14.25,101.11667,14.25",
+    "geom:latitude":14.25,
+    "geom:longitude":101.11667,
+    "gn:admin1_code":"43.0",
+    "gn:asciiname":"Ban Khok Ngao",
+    "gn:country_code":"TH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1617876,
+    "gn:latitude":14.25,
+    "gn:longitude":101.11667,
+    "gn:modification_date":"1994-04-06",
+    "gn:name":"Ban Khok Ngao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678705,
+        1108731143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1617876
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"7b262fdf3e004c864e3d500a479fc443",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731143,
+            "locality_id":1276579519,
+            "region_id":85678705
+        }
+    ],
+    "wof:id":1276579519,
+    "wof:lastmodified":1536946931,
+    "wof:name":"Ban Khok Ngao",
+    "wof:parent_id":1108731143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.11667,
+    14.25,
+    101.11667,
+    14.25
+],
+  "geometry": {"coordinates":[101.11667,14.25],"type":"Point"}
+}

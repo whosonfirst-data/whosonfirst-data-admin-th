@@ -1,0 +1,73 @@
+{
+  "id": 1259608271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.92144,16.13617,104.92144,16.13617",
+    "geom:latitude":16.13617,
+    "geom:longitude":104.92144,
+    "gn:admin1_code":"77.0",
+    "gn:asciiname":"Ban Kham Kaeo",
+    "gn:country_code":"TH",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1602886,
+    "gn:latitude":16.13617,
+    "gn:longitude":104.92144,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Kham Kaeo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "Ban Kham Kaeo"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e04\u0e33\u0e41\u0e01\u0e49\u0e27"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678789,
+        1108731229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1602886
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"55c63688051a4a79c905528481eb94e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731229,
+            "locality_id":1259608271,
+            "region_id":85678789
+        }
+    ],
+    "wof:id":1259608271,
+    "wof:lastmodified":1537703563,
+    "wof:name":"Ban Kham Kaeo",
+    "wof:parent_id":1108731229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.92144,
+    16.13617,
+    104.92144,
+    16.13617
+],
+  "geometry": {"coordinates":[104.92144,16.13617],"type":"Point"}
+}

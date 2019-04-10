@@ -1,0 +1,74 @@
+{
+  "id": 1276830255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.85375,14.53494,103.85375,14.53494",
+    "geom:latitude":14.53494,
+    "geom:longitude":103.85375,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Ban Ta Phram",
+    "gn:country_code":"TH",
+    "gn:dem":197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1612858,
+    "gn:latitude":14.53494,
+    "gn:longitude":103.85375,
+    "gn:modification_date":"2014-02-06",
+    "gn:name":"Ban Ta Phram",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e15\u0e32\u0e1e\u0e23\u0e32\u0e21"
+    ],
+    "name:und_x_variant":[
+        "Taphan",
+        "Ban Ta Phram"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678849,
+        1108802741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1612858
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"2b8fc2d911c12c559bfc5410e46495ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802741,
+            "locality_id":1276830255,
+            "region_id":85678849
+        }
+    ],
+    "wof:id":1276830255,
+    "wof:lastmodified":1537703733,
+    "wof:name":"Ban Ta Phram",
+    "wof:parent_id":1108802741,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.85375,
+    14.53494,
+    103.85375,
+    14.53494
+],
+  "geometry": {"coordinates":[103.85375000000001,14.53494],"type":"Point"}
+}

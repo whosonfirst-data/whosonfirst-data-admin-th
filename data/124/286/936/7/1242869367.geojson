@@ -1,0 +1,73 @@
+{
+  "id": 1242869367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.06289,16.78617,99.06289,16.78617",
+    "geom:latitude":16.78617,
+    "geom:longitude":99.06289,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Ban Tha Le",
+    "gn:country_code":"TH",
+    "gn:dem":213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8164182,
+    "gn:latitude":16.78617,
+    "gn:longitude":99.06289,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Ban Tha Le",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "Ban Tha Le"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e17\u0e48\u0e32\u0e40\u0e25\u0e48"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678683,
+        890466081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8164182
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"5ce6859e8d0df2f360d9659584d5a78e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466081,
+            "locality_id":1242869367,
+            "region_id":85678683
+        }
+    ],
+    "wof:id":1242869367,
+    "wof:lastmodified":1537705049,
+    "wof:name":"Ban Tha Le",
+    "wof:parent_id":890466081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.06289,
+    16.78617,
+    99.06289,
+    16.78617
+],
+  "geometry": {"coordinates":[99.06289,16.78617],"type":"Point"}
+}

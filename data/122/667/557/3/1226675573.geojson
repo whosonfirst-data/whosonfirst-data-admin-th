@@ -1,0 +1,70 @@
+{
+  "id": 1226675573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.45658,16.01703,104.45658,16.01703",
+    "geom:latitude":16.01703,
+    "geom:longitude":104.45658,
+    "gn:admin1_code":"72.0",
+    "gn:asciiname":"Ban Chok Chaiyaphon",
+    "gn:country_code":"TH",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8670728,
+    "gn:latitude":16.01703,
+    "gn:longitude":104.45658,
+    "gn:modification_date":"2014-01-18",
+    "gn:name":"Ban Chok Chaiyaphon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e42\u0e0a\u0e04\u0e0a\u0e31\u0e22\u0e1e\u0e23"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678791,
+        1108731999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8670728
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"e147d6b96fd9b3fd55bc23d5b026a8ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731999,
+            "locality_id":1226675573,
+            "region_id":85678791
+        }
+    ],
+    "wof:id":1226675573,
+    "wof:lastmodified":1537705813,
+    "wof:name":"Ban Chok Chaiyaphon",
+    "wof:parent_id":1108731999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.45658,
+    16.01703,
+    104.45658,
+    16.01703
+],
+  "geometry": {"coordinates":[104.45658,16.01703],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1310332785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.48333,15.11667,98.48333,15.11667",
+    "geom:latitude":15.11667,
+    "geom:longitude":98.48333,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Ban Nong Plang Khong",
+    "gn:cc2":"TH",
+    "gn:country_code":"TH",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1155669,
+    "gn:latitude":15.11667,
+    "gn:longitude":98.48333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Nong Plang Khong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u0101n Naung Paung Daung",
+        "Ban Nong Pong Khong",
+        "Ban Nong Pong Dong",
+        "Ban Nong Plang Khong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678663,
+        1108731847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1155669
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"987bcfd3a6bca121b7ac64cec7f8629a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731847,
+            "locality_id":1310332785,
+            "region_id":85678663
+        }
+    ],
+    "wof:id":1310332785,
+    "wof:lastmodified":1537703135,
+    "wof:name":"Ban Nong Plang Khong",
+    "wof:parent_id":1108731847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.48333,
+    15.11667,
+    98.48333,
+    15.11667
+],
+  "geometry": {"coordinates":[98.48333,15.11667],"type":"Point"}
+}

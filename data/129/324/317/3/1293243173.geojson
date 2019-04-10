@@ -1,0 +1,70 @@
+{
+  "id": 1293243173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.93283,15.73494,102.93283,15.73494",
+    "geom:latitude":15.73494,
+    "geom:longitude":102.93283,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Ban Khok Pa-ngat",
+    "gn:country_code":"TH",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9283873,
+    "gn:latitude":15.73494,
+    "gn:longitude":102.93283,
+    "gn:modification_date":"2014-08-07",
+    "gn:name":"Ban Khok Pa-ngat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e42\u0e04\u0e01\u0e1e\u0e30\u0e07\u0e32\u0e14"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678817,
+        890465861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9283873
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"c6fde273544e65c18a5d2c2f70d4cfc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465861,
+            "locality_id":1293243173,
+            "region_id":85678817
+        }
+    ],
+    "wof:id":1293243173,
+    "wof:lastmodified":1537706259,
+    "wof:name":"Ban Khok Pa-ngat",
+    "wof:parent_id":890465861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.93283,
+    15.73494,
+    102.93283,
+    15.73494
+],
+  "geometry": {"coordinates":[102.93283,15.73494],"type":"Point"}
+}

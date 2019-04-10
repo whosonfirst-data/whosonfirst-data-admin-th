@@ -1,0 +1,76 @@
+{
+  "id": 1343661185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.94919,19.11325,100.94919,19.11325",
+    "geom:latitude":19.11325,
+    "geom:longitude":100.94919,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Ban Na Kham",
+    "gn:country_code":"TH",
+    "gn:dem":366,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1616396,
+    "gn:latitude":19.11325,
+    "gn:longitude":100.94919,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Ban Na Kham",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e19\u0e32\u0e04\u0e33"
+    ],
+    "name:und_x_variant":[
+        "B\u0101n L\u012bla Phet",
+        "Ban Sila Phet",
+        "Sila Phet",
+        "Ban Na Kham"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678633,
+        890466167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1616396
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"3a81afd71df49814445319b02188a191",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466167,
+            "locality_id":1343661185,
+            "region_id":85678633
+        }
+    ],
+    "wof:id":1343661185,
+    "wof:lastmodified":1537703977,
+    "wof:name":"Ban Na Kham",
+    "wof:parent_id":890466167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.94919,
+    19.11325,
+    100.94919,
+    19.11325
+],
+  "geometry": {"coordinates":[100.94919,19.11325],"type":"Point"}
+}

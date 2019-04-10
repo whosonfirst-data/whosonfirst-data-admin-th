@@ -1,0 +1,70 @@
+{
+  "id": 1344104041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.94567,15.0935,102.94567,15.0935",
+    "geom:latitude":15.0935,
+    "geom:longitude":102.94567,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Ban Bu Phuying",
+    "gn:country_code":"TH",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9284927,
+    "gn:latitude":15.0935,
+    "gn:longitude":102.94567,
+    "gn:modification_date":"2014-08-07",
+    "gn:name":"Ban Bu Phuying",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1a\u0e38\u0e1c\u0e39\u0e49\u0e2b\u0e0d\u0e34\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678817,
+        1108731457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9284927
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"13fb4268ad3e0e3dd7affd20904c1c3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731457,
+            "locality_id":1344104041,
+            "region_id":85678817
+        }
+    ],
+    "wof:id":1344104041,
+    "wof:lastmodified":1537706272,
+    "wof:name":"Ban Bu Phuying",
+    "wof:parent_id":1108731457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.94567,
+    15.0935,
+    102.94567,
+    15.0935
+],
+  "geometry": {"coordinates":[102.94567000000001,15.0935],"type":"Point"}
+}

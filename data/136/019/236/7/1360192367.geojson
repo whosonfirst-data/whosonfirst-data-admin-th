@@ -1,0 +1,70 @@
+{
+  "id": 1360192367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.68603,17.98258,98.68603,17.98258",
+    "geom:latitude":17.98258,
+    "geom:longitude":98.68603,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Amnuai Suk",
+    "gn:country_code":"TH",
+    "gn:dem":275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7793249,
+    "gn:latitude":17.98258,
+    "gn:longitude":98.68603,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Amnuai Suk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2d\u0e33\u0e19\u0e27\u0e22\u0e2a\u0e38\u0e02"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678619,
+        890466749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7793249
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"e76e8516528543be11d69db68add6e8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466749,
+            "locality_id":1360192367,
+            "region_id":85678619
+        }
+    ],
+    "wof:id":1360192367,
+    "wof:lastmodified":1537704703,
+    "wof:name":"Ban Amnuai Suk",
+    "wof:parent_id":890466749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.68603,
+    17.98258,
+    98.68603,
+    17.98258
+],
+  "geometry": {"coordinates":[98.68603,17.98258],"type":"Point"}
+}

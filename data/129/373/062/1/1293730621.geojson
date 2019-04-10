@@ -1,0 +1,70 @@
+{
+  "id": 1293730621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.9047,14.55778,103.9047,14.55778",
+    "geom:latitude":14.55778,
+    "geom:longitude":103.9047,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Ban Bua Chet",
+    "gn:country_code":"TH",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1604355,
+    "gn:latitude":14.55778,
+    "gn:longitude":103.9047,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Bua Chet",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1a\u0e31\u0e27\u0e40\u0e0a\u0e14"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678849,
+        1108731199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1604355
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"2c618322b2d0618f5e4558ede1ca3e42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731199,
+            "locality_id":1293730621,
+            "region_id":85678849
+        }
+    ],
+    "wof:id":1293730621,
+    "wof:lastmodified":1537703617,
+    "wof:name":"Ban Bua Chet",
+    "wof:parent_id":1108731199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.9047,
+    14.55778,
+    103.9047,
+    14.55778
+],
+  "geometry": {"coordinates":[103.90470000000001,14.55778],"type":"Point"}
+}

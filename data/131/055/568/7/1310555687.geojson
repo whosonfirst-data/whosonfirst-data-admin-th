@@ -1,0 +1,67 @@
+{
+  "id": 1310555687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.64139,15.38611,101.64139,15.38611",
+    "geom:latitude":15.38611,
+    "geom:longitude":101.64139,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Ban Yai",
+    "gn:country_code":"TH",
+    "gn:dem":251,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1947818,
+    "gn:latitude":15.38611,
+    "gn:longitude":101.64139,
+    "gn:modification_date":"2000-07-20",
+    "gn:name":"Ban Yai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678825,
+        890467457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1947818
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"5e28cfbc93f82deedbfdf5b36823ae5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890467457,
+            "locality_id":1310555687,
+            "region_id":85678825
+        }
+    ],
+    "wof:id":1310555687,
+    "wof:lastmodified":1536843619,
+    "wof:name":"Ban Yai",
+    "wof:parent_id":890467457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.64139,
+    15.38611,
+    101.64139,
+    15.38611
+],
+  "geometry": {"coordinates":[101.64139,15.38611],"type":"Point"}
+}

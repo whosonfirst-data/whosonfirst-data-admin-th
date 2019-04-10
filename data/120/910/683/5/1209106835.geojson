@@ -1,0 +1,71 @@
+{
+  "id": 1209106835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.30347,20.06675,100.30347,20.06675",
+    "geom:latitude":20.06675,
+    "geom:longitude":100.30347,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ban Kiang Nuea",
+    "gn:country_code":"TH",
+    "gn:dem":364,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1617621,
+    "gn:latitude":20.06675,
+    "gn:longitude":100.30347,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Kiang Nuea",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e01\u0e35\u0e4b\u0e22\u0e07\u0e40\u0e2b\u0e19\u0e37\u0e2d"
+    ],
+    "name:und_x_variant":[
+        "Ban Kaen",
+        "Ban Gean",
+        "Ban Kiang",
+        "Ban Kiang Nua",
+        "Ban Kiang Nuea"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1617621
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"73f9e658b617fdd4230370cc7a3bd160",
+    "wof:hierarchy":[
+        {
+            "country_id":85632293,
+            "locality_id":1209106835
+        }
+    ],
+    "wof:id":1209106835,
+    "wof:lastmodified":1537704062,
+    "wof:name":"Ban Kiang Nuea",
+    "wof:parent_id":85632293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.30347,
+    20.06675,
+    100.30347,
+    20.06675
+],
+  "geometry": {"coordinates":[100.30347,20.06675],"type":"Point"}
+}

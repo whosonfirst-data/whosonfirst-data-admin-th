@@ -1,0 +1,67 @@
+{
+  "id": 1209431855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.48333,6.31667,101.48333,6.31667",
+    "geom:latitude":6.31667,
+    "geom:longitude":101.48333,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Kampong Pomalet",
+    "gn:cc2":"TH",
+    "gn:country_code":"TH",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1610292,
+    "gn:latitude":6.31667,
+    "gn:longitude":101.48333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Kampong Pomalet",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kampong Pok Maled",
+        "Kampong Pau Ma Loet",
+        "Kampong Pomalet"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1610292
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"0224ad2a9374a2ab720ed1783a43315c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632293,
+            "locality_id":1209431855
+        }
+    ],
+    "wof:id":1209431855,
+    "wof:lastmodified":1537703635,
+    "wof:name":"Kampong Pomalet",
+    "wof:parent_id":85632293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.48333,
+    6.31667,
+    101.48333,
+    6.31667
+],
+  "geometry": {"coordinates":[101.48333,6.31667],"type":"Point"}
+}

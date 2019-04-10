@@ -1,0 +1,84 @@
+{
+  "id": 102025707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000048,
+    "geom:area_square_m":571981.044752,
+    "geom:bbox":"100.638885498,13.7620619168,100.647125244,13.7713987966",
+    "geom:latitude":13.766782,
+    "geom:longitude":100.643164,
+    "gn:latitude":13.7653,
+    "gn:longitude":100.647,
+    "iso:country":"TH",
+    "lbl:latitude":13.766456,
+    "lbl:longitude":100.643085,
+    "mps:latitude":13.766456,
+    "mps:longitude":100.643085,
+    "mz:hierarchy_label":1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e32\u0e07\u0e01\u0e30\u0e1b\u0e35"
+    ],
+    "name:unk_x_variant":[
+        "Amphoe Bang Kapi"
+    ],
+    "qs:a0":"Thailand",
+    "qs:a1":"*Bangkok",
+    "qs:a1r":"*",
+    "qs:a2":"Bang Kapi",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Bang Kapi",
+    "qs:loc_alt":"Bang Kapi",
+    "qs:loc_lc":"1619532",
+    "qs:pop":0,
+    "qs:source":"Aquattroshapes",
+    "qs:type":"County",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678739,
+        890466395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1619532,
+        "gp:id":28341414,
+        "qs:id":1151411,
+        "wd:id":"Q806445",
+        "wk:page":"Bang Kapi District"
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"58d89d36ddb56deb418f6bcf4ce3c525",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466395,
+            "locality_id":102025707,
+            "region_id":85678739
+        }
+    ],
+    "wof:id":102025707,
+    "wof:lastmodified":1501221071,
+    "wof:name":"Bang Kapi",
+    "wof:parent_id":890466395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.63888549799998,
+    13.7620619168,
+    100.64712524399998,
+    13.7713987966
+],
+  "geometry": {"coordinates":[[[100.64163207999999,13.7620619168],[100.64163207999999,13.7633957796],[100.640258789,13.7633957796],[100.640258789,13.7647296348],[100.63888549799998,13.7647296348],[100.63888549799998,13.7660634824],[100.63888549799998,13.7673973224],[100.640258789,13.7673973224],[100.640258789,13.7687311547],[100.64163207999999,13.7687311547],[100.64163207999999,13.7700649795],[100.643005371,13.7700649795],[100.643005371,13.7713987966],[100.645751953,13.7713987966],[100.645751953,13.7687311547],[100.64712524399998,13.7687311547],[100.64712524399998,13.7673973224],[100.64712524399998,13.7660634824],[100.645751953,13.7660634824],[100.645751953,13.7647296348],[100.645751953,13.7633957796],[100.64437866199998,13.7633957796],[100.643005371,13.7633957796],[100.643005371,13.7620619168],[100.64163207999999,13.7620619168]]],"type":"Polygon"}
+}

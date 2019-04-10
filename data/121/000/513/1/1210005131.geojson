@@ -1,0 +1,73 @@
+{
+  "id": 1210005131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.93622,17.55643,99.93622,17.55643",
+    "geom:latitude":17.55643,
+    "geom:longitude":99.93622,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Ban Huai Chang",
+    "gn:country_code":"TH",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8135853,
+    "gn:latitude":17.55643,
+    "gn:longitude":99.93622,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Ban Huai Chang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "Ban Huai Chang"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e49\u0e27\u0e22\u0e0a\u0e49\u0e32\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678651,
+        890466181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8135853
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"7207dc3c48ab78e276553543dfac2749",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466181,
+            "locality_id":1210005131,
+            "region_id":85678651
+        }
+    ],
+    "wof:id":1210005131,
+    "wof:lastmodified":1537704980,
+    "wof:name":"Ban Huai Chang",
+    "wof:parent_id":890466181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.93622,
+    17.55643,
+    99.93622,
+    17.55643
+],
+  "geometry": {"coordinates":[99.93622000000001,17.55643],"type":"Point"}
+}

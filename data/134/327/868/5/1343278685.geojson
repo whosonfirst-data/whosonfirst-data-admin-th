@@ -1,0 +1,67 @@
+{
+  "id": 1343278685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.16759,9.20861,99.16759,9.20861",
+    "geom:latitude":9.20861,
+    "geom:longitude":99.16759,
+    "gn:admin1_code":"60.0",
+    "gn:asciiname":"Ban Khlong Ho",
+    "gn:country_code":"TH",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1119618,
+    "gn:latitude":9.20861,
+    "gn:longitude":99.16759,
+    "gn:modification_date":"2013-01-09",
+    "gn:name":"Ban Khlong Ho",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678581,
+        1108802751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1119618
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"5e4fde01e3db7a88a5f6964bd089504e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802751,
+            "locality_id":1343278685,
+            "region_id":85678581
+        }
+    ],
+    "wof:id":1343278685,
+    "wof:lastmodified":1537007901,
+    "wof:name":"Ban Khlong Ho",
+    "wof:parent_id":1108802751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.16759,
+    9.20861,
+    99.16759,
+    9.20861
+],
+  "geometry": {"coordinates":[99.16759,9.20861],"type":"Point"}
+}

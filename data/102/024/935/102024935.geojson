@@ -1,0 +1,112 @@
+{
+  "id": 102024935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000262,
+    "geom:bbox":"103.981794905,14.8455008822,104.000382857,14.8635807492",
+    "geom:latitude":14.854541,
+    "geom:longitude":103.991089,
+    "iso:country":"TH",
+    "lbl:latitude":14.854541,
+    "lbl:longitude":103.991089,
+    "mps:latitude":14.854541,
+    "mps:longitude":103.991089,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bpy_x_preferred":[
+        "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09aa\u09cd\u09b0\u09be\u0982 \u0995\u09c1"
+    ],
+    "name:deu_x_preferred":[
+        "Amphoe Prang Ku"
+    ],
+    "name:eng_x_preferred":[
+        "Prang Ku"
+    ],
+    "name:eng_x_variant":[
+        "Ban Tom",
+        "Ban Tum"
+    ],
+    "name:ron_x_preferred":[
+        "Districtul Prang Ku"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e1b\u0e23\u0e32\u0e07\u0e04\u0e4c\u0e01\u0e39\u0e48"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1b\u0e23\u0e32\u0e07\u0e04\u0e4c\u0e01\u0e39\u0e48"
+    ],
+    "name:unk_x_variant":[
+        "Ban Tum"
+    ],
+    "name:vie_x_preferred":[
+        "Prang Ku"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Prang Ku K\u016bn"
+    ],
+    "qs:a0":"Thailand",
+    "qs:a1":"*Sisaket",
+    "qs:a1r":"*",
+    "qs:a2":"Prang Ku",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Prang Ku",
+    "qs:loc_alt":"Prang Ku",
+    "qs:loc_lc":"1607251",
+    "qs:pop":0,
+    "qs:source":"Aquattroshapes",
+    "qs:type":"Town",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":142,
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"07cf49b0-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":1607251,
+        "gp:id":1225608,
+        "qs:id":193728,
+        "qs_pg:id":193728,
+        "wd:id":"Q476526"
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"bebec3586f7c5ca016e10229660eaf36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "locality_id":102024935,
+            "region_id":85678779
+        }
+    ],
+    "wof:id":102024935,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527636443,
+    "wof:name":"Prang Ku",
+    "wof:parent_id":85678779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.9817949053993,
+    14.84550088220763,
+    104.00038285705192,
+    14.86358074917536
+],
+  "geometry": {"coordinates":[[[103.9929430986784,14.84568253229824],[103.99113081300966,14.84550088220763],[103.98931691699785,14.84566661767076],[103.98757110911986,14.84617336979893],[103.98596047231406,14.84700166618249],[103.98454689715918,14.84811967893332],[103.98338470425914,14.84948444734493],[103.98251855708274,14.85104352825607],[103.98198174541359,14.85273701078458],[103.9817949053993,14.85449981810213],[103.98196522548507,14.8562642078805],[103.98248616890491,14.85796237538152],[103.98333772358519,14.85952905918917],[103.98448717005583,14.86090404944159],[103.98589033803383,14.86203450213091],[103.98749330350991,14.86287697046387],[103.98923446117861,14.86339907512738],[103.99104689254033,14.86358074917536],[103.99286093857638,14.86341500961124],[103.99460687797024,14.8629082259483],[103.99621760776121,14.86207987539694],[103.99763122321453,14.86096179409189],[103.99879339759117,14.85959695317632],[103.99965947024255,14.85803780684969],[104.0001961627304,14.85634427595294],[104.00038285705192,14.85458144467802],[104.00021238694181,14.85281705900056],[103.99969131200616,14.85111892303439],[103.99883966434071,14.84955229339451],[103.99769017757147,14.84817737169634],[103.99628702811698,14.84704699151096],[103.99468413716589,14.84620458859349],[103.9929430986784,14.84568253229824]]],"type":"Polygon"}
+}

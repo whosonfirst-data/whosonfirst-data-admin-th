@@ -1,0 +1,67 @@
+{
+  "id": 1242587235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.63333,7.95,99.63333,7.95",
+    "geom:latitude":7.95,
+    "geom:longitude":99.63333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Ban Kapang",
+    "gn:country_code":"TH",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1119725,
+    "gn:latitude":7.95,
+    "gn:longitude":99.63333,
+    "gn:modification_date":"1994-04-10",
+    "gn:name":"Ban Kapang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678609,
+        1108731803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1119725
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"54623a1c1ccbce4c337a4b7d33a5281d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731803,
+            "locality_id":1242587235,
+            "region_id":85678609
+        }
+    ],
+    "wof:id":1242587235,
+    "wof:lastmodified":1537047639,
+    "wof:name":"Ban Kapang",
+    "wof:parent_id":1108731803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.63333,
+    7.95,
+    99.63333,
+    7.95
+],
+  "geometry": {"coordinates":[99.63333,7.95],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1242674265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.92428,18.09011,99.92428,18.09011",
+    "geom:latitude":18.09011,
+    "geom:longitude":99.92428,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ban Huai Dokmai",
+    "gn:country_code":"TH",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8380203,
+    "gn:latitude":18.09011,
+    "gn:longitude":99.92428,
+    "gn:modification_date":"2012-09-08",
+    "gn:name":"Ban Huai Dokmai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e49\u0e27\u0e22\u0e14\u0e2d\u0e01\u0e44\u0e21\u0e49"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678643,
+        890466199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8380203
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"28a13f028d7ab7e74b8d72afa71e96ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466199,
+            "locality_id":1242674265,
+            "region_id":85678643
+        }
+    ],
+    "wof:id":1242674265,
+    "wof:lastmodified":1537705530,
+    "wof:name":"Ban Huai Dokmai",
+    "wof:parent_id":890466199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.92428,
+    18.09011,
+    99.92428,
+    18.09011
+],
+  "geometry": {"coordinates":[99.92428,18.09011],"type":"Point"}
+}

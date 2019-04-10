@@ -1,0 +1,74 @@
+{
+  "id": 1243528753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.70416,17.7201,103.70416,17.7201",
+    "geom:latitude":17.7201,
+    "geom:longitude":103.70416,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Na Bua",
+    "gn:country_code":"TH",
+    "gn:dem":167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1616482,
+    "gn:latitude":17.7201,
+    "gn:longitude":103.70416,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Na Bua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e19\u0e32\u0e1a\u0e31\u0e27"
+    ],
+    "name:und_x_variant":[
+        "Nabua",
+        "Ban Na Bua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678863,
+        890466295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1616482
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"cb777f973ded091908bdaf81c66a8df9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466295,
+            "locality_id":1243528753,
+            "region_id":85678863
+        }
+    ],
+    "wof:id":1243528753,
+    "wof:lastmodified":1537703983,
+    "wof:name":"Ban Na Bua",
+    "wof:parent_id":890466295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.70416,
+    17.7201,
+    103.70416,
+    17.7201
+],
+  "geometry": {"coordinates":[103.70416,17.7201],"type":"Point"}
+}

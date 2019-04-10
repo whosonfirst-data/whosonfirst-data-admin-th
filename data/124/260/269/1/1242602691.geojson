@@ -1,0 +1,70 @@
+{
+  "id": 1242602691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.26506,6.49531,101.26506,6.49531",
+    "geom:latitude":6.49531,
+    "geom:longitude":101.26506,
+    "gn:admin1_code":"70.0",
+    "gn:asciiname":"Ban Phong Yue Rai",
+    "gn:country_code":"TH",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7013367,
+    "gn:latitude":6.49531,
+    "gn:longitude":101.26506,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ban Phong Yue Rai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1e\u0e07\u0e22\u0e37\u0e2d\u0e44\u0e23"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678611,
+        890466087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7013367
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"3d185edf5b40f7d3e1485867ca784c9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466087,
+            "locality_id":1242602691,
+            "region_id":85678611
+        }
+    ],
+    "wof:id":1242602691,
+    "wof:lastmodified":1537704399,
+    "wof:name":"Ban Phong Yue Rai",
+    "wof:parent_id":890466087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.26506,
+    6.49531,
+    101.26506,
+    6.49531
+],
+  "geometry": {"coordinates":[101.26506000000001,6.49531],"type":"Point"}
+}

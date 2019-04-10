@@ -1,0 +1,73 @@
+{
+  "id": 1293010269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.23194,19.47275,100.23194,19.47275",
+    "geom:latitude":19.47275,
+    "geom:longitude":100.23194,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Ban Mae Tam Tha Kham",
+    "gn:country_code":"TH",
+    "gn:dem":423,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1601594,
+    "gn:latitude":19.47275,
+    "gn:longitude":100.23194,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Ban Mae Tam Tha Kham",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e41\u0e21\u0e48\u0e15\u0e4b\u0e33\u0e17\u0e32\u0e02\u0e32\u0e21"
+    ],
+    "name:und_x_variant":[
+        "Ban Mae Tam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678637,
+        890466535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1601594
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"f42c90f663eff85da2db72932975bc66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466535,
+            "locality_id":1293010269,
+            "region_id":85678637
+        }
+    ],
+    "wof:id":1293010269,
+    "wof:lastmodified":1537703517,
+    "wof:name":"Ban Mae Tam Tha Kham",
+    "wof:parent_id":890466535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.23194,
+    19.47275,
+    100.23194,
+    19.47275
+],
+  "geometry": {"coordinates":[100.23193999999999,19.47275],"type":"Point"}
+}

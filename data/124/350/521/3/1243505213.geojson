@@ -1,0 +1,74 @@
+{
+  "id": 1243505213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.93247,14.42653,102.93247,14.42653",
+    "geom:latitude":14.42653,
+    "geom:longitude":102.93247,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Ban Lalom",
+    "gn:country_code":"TH",
+    "gn:dem":214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1617138,
+    "gn:latitude":14.42653,
+    "gn:longitude":102.93247,
+    "gn:modification_date":"2014-08-05",
+    "gn:name":"Ban Lalom",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e25\u0e30\u0e25\u0e21"
+    ],
+    "name:und_x_variant":[
+        "Ban Ra Lom",
+        "Ban Lalom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678817,
+        1108731455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1617138
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"0fcb767dec03c2f8c234f68fd573577c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731455,
+            "locality_id":1243505213,
+            "region_id":85678817
+        }
+    ],
+    "wof:id":1243505213,
+    "wof:lastmodified":1537704029,
+    "wof:name":"Ban Lalom",
+    "wof:parent_id":1108731455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.93247,
+    14.42653,
+    102.93247,
+    14.42653
+],
+  "geometry": {"coordinates":[102.93247,14.42653],"type":"Point"}
+}

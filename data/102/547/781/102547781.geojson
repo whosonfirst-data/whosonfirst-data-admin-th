@@ -1,0 +1,66 @@
+{
+  "id": 102547781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.381667,14.076667,101.381667,14.076667",
+    "geom:latitude":14.076667,
+    "geom:longitude":101.381667,
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"80",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424960,
+        "county_id":28341329,
+        "planet_id":1,
+        "state_id":20069926
+    },
+    "wof:belongsto":[
+        85632293,
+        102024939,
+        85678711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12517778,
+        "icao:code":"VTBI",
+        "oa:id":"26640",
+        "wd:id":"Q12694512"
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"8ce6f84b63f98b4e3915ed2dbe377ebc",
+    "wof:hierarchy":[
+        {
+            "campus_id":102547781,
+            "country_id":85632293,
+            "locality_id":102024939,
+            "region_id":85678711
+        }
+    ],
+    "wof:id":102547781,
+    "wof:lastmodified":1543856641,
+    "wof:name":"Prachinburi Airport",
+    "wof:parent_id":102024939,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    101.381667,
+    14.076667,
+    101.381667,
+    14.076667
+],
+  "geometry": {"coordinates":[101.38166699999999,14.076667],"type":"Point"}
+}

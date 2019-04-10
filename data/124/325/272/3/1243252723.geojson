@@ -1,0 +1,67 @@
+{
+  "id": 1243252723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.46748,16.97743,99.46748,16.97743",
+    "geom:latitude":16.97743,
+    "geom:longitude":99.46748,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ban Nong Ya Plong",
+    "gn:country_code":"TH",
+    "gn:dem":103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8530132,
+    "gn:latitude":16.97743,
+    "gn:longitude":99.46748,
+    "gn:modification_date":"2013-05-10",
+    "gn:name":"Ban Nong Ya Plong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678651,
+        1108802561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8530132
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"33ec1c865f3939b0b1ef23316cba83eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802561,
+            "locality_id":1243252723,
+            "region_id":85678651
+        }
+    ],
+    "wof:id":1243252723,
+    "wof:lastmodified":1537081632,
+    "wof:name":"Ban Nong Ya Plong",
+    "wof:parent_id":1108802561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.46748,
+    16.97743,
+    99.46748,
+    16.97743
+],
+  "geometry": {"coordinates":[99.46747999999999,16.97743],"type":"Point"}
+}

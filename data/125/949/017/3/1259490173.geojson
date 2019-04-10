@@ -1,0 +1,70 @@
+{
+  "id": 1259490173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.2605,20.07611,100.2605,20.07611",
+    "geom:latitude":20.07611,
+    "geom:longitude":100.2605,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ban Noen Sombun",
+    "gn:country_code":"TH",
+    "gn:dem":382,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1950229,
+    "gn:latitude":20.07611,
+    "gn:longitude":100.2605,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ban Noen Sombun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e19\u0e34\u0e19\u0e2a\u0e21\u0e1a\u0e39\u0e23\u0e13\u0e4c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678617,
+        1108802595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1950229
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"bb1f4f8ce19eebbd62654d87120afac8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802595,
+            "locality_id":1259490173,
+            "region_id":85678617
+        }
+    ],
+    "wof:id":1259490173,
+    "wof:lastmodified":1537704302,
+    "wof:name":"Ban Noen Sombun",
+    "wof:parent_id":1108802595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.2605,
+    20.07611,
+    100.2605,
+    20.07611
+],
+  "geometry": {"coordinates":[100.26049999999999,20.07611],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1327493859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.59833,15.08364,104.59833,15.08364",
+    "geom:latitude":15.08364,
+    "geom:longitude":104.59833,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Ban Nang Thom",
+    "gn:country_code":"TH",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1884991,
+    "gn:latitude":15.08364,
+    "gn:longitude":104.59833,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ban Nang Thom",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e19\u0e2d\u0e07\u0e16\u0e48\u0e21"
+    ],
+    "name:und_x_variant":[
+        "Ban Nang Tom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678779,
+        1108731329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1884991
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"17f1c9c75af06fa8f29aebfcc6607c31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731329,
+            "locality_id":1327493859,
+            "region_id":85678779
+        }
+    ],
+    "wof:id":1327493859,
+    "wof:lastmodified":1537704277,
+    "wof:name":"Ban Nang Thom",
+    "wof:parent_id":1108731329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.59833,
+    15.08364,
+    104.59833,
+    15.08364
+],
+  "geometry": {"coordinates":[104.59833,15.08364],"type":"Point"}
+}

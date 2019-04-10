@@ -1,0 +1,64 @@
+{
+  "id": 1209585473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.64886,15.18236,99.64886,15.18236",
+    "geom:latitude":15.18236,
+    "geom:longitude":99.64886,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ban Takrut",
+    "gn:country_code":"TH",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8396574,
+    "gn:latitude":15.18236,
+    "gn:longitude":99.64886,
+    "gn:modification_date":"2012-10-08",
+    "gn:name":"Ban Takrut",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e15\u0e30\u0e01\u0e23\u0e38\u0e14"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8396574
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"5ba28c03e24d9ecd1b86ac6df77d38c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632293,
+            "locality_id":1209585473
+        }
+    ],
+    "wof:id":1209585473,
+    "wof:lastmodified":1537705570,
+    "wof:name":"Ban Takrut",
+    "wof:parent_id":85632293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.64886,
+    15.18236,
+    99.64886,
+    15.18236
+],
+  "geometry": {"coordinates":[99.64886,15.18236],"type":"Point"}
+}

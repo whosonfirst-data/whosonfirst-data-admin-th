@@ -1,0 +1,74 @@
+{
+  "id": 1243239249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.36142,17.38281,101.36142,17.38281",
+    "geom:latitude":17.38281,
+    "geom:longitude":101.36142,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Pla Ba",
+    "gn:country_code":"TH",
+    "gn:dem":664,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1614009,
+    "gn:latitude":17.38281,
+    "gn:longitude":101.36142,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Pla Ba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1b\u0e25\u0e32\u0e1a\u0e48\u0e32"
+    ],
+    "name:und_x_variant":[
+        "Ban Na Pla Ma",
+        "Ban Pla Ba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678853,
+        1108731751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1614009
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"26ebb37e7447ac57d9af6e22d6a210d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731751,
+            "locality_id":1243239249,
+            "region_id":85678853
+        }
+    ],
+    "wof:id":1243239249,
+    "wof:lastmodified":1537703813,
+    "wof:name":"Ban Pla Ba",
+    "wof:parent_id":1108731751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.36142,
+    17.38281,
+    101.36142,
+    17.38281
+],
+  "geometry": {"coordinates":[101.36142,17.38281],"type":"Point"}
+}

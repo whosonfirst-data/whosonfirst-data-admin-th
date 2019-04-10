@@ -1,0 +1,73 @@
+{
+  "id": 1327127857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.93781,17.51706,99.93781,17.51706",
+    "geom:latitude":17.51706,
+    "geom:longitude":99.93781,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Ban Sak Lai",
+    "gn:country_code":"TH",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8135857,
+    "gn:latitude":17.51706,
+    "gn:longitude":99.93781,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Ban Sak Lai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "Ban Sak Lai"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2a\u0e31\u0e01\u0e25\u0e32\u0e22"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678657,
+        1108732033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8135857
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"9eece426155f8af02cdc0050113df309",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108732033,
+            "locality_id":1327127857,
+            "region_id":85678657
+        }
+    ],
+    "wof:id":1327127857,
+    "wof:lastmodified":1537704980,
+    "wof:name":"Ban Sak Lai",
+    "wof:parent_id":1108732033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.93781,
+    17.51706,
+    99.93781,
+    17.51706
+],
+  "geometry": {"coordinates":[99.93781,17.51706],"type":"Point"}
+}

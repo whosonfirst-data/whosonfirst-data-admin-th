@@ -1,0 +1,75 @@
+{
+  "id": 1226481017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.79325,14.67747,100.79325,14.67747",
+    "geom:latitude":14.67747,
+    "geom:longitude":100.79325,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Ban Phu Krang",
+    "gn:country_code":"TH",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1614039,
+    "gn:latitude":14.67747,
+    "gn:longitude":100.79325,
+    "gn:modification_date":"2014-04-29",
+    "gn:name":"Ban Phu Krang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1e\u0e38\u0e01\u0e23\u0e48\u0e32\u0e07"
+    ],
+    "name:und_x_variant":[
+        "Ban Pukrang",
+        "Ban Phu Krang (1)",
+        "Ban Phu Krang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678735,
+        890466793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1614039
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"7f20365f1adf685ba05550cf88d5dfff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466793,
+            "locality_id":1226481017,
+            "region_id":85678735
+        }
+    ],
+    "wof:id":1226481017,
+    "wof:lastmodified":1537703815,
+    "wof:name":"Ban Phu Krang",
+    "wof:parent_id":890466793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.79325,
+    14.67747,
+    100.79325,
+    14.67747
+],
+  "geometry": {"coordinates":[100.79325,14.67747],"type":"Point"}
+}

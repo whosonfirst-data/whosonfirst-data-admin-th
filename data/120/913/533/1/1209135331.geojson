@@ -1,0 +1,61 @@
+{
+  "id": 1209135331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.38333,14.05,101.38333,14.05",
+    "geom:latitude":14.05,
+    "geom:longitude":101.38333,
+    "gn:admin1_code":"74.0",
+    "gn:asciiname":"Ban Khlong Yai Tho",
+    "gn:country_code":"TH",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1618051,
+    "gn:latitude":14.05,
+    "gn:longitude":101.38333,
+    "gn:modification_date":"2009-06-01",
+    "gn:name":"Ban Khlong Yai Tho",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1618051
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"6bdcd85b9866e9358d8a4652a1ce65a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632293,
+            "locality_id":1209135331
+        }
+    ],
+    "wof:id":1209135331,
+    "wof:lastmodified":1536296679,
+    "wof:name":"Ban Khlong Yai Tho",
+    "wof:parent_id":85632293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.38333,
+    14.05,
+    101.38333,
+    14.05
+],
+  "geometry": {"coordinates":[101.38333,14.05],"type":"Point"}
+}

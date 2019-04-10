@@ -1,0 +1,73 @@
+{
+  "id": 1310663237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.78728,17.10544,101.78728,17.10544",
+    "geom:latitude":17.10544,
+    "geom:longitude":101.78728,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Chom Thong",
+    "gn:country_code":"TH",
+    "gn:dem":338,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8039913,
+    "gn:latitude":17.10544,
+    "gn:longitude":101.78728,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Chom Thong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "Ban Chom Thong"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e08\u0e2d\u0e21\u0e17\u0e2d\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678853,
+        890466061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8039913
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"3c73862d56edafe84d856affe56162be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466061,
+            "locality_id":1310663237,
+            "region_id":85678853
+        }
+    ],
+    "wof:id":1310663237,
+    "wof:lastmodified":1537704954,
+    "wof:name":"Ban Chom Thong",
+    "wof:parent_id":890466061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.78728,
+    17.10544,
+    101.78728,
+    17.10544
+],
+  "geometry": {"coordinates":[101.78728,17.10544],"type":"Point"}
+}

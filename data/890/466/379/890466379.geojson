@@ -1,0 +1,118 @@
+{
+  "id": 890466379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001263,
+    "geom:area_square_m":15173993.601683,
+    "geom:bbox":"100.50178916,13.7418345459,100.543627856,13.7962956331",
+    "geom:latitude":13.771202,
+    "geom:longitude":100.521588,
+    "gn:country":"TH",
+    "gn:fcode":"ADM2",
+    "gn:pop":0,
+    "iso:country":"TH",
+    "lbl:latitude":13.772407,
+    "lbl:longitude":100.519845,
+    "meso:admin1_en":"KRUNG THEP",
+    "meso:diss_me":"DusitKRUNG THEP",
+    "meso:gadm_admin":"Dusit",
+    "meso:gadm_hasc2":"TH.BM.DU",
+    "meso:gaul_admin":"Dusit",
+    "meso:id":"152",
+    "meso:loc_id_alt":"1002",
+    "meso:local_id":"3202",
+    "meso:mps_x":100.519845,
+    "meso:mps_y":13.772407,
+    "meso:name_en":"Dusit",
+    "meso:name_local":"\u0e40\u0e02\u0e15\u0e14\u0e38\u0e2a\u0e34\u0e15",
+    "meso:source":"AOTM",
+    "mps:latitude":13.772407,
+    "mps:longitude":100.519845,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Dusit"
+    ],
+    "name:eng_x_variant":[
+        "Dusit"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e02\u0e15\u0e14\u0e38\u0e2a\u0e34\u0e15"
+    ],
+    "name:tha_x_variant":[
+        "\u0e14\u0e38\u0e2a\u0e34\u0e15",
+        "\u0e40\u0e02\u0e15\u0e14\u0e38\u0e2a\u0e34\u0e15"
+    ],
+    "name:unk_x_variant":[
+        "Amphoe Dusit"
+    ],
+    "qs:name":"Khet Dusit",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"0",
+    "src:geom":"unknown",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2000-04-01",
+    "statoids:area_km":"11",
+    "statoids:as_of_date":"2000-04-01",
+    "statoids:capital":"",
+    "statoids:country":"TH",
+    "statoids:hasc":"TH.BM",
+    "statoids:name":"Dusit",
+    "statoids:population":"175658",
+    "statoids:statoid":"TH.BM.DU",
+    "statoids:timezone":"7",
+    "statoids:type":"district",
+    "wd:wordcount":650,
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1610857,
+        "hasc:id":"TH.BM.DU",
+        "qs:id":1030589,
+        "wd:id":"Q1267640",
+        "wk:page":"Dusit District"
+    },
+    "wof:country":"TH",
+    "wof:created":1469053576,
+    "wof:geomhash":"56568d5fd7e4480021e394c7d3ae0549",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466379,
+            "region_id":85678739
+        }
+    ],
+    "wof:id":890466379,
+    "wof:lastmodified":1536617423,
+    "wof:name":"Dusit",
+    "wof:parent_id":85678739,
+    "wof:placetype":"county",
+    "wof:placetype_local":"district",
+    "wof:population":175658,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:shortcode":"DU",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.50178916038509,
+    13.74183454590101,
+    100.54362785597996,
+    13.79629563308391
+],
+  "geometry": {"coordinates":[[[100.52149710868933,13.79232236187823],[100.52420139616724,13.79107370912593],[100.53506005051219,13.79629563308391],[100.54362785597996,13.79226573893229],[100.53934039238854,13.78144946437509],[100.53836675139284,13.77986790337377],[100.53761488919532,13.77951457149453],[100.53586979493588,13.76961355373373],[100.53465620232616,13.76879527011249],[100.53015325808164,13.76595167448346],[100.53115998934338,13.75776500180613],[100.52189036245034,13.74574879648783],[100.5100947328465,13.74183454590101],[100.50772461207436,13.7492798264789],[100.50859818731952,13.75610174933962],[100.50178916038509,13.7733241509172],[100.51051485501807,13.77996201646353],[100.51420534233576,13.79150623076197],[100.52149710868933,13.79232236187823]]],"type":"Polygon"}
+}

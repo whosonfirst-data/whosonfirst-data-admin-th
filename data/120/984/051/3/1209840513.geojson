@@ -1,0 +1,72 @@
+{
+  "id": 1209840513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.15,10.6,99.15,10.6",
+    "geom:latitude":10.6,
+    "geom:longitude":99.15,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Ban Na Tha",
+    "gn:country_code":"TH",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1156034,
+    "gn:latitude":10.6,
+    "gn:longitude":99.15,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Na Tha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Na Bhradha",
+        "Ban Na Phra Tha",
+        "Ban Na Tha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678559,
+        1108731983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1156034
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"abc0b3a12ac2fa0f0037abb9568f8690",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731983,
+            "locality_id":1209840513,
+            "region_id":85678559
+        }
+    ],
+    "wof:id":1209840513,
+    "wof:lastmodified":1537703161,
+    "wof:name":"Ban Na Tha",
+    "wof:parent_id":1108731983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.15,
+    10.6,
+    99.15,
+    10.6
+],
+  "geometry": {"coordinates":[99.15000000000001,10.6],"type":"Point"}
+}

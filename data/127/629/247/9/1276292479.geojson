@@ -1,0 +1,70 @@
+{
+  "id": 1276292479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.82864,14.71833,103.82864,14.71833",
+    "geom:latitude":14.71833,
+    "geom:longitude":103.82864,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Ban Luk Khwai",
+    "gn:country_code":"TH",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8702768,
+    "gn:latitude":14.71833,
+    "gn:longitude":103.82864,
+    "gn:modification_date":"2014-02-17",
+    "gn:name":"Ban Luk Khwai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e25\u0e39\u0e01\u0e04\u0e27\u0e32\u0e22"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678849,
+        1108802741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8702768
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"7f95f2ae035d4e5c03d9ad48a1aa108a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802741,
+            "locality_id":1276292479,
+            "region_id":85678849
+        }
+    ],
+    "wof:id":1276292479,
+    "wof:lastmodified":1537705916,
+    "wof:name":"Ban Luk Khwai",
+    "wof:parent_id":1108802741,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.82864,
+    14.71833,
+    103.82864,
+    14.71833
+],
+  "geometry": {"coordinates":[103.82863999999999,14.71833],"type":"Point"}
+}

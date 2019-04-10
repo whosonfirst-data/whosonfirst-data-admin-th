@@ -1,0 +1,70 @@
+{
+  "id": 1343783481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.23556,18.26211,99.23556,18.26211",
+    "geom:latitude":18.26211,
+    "geom:longitude":99.23556,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Ban Na Nam Man",
+    "gn:country_code":"TH",
+    "gn:dem":279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8267472,
+    "gn:latitude":18.26211,
+    "gn:longitude":99.23556,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Ban Na Nam Man",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e19\u0e32\u0e19\u0e49\u0e33\u0e21\u0e31\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678625,
+        1108731281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8267472
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"88024124c07a285d85cfe6f8a2313ce4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731281,
+            "locality_id":1343783481,
+            "region_id":85678625
+        }
+    ],
+    "wof:id":1343783481,
+    "wof:lastmodified":1537705262,
+    "wof:name":"Ban Na Nam Man",
+    "wof:parent_id":1108731281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.23556,
+    18.26211,
+    99.23556,
+    18.26211
+],
+  "geometry": {"coordinates":[99.23556000000001,18.26211],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1226011839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.91094,16.51419,101.91094,16.51419",
+    "geom:latitude":16.51419,
+    "geom:longitude":101.91094,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Ban Noen Phrachan",
+    "gn:country_code":"TH",
+    "gn:dem":273,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8370712,
+    "gn:latitude":16.51419,
+    "gn:longitude":101.91094,
+    "gn:modification_date":"2012-08-06",
+    "gn:name":"Ban Noen Phrachan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e19\u0e34\u0e19\u0e1e\u0e23\u0e30\u0e08\u0e31\u0e19\u0e17\u0e23\u0e4c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678825,
+        890465699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8370712
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"37298f39d4114cb560221d0b520a8142",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465699,
+            "locality_id":1226011839,
+            "region_id":85678825
+        }
+    ],
+    "wof:id":1226011839,
+    "wof:lastmodified":1537705509,
+    "wof:name":"Ban Noen Phrachan",
+    "wof:parent_id":890465699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.91094,
+    16.51419,
+    101.91094,
+    16.51419
+],
+  "geometry": {"coordinates":[101.91094,16.51419],"type":"Point"}
+}

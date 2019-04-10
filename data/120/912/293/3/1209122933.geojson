@@ -1,0 +1,64 @@
+{
+  "id": 1209122933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.59372,15.38183,104.59372,15.38183",
+    "geom:latitude":15.38183,
+    "geom:longitude":104.59372,
+    "gn:admin1_code":"75.0",
+    "gn:asciiname":"Ban E",
+    "gn:country_code":"TH",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8316564,
+    "gn:latitude":15.38183,
+    "gn:longitude":104.59372,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Ban E",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e2d\u0e49"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8316564
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"12367e085997fda0504e817d406bab54",
+    "wof:hierarchy":[
+        {
+            "country_id":85632293,
+            "locality_id":1209122933
+        }
+    ],
+    "wof:id":1209122933,
+    "wof:lastmodified":1537705318,
+    "wof:name":"Ban E",
+    "wof:parent_id":85632293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.59372,
+    15.38183,
+    104.59372,
+    15.38183
+],
+  "geometry": {"coordinates":[104.59372,15.38183],"type":"Point"}
+}

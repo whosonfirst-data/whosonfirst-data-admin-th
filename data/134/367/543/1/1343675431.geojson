@@ -1,0 +1,70 @@
+{
+  "id": 1343675431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.12008,17.975,98.12008,17.975",
+    "geom:latitude":17.975,
+    "geom:longitude":98.12008,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ban Pha Yoe Tai",
+    "gn:country_code":"TH",
+    "gn:dem":947,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1118145,
+    "gn:latitude":17.975,
+    "gn:longitude":98.12008,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Pha Yoe Tai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1c\u0e32\u0e40\u0e22\u0e2d\u0e23\u0e4c\u0e43\u0e15\u0e49"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678555,
+        1108731937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1118145
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"8e7e106fbdbc0b9b2adf959b2a96e5d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731937,
+            "locality_id":1343675431,
+            "region_id":85678555
+        }
+    ],
+    "wof:id":1343675431,
+    "wof:lastmodified":1537702937,
+    "wof:name":"Ban Pha Yoe Tai",
+    "wof:parent_id":1108731937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.12008,
+    17.975,
+    98.12008,
+    17.975
+],
+  "geometry": {"coordinates":[98.12008,17.975],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1210041525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.05042,12.59186,102.05042,12.59186",
+    "geom:latitude":12.59186,
+    "geom:longitude":102.05042,
+    "gn:admin1_code":"48.0",
+    "gn:asciiname":"Ban Si Phraya Bon",
+    "gn:country_code":"TH",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1613245,
+    "gn:latitude":12.59186,
+    "gn:longitude":102.05042,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Si Phraya Bon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2a\u0e35\u0e48\u0e1e\u0e0d\u0e32\u0e1a\u0e19"
+    ],
+    "name:und_x_variant":[
+        "Si Phraya",
+        "Ban Si Phraya",
+        "Ban Si Phraya Bon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678799,
+        890466889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1613245
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"31f85831a6b13229d25c5a17ddb2b274",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466889,
+            "locality_id":1210041525,
+            "region_id":85678799
+        }
+    ],
+    "wof:id":1210041525,
+    "wof:lastmodified":1537703760,
+    "wof:name":"Ban Si Phraya Bon",
+    "wof:parent_id":890466889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.05042,
+    12.59186,
+    102.05042,
+    12.59186
+],
+  "geometry": {"coordinates":[102.05042,12.59186],"type":"Point"}
+}

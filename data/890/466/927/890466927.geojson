@@ -1,0 +1,69 @@
+{
+  "id": 890466927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-11-10",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.29508,12.031274,102.29508,12.031274",
+    "geom:latitude":12.031274,
+    "geom:longitude":102.29508,
+    "gp:adm0":23424960,
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "qs:name":"Ko Chang",
+    "qs:name_adm0":"Thailand",
+    "qs:name_adm1":"Trat",
+    "qs:photos":4429,
+    "qs:photos_1k":897,
+    "qs:photos_9k":41,
+    "qs:photos_9r":15,
+    "qs:photos_all":9280,
+    "qs:photos_sr":23,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "wd:wordcount":1304,
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28341376,
+        "qs:id":1119295,
+        "wd:id":"Q1290829",
+        "wk:page":"Ko Chang District"
+    },
+    "wof:country":"TH",
+    "wof:created":1469053604,
+    "wof:geomhash":"9948c9ec7ae65ef58ea68eba97fbd9cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466927,
+            "region_id":85678813
+        }
+    ],
+    "wof:id":890466927,
+    "wof:lastmodified":1527793019,
+    "wof:name":"Ko Chang",
+    "wof:parent_id":85678813,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.29508,
+    12.031274,
+    102.29508,
+    12.031274
+],
+  "geometry": {"coordinates":[102.29508,12.031274],"type":"Point"}
+}

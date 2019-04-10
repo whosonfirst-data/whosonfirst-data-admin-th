@@ -1,0 +1,67 @@
+{
+  "id": 1276555521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.52722,18.82361,98.52722,18.82361",
+    "geom:latitude":18.82361,
+    "geom:longitude":98.52722,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Daet",
+    "gn:country_code":"TH",
+    "gn:dem":1207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1120169,
+    "gn:latitude":18.82361,
+    "gn:longitude":98.52722,
+    "gn:modification_date":"1999-10-12",
+    "gn:name":"Ban Daet",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678619,
+        890466281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1120169
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"891a48379230a42b12ff533aacf42ea3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466281,
+            "locality_id":1276555521,
+            "region_id":85678619
+        }
+    ],
+    "wof:id":1276555521,
+    "wof:lastmodified":1536977715,
+    "wof:name":"Ban Daet",
+    "wof:parent_id":890466281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.52722,
+    18.82361,
+    98.52722,
+    18.82361
+],
+  "geometry": {"coordinates":[98.52722,18.82361],"type":"Point"}
+}

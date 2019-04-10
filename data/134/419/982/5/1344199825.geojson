@@ -1,0 +1,68 @@
+{
+  "id": 1344199825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.66667,13.83333,100.66667,13.83333",
+    "geom:latitude":13.83333,
+    "geom:longitude":100.66667,
+    "gn:admin1_code":"40.0",
+    "gn:admin2_code":"1043",
+    "gn:asciiname":"Ban Baen Phichit",
+    "gn:country_code":"TH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1620934,
+    "gn:latitude":13.83333,
+    "gn:longitude":100.66667,
+    "gn:modification_date":"2017-03-23",
+    "gn:name":"Ban Baen Phichit",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678739,
+        890465919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1620934
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"3bbad99382b11e75e7e70f7a17d2dfb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465919,
+            "locality_id":1344199825,
+            "region_id":85678739
+        }
+    ],
+    "wof:id":1344199825,
+    "wof:lastmodified":1536674518,
+    "wof:name":"Ban Baen Phichit",
+    "wof:parent_id":890465919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.66667,
+    13.83333,
+    100.66667,
+    13.83333
+],
+  "geometry": {"coordinates":[100.66667,13.83333],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1276927429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.88308,15.21583,102.88308,15.21583",
+    "geom:latitude":15.21583,
+    "geom:longitude":102.88308,
+    "gn:admin1_code":"27",
+    "gn:asciiname":"Ban Huai Phaknam",
+    "gn:country_code":"TH",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9109208,
+    "gn:latitude":15.21583,
+    "gn:longitude":102.88308,
+    "gn:modification_date":"2014-06-07",
+    "gn:name":"Ban Huai Phaknam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e49\u0e27\u0e22\u0e1c\u0e31\u0e01\u0e2b\u0e19\u0e32\u0e21"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678841,
+        1108802599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9109208
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"4fe9be23f5ba92aa6ae7fcbb6c86325d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802599,
+            "locality_id":1276927429,
+            "region_id":85678841
+        }
+    ],
+    "wof:id":1276927429,
+    "wof:lastmodified":1537706191,
+    "wof:name":"Ban Huai Phaknam",
+    "wof:parent_id":1108802599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.88308,
+    15.21583,
+    102.88308,
+    15.21583
+],
+  "geometry": {"coordinates":[102.88308000000001,15.21583],"type":"Point"}
+}

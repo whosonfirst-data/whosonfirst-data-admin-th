@@ -1,0 +1,70 @@
+{
+  "id": 1310422487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.81244,10.30236,98.81244,10.30236",
+    "geom:latitude":10.30236,
+    "geom:longitude":98.81244,
+    "gn:admin1_code":"59.0",
+    "gn:asciiname":"Ban Lam Liang Nai",
+    "gn:country_code":"TH",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8539921,
+    "gn:latitude":10.30236,
+    "gn:longitude":98.81244,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Ban Lam Liang Nai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e25\u0e33\u0e40\u0e25\u0e35\u0e22\u0e07\u0e43\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678577,
+        1108802631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8539921
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"137b02561cf97cd58d6df43668fd1541",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802631,
+            "locality_id":1310422487,
+            "region_id":85678577
+        }
+    ],
+    "wof:id":1310422487,
+    "wof:lastmodified":1537705691,
+    "wof:name":"Ban Lam Liang Nai",
+    "wof:parent_id":1108802631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.81244,
+    10.30236,
+    98.81244,
+    10.30236
+],
+  "geometry": {"coordinates":[98.81244,10.30236],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 890466079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.907,11.6557,102.907,11.6557",
+    "geom:latitude":11.6557,
+    "geom:longitude":102.907,
+    "gn:country":"TH",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424960,
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e32\u0e14\u0e40\u0e25\u0e47\u0e01"
+    ],
+    "name:unk_x_variant":[
+        "Hatlek"
+    ],
+    "qs:name":"Ban Hat Lek",
+    "qs:name_adm0":"Thailand",
+    "qs:name_adm1":"Trat",
+    "qs:photos":22,
+    "qs:photos_1k":4,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":22,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1619138,
+        "gp:id":1226291,
+        "qs:id":1295898
+    },
+    "wof:country":"TH",
+    "wof:created":1469053564,
+    "wof:geomhash":"d58743c279d85aec06a73b7833b88ca2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632293,
+            "locality_id":890466079
+        }
+    ],
+    "wof:id":890466079,
+    "wof:lastmodified":1505343706,
+    "wof:name":"Ban Hat Lek",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.907,
+    11.6557,
+    102.907,
+    11.6557
+],
+  "geometry": {"coordinates":[102.907,11.6557],"type":"Point"}
+}

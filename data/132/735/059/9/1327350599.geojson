@@ -1,0 +1,73 @@
+{
+  "id": 1327350599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.35483,13.87539,101.35483,13.87539",
+    "geom:latitude":13.87539,
+    "geom:longitude":101.35483,
+    "gn:admin1_code":"74.0",
+    "gn:asciiname":"Ban Mai Sam Ruean",
+    "gn:country_code":"TH",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1613439,
+    "gn:latitude":13.87539,
+    "gn:longitude":101.35483,
+    "gn:modification_date":"2014-04-05",
+    "gn:name":"Ban Mai Sam Ruean",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e44\u0e21\u0e49\u0e2a\u0e32\u0e21\u0e40\u0e23\u0e37\u0e2d\u0e19"
+    ],
+    "name:und_x_variant":[
+        "Ban Sam Ruan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678711,
+        890466387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1613439
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"6bc00bd49a11d2d4cdb0d32cb4747be2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466387,
+            "locality_id":1327350599,
+            "region_id":85678711
+        }
+    ],
+    "wof:id":1327350599,
+    "wof:lastmodified":1537703773,
+    "wof:name":"Ban Mai Sam Ruean",
+    "wof:parent_id":890466387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.35483,
+    13.87539,
+    101.35483,
+    13.87539
+],
+  "geometry": {"coordinates":[101.35483000000001,13.87539],"type":"Point"}
+}

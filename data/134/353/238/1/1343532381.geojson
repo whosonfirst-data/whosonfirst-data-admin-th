@@ -1,0 +1,70 @@
+{
+  "id": 1343532381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.0495,16.33969,100.0495,16.33969",
+    "geom:latitude":16.33969,
+    "geom:longitude":100.0495,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Ban Suk Samran",
+    "gn:country_code":"TH",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8451781,
+    "gn:latitude":16.33969,
+    "gn:longitude":100.0495,
+    "gn:modification_date":"2013-02-10",
+    "gn:name":"Ban Suk Samran",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2a\u0e38\u0e02\u0e2a\u0e33\u0e23\u0e32\u0e0d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678669,
+        1108731831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8451781
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"523d4865d6017ac6248f68dc7dfabae1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731831,
+            "locality_id":1343532381,
+            "region_id":85678669
+        }
+    ],
+    "wof:id":1343532381,
+    "wof:lastmodified":1537705609,
+    "wof:name":"Ban Suk Samran",
+    "wof:parent_id":1108731831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.0495,
+    16.33969,
+    100.0495,
+    16.33969
+],
+  "geometry": {"coordinates":[100.04949999999999,16.33969],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343230535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.63794,16.32706,103.63794,16.32706",
+    "geom:latitude":16.32706,
+    "geom:longitude":103.63794,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Ban Thonburi",
+    "gn:country_code":"TH",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1597617,
+    "gn:latitude":16.32706,
+    "gn:longitude":103.63794,
+    "gn:modification_date":"2013-12-09",
+    "gn:name":"Ban Thonburi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e18\u0e19\u0e1a\u0e38\u0e23\u0e35"
+    ],
+    "name:und_x_variant":[
+        "Ban Thon Buri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678831,
+        1108731319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1597617
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"a742c3be235d15e70d7fec83f0d4abf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731319,
+            "locality_id":1343230535,
+            "region_id":85678831
+        }
+    ],
+    "wof:id":1343230535,
+    "wof:lastmodified":1537703375,
+    "wof:name":"Ban Thonburi",
+    "wof:parent_id":1108731319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.63794,
+    16.32706,
+    103.63794,
+    16.32706
+],
+  "geometry": {"coordinates":[103.63794,16.32706],"type":"Point"}
+}

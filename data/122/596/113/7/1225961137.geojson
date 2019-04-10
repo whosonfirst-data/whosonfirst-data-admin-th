@@ -1,0 +1,70 @@
+{
+  "id": 1225961137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.02972,6.26925,102.02972,6.26925",
+    "geom:latitude":6.26925,
+    "geom:longitude":102.02972,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Ban Sala Pradu",
+    "gn:country_code":"TH",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7463538,
+    "gn:latitude":6.26925,
+    "gn:longitude":102.02972,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Sala Pradu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e28\u0e32\u0e25\u0e32\u0e1b\u0e23\u0e30\u0e14\u0e39\u0e48"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678885,
+        890465893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7463538
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"79137d348994fc38e58fbcbf26391f1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465893,
+            "locality_id":1225961137,
+            "region_id":85678885
+        }
+    ],
+    "wof:id":1225961137,
+    "wof:lastmodified":1537704508,
+    "wof:name":"Ban Sala Pradu",
+    "wof:parent_id":890465893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.02972,
+    6.26925,
+    102.02972,
+    6.26925
+],
+  "geometry": {"coordinates":[102.02972,6.26925],"type":"Point"}
+}

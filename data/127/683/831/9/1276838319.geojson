@@ -1,0 +1,70 @@
+{
+  "id": 1276838319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.48486,16.57361,103.48486,16.57361",
+    "geom:latitude":16.57361,
+    "geom:longitude":103.48486,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Ban Plakhao Yai",
+    "gn:country_code":"TH",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8651890,
+    "gn:latitude":16.57361,
+    "gn:longitude":103.48486,
+    "gn:modification_date":"2013-12-17",
+    "gn:name":"Ban Plakhao Yai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1b\u0e25\u0e32\u0e40\u0e04\u0e49\u0e32\u0e43\u0e2b\u0e0d\u0e48"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678831,
+        890466881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8651890
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"51ddc99e8106ea04a6fcf4433b1b1315",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466881,
+            "locality_id":1276838319,
+            "region_id":85678831
+        }
+    ],
+    "wof:id":1276838319,
+    "wof:lastmodified":1537705754,
+    "wof:name":"Ban Plakhao Yai",
+    "wof:parent_id":890466881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.48486,
+    16.57361,
+    103.48486,
+    16.57361
+],
+  "geometry": {"coordinates":[103.48486,16.57361],"type":"Point"}
+}

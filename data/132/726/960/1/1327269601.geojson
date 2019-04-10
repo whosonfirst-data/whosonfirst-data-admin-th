@@ -1,0 +1,67 @@
+{
+  "id": 1327269601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.23333,12.7,101.23333,12.7",
+    "geom:latitude":12.7,
+    "geom:longitude":101.23333,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Ban Laem Makham",
+    "gn:country_code":"TH",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1617205,
+    "gn:latitude":12.7,
+    "gn:longitude":101.23333,
+    "gn:modification_date":"1994-04-06",
+    "gn:name":"Ban Laem Makham",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678809,
+        1108802679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1617205
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"7ef80a86b5ea4f261f6442016ae3cc89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802679,
+            "locality_id":1327269601,
+            "region_id":85678809
+        }
+    ],
+    "wof:id":1327269601,
+    "wof:lastmodified":1536916411,
+    "wof:name":"Ban Laem Makham",
+    "wof:parent_id":1108802679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.23333,
+    12.7,
+    101.23333,
+    12.7
+],
+  "geometry": {"coordinates":[101.23333,12.7],"type":"Point"}
+}

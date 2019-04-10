@@ -1,0 +1,70 @@
+{
+  "id": 1260315839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.64083,14.67158,99.64083,14.67158",
+    "geom:latitude":14.67158,
+    "geom:longitude":99.64083,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Ban Nong Nguhao",
+    "gn:country_code":"TH",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8455313,
+    "gn:latitude":14.67158,
+    "gn:longitude":99.64083,
+    "gn:modification_date":"2013-02-10",
+    "gn:name":"Ban Nong Nguhao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e19\u0e2d\u0e07\u0e07\u0e39\u0e40\u0e2b\u0e48\u0e32"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678663,
+        1108731473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8455313
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"5f562111d2bec1187e20eecaab7c5d71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731473,
+            "locality_id":1260315839,
+            "region_id":85678663
+        }
+    ],
+    "wof:id":1260315839,
+    "wof:lastmodified":1537705630,
+    "wof:name":"Ban Nong Nguhao",
+    "wof:parent_id":1108731473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.64083,
+    14.67158,
+    99.64083,
+    14.67158
+],
+  "geometry": {"coordinates":[99.64082999999999,14.67158],"type":"Point"}
+}

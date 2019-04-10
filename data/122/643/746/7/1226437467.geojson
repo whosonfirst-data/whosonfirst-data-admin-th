@@ -1,0 +1,76 @@
+{
+  "id": 1226437467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.11948,17.71427,100.11948,17.71427",
+    "geom:latitude":17.71427,
+    "geom:longitude":100.11948,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Ban Dan",
+    "gn:country_code":"TH",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1620036,
+    "gn:latitude":17.71427,
+    "gn:longitude":100.11948,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Dan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "Ban Dan"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e14\u0e48\u0e32\u0e19"
+    ],
+    "name:und_x_variant":[
+        "Ban Dan (1)"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678657,
+        890466775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1620036
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"c4d72b074fe98d8c7415d82f4c72d1d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466775,
+            "locality_id":1226437467,
+            "region_id":85678657
+        }
+    ],
+    "wof:id":1226437467,
+    "wof:lastmodified":1537704203,
+    "wof:name":"Ban Dan",
+    "wof:parent_id":890466775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.11948,
+    17.71427000000001,
+    100.11948,
+    17.71427000000001
+],
+  "geometry": {"coordinates":[100.11948,17.71427000000001],"type":"Point"}
+}

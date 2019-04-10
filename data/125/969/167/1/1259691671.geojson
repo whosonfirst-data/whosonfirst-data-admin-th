@@ -1,0 +1,74 @@
+{
+  "id": 1259691671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.10061,18.84336,99.10061,18.84336",
+    "geom:latitude":18.84336,
+    "geom:longitude":99.10061,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Pa Du",
+    "gn:country_code":"TH",
+    "gn:dem":321,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1155499,
+    "gn:latitude":18.84336,
+    "gn:longitude":99.10061,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Pa Du",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1b\u0e48\u0e32\u0e14\u0e39\u0e48"
+    ],
+    "name:und_x_variant":[
+        "Ban Pradu",
+        "Ban Pa Du"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678619,
+        890467381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1155499
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"be890fb6b5b821fd2363ba86625cbf37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890467381,
+            "locality_id":1259691671,
+            "region_id":85678619
+        }
+    ],
+    "wof:id":1259691671,
+    "wof:lastmodified":1537703123,
+    "wof:name":"Ban Pa Du",
+    "wof:parent_id":890467381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.10061,
+    18.84336,
+    99.10061,
+    18.84336
+],
+  "geometry": {"coordinates":[99.10061,18.84336],"type":"Point"}
+}

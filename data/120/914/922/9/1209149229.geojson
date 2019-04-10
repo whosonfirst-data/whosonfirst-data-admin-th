@@ -1,0 +1,68 @@
+{
+  "id": 1209149229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.45872,14.63536,100.45872,14.63536",
+    "geom:latitude":14.63536,
+    "geom:longitude":100.45872,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Ban Tanot",
+    "gn:country_code":"TH",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1612902,
+    "gn:latitude":14.63536,
+    "gn:longitude":100.45872,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Ban Tanot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e42\u0e15\u0e19\u0e14"
+    ],
+    "name:und_x_variant":[
+        "Ban Tanod",
+        "Ban Tanot"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1612902
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"556f739e13d24a89711f59b21b5af64a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632293,
+            "locality_id":1209149229
+        }
+    ],
+    "wof:id":1209149229,
+    "wof:lastmodified":1537703735,
+    "wof:name":"Ban Tanot",
+    "wof:parent_id":85632293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.45872,
+    14.63536,
+    100.45872,
+    14.63536
+],
+  "geometry": {"coordinates":[100.45872,14.63536],"type":"Point"}
+}

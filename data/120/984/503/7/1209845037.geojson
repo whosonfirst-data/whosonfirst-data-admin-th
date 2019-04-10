@@ -1,0 +1,70 @@
+{
+  "id": 1209845037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.42475,8.58756,98.42475,8.58756",
+    "geom:latitude":8.58756,
+    "geom:longitude":98.42475,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Ban Thap Riang",
+    "gn:country_code":"TH",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1154457,
+    "gn:latitude":8.58756,
+    "gn:longitude":98.42475,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Ban Thap Riang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e17\u0e31\u0e1a\u0e40\u0e2b\u0e23\u0e35\u0e22\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678573,
+        1108732001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1154457
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"c56c730e8614644e905c73371b8bc5d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108732001,
+            "locality_id":1209845037,
+            "region_id":85678573
+        }
+    ],
+    "wof:id":1209845037,
+    "wof:lastmodified":1537703047,
+    "wof:name":"Ban Thap Riang",
+    "wof:parent_id":1108732001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.42475,
+    8.58756,
+    98.42475,
+    8.58756
+],
+  "geometry": {"coordinates":[98.42475,8.58756],"type":"Point"}
+}

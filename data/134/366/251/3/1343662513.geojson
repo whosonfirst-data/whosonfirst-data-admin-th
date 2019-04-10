@@ -1,0 +1,70 @@
+{
+  "id": 1343662513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.1835,19.69747,100.1835,19.69747",
+    "geom:latitude":19.69747,
+    "geom:longitude":100.1835,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ban Phra Koet",
+    "gn:country_code":"TH",
+    "gn:dem":365,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7382705,
+    "gn:latitude":19.69747,
+    "gn:longitude":100.1835,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Phra Koet",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1e\u0e23\u0e30\u0e40\u0e01\u0e34\u0e14"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678617,
+        890466587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7382705
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"67b60060b635e9ba746265b36d49d7f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466587,
+            "locality_id":1343662513,
+            "region_id":85678617
+        }
+    ],
+    "wof:id":1343662513,
+    "wof:lastmodified":1537704460,
+    "wof:name":"Ban Phra Koet",
+    "wof:parent_id":890466587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.1835,
+    19.69747000000001,
+    100.1835,
+    19.69747000000001
+],
+  "geometry": {"coordinates":[100.1835,19.69747000000001],"type":"Point"}
+}

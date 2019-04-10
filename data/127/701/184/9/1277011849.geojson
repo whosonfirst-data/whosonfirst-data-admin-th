@@ -1,0 +1,74 @@
+{
+  "id": 1277011849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.10397,14.24314,100.10397,14.24314",
+    "geom:latitude":14.24314,
+    "geom:longitude":100.10397,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Ban Bang Sakae",
+    "gn:country_code":"TH",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1620633,
+    "gn:latitude":14.24314,
+    "gn:longitude":100.10397,
+    "gn:modification_date":"2014-01-08",
+    "gn:name":"Ban Bang Sakae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1a\u0e32\u0e07\u0e2a\u0e30\u0e41\u0e01"
+    ],
+    "name:und_x_variant":[
+        "Ban Bang Sake",
+        "Ban Bang Sakae"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678679,
+        890465739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1620633
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"3fdb40b270001f1a1e5b6352d3cc9d9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465739,
+            "locality_id":1277011849,
+            "region_id":85678679
+        }
+    ],
+    "wof:id":1277011849,
+    "wof:lastmodified":1537704243,
+    "wof:name":"Ban Bang Sakae",
+    "wof:parent_id":890465739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.10397,
+    14.24314,
+    100.10397,
+    14.24314
+],
+  "geometry": {"coordinates":[100.10397,14.24314],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1293208253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.79714,18.62639,98.79714,18.62639",
+    "geom:latitude":18.62639,
+    "geom:longitude":98.79714,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Mai Sawan",
+    "gn:country_code":"TH",
+    "gn:dem":333,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1330981,
+    "gn:latitude":18.62639,
+    "gn:longitude":98.79714,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ban Mai Sawan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e43\u0e2b\u0e21\u0e48\u0e2a\u0e27\u0e23\u0e23\u0e04\u0e4c"
+    ],
+    "name:und_x_variant":[
+        "Ban Mai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678619,
+        1108802659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1330981
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"67884a8ebd5653733b27980325ddbb8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802659,
+            "locality_id":1293208253,
+            "region_id":85678619
+        }
+    ],
+    "wof:id":1293208253,
+    "wof:lastmodified":1537703327,
+    "wof:name":"Ban Mai Sawan",
+    "wof:parent_id":1108802659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.79714,
+    18.62639,
+    98.79714,
+    18.62639
+],
+  "geometry": {"coordinates":[98.79714,18.62639],"type":"Point"}
+}

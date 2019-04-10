@@ -1,0 +1,70 @@
+{
+  "id": 1343241721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.28456,16.77944,100.28456,16.77944",
+    "geom:latitude":16.77944,
+    "geom:longitude":100.28456,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Ban Sanam Bin Kao",
+    "gn:country_code":"TH",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8205439,
+    "gn:latitude":16.77944,
+    "gn:longitude":100.28456,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Ban Sanam Bin Kao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2a\u0e19\u0e32\u0e21\u0e1a\u0e34\u0e19\u0e40\u0e01\u0e48\u0e32"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678647,
+        890466019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8205439
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"b56290697d881f0824436e7613609a39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466019,
+            "locality_id":1343241721,
+            "region_id":85678647
+        }
+    ],
+    "wof:id":1343241721,
+    "wof:lastmodified":1537705099,
+    "wof:name":"Ban Sanam Bin Kao",
+    "wof:parent_id":890466019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.28456,
+    16.77944,
+    100.28456,
+    16.77944
+],
+  "geometry": {"coordinates":[100.28456,16.77944],"type":"Point"}
+}

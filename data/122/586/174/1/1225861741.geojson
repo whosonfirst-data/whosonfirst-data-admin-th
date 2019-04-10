@@ -1,0 +1,73 @@
+{
+  "id": 1225861741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.58386,13.50992,101.58386,13.50992",
+    "geom:latitude":13.50992,
+    "geom:longitude":101.58386,
+    "gn:admin1_code":"44.0",
+    "gn:asciiname":"Ban Chomphu",
+    "gn:country_code":"TH",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1604240,
+    "gn:latitude":13.50992,
+    "gn:longitude":101.58386,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Chomphu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e0a\u0e21\u0e20\u0e39"
+    ],
+    "name:und_x_variant":[
+        "Ban Cham Phlu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678797,
+        1108731985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1604240
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"6c35bee8df007704717e8036c6fe2924",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731985,
+            "locality_id":1225861741,
+            "region_id":85678797
+        }
+    ],
+    "wof:id":1225861741,
+    "wof:lastmodified":1537703613,
+    "wof:name":"Ban Chomphu",
+    "wof:parent_id":1108731985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.58386,
+    13.50992,
+    101.58386,
+    13.50992
+],
+  "geometry": {"coordinates":[101.58386,13.50992],"type":"Point"}
+}

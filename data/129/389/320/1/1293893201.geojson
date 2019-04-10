@@ -1,0 +1,67 @@
+{
+  "id": 1293893201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.05,16.16667,101.05,16.16667",
+    "geom:latitude":16.16667,
+    "geom:longitude":101.05,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Ban Na Yom",
+    "gn:country_code":"TH",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1600755,
+    "gn:latitude":16.16667,
+    "gn:longitude":101.05,
+    "gn:modification_date":"1994-04-10",
+    "gn:name":"Ban Na Yom",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678673,
+        1108731635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1600755
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"c698c9dbc41898f2bbc6ea35f4d7d7b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731635,
+            "locality_id":1293893201,
+            "region_id":85678673
+        }
+    ],
+    "wof:id":1293893201,
+    "wof:lastmodified":1536699558,
+    "wof:name":"Ban Na Yom",
+    "wof:parent_id":1108731635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.05,
+    16.16667,
+    101.05,
+    16.16667
+],
+  "geometry": {"coordinates":[101.05,16.16667],"type":"Point"}
+}

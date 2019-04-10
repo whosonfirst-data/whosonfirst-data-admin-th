@@ -1,0 +1,73 @@
+{
+  "id": 1276400581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.06586,14.84356,103.06586,14.84356",
+    "geom:latitude":14.84356,
+    "geom:longitude":103.06586,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Ban Hua Wua",
+    "gn:country_code":"TH",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1600414,
+    "gn:latitude":14.84356,
+    "gn:longitude":103.06586,
+    "gn:modification_date":"2014-08-05",
+    "gn:name":"Ban Hua Wua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e31\u0e27\u0e27\u0e31\u0e27"
+    ],
+    "name:und_x_variant":[
+        "Ban Nong Hua Wua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678817,
+        890466883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1600414
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"55405bcb44282ff22f00df2d3625f57b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466883,
+            "locality_id":1276400581,
+            "region_id":85678817
+        }
+    ],
+    "wof:id":1276400581,
+    "wof:lastmodified":1537703475,
+    "wof:name":"Ban Hua Wua",
+    "wof:parent_id":890466883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.06586,
+    14.84356,
+    103.06586,
+    14.84356
+],
+  "geometry": {"coordinates":[103.06586,14.84356],"type":"Point"}
+}

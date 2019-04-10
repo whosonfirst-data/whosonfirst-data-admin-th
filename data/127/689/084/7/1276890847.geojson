@@ -1,0 +1,70 @@
+{
+  "id": 1276890847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.54281,13.72806,101.54281,13.72806",
+    "geom:latitude":13.72806,
+    "geom:longitude":101.54281,
+    "gn:admin1_code":"44.0",
+    "gn:asciiname":"Ban Huai Nam Chon",
+    "gn:country_code":"TH",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7854302,
+    "gn:latitude":13.72806,
+    "gn:longitude":101.54281,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Huai Nam Chon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e49\u0e27\u0e22\u0e19\u0e49\u0e33\u0e42\u0e08\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678797,
+        1108731713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7854302
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"88e2a285add1d378a14f80a36ec049ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731713,
+            "locality_id":1276890847,
+            "region_id":85678797
+        }
+    ],
+    "wof:id":1276890847,
+    "wof:lastmodified":1537704745,
+    "wof:name":"Ban Huai Nam Chon",
+    "wof:parent_id":1108731713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.54281,
+    13.72806,
+    101.54281,
+    13.72806
+],
+  "geometry": {"coordinates":[101.54281,13.72806],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1209339415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.41714,9.36717,98.41714,9.36717",
+    "geom:latitude":9.36717,
+    "geom:longitude":98.41714,
+    "gn:admin1_code":"59.0",
+    "gn:asciiname":"Ban Kamphuan",
+    "gn:country_code":"TH",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1157262,
+    "gn:latitude":9.36717,
+    "gn:longitude":98.41714,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Ban Kamphuan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e01\u0e33\u0e1e\u0e27\u0e19"
+    ],
+    "name:und_x_variant":[
+        "Kam Puam",
+        "Ban Kam Phuan",
+        "Kam Phuam",
+        "Ban Kam Puam",
+        "Ban Kam Phuam",
+        "Ban Kamphuan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1157262
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"570c6b6be1ef700fa5cedcaae50e9f16",
+    "wof:hierarchy":[
+        {
+            "country_id":85632293,
+            "locality_id":1209339415
+        }
+    ],
+    "wof:id":1209339415,
+    "wof:lastmodified":1537703249,
+    "wof:name":"Ban Kamphuan",
+    "wof:parent_id":85632293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.41714,
+    9.36717,
+    98.41714,
+    9.36717
+],
+  "geometry": {"coordinates":[98.41714,9.36717],"type":"Point"}
+}

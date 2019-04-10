@@ -1,0 +1,73 @@
+{
+  "id": 1276353061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.87528,15.72488,104.87528,15.72488",
+    "geom:latitude":15.72488,
+    "geom:longitude":104.87528,
+    "gn:admin1_code":"77.0",
+    "gn:asciiname":"Ban Sao Rik",
+    "gn:country_code":"TH",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8148377,
+    "gn:latitude":15.72488,
+    "gn:longitude":104.87528,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Ban Sao Rik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "Ban Sao Rik"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e2a\u0e32\u0e23\u0e35\u0e01"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678789,
+        1108731703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8148377
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"e50584cf7136f93cae97c8695e6465d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731703,
+            "locality_id":1276353061,
+            "region_id":85678789
+        }
+    ],
+    "wof:id":1276353061,
+    "wof:lastmodified":1537705036,
+    "wof:name":"Ban Sao Rik",
+    "wof:parent_id":1108731703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.87528,
+    15.72488,
+    104.87528,
+    15.72488
+],
+  "geometry": {"coordinates":[104.87528,15.72488],"type":"Point"}
+}

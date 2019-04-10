@@ -1,0 +1,70 @@
+{
+  "id": 1310362447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.72406,15.89014,103.72406,15.89014",
+    "geom:latitude":15.89014,
+    "geom:longitude":103.72406,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Ban Dong Mueang Chok",
+    "gn:country_code":"TH",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8683822,
+    "gn:latitude":15.89014,
+    "gn:longitude":103.72406,
+    "gn:modification_date":"2014-01-18",
+    "gn:name":"Ban Dong Mueang Chok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e14\u0e07\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e08\u0e2d\u0e01"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678845,
+        1108731107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8683822
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"8ef79d7c74c1194991fa78b2bbf5ab7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731107,
+            "locality_id":1310362447,
+            "region_id":85678845
+        }
+    ],
+    "wof:id":1310362447,
+    "wof:lastmodified":1537705883,
+    "wof:name":"Ban Dong Mueang Chok",
+    "wof:parent_id":1108731107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.72406,
+    15.89014,
+    103.72406,
+    15.89014
+],
+  "geometry": {"coordinates":[103.72405999999999,15.89014],"type":"Point"}
+}

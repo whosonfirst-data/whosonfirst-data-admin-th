@@ -1,0 +1,73 @@
+{
+  "id": 1310058559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.64436,14.18853,100.64436,14.18853",
+    "geom:latitude":14.18853,
+    "geom:longitude":100.64436,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Ban Phayom",
+    "gn:country_code":"TH",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1599045,
+    "gn:latitude":14.18853,
+    "gn:longitude":100.64436,
+    "gn:modification_date":"2014-02-06",
+    "gn:name":"Ban Phayom",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "Ban Phayom"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1e\u0e22\u0e2d\u0e21"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678721,
+        1108732053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1599045
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"4e4fe9d46958cee1d223b3a653e061b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108732053,
+            "locality_id":1310058559,
+            "region_id":85678721
+        }
+    ],
+    "wof:id":1310058559,
+    "wof:lastmodified":1537703423,
+    "wof:name":"Ban Phayom",
+    "wof:parent_id":1108732053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.64436,
+    14.18853,
+    100.64436,
+    14.18853
+],
+  "geometry": {"coordinates":[100.64436000000001,14.18853],"type":"Point"}
+}

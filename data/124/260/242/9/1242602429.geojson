@@ -1,0 +1,70 @@
+{
+  "id": 1242602429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.94636,6.62747,100.94636,6.62747",
+    "geom:latitude":6.62747,
+    "geom:longitude":100.94636,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Ban Saba Yoi",
+    "gn:country_code":"TH",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7095926,
+    "gn:latitude":6.62747,
+    "gn:longitude":100.94636,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Saba Yoi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2a\u0e30\u0e1a\u0e49\u0e32\u0e22\u0e49\u0e2d\u0e22"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678603,
+        1108731821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7095926
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"4420405753f2ad4c6095a9232d9b0e24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731821,
+            "locality_id":1242602429,
+            "region_id":85678603
+        }
+    ],
+    "wof:id":1242602429,
+    "wof:lastmodified":1537704423,
+    "wof:name":"Ban Saba Yoi",
+    "wof:parent_id":1108731821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.94636,
+    6.62747,
+    100.94636,
+    6.62747
+],
+  "geometry": {"coordinates":[100.94636,6.62747],"type":"Point"}
+}

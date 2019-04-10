@@ -1,0 +1,74 @@
+{
+  "id": 1293294845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.96208,19.00361,98.96208,19.00361",
+    "geom:latitude":19.00361,
+    "geom:longitude":98.96208,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Ton Kham",
+    "gn:country_code":"TH",
+    "gn:dem":327,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1154154,
+    "gn:latitude":19.00361,
+    "gn:longitude":98.96208,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Ton Kham",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e15\u0e49\u0e19\u0e02\u0e32\u0e21"
+    ],
+    "name:und_x_variant":[
+        "B\u0101n Ton Kam",
+        "Ban Ton Kham"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678619,
+        890467181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1154154
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"7d89b5446a8221b49eb05a9d1892e52f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890467181,
+            "locality_id":1293294845,
+            "region_id":85678619
+        }
+    ],
+    "wof:id":1293294845,
+    "wof:lastmodified":1537703026,
+    "wof:name":"Ban Ton Kham",
+    "wof:parent_id":890467181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.96208,
+    19.00361,
+    98.96208,
+    19.00361
+],
+  "geometry": {"coordinates":[98.96208,19.00361],"type":"Point"}
+}

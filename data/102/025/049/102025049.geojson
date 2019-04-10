@@ -1,0 +1,122 @@
+{
+  "id": 102025049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000262,
+    "geom:area_square_m":3133822.353779,
+    "geom:bbox":"100.378295777,14.4841508315,100.396850668,14.5022287458",
+    "geom:latitude":14.49319,
+    "geom:longitude":100.387573,
+    "gn:latitude":14.45736,
+    "gn:longitude":100.36989,
+    "gn:population":19386,
+    "iso:country":"TH",
+    "lbl:latitude":14.49319,
+    "lbl:longitude":100.387573,
+    "mps:latitude":14.49319,
+    "mps:longitude":100.387573,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bpy_x_preferred":[
+        "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ab\u09be\u0995 \u09b9\u09be\u0987"
+    ],
+    "name:deu_x_preferred":[
+        "Amphoe Phak Hai"
+    ],
+    "name:eng_x_preferred":[
+        "Phak Hai"
+    ],
+    "name:eng_x_variant":[
+        "Amphu Phak Hai",
+        "Ban Phakhai",
+        "Pak Hai"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d1\u30c3\u30af\u30cf\u30a4\u90e1"
+    ],
+    "name:ron_x_preferred":[
+        "Districtul Phak Hai"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e1c\u0e31\u0e01\u0e44\u0e2b\u0e48"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1c\u0e31\u0e01\u0e44\u0e2b\u0e48"
+    ],
+    "name:unk_x_variant":[
+        "Ban Phakhai"
+    ],
+    "name:vie_x_preferred":[
+        "Phak Hai"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Phak Hai K\u016bn"
+    ],
+    "qs:a0":"Thailand",
+    "qs:a1":"*Phra Nakhon Si Ayutthaya",
+    "qs:a1r":"*",
+    "qs:a2":"Phak Hai",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Phak Hai",
+    "qs:loc_alt":"Phak Hai",
+    "qs:loc_lc":"1607865",
+    "qs:pop":0,
+    "qs:source":"Aquattroshapes",
+    "qs:type":"County",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":149,
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678721,
+        890466739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"07cf4352-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":1607865,
+        "gp:id":28341519,
+        "qs:id":1238240,
+        "wd:id":"Q476361"
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"04de28c23d5f4b44c854fa86ac7dc4d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466739,
+            "locality_id":102025049,
+            "region_id":85678721
+        }
+    ],
+    "wof:id":102025049,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527636682,
+    "wof:name":"Phak Hai",
+    "wof:parent_id":890466739,
+    "wof:placetype":"locality",
+    "wof:population":19386,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.37829577704862,
+    14.48415083146801,
+    100.39685066806781,
+    14.50222874577629
+],
+  "geometry": {"coordinates":[[[100.38932796820932,14.48431382258151],[100.38751702107537,14.48415083146801],[100.38570823226776,14.48433518875656],[100.38397110451918,14.48485981125144],[100.38237238822241,14.48570454087182],[100.38097351723154,14.48683691887963],[100.37982824858985,14.48821343268115],[100.37898059679647,14.4897811873745],[100.37846314197968,14.49147993790044],[100.37829577704862,14.49324440378868],[100.37848494209233,14.49500677761102],[100.37902337562078,14.49669933078189],[100.37989039239825,14.49825701656367],[100.38105267738065,14.49961997021317],[100.38246556539558,14.50073581012093],[100.38407475747773,14.50156165142658],[100.38581840792445,14.50206575463287],[100.38762950180534,14.50222874577629],[100.38943843144058,14.50204436119536],[100.39117567265761,14.50151968824095],[100.39277445778909,14.50067489267589],[100.39417334250125,14.49954244327763],[100.39531856766236,14.49816586350862],[100.39616612539247,14.49659805831352],[100.39668344988372,14.49489928044004],[100.39685066806781,14.49313481452195],[100.3966613621965,14.49137246799182],[100.39612281519972,14.4896799652805],[100.39525572958759,14.4881223454434],[100.39409343088356,14.48675946318434],[100.3926805863493,14.48564368924417],[100.39107148833038,14.48481789844034],[100.38932796820932,14.48431382258151]]],"type":"Polygon"}
+}

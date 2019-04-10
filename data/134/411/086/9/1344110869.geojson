@@ -1,0 +1,70 @@
+{
+  "id": 1344110869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.27622,15.10142,101.27622,15.10142",
+    "geom:latitude":15.10142,
+    "geom:longitude":101.27622,
+    "gn:admin1_code":"34",
+    "gn:asciiname":"Ban Lam Phaya Mai",
+    "gn:country_code":"TH",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9198313,
+    "gn:latitude":15.10142,
+    "gn:longitude":101.27622,
+    "gn:modification_date":"2014-07-10",
+    "gn:name":"Ban Lam Phaya Mai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e25\u0e33\u0e1e\u0e0d\u0e32\u0e44\u0e21\u0e49"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678701,
+        890466247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9198313
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"03852d28ec90c8a832dab7c6d8c0970c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466247,
+            "locality_id":1344110869,
+            "region_id":85678701
+        }
+    ],
+    "wof:id":1344110869,
+    "wof:lastmodified":1537706219,
+    "wof:name":"Ban Lam Phaya Mai",
+    "wof:parent_id":890466247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.27622,
+    15.10142,
+    101.27622,
+    15.10142
+],
+  "geometry": {"coordinates":[101.27622,15.10142],"type":"Point"}
+}

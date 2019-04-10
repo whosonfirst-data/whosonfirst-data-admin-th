@@ -1,0 +1,70 @@
+{
+  "id": 1277091185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.13528,12.98944,101.13528,12.98944",
+    "geom:latitude":12.98944,
+    "geom:longitude":101.13528,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Ban Map Yang Phon",
+    "gn:country_code":"TH",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7736106,
+    "gn:latitude":12.98944,
+    "gn:longitude":101.13528,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Map Yang Phon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e21\u0e32\u0e1a\u0e22\u0e32\u0e07\u0e1e\u0e23"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678809,
+        1108731773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7736106
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"13dd6d48b200cdcf408ba94b41aaa20f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731773,
+            "locality_id":1277091185,
+            "region_id":85678809
+        }
+    ],
+    "wof:id":1277091185,
+    "wof:lastmodified":1537704639,
+    "wof:name":"Ban Map Yang Phon",
+    "wof:parent_id":1108731773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.13528,
+    12.98944,
+    101.13528,
+    12.98944
+],
+  "geometry": {"coordinates":[101.13527999999999,12.98944],"type":"Point"}
+}

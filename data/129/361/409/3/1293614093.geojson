@@ -1,0 +1,73 @@
+{
+  "id": 1293614093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.69564,16.38819,104.69564,16.38819",
+    "geom:latitude":16.38819,
+    "geom:longitude":104.69564,
+    "gn:admin1_code":"78.0",
+    "gn:asciiname":"Ban Dong Yen",
+    "gn:country_code":"TH",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1603842,
+    "gn:latitude":16.38819,
+    "gn:longitude":104.69564,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Dong Yen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "Ban Dong Yen"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e14\u0e07\u0e40\u0e22\u0e47\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678881,
+        890467231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1603842
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"4fd9f2abd5af62e2785af2e195b4420e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890467231,
+            "locality_id":1293614093,
+            "region_id":85678881
+        }
+    ],
+    "wof:id":1293614093,
+    "wof:lastmodified":1537703598,
+    "wof:name":"Ban Dong Yen",
+    "wof:parent_id":890467231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.69564,
+    16.38819,
+    104.69564,
+    16.38819
+],
+  "geometry": {"coordinates":[104.69564,16.38819],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1344173781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.74158,6.22081,101.74158,6.22081",
+    "geom:latitude":6.22081,
+    "geom:longitude":101.74158,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Ban Sa Mo",
+    "gn:country_code":"TH",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1613484,
+    "gn:latitude":6.22081,
+    "gn:longitude":101.74158,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Sa Mo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2a\u0e32\u0e40\u0e21\u0e32\u0e30"
+    ],
+    "name:und_x_variant":[
+        "Ban Smo",
+        "Ban Sa Mo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678885,
+        1108731251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1613484
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"515bf539280044311934817d3d128a7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731251,
+            "locality_id":1344173781,
+            "region_id":85678885
+        }
+    ],
+    "wof:id":1344173781,
+    "wof:lastmodified":1537703777,
+    "wof:name":"Ban Sa Mo",
+    "wof:parent_id":1108731251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.74158,
+    6.22081,
+    101.74158,
+    6.22081
+],
+  "geometry": {"coordinates":[101.74158,6.22081],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1327151329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.35758,19.16206,100.35758,19.16206",
+    "geom:latitude":19.16206,
+    "geom:longitude":100.35758,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Ban Sop Kiang",
+    "gn:country_code":"TH",
+    "gn:dem":315,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8333010,
+    "gn:latitude":19.16206,
+    "gn:longitude":100.35758,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Ban Sop Kiang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2a\u0e1a\u0e40\u0e01\u0e35\u0e4b\u0e22\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678637,
+        890466243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8333010
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"d3a021cf1dc0bfdd297eb1cb6b59095c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466243,
+            "locality_id":1327151329,
+            "region_id":85678637
+        }
+    ],
+    "wof:id":1327151329,
+    "wof:lastmodified":1537705411,
+    "wof:name":"Ban Sop Kiang",
+    "wof:parent_id":890466243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.35758,
+    19.16206,
+    100.35758,
+    19.16206
+],
+  "geometry": {"coordinates":[100.35758,19.16206],"type":"Point"}
+}

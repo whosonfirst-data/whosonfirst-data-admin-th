@@ -1,0 +1,71 @@
+{
+  "id": 1276279401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.3,15.15,100.3,15.15",
+    "geom:latitude":15.15,
+    "geom:longitude":100.3,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Ban Na Phrai",
+    "gn:country_code":"TH",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1616160,
+    "gn:latitude":15.15,
+    "gn:longitude":100.3,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Na Phrai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Na Phlai",
+        "Ban Na Phrai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678699,
+        1108731857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1616160
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"d2a42934ff43b495cd3d3c0e8c8d5847",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731857,
+            "locality_id":1276279401,
+            "region_id":85678699
+        }
+    ],
+    "wof:id":1276279401,
+    "wof:lastmodified":1537703958,
+    "wof:name":"Ban Na Phrai",
+    "wof:parent_id":1108731857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.3,
+    15.15,
+    100.3,
+    15.15
+],
+  "geometry": {"coordinates":[100.3,15.15],"type":"Point"}
+}

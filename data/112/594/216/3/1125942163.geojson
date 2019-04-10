@@ -1,0 +1,94 @@
+{
+  "id": 1125942163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.97025,12.8663,100.97025,12.8663",
+    "geom:latitude":12.8663,
+    "geom:longitude":100.97025,
+    "gn:gn_country":"TH",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"TH",
+    "lbl:latitude":12.8663,
+    "lbl:longitude":100.97025,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1a\u0e36\u0e07"
+    ],
+    "name:unk_x_variant":[
+        "Ban Boeng"
+    ],
+    "qs_pg:aaroncc":"TH",
+    "qs_pg:gn_country":"TH",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1620443,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Ban Bung",
+    "qs_pg:name_adm0":"Thailand",
+    "qs_pg:name_adm1":"Chon Buri",
+    "qs_pg:photos":293,
+    "qs_pg:photos_1k":59,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":293,
+    "qs_pg:photos_sr":5,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":183738,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424960,
+    "qs_pg:woe_id":1201563,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424960,
+    "woe:name_adm0":"Thailand",
+    "woe:name_adm1":"Chon Buri",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678625,
+        890466015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1620443,
+        "gp:id":1201563,
+        "qs_pg:id":183738
+    },
+    "wof:country":"TH",
+    "wof:created":1497297155,
+    "wof:geomhash":"c52f6fd2e096e67f9569c99db022504d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466015,
+            "locality_id":1125942163,
+            "region_id":85678625
+        }
+    ],
+    "wof:id":1125942163,
+    "wof:lastmodified":1509402136,
+    "wof:name":"Ban Bung",
+    "wof:parent_id":890466015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.97025,
+    12.8663,
+    100.97025,
+    12.8663
+],
+  "geometry": {"coordinates":[100.97024999999999,12.8663],"type":"Point"}
+}

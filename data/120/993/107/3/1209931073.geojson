@@ -1,0 +1,70 @@
+{
+  "id": 1209931073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.90872,13.60839,99.90872,13.60839",
+    "geom:latitude":13.60839,
+    "geom:longitude":99.90872,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Ban Dong Khilek",
+    "gn:country_code":"TH",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8339156,
+    "gn:latitude":13.60839,
+    "gn:longitude":99.90872,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Ban Dong Khilek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e14\u0e07\u0e02\u0e35\u0e49\u0e40\u0e2b\u0e25\u0e47\u0e01"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678761,
+        890467267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8339156
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"e800c9bda4f4eac9513501fc857660d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890467267,
+            "locality_id":1209931073,
+            "region_id":85678761
+        }
+    ],
+    "wof:id":1209931073,
+    "wof:lastmodified":1537705425,
+    "wof:name":"Ban Dong Khilek",
+    "wof:parent_id":890467267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.90872,
+    13.60839,
+    99.90872,
+    13.60839
+],
+  "geometry": {"coordinates":[99.90872,13.60839],"type":"Point"}
+}

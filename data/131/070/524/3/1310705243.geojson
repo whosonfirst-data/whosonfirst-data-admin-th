@@ -1,0 +1,73 @@
+{
+  "id": 1310705243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.84472,17.80433,97.84472,17.80433",
+    "geom:latitude":17.80433,
+    "geom:longitude":97.84472,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ban Ka Lo Kho",
+    "gn:country_code":"TH",
+    "gn:dem":580,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1119411,
+    "gn:latitude":17.80433,
+    "gn:longitude":97.84472,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Ka Lo Kho",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e01\u0e30\u0e25\u0e2d\u0e42\u0e04\u0e49\u0e30"
+    ],
+    "name:und_x_variant":[
+        "Ban Klo Kho"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678555,
+        1108731937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1119411
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"fa2700ab697d863b4699373d527619dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731937,
+            "locality_id":1310705243,
+            "region_id":85678555
+        }
+    ],
+    "wof:id":1310705243,
+    "wof:lastmodified":1537702979,
+    "wof:name":"Ban Ka Lo Kho",
+    "wof:parent_id":1108731937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.84472,
+    17.80433,
+    97.84472,
+    17.80433
+],
+  "geometry": {"coordinates":[97.84472,17.80433],"type":"Point"}
+}

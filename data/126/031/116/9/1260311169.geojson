@@ -1,0 +1,74 @@
+{
+  "id": 1260311169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.95314,6.91069,99.95314,6.91069",
+    "geom:latitude":6.91069,
+    "geom:longitude":99.95314,
+    "gn:admin1_code":"67.0",
+    "gn:asciiname":"Ban Phang 4",
+    "gn:country_code":"TH",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8065399,
+    "gn:latitude":6.91069,
+    "gn:longitude":99.95314,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Ban Phang 4",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "Ban Phang 4"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1c\u0e31\u0e07 \u0e2a\u0e35\u0e48",
+        "Ban Phang Si"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678595,
+        1108731401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8065399
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"09de59a528084ab20de4edec643b7171",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731401,
+            "locality_id":1260311169,
+            "region_id":85678595
+        }
+    ],
+    "wof:id":1260311169,
+    "wof:lastmodified":1537704973,
+    "wof:name":"Ban Phang 4",
+    "wof:parent_id":1108731401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.95314,
+    6.91069,
+    99.95314,
+    6.91069
+],
+  "geometry": {"coordinates":[99.95314,6.91069],"type":"Point"}
+}

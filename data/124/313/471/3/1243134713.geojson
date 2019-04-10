@@ -1,0 +1,73 @@
+{
+  "id": 1243134713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.83839,17.16586,101.83839,17.16586",
+    "geom:latitude":17.16586,
+    "geom:longitude":101.83839,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Nikon Suk",
+    "gn:country_code":"TH",
+    "gn:dem":304,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8039911,
+    "gn:latitude":17.16586,
+    "gn:longitude":101.83839,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Nikon Suk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "Ban Nikon Suk"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e19\u0e34\u0e01\u0e23\u0e2a\u0e38\u0e02"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678853,
+        890466061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8039911
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"869d9aebfd2a9da40fc3175fdb53a780",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466061,
+            "locality_id":1243134713,
+            "region_id":85678853
+        }
+    ],
+    "wof:id":1243134713,
+    "wof:lastmodified":1537704954,
+    "wof:name":"Ban Nikon Suk",
+    "wof:parent_id":890466061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.83839,
+    17.16586,
+    101.83839,
+    17.16586
+],
+  "geometry": {"coordinates":[101.83839,17.16586],"type":"Point"}
+}

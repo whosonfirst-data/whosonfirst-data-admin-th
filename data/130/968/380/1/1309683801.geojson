@@ -1,0 +1,70 @@
+{
+  "id": 1309683801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.79461,15.72108,100.79461,15.72108",
+    "geom:latitude":15.72108,
+    "geom:longitude":100.79461,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ban Nong Khlet",
+    "gn:country_code":"TH",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8345057,
+    "gn:latitude":15.72108,
+    "gn:longitude":100.79461,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Ban Nong Khlet",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e19\u0e2d\u0e07\u0e40\u0e04\u0e25\u0e47\u0e14"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678715,
+        1108731695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8345057
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"36ee0ad632e5d005fff2de6d96eb5f1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731695,
+            "locality_id":1309683801,
+            "region_id":85678715
+        }
+    ],
+    "wof:id":1309683801,
+    "wof:lastmodified":1537705474,
+    "wof:name":"Ban Nong Khlet",
+    "wof:parent_id":1108731695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.79461,
+    15.72108,
+    100.79461,
+    15.72108
+],
+  "geometry": {"coordinates":[100.79461000000001,15.72108],"type":"Point"}
+}

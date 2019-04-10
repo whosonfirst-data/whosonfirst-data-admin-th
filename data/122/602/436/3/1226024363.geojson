@@ -1,0 +1,70 @@
+{
+  "id": 1226024363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.28206,16.96564,100.28206,16.96564",
+    "geom:latitude":16.96564,
+    "geom:longitude":100.28206,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Ban Tha Kradun Sam",
+    "gn:country_code":"TH",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8538993,
+    "gn:latitude":16.96564,
+    "gn:longitude":100.28206,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Ban Tha Kradun Sam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e17\u0e48\u0e32\u0e01\u0e23\u0e30\u0e14\u0e38\u0e19 \u0e2a\u0e32\u0e21"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678647,
+        890466287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8538993
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"4d93a3e7ae1603fc3f9135e9b5e43b07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466287,
+            "locality_id":1226024363,
+            "region_id":85678647
+        }
+    ],
+    "wof:id":1226024363,
+    "wof:lastmodified":1537705682,
+    "wof:name":"Ban Tha Kradun Sam",
+    "wof:parent_id":890466287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.28206,
+    16.96564,
+    100.28206,
+    16.96564
+],
+  "geometry": {"coordinates":[100.28206,16.96564],"type":"Point"}
+}

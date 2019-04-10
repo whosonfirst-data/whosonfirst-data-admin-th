@@ -1,0 +1,70 @@
+{
+  "id": 1343765423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.28281,19.42733,98.28281,19.42733",
+    "geom:latitude":19.42733,
+    "geom:longitude":98.28281,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ban Mae U-Mong",
+    "gn:country_code":"TH",
+    "gn:dem":1035,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7762056,
+    "gn:latitude":19.42733,
+    "gn:longitude":98.28281,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Mae U-Mong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e41\u0e21\u0e48\u0e2d\u0e38\u0e21\u0e2d\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678555,
+        890465713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7762056
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"bf0e44c6f72a25e1780e77c84c5e3cd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465713,
+            "locality_id":1343765423,
+            "region_id":85678555
+        }
+    ],
+    "wof:id":1343765423,
+    "wof:lastmodified":1537704670,
+    "wof:name":"Ban Mae U-Mong",
+    "wof:parent_id":890465713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.28281,
+    19.42733,
+    98.28281,
+    19.42733
+],
+  "geometry": {"coordinates":[98.28281,19.42733],"type":"Point"}
+}

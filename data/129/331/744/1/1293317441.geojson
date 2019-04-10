@@ -1,0 +1,70 @@
+{
+  "id": 1293317441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.75839,8.3575,99.75839,8.3575",
+    "geom:latitude":8.3575,
+    "geom:longitude":99.75839,
+    "gn:admin1_code":"64.0",
+    "gn:asciiname":"Ban Khiri Kan",
+    "gn:country_code":"TH",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8241330,
+    "gn:latitude":8.3575,
+    "gn:longitude":99.75839,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Ban Khiri Kan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e04\u0e35\u0e23\u0e35\u0e01\u0e31\u0e19\u0e17\u0e23\u0e4c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678565,
+        1108731467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8241330
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"a17e6149b9ced50aab143cc01cd58de6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731467,
+            "locality_id":1293317441,
+            "region_id":85678565
+        }
+    ],
+    "wof:id":1293317441,
+    "wof:lastmodified":1537705228,
+    "wof:name":"Ban Khiri Kan",
+    "wof:parent_id":1108731467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.75839,
+    8.3575,
+    99.75839,
+    8.3575
+],
+  "geometry": {"coordinates":[99.75839000000001,8.3575],"type":"Point"}
+}

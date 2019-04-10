@@ -1,0 +1,70 @@
+{
+  "id": 1343716213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.01475,15.94914,102.01475,15.94914",
+    "geom:latitude":15.94914,
+    "geom:longitude":102.01475,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Ban Khro",
+    "gn:country_code":"TH",
+    "gn:dem":199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1602230,
+    "gn:latitude":15.94914,
+    "gn:longitude":102.01475,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Ban Khro",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e04\u0e23\u0e49\u0e2d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678825,
+        890466029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1602230
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"9b96f14699e54935541d6c4e08184c17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466029,
+            "locality_id":1343716213,
+            "region_id":85678825
+        }
+    ],
+    "wof:id":1343716213,
+    "wof:lastmodified":1537703538,
+    "wof:name":"Ban Khro",
+    "wof:parent_id":890466029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.01475,
+    15.94914,
+    102.01475,
+    15.94914
+],
+  "geometry": {"coordinates":[102.01475000000001,15.94914],"type":"Point"}
+}

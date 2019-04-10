@@ -1,0 +1,70 @@
+{
+  "id": 1260238957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.31008,16.21681,103.31008,16.21681",
+    "geom:latitude":16.21681,
+    "geom:longitude":103.31008,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Ban Tha Prathai",
+    "gn:country_code":"TH",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8730873,
+    "gn:latitude":16.21681,
+    "gn:longitude":103.31008,
+    "gn:modification_date":"2014-03-12",
+    "gn:name":"Ban Tha Prathai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e17\u0e48\u0e32\u0e1b\u0e23\u0e30\u0e17\u0e32\u0e22"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678835,
+        890465665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8730873
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"0d5f3929fedc7896ddc8afc6429cfe7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465665,
+            "locality_id":1260238957,
+            "region_id":85678835
+        }
+    ],
+    "wof:id":1260238957,
+    "wof:lastmodified":1537705977,
+    "wof:name":"Ban Tha Prathai",
+    "wof:parent_id":890465665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.31008,
+    16.21681,
+    103.31008,
+    16.21681
+],
+  "geometry": {"coordinates":[103.31008,16.21681],"type":"Point"}
+}

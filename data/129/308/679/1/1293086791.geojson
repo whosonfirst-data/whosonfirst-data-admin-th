@@ -1,0 +1,73 @@
+{
+  "id": 1293086791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.31125,18.02642,100.31125,18.02642",
+    "geom:latitude":18.02642,
+    "geom:longitude":100.31125,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ban Mae Chua",
+    "gn:country_code":"TH",
+    "gn:dem":464,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8380410,
+    "gn:latitude":18.02642,
+    "gn:longitude":100.31125,
+    "gn:modification_date":"2012-09-08",
+    "gn:name":"Ban Mae Chua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e19\u0e49\u0e33\u0e01\u0e25\u0e32\u0e22"
+    ],
+    "name:und_x_variant":[
+        "Ban Nam Klai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678643,
+        890466801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8380410
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"06915cf7f00c01c111bad79d795d629a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466801,
+            "locality_id":1293086791,
+            "region_id":85678643
+        }
+    ],
+    "wof:id":1293086791,
+    "wof:lastmodified":1537705532,
+    "wof:name":"Ban Mae Chua",
+    "wof:parent_id":890466801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.31125,
+    18.02642,
+    100.31125,
+    18.02642
+],
+  "geometry": {"coordinates":[100.31125,18.02642],"type":"Point"}
+}

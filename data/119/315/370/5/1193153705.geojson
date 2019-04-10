@@ -1,0 +1,70 @@
+{
+  "id": 1193153705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.04306,13.46772,100.04306,13.46772",
+    "geom:latitude":13.46772,
+    "geom:longitude":100.04306,
+    "gn:admin1_code":"54.0",
+    "gn:asciiname":"Ban Khlong Hup Phlap",
+    "gn:country_code":"TH",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7507722,
+    "gn:latitude":13.46772,
+    "gn:longitude":100.04306,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Khlong Hup Phlap",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e04\u0e25\u0e2d\u0e07\u0e2b\u0e38\u0e1a\u0e1e\u0e25\u0e31\u0e1a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678775,
+        890467269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7507722
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"551d3abd5cc963f578584c266d8f3790",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890467269,
+            "locality_id":1193153705,
+            "region_id":85678775
+        }
+    ],
+    "wof:id":1193153705,
+    "wof:lastmodified":1537704537,
+    "wof:name":"Ban Khlong Hup Phlap",
+    "wof:parent_id":890467269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.04306,
+    13.46772,
+    100.04306,
+    13.46772
+],
+  "geometry": {"coordinates":[100.04306,13.46772],"type":"Point"}
+}

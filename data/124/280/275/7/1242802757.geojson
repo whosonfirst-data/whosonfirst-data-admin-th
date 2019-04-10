@@ -1,0 +1,74 @@
+{
+  "id": 1242802757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.23895,17.40645,103.23895,17.40645",
+    "geom:latitude":17.40645,
+    "geom:longitude":103.23895,
+    "gn:admin1_code":"76.0",
+    "gn:asciiname":"Ban Chiang",
+    "gn:country_code":"TH",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1620193,
+    "gn:latitude":17.40645,
+    "gn:longitude":103.23895,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Chiang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e0a\u0e35\u0e22\u0e07"
+    ],
+    "name:und_x_variant":[
+        "Ban Chieng",
+        "Ban Chiang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678869,
+        1108731617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1620193
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"a6a4c2d27921559a825c5440c7ab73a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731617,
+            "locality_id":1242802757,
+            "region_id":85678869
+        }
+    ],
+    "wof:id":1242802757,
+    "wof:lastmodified":1537704214,
+    "wof:name":"Ban Chiang",
+    "wof:parent_id":1108731617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.23895,
+    17.40645,
+    103.23895,
+    17.40645
+],
+  "geometry": {"coordinates":[103.23895,17.40645],"type":"Point"}
+}

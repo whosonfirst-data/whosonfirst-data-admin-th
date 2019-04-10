@@ -1,0 +1,70 @@
+{
+  "id": 1243363065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.75172,18.71772,100.75172,18.71772",
+    "geom:latitude":18.71772,
+    "geom:longitude":100.75172,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Ban Chiang Rai",
+    "gn:country_code":"TH",
+    "gn:dem":202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1620183,
+    "gn:latitude":18.71772,
+    "gn:longitude":100.75172,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Ban Chiang Rai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e0a\u0e35\u0e22\u0e07\u0e23\u0e32\u0e22"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678633,
+        890466613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1620183
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"2cf0091f9a5078e94891594fc7651196",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466613,
+            "locality_id":1243363065,
+            "region_id":85678633
+        }
+    ],
+    "wof:id":1243363065,
+    "wof:lastmodified":1537704213,
+    "wof:name":"Ban Chiang Rai",
+    "wof:parent_id":890466613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.75172,
+    18.71772,
+    100.75172,
+    18.71772
+],
+  "geometry": {"coordinates":[100.75172000000001,18.71772],"type":"Point"}
+}

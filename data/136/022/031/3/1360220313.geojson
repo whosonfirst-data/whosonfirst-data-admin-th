@@ -1,0 +1,73 @@
+{
+  "id": 1360220313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.82753,12.54717,99.82753,12.54717",
+    "geom:latitude":12.54717,
+    "geom:longitude":99.82753,
+    "gn:admin1_code":"57.0",
+    "gn:asciiname":"Ban Tha Ruea",
+    "gn:country_code":"TH",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1117505,
+    "gn:latitude":12.54717,
+    "gn:longitude":99.82753,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Ban Tha Ruea",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e17\u0e48\u0e32\u0e40\u0e23\u0e37\u0e2d"
+    ],
+    "name:und_x_variant":[
+        "Ban Tha Rua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678757,
+        890466853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1117505
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"04926bc03de54e85ca5caf21dfa8f930",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466853,
+            "locality_id":1360220313,
+            "region_id":85678757
+        }
+    ],
+    "wof:id":1360220313,
+    "wof:lastmodified":1537702917,
+    "wof:name":"Ban Tha Ruea",
+    "wof:parent_id":890466853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.82753,
+    12.54717,
+    99.82753,
+    12.54717
+],
+  "geometry": {"coordinates":[99.82753,12.54717],"type":"Point"}
+}

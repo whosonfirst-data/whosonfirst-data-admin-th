@@ -1,0 +1,70 @@
+{
+  "id": 1276611749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.60528,16.83567,103.60528,16.83567",
+    "geom:latitude":16.83567,
+    "geom:longitude":103.60528,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Ban Nong Bon",
+    "gn:country_code":"TH",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8653729,
+    "gn:latitude":16.83567,
+    "gn:longitude":103.60528,
+    "gn:modification_date":"2013-12-17",
+    "gn:name":"Ban Nong Bon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e19\u0e2d\u0e07\u0e1a\u0e2d\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678831,
+        1108802615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8653729
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"7f49a5a983c08bc4ec3c0535ce776c9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802615,
+            "locality_id":1276611749,
+            "region_id":85678831
+        }
+    ],
+    "wof:id":1276611749,
+    "wof:lastmodified":1537705774,
+    "wof:name":"Ban Nong Bon",
+    "wof:parent_id":1108802615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.60528,
+    16.83567,
+    103.60528,
+    16.83567
+],
+  "geometry": {"coordinates":[103.60527999999999,16.83567],"type":"Point"}
+}

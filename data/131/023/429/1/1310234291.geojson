@@ -1,0 +1,67 @@
+{
+  "id": 1310234291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.81667,13.35,99.81667,13.35",
+    "geom:latitude":13.35,
+    "geom:longitude":99.81667,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Ban Wang Katha",
+    "gn:country_code":"TH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1154082,
+    "gn:latitude":13.35,
+    "gn:longitude":99.81667,
+    "gn:modification_date":"1994-04-06",
+    "gn:name":"Ban Wang Katha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678761,
+        890467423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1154082
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"eab125fe8af09b06e6c11fa22bfc26d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890467423,
+            "locality_id":1310234291,
+            "region_id":85678761
+        }
+    ],
+    "wof:id":1310234291,
+    "wof:lastmodified":1536810389,
+    "wof:name":"Ban Wang Katha",
+    "wof:parent_id":890467423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.81667,
+    13.35,
+    99.81667,
+    13.35
+],
+  "geometry": {"coordinates":[99.81667,13.35],"type":"Point"}
+}

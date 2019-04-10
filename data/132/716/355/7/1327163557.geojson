@@ -1,0 +1,74 @@
+{
+  "id": 1327163557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.37036,12.51117,102.37036,12.51117",
+    "geom:latitude":12.51117,
+    "geom:longitude":102.37036,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"Ban Pranit",
+    "gn:country_code":"TH",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1613904,
+    "gn:latitude":12.51117,
+    "gn:longitude":102.37036,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Pranit",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1b\u0e23\u0e30\u0e13\u0e35\u0e15"
+    ],
+    "name:und_x_variant":[
+        "Pranit",
+        "Ban Pranit"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678813,
+        1108731367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1613904
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"99437c43fc42d7c7a69c4a2062babfaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731367,
+            "locality_id":1327163557,
+            "region_id":85678813
+        }
+    ],
+    "wof:id":1327163557,
+    "wof:lastmodified":1537703805,
+    "wof:name":"Ban Pranit",
+    "wof:parent_id":1108731367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.37036,
+    12.51117,
+    102.37036,
+    12.51117
+],
+  "geometry": {"coordinates":[102.37036000000001,12.51117],"type":"Point"}
+}

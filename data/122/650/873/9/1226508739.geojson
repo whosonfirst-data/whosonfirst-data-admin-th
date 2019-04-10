@@ -1,0 +1,73 @@
+{
+  "id": 1226508739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.08694,17.90722,103.08694,17.90722",
+    "geom:latitude":17.90722,
+    "geom:longitude":103.08694,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Hat Chang",
+    "gn:cc2":"TH",
+    "gn:country_code":"TH",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1619150,
+    "gn:latitude":17.90722,
+    "gn:longitude":103.08694,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Hat Chang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Tongam",
+        "Ban Tangam",
+        "Ban Hat Chang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678859,
+        890465905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1619150
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"81da7257bdd0430b82dae263dd9da74b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465905,
+            "locality_id":1226508739,
+            "region_id":85678859
+        }
+    ],
+    "wof:id":1226508739,
+    "wof:lastmodified":1537704174,
+    "wof:name":"Ban Hat Chang",
+    "wof:parent_id":890465905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.08694,
+    17.90722000000001,
+    103.08694,
+    17.90722000000001
+],
+  "geometry": {"coordinates":[103.08694,17.90722000000001],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1277075051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.88636,20.37383,99.88636,20.37383",
+    "geom:latitude":20.37383,
+    "geom:longitude":99.88636,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ban Chong",
+    "gn:country_code":"TH",
+    "gn:dem":385,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1157996,
+    "gn:latitude":20.37383,
+    "gn:longitude":99.88636,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Chong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e08\u0e49\u0e2d\u0e07"
+    ],
+    "name:und_x_variant":[
+        "Jaung",
+        "B\u0101n Jaung",
+        "Ban Chong",
+        "Ban Chong (1)"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678617,
+        1108802651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1157996
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"d12e2c28014649fe7e4ff94f7d8745b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802651,
+            "locality_id":1277075051,
+            "region_id":85678617
+        }
+    ],
+    "wof:id":1277075051,
+    "wof:lastmodified":1537703289,
+    "wof:name":"Ban Chong",
+    "wof:parent_id":1108802651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.88636,
+    20.37383,
+    99.88636,
+    20.37383
+],
+  "geometry": {"coordinates":[99.88636,20.37383],"type":"Point"}
+}

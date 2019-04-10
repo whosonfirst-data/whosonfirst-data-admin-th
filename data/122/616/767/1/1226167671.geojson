@@ -1,0 +1,70 @@
+{
+  "id": 1226167671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.52156,17.26575,102.52156,17.26575",
+    "geom:latitude":17.26575,
+    "geom:longitude":102.52156,
+    "gn:admin1_code":"79.0",
+    "gn:asciiname":"Ban Ang Burapha",
+    "gn:country_code":"TH",
+    "gn:dem":268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8460669,
+    "gn:latitude":17.26575,
+    "gn:longitude":102.52156,
+    "gn:modification_date":"2013-02-10",
+    "gn:name":"Ban Ang Burapha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2d\u0e48\u0e32\u0e07\u0e1a\u0e39\u0e23\u0e1e\u0e32"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678871,
+        1108802677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8460669
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"c5a925e1dba7d1762824b290e0eb7348",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802677,
+            "locality_id":1226167671,
+            "region_id":85678871
+        }
+    ],
+    "wof:id":1226167671,
+    "wof:lastmodified":1537705650,
+    "wof:name":"Ban Ang Burapha",
+    "wof:parent_id":1108802677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.52156,
+    17.26575,
+    102.52156,
+    17.26575
+],
+  "geometry": {"coordinates":[102.52155999999999,17.26575],"type":"Point"}
+}

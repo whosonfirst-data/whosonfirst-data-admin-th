@@ -1,0 +1,70 @@
+{
+  "id": 1276635827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.84667,16.62714,99.84667,16.62714",
+    "geom:latitude":16.62714,
+    "geom:longitude":99.84667,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Ban Khok Matum",
+    "gn:country_code":"TH",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8387799,
+    "gn:latitude":16.62714,
+    "gn:longitude":99.84667,
+    "gn:modification_date":"2012-09-08",
+    "gn:name":"Ban Khok Matum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e42\u0e04\u0e01\u0e21\u0e30\u0e15\u0e39\u0e21"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678665,
+        1108731463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8387799
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"72abfa2cafe0cce674f3e4a521c62dd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731463,
+            "locality_id":1276635827,
+            "region_id":85678665
+        }
+    ],
+    "wof:id":1276635827,
+    "wof:lastmodified":1537705564,
+    "wof:name":"Ban Khok Matum",
+    "wof:parent_id":1108731463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.84667,
+    16.62714,
+    99.84667,
+    16.62714
+],
+  "geometry": {"coordinates":[99.84667,16.62714],"type":"Point"}
+}

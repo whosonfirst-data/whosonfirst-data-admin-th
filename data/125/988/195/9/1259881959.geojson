@@ -1,0 +1,76 @@
+{
+  "id": 1259881959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.91181,18.67167,98.91181,18.67167",
+    "geom:latitude":18.67167,
+    "geom:longitude":98.91181,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Buak Ha",
+    "gn:country_code":"TH",
+    "gn:dem":308,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1155273,
+    "gn:latitude":18.67167,
+    "gn:longitude":98.91181,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Ban Buak Ha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1a\u0e27\u0e01\u0e2b\u0e49\u0e32"
+    ],
+    "name:tha_x_variant":[
+        "Ban Buak Ha"
+    ],
+    "name:und_x_variant":[
+        "Ban Phae Buak Ha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678619,
+        1108802611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1155273
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"b0424f8633ad47f0f6f2b641a76c550f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802611,
+            "locality_id":1259881959,
+            "region_id":85678619
+        }
+    ],
+    "wof:id":1259881959,
+    "wof:lastmodified":1537703105,
+    "wof:name":"Ban Buak Ha",
+    "wof:parent_id":1108802611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.91181,
+    18.67167,
+    98.91181,
+    18.67167
+],
+  "geometry": {"coordinates":[98.91181,18.67167],"type":"Point"}
+}

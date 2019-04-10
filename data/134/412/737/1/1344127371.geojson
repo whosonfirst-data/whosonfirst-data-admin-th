@@ -1,0 +1,70 @@
+{
+  "id": 1344127371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.19819,15.42375,101.19819,15.42375",
+    "geom:latitude":15.42375,
+    "geom:longitude":101.19819,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ban Khok Sakae Lat",
+    "gn:country_code":"TH",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1884578,
+    "gn:latitude":15.42375,
+    "gn:longitude":101.19819,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"Ban Khok Sakae Lat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e42\u0e04\u0e01\u0e2a\u0e30\u0e41\u0e01\u0e25\u0e32\u0e14"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678673,
+        1108731907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1884578
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"b81b0c40199f36e84d3a3b2f610f994a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731907,
+            "locality_id":1344127371,
+            "region_id":85678673
+        }
+    ],
+    "wof:id":1344127371,
+    "wof:lastmodified":1537704270,
+    "wof:name":"Ban Khok Sakae Lat",
+    "wof:parent_id":1108731907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.19819,
+    15.42375,
+    101.19819,
+    15.42375
+],
+  "geometry": {"coordinates":[101.19819,15.42375],"type":"Point"}
+}

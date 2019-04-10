@@ -1,0 +1,61 @@
+{
+  "id": 1209629555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.08333,6.6,100.08333,6.6",
+    "geom:latitude":6.6,
+    "geom:longitude":100.08333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"satun",
+    "gn:country_code":"TH",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1598690,
+    "gn:latitude":6.6,
+    "gn:longitude":100.08333,
+    "gn:modification_date":"2007-01-14",
+    "gn:name":"satun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1598690
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"3582072255c49b41a7eff129d6c2fc64",
+    "wof:hierarchy":[
+        {
+            "country_id":85632293,
+            "locality_id":1209629555
+        }
+    ],
+    "wof:id":1209629555,
+    "wof:lastmodified":1536281236,
+    "wof:name":"satun",
+    "wof:parent_id":85632293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.08333,
+    6.6,
+    100.08333,
+    6.6
+],
+  "geometry": {"coordinates":[100.08333,6.6],"type":"Point"}
+}

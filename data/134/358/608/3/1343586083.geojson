@@ -1,0 +1,65 @@
+{
+  "id": 1343586083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.0,7.9,99.0,7.9",
+    "geom:latitude":7.9,
+    "geom:longitude":99.0,
+    "gn:admin1_code":"63.0",
+    "gn:asciiname":"Ban Ko Nok Khuam",
+    "gn:country_code":"TH",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1119369,
+    "gn:latitude":7.9,
+    "gn:longitude":99.0,
+    "gn:modification_date":"1994-04-10",
+    "gn:name":"Ban Ko Nok Khuam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632293,
+        890466649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1119369
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"4a4ec6f5ff87a03ddafd50b88d78d13c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632293,
+            "county_id":890466649,
+            "locality_id":1343586083,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343586083,
+    "wof:lastmodified":1537059880,
+    "wof:name":"Ban Ko Nok Khuam",
+    "wof:parent_id":890466649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.0,
+    7.9,
+    99.0,
+    7.9
+],
+  "geometry": {"coordinates":[99.0,7.9],"type":"Point"}
+}

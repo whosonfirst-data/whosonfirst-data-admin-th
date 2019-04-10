@@ -1,0 +1,72 @@
+{
+  "id": 1293299579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.93639,20.38,99.93639,20.38",
+    "geom:latitude":20.38,
+    "geom:longitude":99.93639,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ban San Thanon (2)",
+    "gn:cc2":"TH",
+    "gn:country_code":"TH",
+    "gn:dem":377,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1464226,
+    "gn:latitude":20.38,
+    "gn:longitude":99.93639,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ban San Thanon (2)",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban San Thanon",
+        "Ban San Thanon (2)"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678617,
+        1108802651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1464226
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"7e27f361cfbaf958fa47d74a72ecd73c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802651,
+            "locality_id":1293299579,
+            "region_id":85678617
+        }
+    ],
+    "wof:id":1293299579,
+    "wof:lastmodified":1537703355,
+    "wof:name":"Ban San Thanon (2)",
+    "wof:parent_id":1108802651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.93639,
+    20.38,
+    99.93639,
+    20.38
+],
+  "geometry": {"coordinates":[99.93639,20.38],"type":"Point"}
+}

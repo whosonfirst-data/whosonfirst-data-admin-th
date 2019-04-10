@@ -1,0 +1,70 @@
+{
+  "id": 1293627703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.40808,14.95226,101.40808,14.95226",
+    "geom:latitude":14.95226,
+    "geom:longitude":101.40808,
+    "gn:admin1_code":"37",
+    "gn:asciiname":"Ban Sap Takong",
+    "gn:country_code":"TH",
+    "gn:dem":248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9029191,
+    "gn:latitude":14.95226,
+    "gn:longitude":101.40808,
+    "gn:modification_date":"2014-06-07",
+    "gn:name":"Ban Sap Takong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e0b\u0e31\u0e1a\u0e15\u0e30\u0e01\u0e2d\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678841,
+        890466789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9029191
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"39c954293501e83a1b0a266fb6a82e03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466789,
+            "locality_id":1293627703,
+            "region_id":85678841
+        }
+    ],
+    "wof:id":1293627703,
+    "wof:lastmodified":1537706116,
+    "wof:name":"Ban Sap Takong",
+    "wof:parent_id":890466789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.40808,
+    14.95226,
+    101.40808,
+    14.95226
+],
+  "geometry": {"coordinates":[101.40808,14.95226],"type":"Point"}
+}

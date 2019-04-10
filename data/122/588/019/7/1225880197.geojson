@@ -1,0 +1,73 @@
+{
+  "id": 1225880197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.92217,6.80239,99.92217,6.80239",
+    "geom:latitude":6.80239,
+    "geom:longitude":99.92217,
+    "gn:admin1_code":"67.0",
+    "gn:asciiname":"Ban Rai Thon",
+    "gn:country_code":"TH",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8065340,
+    "gn:latitude":6.80239,
+    "gn:longitude":99.92217,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Ban Rai Thon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "Ban Rai Thon"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e44\u0e23\u0e48\u0e17\u0e2d\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678595,
+        1108731979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8065340
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"0163fc47d6cf070bc3556eee8bd6f3ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731979,
+            "locality_id":1225880197,
+            "region_id":85678595
+        }
+    ],
+    "wof:id":1225880197,
+    "wof:lastmodified":1537704969,
+    "wof:name":"Ban Rai Thon",
+    "wof:parent_id":1108731979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.92217,
+    6.80239,
+    99.92217,
+    6.80239
+],
+  "geometry": {"coordinates":[99.92216999999999,6.80239],"type":"Point"}
+}

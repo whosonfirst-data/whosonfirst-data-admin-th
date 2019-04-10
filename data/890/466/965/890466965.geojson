@@ -1,0 +1,121 @@
+{
+  "id": 890466965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0021,
+    "geom:area_square_m":25223100.777561,
+    "geom:bbox":"100.552618789,13.6892762336,100.613402345,13.7497759111",
+    "geom:latitude":13.721332,
+    "geom:longitude":100.58396,
+    "gn:country":"TH",
+    "gn:fcode":"ADM2",
+    "gn:pop":0,
+    "gp:adm0":23424960,
+    "iso:country":"TH",
+    "lbl:latitude":13.722363,
+    "lbl:longitude":100.580967,
+    "meso:admin1_en":"KRUNG THEP",
+    "meso:diss_me":"Khlong ToeiKRUNG THEP",
+    "meso:gadm_admin":"Khlong Toey",
+    "meso:gadm_hasc2":"TH.BM.KH",
+    "meso:gaul_admin":"Khlong Toei",
+    "meso:id":"220",
+    "meso:loc_id_alt":"1033",
+    "meso:local_id":"3233",
+    "meso:name_en":"Khlong Toei",
+    "meso:name_local":"\u0e40\u0e02\u0e15\u0e04\u0e25\u0e2d\u0e07\u0e40\u0e15\u0e22",
+    "meso:source":"AOTM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Khlong Toei"
+    ],
+    "name:eng_x_variant":[
+        "Khlong Toei",
+        "Khlong Toey"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e02\u0e15\u0e04\u0e25\u0e2d\u0e07\u0e40\u0e15\u0e22"
+    ],
+    "name:tha_x_variant":[
+        "\u0e04\u0e25\u0e2d\u0e07\u0e40\u0e15\u0e22",
+        "\u0e40\u0e02\u0e15\u0e04\u0e25\u0e2d\u0e07\u0e40\u0e15\u0e22"
+    ],
+    "name:unk_x_variant":[
+        "Klong Toey"
+    ],
+    "qs:name":"Khlong Toei",
+    "qs:name_adm0":"Thailand",
+    "qs:name_adm1":"Bangkok",
+    "qs:photos_9k":35,
+    "qs:photos_9r":15,
+    "qs:photos_all":7862,
+    "qs:photos_sr":0,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2000-04-01",
+    "statoids:area_km":"13",
+    "statoids:as_of_date":"2000-04-01",
+    "statoids:capital":"",
+    "statoids:country":"TH",
+    "statoids:hasc":"TH.BM",
+    "statoids:name":"Khlong Toei",
+    "statoids:population":"159527",
+    "statoids:statoid":"TH.BM.KH",
+    "statoids:timezone":"7",
+    "statoids:type":"district",
+    "wd:wordcount":797,
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1609867,
+        "gp:id":28341388,
+        "hasc:id":"TH.BM.KH",
+        "qs:id":1151400,
+        "wd:id":"Q1403340",
+        "wk:page":"Khlong Toei District"
+    },
+    "wof:country":"TH",
+    "wof:created":1469053606,
+    "wof:geomhash":"719eeb5e65d5cc1859e5bcae9594084e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466965,
+            "region_id":85678739
+        }
+    ],
+    "wof:id":890466965,
+    "wof:lastmodified":1536617427,
+    "wof:name":"Khlong Toei",
+    "wof:parent_id":85678739,
+    "wof:placetype":"county",
+    "wof:placetype_local":"district",
+    "wof:population":159527,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:shortcode":"KH",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.55261878905421,
+    13.68927623363891,
+    100.6134023445619,
+    13.74977591114443
+],
+  "geometry": {"coordinates":[[[100.55827901533731,13.7483594756751],[100.55952556839215,13.74977591114443],[100.57200168384853,13.73885314501038],[100.58723931732344,13.74494426456623],[100.59170996008676,13.73730416220819],[100.60836338398848,13.73891076471073],[100.61046352659076,13.72727864040555],[100.61340234456191,13.72499257476054],[100.61298517966942,13.71491753006801],[100.60522143888872,13.70787810260988],[100.60599543732225,13.70552331925334],[100.59480005296385,13.68927623363891],[100.58494959586022,13.70464811632342],[100.57498368925843,13.6987454155573],[100.56595103004837,13.70941910760591],[100.55715243874643,13.7101201277639],[100.55261878905421,13.7133122165344],[100.55751108125575,13.72088500434139],[100.56011149039021,13.72678016143659],[100.56019202698509,13.72902874230557],[100.55620950271752,13.73360636966902],[100.55827901533731,13.7483594756751]]],"type":"Polygon"}
+}

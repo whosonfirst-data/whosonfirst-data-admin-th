@@ -1,0 +1,74 @@
+{
+  "id": 1343375855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.98122,13.32833,100.98122,13.32833",
+    "geom:latitude":13.32833,
+    "geom:longitude":100.98122,
+    "gn:admin1_code":"46.0",
+    "gn:asciiname":"Ban Kradon",
+    "gn:country_code":"TH",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1617379,
+    "gn:latitude":13.32833,
+    "gn:longitude":100.98122,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Kradon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e01\u0e23\u0e30\u0e42\u0e14\u0e19"
+    ],
+    "name:und_x_variant":[
+        "Ban Kadon",
+        "Ban Kradon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678795,
+        1108802665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1617379
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"3647a95e10e3f9f53178dc57b13236f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802665,
+            "locality_id":1343375855,
+            "region_id":85678795
+        }
+    ],
+    "wof:id":1343375855,
+    "wof:lastmodified":1537704046,
+    "wof:name":"Ban Kradon",
+    "wof:parent_id":1108802665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.98122,
+    13.32833,
+    100.98122,
+    13.32833
+],
+  "geometry": {"coordinates":[100.98121999999999,13.32833],"type":"Point"}
+}

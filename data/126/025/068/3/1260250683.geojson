@@ -1,0 +1,70 @@
+{
+  "id": 1260250683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.82436,16.61469,103.82436,16.61469",
+    "geom:latitude":16.61469,
+    "geom:longitude":103.82436,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Ban Plueai Hom",
+    "gn:country_code":"TH",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8653832,
+    "gn:latitude":16.61469,
+    "gn:longitude":103.82436,
+    "gn:modification_date":"2013-12-17",
+    "gn:name":"Ban Plueai Hom",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e1b\u0e25\u0e37\u0e2d\u0e22\u0e2b\u0e2d\u0e21"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678831,
+        1108731557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8653832
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"928a88995707a890d7586e4cfaa2bdb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731557,
+            "locality_id":1260250683,
+            "region_id":85678831
+        }
+    ],
+    "wof:id":1260250683,
+    "wof:lastmodified":1537705774,
+    "wof:name":"Ban Plueai Hom",
+    "wof:parent_id":1108731557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.82436,
+    16.61469,
+    103.82436,
+    16.61469
+],
+  "geometry": {"coordinates":[103.82436,16.61469],"type":"Point"}
+}

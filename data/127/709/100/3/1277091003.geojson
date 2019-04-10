@@ -1,0 +1,73 @@
+{
+  "id": 1277091003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.03017,16.12544,105.03017,16.12544",
+    "geom:latitude":16.12544,
+    "geom:longitude":105.03017,
+    "gn:admin1_code":"77.0",
+    "gn:asciiname":"Ban Hin Khan",
+    "gn:country_code":"TH",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1603584,
+    "gn:latitude":16.12544,
+    "gn:longitude":105.03017,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Hin Khan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "Ban Hin Khan"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e34\u0e19\u0e02\u0e31\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678789,
+        1108731229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1603584
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"349262e2f5d713d1a580e65da451c1a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731229,
+            "locality_id":1277091003,
+            "region_id":85678789
+        }
+    ],
+    "wof:id":1277091003,
+    "wof:lastmodified":1537703589,
+    "wof:name":"Ban Hin Khan",
+    "wof:parent_id":1108731229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.03017,
+    16.12544,
+    105.03017,
+    16.12544
+],
+  "geometry": {"coordinates":[105.03017,16.12544],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1343525915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.94828,17.6866,103.94828,17.6866",
+    "geom:latitude":17.6866,
+    "geom:longitude":103.94828,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Khao Paeng",
+    "gn:country_code":"TH",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1618432,
+    "gn:latitude":17.6866,
+    "gn:longitude":103.94828,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Khao Paeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e02\u0e49\u0e32\u0e27\u0e41\u0e1b\u0e49\u0e07"
+    ],
+    "name:und_x_variant":[
+        "Ban Khao Haeng",
+        "Ban Khao Paeng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678863,
+        1108731099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1618432
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"e98a0ab2a1d6dea787f449d599002c6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731099,
+            "locality_id":1343525915,
+            "region_id":85678863
+        }
+    ],
+    "wof:id":1343525915,
+    "wof:lastmodified":1537704123,
+    "wof:name":"Ban Khao Paeng",
+    "wof:parent_id":1108731099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.94828,
+    17.6866,
+    103.94828,
+    17.6866
+],
+  "geometry": {"coordinates":[103.94828,17.6866],"type":"Point"}
+}

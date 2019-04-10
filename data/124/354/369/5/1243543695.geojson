@@ -1,0 +1,70 @@
+{
+  "id": 1243543695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.99103,17.33964,99.99103,17.33964",
+    "geom:latitude":17.33964,
+    "geom:longitude":99.99103,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ban Bueng Phra Yot",
+    "gn:country_code":"TH",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8541430,
+    "gn:latitude":17.33964,
+    "gn:longitude":99.99103,
+    "gn:modification_date":"2013-06-06",
+    "gn:name":"Ban Bueng Phra Yot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1a\u0e36\u0e07\u0e1e\u0e23\u0e30\u0e22\u0e2d\u0e14"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678651,
+        1108802749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8541430
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"992ee2ea22a2aa66950c805cefb32fbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802749,
+            "locality_id":1243543695,
+            "region_id":85678651
+        }
+    ],
+    "wof:id":1243543695,
+    "wof:lastmodified":1537705708,
+    "wof:name":"Ban Bueng Phra Yot",
+    "wof:parent_id":1108802749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.99103,
+    17.33964,
+    99.99103,
+    17.33964
+],
+  "geometry": {"coordinates":[99.99102999999999,17.33964],"type":"Point"}
+}

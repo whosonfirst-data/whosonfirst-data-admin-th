@@ -1,0 +1,74 @@
+{
+  "id": 1327358757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.13358,8.52917,99.13358,8.52917",
+    "geom:latitude":8.52917,
+    "geom:longitude":99.13358,
+    "gn:admin1_code":"60.0",
+    "gn:asciiname":"Ban Khon Pho",
+    "gn:country_code":"TH",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1156919,
+    "gn:latitude":8.52917,
+    "gn:longitude":99.13358,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Ban Khon Pho",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e02\u0e2d\u0e19\u0e1e\u0e2d"
+    ],
+    "name:und_x_variant":[
+        "Ban Khuan Phu",
+        "Ban Khon Pho"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678581,
+        1108731743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1156919
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"9252126de7d517c313e8ce5bfe009deb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731743,
+            "locality_id":1327358757,
+            "region_id":85678581
+        }
+    ],
+    "wof:id":1327358757,
+    "wof:lastmodified":1537703227,
+    "wof:name":"Ban Khon Pho",
+    "wof:parent_id":1108731743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.13358,
+    8.52917,
+    99.13358,
+    8.52917
+],
+  "geometry": {"coordinates":[99.13357999999999,8.52917],"type":"Point"}
+}

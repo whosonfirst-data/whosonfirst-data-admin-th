@@ -1,0 +1,74 @@
+{
+  "id": 1276191553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.63931,17.75328,102.63931,17.75328",
+    "geom:latitude":17.75328,
+    "geom:longitude":102.63931,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Don Daeng",
+    "gn:country_code":"TH",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1619968,
+    "gn:latitude":17.75328,
+    "gn:longitude":102.63931,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Don Daeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e14\u0e2d\u0e19\u0e41\u0e14\u0e07"
+    ],
+    "name:und_x_variant":[
+        "Daun Daeng",
+        "Ban Don Daeng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678859,
+        890465741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1619968
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"9726c45aafd4ca06c8e5dc943cd50713",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465741,
+            "locality_id":1276191553,
+            "region_id":85678859
+        }
+    ],
+    "wof:id":1276191553,
+    "wof:lastmodified":1537704198,
+    "wof:name":"Ban Don Daeng",
+    "wof:parent_id":890465741,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.63931,
+    17.75328,
+    102.63931,
+    17.75328
+],
+  "geometry": {"coordinates":[102.63930999999999,17.75328],"type":"Point"}
+}

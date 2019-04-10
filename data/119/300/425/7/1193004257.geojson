@@ -1,0 +1,70 @@
+{
+  "id": 1193004257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.54203,16.12247,100.54203,16.12247",
+    "geom:latitude":16.12247,
+    "geom:longitude":100.54203,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Ban Wang Krachan",
+    "gn:country_code":"TH",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8452049,
+    "gn:latitude":16.12247,
+    "gn:longitude":100.54203,
+    "gn:modification_date":"2013-02-10",
+    "gn:name":"Ban Wang Krachan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e27\u0e31\u0e07\u0e01\u0e23\u0e30\u0e0a\u0e31\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678669,
+        890467123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8452049
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"d119ae2f4e33c8472fdfac0552792803",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890467123,
+            "locality_id":1193004257,
+            "region_id":85678669
+        }
+    ],
+    "wof:id":1193004257,
+    "wof:lastmodified":1537705613,
+    "wof:name":"Ban Wang Krachan",
+    "wof:parent_id":890467123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.54203,
+    16.12247,
+    100.54203,
+    16.12247
+],
+  "geometry": {"coordinates":[100.54203,16.12247],"type":"Point"}
+}

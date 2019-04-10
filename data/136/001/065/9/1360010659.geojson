@@ -1,0 +1,71 @@
+{
+  "id": 1360010659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.06711,7.67528,99.06711,7.67528",
+    "geom:latitude":7.67528,
+    "geom:longitude":99.06711,
+    "gn:admin1_code":"63.0",
+    "gn:asciiname":"Ban Lang Sot",
+    "gn:country_code":"TH",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1158221,
+    "gn:latitude":7.67528,
+    "gn:longitude":99.06711,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Ban Lang Sot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e25\u0e31\u0e07\u0e2a\u0e2d\u0e14"
+    ],
+    "name:und_x_variant":[
+        "Ban Bang Suat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632293,
+        890465695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1158221
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"29ecea3b147770338938ac992f38ba8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632293,
+            "county_id":890465695,
+            "locality_id":1360010659,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1360010659,
+    "wof:lastmodified":1537703305,
+    "wof:name":"Ban Lang Sot",
+    "wof:parent_id":890465695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.06711,
+    7.67528,
+    99.06711,
+    7.67528
+],
+  "geometry": {"coordinates":[99.06711,7.67528],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1276518459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.06094,16.38122,100.06094,16.38122",
+    "geom:latitude":16.38122,
+    "geom:longitude":100.06094,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Ban Nong Ta Chan",
+    "gn:country_code":"TH",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8451776,
+    "gn:latitude":16.38122,
+    "gn:longitude":100.06094,
+    "gn:modification_date":"2013-02-10",
+    "gn:name":"Ban Nong Ta Chan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e19\u0e2d\u0e07\u0e15\u0e32\u0e08\u0e31\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678669,
+        1108731831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8451776
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"69c4e17c6dfc9f595fd8f3270156921a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731831,
+            "locality_id":1276518459,
+            "region_id":85678669
+        }
+    ],
+    "wof:id":1276518459,
+    "wof:lastmodified":1537705609,
+    "wof:name":"Ban Nong Ta Chan",
+    "wof:parent_id":1108731831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.06094,
+    16.38122000000001,
+    100.06094,
+    16.38122000000001
+],
+  "geometry": {"coordinates":[100.06094,16.38122000000001],"type":"Point"}
+}

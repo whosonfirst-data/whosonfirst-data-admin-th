@@ -1,0 +1,64 @@
+{
+  "id": 890466621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.176667,10.497631,99.176667,10.497631",
+    "geom:latitude":10.497631,
+    "geom:longitude":99.176667,
+    "gp:adm0":23424960,
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "qs:name":"Tak Daet",
+    "qs:name_adm0":"Thailand",
+    "qs:name_adm1":"Chumphon",
+    "qs:photos":49,
+    "qs:photos_1k":10,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":49,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55947713,
+        "qs:id":1346005
+    },
+    "wof:country":"TH",
+    "wof:created":1469053586,
+    "wof:geomhash":"46113505a07e7a051f241bc06c65b118",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "locality_id":890466621,
+            "region_id":85678559
+        }
+    ],
+    "wof:id":890466621,
+    "wof:lastmodified":1469053586,
+    "wof:name":"Tak Daet",
+    "wof:parent_id":85678559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.176667,
+    10.497631,
+    99.176667,
+    10.497631
+],
+  "geometry": {"coordinates":[99.17666699999999,10.497631],"type":"Point"}
+}

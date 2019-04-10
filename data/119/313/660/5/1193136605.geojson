@@ -1,0 +1,67 @@
+{
+  "id": 1193136605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.06667,19.23333,101.06667,19.23333",
+    "geom:latitude":19.23333,
+    "geom:longitude":101.06667,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Ban Toei",
+    "gn:country_code":"TH",
+    "gn:dem":863,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1597468,
+    "gn:latitude":19.23333,
+    "gn:longitude":101.06667,
+    "gn:modification_date":"1994-04-10",
+    "gn:name":"Ban Toei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678633,
+        890466167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1597468
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"b9971b94baf75fd4512a5f36c2ff2f4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466167,
+            "locality_id":1193136605,
+            "region_id":85678633
+        }
+    ],
+    "wof:id":1193136605,
+    "wof:lastmodified":1536370021,
+    "wof:name":"Ban Toei",
+    "wof:parent_id":890466167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.06667,
+    19.23333,
+    101.06667,
+    19.23333
+],
+  "geometry": {"coordinates":[101.06667,19.23333],"type":"Point"}
+}

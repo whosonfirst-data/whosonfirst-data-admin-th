@@ -1,0 +1,73 @@
+{
+  "id": 1225887449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.91444,14.57736,100.91444,14.57736",
+    "geom:latitude":14.57736,
+    "geom:longitude":100.91444,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Ban Huai Noi",
+    "gn:country_code":"TH",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1618932,
+    "gn:latitude":14.57736,
+    "gn:longitude":100.91444,
+    "gn:modification_date":"2014-04-29",
+    "gn:name":"Ban Huai Noi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e49\u0e27\u0e22\u0e19\u0e49\u0e2d\u0e22"
+    ],
+    "name:und_x_variant":[
+        "Ban Huai Noi (1)"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678735,
+        890466791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1618932
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"b73b1585281908121e32cc624fbf5efe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466791,
+            "locality_id":1225887449,
+            "region_id":85678735
+        }
+    ],
+    "wof:id":1225887449,
+    "wof:lastmodified":1537704159,
+    "wof:name":"Ban Huai Noi",
+    "wof:parent_id":890466791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.91444,
+    14.57736,
+    100.91444,
+    14.57736
+],
+  "geometry": {"coordinates":[100.91444,14.57736],"type":"Point"}
+}

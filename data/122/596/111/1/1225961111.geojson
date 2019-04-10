@@ -1,0 +1,73 @@
+{
+  "id": 1225961111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.28304,17.84676,104.28304,17.84676",
+    "geom:latitude":17.84676,
+    "geom:longitude":104.28304,
+    "gn:admin1_code":"73.0",
+    "gn:asciiname":"Ban Pak Huai Muang",
+    "gn:country_code":"TH",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1618943,
+    "gn:latitude":17.84676,
+    "gn:longitude":104.28304,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Pak Huai Muang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1b\u0e32\u0e01\u0e2b\u0e49\u0e27\u0e22\u0e21\u0e48\u0e27\u0e07"
+    ],
+    "name:und_x_variant":[
+        "Ban Huai Muang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678879,
+        890466251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1618943
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"e6683b4645162a42efbb96386a7224cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466251,
+            "locality_id":1225961111,
+            "region_id":85678879
+        }
+    ],
+    "wof:id":1225961111,
+    "wof:lastmodified":1537704160,
+    "wof:name":"Ban Pak Huai Muang",
+    "wof:parent_id":890466251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.28304,
+    17.84676,
+    104.28304,
+    17.84676
+],
+  "geometry": {"coordinates":[104.28304,17.84676],"type":"Point"}
+}

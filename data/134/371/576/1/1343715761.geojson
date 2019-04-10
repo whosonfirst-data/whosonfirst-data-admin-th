@@ -1,0 +1,70 @@
+{
+  "id": 1343715761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.18394,15.30825,101.18394,15.30825",
+    "geom:latitude":15.30825,
+    "geom:longitude":101.18394,
+    "gn:admin1_code":"34",
+    "gn:asciiname":"Ban Noi Hin Khong",
+    "gn:country_code":"TH",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9198542,
+    "gn:latitude":15.30825,
+    "gn:longitude":101.18394,
+    "gn:modification_date":"2014-07-10",
+    "gn:name":"Ban Noi Hin Khong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e19\u0e49\u0e2d\u0e22\u0e2b\u0e34\u0e19\u0e01\u0e2d\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678701,
+        890466247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9198542
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"2950fd6ddcb3a36fa97784a86682e230",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466247,
+            "locality_id":1343715761,
+            "region_id":85678701
+        }
+    ],
+    "wof:id":1343715761,
+    "wof:lastmodified":1537706222,
+    "wof:name":"Ban Noi Hin Khong",
+    "wof:parent_id":890466247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.18394,
+    15.30825,
+    101.18394,
+    15.30825
+],
+  "geometry": {"coordinates":[101.18394000000001,15.30825],"type":"Point"}
+}

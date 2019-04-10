@@ -1,0 +1,70 @@
+{
+  "id": 1326847229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.89931,19.08808,99.89931,19.08808",
+    "geom:latitude":19.08808,
+    "geom:longitude":99.89931,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Ban Kaset Suk",
+    "gn:country_code":"TH",
+    "gn:dem":418,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8332121,
+    "gn:latitude":19.08808,
+    "gn:longitude":99.89931,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Ban Kaset Suk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e01\u0e29\u0e15\u0e23\u0e2a\u0e38\u0e02"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678637,
+        890467463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8332121
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"57c8aa47f66d7a7a6389752c9a1aa71b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890467463,
+            "locality_id":1326847229,
+            "region_id":85678637
+        }
+    ],
+    "wof:id":1326847229,
+    "wof:lastmodified":1537705401,
+    "wof:name":"Ban Kaset Suk",
+    "wof:parent_id":890467463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.89931,
+    19.08808,
+    99.89931,
+    19.08808
+],
+  "geometry": {"coordinates":[99.89931,19.08808],"type":"Point"}
+}

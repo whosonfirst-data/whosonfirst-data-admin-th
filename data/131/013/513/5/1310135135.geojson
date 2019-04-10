@@ -1,0 +1,70 @@
+{
+  "id": 1310135135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.83083,8.89367,98.83083,8.89367",
+    "geom:latitude":8.89367,
+    "geom:longitude":98.83083,
+    "gn:admin1_code":"60.0",
+    "gn:asciiname":"Ban Phang Kan Lang",
+    "gn:country_code":"TH",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8326859,
+    "gn:latitude":8.89367,
+    "gn:longitude":98.83083,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Ban Phang Kan Lang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1e\u0e31\u0e07\u0e01\u0e32\u0e0d\u0e08\u0e19\u0e4c\u0e25\u0e48\u0e32\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678849,
+        890465923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8326859
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"54cecdc6e96f9ed9e20150cc0378343f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465923,
+            "locality_id":1310135135,
+            "region_id":85678849
+        }
+    ],
+    "wof:id":1310135135,
+    "wof:lastmodified":1537705400,
+    "wof:name":"Ban Phang Kan Lang",
+    "wof:parent_id":890465923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.83083,
+    8.89367,
+    98.83083,
+    8.89367
+],
+  "geometry": {"coordinates":[98.83083000000001,8.89367],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 890466843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.27733,19.57217,98.27733,19.57217",
+    "geom:latitude":19.57217,
+    "geom:longitude":98.27733,
+    "gn:country":"TH",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424960,
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e16\u0e49\u0e33\u0e25\u0e2d\u0e14"
+    ],
+    "name:unk_x_variant":[
+        "Ban Tham Lot"
+    ],
+    "qs:name":"Tham Lot",
+    "qs:name_adm0":"Thailand",
+    "qs:name_adm1":"Mae Hong Son",
+    "qs:photos":343,
+    "qs:photos_1k":70,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":343,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":312,
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7072935,
+        "gp:id":55946113,
+        "qs:id":1086752,
+        "wd:id":"Q7709773",
+        "wk:page":"Tham Lot cave"
+    },
+    "wof:country":"TH",
+    "wof:created":1469053600,
+    "wof:geomhash":"ff60fb9337051ead9525696acd5f45c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "locality_id":890466843,
+            "region_id":85678555
+        }
+    ],
+    "wof:id":890466843,
+    "wof:lastmodified":1527793009,
+    "wof:name":"Tham Lot",
+    "wof:parent_id":85678555,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.27733,
+    19.57217,
+    98.27733,
+    19.57217
+],
+  "geometry": {"coordinates":[98.27733000000001,19.57217],"type":"Point"}
+}

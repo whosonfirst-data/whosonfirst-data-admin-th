@@ -1,0 +1,70 @@
+{
+  "id": 1326842971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.07019,18.71867,99.07019,18.71867",
+    "geom:latitude":18.71867,
+    "geom:longitude":99.07019,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Tha Ton Kwao",
+    "gn:country_code":"TH",
+    "gn:dem":301,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7791081,
+    "gn:latitude":18.71867,
+    "gn:longitude":99.07019,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Tha Ton Kwao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e17\u0e48\u0e32\u0e15\u0e49\u0e19\u0e01\u0e27\u0e32\u0e27"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678619,
+        1108731859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7791081
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"70f6a0511b21ea8a963d42d0f95701a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731859,
+            "locality_id":1326842971,
+            "region_id":85678619
+        }
+    ],
+    "wof:id":1326842971,
+    "wof:lastmodified":1537704693,
+    "wof:name":"Ban Tha Ton Kwao",
+    "wof:parent_id":1108731859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.07019,
+    18.71867,
+    99.07019,
+    18.71867
+],
+  "geometry": {"coordinates":[99.07019,18.71867],"type":"Point"}
+}

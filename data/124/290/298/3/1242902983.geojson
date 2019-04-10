@@ -1,0 +1,70 @@
+{
+  "id": 1242902983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.01131,13.50817,100.01131,13.50817",
+    "geom:latitude":13.50817,
+    "geom:longitude":100.01131,
+    "gn:admin1_code":"54.0",
+    "gn:asciiname":"Ban Khlong Don Sam",
+    "gn:country_code":"TH",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7507998,
+    "gn:latitude":13.50817,
+    "gn:longitude":100.01131,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Ban Khlong Don Sam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e04\u0e25\u0e2d\u0e07\u0e14\u0e2d\u0e19\u0e2a\u0e32\u0e21"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678761,
+        890467267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7507998
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"6e4f5899c7e6587f4c05b4776dd5f0f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890467267,
+            "locality_id":1242902983,
+            "region_id":85678761
+        }
+    ],
+    "wof:id":1242902983,
+    "wof:lastmodified":1537704539,
+    "wof:name":"Ban Khlong Don Sam",
+    "wof:parent_id":890467267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.01131,
+    13.50817,
+    100.01131,
+    13.50817
+],
+  "geometry": {"coordinates":[100.01130999999999,13.50817],"type":"Point"}
+}

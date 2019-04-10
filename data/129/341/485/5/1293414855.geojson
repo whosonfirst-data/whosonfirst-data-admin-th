@@ -1,0 +1,70 @@
+{
+  "id": 1293414855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.26481,15.48286,105.26481,15.48286",
+    "geom:latitude":15.48286,
+    "geom:longitude":105.26481,
+    "gn:admin1_code":"75.0",
+    "gn:asciiname":"Ban Kaeng Kok",
+    "gn:country_code":"TH",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8320389,
+    "gn:latitude":15.48286,
+    "gn:longitude":105.26481,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Ban Kaeng Kok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e41\u0e01\u0e49\u0e07\u0e01\u0e2d\u0e01"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678783,
+        1108731889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8320389
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"10c52d050b3c10a92d2315a29cc12199",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731889,
+            "locality_id":1293414855,
+            "region_id":85678783
+        }
+    ],
+    "wof:id":1293414855,
+    "wof:lastmodified":1537705357,
+    "wof:name":"Ban Kaeng Kok",
+    "wof:parent_id":1108731889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.26481,
+    15.48286,
+    105.26481,
+    15.48286
+],
+  "geometry": {"coordinates":[105.26481,15.48286],"type":"Point"}
+}

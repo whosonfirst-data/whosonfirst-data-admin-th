@@ -1,0 +1,67 @@
+{
+  "id": 1259973841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.75,17.55,99.75,17.55",
+    "geom:latitude":17.55,
+    "geom:longitude":99.75,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ban Mai Mae Sam",
+    "gn:country_code":"TH",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1118976,
+    "gn:latitude":17.55,
+    "gn:longitude":99.75,
+    "gn:modification_date":"1994-04-10",
+    "gn:name":"Ban Mai Mae Sam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678651,
+        890466181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1118976
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"68d2ce73eabc0d11f5a0b8c7d43451d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466181,
+            "locality_id":1259973841,
+            "region_id":85678651
+        }
+    ],
+    "wof:id":1259973841,
+    "wof:lastmodified":1536648734,
+    "wof:name":"Ban Mai Mae Sam",
+    "wof:parent_id":890466181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.75,
+    17.55,
+    99.75,
+    17.55
+],
+  "geometry": {"coordinates":[99.75,17.55],"type":"Point"}
+}

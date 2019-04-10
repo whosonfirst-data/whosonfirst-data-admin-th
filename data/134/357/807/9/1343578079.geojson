@@ -1,0 +1,77 @@
+{
+  "id": 1343578079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.38686,7.28419,100.38686,7.28419",
+    "geom:latitude":7.28419,
+    "geom:longitude":100.38686,
+    "gn:admin1_code":"66.0",
+    "gn:asciiname":"Ban Tha Not",
+    "gn:country_code":"TH",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8203464,
+    "gn:latitude":7.28419,
+    "gn:longitude":100.38686,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Ban Tha Not",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e17\u0e48\u0e32\u0e42\u0e2b\u0e19\u0e14"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        1108802715,
+        1108731675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8203464
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"c20d075d6e571134799ef4170f5f6049",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802715,
+            "locality_id":1343578079,
+            "region_id":-1
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731675,
+            "locality_id":1343578079,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343578079,
+    "wof:lastmodified":1537705072,
+    "wof:name":"Ban Tha Not",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.38686,
+    7.28419,
+    100.38686,
+    7.28419
+],
+  "geometry": {"coordinates":[100.38686,7.28419],"type":"Point"}
+}

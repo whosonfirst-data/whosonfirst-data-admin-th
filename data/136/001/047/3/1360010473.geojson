@@ -1,0 +1,71 @@
+{
+  "id": 1360010473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.46595,7.14864,100.46595,7.14864",
+    "geom:latitude":7.14864,
+    "geom:longitude":100.46595,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Ban Laem Pho",
+    "gn:country_code":"TH",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1617191,
+    "gn:latitude":7.14864,
+    "gn:longitude":100.46595,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Laem Pho",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e41\u0e2b\u0e25\u0e21\u0e42\u0e1e\u0e18\u0e34\u0e4c"
+    ],
+    "name:und_x_variant":[
+        "Ban Laem Pho (2)"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1617191
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"d864b21d6252b3b7110b4dd64b28f46d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "locality_id":1360010473,
+            "region_id":85678603
+        }
+    ],
+    "wof:id":1360010473,
+    "wof:lastmodified":1537704032,
+    "wof:name":"Ban Laem Pho",
+    "wof:parent_id":85678603,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.46595,
+    7.14864,
+    100.46595,
+    7.14864
+],
+  "geometry": {"coordinates":[100.46595000000001,7.14864],"type":"Point"}
+}

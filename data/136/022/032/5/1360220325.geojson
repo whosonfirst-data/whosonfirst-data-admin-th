@@ -1,0 +1,70 @@
+{
+  "id": 1360220325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.23583,15.44447,105.23583,15.44447",
+    "geom:latitude":15.44447,
+    "geom:longitude":105.23583,
+    "gn:admin1_code":"75.0",
+    "gn:asciiname":"Ban Non Chik Noi",
+    "gn:country_code":"TH",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8320420,
+    "gn:latitude":15.44447,
+    "gn:longitude":105.23583,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Ban Non Chik Noi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e42\u0e19\u0e19\u0e08\u0e34\u0e01\u0e19\u0e49\u0e2d\u0e22"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678783,
+        1108731889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8320420
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"cc2db133698f597a4b0b445163b365e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731889,
+            "locality_id":1360220325,
+            "region_id":85678783
+        }
+    ],
+    "wof:id":1360220325,
+    "wof:lastmodified":1537705358,
+    "wof:name":"Ban Non Chik Noi",
+    "wof:parent_id":1108731889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.23583,
+    15.44447,
+    105.23583,
+    15.44447
+],
+  "geometry": {"coordinates":[105.23583000000001,15.44447],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1310328155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.84114,13.84369,99.84114,13.84369",
+    "geom:latitude":13.84369,
+    "geom:longitude":99.84114,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Ban Tha Ton Chan",
+    "gn:country_code":"TH",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8339370,
+    "gn:latitude":13.84369,
+    "gn:longitude":99.84114,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Ban Tha Ton Chan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e17\u0e48\u0e32\u0e15\u0e49\u0e19\u0e08\u0e31\u0e19\u0e17\u0e23\u0e4c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678761,
+        1108731153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8339370
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"046097050136b8dc3d2509cc18135954",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731153,
+            "locality_id":1310328155,
+            "region_id":85678761
+        }
+    ],
+    "wof:id":1310328155,
+    "wof:lastmodified":1537705427,
+    "wof:name":"Ban Tha Ton Chan",
+    "wof:parent_id":1108731153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.84114,
+    13.84369,
+    99.84114,
+    13.84369
+],
+  "geometry": {"coordinates":[99.84114,13.84369],"type":"Point"}
+}

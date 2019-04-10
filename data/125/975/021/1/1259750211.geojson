@@ -1,0 +1,73 @@
+{
+  "id": 1259750211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.97583,15.84417,101.97583,15.84417",
+    "geom:latitude":15.84417,
+    "geom:longitude":101.97583,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Ban Yang Ba",
+    "gn:country_code":"TH",
+    "gn:dem":207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1603192,
+    "gn:latitude":15.84417,
+    "gn:longitude":101.97583,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Ban Yang Ba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e22\u0e32\u0e07\u0e1a\u0e48\u0e32"
+    ],
+    "name:und_x_variant":[
+        "Ban Huai Yang Ba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678825,
+        890466029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1603192
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"dc45f29fe0f37c169ec41d364b517e00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466029,
+            "locality_id":1259750211,
+            "region_id":85678825
+        }
+    ],
+    "wof:id":1259750211,
+    "wof:lastmodified":1537703575,
+    "wof:name":"Ban Yang Ba",
+    "wof:parent_id":890466029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.97583,
+    15.84417,
+    101.97583,
+    15.84417
+],
+  "geometry": {"coordinates":[101.97583,15.84417],"type":"Point"}
+}

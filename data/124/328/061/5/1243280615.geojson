@@ -1,0 +1,73 @@
+{
+  "id": 1243280615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.81787,15.74251,104.81787,15.74251",
+    "geom:latitude":15.74251,
+    "geom:longitude":104.81787,
+    "gn:admin1_code":"77.0",
+    "gn:asciiname":"Ban Kham",
+    "gn:country_code":"TH",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1618555,
+    "gn:latitude":15.74251,
+    "gn:longitude":104.81787,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Kham",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "Ban Kham"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e02\u0e32\u0e21"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678789,
+        1108731703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1618555
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"f890f6ebaab1669cebf33fc331d3b43b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731703,
+            "locality_id":1243280615,
+            "region_id":85678789
+        }
+    ],
+    "wof:id":1243280615,
+    "wof:lastmodified":1537704132,
+    "wof:name":"Ban Kham",
+    "wof:parent_id":1108731703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.81787,
+    15.74251,
+    104.81787,
+    15.74251
+],
+  "geometry": {"coordinates":[104.81787,15.74251],"type":"Point"}
+}

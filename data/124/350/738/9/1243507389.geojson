@@ -1,0 +1,70 @@
+{
+  "id": 1243507389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.59794,14.37322,100.59794,14.37322",
+    "geom:latitude":14.37322,
+    "geom:longitude":100.59794,
+    "gn:admin1_code":"36",
+    "gn:asciiname":"Ban Sala Kwian",
+    "gn:country_code":"TH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8698253,
+    "gn:latitude":14.37322,
+    "gn:longitude":100.59794,
+    "gn:modification_date":"2014-02-16",
+    "gn:name":"Ban Sala Kwian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e28\u0e32\u0e25\u0e32\u0e40\u0e01\u0e27\u0e35\u0e22\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678721,
+        890465897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8698253
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"7ef8de6f4ed9e0cdbb64a40cd04308b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465897,
+            "locality_id":1243507389,
+            "region_id":85678721
+        }
+    ],
+    "wof:id":1243507389,
+    "wof:lastmodified":1537705899,
+    "wof:name":"Ban Sala Kwian",
+    "wof:parent_id":890465897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.59794,
+    14.37322,
+    100.59794,
+    14.37322
+],
+  "geometry": {"coordinates":[100.59793999999999,14.37322],"type":"Point"}
+}

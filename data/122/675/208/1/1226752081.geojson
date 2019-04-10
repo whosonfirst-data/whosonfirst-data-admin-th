@@ -1,0 +1,70 @@
+{
+  "id": 1226752081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.02464,18.57858,99.02464,18.57858",
+    "geom:latitude":18.57858,
+    "geom:longitude":99.02464,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ban Wiang Yong",
+    "gn:country_code":"TH",
+    "gn:dem":291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8218559,
+    "gn:latitude":18.57858,
+    "gn:longitude":99.02464,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Ban Wiang Yong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e27\u0e35\u0e22\u0e07\u0e22\u0e2d\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678629,
+        890466981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8218559
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"3250b0fb54b51de28195933d05ef74bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466981,
+            "locality_id":1226752081,
+            "region_id":85678629
+        }
+    ],
+    "wof:id":1226752081,
+    "wof:lastmodified":1537705141,
+    "wof:name":"Ban Wiang Yong",
+    "wof:parent_id":890466981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.02464,
+    18.57858,
+    99.02464,
+    18.57858
+],
+  "geometry": {"coordinates":[99.02464000000001,18.57858],"type":"Point"}
+}

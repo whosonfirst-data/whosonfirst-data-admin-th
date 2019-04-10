@@ -1,0 +1,70 @@
+{
+  "id": 1276683785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.85183,15.41108,104.85183,15.41108",
+    "geom:latitude":15.41108,
+    "geom:longitude":104.85183,
+    "gn:admin1_code":"75.0",
+    "gn:asciiname":"Ban Na Nong Lam",
+    "gn:country_code":"TH",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8317858,
+    "gn:latitude":15.41108,
+    "gn:longitude":104.85183,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Ban Na Nong Lam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e19\u0e32\u0e2b\u0e19\u0e2d\u0e07\u0e25\u0e49\u0e33"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678783,
+        890466033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8317858
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"855571afa1dda6521c8dcba0e885dd89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466033,
+            "locality_id":1276683785,
+            "region_id":85678783
+        }
+    ],
+    "wof:id":1276683785,
+    "wof:lastmodified":1537705331,
+    "wof:name":"Ban Na Nong Lam",
+    "wof:parent_id":890466033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.85183,
+    15.41108,
+    104.85183,
+    15.41108
+],
+  "geometry": {"coordinates":[104.85183000000001,15.41108],"type":"Point"}
+}

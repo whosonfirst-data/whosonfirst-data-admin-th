@@ -1,0 +1,73 @@
+{
+  "id": 1209832437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.48853,16.61175,104.48853,16.61175",
+    "geom:latitude":16.61175,
+    "geom:longitude":104.48853,
+    "gn:admin1_code":"78.0",
+    "gn:asciiname":"Ban Non Tum",
+    "gn:country_code":"TH",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8036503,
+    "gn:latitude":16.61175,
+    "gn:longitude":104.48853,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Non Tum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "Ban Non Tum"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e42\u0e19\u0e19\u0e15\u0e39\u0e21"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678881,
+        890467231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8036503
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"633259c038274bb4615ea0bd4dcbee52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890467231,
+            "locality_id":1209832437,
+            "region_id":85678881
+        }
+    ],
+    "wof:id":1209832437,
+    "wof:lastmodified":1537704929,
+    "wof:name":"Ban Non Tum",
+    "wof:parent_id":890467231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.48853,
+    16.61175,
+    104.48853,
+    16.61175
+],
+  "geometry": {"coordinates":[104.48853,16.61175],"type":"Point"}
+}

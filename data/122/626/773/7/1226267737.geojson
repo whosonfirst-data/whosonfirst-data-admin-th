@@ -1,0 +1,73 @@
+{
+  "id": 1226267737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.46717,11.19067,99.46717,11.19067",
+    "geom:latitude":11.19067,
+    "geom:longitude":99.46717,
+    "gn:admin1_code":"57.0",
+    "gn:asciiname":"Ban Khao Khwang",
+    "gn:country_code":"TH",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1119668,
+    "gn:latitude":11.19067,
+    "gn:longitude":99.46717,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Ban Khao Khwang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e02\u0e32\u0e02\u0e27\u0e32\u0e07"
+    ],
+    "name:und_x_variant":[
+        "Ban Khao Khwang (2)"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678757,
+        890466329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1119668
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"7cf9950180e062292fc52c1b0e1b0cb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466329,
+            "locality_id":1226267737,
+            "region_id":85678757
+        }
+    ],
+    "wof:id":1226267737,
+    "wof:lastmodified":1537702986,
+    "wof:name":"Ban Khao Khwang",
+    "wof:parent_id":890466329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.46717,
+    11.19067,
+    99.46717,
+    11.19067
+],
+  "geometry": {"coordinates":[99.46717,11.19067],"type":"Point"}
+}

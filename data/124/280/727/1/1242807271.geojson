@@ -1,0 +1,70 @@
+{
+  "id": 1242807271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.87217,10.23683,98.87217,10.23683",
+    "geom:latitude":10.23683,
+    "geom:longitude":98.87217,
+    "gn:admin1_code":"59.0",
+    "gn:asciiname":"Ban Huai Niang",
+    "gn:country_code":"TH",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8539917,
+    "gn:latitude":10.23683,
+    "gn:longitude":98.87217,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Ban Huai Niang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e49\u0e27\u0e22\u0e40\u0e19\u0e35\u0e22\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678577,
+        1108802631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8539917
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"c5bf5c610f73bca324c03bbde34b9276",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802631,
+            "locality_id":1242807271,
+            "region_id":85678577
+        }
+    ],
+    "wof:id":1242807271,
+    "wof:lastmodified":1537705691,
+    "wof:name":"Ban Huai Niang",
+    "wof:parent_id":1108802631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.87217,
+    10.23683,
+    98.87217,
+    10.23683
+],
+  "geometry": {"coordinates":[98.87217,10.23683],"type":"Point"}
+}

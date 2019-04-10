@@ -1,0 +1,93 @@
+{
+  "id": 1125392357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.32941,12.05947,102.32941,12.05947",
+    "geom:latitude":12.05947,
+    "geom:longitude":102.32941,
+    "gn:gn_country":"TH",
+    "gn:gn_fcode":"ADMD",
+    "gn:gn_pop":0,
+    "gn:population":12346,
+    "iso:country":"TH",
+    "lbl:latitude":12.05947,
+    "lbl:longitude":102.32941,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Ko Chang District"
+    ],
+    "name:eng_x_variant":[
+        "Ko Chang"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e01\u0e32\u0e30\u0e0a\u0e49\u0e32\u0e07"
+    ],
+    "name:tha_x_variant":[
+        "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e40\u0e01\u0e32\u0e30\u0e0a\u0e49\u0e32\u0e07"
+    ],
+    "name:unk_x_variant":[
+        "Ko Chang"
+    ],
+    "qs_pg:aaroncc":"TH",
+    "qs_pg:gn_country":"TH",
+    "qs_pg:gn_fcode":"ADMD",
+    "qs_pg:gn_id":6692475,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Koh Chang",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1038707,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678813,
+        1108731453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6692475,
+        "qs_pg:id":1038707
+    },
+    "wof:country":"TH",
+    "wof:created":1497048783,
+    "wof:geomhash":"85370a62d6c935324d0601aae7b45bed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731453,
+            "localadmin_id":1125392357,
+            "region_id":85678813
+        }
+    ],
+    "wof:id":1125392357,
+    "wof:lastmodified":1509389849,
+    "wof:name":"Koh Chang",
+    "wof:parent_id":1108731453,
+    "wof:placetype":"localadmin",
+    "wof:population":12346,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.32941,
+    12.05947,
+    102.32941,
+    12.05947
+],
+  "geometry": {"coordinates":[102.32941,12.05947],"type":"Point"}
+}

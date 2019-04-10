@@ -1,0 +1,70 @@
+{
+  "id": 1226590671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.52603,15.10617,103.52603,15.10617",
+    "geom:latitude":15.10617,
+    "geom:longitude":103.52603,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Ban Beng",
+    "gn:country_code":"TH",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8705504,
+    "gn:latitude":15.10617,
+    "gn:longitude":103.52603,
+    "gn:modification_date":"2014-02-17",
+    "gn:name":"Ban Beng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e1a\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678849,
+        1108731255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8705504
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"4a02f748cfd28e7ebf7db029f140a0a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731255,
+            "locality_id":1226590671,
+            "region_id":85678849
+        }
+    ],
+    "wof:id":1226590671,
+    "wof:lastmodified":1537705958,
+    "wof:name":"Ban Beng",
+    "wof:parent_id":1108731255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.52603,
+    15.10617,
+    103.52603,
+    15.10617
+],
+  "geometry": {"coordinates":[103.52603000000001,15.10617],"type":"Point"}
+}

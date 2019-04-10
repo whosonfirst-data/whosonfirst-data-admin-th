@@ -1,0 +1,70 @@
+{
+  "id": 1260015323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.5982,17.52097,102.5982,17.52097",
+    "geom:latitude":17.52097,
+    "geom:longitude":102.5982,
+    "gn:admin1_code":"76.0",
+    "gn:asciiname":"Ban Non Sa-at",
+    "gn:country_code":"TH",
+    "gn:dem":206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1599467,
+    "gn:latitude":17.52097,
+    "gn:longitude":102.5982,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Non Sa-at",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e42\u0e19\u0e19\u0e2a\u0e30\u0e2d\u0e32\u0e14"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678869,
+        1108731151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1599467
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"aa5f9722bfb3951bd223f66c848fa203",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731151,
+            "locality_id":1260015323,
+            "region_id":85678869
+        }
+    ],
+    "wof:id":1260015323,
+    "wof:lastmodified":1537703437,
+    "wof:name":"Ban Non Sa-at",
+    "wof:parent_id":1108731151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.5982,
+    17.52097,
+    102.5982,
+    17.52097
+],
+  "geometry": {"coordinates":[102.59820000000001,17.52097],"type":"Point"}
+}

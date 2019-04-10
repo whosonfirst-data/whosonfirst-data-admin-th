@@ -1,0 +1,70 @@
+{
+  "id": 1243189313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.42658,7.52553,100.42658,7.52553",
+    "geom:latitude":7.52553,
+    "geom:longitude":100.42658,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Ban Phang Lup",
+    "gn:country_code":"TH",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7887410,
+    "gn:latitude":7.52553,
+    "gn:longitude":100.42658,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Phang Lup",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1e\u0e31\u0e07\u0e2b\u0e25\u0e38\u0e1a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678603,
+        890466337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7887410
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"b6c9ef992c6a97af9cc1fa5ad3bb32a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466337,
+            "locality_id":1243189313,
+            "region_id":85678603
+        }
+    ],
+    "wof:id":1243189313,
+    "wof:lastmodified":1537704852,
+    "wof:name":"Ban Phang Lup",
+    "wof:parent_id":890466337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.42658,
+    7.52553,
+    100.42658,
+    7.52553
+],
+  "geometry": {"coordinates":[100.42658,7.52553],"type":"Point"}
+}

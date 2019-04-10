@@ -1,0 +1,73 @@
+{
+  "id": 1327248349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.70008,17.1385,104.70008,17.1385",
+    "geom:latitude":17.1385,
+    "geom:longitude":104.70008,
+    "gn:admin1_code":"73.0",
+    "gn:asciiname":"Ban Yang Diao",
+    "gn:country_code":"TH",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8027766,
+    "gn:latitude":17.1385,
+    "gn:longitude":104.70008,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Yang Diao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "Ban Yang Diao"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e22\u0e32\u0e07\u0e40\u0e14\u0e35\u0e48\u0e22\u0e27"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678879,
+        890466333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8027766
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"c73da77b212da569ee39e8337ddd195e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466333,
+            "locality_id":1327248349,
+            "region_id":85678879
+        }
+    ],
+    "wof:id":1327248349,
+    "wof:lastmodified":1537704919,
+    "wof:name":"Ban Yang Diao",
+    "wof:parent_id":890466333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.70008,
+    17.1385,
+    104.70008,
+    17.1385
+],
+  "geometry": {"coordinates":[104.70008,17.1385],"type":"Point"}
+}

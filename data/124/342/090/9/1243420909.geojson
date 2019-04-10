@@ -1,0 +1,70 @@
+{
+  "id": 1243420909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.14953,15.03972,102.14953,15.03972",
+    "geom:latitude":15.03972,
+    "geom:longitude":102.14953,
+    "gn:admin1_code":"27",
+    "gn:asciiname":"Ban Phanoa",
+    "gn:country_code":"TH",
+    "gn:dem":178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9108830,
+    "gn:latitude":15.03972,
+    "gn:longitude":102.14953,
+    "gn:modification_date":"2014-06-07",
+    "gn:name":"Ban Phanoa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1e\u0e30\u0e40\u0e19\u0e32"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678841,
+        890466785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9108830
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"63bf73a62f8e9a199bbf830a091bfbb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466785,
+            "locality_id":1243420909,
+            "region_id":85678841
+        }
+    ],
+    "wof:id":1243420909,
+    "wof:lastmodified":1537706186,
+    "wof:name":"Ban Phanoa",
+    "wof:parent_id":890466785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.14953,
+    15.03972,
+    102.14953,
+    15.03972
+],
+  "geometry": {"coordinates":[102.14953,15.03972],"type":"Point"}
+}

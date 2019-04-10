@@ -1,0 +1,75 @@
+{
+  "id": 1193045717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.10711,14.68881,100.10711,14.68881",
+    "geom:latitude":14.68881,
+    "geom:longitude":100.10711,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Ban Wang Wa",
+    "gn:country_code":"TH",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1611826,
+    "gn:latitude":14.68881,
+    "gn:longitude":100.10711,
+    "gn:modification_date":"2014-01-08",
+    "gn:name":"Ban Wang Wa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e27\u0e31\u0e07\u0e2b\u0e27\u0e49\u0e32"
+    ],
+    "name:und_x_variant":[
+        "Ban Wang Nam Sap",
+        "Ban Wang Zab",
+        "Ban Wang Wa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678679,
+        890466315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1611826
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"ce171d79fee62ca75c5e487c5e7cfa82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466315,
+            "locality_id":1193045717,
+            "region_id":85678679
+        }
+    ],
+    "wof:id":1193045717,
+    "wof:lastmodified":1537703660,
+    "wof:name":"Ban Wang Wa",
+    "wof:parent_id":890466315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.10711,
+    14.68881,
+    100.10711,
+    14.68881
+],
+  "geometry": {"coordinates":[100.10711000000001,14.68881],"type":"Point"}
+}

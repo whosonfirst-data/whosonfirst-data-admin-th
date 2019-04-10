@@ -1,0 +1,70 @@
+{
+  "id": 1209980263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.18908,15.56794,100.18908,15.56794",
+    "geom:latitude":15.56794,
+    "geom:longitude":100.18908,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ban Bo Makha",
+    "gn:country_code":"TH",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8344756,
+    "gn:latitude":15.56794,
+    "gn:longitude":100.18908,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Ban Bo Makha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1a\u0e48\u0e2d\u0e21\u0e30\u0e04\u0e48\u0e32"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678715,
+        1108731763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8344756
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"d5f0fe4f51ec9b51f18825d1019a2653",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731763,
+            "locality_id":1209980263,
+            "region_id":85678715
+        }
+    ],
+    "wof:id":1209980263,
+    "wof:lastmodified":1537705469,
+    "wof:name":"Ban Bo Makha",
+    "wof:parent_id":1108731763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.18908,
+    15.56794,
+    100.18908,
+    15.56794
+],
+  "geometry": {"coordinates":[100.18908,15.56794],"type":"Point"}
+}

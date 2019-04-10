@@ -1,0 +1,70 @@
+{
+  "id": 1243113467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.78289,15.17469,99.78289,15.17469",
+    "geom:latitude":15.17469,
+    "geom:longitude":99.78289,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Ban Khao Lak",
+    "gn:country_code":"TH",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8676220,
+    "gn:latitude":15.17469,
+    "gn:longitude":99.78289,
+    "gn:modification_date":"2014-01-18",
+    "gn:name":"Ban Khao Lak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e02\u0e32\u0e2b\u0e25\u0e31\u0e01"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678699,
+        1108732071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8676220
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"497b178104a6d8efb3016512209003a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108732071,
+            "locality_id":1243113467,
+            "region_id":85678699
+        }
+    ],
+    "wof:id":1243113467,
+    "wof:lastmodified":1537705826,
+    "wof:name":"Ban Khao Lak",
+    "wof:parent_id":1108732071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.78289,
+    15.17469,
+    99.78289,
+    15.17469
+],
+  "geometry": {"coordinates":[99.78288999999999,15.17469],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1276683815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.81442,14.07306,102.81442,14.07306",
+    "geom:latitude":14.07306,
+    "geom:longitude":102.81442,
+    "gn:admin1_code":"80.0",
+    "gn:asciiname":"Ban Kasang",
+    "gn:country_code":"TH",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1602968,
+    "gn:latitude":14.07306,
+    "gn:longitude":102.81442,
+    "gn:modification_date":"2014-04-05",
+    "gn:name":"Ban Kasang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e01\u0e30\u0e2a\u0e31\u0e07"
+    ],
+    "name:und_x_variant":[
+        "Ban Krasang",
+        "Ban Kasang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678805,
+        1108731959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1602968
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"59e2b9baede5876234e6741e22889f0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731959,
+            "locality_id":1276683815,
+            "region_id":85678805
+        }
+    ],
+    "wof:id":1276683815,
+    "wof:lastmodified":1537703567,
+    "wof:name":"Ban Kasang",
+    "wof:parent_id":1108731959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.81442,
+    14.07306,
+    102.81442,
+    14.07306
+],
+  "geometry": {"coordinates":[102.81442,14.07306],"type":"Point"}
+}

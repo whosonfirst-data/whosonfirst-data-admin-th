@@ -1,0 +1,70 @@
+{
+  "id": 1360149301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.92658,17.664,103.92658,17.664",
+    "geom:latitude":17.664,
+    "geom:longitude":103.92658,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Kut Chok Noi",
+    "gn:country_code":"TH",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7677056,
+    "gn:latitude":17.664,
+    "gn:longitude":103.92658,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Kut Chok Noi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e01\u0e38\u0e14\u0e08\u0e2d\u0e01\u0e19\u0e49\u0e2d\u0e22"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678863,
+        1108731099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7677056
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"1e238561ebbda0dc3972f2878f38b7e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731099,
+            "locality_id":1360149301,
+            "region_id":85678863
+        }
+    ],
+    "wof:id":1360149301,
+    "wof:lastmodified":1537704599,
+    "wof:name":"Ban Kut Chok Noi",
+    "wof:parent_id":1108731099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.92658,
+    17.664,
+    103.92658,
+    17.664
+],
+  "geometry": {"coordinates":[103.92658,17.664],"type":"Point"}
+}

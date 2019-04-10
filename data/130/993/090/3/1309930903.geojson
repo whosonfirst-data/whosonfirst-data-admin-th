@@ -1,0 +1,65 @@
+{
+  "id": 1309930903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.08333,7.7,99.08333,7.7",
+    "geom:latitude":7.7,
+    "geom:longitude":99.08333,
+    "gn:admin1_code":"63.0",
+    "gn:asciiname":"Ban Pak Lat",
+    "gn:country_code":"TH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1155429,
+    "gn:latitude":7.7,
+    "gn:longitude":99.08333,
+    "gn:modification_date":"1994-04-06",
+    "gn:name":"Ban Pak Lat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632293,
+        890465695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1155429
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"e4df4aa6ddf4836193148670ddadb99d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632293,
+            "county_id":890465695,
+            "locality_id":1309930903,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1309930903,
+    "wof:lastmodified":1536750753,
+    "wof:name":"Ban Pak Lat",
+    "wof:parent_id":890465695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.08333,
+    7.7,
+    99.08333,
+    7.7
+],
+  "geometry": {"coordinates":[99.08333,7.7],"type":"Point"}
+}

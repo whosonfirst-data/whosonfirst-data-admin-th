@@ -1,0 +1,72 @@
+{
+  "id": 1243189123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.06667,13.78333,100.06667,13.78333",
+    "geom:latitude":13.78333,
+    "geom:longitude":100.06667,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Ban Tan Khu",
+    "gn:cc2":"TH",
+    "gn:country_code":"TH",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1612909,
+    "gn:latitude":13.78333,
+    "gn:longitude":100.06667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Tan Khu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Tan Maeng Phu",
+        "Ban Tan Khu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678747,
+        1108802671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1612909
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"d9ccb623f56c9f6e6d61d81d221fb5a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802671,
+            "locality_id":1243189123,
+            "region_id":85678747
+        }
+    ],
+    "wof:id":1243189123,
+    "wof:lastmodified":1537703736,
+    "wof:name":"Ban Tan Khu",
+    "wof:parent_id":1108802671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.06667,
+    13.78333,
+    100.06667,
+    13.78333
+],
+  "geometry": {"coordinates":[100.06667,13.78333],"type":"Point"}
+}

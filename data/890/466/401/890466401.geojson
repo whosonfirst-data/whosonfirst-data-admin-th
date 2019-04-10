@@ -1,0 +1,118 @@
+{
+  "id": 890466401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001064,
+    "geom:area_square_m":12777030.084703,
+    "geom:bbox":"100.524892673,13.6689767459,100.5606028,13.7134338936",
+    "geom:latitude":13.691071,
+    "geom:longitude":100.544355,
+    "gn:country":"TH",
+    "gn:fcode":"ADM2",
+    "gn:pop":0,
+    "iso:country":"TH",
+    "lbl:latitude":13.688503,
+    "lbl:longitude":100.544695,
+    "meso:admin1_en":"KRUNG THEP",
+    "meso:diss_me":"YannawaKRUNG THEP",
+    "meso:gadm_admin":"Yannawa",
+    "meso:gadm_hasc2":"TH.BM.YA",
+    "meso:gaul_admin":"Yannawa",
+    "meso:id":"804",
+    "meso:loc_id_alt":"1012",
+    "meso:local_id":"3212",
+    "meso:mps_x":100.544695,
+    "meso:mps_y":13.688503,
+    "meso:name_en":"Yannawa",
+    "meso:name_local":"\u0e40\u0e02\u0e15\u0e22\u0e32\u0e19\u0e19\u0e32\u0e27\u0e32",
+    "meso:source":"AOTM",
+    "mps:latitude":13.688503,
+    "mps:longitude":100.544695,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Yan Nawa"
+    ],
+    "name:eng_x_variant":[
+        "Yannawa"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e02\u0e15\u0e22\u0e32\u0e19\u0e19\u0e32\u0e27\u0e32"
+    ],
+    "name:tha_x_variant":[
+        "\u0e22\u0e32\u0e19\u0e19\u0e32\u0e27\u0e32",
+        "\u0e40\u0e02\u0e15\u0e22\u0e32\u0e19\u0e19\u0e32\u0e27\u0e32"
+    ],
+    "name:unk_x_variant":[
+        "Amphoe Yan Nawa"
+    ],
+    "qs:name":"Khet Yan Nawa",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"0",
+    "src:geom":"unknown",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2000-04-01",
+    "statoids:area_km":"17",
+    "statoids:as_of_date":"2000-04-01",
+    "statoids:capital":"",
+    "statoids:country":"TH",
+    "statoids:hasc":"TH.BM",
+    "statoids:name":"Yan Nawa",
+    "statoids:population":"105330",
+    "statoids:statoid":"TH.BM.YA",
+    "statoids:timezone":"7",
+    "statoids:type":"district",
+    "wd:wordcount":331,
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6698709,
+        "hasc:id":"TH.BM.YA",
+        "qs:id":1038759,
+        "wd:id":"Q1019651",
+        "wk:page":"Yan Nawa District"
+    },
+    "wof:country":"TH",
+    "wof:created":1469053576,
+    "wof:geomhash":"d326e8265dd7c050c280c82522f49234",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466401,
+            "region_id":85678739
+        }
+    ],
+    "wof:id":890466401,
+    "wof:lastmodified":1536617423,
+    "wof:name":"Yannawa",
+    "wof:parent_id":85678739,
+    "wof:placetype":"county",
+    "wof:placetype_local":"district",
+    "wof:population":105330,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:shortcode":"YA",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.52489267347265,
+    13.66897674591521,
+    100.56060279999643,
+    13.71343389364222
+],
+  "geometry": {"coordinates":[[[100.53517182043784,13.71183620317483],[100.5404123018381,13.71343389364222],[100.55261878905421,13.7133122165344],[100.55715243874643,13.7101201277639],[100.55899954468894,13.68820023025347],[100.56060279999643,13.68615215721032],[100.55749325010973,13.68304079374741],[100.55420317208147,13.67491758089657],[100.5470977017393,13.66897674591521],[100.54503041598721,13.6697318702194],[100.53746337325735,13.66983042562431],[100.53525749311245,13.674229208115],[100.53450318275274,13.67506824879439],[100.52536963440733,13.67784950019478],[100.52489267347265,13.6787534586803],[100.52731728181857,13.68672573675115],[100.52906070160815,13.68789062238358],[100.53697623380316,13.70361871504072],[100.53517182043784,13.71183620317483]]],"type":"Polygon"}
+}

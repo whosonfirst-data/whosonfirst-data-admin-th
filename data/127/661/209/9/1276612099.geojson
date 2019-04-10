@@ -1,0 +1,70 @@
+{
+  "id": 1276612099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.68025,16.83003,102.68025,16.83003",
+    "geom:latitude":16.83003,
+    "geom:longitude":102.68025,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Ban Kut Kranuan",
+    "gn:country_code":"TH",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9005093,
+    "gn:latitude":16.83003,
+    "gn:longitude":102.68025,
+    "gn:modification_date":"2014-05-01",
+    "gn:name":"Ban Kut Kranuan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e01\u0e38\u0e14\u0e01\u0e23\u0e30\u0e2b\u0e19\u0e27\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678827,
+        890466001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9005093
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"8f7b3cec1bb45a32d3cd883679407c88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466001,
+            "locality_id":1276612099,
+            "region_id":85678827
+        }
+    ],
+    "wof:id":1276612099,
+    "wof:lastmodified":1537706109,
+    "wof:name":"Ban Kut Kranuan",
+    "wof:parent_id":890466001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.68025,
+    16.83002999999999,
+    102.68025,
+    16.83002999999999
+],
+  "geometry": {"coordinates":[102.68025,16.83002999999999],"type":"Point"}
+}

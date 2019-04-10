@@ -1,0 +1,111 @@
+{
+  "id": 102024997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000264,
+    "geom:area_square_m":3133533.141714,
+    "geom:bbox":"103.762002655,16.3163730866,103.780721991,16.3344491788",
+    "geom:latitude":16.325411,
+    "geom:longitude":103.771362,
+    "gn:population":13671,
+    "iso:country":"TH",
+    "lbl:latitude":16.325411,
+    "lbl:longitude":103.771362,
+    "mps:latitude":16.325411,
+    "mps:longitude":103.771362,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bpy_x_preferred":[
+        "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u0996\u09cb\u0995 \u09ab\u09cb \u099a\u09bf"
+    ],
+    "name:deu_x_preferred":[
+        "Amphoe Khok Pho Chai"
+    ],
+    "name:eng_x_preferred":[
+        "Pho Chai"
+    ],
+    "name:ron_x_preferred":[
+        "Districtul Khok Pho Chai"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e42\u0e04\u0e01\u0e42\u0e1e\u0e18\u0e34\u0e4c\u0e44\u0e0a\u0e22"
+    ],
+    "name:tha_x_variant":[
+        "\u0e42\u0e1e\u0e18\u0e34\u0e4c\u0e0a\u0e31\u0e22"
+    ],
+    "name:unk_x_variant":[
+        "King Amphoe Pho Chai"
+    ],
+    "name:vie_x_preferred":[
+        "Khok Pho Chai"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Khok Pho Chai K\u016bn"
+    ],
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Pho Chai",
+    "qs:loc_lc":"1607635",
+    "qs:pop":0,
+    "qs:source":"Aquattroshapes",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":194,
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678845,
+        1108802719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"07cf4550-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":1607635,
+        "gp:id":1225574,
+        "qs:id":276725,
+        "qs_pg:id":276725,
+        "wd:id":"Q475726"
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"a13ed426dba95e2c468f509094545afd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802719,
+            "locality_id":102024997,
+            "region_id":85678845
+        }
+    ],
+    "wof:id":102024997,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527636426,
+    "wof:name":"Pho Chai",
+    "wof:parent_id":1108802719,
+    "wof:placetype":"locality",
+    "wof:population":13671,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.76200265465157,
+    16.31637308664941,
+    103.78072199091964,
+    16.33444917883283
+],
+  "geometry": {"coordinates":[[[103.77324352875981,16.31655736622437],[103.77141871310717,16.31637308664941],[103.76959173174647,16.31653611863855],[103.76783278504512,16.31704019715153],[103.76620945997423,16.3178659526524],[103.76478413405063,16.31898165517912],[103.76361157911161,16.32034443319763],[103.76273685686535,16.32190192047882],[103.76219358703169,16.32359426780883],[103.76200265465157,16.32535644232891],[103.76217140634772,16.32712072623934],[103.76269336659858,16.32881931891502],[103.76354848513934,16.33038694247256],[103.76470390620803,16.33176335065465],[103.76611523026334,16.33289564457132],[103.76772821983103,16.33374030622937],[103.76948088398343,16.33426487160114],[103.77130586132326,16.33444917883283],[103.77313300978655,16.33428614352526],[103.77489210356579,16.3337820312242],[103.77651553329893,16.33295621660938],[103.77794090553472,16.33184043864239],[103.7791134413858,16.33047758034239],[103.7799880820498,16.32892002016067],[103.78053122022699,16.32722761840948],[103.78072199091964,16.32546541623269],[103.78055307212087,16.32370113564058],[103.7800309647924,16.32200257675308],[103.77917574158938,16.32043501230949],[103.77802027420823,16.31905867956768],[103.77660896924085,16.31792646593247],[103.77499606125564,16.31708187717506],[103.77324352875981,16.31655736622437]]],"type":"Polygon"}
+}

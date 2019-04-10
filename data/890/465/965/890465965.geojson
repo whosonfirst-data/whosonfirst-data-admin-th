@@ -1,0 +1,82 @@
+{
+  "id": 890465965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.84069,13.71622,99.84069,13.71622",
+    "geom:latitude":13.71622,
+    "geom:longitude":99.84069,
+    "gn:country":"TH",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424960,
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e04\u0e25\u0e2d\u0e07\u0e08\u0e31\u0e19\u0e17\u0e23\u0e4c"
+    ],
+    "name:unk_x_variant":[
+        "Ban Khlong Chan"
+    ],
+    "qs:name":"Khlong Chan",
+    "qs:name_adm0":"Thailand",
+    "qs:name_adm1":"Bangkok",
+    "qs:photos":274,
+    "qs:photos_1k":56,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":274,
+    "qs:photos_sr":5,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":454,
+    "wof:belongsto":[
+        102191569,
+        102024163,
+        85632293,
+        85678761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8338815,
+        "gp:id":55948143,
+        "qs:id":237174,
+        "wd:id":"Q806445",
+        "wk:page":"Bang Kapi District"
+    },
+    "wof:country":"TH",
+    "wof:created":1469053553,
+    "wof:geomhash":"dd8ee2594bcc25739bce372aa14a374e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "locality_id":102024163,
+            "neighbourhood_id":890465965,
+            "region_id":85678761
+        }
+    ],
+    "wof:id":890465965,
+    "wof:lastmodified":1527736644,
+    "wof:name":"Khlong Chan",
+    "wof:parent_id":102024163,
+    "wof:placetype":"neighbourhood",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.84069,
+    13.71622,
+    99.84069,
+    13.71622
+],
+  "geometry": {"coordinates":[99.84069,13.71622],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1310624265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.25247,13.85369,100.25247,13.85369",
+    "geom:latitude":13.85369,
+    "geom:longitude":100.25247,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Ban Bang Krai Son",
+    "gn:country_code":"TH",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6866217,
+    "gn:latitude":13.85369,
+    "gn:longitude":100.25247,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ban Bang Krai Son",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1a\u0e32\u0e07\u0e44\u0e01\u0e23\u0e0b\u0e49\u0e2d\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678747,
+        1108731577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6866217
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"d736ddd776a595521a01b5191273f5ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731577,
+            "locality_id":1310624265,
+            "region_id":85678747
+        }
+    ],
+    "wof:id":1310624265,
+    "wof:lastmodified":1537704324,
+    "wof:name":"Ban Bang Krai Son",
+    "wof:parent_id":1108731577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.25247,
+    13.85369,
+    100.25247,
+    13.85369
+],
+  "geometry": {"coordinates":[100.25247,13.85369],"type":"Point"}
+}

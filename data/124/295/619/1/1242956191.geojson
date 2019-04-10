@@ -1,0 +1,73 @@
+{
+  "id": 1242956191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.06917,15.51833,101.06917,15.51833",
+    "geom:latitude":15.51833,
+    "geom:longitude":101.06917,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ban Nong Teng",
+    "gn:cc2":"TH",
+    "gn:country_code":"TH",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1614971,
+    "gn:latitude":15.51833,
+    "gn:longitude":101.06917,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Nong Teng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Sa Gruat",
+        "Ban Sa Kruat",
+        "Ban Nong Teng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678673,
+        890467495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1614971
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"8796f0e9f20d437a986561ec3d76d726",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890467495,
+            "locality_id":1242956191,
+            "region_id":85678673
+        }
+    ],
+    "wof:id":1242956191,
+    "wof:lastmodified":1537703879,
+    "wof:name":"Ban Nong Teng",
+    "wof:parent_id":890467495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.06917,
+    15.51833,
+    101.06917,
+    15.51833
+],
+  "geometry": {"coordinates":[101.06917,15.51833],"type":"Point"}
+}

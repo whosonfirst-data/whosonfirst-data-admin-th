@@ -1,0 +1,70 @@
+{
+  "id": 1259440933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.18797,16.377,103.18797,16.377",
+    "geom:latitude":16.377,
+    "geom:longitude":103.18797,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Ban Hua Na Kham Noi",
+    "gn:country_code":"TH",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8652422,
+    "gn:latitude":16.377,
+    "gn:longitude":103.18797,
+    "gn:modification_date":"2013-12-17",
+    "gn:name":"Ban Hua Na Kham Noi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e31\u0e27\u0e19\u0e32\u0e04\u0e33\u0e19\u0e49\u0e2d\u0e22"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678831,
+        1108732085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8652422
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"5ecc38b95e1ee1a4218f8a07c203415c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108732085,
+            "locality_id":1259440933,
+            "region_id":85678831
+        }
+    ],
+    "wof:id":1259440933,
+    "wof:lastmodified":1537705759,
+    "wof:name":"Ban Hua Na Kham Noi",
+    "wof:parent_id":1108732085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.18797,
+    16.377,
+    103.18797,
+    16.377
+],
+  "geometry": {"coordinates":[103.18797000000001,16.377],"type":"Point"}
+}

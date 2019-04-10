@@ -1,0 +1,70 @@
+{
+  "id": 1243096719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.52753,13.68214,101.52753,13.68214",
+    "geom:latitude":13.68214,
+    "geom:longitude":101.52753,
+    "gn:admin1_code":"44.0",
+    "gn:asciiname":"Ban Krabok Tia",
+    "gn:country_code":"TH",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1601983,
+    "gn:latitude":13.68214,
+    "gn:longitude":101.52753,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Krabok Tia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e01\u0e23\u0e30\u0e1a\u0e01\u0e40\u0e15\u0e35\u0e49\u0e22"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678797,
+        1108731713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1601983
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"9a0c4bf954f0ac49ec0b875b0d498af8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731713,
+            "locality_id":1243096719,
+            "region_id":85678797
+        }
+    ],
+    "wof:id":1243096719,
+    "wof:lastmodified":1537703530,
+    "wof:name":"Ban Krabok Tia",
+    "wof:parent_id":1108731713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.52753,
+    13.68214,
+    101.52753,
+    13.68214
+],
+  "geometry": {"coordinates":[101.52753,13.68214],"type":"Point"}
+}

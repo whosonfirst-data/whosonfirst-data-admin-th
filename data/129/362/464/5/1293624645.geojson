@@ -1,0 +1,70 @@
+{
+  "id": 1293624645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.09717,7.34378,100.09717,7.34378",
+    "geom:latitude":7.34378,
+    "geom:longitude":100.09717,
+    "gn:admin1_code":"66.0",
+    "gn:asciiname":"Ban Thung Liang",
+    "gn:country_code":"TH",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8204729,
+    "gn:latitude":7.34378,
+    "gn:longitude":100.09717,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Ban Thung Liang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e17\u0e38\u0e48\u0e07\u0e40\u0e2b\u0e25\u0e35\u0e22\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678591,
+        1108731963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8204729
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"9b0fbe3bcd120cefea94f8884d440567",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731963,
+            "locality_id":1293624645,
+            "region_id":85678591
+        }
+    ],
+    "wof:id":1293624645,
+    "wof:lastmodified":1537705091,
+    "wof:name":"Ban Thung Liang",
+    "wof:parent_id":1108731963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.09717,
+    7.34378,
+    100.09717,
+    7.34378
+],
+  "geometry": {"coordinates":[100.09717000000001,7.34378],"type":"Point"}
+}

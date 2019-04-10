@@ -1,0 +1,70 @@
+{
+  "id": 1193220929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.30231,14.75683,101.30231,14.75683",
+    "geom:latitude":14.75683,
+    "geom:longitude":101.30231,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Ban Lam Thong Lang",
+    "gn:country_code":"TH",
+    "gn:dem":463,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1601786,
+    "gn:latitude":14.75683,
+    "gn:longitude":101.30231,
+    "gn:modification_date":"2014-04-29",
+    "gn:name":"Ban Lam Thong Lang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e25\u0e33\u0e17\u0e2d\u0e07\u0e2b\u0e25\u0e32\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678841,
+        890466789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1601786
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"28259b8f415bc5162d3d63dc5bf64c96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466789,
+            "locality_id":1193220929,
+            "region_id":85678841
+        }
+    ],
+    "wof:id":1193220929,
+    "wof:lastmodified":1537703524,
+    "wof:name":"Ban Lam Thong Lang",
+    "wof:parent_id":890466789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.30231,
+    14.75683,
+    101.30231,
+    14.75683
+],
+  "geometry": {"coordinates":[101.30231000000001,14.75683],"type":"Point"}
+}

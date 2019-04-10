@@ -1,0 +1,70 @@
+{
+  "id": 1226397311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.89258,15.63889,103.89258,15.63889",
+    "geom:latitude":15.63889,
+    "geom:longitude":103.89258,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Ban Nam Kliang",
+    "gn:country_code":"TH",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8683317,
+    "gn:latitude":15.63889,
+    "gn:longitude":103.89258,
+    "gn:modification_date":"2014-01-18",
+    "gn:name":"Ban Nam Kliang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e19\u0e49\u0e33\u0e40\u0e01\u0e25\u0e35\u0e49\u0e22\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678845,
+        1108731957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8683317
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"348e0732446d15b7e7e06396976c60a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731957,
+            "locality_id":1226397311,
+            "region_id":85678845
+        }
+    ],
+    "wof:id":1226397311,
+    "wof:lastmodified":1537705876,
+    "wof:name":"Ban Nam Kliang",
+    "wof:parent_id":1108731957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.89258,
+    15.63889,
+    103.89258,
+    15.63889
+],
+  "geometry": {"coordinates":[103.89258,15.63889],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1276683645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.11019,5.76197,101.11019,5.76197",
+    "geom:latitude":5.76197,
+    "geom:longitude":101.11019,
+    "gn:admin1_code":"70.0",
+    "gn:asciiname":"Ban Ra Mong Tai",
+    "gn:country_code":"TH",
+    "gn:dem":243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6975406,
+    "gn:latitude":5.76197,
+    "gn:longitude":101.11019,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ban Ra Mong Tai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e23\u0e32\u0e42\u0e21\u0e07\u0e43\u0e15\u0e49"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678611,
+        1108731185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6975406
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"9cdacfee98cfaa2c2f1849a606977b1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731185,
+            "locality_id":1276683645,
+            "region_id":85678611
+        }
+    ],
+    "wof:id":1276683645,
+    "wof:lastmodified":1537704352,
+    "wof:name":"Ban Ra Mong Tai",
+    "wof:parent_id":1108731185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.11019,
+    5.76197,
+    101.11019,
+    5.76197
+],
+  "geometry": {"coordinates":[101.11019,5.76197],"type":"Point"}
+}

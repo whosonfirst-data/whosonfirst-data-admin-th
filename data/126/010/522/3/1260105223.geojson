@@ -1,0 +1,70 @@
+{
+  "id": 1260105223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.90206,13.801,99.90206,13.801",
+    "geom:latitude":13.801,
+    "geom:longitude":99.90206,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Ban Hua Pong Lek",
+    "gn:country_code":"TH",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1157333,
+    "gn:latitude":13.801,
+    "gn:longitude":99.90206,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Ban Hua Pong Lek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e31\u0e27\u0e42\u0e1b\u0e48\u0e07\u0e40\u0e25\u0e47\u0e01"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678761,
+        1108731153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1157333
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"29d999e077d9d7107316b4ccf0282a51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731153,
+            "locality_id":1260105223,
+            "region_id":85678761
+        }
+    ],
+    "wof:id":1260105223,
+    "wof:lastmodified":1537703254,
+    "wof:name":"Ban Hua Pong Lek",
+    "wof:parent_id":1108731153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.90206,
+    13.801,
+    99.90206,
+    13.801
+],
+  "geometry": {"coordinates":[99.90206000000001,13.801],"type":"Point"}
+}

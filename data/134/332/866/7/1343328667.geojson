@@ -1,0 +1,70 @@
+{
+  "id": 1343328667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.85236,15.45606,101.85236,15.45606",
+    "geom:latitude":15.45606,
+    "geom:longitude":101.85236,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Ban Nong Na",
+    "gn:country_code":"TH",
+    "gn:dem":224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8370308,
+    "gn:latitude":15.45606,
+    "gn:longitude":101.85236,
+    "gn:modification_date":"2012-08-06",
+    "gn:name":"Ban Nong Na",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e19\u0e2d\u0e07\u0e19\u0e32"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678825,
+        1108731237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8370308
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"c2363243bbd84ef47ae01f1ad9a389e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731237,
+            "locality_id":1343328667,
+            "region_id":85678825
+        }
+    ],
+    "wof:id":1343328667,
+    "wof:lastmodified":1537705505,
+    "wof:name":"Ban Nong Na",
+    "wof:parent_id":1108731237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.85236,
+    15.45606,
+    101.85236,
+    15.45606
+],
+  "geometry": {"coordinates":[101.85236,15.45606],"type":"Point"}
+}

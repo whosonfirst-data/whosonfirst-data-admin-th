@@ -1,0 +1,73 @@
+{
+  "id": 1242903071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.34083,12.46614,102.34083,12.46614",
+    "geom:latitude":12.46614,
+    "geom:longitude":102.34083,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"Ban Tha Samoe",
+    "gn:country_code":"TH",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1597696,
+    "gn:latitude":12.46614,
+    "gn:longitude":102.34083,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Tha Samoe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e17\u0e48\u0e32\u0e40\u0e2a\u0e21\u0e2d"
+    ],
+    "name:und_x_variant":[
+        "Ban Tha Samo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678813,
+        1108731367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1597696
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"df105a8da95e9a75daca07d2ac3d1558",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731367,
+            "locality_id":1242903071,
+            "region_id":85678813
+        }
+    ],
+    "wof:id":1242903071,
+    "wof:lastmodified":1537703377,
+    "wof:name":"Ban Tha Samoe",
+    "wof:parent_id":1108731367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.34083,
+    12.46614,
+    102.34083,
+    12.46614
+],
+  "geometry": {"coordinates":[102.34083,12.46614],"type":"Point"}
+}

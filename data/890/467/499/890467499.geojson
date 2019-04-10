@@ -1,0 +1,63 @@
+{
+  "id": 890467499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.9417,17.94771,97.9417,17.94771",
+    "geom:latitude":17.94771,
+    "geom:longitude":97.9417,
+    "gn:country":"TH",
+    "gn:fcode":"ADM3",
+    "gn:pop":7827,
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Ban Mae Suat",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1119056,
+        "qs:id":555120
+    },
+    "wof:country":"TH",
+    "wof:created":1469053649,
+    "wof:geomhash":"454c918d2e3c8f152ea166c9010af3c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "localadmin_id":890467499,
+            "region_id":85678555
+        }
+    ],
+    "wof:id":890467499,
+    "wof:lastmodified":1505343710,
+    "wof:name":"Ban Mae Suat",
+    "wof:parent_id":85678555,
+    "wof:placetype":"localadmin",
+    "wof:population":7827,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.9417,
+    17.94771,
+    97.9417,
+    17.94771
+],
+  "geometry": {"coordinates":[97.9417,17.94771],"type":"Point"}
+}

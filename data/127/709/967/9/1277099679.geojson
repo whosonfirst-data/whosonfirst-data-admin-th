@@ -1,0 +1,70 @@
+{
+  "id": 1277099679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.16703,6.25831,101.16703,6.25831",
+    "geom:latitude":6.25831,
+    "geom:longitude":101.16703,
+    "gn:admin1_code":"70.0",
+    "gn:asciiname":"Ban Tham Thalu",
+    "gn:country_code":"TH",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6975852,
+    "gn:latitude":6.25831,
+    "gn:longitude":101.16703,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ban Tham Thalu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e16\u0e49\u0e33\u0e17\u0e30\u0e25\u0e38"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678611,
+        1108731183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6975852
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"0277be7d0b772fac6aeb4e42b61630c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731183,
+            "locality_id":1277099679,
+            "region_id":85678611
+        }
+    ],
+    "wof:id":1277099679,
+    "wof:lastmodified":1537704361,
+    "wof:name":"Ban Tham Thalu",
+    "wof:parent_id":1108731183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.16703,
+    6.25831,
+    101.16703,
+    6.25831
+],
+  "geometry": {"coordinates":[101.16703,6.25831],"type":"Point"}
+}

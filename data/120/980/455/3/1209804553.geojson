@@ -1,0 +1,75 @@
+{
+  "id": 1209804553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.98533,16.97722,99.98533,16.97722",
+    "geom:latitude":16.97722,
+    "geom:longitude":99.98533,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ban Krai Klang",
+    "gn:country_code":"TH",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1156776,
+    "gn:latitude":16.97722,
+    "gn:longitude":99.98533,
+    "gn:modification_date":"2012-11-07",
+    "gn:name":"Ban Krai Klang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e44\u0e01\u0e23\u0e01\u0e25\u0e32\u0e07"
+    ],
+    "name:und_x_variant":[
+        "Krai Klang",
+        "B\u0101n Gr\u0101i",
+        "Ban Krai Klang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678651,
+        1108731423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1156776
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"a7ebd70496af4d1eecfdc9c1ff879a7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731423,
+            "locality_id":1209804553,
+            "region_id":85678651
+        }
+    ],
+    "wof:id":1209804553,
+    "wof:lastmodified":1537703218,
+    "wof:name":"Ban Krai Klang",
+    "wof:parent_id":1108731423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.98533,
+    16.97722000000001,
+    99.98533,
+    16.97722000000001
+],
+  "geometry": {"coordinates":[99.98533,16.97722000000001],"type":"Point"}
+}

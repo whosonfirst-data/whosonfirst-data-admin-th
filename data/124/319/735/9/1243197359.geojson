@@ -1,0 +1,70 @@
+{
+  "id": 1243197359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.18994,7.96575,100.18994,7.96575",
+    "geom:latitude":7.96575,
+    "geom:longitude":100.18994,
+    "gn:admin1_code":"64.0",
+    "gn:asciiname":"Ban Phang Kan Thom",
+    "gn:country_code":"TH",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8242419,
+    "gn:latitude":7.96575,
+    "gn:longitude":100.18994,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Ban Phang Kan Thom",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1e\u0e31\u0e07\u0e01\u0e32\u0e19\u0e17\u0e48\u0e2d\u0e21"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678565,
+        890466369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8242419
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"585e17dfa64abb0f6a109b3b1bf7aa3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466369,
+            "locality_id":1243197359,
+            "region_id":85678565
+        }
+    ],
+    "wof:id":1243197359,
+    "wof:lastmodified":1537705245,
+    "wof:name":"Ban Phang Kan Thom",
+    "wof:parent_id":890466369,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.18994,
+    7.96575,
+    100.18994,
+    7.96575
+],
+  "geometry": {"coordinates":[100.18994000000001,7.96575],"type":"Point"}
+}

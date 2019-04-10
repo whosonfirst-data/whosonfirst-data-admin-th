@@ -1,0 +1,70 @@
+{
+  "id": 1327159209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.873,12.89447,100.873,12.89447",
+    "geom:latitude":12.89447,
+    "geom:longitude":100.873,
+    "gn:admin1_code":"46.0",
+    "gn:asciiname":"Ban Laem Mai Ruak",
+    "gn:country_code":"TH",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7368242,
+    "gn:latitude":12.89447,
+    "gn:longitude":100.873,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Laem Mai Ruak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e41\u0e2b\u0e25\u0e21\u0e44\u0e21\u0e49\u0e23\u0e27\u0e01"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678625,
+        890466015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7368242
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"7270e6d07edf47460c997a7a0120c760",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466015,
+            "locality_id":1327159209,
+            "region_id":85678625
+        }
+    ],
+    "wof:id":1327159209,
+    "wof:lastmodified":1537704453,
+    "wof:name":"Ban Laem Mai Ruak",
+    "wof:parent_id":890466015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.873,
+    12.89447,
+    100.873,
+    12.89447
+],
+  "geometry": {"coordinates":[100.873,12.89447],"type":"Point"}
+}

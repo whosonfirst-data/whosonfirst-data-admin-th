@@ -1,0 +1,70 @@
+{
+  "id": 1226396685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.79733,15.92864,101.79733,15.92864",
+    "geom:latitude":15.92864,
+    "geom:longitude":101.79733,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Ban Na In Taeng",
+    "gn:country_code":"TH",
+    "gn:dem":247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8370344,
+    "gn:latitude":15.92864,
+    "gn:longitude":101.79733,
+    "gn:modification_date":"2012-08-06",
+    "gn:name":"Ban Na In Taeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e19\u0e32\u0e2d\u0e34\u0e19\u0e17\u0e23\u0e4c\u0e41\u0e15\u0e48\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678825,
+        1108731117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8370344
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"281d0b16ad61b1cf10284a666096b834",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731117,
+            "locality_id":1226396685,
+            "region_id":85678825
+        }
+    ],
+    "wof:id":1226396685,
+    "wof:lastmodified":1537705505,
+    "wof:name":"Ban Na In Taeng",
+    "wof:parent_id":1108731117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.79733,
+    15.92864,
+    101.79733,
+    15.92864
+],
+  "geometry": {"coordinates":[101.79733,15.92864],"type":"Point"}
+}

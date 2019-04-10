@@ -1,0 +1,70 @@
+{
+  "id": 1327434963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.09339,19.00056,98.09339,19.00056",
+    "geom:latitude":19.00056,
+    "geom:longitude":98.09339,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ban Huai Bo Rang",
+    "gn:country_code":"TH",
+    "gn:dem":974,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1331004,
+    "gn:latitude":19.00056,
+    "gn:longitude":98.09339,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ban Huai Bo Rang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e49\u0e27\u0e22\u0e1a\u0e48\u0e2d\u0e23\u0e32\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678555,
+        890466979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1331004
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"760aa01c33a7cfbb3a2319172efc61f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466979,
+            "locality_id":1327434963,
+            "region_id":85678555
+        }
+    ],
+    "wof:id":1327434963,
+    "wof:lastmodified":1537703327,
+    "wof:name":"Ban Huai Bo Rang",
+    "wof:parent_id":890466979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.09339,
+    19.00056,
+    98.09339,
+    19.00056
+],
+  "geometry": {"coordinates":[98.09339,19.00056],"type":"Point"}
+}

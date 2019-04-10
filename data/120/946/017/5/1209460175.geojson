@@ -1,0 +1,67 @@
+{
+  "id": 1209460175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.41667,15.03333,100.41667,15.03333",
+    "geom:latitude":15.03333,
+    "geom:longitude":100.41667,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Ban Pho Chai",
+    "gn:cc2":"TH",
+    "gn:country_code":"TH",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1614225,
+    "gn:latitude":15.03333,
+    "gn:longitude":100.41667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Pho Chai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pho Chai",
+        "B\u0101n Phau Ch\u0101i",
+        "Ban Pho Chai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1614225
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"7dc67d943db4fa1d46e57b0472e7a849",
+    "wof:hierarchy":[
+        {
+            "country_id":85632293,
+            "locality_id":1209460175
+        }
+    ],
+    "wof:id":1209460175,
+    "wof:lastmodified":1537703828,
+    "wof:name":"Ban Pho Chai",
+    "wof:parent_id":85632293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.41667,
+    15.03333,
+    100.41667,
+    15.03333
+],
+  "geometry": {"coordinates":[100.41667,15.03333],"type":"Point"}
+}

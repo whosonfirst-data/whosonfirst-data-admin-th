@@ -1,0 +1,70 @@
+{
+  "id": 1326787391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.54319,15.45064,103.54319,15.45064",
+    "geom:latitude":15.45064,
+    "geom:longitude":103.54319,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Ban Noi Phatthana",
+    "gn:country_code":"TH",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8680315,
+    "gn:latitude":15.45064,
+    "gn:longitude":103.54319,
+    "gn:modification_date":"2014-01-18",
+    "gn:name":"Ban Noi Phatthana",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e19\u0e49\u0e2d\u0e22\u0e1e\u0e31\u0e12\u0e19\u0e32"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678845,
+        1108731341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8680315
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"1d987dcf5e85cab87cb7629cc654f18f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731341,
+            "locality_id":1326787391,
+            "region_id":85678845
+        }
+    ],
+    "wof:id":1326787391,
+    "wof:lastmodified":1537705845,
+    "wof:name":"Ban Noi Phatthana",
+    "wof:parent_id":1108731341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.54319,
+    15.45064,
+    103.54319,
+    15.45064
+],
+  "geometry": {"coordinates":[103.54319,15.45064],"type":"Point"}
+}

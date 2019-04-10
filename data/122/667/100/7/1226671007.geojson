@@ -1,0 +1,70 @@
+{
+  "id": 1226671007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.26506,13.869,100.26506,13.869",
+    "geom:latitude":13.869,
+    "geom:longitude":100.26506,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Ban Khlong Chai Khan",
+    "gn:country_code":"TH",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6866305,
+    "gn:latitude":13.869,
+    "gn:longitude":100.26506,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ban Khlong Chai Khan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e04\u0e25\u0e2d\u0e07\u0e0a\u0e31\u0e22\u0e02\u0e31\u0e19\u0e18\u0e4c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678747,
+        1108731577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6866305
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"eb022aeebbcda6347f098257e6cd3f69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731577,
+            "locality_id":1226671007,
+            "region_id":85678747
+        }
+    ],
+    "wof:id":1226671007,
+    "wof:lastmodified":1537704325,
+    "wof:name":"Ban Khlong Chai Khan",
+    "wof:parent_id":1108731577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.26506,
+    13.869,
+    100.26506,
+    13.869
+],
+  "geometry": {"coordinates":[100.26506000000001,13.869],"type":"Point"}
+}

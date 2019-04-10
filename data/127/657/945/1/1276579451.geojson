@@ -1,0 +1,73 @@
+{
+  "id": 1276579451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.55006,14.05275,101.55006,14.05275",
+    "geom:latitude":14.05275,
+    "geom:longitude":101.55006,
+    "gn:admin1_code":"74.0",
+    "gn:asciiname":"Ban Bu Talat",
+    "gn:country_code":"TH",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1620360,
+    "gn:latitude":14.05275,
+    "gn:longitude":101.55006,
+    "gn:modification_date":"2014-04-05",
+    "gn:name":"Ban Bu Talat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1a\u0e38\u0e15\u0e25\u0e32\u0e14"
+    ],
+    "name:und_x_variant":[
+        "Ban Bu Ta Rat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678711,
+        1108731777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1620360
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"5ca84a151cd8ab118dfddfc112257dcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731777,
+            "locality_id":1276579451,
+            "region_id":85678711
+        }
+    ],
+    "wof:id":1276579451,
+    "wof:lastmodified":1537704224,
+    "wof:name":"Ban Bu Talat",
+    "wof:parent_id":1108731777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.55006,
+    14.05275,
+    101.55006,
+    14.05275
+],
+  "geometry": {"coordinates":[101.55006,14.05275],"type":"Point"}
+}

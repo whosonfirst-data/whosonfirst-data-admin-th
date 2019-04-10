@@ -1,0 +1,76 @@
+{
+  "id": 890465655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-11-10",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.49264,13.85581,100.49264,13.85581",
+    "geom:latitude":13.85581,
+    "geom:longitude":100.49264,
+    "gn:country":"TH",
+    "gn:fcode":"ADM2",
+    "gn:pop":348553,
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e19\u0e19\u0e17\u0e1a\u0e38\u0e23\u0e35"
+    ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e19\u0e19\u0e17\u0e1a\u0e38\u0e23\u0e35"
+    ],
+    "name:unk_x_variant":[
+        "Amphoe Muang Nonthaburi"
+    ],
+    "qs:name":"Amphoe Mueang Nonthaburi",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"10",
+    "src:population":"geonames",
+    "wd:wordcount":332,
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1608640,
+        "qs:id":1151796,
+        "wd:id":"Q476050",
+        "wk:page":"Mueang Nonthaburi District"
+    },
+    "wof:country":"TH",
+    "wof:created":1469053528,
+    "wof:geomhash":"97befe14f44e20f7728a9895112fac2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465655,
+            "region_id":85678743
+        }
+    ],
+    "wof:id":890465655,
+    "wof:lastmodified":1527736656,
+    "wof:name":"Amphoe Mueang Nonthaburi",
+    "wof:parent_id":85678743,
+    "wof:placetype":"county",
+    "wof:population":348553,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.49264,
+    13.85581,
+    100.49264,
+    13.85581
+],
+  "geometry": {"coordinates":[100.49263999999999,13.85581],"type":"Point"}
+}

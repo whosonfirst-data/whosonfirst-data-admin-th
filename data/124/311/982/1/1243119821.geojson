@@ -1,0 +1,70 @@
+{
+  "id": 1243119821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.65781,15.53525,101.65781,15.53525",
+    "geom:latitude":15.53525,
+    "geom:longitude":101.65781,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Ban Wang Phra Sai",
+    "gn:country_code":"TH",
+    "gn:dem":234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8370113,
+    "gn:latitude":15.53525,
+    "gn:longitude":101.65781,
+    "gn:modification_date":"2012-08-06",
+    "gn:name":"Ban Wang Phra Sai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e27\u0e31\u0e07\u0e1e\u0e23\u0e30\u0e17\u0e23\u0e32\u0e22"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678825,
+        890467457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8370113
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"d0cefce6b4615ba9caac1c27c0c17d10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890467457,
+            "locality_id":1243119821,
+            "region_id":85678825
+        }
+    ],
+    "wof:id":1243119821,
+    "wof:lastmodified":1537705503,
+    "wof:name":"Ban Wang Phra Sai",
+    "wof:parent_id":890467457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.65781,
+    15.53525,
+    101.65781,
+    15.53525
+],
+  "geometry": {"coordinates":[101.65781,15.53525],"type":"Point"}
+}

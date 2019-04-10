@@ -1,0 +1,70 @@
+{
+  "id": 1310089453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.84489,17.27886,99.84489,17.27886",
+    "geom:latitude":17.27886,
+    "geom:longitude":99.84489,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ban Khung Wari",
+    "gn:country_code":"TH",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8414860,
+    "gn:latitude":17.27886,
+    "gn:longitude":99.84489,
+    "gn:modification_date":"2012-11-10",
+    "gn:name":"Ban Khung Wari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e04\u0e38\u0e49\u0e07\u0e27\u0e32\u0e23\u0e35"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678651,
+        1108731869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8414860
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"20379494124fdb876c583c1bcca9c626",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731869,
+            "locality_id":1310089453,
+            "region_id":85678651
+        }
+    ],
+    "wof:id":1310089453,
+    "wof:lastmodified":1537705596,
+    "wof:name":"Ban Khung Wari",
+    "wof:parent_id":1108731869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.84489,
+    17.27886,
+    99.84489,
+    17.27886
+],
+  "geometry": {"coordinates":[99.84489000000001,17.27886],"type":"Point"}
+}

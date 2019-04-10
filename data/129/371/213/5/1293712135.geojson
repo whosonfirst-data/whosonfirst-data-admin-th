@@ -1,0 +1,70 @@
+{
+  "id": 1293712135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.27006,15.87311,105.27006,15.87311",
+    "geom:latitude":15.87311,
+    "geom:longitude":105.27006,
+    "gn:admin1_code":"75.0",
+    "gn:asciiname":"Ban Na Kratai",
+    "gn:country_code":"TH",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8316824,
+    "gn:latitude":15.87311,
+    "gn:longitude":105.27006,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Ban Na Kratai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e19\u0e32\u0e01\u0e23\u0e30\u0e15\u0e48\u0e32\u0e22"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678783,
+        1108731371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8316824
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"0e7d5912f99a77ac2be5d0ebe521ff66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731371,
+            "locality_id":1293712135,
+            "region_id":85678783
+        }
+    ],
+    "wof:id":1293712135,
+    "wof:lastmodified":1537705319,
+    "wof:name":"Ban Na Kratai",
+    "wof:parent_id":1108731371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.27006000000002,
+    15.87311,
+    105.27006000000002,
+    15.87311
+],
+  "geometry": {"coordinates":[105.27006000000002,15.87311],"type":"Point"}
+}

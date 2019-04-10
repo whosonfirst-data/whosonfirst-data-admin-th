@@ -1,0 +1,70 @@
+{
+  "id": 1327047077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.00869,13.86206,100.00869,13.86206",
+    "geom:latitude":13.86206,
+    "geom:longitude":100.00869,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Ban Talat Suea",
+    "gn:country_code":"TH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7508499,
+    "gn:latitude":13.86206,
+    "gn:longitude":100.00869,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Talat Suea",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e15\u0e25\u0e32\u0e14\u0e40\u0e2a\u0e37\u0e2d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678747,
+        1108802671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7508499
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"87c6bcfbdc67c42947c7bc7800457882",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802671,
+            "locality_id":1327047077,
+            "region_id":85678747
+        }
+    ],
+    "wof:id":1327047077,
+    "wof:lastmodified":1537704545,
+    "wof:name":"Ban Talat Suea",
+    "wof:parent_id":1108802671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.00869,
+    13.86206,
+    100.00869,
+    13.86206
+],
+  "geometry": {"coordinates":[100.00869,13.86206],"type":"Point"}
+}

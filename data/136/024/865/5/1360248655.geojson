@@ -1,0 +1,70 @@
+{
+  "id": 1360248655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.56083,15.68072,99.56083,15.68072",
+    "geom:latitude":15.68072,
+    "geom:longitude":99.56083,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ban Thung Faek",
+    "gn:country_code":"TH",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8343099,
+    "gn:latitude":15.68072,
+    "gn:longitude":99.56083,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Ban Thung Faek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e17\u0e38\u0e48\u0e07\u0e41\u0e1d\u0e01"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678715,
+        1108731513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8343099
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"18a3553407cb915d64ad360a7d82325b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731513,
+            "locality_id":1360248655,
+            "region_id":85678715
+        }
+    ],
+    "wof:id":1360248655,
+    "wof:lastmodified":1537705446,
+    "wof:name":"Ban Thung Faek",
+    "wof:parent_id":1108731513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.56083,
+    15.68072,
+    99.56083,
+    15.68072
+],
+  "geometry": {"coordinates":[99.56083,15.68072],"type":"Point"}
+}

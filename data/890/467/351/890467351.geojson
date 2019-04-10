@@ -1,0 +1,74 @@
+{
+  "id": 890467351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.55,14.38333,100.55,14.38333",
+    "geom:latitude":14.38333,
+    "geom:longitude":100.55,
+    "gn:country":"TH",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424960,
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e27\u0e31\u0e14\u0e15\u0e39\u0e21"
+    ],
+    "qs:name":"Ban Wat Tum",
+    "qs:name_adm0":"Thailand",
+    "qs:name_adm1":"Phra Nakhon Si Ayutthaya",
+    "qs:photos":153,
+    "qs:photos_1k":31,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":153,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1611765,
+        "gp:id":1224526,
+        "qs:id":229231
+    },
+    "wof:country":"TH",
+    "wof:created":1469053637,
+    "wof:geomhash":"826da107ca00b4512b02164858e43406",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "locality_id":890467351,
+            "region_id":85678721
+        }
+    ],
+    "wof:id":890467351,
+    "wof:lastmodified":1505343710,
+    "wof:name":"Ban Wat Tum",
+    "wof:parent_id":85678721,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.55,
+    14.38333,
+    100.55,
+    14.38333
+],
+  "geometry": {"coordinates":[100.55,14.38333],"type":"Point"}
+}

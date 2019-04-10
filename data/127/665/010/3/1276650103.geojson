@@ -1,0 +1,73 @@
+{
+  "id": 1276650103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.2067,17.79343,100.2067,17.79343",
+    "geom:latitude":17.79343,
+    "geom:longitude":100.2067,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Ban Khun Fang",
+    "gn:country_code":"TH",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1602156,
+    "gn:latitude":17.79343,
+    "gn:longitude":100.2067,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Khun Fang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "Ban Khun Fang"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e02\u0e38\u0e19\u0e1d\u0e32\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678657,
+        890466775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1602156
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"121dd9f0b98bfff6507b2640a4638127",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466775,
+            "locality_id":1276650103,
+            "region_id":85678657
+        }
+    ],
+    "wof:id":1276650103,
+    "wof:lastmodified":1537703536,
+    "wof:name":"Ban Khun Fang",
+    "wof:parent_id":890466775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.2067,
+    17.79342999999999,
+    100.2067,
+    17.79342999999999
+],
+  "geometry": {"coordinates":[100.2067,17.79342999999999],"type":"Point"}
+}

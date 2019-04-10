@@ -1,0 +1,70 @@
+{
+  "id": 1193153881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.06947,13.50295,101.06947,13.50295",
+    "geom:latitude":13.50295,
+    "geom:longitude":101.06947,
+    "gn:admin1_code":"46.0",
+    "gn:asciiname":"Ban Khok Fai",
+    "gn:country_code":"TH",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7796916,
+    "gn:latitude":13.50295,
+    "gn:longitude":101.06947,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Khok Fai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e42\u0e04\u0e01\u0e1d\u0e49\u0e32\u0e22"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678795,
+        1108731701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7796916
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"80fc7c5d5e005570ffaeda856bebaada",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731701,
+            "locality_id":1193153881,
+            "region_id":85678795
+        }
+    ],
+    "wof:id":1193153881,
+    "wof:lastmodified":1537704708,
+    "wof:name":"Ban Khok Fai",
+    "wof:parent_id":1108731701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.06947,
+    13.50295,
+    101.06947,
+    13.50295
+],
+  "geometry": {"coordinates":[101.06947,13.50295],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1209870487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.22692,16.13261,102.22692,16.13261",
+    "geom:latitude":16.13261,
+    "geom:longitude":102.22692,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Ban Nong Makhuea",
+    "gn:country_code":"TH",
+    "gn:dem":211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1600161,
+    "gn:latitude":16.13261,
+    "gn:longitude":102.22692,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Ban Nong Makhuea",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e19\u0e2d\u0e07\u0e21\u0e30\u0e40\u0e02\u0e37\u0e2d"
+    ],
+    "name:und_x_variant":[
+        "Ban Nong Makhua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678825,
+        1108731313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1600161
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"5440bd0a333dbd3a4422d9ff469a5207",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731313,
+            "locality_id":1209870487,
+            "region_id":85678825
+        }
+    ],
+    "wof:id":1209870487,
+    "wof:lastmodified":1537703465,
+    "wof:name":"Ban Nong Makhuea",
+    "wof:parent_id":1108731313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.22692,
+    16.13261,
+    102.22692,
+    16.13261
+],
+  "geometry": {"coordinates":[102.22692000000001,16.13261],"type":"Point"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 1108802645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.002211,
+    "geom:area_square_m":26547370.50894,
+    "geom:bbox":"100.589971766,13.7861275304,100.661539964,13.8561955909",
+    "geom:latitude":13.824506,
+    "geom:longitude":100.617887,
+    "iso:country":"TH",
+    "lbl:latitude":13.825991,
+    "lbl:longitude":100.612469,
+    "meso:admin1_en":"KRUNG THEP",
+    "meso:diss_me":"Lat PhraoKRUNG THEP",
+    "meso:gadm_admin":"Lat Phrao",
+    "meso:gadm_hasc2":"TH.BM.LP",
+    "meso:gaul_admin":"Lat Phrao",
+    "meso:id":"289",
+    "meso:loc_id_alt":"1038",
+    "meso:local_id":"3238",
+    "meso:name_en":"Lat Phrao",
+    "meso:name_local":"\u0e40\u0e02\u0e15\u0e25\u0e32\u0e14\u0e1e\u0e23\u0e49\u0e32\u0e27",
+    "meso:source":"AOTM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Lat Phrao"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2000-04-01",
+    "statoids:area_km":"22",
+    "statoids:as_of_date":"2000-04-01",
+    "statoids:capital":"",
+    "statoids:country":"TH",
+    "statoids:hasc":"TH.BM",
+    "statoids:name":"Lat Phrao",
+    "statoids:population":"119838",
+    "statoids:statoid":"TH.BM.LP",
+    "statoids:timezone":"7",
+    "statoids:type":"district",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"TH.BM.LP"
+    },
+    "wof:country":"TH",
+    "wof:created":1485199003,
+    "wof:geomhash":"4b88b6a19be5daa830e4cc60269e614b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802645,
+            "region_id":85678739
+        }
+    ],
+    "wof:id":1108802645,
+    "wof:lastmodified":1536615835,
+    "wof:name":"Lat Phrao",
+    "wof:parent_id":85678739,
+    "wof:placetype":"county",
+    "wof:placetype_local":"district",
+    "wof:population":119838,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:shortcode":"LP",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.58997176617335,
+    13.78612753037582,
+    100.66153996405099,
+    13.85619559090607
+],
+  "geometry": {"coordinates":[[[100.59749042425736,13.84340939602555],[100.6103308415898,13.84604851662359],[100.61277672961451,13.84469236530828],[100.62424824541986,13.84188701186126],[100.62464006108189,13.84160391525661],[100.62536473130278,13.84148933794185],[100.63488544185086,13.85100327142638],[100.65749119073996,13.85619559090607],[100.66153996405099,13.85390809522384],[100.63700397371606,13.8308130360431],[100.63931619886274,13.82581796915541],[100.63718428640823,13.82149981949196],[100.63437294611093,13.81733446478344],[100.62094678085305,13.81060500992476],[100.62024763419502,13.80564948867253],[100.62077995163462,13.8047727186248],[100.62302290929286,13.79206654661213],[100.61480317928815,13.78633418527545],[100.61417107951794,13.78612753037582],[100.60989901534663,13.78899232021037],[100.60590359190881,13.7944275136417],[100.59889416274522,13.79385788783678],[100.59598171156051,13.79643813645037],[100.59482840878131,13.81640371658746],[100.59537118765984,13.81708416744016],[100.59645649269416,13.81972268757606],[100.59627161684504,13.82067185704016],[100.58997176617335,13.8299999999998],[100.59056833592082,13.83305555958041],[100.59749042425736,13.84340939602555]]],"type":"Polygon"}
+}

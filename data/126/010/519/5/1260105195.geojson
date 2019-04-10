@@ -1,0 +1,73 @@
+{
+  "id": 1260105195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.96086,9.18947,98.96086,9.18947",
+    "geom:latitude":9.18947,
+    "geom:longitude":98.96086,
+    "gn:admin1_code":"60.0",
+    "gn:asciiname":"Ban Takuk",
+    "gn:country_code":"TH",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1154669,
+    "gn:latitude":9.18947,
+    "gn:longitude":98.96086,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Ban Takuk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e15\u0e30\u0e01\u0e38\u0e01"
+    ],
+    "name:und_x_variant":[
+        "Ban Takuk Nua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678581,
+        1108731377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1154669
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"2787f61c0f78fbbf8585317d4d42fc10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731377,
+            "locality_id":1260105195,
+            "region_id":85678581
+        }
+    ],
+    "wof:id":1260105195,
+    "wof:lastmodified":1537703063,
+    "wof:name":"Ban Takuk",
+    "wof:parent_id":1108731377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.96086,
+    9.18947,
+    98.96086,
+    9.18947
+],
+  "geometry": {"coordinates":[98.96086,9.18947],"type":"Point"}
+}

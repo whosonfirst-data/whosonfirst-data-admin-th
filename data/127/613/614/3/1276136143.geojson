@@ -1,0 +1,70 @@
+{
+  "id": 1276136143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.20428,8.36092,100.20428,8.36092",
+    "geom:latitude":8.36092,
+    "geom:longitude":100.20428,
+    "gn:admin1_code":"64.0",
+    "gn:asciiname":"Ban Lang Amphoe",
+    "gn:country_code":"TH",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8242328,
+    "gn:latitude":8.36092,
+    "gn:longitude":100.20428,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Ban Lang Amphoe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e25\u0e31\u0e07\u0e2d\u0e33\u0e40\u0e20\u0e2d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678565,
+        1108731673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8242328
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"0f275623721290c7a3978426690828d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731673,
+            "locality_id":1276136143,
+            "region_id":85678565
+        }
+    ],
+    "wof:id":1276136143,
+    "wof:lastmodified":1537705243,
+    "wof:name":"Ban Lang Amphoe",
+    "wof:parent_id":1108731673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.20428,
+    8.36092,
+    100.20428,
+    8.36092
+],
+  "geometry": {"coordinates":[100.20428,8.36092],"type":"Point"}
+}

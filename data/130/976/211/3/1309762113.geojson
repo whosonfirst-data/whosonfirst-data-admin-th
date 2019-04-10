@@ -1,0 +1,70 @@
+{
+  "id": 1309762113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.64028,16.39667,103.64028,16.39667",
+    "geom:latitude":16.39667,
+    "geom:longitude":103.64028,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Ban Kae Pe Yai",
+    "gn:country_code":"TH",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8652973,
+    "gn:latitude":16.39667,
+    "gn:longitude":103.64028,
+    "gn:modification_date":"2013-12-17",
+    "gn:name":"Ban Kae Pe Yai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e41\u0e01\u0e40\u0e1b\u0e30\u0e43\u0e2b\u0e0d\u0e48"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678831,
+        890466881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8652973
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"acaa8ed47716dc8c0c4ae8b7416e480b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466881,
+            "locality_id":1309762113,
+            "region_id":85678831
+        }
+    ],
+    "wof:id":1309762113,
+    "wof:lastmodified":1537705765,
+    "wof:name":"Ban Kae Pe Yai",
+    "wof:parent_id":890466881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.64028,
+    16.39667,
+    103.64028,
+    16.39667
+],
+  "geometry": {"coordinates":[103.64028,16.39667],"type":"Point"}
+}

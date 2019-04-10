@@ -1,0 +1,67 @@
+{
+  "id": 1209034183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.05994,17.91503,104.05994,17.91503",
+    "geom:latitude":17.91503,
+    "geom:longitude":104.05994,
+    "gn:admin1_code":"81.0",
+    "gn:asciiname":"Ban Bua Khok Nuea",
+    "gn:country_code":"TH",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1604352,
+    "gn:latitude":17.91503,
+    "gn:longitude":104.05994,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Ban Bua Khok Nuea",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1a\u0e31\u0e27\u0e42\u0e04\u0e01\u0e40\u0e2b\u0e19\u0e37\u0e2d"
+    ],
+    "name:und_x_variant":[
+        "Ban Bua Khok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1604352
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"4898c298dde7a8786a78559e7ecb05bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632293,
+            "locality_id":1209034183
+        }
+    ],
+    "wof:id":1209034183,
+    "wof:lastmodified":1537703617,
+    "wof:name":"Ban Bua Khok Nuea",
+    "wof:parent_id":85632293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.05994,
+    17.91502999999999,
+    104.05994,
+    17.91502999999999
+],
+  "geometry": {"coordinates":[104.05994,17.91502999999999],"type":"Point"}
+}

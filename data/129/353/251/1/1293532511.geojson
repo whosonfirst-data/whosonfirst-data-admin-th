@@ -1,0 +1,70 @@
+{
+  "id": 1293532511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.473,14.40928,100.473,14.40928",
+    "geom:latitude":14.40928,
+    "geom:longitude":100.473,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Ban Mon",
+    "gn:country_code":"TH",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1616636,
+    "gn:latitude":14.40928,
+    "gn:longitude":100.473,
+    "gn:modification_date":"2014-02-06",
+    "gn:name":"Ban Mon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e21\u0e2d\u0e0d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678721,
+        1108802573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1616636
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"39e0c21a615a6b83f74710b54e648f57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802573,
+            "locality_id":1293532511,
+            "region_id":85678721
+        }
+    ],
+    "wof:id":1293532511,
+    "wof:lastmodified":1537703994,
+    "wof:name":"Ban Mon",
+    "wof:parent_id":1108802573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.473,
+    14.40928,
+    100.473,
+    14.40928
+],
+  "geometry": {"coordinates":[100.473,14.40928],"type":"Point"}
+}

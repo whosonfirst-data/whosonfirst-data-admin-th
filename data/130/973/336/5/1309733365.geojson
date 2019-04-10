@@ -1,0 +1,73 @@
+{
+  "id": 1309733365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.5,18.2,99.5,18.2",
+    "geom:latitude":18.2,
+    "geom:longitude":99.5,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Ban Kluai Hua Fai",
+    "gn:cc2":"TH",
+    "gn:country_code":"TH",
+    "gn:dem":268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1156849,
+    "gn:latitude":18.2,
+    "gn:longitude":99.5,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Kluai Hua Fai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u0101n Gluai",
+        "Ban Kluai",
+        "Ban Kluai Hua Fai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678625,
+        1108802669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1156849
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"372d8295140c2c99bd53e809f7126f3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802669,
+            "locality_id":1309733365,
+            "region_id":85678625
+        }
+    ],
+    "wof:id":1309733365,
+    "wof:lastmodified":1537703223,
+    "wof:name":"Ban Kluai Hua Fai",
+    "wof:parent_id":1108802669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.5,
+    18.2,
+    99.5,
+    18.2
+],
+  "geometry": {"coordinates":[99.5,18.2],"type":"Point"}
+}

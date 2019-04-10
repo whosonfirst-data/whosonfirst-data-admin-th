@@ -1,0 +1,70 @@
+{
+  "id": 1210045939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.36886,6.26136,101.36886,6.26136",
+    "geom:latitude":6.26136,
+    "geom:longitude":101.36886,
+    "gn:admin1_code":"70.0",
+    "gn:asciiname":"Ban Po Ta Bue Sa",
+    "gn:country_code":"TH",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7013376,
+    "gn:latitude":6.26136,
+    "gn:longitude":101.36886,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ban Po Ta Bue Sa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1b\u0e2d\u0e15\u0e4a\u0e30\u0e1a\u0e37\u0e2d\u0e0b\u0e32"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678611,
+        1108731183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7013376
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"e530dbbc986cb17a7cd985a1c03949de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731183,
+            "locality_id":1210045939,
+            "region_id":85678611
+        }
+    ],
+    "wof:id":1210045939,
+    "wof:lastmodified":1537704400,
+    "wof:name":"Ban Po Ta Bue Sa",
+    "wof:parent_id":1108731183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.36886,
+    6.26136,
+    101.36886,
+    6.26136
+],
+  "geometry": {"coordinates":[101.36886,6.26136],"type":"Point"}
+}

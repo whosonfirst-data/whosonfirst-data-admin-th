@@ -1,0 +1,70 @@
+{
+  "id": 1343987331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.28825,19.13806,100.28825,19.13806",
+    "geom:latitude":19.13806,
+    "geom:longitude":100.28825,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Ban Bon",
+    "gn:country_code":"TH",
+    "gn:dem":306,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8367486,
+    "gn:latitude":19.13806,
+    "gn:longitude":100.28825,
+    "gn:modification_date":"2012-08-06",
+    "gn:name":"Ban Bon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1a\u0e2d\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678637,
+        890466243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8367486
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"67ecbc88052d191fb8cd41cb408d0ffa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466243,
+            "locality_id":1343987331,
+            "region_id":85678637
+        }
+    ],
+    "wof:id":1343987331,
+    "wof:lastmodified":1537705492,
+    "wof:name":"Ban Bon",
+    "wof:parent_id":890466243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.28825,
+    19.13806,
+    100.28825,
+    19.13806
+],
+  "geometry": {"coordinates":[100.28825000000001,19.13806],"type":"Point"}
+}

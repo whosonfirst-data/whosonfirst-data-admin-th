@@ -1,0 +1,70 @@
+{
+  "id": 1309687905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.88269,17.77878,101.88269,17.77878",
+    "geom:latitude":17.77878,
+    "geom:longitude":101.88269,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Huai Alai",
+    "gn:country_code":"TH",
+    "gn:dem":302,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1603506,
+    "gn:latitude":17.77878,
+    "gn:longitude":101.88269,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Ban Huai Alai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e49\u0e27\u0e22\u0e2d\u0e32\u0e25\u0e31\u0e22"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678853,
+        1108731669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1603506
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"e83697232fa0e0354ae8f15fafce982f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731669,
+            "locality_id":1309687905,
+            "region_id":85678853
+        }
+    ],
+    "wof:id":1309687905,
+    "wof:lastmodified":1537703586,
+    "wof:name":"Ban Huai Alai",
+    "wof:parent_id":1108731669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.88269,
+    17.77877999999999,
+    101.88269,
+    17.77877999999999
+],
+  "geometry": {"coordinates":[101.88269,17.77877999999999],"type":"Point"}
+}

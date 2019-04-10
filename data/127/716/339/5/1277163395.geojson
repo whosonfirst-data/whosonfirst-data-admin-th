@@ -1,0 +1,70 @@
+{
+  "id": 1277163395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.51092,16.08744,100.51092,16.08744",
+    "geom:latitude":16.08744,
+    "geom:longitude":100.51092,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Ban Nong Katho",
+    "gn:country_code":"TH",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8451912,
+    "gn:latitude":16.08744,
+    "gn:longitude":100.51092,
+    "gn:modification_date":"2013-02-10",
+    "gn:name":"Ban Nong Katho",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e19\u0e2d\u0e07\u0e01\u0e30\u0e17\u0e2d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678669,
+        890465835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8451912
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"2362eb1a6ebeac88d5fc2467e2040471",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465835,
+            "locality_id":1277163395,
+            "region_id":85678669
+        }
+    ],
+    "wof:id":1277163395,
+    "wof:lastmodified":1537705611,
+    "wof:name":"Ban Nong Katho",
+    "wof:parent_id":890465835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.51092,
+    16.08744,
+    100.51092,
+    16.08744
+],
+  "geometry": {"coordinates":[100.51092,16.08744],"type":"Point"}
+}

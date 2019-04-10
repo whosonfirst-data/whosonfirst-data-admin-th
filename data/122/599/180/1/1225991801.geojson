@@ -1,0 +1,70 @@
+{
+  "id": 1225991801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.57517,15.29042,102.57517,15.29042",
+    "geom:latitude":15.29042,
+    "geom:longitude":102.57517,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Ban Chan Tamra",
+    "gn:country_code":"TH",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1620226,
+    "gn:latitude":15.29042,
+    "gn:longitude":102.57517,
+    "gn:modification_date":"2014-06-04",
+    "gn:name":"Ban Chan Tamra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e08\u0e32\u0e23\u0e22\u0e4c\u0e15\u0e33\u0e23\u0e32"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678841,
+        890466783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1620226
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"ef9643ebf46500dc02f9712f6b8ef5db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466783,
+            "locality_id":1225991801,
+            "region_id":85678841
+        }
+    ],
+    "wof:id":1225991801,
+    "wof:lastmodified":1537704216,
+    "wof:name":"Ban Chan Tamra",
+    "wof:parent_id":890466783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.57517,
+    15.29042,
+    102.57517,
+    15.29042
+],
+  "geometry": {"coordinates":[102.57517,15.29042],"type":"Point"}
+}

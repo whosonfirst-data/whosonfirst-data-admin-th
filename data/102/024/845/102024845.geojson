@@ -1,0 +1,120 @@
+{
+  "id": 102024845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000263,
+    "geom:bbox":"100.136570842,15.0683882565,100.155177171,15.0864669535",
+    "geom:latitude":15.077428,
+    "geom:longitude":100.145874,
+    "iso:country":"TH",
+    "lbl:latitude":15.077427,
+    "lbl:longitude":100.145874,
+    "mps:latitude":15.077427,
+    "mps:longitude":100.145874,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bpy_x_preferred":[
+        "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09b8\u09be\u09a8\u0996\u09be\u09ac\u09c1\u09b0\u09bf"
+    ],
+    "name:deu_x_preferred":[
+        "Amphoe Sankhaburi"
+    ],
+    "name:eng_x_preferred":[
+        "Sankhaburi"
+    ],
+    "name:eng_x_variant":[
+        "Ban Na Phra Lan",
+        "Na Phra Lan",
+        "San Buri",
+        "Sarn Buri"
+    ],
+    "name:fra_x_preferred":[
+        "Amphoe Sankhaburi"
+    ],
+    "name:ron_x_preferred":[
+        "Districtul Sankhaburi"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e2a\u0e23\u0e23\u0e04\u0e1a\u0e38\u0e23\u0e35"
+    ],
+    "name:tha_x_variant":[
+        "\u0e2a\u0e23\u0e23\u0e04\u0e1a\u0e38\u0e23\u0e35"
+    ],
+    "name:unk_x_variant":[
+        "Amphoe San Buri"
+    ],
+    "name:vie_x_preferred":[
+        "Sankhaburi"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Sankhaburi K\u016bn"
+    ],
+    "name:zho_x_preferred":[
+        "\u8a15\u5361\u6b66\u91cc\u7e23"
+    ],
+    "qs:a0":"Thailand",
+    "qs:a1":"*Chai Nat",
+    "qs:a1r":"*",
+    "qs:a2":"Sankhaburi",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Sankhaburi",
+    "qs:loc_alt":"Sankhaburi",
+    "qs:loc_lc":"1606530",
+    "qs:pop":0,
+    "qs:source":"Aquattroshapes",
+    "qs:type":"Town",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":96,
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"07cf4d52-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":1606530,
+        "gp:id":1225639,
+        "qs:id":1159774,
+        "qs_pg:id":1159774,
+        "wd:id":"Q476639"
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"5de6fc5db2464715ae082e999ee72555",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "locality_id":102024845,
+            "region_id":85678699
+        }
+    ],
+    "wof:id":102024845,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527636430,
+    "wof:name":"Sankhaburi",
+    "wof:parent_id":85678699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.13657084245624,
+    15.06838825654256,
+    100.15517717110772,
+    15.08646695350869
+],
+  "geometry": {"coordinates":[[[100.14764144589846,15.06855276817825],[100.14582563485426,15.06838825654256],[100.14401168149386,15.06857110776259],[100.14226928662201,15.06909429641996],[100.14066540264982,15.06993771951693],[100.13926166169325,15.07106896859064],[100.1381120077311,15.07244457457239],[100.1372606237215,15.07401167764121],[100.13674023331073,15.07571005799693],[100.13657084245624,15.07747444960238],[100.13675896944532,15.07923704805108],[100.13729739307884,15.08093011622519],[100.13816542889556,15.08248858761419],[100.13932972301988,15.08385256721822],[100.14074553328304,15.08496963386024],[100.14235844848641,15.0857968553432],[100.14410647975849,15.08630243891305],[100.14592244358109,15.08646695350869],[100.14773654478181,15.08628407675646],[100.14947906004882,15.08576083796213],[100.15108301864161,15.08491734775609],[100.15248677708389,15.08378602481808],[100.15363638873511,15.08241034946188],[100.15448767707831,15.08084319207011],[100.15500793303165,15.07914478071314],[100.15517717110772,15.07738038614775],[100.15498889627823,15.07561781323115],[100.15445035224955,15.0739247951941],[100.15358224181234,15.07236639091408],[100.15241793020219,15.07100248517445],[100.15100216225007,15.06988548790687],[100.14938934271304,15.06905832074686],[100.14764144589846,15.06855276817825]]],"type":"Polygon"}
+}

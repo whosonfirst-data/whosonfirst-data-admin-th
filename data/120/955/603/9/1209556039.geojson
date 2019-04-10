@@ -1,0 +1,67 @@
+{
+  "id": 1209556039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.58417,14.97075,100.58417,14.97075",
+    "geom:latitude":14.97075,
+    "geom:longitude":100.58417,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Ban Nong Kwian Hak",
+    "gn:country_code":"TH",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1617712,
+    "gn:latitude":14.97075,
+    "gn:longitude":100.58417,
+    "gn:modification_date":"2014-07-08",
+    "gn:name":"Ban Nong Kwian Hak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e19\u0e2d\u0e07\u0e40\u0e01\u0e27\u0e35\u0e22\u0e19\u0e2b\u0e31\u0e01"
+    ],
+    "name:und_x_variant":[
+        "Ban Khuan Krathin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1617712
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"229455bce84edce6aa99ab1bcacb21c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632293,
+            "locality_id":1209556039
+        }
+    ],
+    "wof:id":1209556039,
+    "wof:lastmodified":1537704069,
+    "wof:name":"Ban Nong Kwian Hak",
+    "wof:parent_id":85632293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.58417,
+    14.97075,
+    100.58417,
+    14.97075
+],
+  "geometry": {"coordinates":[100.58417,14.97075],"type":"Point"}
+}

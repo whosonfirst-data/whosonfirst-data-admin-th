@@ -1,0 +1,73 @@
+{
+  "id": 1225961219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.10761,17.45561,104.10761,17.45561",
+    "geom:latitude":17.45561,
+    "geom:longitude":104.10761,
+    "gn:admin1_code":"73.0",
+    "gn:asciiname":"Ban Na Ngua",
+    "gn:country_code":"TH",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1600939,
+    "gn:latitude":17.45561,
+    "gn:longitude":104.10761,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Na Ngua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "Ban Na Ngua"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e19\u0e32\u0e07\u0e31\u0e27"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678879,
+        1108731565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1600939
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"0521589e05e0e0cee60307b15bb0e0c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731565,
+            "locality_id":1225961219,
+            "region_id":85678879
+        }
+    ],
+    "wof:id":1225961219,
+    "wof:lastmodified":1537703493,
+    "wof:name":"Ban Na Ngua",
+    "wof:parent_id":1108731565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.10761,
+    17.45561,
+    104.10761,
+    17.45561
+],
+  "geometry": {"coordinates":[104.10760999999999,17.45561],"type":"Point"}
+}

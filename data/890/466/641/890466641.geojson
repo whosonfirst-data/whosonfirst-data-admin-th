@@ -1,0 +1,77 @@
+{
+  "id": 890466641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.1,15.33333,100.1,15.33333",
+    "geom:latitude":15.33333,
+    "geom:longitude":100.1,
+    "gn:country":"TH",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424960,
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e27\u0e31\u0e14\u0e42\u0e04\u0e01"
+    ],
+    "name:unk_x_variant":[
+        "B\u0101n Wat Kek"
+    ],
+    "qs:name":"Ban Wat Khok",
+    "qs:name_adm0":"Thailand",
+    "qs:name_adm1":"Chai Nat",
+    "qs:photos":93,
+    "qs:photos_1k":19,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":93,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1611789,
+        "gp:id":1224487,
+        "qs:id":959128
+    },
+    "wof:country":"TH",
+    "wof:created":1469053587,
+    "wof:geomhash":"f9710a1697b899c22b5dc9b62b821ae3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "locality_id":890466641,
+            "region_id":85678699
+        }
+    ],
+    "wof:id":890466641,
+    "wof:lastmodified":1505343707,
+    "wof:name":"Ban Wat Khok",
+    "wof:parent_id":85678699,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.1,
+    15.33333,
+    100.1,
+    15.33333
+],
+  "geometry": {"coordinates":[100.09999999999999,15.33333],"type":"Point"}
+}

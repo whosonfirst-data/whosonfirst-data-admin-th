@@ -1,0 +1,74 @@
+{
+  "id": 1327148823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.26667,7.5,100.26667,7.5",
+    "geom:latitude":7.5,
+    "geom:longitude":100.26667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Ban Ko Yai",
+    "gn:country_code":"TH",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1601988,
+    "gn:latitude":7.5,
+    "gn:longitude":100.26667,
+    "gn:modification_date":"1994-04-10",
+    "gn:name":"Ban Ko Yai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        1108802633,
+        1108731433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1601988
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"ed93033f67204b6f210b5e709e508516",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802633,
+            "locality_id":1327148823,
+            "region_id":-1
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731433,
+            "locality_id":1327148823,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1327148823,
+    "wof:lastmodified":1537086992,
+    "wof:name":"Ban Ko Yai",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.26667,
+    7.5,
+    100.26667,
+    7.5
+],
+  "geometry": {"coordinates":[100.26667,7.5],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1260284885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.8367,20.13644,99.8367,20.13644",
+    "geom:latitude":20.13644,
+    "geom:longitude":99.8367,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ban Pa Tueng",
+    "gn:country_code":"TH",
+    "gn:dem":422,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1463984,
+    "gn:latitude":20.13644,
+    "gn:longitude":99.8367,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Ban Pa Tueng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1b\u0e48\u0e32\u0e15\u0e36\u0e07 (\u0e2b\u0e19\u0e36\u0e48\u0e07)"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1b\u0e48\u0e32\u0e15\u0e36\u0e07 (1)"
+    ],
+    "name:und_x_variant":[
+        "Ban Pa Dung",
+        "Ban Pa Tueng",
+        "Ban Pa Tueng (Nueng)"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678617,
+        1108731489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1463984
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"238d70ea56e59aa1f798248f97ae9af3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731489,
+            "locality_id":1260284885,
+            "region_id":85678617
+        }
+    ],
+    "wof:id":1260284885,
+    "wof:lastmodified":1537703347,
+    "wof:name":"Ban Pa Tueng",
+    "wof:parent_id":1108731489,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.8367,
+    20.13644,
+    99.8367,
+    20.13644
+],
+  "geometry": {"coordinates":[99.83669999999999,20.13644],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1343819249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.01339,14.39831,103.01339,14.39831",
+    "geom:latitude":14.39831,
+    "geom:longitude":103.01339,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Ban Nong Prue Song",
+    "gn:country_code":"TH",
+    "gn:dem":220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7443737,
+    "gn:latitude":14.39831,
+    "gn:longitude":103.01339,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Nong Prue Song",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e19\u0e2d\u0e07\u0e1b\u0e23\u0e37\u0e2d \u0e2a\u0e2d\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678817,
+        1108802569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7443737
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"d310bf6c609d2908e6b9422957f37dcf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802569,
+            "locality_id":1343819249,
+            "region_id":85678817
+        }
+    ],
+    "wof:id":1343819249,
+    "wof:lastmodified":1537704485,
+    "wof:name":"Ban Nong Prue Song",
+    "wof:parent_id":1108802569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.01339,
+    14.39831,
+    103.01339,
+    14.39831
+],
+  "geometry": {"coordinates":[103.01339,14.39831],"type":"Point"}
+}

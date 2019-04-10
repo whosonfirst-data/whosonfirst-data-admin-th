@@ -1,0 +1,80 @@
+{
+  "id": 890467107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.86006,13.44492,99.86006,13.44492",
+    "geom:latitude":13.44492,
+    "geom:longitude":99.86006,
+    "gn:country":"TH",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424960,
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e1e\u0e25\u0e07"
+    ],
+    "name:unk_x_variant":[
+        "Ban Phleng"
+    ],
+    "qs:name":"Bang Phueng",
+    "qs:name_adm0":"Thailand",
+    "qs:name_adm1":"Samut Prakan",
+    "qs:photos":222,
+    "qs:photos_1k":45,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":222,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":323,
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8367537,
+        "gp:id":55944908,
+        "qs:id":361103,
+        "wd:id":"Q476440",
+        "wk:page":"Phra Pradaeng District"
+    },
+    "wof:country":"TH",
+    "wof:created":1469053612,
+    "wof:geomhash":"fd523d6a8f1c9b1754ad3c76c5dd746d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "locality_id":890467107,
+            "region_id":85678761
+        }
+    ],
+    "wof:id":890467107,
+    "wof:lastmodified":1527792898,
+    "wof:name":"Bang Phueng",
+    "wof:parent_id":85678761,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.86006,
+    13.44492,
+    99.86006,
+    13.44492
+],
+  "geometry": {"coordinates":[99.86006,13.44492],"type":"Point"}
+}

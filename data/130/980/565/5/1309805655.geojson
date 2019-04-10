@@ -1,0 +1,70 @@
+{
+  "id": 1309805655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.18178,17.83964,98.18178,17.83964",
+    "geom:latitude":17.83964,
+    "geom:longitude":98.18178,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Kong Po Tai",
+    "gn:country_code":"TH",
+    "gn:dem":941,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7793629,
+    "gn:latitude":17.83964,
+    "gn:longitude":98.18178,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Kong Po Tai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e01\u0e4b\u0e2d\u0e07\u0e1b\u0e4b\u0e2d\u0e43\u0e15\u0e49"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678619,
+        890465947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7793629
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"17deea1f89c2a9392f8df968d7fb1624",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465947,
+            "locality_id":1309805655,
+            "region_id":85678619
+        }
+    ],
+    "wof:id":1309805655,
+    "wof:lastmodified":1537704707,
+    "wof:name":"Ban Kong Po Tai",
+    "wof:parent_id":890465947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.18178,
+    17.83964,
+    98.18178,
+    17.83964
+],
+  "geometry": {"coordinates":[98.18178,17.83964],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 890466139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.33156,13.67411,101.33156,13.67411",
+    "geom:latitude":13.67411,
+    "geom:longitude":101.33156,
+    "gn:country":"TH",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424960,
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e19\u0e2d\u0e07\u0e41\u0e2b\u0e19"
+    ],
+    "name:unk_x_variant":[
+        "Ban Nong Haen"
+    ],
+    "qs:name":"Ban Nong Nae",
+    "qs:name_adm0":"Thailand",
+    "qs:name_adm1":"Chachoengsao",
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1600471,
+        "gp:id":1215001,
+        "qs:id":344214
+    },
+    "wof:country":"TH",
+    "wof:created":1469053566,
+    "wof:geomhash":"99926b5995a8d6ec1f8e7399f20eada9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "locality_id":890466139,
+            "region_id":85678797
+        }
+    ],
+    "wof:id":890466139,
+    "wof:lastmodified":1505343706,
+    "wof:name":"Ban Nong Nae",
+    "wof:parent_id":85678797,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.33156,
+    13.67411,
+    101.33156,
+    13.67411
+],
+  "geometry": {"coordinates":[101.33156,13.67411],"type":"Point"}
+}

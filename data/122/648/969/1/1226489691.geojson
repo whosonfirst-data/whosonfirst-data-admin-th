@@ -1,0 +1,70 @@
+{
+  "id": 1226489691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.69639,15.34872,101.69639,15.34872",
+    "geom:latitude":15.34872,
+    "geom:longitude":101.69639,
+    "gn:admin1_code":"27",
+    "gn:asciiname":"Ban Mai Laem Chong",
+    "gn:country_code":"TH",
+    "gn:dem":224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9106726,
+    "gn:latitude":15.34872,
+    "gn:longitude":101.69639,
+    "gn:modification_date":"2014-06-07",
+    "gn:name":"Ban Mai Laem Chong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e43\u0e2b\u0e21\u0e48\u0e41\u0e2b\u0e25\u0e21\u0e0a\u0e48\u0e2d\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678841,
+        890466375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9106726
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"86efbaf00906fcb566a117bd562a58f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466375,
+            "locality_id":1226489691,
+            "region_id":85678841
+        }
+    ],
+    "wof:id":1226489691,
+    "wof:lastmodified":1537706163,
+    "wof:name":"Ban Mai Laem Chong",
+    "wof:parent_id":890466375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.69639,
+    15.34872,
+    101.69639,
+    15.34872
+],
+  "geometry": {"coordinates":[101.69638999999999,15.34872],"type":"Point"}
+}

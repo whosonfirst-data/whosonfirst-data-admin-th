@@ -1,0 +1,73 @@
+{
+  "id": 1209740509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.31631,13.5297,101.31631,13.5297",
+    "geom:latitude":13.5297,
+    "geom:longitude":101.31631,
+    "gn:admin1_code":"44.0",
+    "gn:asciiname":"Ban Nong Nam Kin",
+    "gn:country_code":"TH",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1600094,
+    "gn:latitude":13.5297,
+    "gn:longitude":101.31631,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Nong Nam Kin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e19\u0e2d\u0e07\u0e19\u0e49\u0e33\u0e01\u0e34\u0e19"
+    ],
+    "name:und_x_variant":[
+        "Ban Nong Namkin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678797,
+        1108731767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1600094
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"82d6be715f1898fd70faab89d09f1318",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731767,
+            "locality_id":1209740509,
+            "region_id":85678797
+        }
+    ],
+    "wof:id":1209740509,
+    "wof:lastmodified":1537703462,
+    "wof:name":"Ban Nong Nam Kin",
+    "wof:parent_id":1108731767,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.31631,
+    13.5297,
+    101.31631,
+    13.5297
+],
+  "geometry": {"coordinates":[101.31631,13.5297],"type":"Point"}
+}

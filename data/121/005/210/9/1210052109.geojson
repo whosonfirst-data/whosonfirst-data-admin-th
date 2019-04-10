@@ -1,0 +1,73 @@
+{
+  "id": 1210052109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.21231,12.67397,102.21231,12.67397",
+    "geom:latitude":12.67397,
+    "geom:longitude":102.21231,
+    "gn:admin1_code":"48.0",
+    "gn:asciiname":"Ban Wang Sung",
+    "gn:country_code":"TH",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1611962,
+    "gn:latitude":12.67397,
+    "gn:longitude":102.21231,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Wang Sung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e27\u0e31\u0e07\u0e0b\u0e38\u0e07"
+    ],
+    "name:und_x_variant":[
+        "Ban Wang Kasung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678799,
+        1108802661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1611962
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"6cfd0724d6785d51eceff1cb3099c36d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802661,
+            "locality_id":1210052109,
+            "region_id":85678799
+        }
+    ],
+    "wof:id":1210052109,
+    "wof:lastmodified":1537703670,
+    "wof:name":"Ban Wang Sung",
+    "wof:parent_id":1108802661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.21231,
+    12.67397,
+    102.21231,
+    12.67397
+],
+  "geometry": {"coordinates":[102.21231,12.67397],"type":"Point"}
+}

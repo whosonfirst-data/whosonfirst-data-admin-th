@@ -1,0 +1,72 @@
+{
+  "id": 1259812821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.05,13.5,101.05,13.5",
+    "geom:latitude":13.5,
+    "geom:longitude":101.05,
+    "gn:admin1_code":"44.0",
+    "gn:asciiname":"Ban Bang Nang",
+    "gn:cc2":"TH",
+    "gn:country_code":"TH",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1620749,
+    "gn:latitude":13.5,
+    "gn:longitude":101.05,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Bang Nang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bang Nang",
+        "Ban Bang Nang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678795,
+        1108731701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1620749
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"8e96622b57b9ecd5d5ccf3c34ba5912b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731701,
+            "locality_id":1259812821,
+            "region_id":85678795
+        }
+    ],
+    "wof:id":1259812821,
+    "wof:lastmodified":1537704251,
+    "wof:name":"Ban Bang Nang",
+    "wof:parent_id":1108731701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.05,
+    13.5,
+    101.05,
+    13.5
+],
+  "geometry": {"coordinates":[101.05,13.5],"type":"Point"}
+}

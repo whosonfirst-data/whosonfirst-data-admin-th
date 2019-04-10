@@ -1,0 +1,73 @@
+{
+  "id": 1327275401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.1245,15.34953,100.1245,15.34953",
+    "geom:latitude":15.34953,
+    "geom:longitude":100.1245,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Ban Don Duea",
+    "gn:country_code":"TH",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1619965,
+    "gn:latitude":15.34953,
+    "gn:longitude":100.1245,
+    "gn:modification_date":"2014-01-08",
+    "gn:name":"Ban Don Duea",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e14\u0e2d\u0e19\u0e40\u0e14\u0e37\u0e48\u0e2d"
+    ],
+    "name:und_x_variant":[
+        "Ban Don Dua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678699,
+        1108731523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1619965
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"27de4a33cd6b1d272e1346f4762d6ab0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731523,
+            "locality_id":1327275401,
+            "region_id":85678699
+        }
+    ],
+    "wof:id":1327275401,
+    "wof:lastmodified":1537704198,
+    "wof:name":"Ban Don Duea",
+    "wof:parent_id":1108731523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.1245,
+    15.34953,
+    100.1245,
+    15.34953
+],
+  "geometry": {"coordinates":[100.1245,15.34953],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243483899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.33775,6.57978,101.33775,6.57978",
+    "geom:latitude":6.57978,
+    "geom:longitude":101.33775,
+    "gn:admin1_code":"69.0",
+    "gn:asciiname":"Ban Ton Tam Sao",
+    "gn:country_code":"TH",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7881565,
+    "gn:latitude":6.57978,
+    "gn:longitude":101.33775,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Ton Tam Sao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e15\u0e49\u0e19\u0e15\u0e33\u0e40\u0e2a\u0e32"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678889,
+        1108732087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7881565
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"f0c72d3cd9a80cbd77642702bf43ba80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108732087,
+            "locality_id":1243483899,
+            "region_id":85678889
+        }
+    ],
+    "wof:id":1243483899,
+    "wof:lastmodified":1537704813,
+    "wof:name":"Ban Ton Tam Sao",
+    "wof:parent_id":1108732087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.33775,
+    6.57978,
+    101.33775,
+    6.57978
+],
+  "geometry": {"coordinates":[101.33775,6.57978],"type":"Point"}
+}

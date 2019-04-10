@@ -1,0 +1,70 @@
+{
+  "id": 1276472011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.93597,13.48714,99.93597,13.48714",
+    "geom:latitude":13.48714,
+    "geom:longitude":99.93597,
+    "gn:admin1_code":"54.0",
+    "gn:asciiname":"Ban Khlong Rakam",
+    "gn:country_code":"TH",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8342436,
+    "gn:latitude":13.48714,
+    "gn:longitude":99.93597,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Ban Khlong Rakam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e04\u0e25\u0e2d\u0e07\u0e23\u0e30\u0e01\u0e33"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678775,
+        1108731165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8342436
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"8f19717f2232465ec0fdc57dd01f4fff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731165,
+            "locality_id":1276472011,
+            "region_id":85678775
+        }
+    ],
+    "wof:id":1276472011,
+    "wof:lastmodified":1537705438,
+    "wof:name":"Ban Khlong Rakam",
+    "wof:parent_id":1108731165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.93597,
+    13.48714,
+    99.93597,
+    13.48714
+],
+  "geometry": {"coordinates":[99.93597,13.48714],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1310041473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.39517,8.42045,99.39517,8.42045",
+    "geom:latitude":8.42045,
+    "geom:longitude":99.39517,
+    "gn:admin1_code":"64.0",
+    "gn:asciiname":"Tham Phannara",
+    "gn:country_code":"TH",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1117557,
+    "gn:latitude":8.42045,
+    "gn:longitude":99.39517,
+    "gn:modification_date":"2013-12-12",
+    "gn:name":"Tham Phannara",
+    "gn:population":7119,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e16\u0e49\u0e33\u0e1e\u0e23\u0e23\u0e13\u0e23\u0e32"
+    ],
+    "name:und_x_variant":[
+        "\u0e16\u0e49\u0e33\u0e1e\u0e23\u0e23\u0e13\u0e23\u0e32",
+        "Ban Tham Phan Nara",
+        "King Amphoe Tham Phannara",
+        "Amphoe Tham Phannara"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678565,
+        890465693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1117557
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"7617c7c249c22c4f57459a2575a78cc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465693,
+            "locality_id":1310041473,
+            "region_id":85678565
+        }
+    ],
+    "wof:id":1310041473,
+    "wof:lastmodified":1537702919,
+    "wof:name":"Tham Phannara",
+    "wof:parent_id":890465693,
+    "wof:placetype":"locality",
+    "wof:population":7119,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.39517,
+    8.42045,
+    99.39517,
+    8.42045
+],
+  "geometry": {"coordinates":[99.39516999999999,8.42045],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1209954881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.86256,13.73233,100.86256,13.73233",
+    "geom:latitude":13.73233,
+    "geom:longitude":100.86256,
+    "gn:admin1_code":"40.0",
+    "gn:admin2_code":"1011",
+    "gn:asciiname":"Ban Lam Ta In",
+    "gn:country_code":"TH",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1617084,
+    "gn:latitude":13.73233,
+    "gn:longitude":100.86256,
+    "gn:modification_date":"2017-03-23",
+    "gn:name":"Ban Lam Ta In",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e25\u0e33\u0e15\u0e32\u0e2d\u0e34\u0e19"
+    ],
+    "name:und_x_variant":[
+        "Ban Lam Ta In (2)",
+        "Ban Lam Ta In"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678739,
+        890465915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1617084
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"8656a115003982403ab100d7a1571282",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465915,
+            "locality_id":1209954881,
+            "region_id":85678739
+        }
+    ],
+    "wof:id":1209954881,
+    "wof:lastmodified":1537704025,
+    "wof:name":"Ban Lam Ta In",
+    "wof:parent_id":890465915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.86256,
+    13.73233,
+    100.86256,
+    13.73233
+],
+  "geometry": {"coordinates":[100.86256,13.73233],"type":"Point"}
+}

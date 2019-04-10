@@ -1,0 +1,73 @@
+{
+  "id": 890465809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-11-10",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.38801,13.6592,100.38801,13.6592",
+    "geom:latitude":13.6592,
+    "geom:longitude":100.38801,
+    "gn:country":"TH",
+    "gn:fcode":"ADM2",
+    "gn:pop":0,
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:tha_x_preferred":[
+        "\u0e40\u0e02\u0e15\u0e1a\u0e32\u0e07\u0e1a\u0e2d\u0e19"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e32\u0e07\u0e1a\u0e2d\u0e19"
+    ],
+    "qs:name":"Khet Bang Bon",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":198,
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7025981,
+        "gp:id":28341381,
+        "qs:id":1153927,
+        "wd:id":"Q534226",
+        "wk:page":"Bang Bon District"
+    },
+    "wof:country":"TH",
+    "wof:created":1469053535,
+    "wof:geomhash":"33ae69d9183f4471cd82b0b65cf4527a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465809,
+            "region_id":85678739
+        }
+    ],
+    "wof:id":890465809,
+    "wof:lastmodified":1527736656,
+    "wof:name":"Khet Bang Bon",
+    "wof:parent_id":85678739,
+    "wof:placetype":"county",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.38801,
+    13.6592,
+    100.38801,
+    13.6592
+],
+  "geometry": {"coordinates":[100.38800999999999,13.6592],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1226278285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.55672,16.93483,104.55672,16.93483",
+    "geom:latitude":16.93483,
+    "geom:longitude":104.55672,
+    "gn:admin1_code":"73.0",
+    "gn:asciiname":"Ban Suk Kasem",
+    "gn:country_code":"TH",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8027309,
+    "gn:latitude":16.93483,
+    "gn:longitude":104.55672,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Suk Kasem",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "Ban Suk Kasem"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2a\u0e38\u0e02\u0e40\u0e01\u0e29\u0e21"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678879,
+        1108731549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8027309
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"ed1830afb3dbccb5080fe1c1e76f34ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731549,
+            "locality_id":1226278285,
+            "region_id":85678879
+        }
+    ],
+    "wof:id":1226278285,
+    "wof:lastmodified":1537704913,
+    "wof:name":"Ban Suk Kasem",
+    "wof:parent_id":1108731549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.55672,
+    16.93483,
+    104.55672,
+    16.93483
+],
+  "geometry": {"coordinates":[104.55672,16.93483],"type":"Point"}
+}

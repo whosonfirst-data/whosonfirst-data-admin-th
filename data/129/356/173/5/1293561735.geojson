@@ -1,0 +1,67 @@
+{
+  "id": 1293561735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.48639,15.07111,99.48639,15.07111",
+    "geom:latitude":15.07111,
+    "geom:longitude":99.48639,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ban Lui",
+    "gn:country_code":"TH",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1119226,
+    "gn:latitude":15.07111,
+    "gn:longitude":99.48639,
+    "gn:modification_date":"2000-09-11",
+    "gn:name":"Ban Lui",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678689,
+        890465633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1119226
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"0caa63d87db05f4e0d74b6153fd4edc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465633,
+            "locality_id":1293561735,
+            "region_id":85678689
+        }
+    ],
+    "wof:id":1293561735,
+    "wof:lastmodified":1536680118,
+    "wof:name":"Ban Lui",
+    "wof:parent_id":890465633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.48639,
+    15.07111,
+    99.48639,
+    15.07111
+],
+  "geometry": {"coordinates":[99.48639,15.07111],"type":"Point"}
+}

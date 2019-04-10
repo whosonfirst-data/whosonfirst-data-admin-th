@@ -1,0 +1,70 @@
+{
+  "id": 1243479363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.84028,5.92844,101.84028,5.92844",
+    "geom:latitude":5.92844,
+    "geom:longitude":101.84028,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Ban Ba Ngo A Laeng",
+    "gn:country_code":"TH",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6987508,
+    "gn:latitude":5.92844,
+    "gn:longitude":101.84028,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ban Ba Ngo A Laeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1a\u0e32\u0e42\u0e07\u0e2d\u0e32\u0e41\u0e25\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678885,
+        890466217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6987508
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"3554b674893a0464c1afd4288c1836dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466217,
+            "locality_id":1243479363,
+            "region_id":85678885
+        }
+    ],
+    "wof:id":1243479363,
+    "wof:lastmodified":1537704369,
+    "wof:name":"Ban Ba Ngo A Laeng",
+    "wof:parent_id":890466217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.84028,
+    5.92844,
+    101.84028,
+    5.92844
+],
+  "geometry": {"coordinates":[101.84028000000001,5.92844],"type":"Point"}
+}

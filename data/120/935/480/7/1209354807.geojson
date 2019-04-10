@@ -1,0 +1,64 @@
+{
+  "id": 1209354807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.358,14.71461,100.358,14.71461",
+    "geom:latitude":14.71461,
+    "geom:longitude":100.358,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Ban Klang",
+    "gn:country_code":"TH",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1617602,
+    "gn:latitude":14.71461,
+    "gn:longitude":100.358,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Ban Klang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e01\u0e25\u0e32\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1617602
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"1a2424893d5ffa17fc72e83ca0dd0cf4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632293,
+            "locality_id":1209354807
+        }
+    ],
+    "wof:id":1209354807,
+    "wof:lastmodified":1537704061,
+    "wof:name":"Ban Klang",
+    "wof:parent_id":85632293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.358,
+    14.71461,
+    100.358,
+    14.71461
+],
+  "geometry": {"coordinates":[100.358,14.71461],"type":"Point"}
+}

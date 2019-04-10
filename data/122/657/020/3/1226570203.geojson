@@ -1,0 +1,70 @@
+{
+  "id": 1226570203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.44986,11.27206,99.44986,11.27206",
+    "geom:latitude":11.27206,
+    "geom:longitude":99.44986,
+    "gn:admin1_code":"57.0",
+    "gn:asciiname":"Ban Thung Sadao Wan",
+    "gn:country_code":"TH",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8209175,
+    "gn:latitude":11.27206,
+    "gn:longitude":99.44986,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Ban Thung Sadao Wan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e17\u0e38\u0e48\u0e07\u0e2a\u0e30\u0e40\u0e14\u0e32\u0e2b\u0e27\u0e32\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678757,
+        890466329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8209175
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"e7c612bfa093afd2adba19e02ae12d5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466329,
+            "locality_id":1226570203,
+            "region_id":85678757
+        }
+    ],
+    "wof:id":1226570203,
+    "wof:lastmodified":1537705130,
+    "wof:name":"Ban Thung Sadao Wan",
+    "wof:parent_id":890466329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.44986,
+    11.27206,
+    99.44986,
+    11.27206
+],
+  "geometry": {"coordinates":[99.44986,11.27206],"type":"Point"}
+}

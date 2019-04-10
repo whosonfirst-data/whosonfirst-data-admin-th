@@ -1,0 +1,70 @@
+{
+  "id": 1209887155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.45503,16.49453,100.45503,16.49453",
+    "geom:latitude":16.49453,
+    "geom:longitude":100.45503,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Ban Ko Kaeo",
+    "gn:country_code":"TH",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8451404,
+    "gn:latitude":16.49453,
+    "gn:longitude":100.45503,
+    "gn:modification_date":"2013-02-10",
+    "gn:name":"Ban Ko Kaeo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e01\u0e32\u0e30\u0e41\u0e01\u0e49\u0e27"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678647,
+        890466725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8451404
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"a8b82d2228264f7d9a163230a7a37978",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466725,
+            "locality_id":1209887155,
+            "region_id":85678647
+        }
+    ],
+    "wof:id":1209887155,
+    "wof:lastmodified":1537705606,
+    "wof:name":"Ban Ko Kaeo",
+    "wof:parent_id":890466725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.45503,
+    16.49452999999999,
+    100.45503,
+    16.49452999999999
+],
+  "geometry": {"coordinates":[100.45502999999999,16.49452999999999],"type":"Point"}
+}

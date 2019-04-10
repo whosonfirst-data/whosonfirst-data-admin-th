@@ -1,0 +1,64 @@
+{
+  "id": 890466585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.160708,9.938752,99.160708,9.938752",
+    "geom:latitude":9.938752,
+    "geom:longitude":99.160708,
+    "gp:adm0":23424960,
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "qs:name":"Pak Nam Lang Suan",
+    "qs:name_adm0":"Thailand",
+    "qs:name_adm1":"Chumphon",
+    "qs:photos":5,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":5,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1226257,
+        "qs:id":492979
+    },
+    "wof:country":"TH",
+    "wof:created":1469053585,
+    "wof:geomhash":"ecce4fe19d8d6a452a673ff09d027ea5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "locality_id":890466585,
+            "region_id":85678559
+        }
+    ],
+    "wof:id":890466585,
+    "wof:lastmodified":1469053585,
+    "wof:name":"Pak Nam Lang Suan",
+    "wof:parent_id":85678559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.160708,
+    9.938752,
+    99.160708,
+    9.938752
+],
+  "geometry": {"coordinates":[99.160708,9.938752],"type":"Point"}
+}

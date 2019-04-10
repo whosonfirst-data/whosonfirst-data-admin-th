@@ -1,0 +1,73 @@
+{
+  "id": 1343442905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.1,15.64931,100.1,15.64931",
+    "geom:latitude":15.64931,
+    "geom:longitude":100.1,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ban Nam Hak",
+    "gn:country_code":"TH",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1603551,
+    "gn:latitude":15.64931,
+    "gn:longitude":100.1,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Ban Nam Hak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e19\u0e49\u0e33\u0e2b\u0e31\u0e01"
+    ],
+    "name:und_x_variant":[
+        "Ban Hok Hak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678715,
+        890466923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1603551
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"930b3aeaa05c2486f19b0808e9c24aa1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466923,
+            "locality_id":1343442905,
+            "region_id":85678715
+        }
+    ],
+    "wof:id":1343442905,
+    "wof:lastmodified":1537703588,
+    "wof:name":"Ban Nam Hak",
+    "wof:parent_id":890466923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.1,
+    15.64931,
+    100.1,
+    15.64931
+],
+  "geometry": {"coordinates":[100.09999999999999,15.64931],"type":"Point"}
+}

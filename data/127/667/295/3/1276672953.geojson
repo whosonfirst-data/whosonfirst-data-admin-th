@@ -1,0 +1,67 @@
+{
+  "id": 1276672953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.41939,7.98856,98.41939,7.98856",
+    "geom:latitude":7.98856,
+    "geom:longitude":98.41939,
+    "gn:asciiname":"Cape Yamu",
+    "gn:country_code":"TH",
+    "gn:dem":13,
+    "gn:elevation":"0.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11071462,
+    "gn:latitude":7.98856,
+    "gn:longitude":98.41939,
+    "gn:modification_date":"2016-02-11",
+    "gn:name":"Cape Yamu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678567,
+        1108802759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11071462
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"cb787c20e0f084712c5a43519a728a64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802759,
+            "locality_id":1276672953,
+            "region_id":85678567
+        }
+    ],
+    "wof:id":1276672953,
+    "wof:lastmodified":1536819692,
+    "wof:name":"Cape Yamu",
+    "wof:parent_id":1108802759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.41939,
+    7.98856,
+    98.41939,
+    7.98856
+],
+  "geometry": {"coordinates":[98.41939000000001,7.98856],"type":"Point"}
+}

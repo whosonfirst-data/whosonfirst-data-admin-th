@@ -1,0 +1,72 @@
+{
+  "id": 1293123893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.31578,7.74381,100.31578,7.74381",
+    "geom:latitude":7.74381,
+    "geom:longitude":100.31578,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Ban Chiang Phong",
+    "gn:country_code":"TH",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1620186,
+    "gn:latitude":7.74381,
+    "gn:longitude":100.31578,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Chiang Phong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Chai Khlong",
+        "Ban Chiang Phong",
+        "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e09\u0e35\u0e22\u0e07\u0e1e\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678603,
+        1108731795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1620186
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"af26492c3a085aa6fabe8b12df0c5938",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731795,
+            "locality_id":1293123893,
+            "region_id":85678603
+        }
+    ],
+    "wof:id":1293123893,
+    "wof:lastmodified":1537704213,
+    "wof:name":"Ban Chiang Phong",
+    "wof:parent_id":1108731795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.31578,
+    7.74381,
+    100.31578,
+    7.74381
+],
+  "geometry": {"coordinates":[100.31578,7.74381],"type":"Point"}
+}

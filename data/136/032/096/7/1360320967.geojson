@@ -1,0 +1,70 @@
+{
+  "id": 1360320967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.51953,9.01453,99.51953,9.01453",
+    "geom:latitude":9.01453,
+    "geom:longitude":99.51953,
+    "gn:admin1_code":"60.0",
+    "gn:asciiname":"Ban Khiri Rop",
+    "gn:country_code":"TH",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8326284,
+    "gn:latitude":9.01453,
+    "gn:longitude":99.51953,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Ban Khiri Rop",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e04\u0e35\u0e23\u0e35\u0e23\u0e2d\u0e1a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678581,
+        1108731325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8326284
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"088df9bb93e59e57723d6eb2ef9b56ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731325,
+            "locality_id":1360320967,
+            "region_id":85678581
+        }
+    ],
+    "wof:id":1360320967,
+    "wof:lastmodified":1537705395,
+    "wof:name":"Ban Khiri Rop",
+    "wof:parent_id":1108731325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.51953,
+    9.01453,
+    99.51953,
+    9.01453
+],
+  "geometry": {"coordinates":[99.51953,9.01453],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1226594757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.09603,14.69661,103.09603,14.69661",
+    "geom:latitude":14.69661,
+    "geom:longitude":103.09603,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Ban Khok Samrong",
+    "gn:country_code":"TH",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9284399,
+    "gn:latitude":14.69661,
+    "gn:longitude":103.09603,
+    "gn:modification_date":"2014-08-07",
+    "gn:name":"Ban Khok Samrong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e42\u0e04\u0e01\u0e2a\u0e33\u0e42\u0e23\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678817,
+        1108731779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9284399
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"862d34aaa2772d91acfd2d0aafc66505",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731779,
+            "locality_id":1226594757,
+            "region_id":85678817
+        }
+    ],
+    "wof:id":1226594757,
+    "wof:lastmodified":1537706265,
+    "wof:name":"Ban Khok Samrong",
+    "wof:parent_id":1108731779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.09603,
+    14.69661,
+    103.09603,
+    14.69661
+],
+  "geometry": {"coordinates":[103.09603,14.69661],"type":"Point"}
+}

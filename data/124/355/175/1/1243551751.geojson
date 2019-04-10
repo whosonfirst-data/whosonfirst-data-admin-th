@@ -1,0 +1,70 @@
+{
+  "id": 1243551751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.85733,18.88028,99.85733,18.88028",
+    "geom:latitude":18.88028,
+    "geom:longitude":99.85733,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Ban Mae Hang Nuea",
+    "gn:country_code":"TH",
+    "gn:dem":592,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8268996,
+    "gn:latitude":18.88028,
+    "gn:longitude":99.85733,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Ban Mae Hang Nuea",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e41\u0e21\u0e48\u0e2e\u0e48\u0e32\u0e07\u0e40\u0e2b\u0e19\u0e37\u0e2d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678625,
+        890466263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8268996
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"6c6d165e08ab1dcba68857dc6920d84f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466263,
+            "locality_id":1243551751,
+            "region_id":85678625
+        }
+    ],
+    "wof:id":1243551751,
+    "wof:lastmodified":1537705273,
+    "wof:name":"Ban Mae Hang Nuea",
+    "wof:parent_id":890466263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.85733,
+    18.88028,
+    99.85733,
+    18.88028
+],
+  "geometry": {"coordinates":[99.85733,18.88028],"type":"Point"}
+}

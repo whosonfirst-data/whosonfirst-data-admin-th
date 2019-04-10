@@ -1,0 +1,73 @@
+{
+  "id": 1276871603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.60069,18.17786,100.60069,18.17786",
+    "geom:latitude":18.17786,
+    "geom:longitude":100.60069,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Ban Nam Kuen",
+    "gn:country_code":"TH",
+    "gn:dem":431,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1601077,
+    "gn:latitude":18.17786,
+    "gn:longitude":100.60069,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Ban Nam Kuen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e19\u0e49\u0e33\u0e01\u0e36\u0e4b\u0e19"
+    ],
+    "name:und_x_variant":[
+        "Ban Nam Klun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678633,
+        1108731559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1601077
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"a3dea01ccc936131c92e3e1554517789",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731559,
+            "locality_id":1276871603,
+            "region_id":85678633
+        }
+    ],
+    "wof:id":1276871603,
+    "wof:lastmodified":1537703498,
+    "wof:name":"Ban Nam Kuen",
+    "wof:parent_id":1108731559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.60069,
+    18.17786,
+    100.60069,
+    18.17786
+],
+  "geometry": {"coordinates":[100.60069,18.17786],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1277006847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.76483,8.22789,98.76483,8.22789",
+    "geom:latitude":8.22789,
+    "geom:longitude":98.76483,
+    "gn:admin1_code":"63.0",
+    "gn:asciiname":"Ban Nai Nang",
+    "gn:country_code":"TH",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1156222,
+    "gn:latitude":8.22789,
+    "gn:longitude":98.76483,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Ban Nai Nang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e44\u0e2b\u0e19\u0e2b\u0e19\u0e31\u0e07"
+    ],
+    "name:und_x_variant":[
+        "Ban Noi Nong",
+        "Ban Nai Nang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632293,
+        890466649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1156222
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"f4609a5220d80452c596724b8b30ea92",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632293,
+            "county_id":890466649,
+            "locality_id":1277006847,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1277006847,
+    "wof:lastmodified":1537703174,
+    "wof:name":"Ban Nai Nang",
+    "wof:parent_id":890466649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.76483,
+    8.22789,
+    98.76483,
+    8.22789
+],
+  "geometry": {"coordinates":[98.76483,8.22789],"type":"Point"}
+}

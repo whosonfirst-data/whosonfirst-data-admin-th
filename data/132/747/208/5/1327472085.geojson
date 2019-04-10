@@ -1,0 +1,71 @@
+{
+  "id": 1327472085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.83917,13.88832,100.83917,13.88832",
+    "geom:latitude":13.88832,
+    "geom:longitude":100.83917,
+    "gn:admin1_code":"40.0",
+    "gn:admin2_code":"1003",
+    "gn:asciiname":"Ban Lam Chedi",
+    "gn:country_code":"TH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7099559,
+    "gn:latitude":13.88832,
+    "gn:longitude":100.83917,
+    "gn:modification_date":"2017-03-23",
+    "gn:name":"Ban Lam Chedi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e25\u0e33\u0e40\u0e08\u0e14\u0e35\u0e22\u0e4c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678739,
+        890465651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7099559
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"f95dc0c1c22963350e38948e51f12817",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465651,
+            "locality_id":1327472085,
+            "region_id":85678739
+        }
+    ],
+    "wof:id":1327472085,
+    "wof:lastmodified":1537704435,
+    "wof:name":"Ban Lam Chedi",
+    "wof:parent_id":890465651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.83917,
+    13.88832,
+    100.83917,
+    13.88832
+],
+  "geometry": {"coordinates":[100.83917,13.88832],"type":"Point"}
+}

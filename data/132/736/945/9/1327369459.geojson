@@ -1,0 +1,71 @@
+{
+  "id": 1327369459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.47833,6.67942,101.47833,6.67942",
+    "geom:latitude":6.67942,
+    "geom:longitude":101.47833,
+    "gn:admin1_code":"69.0",
+    "gn:asciiname":"Ban To Chut",
+    "gn:country_code":"TH",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1610248,
+    "gn:latitude":6.67942,
+    "gn:longitude":101.47833,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban To Chut",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e42\u0e15\u0e4a\u0e30\u0e0a\u0e38\u0e14",
+        "Kampong To Chut"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678889,
+        1108732031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1610248
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"2be72cdb16502a2c2393aaf27e7b13a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108732031,
+            "locality_id":1327369459,
+            "region_id":85678889
+        }
+    ],
+    "wof:id":1327369459,
+    "wof:lastmodified":1537703630,
+    "wof:name":"Ban To Chut",
+    "wof:parent_id":1108732031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.47833,
+    6.67942,
+    101.47833,
+    6.67942
+],
+  "geometry": {"coordinates":[101.47833,6.67942],"type":"Point"}
+}

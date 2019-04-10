@@ -1,0 +1,73 @@
+{
+  "id": 1209931079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.66189,17.2112,104.66189,17.2112",
+    "geom:latitude":17.2112,
+    "geom:longitude":104.66189,
+    "gn:admin1_code":"73.0",
+    "gn:asciiname":"Ban Don Du",
+    "gn:country_code":"TH",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1603997,
+    "gn:latitude":17.2112,
+    "gn:longitude":104.66189,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Don Du",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "Ban Don Du"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e14\u0e2d\u0e19\u0e14\u0e39\u0e48"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678879,
+        1108731765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1603997
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"087223db03f3043e223b4d02a6a11832",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731765,
+            "locality_id":1209931079,
+            "region_id":85678879
+        }
+    ],
+    "wof:id":1209931079,
+    "wof:lastmodified":1537703603,
+    "wof:name":"Ban Don Du",
+    "wof:parent_id":1108731765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.66189,
+    17.2112,
+    104.66189,
+    17.2112
+],
+  "geometry": {"coordinates":[104.66189,17.2112],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 890465853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-11-10",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.49641,13.63387,100.49641,13.63387",
+    "geom:latitude":13.63387,
+    "geom:longitude":100.49641,
+    "gn:country":"TH",
+    "gn:fcode":"ADM2",
+    "gn:pop":0,
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:tha_x_preferred":[
+        "\u0e40\u0e02\u0e15\u0e17\u0e38\u0e48\u0e07\u0e04\u0e23\u0e38"
+    ],
+    "name:tha_x_variant":[
+        "\u0e17\u0e38\u0e48\u0e07\u0e04\u0e23\u0e38"
+    ],
+    "qs:name":"Khet Thung Khru",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":300,
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6908219,
+        "qs:id":1153820,
+        "wd:id":"Q1972732",
+        "wk:page":"Thung Khru District"
+    },
+    "wof:country":"TH",
+    "wof:created":1469053539,
+    "wof:geomhash":"ad45f5cf085f97cfe2a4e80668852ec2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465853,
+            "region_id":85678739
+        }
+    ],
+    "wof:id":890465853,
+    "wof:lastmodified":1527736656,
+    "wof:name":"Khet Thung Khru",
+    "wof:parent_id":85678739,
+    "wof:placetype":"county",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.49641,
+    13.63387,
+    100.49641,
+    13.63387
+],
+  "geometry": {"coordinates":[100.49641,13.63387],"type":"Point"}
+}

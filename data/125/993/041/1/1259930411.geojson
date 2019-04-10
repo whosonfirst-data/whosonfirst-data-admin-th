@@ -1,0 +1,70 @@
+{
+  "id": 1259930411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.32644,15.40303,103.32644,15.40303",
+    "geom:latitude":15.40303,
+    "geom:longitude":103.32644,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Ban Si Narong",
+    "gn:country_code":"TH",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8703311,
+    "gn:latitude":15.40303,
+    "gn:longitude":103.32644,
+    "gn:modification_date":"2014-02-17",
+    "gn:name":"Ban Si Narong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e28\u0e23\u0e35\u0e13\u0e23\u0e07\u0e04\u0e4c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678849,
+        1108731261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8703311
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"b1c658b50af63adc8b51754ae01c8ad2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731261,
+            "locality_id":1259930411,
+            "region_id":85678849
+        }
+    ],
+    "wof:id":1259930411,
+    "wof:lastmodified":1537705924,
+    "wof:name":"Ban Si Narong",
+    "wof:parent_id":1108731261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.32644,
+    15.40303,
+    103.32644,
+    15.40303
+],
+  "geometry": {"coordinates":[103.32644000000001,15.40303],"type":"Point"}
+}

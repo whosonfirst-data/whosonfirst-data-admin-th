@@ -1,0 +1,77 @@
+{
+  "id": 1327163559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.02299,13.98404,100.02299,13.98404",
+    "geom:latitude":13.98404,
+    "geom:longitude":100.02299,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Ban Hua Chuk Pla",
+    "gn:country_code":"TH",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1620073,
+    "gn:latitude":13.98404,
+    "gn:longitude":100.02299,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Hua Chuk Pla",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e31\u0e27\u0e0a\u0e38\u0e01\u0e1b\u0e25\u0e32"
+    ],
+    "name:und_x_variant":[
+        "Ban Zukpa",
+        "Ban Suk Pa",
+        "Ban Chupa",
+        "Ban Hua Chuk Pla",
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e31\u0e27\u0e0a\u0e38\u0e01\u0e1b\u0e25\u0e32"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678747,
+        1108731323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1620073
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"1880d2292169b75ed5b77b09f42e7461",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731323,
+            "locality_id":1327163559,
+            "region_id":85678747
+        }
+    ],
+    "wof:id":1327163559,
+    "wof:lastmodified":1537704205,
+    "wof:name":"Ban Hua Chuk Pla",
+    "wof:parent_id":1108731323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.02299,
+    13.98404,
+    100.02299,
+    13.98404
+],
+  "geometry": {"coordinates":[100.02298999999999,13.98404],"type":"Point"}
+}

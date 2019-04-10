@@ -1,0 +1,70 @@
+{
+  "id": 1226467353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.77661,9.77642,98.77661,9.77642",
+    "geom:latitude":9.77642,
+    "geom:longitude":98.77661,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Ban Doi Charoen",
+    "gn:country_code":"TH",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8234042,
+    "gn:latitude":9.77642,
+    "gn:longitude":98.77661,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Ban Doi Charoen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e14\u0e2d\u0e22\u0e40\u0e08\u0e23\u0e34\u0e0d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678559,
+        890466695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8234042
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"983a1b170b9be3ed3a9d5f60dba5437a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466695,
+            "locality_id":1226467353,
+            "region_id":85678559
+        }
+    ],
+    "wof:id":1226467353,
+    "wof:lastmodified":1537705196,
+    "wof:name":"Ban Doi Charoen",
+    "wof:parent_id":890466695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.77661,
+    9.77642,
+    98.77661,
+    9.77642
+],
+  "geometry": {"coordinates":[98.77661000000001,9.77642],"type":"Point"}
+}

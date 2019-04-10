@@ -1,0 +1,70 @@
+{
+  "id": 1293201677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.11928,19.67375,100.11928,19.67375",
+    "geom:latitude":19.67375,
+    "geom:longitude":100.11928,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ban San Chiangmai",
+    "gn:country_code":"TH",
+    "gn:dem":372,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7382669,
+    "gn:latitude":19.67375,
+    "gn:longitude":100.11928,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban San Chiangmai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2a\u0e31\u0e19\u0e40\u0e0a\u0e35\u0e22\u0e07\u0e43\u0e2b\u0e21\u0e48"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678617,
+        890466587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7382669
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"e763e5c3b5a726b27609683f52d89049",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466587,
+            "locality_id":1293201677,
+            "region_id":85678617
+        }
+    ],
+    "wof:id":1293201677,
+    "wof:lastmodified":1537704459,
+    "wof:name":"Ban San Chiangmai",
+    "wof:parent_id":890466587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.11928,
+    19.67375,
+    100.11928,
+    19.67375
+],
+  "geometry": {"coordinates":[100.11928,19.67375],"type":"Point"}
+}

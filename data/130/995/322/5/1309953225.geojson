@@ -1,0 +1,70 @@
+{
+  "id": 1309953225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.94722,14.74092,101.94722,14.74092",
+    "geom:latitude":14.74092,
+    "geom:longitude":101.94722,
+    "gn:admin1_code":"27",
+    "gn:asciiname":"Ban Nong Ruea",
+    "gn:country_code":"TH",
+    "gn:dem":220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9105936,
+    "gn:latitude":14.74092,
+    "gn:longitude":101.94722,
+    "gn:modification_date":"2014-06-07",
+    "gn:name":"Ban Nong Ruea",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e19\u0e2d\u0e07\u0e40\u0e23\u0e37\u0e2d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678841,
+        1108731679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9105936
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"4b447decb7f8c3bd5359008f02a4eb0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731679,
+            "locality_id":1309953225,
+            "region_id":85678841
+        }
+    ],
+    "wof:id":1309953225,
+    "wof:lastmodified":1537706154,
+    "wof:name":"Ban Nong Ruea",
+    "wof:parent_id":1108731679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.94722,
+    14.74092,
+    101.94722,
+    14.74092
+],
+  "geometry": {"coordinates":[101.94722,14.74092],"type":"Point"}
+}

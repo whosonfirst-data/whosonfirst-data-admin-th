@@ -1,0 +1,70 @@
+{
+  "id": 1243399001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.88333,9.13333,99.88333,9.13333",
+    "geom:latitude":9.13333,
+    "geom:longitude":99.88333,
+    "gn:admin1_code":"64.0",
+    "gn:asciiname":"Ban Phlao",
+    "gn:cc2":"TH",
+    "gn:country_code":"TH",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1155234,
+    "gn:latitude":9.13333,
+    "gn:longitude":99.88333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Phlao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Plau",
+        "Ban Phlao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1155234
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"209198c78ad5b530e570806e3795f462",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "locality_id":1243399001,
+            "region_id":85678565
+        }
+    ],
+    "wof:id":1243399001,
+    "wof:lastmodified":1537703102,
+    "wof:name":"Ban Phlao",
+    "wof:parent_id":85678565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.88333,
+    9.13333,
+    99.88333,
+    9.13333
+],
+  "geometry": {"coordinates":[99.88333,9.13333],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1193162095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.30528,14.28247,101.30528,14.28247",
+    "geom:latitude":14.28247,
+    "geom:longitude":101.30528,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Ban Wang Yai Chim",
+    "gn:country_code":"TH",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8773563,
+    "gn:latitude":14.28247,
+    "gn:longitude":101.30528,
+    "gn:modification_date":"2014-04-08",
+    "gn:name":"Ban Wang Yai Chim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e27\u0e31\u0e07\u0e22\u0e32\u0e22\u0e09\u0e34\u0e21"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678705,
+        890466935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8773563
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"95b62c58d965dc4d1d860488ebe66286",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466935,
+            "locality_id":1193162095,
+            "region_id":85678705
+        }
+    ],
+    "wof:id":1193162095,
+    "wof:lastmodified":1537706062,
+    "wof:name":"Ban Wang Yai Chim",
+    "wof:parent_id":890466935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.30528,
+    14.28247,
+    101.30528,
+    14.28247
+],
+  "geometry": {"coordinates":[101.30528,14.28247],"type":"Point"}
+}

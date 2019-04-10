@@ -1,0 +1,70 @@
+{
+  "id": 1209840771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.48708,6.48411,101.48708,6.48411",
+    "geom:latitude":6.48411,
+    "geom:longitude":101.48708,
+    "gn:admin1_code":"70.0",
+    "gn:asciiname":"Ban Yue Nong",
+    "gn:country_code":"TH",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7013505,
+    "gn:latitude":6.48411,
+    "gn:longitude":101.48708,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ban Yue Nong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e22\u0e37\u0e2d\u0e19\u0e2d\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678611,
+        1108731791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7013505
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"2f3b20f725b9ee0c80175bf68b81b35a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731791,
+            "locality_id":1209840771,
+            "region_id":85678611
+        }
+    ],
+    "wof:id":1209840771,
+    "wof:lastmodified":1537704404,
+    "wof:name":"Ban Yue Nong",
+    "wof:parent_id":1108731791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.48708,
+    6.48411,
+    101.48708,
+    6.48411
+],
+  "geometry": {"coordinates":[101.48708000000001,6.48411],"type":"Point"}
+}

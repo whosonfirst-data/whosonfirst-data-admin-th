@@ -1,0 +1,73 @@
+{
+  "id": 890466261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.75492,17.409,102.75492,17.409",
+    "geom:latitude":17.409,
+    "geom:longitude":102.75492,
+    "gn:country":"TH",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424960,
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e16\u0e48\u0e2d\u0e19"
+    ],
+    "name:unk_x_variant":[
+        "Ban Ton"
+    ],
+    "qs:name":"Ban Thon",
+    "qs:name_adm0":"Thailand",
+    "qs:name_adm1":"Nong Khai",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1612328,
+        "gp:id":55945790,
+        "qs:id":1026626
+    },
+    "wof:country":"TH",
+    "wof:created":1469053571,
+    "wof:geomhash":"733cd96d402331f70b063e6160c808ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "locality_id":890466261,
+            "region_id":85678869
+        }
+    ],
+    "wof:id":890466261,
+    "wof:lastmodified":1505343706,
+    "wof:name":"Ban Thon",
+    "wof:parent_id":85678869,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.75492,
+    17.409,
+    102.75492,
+    17.409
+],
+  "geometry": {"coordinates":[102.75492,17.409],"type":"Point"}
+}

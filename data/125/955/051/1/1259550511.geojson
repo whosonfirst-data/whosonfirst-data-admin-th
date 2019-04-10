@@ -1,0 +1,70 @@
+{
+  "id": 1259550511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.16647,16.43706,102.16647,16.43706",
+    "geom:latitude":16.43706,
+    "geom:longitude":102.16647,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Ban Prong Ngam",
+    "gn:country_code":"TH",
+    "gn:dem":205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8370005,
+    "gn:latitude":16.43706,
+    "gn:longitude":102.16647,
+    "gn:modification_date":"2012-08-06",
+    "gn:name":"Ban Prong Ngam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e42\u0e1b\u0e23\u0e48\u0e07\u0e07\u0e32\u0e21"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678825,
+        1108731745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8370005
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"a200ba94b6cf2962c2abfd54ec18e38d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731745,
+            "locality_id":1259550511,
+            "region_id":85678825
+        }
+    ],
+    "wof:id":1259550511,
+    "wof:lastmodified":1537705501,
+    "wof:name":"Ban Prong Ngam",
+    "wof:parent_id":1108731745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.16647,
+    16.43706,
+    102.16647,
+    16.43706
+],
+  "geometry": {"coordinates":[102.16647,16.43706],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1327350531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.57569,16.35494,104.57569,16.35494",
+    "geom:latitude":16.35494,
+    "geom:longitude":104.57569,
+    "gn:admin1_code":"78.0",
+    "gn:asciiname":"Ban Dan Yao",
+    "gn:country_code":"TH",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8036888,
+    "gn:latitude":16.35494,
+    "gn:longitude":104.57569,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Dan Yao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "Ban Dan Yao"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e14\u0e48\u0e32\u0e19\u0e22\u0e32\u0e27"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678881,
+        1108731593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8036888
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"f9aba8e37d438154a64a5b110a62713f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731593,
+            "locality_id":1327350531,
+            "region_id":85678881
+        }
+    ],
+    "wof:id":1327350531,
+    "wof:lastmodified":1537704936,
+    "wof:name":"Ban Dan Yao",
+    "wof:parent_id":1108731593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.57569,
+    16.35494,
+    104.57569,
+    16.35494
+],
+  "geometry": {"coordinates":[104.57568999999999,16.35494],"type":"Point"}
+}

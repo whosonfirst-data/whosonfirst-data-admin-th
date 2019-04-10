@@ -1,0 +1,70 @@
+{
+  "id": 1226772625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.46722,12.19317,102.46722,12.19317",
+    "geom:latitude":12.19317,
+    "geom:longitude":102.46722,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"Ban Chak Khaek",
+    "gn:country_code":"TH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7929354,
+    "gn:latitude":12.19317,
+    "gn:longitude":102.46722,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Chak Khaek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e0a\u0e32\u0e01\u0e41\u0e02\u0e01"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678813,
+        1108731453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7929354
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"3e27cda548e9d426be4905a5b3e72ddd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731453,
+            "locality_id":1226772625,
+            "region_id":85678813
+        }
+    ],
+    "wof:id":1226772625,
+    "wof:lastmodified":1537704899,
+    "wof:name":"Ban Chak Khaek",
+    "wof:parent_id":1108731453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.46722,
+    12.19317,
+    102.46722,
+    12.19317
+],
+  "geometry": {"coordinates":[102.46722,12.19317],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1343893793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.16545,13.84822,101.16545,13.84822",
+    "geom:latitude":13.84822,
+    "geom:longitude":101.16545,
+    "gn:admin1_code":"44.0",
+    "gn:asciiname":"Ban Bang Kradan",
+    "gn:country_code":"TH",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8356625,
+    "gn:latitude":13.84822,
+    "gn:longitude":101.16545,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Ban Bang Kradan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1a\u0e32\u0e07\u0e01\u0e23\u0e30\u0e14\u0e32\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678797,
+        1108802617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8356625
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"60b0151d1f23a2b545e3eddc51810e07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802617,
+            "locality_id":1343893793,
+            "region_id":85678797
+        }
+    ],
+    "wof:id":1343893793,
+    "wof:lastmodified":1537705486,
+    "wof:name":"Ban Bang Kradan",
+    "wof:parent_id":1108802617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.16545,
+    13.84822,
+    101.16545,
+    13.84822
+],
+  "geometry": {"coordinates":[101.16545000000001,13.84822],"type":"Point"}
+}

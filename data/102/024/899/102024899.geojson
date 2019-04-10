@@ -1,0 +1,127 @@
+{
+  "id": 102024899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000264,
+    "geom:area_square_m":3133823.33525,
+    "geom:bbox":"103.882856854,16.2109105742,103.901567006,16.2289876281",
+    "geom:latitude":16.219949,
+    "geom:longitude":103.892212,
+    "gn:population":1411066,
+    "iso:country":"TH",
+    "lbl:latitude":16.219949,
+    "lbl:longitude":103.892212,
+    "mps:latitude":16.219949,
+    "mps:longitude":103.892212,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Roi Et"
+    ],
+    "name:eng_x_preferred":[
+        "Roi Et"
+    ],
+    "name:eng_x_variant":[
+        "Changwat Roi Et"
+    ],
+    "name:fre_x_preferred":[
+        "Roi Et"
+    ],
+    "name:ger_x_preferred":[
+        "Roi Et"
+    ],
+    "name:ita_x_preferred":[
+        "Roi Et"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c6\u30fc\u30b5\u30d0\u30fc\u30f3\u30e0\u30a2\u30f3\u30fb\u30ed\u30fc\u30a4\u30a8\u30c3\u30c8"
+    ],
+    "name:kor_x_preferred":[
+        "\ub85c\uc774\uc5e3"
+    ],
+    "name:lit_x_preferred":[
+        "Rojetas"
+    ],
+    "name:nob_x_preferred":[
+        "Roi Et"
+    ],
+    "name:per_x_preferred":[
+        "\u0631\u0648\u06cc \u0627\u062a"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0631\u0648\u0626\u06cc \u0627\u06cc\u0679"
+    ],
+    "name:por_x_preferred":[
+        "Roi Et"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u043e\u0439\u0435\u0442"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e17\u0e28\u0e1a\u0e32\u0e25\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e23\u0e49\u0e2d\u0e22\u0e40\u0e2d\u0e47\u0e14"
+    ],
+    "name:vie_x_preferred":[
+        "Roi Et"
+    ],
+    "name:war_x_preferred":[
+        "Roi Et"
+    ],
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Changwat Roi Et",
+    "qs:loc_lc":"1607000",
+    "qs:pop":0,
+    "qs:source":"Aquattroshapes",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"07cdb546-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":1607000,
+        "gp:id":2347150,
+        "qs:id":244460,
+        "wd:id":"Q1017738",
+        "wk:page":"Roi Et Province"
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"e5ade01dbab1a7eed1cd27448d8dd3f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "locality_id":102024899,
+            "region_id":85678845
+        }
+    ],
+    "wof:id":102024899,
+    "wof:lastmodified":1514506069,
+    "wof:name":"Changwat Roi Et",
+    "wof:parent_id":85678845,
+    "wof:placetype":"locality",
+    "wof:population":1411066,
+    "wof:population_rank":12,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.88285685374923,
+    16.21091057422129,
+    103.90156700626169,
+    16.22898762814118
+],
+  "geometry": {"coordinates":[[[103.89408646129111,16.2110937581089],[103.89226242772203,16.21091057422129],[103.89043645476023,16.2110747204792],[103.88867870410347,16.21157988908394],[103.8870567168601,16.21240666864972],[103.88563281923932,16.21352328987419],[103.88446172827982,16.21488684590263],[103.88358844949418,16.2164449405649],[103.88304654715883,16.2181377012424],[103.88285685374923,16.21990007911705],[103.88302666822379,16.22166434850017],[103.88354947413605,16.22336270926233],[103.88440518862252,16.2249298923912],[103.8855609329154,16.22630566854048],[103.88697229496104,16.22743716312463],[103.88858503576132,16.22828088891093],[103.89033717392051,16.22880441790043],[103.89216136826816,16.22898762814118],[103.89398750688191,16.22882347746503],[103.89574540284484,16.22831827434328],[103.89736749292702,16.22749143541681],[103.89879143526322,16.22637473902492],[103.89996250600707,16.22501110346596],[103.9008357027236,16.22345293701783],[103.90137747363086,16.22176012322805],[103.90156700626169,16.21999771900035],[103.90139702613529,16.21823345403547],[103.90087407491684,16.21653512779022],[103.90001825759158,16.21496800402214],[103.89886246858326,16.21359230304022],[103.89745112675327,16.21246088798657],[103.89583846802218,16.21161723398603],[103.89408646129111,16.2110937581089]]],"type":"Polygon"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 890466571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.613938,14.8026425,100.613938,14.8026425",
+    "geom:latitude":14.802642,
+    "geom:longitude":100.613938,
+    "gp:adm0":23424960,
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Phrom Mat",
+    "qs:name_adm0":"Thailand",
+    "qs:name_adm1":"Lop Buri",
+    "qs:photos":576,
+    "qs:photos_1k":117,
+    "qs:photos_9k":3,
+    "qs:photos_9r":5,
+    "qs:photos_all":576,
+    "qs:photos_sr":8,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678701,
+        890466931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55946988,
+        "qs:id":476690
+    },
+    "wof:country":"TH",
+    "wof:created":1469053585,
+    "wof:geomhash":"759e078f1f06b01f90a66ccecf788b9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466931,
+            "locality_id":890466571,
+            "region_id":85678701
+        }
+    ],
+    "wof:id":890466571,
+    "wof:lastmodified":1499899683,
+    "wof:name":"Phrom Mat",
+    "wof:parent_id":890466931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.613938,
+    14.8026425,
+    100.613938,
+    14.8026425
+],
+  "geometry": {"coordinates":[100.613938,14.8026425],"type":"Point"}
+}

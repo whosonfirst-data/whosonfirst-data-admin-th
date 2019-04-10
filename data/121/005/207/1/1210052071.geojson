@@ -1,0 +1,70 @@
+{
+  "id": 1210052071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.84811,12.47331,99.84811,12.47331",
+    "geom:latitude":12.47331,
+    "geom:longitude":99.84811,
+    "gn:admin1_code":"57.0",
+    "gn:asciiname":"Ban Khao Nokkrachip",
+    "gn:country_code":"TH",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8209324,
+    "gn:latitude":12.47331,
+    "gn:longitude":99.84811,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Ban Khao Nokkrachip",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e02\u0e32\u0e19\u0e01\u0e01\u0e23\u0e30\u0e08\u0e34\u0e1a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678757,
+        890466853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8209324
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"3382891b96b5cdde75e27264241f9b30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466853,
+            "locality_id":1210052071,
+            "region_id":85678757
+        }
+    ],
+    "wof:id":1210052071,
+    "wof:lastmodified":1537705132,
+    "wof:name":"Ban Khao Nokkrachip",
+    "wof:parent_id":890466853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.84811,
+    12.47331,
+    99.84811,
+    12.47331
+],
+  "geometry": {"coordinates":[99.84811000000001,12.47331],"type":"Point"}
+}

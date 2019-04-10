@@ -1,0 +1,70 @@
+{
+  "id": 1343508787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.27372,16.33011,102.27372,16.33011",
+    "geom:latitude":16.33011,
+    "geom:longitude":102.27372,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Ban Phet",
+    "gn:country_code":"TH",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1599038,
+    "gn:latitude":16.33011,
+    "gn:longitude":102.27372,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Ban Phet",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e1e\u0e0a\u0e23"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678825,
+        1108731745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1599038
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"4952571c198508719d153a1e525e01c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731745,
+            "locality_id":1343508787,
+            "region_id":85678825
+        }
+    ],
+    "wof:id":1343508787,
+    "wof:lastmodified":1537703423,
+    "wof:name":"Ban Phet",
+    "wof:parent_id":1108731745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.27372,
+    16.33011,
+    102.27372,
+    16.33011
+],
+  "geometry": {"coordinates":[102.27372,16.33011],"type":"Point"}
+}

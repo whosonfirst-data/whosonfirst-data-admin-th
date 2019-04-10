@@ -1,0 +1,68 @@
+{
+  "id": 1209511831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.74639,16.96183,98.74639,16.96183",
+    "geom:latitude":16.96183,
+    "geom:longitude":98.74639,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Ban Samuen",
+    "gn:country_code":"TH",
+    "gn:dem":588,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1117833,
+    "gn:latitude":16.96183,
+    "gn:longitude":98.74639,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Samuen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2a\u0e30\u0e21\u0e36\u0e19"
+    ],
+    "name:und_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2a\u0e30\u0e21\u0e36\u0e19",
+        "Ban Sam Mun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1117833
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"39aee341d772c13dec6609efdcd1f4d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632293,
+            "locality_id":1209511831
+        }
+    ],
+    "wof:id":1209511831,
+    "wof:lastmodified":1537702928,
+    "wof:name":"Ban Samuen",
+    "wof:parent_id":85632293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.74639,
+    16.96183,
+    98.74639,
+    16.96183
+],
+  "geometry": {"coordinates":[98.74639000000001,16.96183],"type":"Point"}
+}

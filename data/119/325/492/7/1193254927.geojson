@@ -1,0 +1,75 @@
+{
+  "id": 1193254927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.66625,16.8725,100.66625,16.8725",
+    "geom:latitude":16.8725,
+    "geom:longitude":100.66625,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Ban Pak Yang",
+    "gn:country_code":"TH",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1614562,
+    "gn:latitude":16.8725,
+    "gn:longitude":100.66625,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Ban Pak Yang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1b\u0e32\u0e01\u0e22\u0e32\u0e07"
+    ],
+    "name:und_x_variant":[
+        "Huai Yang",
+        "Ban Huai Yang",
+        "Ban Pak Yang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678647,
+        890465723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1614562
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"bd20466279ab3e49d52f058be6dbc0bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465723,
+            "locality_id":1193254927,
+            "region_id":85678647
+        }
+    ],
+    "wof:id":1193254927,
+    "wof:lastmodified":1537703851,
+    "wof:name":"Ban Pak Yang",
+    "wof:parent_id":890465723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.66625,
+    16.8725,
+    100.66625,
+    16.8725
+],
+  "geometry": {"coordinates":[100.66625000000001,16.8725],"type":"Point"}
+}

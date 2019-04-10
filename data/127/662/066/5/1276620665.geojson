@@ -1,0 +1,70 @@
+{
+  "id": 1276620665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.17389,14.59567,102.17389,14.59567",
+    "geom:latitude":14.59567,
+    "geom:longitude":102.17389,
+    "gn:admin1_code":"27",
+    "gn:asciiname":"Ban Nong Thongkham",
+    "gn:country_code":"TH",
+    "gn:dem":199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9108154,
+    "gn:latitude":14.59567,
+    "gn:longitude":102.17389,
+    "gn:modification_date":"2014-06-07",
+    "gn:name":"Ban Nong Thongkham",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e19\u0e2d\u0e07\u0e17\u0e2d\u0e07\u0e04\u0e33"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678841,
+        890467485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9108154
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"63a4a5a5dba6ac76af70d86b3a0b8144",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890467485,
+            "locality_id":1276620665,
+            "region_id":85678841
+        }
+    ],
+    "wof:id":1276620665,
+    "wof:lastmodified":1537706180,
+    "wof:name":"Ban Nong Thongkham",
+    "wof:parent_id":890467485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.17389,
+    14.59567,
+    102.17389,
+    14.59567
+],
+  "geometry": {"coordinates":[102.17389,14.59567],"type":"Point"}
+}

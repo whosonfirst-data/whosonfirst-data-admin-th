@@ -1,0 +1,70 @@
+{
+  "id": 1327469521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.61486,18.05411,103.61486,18.05411",
+    "geom:latitude":18.05411,
+    "geom:longitude":103.61486,
+    "gn:admin1_code":"81.0",
+    "gn:asciiname":"Ban Suk Sakhon",
+    "gn:country_code":"TH",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7673953,
+    "gn:latitude":18.05411,
+    "gn:longitude":103.61486,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Ban Suk Sakhon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2a\u0e38\u0e02\u0e2a\u0e32\u0e04\u0e23"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678895,
+        1108731727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7673953
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"a415050126d1a088f5621a34dc64525f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731727,
+            "locality_id":1327469521,
+            "region_id":85678895
+        }
+    ],
+    "wof:id":1327469521,
+    "wof:lastmodified":1537704590,
+    "wof:name":"Ban Suk Sakhon",
+    "wof:parent_id":1108731727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.61486,
+    18.05411,
+    103.61486,
+    18.05411
+],
+  "geometry": {"coordinates":[103.61485999999999,18.05411],"type":"Point"}
+}

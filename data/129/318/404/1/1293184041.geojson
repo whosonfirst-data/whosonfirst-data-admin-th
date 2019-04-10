@@ -1,0 +1,70 @@
+{
+  "id": 1293184041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.12903,15.49039,101.12903,15.49039",
+    "geom:latitude":15.49039,
+    "geom:longitude":101.12903,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ban Bueang Na Chan",
+    "gn:country_code":"TH",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8565815,
+    "gn:latitude":15.49039,
+    "gn:longitude":101.12903,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Ban Bueang Na Chan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1a\u0e36\u0e07\u0e19\u0e32\u0e08\u0e32\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678673,
+        1108731907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8565815
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"85e9445ff8e1e4ac7d0d371c250629a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731907,
+            "locality_id":1293184041,
+            "region_id":85678673
+        }
+    ],
+    "wof:id":1293184041,
+    "wof:lastmodified":1537705726,
+    "wof:name":"Ban Bueang Na Chan",
+    "wof:parent_id":1108731907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.12903,
+    15.49039,
+    101.12903,
+    15.49039
+],
+  "geometry": {"coordinates":[101.12903,15.49039],"type":"Point"}
+}

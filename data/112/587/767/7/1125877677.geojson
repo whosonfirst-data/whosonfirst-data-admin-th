@@ -1,0 +1,92 @@
+{
+  "id": 1125877677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.79375,19.07469,100.79375,19.07469",
+    "geom:latitude":19.07469,
+    "geom:longitude":100.79375,
+    "gn:gn_country":"TH",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"TH",
+    "lbl:latitude":19.07469,
+    "lbl:longitude":100.79375,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e19\u0e2d\u0e07\u0e21\u0e48\u0e27\u0e07"
+    ],
+    "name:unk_x_variant":[
+        "Chaiyaphum"
+    ],
+    "qs_pg:aaroncc":"TH",
+    "qs_pg:gn_country":"TH",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1615381,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Ban Nong Muang",
+    "qs_pg:name_adm0":"Thailand",
+    "qs_pg:name_adm1":"Nan",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":5,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":273164,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424960,
+    "qs_pg:woe_id":1214951,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424960,
+    "woe:name_adm0":"Thailand",
+    "woe:name_adm1":"Nan",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678633,
+        1108731995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1615381,
+        "gp:id":1214951,
+        "qs_pg:id":273164
+    },
+    "wof:country":"TH",
+    "wof:created":1497294625,
+    "wof:geomhash":"7b9fe93ae8ff501bdebe3fd209bbb635",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731995,
+            "locality_id":1125877677,
+            "region_id":85678633
+        }
+    ],
+    "wof:id":1125877677,
+    "wof:lastmodified":1509397842,
+    "wof:name":"Ban Nong Muang",
+    "wof:parent_id":1108731995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.79375,
+    19.07469,
+    100.79375,
+    19.07469
+],
+  "geometry": {"coordinates":[100.79375,19.07469],"type":"Point"}
+}

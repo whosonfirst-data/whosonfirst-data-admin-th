@@ -1,0 +1,73 @@
+{
+  "id": 1259635125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.86058,14.51636,100.86058,14.51636",
+    "geom:latitude":14.51636,
+    "geom:longitude":100.86058,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Ban Pok Paek",
+    "gn:country_code":"TH",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1613967,
+    "gn:latitude":14.51636,
+    "gn:longitude":100.86058,
+    "gn:modification_date":"2014-04-29",
+    "gn:name":"Ban Pok Paek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1b\u0e4a\u0e2d\u0e01\u0e41\u0e1b\u0e4a\u0e01"
+    ],
+    "name:und_x_variant":[
+        "Ban Pokpaek (1)"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678735,
+        890466791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1613967
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"e665cab8965888a26ebf6a4faf267b82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466791,
+            "locality_id":1259635125,
+            "region_id":85678735
+        }
+    ],
+    "wof:id":1259635125,
+    "wof:lastmodified":1537703809,
+    "wof:name":"Ban Pok Paek",
+    "wof:parent_id":890466791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.86058,
+    14.51636,
+    100.86058,
+    14.51636
+],
+  "geometry": {"coordinates":[100.86058,14.51636],"type":"Point"}
+}

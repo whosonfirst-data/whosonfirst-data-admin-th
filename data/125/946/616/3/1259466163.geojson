@@ -1,0 +1,75 @@
+{
+  "id": 1259466163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.18767,16.84592,101.18767,16.84592",
+    "geom:latitude":16.84592,
+    "geom:longitude":101.18767,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ban Noen",
+    "gn:country_code":"TH",
+    "gn:dem":167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1616027,
+    "gn:latitude":16.84592,
+    "gn:longitude":101.18767,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"Ban Noen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e19\u0e34\u0e19"
+    ],
+    "name:und_x_variant":[
+        "B\u0101n Maun",
+        "Ban Phon",
+        "Ban Noen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678673,
+        1108731485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1616027
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"b1ec362b04fbbe29564754f3ed7e5866",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731485,
+            "locality_id":1259466163,
+            "region_id":85678673
+        }
+    ],
+    "wof:id":1259466163,
+    "wof:lastmodified":1537703948,
+    "wof:name":"Ban Noen",
+    "wof:parent_id":1108731485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.18767,
+    16.84592,
+    101.18767,
+    16.84592
+],
+  "geometry": {"coordinates":[101.18767,16.84592],"type":"Point"}
+}

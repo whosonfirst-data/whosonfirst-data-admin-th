@@ -1,0 +1,70 @@
+{
+  "id": 1276655217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.89131,18.08867,98.89131,18.08867",
+    "geom:latitude":18.08867,
+    "geom:longitude":98.89131,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ban Mai Suksan",
+    "gn:country_code":"TH",
+    "gn:dem":413,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8219349,
+    "gn:latitude":18.08867,
+    "gn:longitude":98.89131,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Ban Mai Suksan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e43\u0e2b\u0e21\u0e48\u0e2a\u0e38\u0e02\u0e2a\u0e31\u0e19\u0e15\u0e4c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678629,
+        1108802647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8219349
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"6af0a80ff55eefe2b34a24ad02751c1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802647,
+            "locality_id":1276655217,
+            "region_id":85678629
+        }
+    ],
+    "wof:id":1276655217,
+    "wof:lastmodified":1537705148,
+    "wof:name":"Ban Mai Suksan",
+    "wof:parent_id":1108802647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.89131,
+    18.08867,
+    98.89131,
+    18.08867
+],
+  "geometry": {"coordinates":[98.89131,18.08867],"type":"Point"}
+}

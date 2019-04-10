@@ -1,0 +1,75 @@
+{
+  "id": 1226359271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.469,6.32975,101.469,6.32975",
+    "geom:latitude":6.32975,
+    "geom:longitude":101.469,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Ban Tanyong",
+    "gn:country_code":"TH",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1610261,
+    "gn:latitude":6.32975,
+    "gn:longitude":101.469,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Tanyong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e15\u0e31\u0e19\u0e2b\u0e22\u0e07"
+    ],
+    "name:und_x_variant":[
+        "Kampong Tanjong",
+        "Kampong Tanyong",
+        "Ban Tanyong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678885,
+        890465725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1610261
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"49fc9de76944e3b077f476b2116cec0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465725,
+            "locality_id":1226359271,
+            "region_id":85678885
+        }
+    ],
+    "wof:id":1226359271,
+    "wof:lastmodified":1537703631,
+    "wof:name":"Ban Tanyong",
+    "wof:parent_id":890465725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.469,
+    6.32975,
+    101.469,
+    6.32975
+],
+  "geometry": {"coordinates":[101.46899999999999,6.32975],"type":"Point"}
+}

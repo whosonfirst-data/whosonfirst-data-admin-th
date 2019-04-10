@@ -1,0 +1,75 @@
+{
+  "id": 102025823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00036,
+    "geom:area_square_m":4413956.252214,
+    "geom:bbox":"101.260986328,6.82826134883,101.282958984,6.85007765479",
+    "geom:latitude":6.837351,
+    "geom:longitude":101.270142,
+    "gn:latitude":6.19361,
+    "gn:longitude":101.17522,
+    "iso:country":"TH",
+    "lbl:latitude":6.834147,
+    "lbl:longitude":101.268834,
+    "mps:latitude":6.834147,
+    "mps:longitude":101.268834,
+    "mz:hierarchy_label":1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2a\u0e19\u0e34\u0e07"
+    ],
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Ban Saning",
+    "qs:loc_lc":"6975801",
+    "qs:pop":0,
+    "qs:source":"Aquattroshapes",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678889,
+        890466133
+    ],
+    "wof:breaches":[
+        102025061
+    ],
+    "wof:concordances":{
+        "gn:id":6975801
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"e712df33bb13396703c8a5c9d3eacfdd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466133,
+            "locality_id":102025823,
+            "region_id":85678889
+        }
+    ],
+    "wof:id":102025823,
+    "wof:lastmodified":1501273133,
+    "wof:name":"Ban Saning",
+    "wof:parent_id":890466133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.260986328,
+    6.82826134883,
+    101.282958984,
+    6.85007765479
+],
+  "geometry": {"coordinates":[[[101.260986328,6.82826134883],[101.260986328,6.83916962634],[101.260986328,6.85007765479],[101.271972656,6.85007765479],[101.271972656,6.83916962634],[101.282958984,6.83916962634],[101.282958984,6.82826134883],[101.271972656,6.82826134883],[101.260986328,6.82826134883]]],"type":"Polygon"}
+}

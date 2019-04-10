@@ -1,0 +1,71 @@
+{
+  "id": 1293115571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.88981,12.87859,100.88981,12.87859",
+    "geom:latitude":12.87859,
+    "geom:longitude":100.88981,
+    "gn:admin1_code":"46.0",
+    "gn:asciiname":"Jomtien",
+    "gn:country_code":"TH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6692606,
+    "gn:latitude":12.87859,
+    "gn:longitude":100.88981,
+    "gn:modification_date":"2013-12-06",
+    "gn:name":"Jomtien",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Jomtien Beach"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678625,
+        890466015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6692606,
+        "wk:page":"Jomtien_Beach"
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"83a53c638734ba6d23cfca7223371ad8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466015,
+            "locality_id":1293115571,
+            "region_id":85678625
+        }
+    ],
+    "wof:id":1293115571,
+    "wof:lastmodified":1537574052,
+    "wof:name":"Jomtien",
+    "wof:parent_id":890466015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.88981,
+    12.87859,
+    100.88981,
+    12.87859
+],
+  "geometry": {"coordinates":[100.88981,12.87859],"type":"Point"}
+}

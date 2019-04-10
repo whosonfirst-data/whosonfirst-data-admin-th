@@ -1,0 +1,70 @@
+{
+  "id": 1259886865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.82514,19.55786,99.82514,19.55786",
+    "geom:latitude":19.55786,
+    "geom:longitude":99.82514,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ban Cham Khao Tong",
+    "gn:country_code":"TH",
+    "gn:dem":398,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7420860,
+    "gn:latitude":19.55786,
+    "gn:longitude":99.82514,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Cham Khao Tong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e08\u0e33\u0e04\u0e32\u0e27\u0e15\u0e2d\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678617,
+        890466195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7420860
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"6d5c2606a81afb12c69083a60d52adbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466195,
+            "locality_id":1259886865,
+            "region_id":85678617
+        }
+    ],
+    "wof:id":1259886865,
+    "wof:lastmodified":1537704473,
+    "wof:name":"Ban Cham Khao Tong",
+    "wof:parent_id":890466195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.82514,
+    19.55786,
+    99.82514,
+    19.55786
+],
+  "geometry": {"coordinates":[99.82514,19.55786],"type":"Point"}
+}

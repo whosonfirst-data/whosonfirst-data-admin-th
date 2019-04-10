@@ -1,0 +1,70 @@
+{
+  "id": 1276828179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.41383,17.76472,103.41383,17.76472",
+    "geom:latitude":17.76472,
+    "geom:longitude":103.41383,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Chaiyanon",
+    "gn:country_code":"TH",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7676572,
+    "gn:latitude":17.76472,
+    "gn:longitude":103.41383,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Chaiyanon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e44\u0e0a\u0e22\u0e22\u0e32\u0e19\u0e19\u0e17\u0e4c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678863,
+        1108731135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7676572
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"1c627d4aca92e28cecca0c978515ba2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731135,
+            "locality_id":1276828179,
+            "region_id":85678863
+        }
+    ],
+    "wof:id":1276828179,
+    "wof:lastmodified":1537704597,
+    "wof:name":"Ban Chaiyanon",
+    "wof:parent_id":1108731135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.41383,
+    17.76472,
+    103.41383,
+    17.76472
+],
+  "geometry": {"coordinates":[103.41383,17.76472],"type":"Point"}
+}

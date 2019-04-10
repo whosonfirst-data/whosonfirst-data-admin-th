@@ -1,0 +1,70 @@
+{
+  "id": 1226049459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.36828,19.82142,100.36828,19.82142",
+    "geom:latitude":19.82142,
+    "geom:longitude":100.36828,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ban Rak Phaendin",
+    "gn:country_code":"TH",
+    "gn:dem":592,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7382266,
+    "gn:latitude":19.82142,
+    "gn:longitude":100.36828,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Rak Phaendin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e23\u0e31\u0e01\u0e41\u0e1c\u0e48\u0e19\u0e14\u0e34\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678617,
+        890466587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7382266
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"9070eb2aa91fe0dbf8ae9ceed4edc3a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466587,
+            "locality_id":1226049459,
+            "region_id":85678617
+        }
+    ],
+    "wof:id":1226049459,
+    "wof:lastmodified":1537704457,
+    "wof:name":"Ban Rak Phaendin",
+    "wof:parent_id":890466587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.36828,
+    19.82142,
+    100.36828,
+    19.82142
+],
+  "geometry": {"coordinates":[100.36828,19.82142],"type":"Point"}
+}

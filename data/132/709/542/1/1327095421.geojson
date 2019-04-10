@@ -1,0 +1,70 @@
+{
+  "id": 1327095421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.7155,14.69881,103.7155,14.69881",
+    "geom:latitude":14.69881,
+    "geom:longitude":103.7155,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Ban Khok Ang Kan",
+    "gn:country_code":"TH",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8704291,
+    "gn:latitude":14.69881,
+    "gn:longitude":103.7155,
+    "gn:modification_date":"2014-02-17",
+    "gn:name":"Ban Khok Ang Kan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e42\u0e04\u0e01\u0e2d\u0e31\u0e07\u0e01\u0e31\u0e0d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678849,
+        1108731461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8704291
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"67424ce02f1598b5728f5fe428a37c23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731461,
+            "locality_id":1327095421,
+            "region_id":85678849
+        }
+    ],
+    "wof:id":1327095421,
+    "wof:lastmodified":1537705940,
+    "wof:name":"Ban Khok Ang Kan",
+    "wof:parent_id":1108731461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.7155,
+    14.69881,
+    103.7155,
+    14.69881
+],
+  "geometry": {"coordinates":[103.71550000000001,14.69881],"type":"Point"}
+}

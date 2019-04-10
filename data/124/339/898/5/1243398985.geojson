@@ -1,0 +1,73 @@
+{
+  "id": 1243398985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.02711,13.84128,101.02711,13.84128",
+    "geom:latitude":13.84128,
+    "geom:longitude":101.02711,
+    "gn:admin1_code":"44.0",
+    "gn:asciiname":"Ban Ho Khoi",
+    "gn:country_code":"TH",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1620421,
+    "gn:latitude":13.84128,
+    "gn:longitude":101.02711,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Ho Khoi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e2d\u0e04\u0e2d\u0e22"
+    ],
+    "name:und_x_variant":[
+        "Ban Bung Ho Khoi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678797,
+        1108802585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1620421
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"4a0547fc83a8d39ecef5e89887e22446",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802585,
+            "locality_id":1243398985,
+            "region_id":85678797
+        }
+    ],
+    "wof:id":1243398985,
+    "wof:lastmodified":1537704229,
+    "wof:name":"Ban Ho Khoi",
+    "wof:parent_id":1108802585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.02711,
+    13.84128,
+    101.02711,
+    13.84128
+],
+  "geometry": {"coordinates":[101.02710999999999,13.84128],"type":"Point"}
+}

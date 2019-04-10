@@ -1,0 +1,87 @@
+{
+  "id": 102025857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000016,
+    "geom:area_square_m":198036.403303,
+    "geom:bbox":"100.621032715,13.7380510868,100.626525879,13.7447210087",
+    "geom:latitude":13.741386,
+    "geom:longitude":100.62355,
+    "gn:latitude":13.73028,
+    "gn:longitude":100.65138,
+    "iso:country":"TH",
+    "lbl:latitude":13.740719,
+    "lbl:longitude":100.622364,
+    "mps:latitude":13.740719,
+    "mps:longitude":100.622364,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Suan Luang"
+    ],
+    "name:ger_x_preferred":[
+        "Suan Luang"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2a\u0e27\u0e19\u0e2b\u0e25\u0e27\u0e07"
+    ],
+    "qs:a0":"Thailand",
+    "qs:a1":"*Bangkok",
+    "qs:a1r":"*",
+    "qs:a2":"Suan Luang",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Suan Luang",
+    "qs:loc_alt":"Suan Luang",
+    "qs:loc_lc":"7026898",
+    "qs:pop":0,
+    "qs:source":"Aquattroshapes",
+    "qs:type":"County",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678739,
+        890466395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7026898,
+        "gp:id":28341423,
+        "qs:id":397996,
+        "wd:id":"Q13025271"
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"e6970e6397808f3dbd80830105776a60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466395,
+            "locality_id":102025857,
+            "region_id":85678739
+        }
+    ],
+    "wof:id":102025857,
+    "wof:lastmodified":1514506425,
+    "wof:name":"Suan Luang",
+    "wof:parent_id":890466395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.621032715,
+    13.7380510868,
+    100.626525879,
+    13.7447210087
+],
+  "geometry": {"coordinates":[[[100.62240600600001,13.7380510868],[100.62240600600001,13.7393850863],[100.621032715,13.7393850863],[100.621032715,13.7407190783],[100.621032715,13.7420530627],[100.62240600600001,13.7420530627],[100.623779297,13.7420530627],[100.623779297,13.7433870395],[100.623779297,13.7447210087],[100.62515258800001,13.7447210087],[100.62515258800001,13.7433870395],[100.626525879,13.7433870395],[100.626525879,13.7420530627],[100.62515258800001,13.7420530627],[100.62515258800001,13.7407190783],[100.623779297,13.7407190783],[100.623779297,13.7393850863],[100.623779297,13.7380510868],[100.62240600600001,13.7380510868]]],"type":"Polygon"}
+}

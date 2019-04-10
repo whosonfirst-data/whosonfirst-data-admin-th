@@ -1,0 +1,76 @@
+{
+  "id": 1225830857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.11667,18.11667,100.11667,18.11667",
+    "geom:latitude":18.11667,
+    "geom:longitude":100.11667,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ban Wiang Thong",
+    "gn:cc2":"TH",
+    "gn:country_code":"TH",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1611754,
+    "gn:latitude":18.11667,
+    "gn:longitude":100.11667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Wiang Thong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Thong",
+        "Ban Wiang Tong",
+        "Ban Wian Tong",
+        "Ban Wian Taung",
+        "Ban Wian Faung Gaung",
+        "Ban Wiang Thong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678643,
+        1108731947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1611754
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"f3724c303c326d8c24d89035ed4bea8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731947,
+            "locality_id":1225830857,
+            "region_id":85678643
+        }
+    ],
+    "wof:id":1225830857,
+    "wof:lastmodified":1537703656,
+    "wof:name":"Ban Wiang Thong",
+    "wof:parent_id":1108731947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.11667,
+    18.11667000000001,
+    100.11667,
+    18.11667000000001
+],
+  "geometry": {"coordinates":[100.11667,18.11667000000001],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1225969269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.05303,14.049,100.05303,14.049",
+    "geom:latitude":14.049,
+    "geom:longitude":100.05303,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Ban Ko Phai Thuean",
+    "gn:country_code":"TH",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8138649,
+    "gn:latitude":14.049,
+    "gn:longitude":100.05303,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Ban Ko Phai Thuean",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "Ban Ko Phai Thuean"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e01\u0e32\u0e30\u0e44\u0e1c\u0e48\u0e40\u0e16\u0e37\u0e48\u0e2d\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678747,
+        1108731323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8138649
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"26c344b4a2726abe469db38c9d6fa262",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731323,
+            "locality_id":1225969269,
+            "region_id":85678747
+        }
+    ],
+    "wof:id":1225969269,
+    "wof:lastmodified":1537705005,
+    "wof:name":"Ban Ko Phai Thuean",
+    "wof:parent_id":1108731323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.05303,
+    14.049,
+    100.05303,
+    14.049
+],
+  "geometry": {"coordinates":[100.05303000000001,14.049],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1193053839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.52333,15.99914,104.52333,15.99914",
+    "geom:latitude":15.99914,
+    "geom:longitude":104.52333,
+    "gn:admin1_code":"72.0",
+    "gn:asciiname":"Ban Kham Sang Bo",
+    "gn:country_code":"TH",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8671838,
+    "gn:latitude":15.99914,
+    "gn:longitude":104.52333,
+    "gn:modification_date":"2014-01-18",
+    "gn:name":"Ban Kham Sang Bo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e04\u0e33\u0e2a\u0e23\u0e49\u0e32\u0e07\u0e1a\u0e48\u0e2d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678791,
+        1108731999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8671838
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"b82e6d2a8cc35656d575381ffd47d48b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731999,
+            "locality_id":1193053839,
+            "region_id":85678791
+        }
+    ],
+    "wof:id":1193053839,
+    "wof:lastmodified":1537705823,
+    "wof:name":"Ban Kham Sang Bo",
+    "wof:parent_id":1108731999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.52333,
+    15.99914,
+    104.52333,
+    15.99914
+],
+  "geometry": {"coordinates":[104.52333,15.99914],"type":"Point"}
+}

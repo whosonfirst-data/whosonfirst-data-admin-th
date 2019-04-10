@@ -1,0 +1,73 @@
+{
+  "id": 1259964363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.57081,17.05064,98.57081,17.05064",
+    "geom:latitude":17.05064,
+    "geom:longitude":98.57081,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Ban Phala",
+    "gn:country_code":"TH",
+    "gn:dem":273,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8163945,
+    "gn:latitude":17.05064,
+    "gn:longitude":98.57081,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Ban Phala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "Ban Phala"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1e\u0e30\u0e25\u0e30"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678683,
+        1108731505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8163945
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"7a056647ae440a184d1c025ddc2185b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731505,
+            "locality_id":1259964363,
+            "region_id":85678683
+        }
+    ],
+    "wof:id":1259964363,
+    "wof:lastmodified":1537705044,
+    "wof:name":"Ban Phala",
+    "wof:parent_id":1108731505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.57081,
+    17.05064,
+    98.57081,
+    17.05064
+],
+  "geometry": {"coordinates":[98.57080999999999,17.05064],"type":"Point"}
+}

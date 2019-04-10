@@ -1,0 +1,70 @@
+{
+  "id": 1260057463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.42467,16.59047,99.42467,16.59047",
+    "geom:latitude":16.59047,
+    "geom:longitude":99.42467,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Ban Nong Sai",
+    "gn:country_code":"TH",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8386259,
+    "gn:latitude":16.59047,
+    "gn:longitude":99.42467,
+    "gn:modification_date":"2012-09-08",
+    "gn:name":"Ban Nong Sai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e19\u0e2d\u0e07\u0e44\u0e17\u0e23"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678665,
+        890466023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8386259
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"dc2d2a6cad95999e9c1b05257ebf2f0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466023,
+            "locality_id":1260057463,
+            "region_id":85678665
+        }
+    ],
+    "wof:id":1260057463,
+    "wof:lastmodified":1537705542,
+    "wof:name":"Ban Nong Sai",
+    "wof:parent_id":890466023,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.42467,
+    16.59047,
+    99.42467,
+    16.59047
+],
+  "geometry": {"coordinates":[99.42467000000001,16.59047],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1226579045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.42456,8.71778,98.42456,8.71778",
+    "geom:latitude":8.71778,
+    "geom:longitude":98.42456,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Ban Pak Phu",
+    "gn:country_code":"TH",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1155169,
+    "gn:latitude":8.71778,
+    "gn:longitude":98.42456,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Ban Pak Phu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1b\u0e32\u0e01\u0e1e\u0e39\u0e48"
+    ],
+    "name:und_x_variant":[
+        "Ban Phu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678573,
+        1108731337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1155169
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"96f4dbbf36c38b6595223c0fd644d57c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731337,
+            "locality_id":1226579045,
+            "region_id":85678573
+        }
+    ],
+    "wof:id":1226579045,
+    "wof:lastmodified":1537703098,
+    "wof:name":"Ban Pak Phu",
+    "wof:parent_id":1108731337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.42456,
+    8.71778,
+    98.42456,
+    8.71778
+],
+  "geometry": {"coordinates":[98.42456,8.71778],"type":"Point"}
+}

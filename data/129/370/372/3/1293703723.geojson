@@ -1,0 +1,70 @@
+{
+  "id": 1293703723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.89122,10.59319,98.89122,10.59319",
+    "geom:latitude":10.59319,
+    "geom:longitude":98.89122,
+    "gn:admin1_code":"59.0",
+    "gn:asciiname":"Ban Kamphaeng Phet",
+    "gn:country_code":"TH",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8270874,
+    "gn:latitude":10.59319,
+    "gn:longitude":98.89122,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Ban Kamphaeng Phet",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e01\u0e33\u0e41\u0e1e\u0e07\u0e40\u0e1e\u0e0a\u0e23"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678577,
+        1108802631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8270874
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"cccc6c6710ffeb49ae2de545327b0a89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802631,
+            "locality_id":1293703723,
+            "region_id":85678577
+        }
+    ],
+    "wof:id":1293703723,
+    "wof:lastmodified":1537705280,
+    "wof:name":"Ban Kamphaeng Phet",
+    "wof:parent_id":1108802631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.89122,
+    10.59319,
+    98.89122,
+    10.59319
+],
+  "geometry": {"coordinates":[98.89122,10.59319],"type":"Point"}
+}

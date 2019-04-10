@@ -1,0 +1,73 @@
+{
+  "id": 1259808499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.72569,14.54336,98.72569,14.54336",
+    "geom:latitude":14.54336,
+    "geom:longitude":98.72569,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Ban Phu Lo",
+    "gn:country_code":"TH",
+    "gn:dem":223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1118133,
+    "gn:latitude":14.54336,
+    "gn:longitude":98.72569,
+    "gn:modification_date":"2013-02-07",
+    "gn:name":"Ban Phu Lo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1e\u0e38\u0e25\u0e48\u0e2d"
+    ],
+    "name:und_x_variant":[
+        "Ban Phlu Lo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678663,
+        890466765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1118133
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"7ac746e99f77d93957e6e25f97926395",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466765,
+            "locality_id":1259808499,
+            "region_id":85678663
+        }
+    ],
+    "wof:id":1259808499,
+    "wof:lastmodified":1537702936,
+    "wof:name":"Ban Phu Lo",
+    "wof:parent_id":890466765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.72569,
+    14.54336,
+    98.72569,
+    14.54336
+],
+  "geometry": {"coordinates":[98.72569,14.54336],"type":"Point"}
+}

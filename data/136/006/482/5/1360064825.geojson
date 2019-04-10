@@ -1,0 +1,70 @@
+{
+  "id": 1360064825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.66536,16.98456,100.66536,16.98456",
+    "geom:latitude":16.98456,
+    "geom:longitude":100.66536,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Ban Huai Pa Mak",
+    "gn:country_code":"TH",
+    "gn:dem":543,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8206204,
+    "gn:latitude":16.98456,
+    "gn:longitude":100.66536,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Ban Huai Pa Mak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e49\u0e27\u0e22\u0e1b\u0e48\u0e32\u0e2b\u0e21\u0e32\u0e01"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678647,
+        1108731579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8206204
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"416b53ea68072b4e53a2cf47d9556aae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731579,
+            "locality_id":1360064825,
+            "region_id":85678647
+        }
+    ],
+    "wof:id":1360064825,
+    "wof:lastmodified":1537705110,
+    "wof:name":"Ban Huai Pa Mak",
+    "wof:parent_id":1108731579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.66536,
+    16.98456,
+    100.66536,
+    16.98456
+],
+  "geometry": {"coordinates":[100.66536000000001,16.98456],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1259433025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.93872,15.00453,103.93872,15.00453",
+    "geom:latitude":15.00453,
+    "geom:longitude":103.93872,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Ban Mai Si Samrong",
+    "gn:country_code":"TH",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8705323,
+    "gn:latitude":15.00453,
+    "gn:longitude":103.93872,
+    "gn:modification_date":"2014-02-17",
+    "gn:name":"Ban Mai Si Samrong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e43\u0e2b\u0e21\u0e48\u0e28\u0e23\u0e35\u0e2a\u0e33\u0e42\u0e23\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678849,
+        1108731839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8705323
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"d6d5514941b38d1dafe9d01c13b3fd15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731839,
+            "locality_id":1259433025,
+            "region_id":85678849
+        }
+    ],
+    "wof:id":1259433025,
+    "wof:lastmodified":1537705956,
+    "wof:name":"Ban Mai Si Samrong",
+    "wof:parent_id":1108731839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.93872,
+    15.00453,
+    103.93872,
+    15.00453
+],
+  "geometry": {"coordinates":[103.93872,15.00453],"type":"Point"}
+}

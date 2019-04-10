@@ -1,0 +1,73 @@
+{
+  "id": 1226777053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.22903,17.20447,102.22903,17.20447",
+    "geom:latitude":17.20447,
+    "geom:longitude":102.22903,
+    "gn:admin1_code":"79.0",
+    "gn:asciiname":"Ban Sam Siao",
+    "gn:country_code":"TH",
+    "gn:dem":247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1598395,
+    "gn:latitude":17.20447,
+    "gn:longitude":102.22903,
+    "gn:modification_date":"2013-02-07",
+    "gn:name":"Ban Sam Siao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e0b\u0e33\u0e40\u0e2a\u0e35\u0e49\u0e22\u0e27"
+    ],
+    "name:und_x_variant":[
+        "Ban Sam Sieo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678871,
+        1108731551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1598395
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"7fcecb2fdfb6d6b07946d868ed82e9bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731551,
+            "locality_id":1226777053,
+            "region_id":85678871
+        }
+    ],
+    "wof:id":1226777053,
+    "wof:lastmodified":1537703400,
+    "wof:name":"Ban Sam Siao",
+    "wof:parent_id":1108731551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.22903,
+    17.20447,
+    102.22903,
+    17.20447
+],
+  "geometry": {"coordinates":[102.22902999999999,17.20447],"type":"Point"}
+}

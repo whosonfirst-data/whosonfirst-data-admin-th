@@ -1,0 +1,70 @@
+{
+  "id": 1243189265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.65386,11.63319,99.65386,11.63319",
+    "geom:latitude":11.63319,
+    "geom:longitude":99.65386,
+    "gn:admin1_code":"57.0",
+    "gn:asciiname":"Ban Nong Phlap",
+    "gn:country_code":"TH",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8209085,
+    "gn:latitude":11.63319,
+    "gn:longitude":99.65386,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Ban Nong Phlap",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e19\u0e2d\u0e07\u0e1e\u0e25\u0e31\u0e1a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678757,
+        890467409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8209085
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"da03551bf005a3ef7f89125b10e9f19e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890467409,
+            "locality_id":1243189265,
+            "region_id":85678757
+        }
+    ],
+    "wof:id":1243189265,
+    "wof:lastmodified":1537705129,
+    "wof:name":"Ban Nong Phlap",
+    "wof:parent_id":890467409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.65386,
+    11.63319,
+    99.65386,
+    11.63319
+],
+  "geometry": {"coordinates":[99.65385999999999,11.63319],"type":"Point"}
+}

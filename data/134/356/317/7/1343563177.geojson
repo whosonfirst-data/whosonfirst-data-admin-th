@@ -1,0 +1,73 @@
+{
+  "id": 1343563177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.97017,19.30208,98.97017,19.30208",
+    "geom:latitude":19.30208,
+    "geom:longitude":98.97017,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Sop-O",
+    "gn:country_code":"TH",
+    "gn:dem":379,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1117699,
+    "gn:latitude":19.30208,
+    "gn:longitude":98.97017,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Sop-O",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2a\u0e1a\u0e2d\u0e49\u0e2d"
+    ],
+    "name:und_x_variant":[
+        "Ban Sop O Nok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678619,
+        1108802591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1117699
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"5b96d8c0e7bf71d2fe1f6baa1b6db09d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802591,
+            "locality_id":1343563177,
+            "region_id":85678619
+        }
+    ],
+    "wof:id":1343563177,
+    "wof:lastmodified":1537702923,
+    "wof:name":"Ban Sop-O",
+    "wof:parent_id":1108802591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.97017,
+    19.30208,
+    98.97017,
+    19.30208
+],
+  "geometry": {"coordinates":[98.97017,19.30208],"type":"Point"}
+}

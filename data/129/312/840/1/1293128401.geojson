@@ -1,0 +1,73 @@
+{
+  "id": 1293128401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.88162,15.56486,104.88162,15.56486",
+    "geom:latitude":15.56486,
+    "geom:longitude":104.88162,
+    "gn:admin1_code":"77.0",
+    "gn:asciiname":"Ban Non Wang",
+    "gn:country_code":"TH",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8148338,
+    "gn:latitude":15.56486,
+    "gn:longitude":104.88162,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Ban Non Wang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "Ban Non Wang"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e42\u0e19\u0e19\u0e2b\u0e27\u0e32\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678789,
+        1108731703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8148338
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"87b3ef9313fb3ed12dbd97b645f124bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731703,
+            "locality_id":1293128401,
+            "region_id":85678789
+        }
+    ],
+    "wof:id":1293128401,
+    "wof:lastmodified":1537705034,
+    "wof:name":"Ban Non Wang",
+    "wof:parent_id":1108731703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.88162,
+    15.56486,
+    104.88162,
+    15.56486
+],
+  "geometry": {"coordinates":[104.88162,15.56486],"type":"Point"}
+}

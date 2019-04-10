@@ -1,0 +1,73 @@
+{
+  "id": 1243353363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.84275,17.30167,98.84275,17.30167",
+    "geom:latitude":17.30167,
+    "geom:longitude":98.84275,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Ban Khlong So",
+    "gn:country_code":"TH",
+    "gn:dem":258,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8163861,
+    "gn:latitude":17.30167,
+    "gn:longitude":98.84275,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Ban Khlong So",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "Ban Khlong So"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e04\u0e25\u0e2d\u0e07\u0e0b\u0e49\u0e2d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678683,
+        1108731833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8163861
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"aadf0e5fb8af71c4138aa3285ce3d464",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731833,
+            "locality_id":1243353363,
+            "region_id":85678683
+        }
+    ],
+    "wof:id":1243353363,
+    "wof:lastmodified":1537705042,
+    "wof:name":"Ban Khlong So",
+    "wof:parent_id":1108731833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.84275,
+    17.30167,
+    98.84275,
+    17.30167
+],
+  "geometry": {"coordinates":[98.84275,17.30167],"type":"Point"}
+}

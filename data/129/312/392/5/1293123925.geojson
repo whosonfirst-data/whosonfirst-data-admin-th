@@ -1,0 +1,70 @@
+{
+  "id": 1293123925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.87269,5.91564,101.87269,5.91564",
+    "geom:latitude":5.91564,
+    "geom:longitude":101.87269,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Ban Kampong Chue Rae",
+    "gn:country_code":"TH",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6987466,
+    "gn:latitude":5.91564,
+    "gn:longitude":101.87269,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ban Kampong Chue Rae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e01\u0e33\u0e1b\u0e07\u0e08\u0e37\u0e2d\u0e41\u0e23"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678885,
+        890466217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6987466
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"ca39b3ae12736d576138c4816cf5f889",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466217,
+            "locality_id":1293123925,
+            "region_id":85678885
+        }
+    ],
+    "wof:id":1293123925,
+    "wof:lastmodified":1537704368,
+    "wof:name":"Ban Kampong Chue Rae",
+    "wof:parent_id":890466217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.87269,
+    5.91564,
+    101.87269,
+    5.91564
+],
+  "geometry": {"coordinates":[101.87269000000001,5.91564],"type":"Point"}
+}

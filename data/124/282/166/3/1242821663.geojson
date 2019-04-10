@@ -1,0 +1,74 @@
+{
+  "id": 1242821663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.67458,14.87025,101.67458,14.87025",
+    "geom:latitude":14.87025,
+    "geom:longitude":101.67458,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Ban Khlong Tabaek",
+    "gn:country_code":"TH",
+    "gn:dem":240,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1618105,
+    "gn:latitude":14.87025,
+    "gn:longitude":101.67458,
+    "gn:modification_date":"2014-06-04",
+    "gn:name":"Ban Khlong Tabaek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e04\u0e25\u0e2d\u0e07\u0e15\u0e30\u0e41\u0e1a\u0e01"
+    ],
+    "name:und_x_variant":[
+        "Ban Klong Tabek",
+        "Ban Khlong Tabaek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678841,
+        1108731913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1618105
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"4e8bd0725bfc0988d1ab6667d6773a31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731913,
+            "locality_id":1242821663,
+            "region_id":85678841
+        }
+    ],
+    "wof:id":1242821663,
+    "wof:lastmodified":1537704098,
+    "wof:name":"Ban Khlong Tabaek",
+    "wof:parent_id":1108731913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.67458,
+    14.87025,
+    101.67458,
+    14.87025
+],
+  "geometry": {"coordinates":[101.67458000000001,14.87025],"type":"Point"}
+}

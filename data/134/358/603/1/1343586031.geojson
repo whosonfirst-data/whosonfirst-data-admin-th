@@ -1,0 +1,67 @@
+{
+  "id": 1343586031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.0,13.9,102.0,13.9",
+    "geom:latitude":13.9,
+    "geom:longitude":102.0,
+    "gn:admin1_code":"80.0",
+    "gn:asciiname":"Ban Nong Khon Kaen",
+    "gn:country_code":"TH",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1615564,
+    "gn:latitude":13.9,
+    "gn:longitude":102.0,
+    "gn:modification_date":"2009-06-01",
+    "gn:name":"Ban Nong Khon Kaen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678805,
+        890466779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1615564
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"8223f7c0bf94d17b02d71f05d798eb93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466779,
+            "locality_id":1343586031,
+            "region_id":85678805
+        }
+    ],
+    "wof:id":1343586031,
+    "wof:lastmodified":1537059951,
+    "wof:name":"Ban Nong Khon Kaen",
+    "wof:parent_id":890466779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.0,
+    13.9,
+    102.0,
+    13.9
+],
+  "geometry": {"coordinates":[102.0,13.9],"type":"Point"}
+}

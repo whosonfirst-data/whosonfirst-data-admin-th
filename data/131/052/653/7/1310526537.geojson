@@ -1,0 +1,75 @@
+{
+  "id": 1310526537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.54546,6.75815,101.54546,6.75815",
+    "geom:latitude":6.75815,
+    "geom:longitude":101.54546,
+    "gn:admin1_code":"69.0",
+    "gn:asciiname":"Ban Chakhe",
+    "gn:country_code":"TH",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1610385,
+    "gn:latitude":6.75815,
+    "gn:longitude":101.54546,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Chakhe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e08\u0e30\u0e40\u0e06\u0e48"
+    ],
+    "name:und_x_variant":[
+        "Kampong Tauk Ha",
+        "Kampong Chokha",
+        "Ban Chakhe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678889,
+        1108731827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1610385
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"6d9809b1f0dee5a786dc46b9b81f2569",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731827,
+            "locality_id":1310526537,
+            "region_id":85678889
+        }
+    ],
+    "wof:id":1310526537,
+    "wof:lastmodified":1537703643,
+    "wof:name":"Ban Chakhe",
+    "wof:parent_id":1108731827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.54546,
+    6.75815,
+    101.54546,
+    6.75815
+],
+  "geometry": {"coordinates":[101.54546000000001,6.75815],"type":"Point"}
+}

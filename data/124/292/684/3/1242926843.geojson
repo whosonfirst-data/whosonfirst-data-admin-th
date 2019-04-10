@@ -1,0 +1,70 @@
+{
+  "id": 1242926843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.295,14.73847,100.295,14.73847",
+    "geom:latitude":14.73847,
+    "geom:longitude":100.295,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Ban Nong Song Ton",
+    "gn:country_code":"TH",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1615034,
+    "gn:latitude":14.73847,
+    "gn:longitude":100.295,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Ban Nong Song Ton",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e19\u0e2d\u0e07\u0e2a\u0e2d\u0e07\u0e15\u0e2d\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678691,
+        1108731865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1615034
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"c9cf664f2d1d5ac66bd3ae68c8480e96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731865,
+            "locality_id":1242926843,
+            "region_id":85678691
+        }
+    ],
+    "wof:id":1242926843,
+    "wof:lastmodified":1537703883,
+    "wof:name":"Ban Nong Song Ton",
+    "wof:parent_id":1108731865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.295,
+    14.73847,
+    100.295,
+    14.73847
+],
+  "geometry": {"coordinates":[100.295,14.73847],"type":"Point"}
+}

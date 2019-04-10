@@ -1,0 +1,70 @@
+{
+  "id": 1209783363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.77242,15.92386,103.77242,15.92386",
+    "geom:latitude":15.92386,
+    "geom:longitude":103.77242,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Ban Lao Yai",
+    "gn:country_code":"TH",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8682488,
+    "gn:latitude":15.92386,
+    "gn:longitude":103.77242,
+    "gn:modification_date":"2014-01-18",
+    "gn:name":"Ban Lao Yai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e2b\u0e25\u0e48\u0e32\u0e43\u0e2b\u0e0d\u0e48"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678845,
+        1108732013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8682488
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"6167cdac4e2414ac6657d166ac2cc7e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108732013,
+            "locality_id":1209783363,
+            "region_id":85678845
+        }
+    ],
+    "wof:id":1209783363,
+    "wof:lastmodified":1537705868,
+    "wof:name":"Ban Lao Yai",
+    "wof:parent_id":1108732013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.77242,
+    15.92386,
+    103.77242,
+    15.92386
+],
+  "geometry": {"coordinates":[103.77242,15.92386],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1327293361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.98119,14.97775,99.98119,14.97775",
+    "geom:latitude":14.97775,
+    "geom:longitude":99.98119,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Ban Nong Khrok",
+    "gn:country_code":"TH",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8676316,
+    "gn:latitude":14.97775,
+    "gn:longitude":99.98119,
+    "gn:modification_date":"2014-01-18",
+    "gn:name":"Ban Nong Khrok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e19\u0e2d\u0e07\u0e04\u0e23\u0e01"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678699,
+        1108731283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8676316
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"b46438c1dd92257118fd69933c8ced90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731283,
+            "locality_id":1327293361,
+            "region_id":85678699
+        }
+    ],
+    "wof:id":1327293361,
+    "wof:lastmodified":1537705828,
+    "wof:name":"Ban Nong Khrok",
+    "wof:parent_id":1108731283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.98119,
+    14.97775,
+    99.98119,
+    14.97775
+],
+  "geometry": {"coordinates":[99.98119,14.97775],"type":"Point"}
+}

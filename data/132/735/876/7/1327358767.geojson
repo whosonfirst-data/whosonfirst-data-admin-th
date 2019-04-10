@@ -1,0 +1,70 @@
+{
+  "id": 1327358767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.57264,13.73464,102.57264,13.73464",
+    "geom:latitude":13.73464,
+    "geom:longitude":102.57264,
+    "gn:admin1_code":"80.0",
+    "gn:asciiname":"Ban Nong Ian",
+    "gn:country_code":"TH",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1615693,
+    "gn:latitude":13.73464,
+    "gn:longitude":102.57264,
+    "gn:modification_date":"2014-04-05",
+    "gn:name":"Ban Nong Ian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e19\u0e2d\u0e07\u0e40\u0e2d\u0e35\u0e48\u0e22\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678805,
+        890466787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1615693
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"4a3a43442bbe39be9afe067e267ed26e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466787,
+            "locality_id":1327358767,
+            "region_id":85678805
+        }
+    ],
+    "wof:id":1327358767,
+    "wof:lastmodified":1537703925,
+    "wof:name":"Ban Nong Ian",
+    "wof:parent_id":890466787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.57264,
+    13.73464,
+    102.57264,
+    13.73464
+],
+  "geometry": {"coordinates":[102.57264000000001,13.73464],"type":"Point"}
+}

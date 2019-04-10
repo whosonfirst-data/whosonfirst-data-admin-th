@@ -1,0 +1,70 @@
+{
+  "id": 1209769917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.89817,16.62942,101.89817,16.62942",
+    "geom:latitude":16.62942,
+    "geom:longitude":101.89817,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Ban Huai Khi Tom",
+    "gn:country_code":"TH",
+    "gn:dem":255,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8370753,
+    "gn:latitude":16.62942,
+    "gn:longitude":101.89817,
+    "gn:modification_date":"2012-08-06",
+    "gn:name":"Ban Huai Khi Tom",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e49\u0e27\u0e22\u0e02\u0e35\u0e49\u0e15\u0e21"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678825,
+        890465699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8370753
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"85e829ab62831898c95b8c8d7506c2e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465699,
+            "locality_id":1209769917,
+            "region_id":85678825
+        }
+    ],
+    "wof:id":1209769917,
+    "wof:lastmodified":1537705510,
+    "wof:name":"Ban Huai Khi Tom",
+    "wof:parent_id":890465699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.89817,
+    16.62942,
+    101.89817,
+    16.62942
+],
+  "geometry": {"coordinates":[101.89816999999999,16.62942],"type":"Point"}
+}

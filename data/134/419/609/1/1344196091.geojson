@@ -1,0 +1,67 @@
+{
+  "id": 1344196091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.03944,14.35139,101.03944,14.35139",
+    "geom:latitude":14.35139,
+    "geom:longitude":101.03944,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Ban Nam Tan",
+    "gn:country_code":"TH",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1600991,
+    "gn:latitude":14.35139,
+    "gn:longitude":101.03944,
+    "gn:modification_date":"2000-06-23",
+    "gn:name":"Ban Nam Tan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678735,
+        1108802775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1600991
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"1389ee685a279ff7084707807385fde0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802775,
+            "locality_id":1344196091,
+            "region_id":85678735
+        }
+    ],
+    "wof:id":1344196091,
+    "wof:lastmodified":1536679828,
+    "wof:name":"Ban Nam Tan",
+    "wof:parent_id":1108802775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.03944,
+    14.35139,
+    101.03944,
+    14.35139
+],
+  "geometry": {"coordinates":[101.03944,14.35139],"type":"Point"}
+}

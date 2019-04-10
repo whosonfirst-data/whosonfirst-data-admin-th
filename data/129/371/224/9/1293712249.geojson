@@ -1,0 +1,75 @@
+{
+  "id": 1293712249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.528,14.03925,100.528,14.03925",
+    "geom:latitude":14.03925,
+    "geom:longitude":100.528,
+    "gn:admin1_code":"39.0",
+    "gn:asciiname":"Ban Krachaeng",
+    "gn:country_code":"TH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1617388,
+    "gn:latitude":14.03925,
+    "gn:longitude":100.528,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Krachaeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e01\u0e23\u0e30\u0e41\u0e0a\u0e07"
+    ],
+    "name:und_x_variant":[
+        "Ban Kakeng",
+        "Ban Kachaeng",
+        "Ban Krachaeng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678725,
+        890466085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1617388
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"9e6288b140e7510ce502a4d37b7dec43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466085,
+            "locality_id":1293712249,
+            "region_id":85678725
+        }
+    ],
+    "wof:id":1293712249,
+    "wof:lastmodified":1537704046,
+    "wof:name":"Ban Krachaeng",
+    "wof:parent_id":890466085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.528,
+    14.03925,
+    100.528,
+    14.03925
+],
+  "geometry": {"coordinates":[100.52800000000001,14.03925],"type":"Point"}
+}

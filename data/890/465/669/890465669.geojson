@@ -1,0 +1,76 @@
+{
+  "id": 890465669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-11-10",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.71932,17.54211,101.71932,17.54211",
+    "geom:latitude":17.54211,
+    "geom:longitude":101.71932,
+    "gn:country":"TH",
+    "gn:fcode":"ADM2",
+    "gn:pop":0,
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e40\u0e25\u0e22"
+    ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e40\u0e25\u0e22"
+    ],
+    "name:unk_x_variant":[
+        "Amphoe Muang Loei"
+    ],
+    "qs:name":"Amphoe Mueang Loei",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":153,
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1608653,
+        "gp:id":28341005,
+        "qs:id":1151802,
+        "wd:id":"Q1935374",
+        "wk:page":"Mueang Loei District"
+    },
+    "wof:country":"TH",
+    "wof:created":1469053529,
+    "wof:geomhash":"09fedc46dee01c9a217ac90887f019c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465669,
+            "region_id":85678853
+        }
+    ],
+    "wof:id":890465669,
+    "wof:lastmodified":1527736649,
+    "wof:name":"Amphoe Mueang Loei",
+    "wof:parent_id":85678853,
+    "wof:placetype":"county",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.71932,
+    17.54211,
+    101.71932,
+    17.54211
+],
+  "geometry": {"coordinates":[101.71932,17.54211],"type":"Point"}
+}

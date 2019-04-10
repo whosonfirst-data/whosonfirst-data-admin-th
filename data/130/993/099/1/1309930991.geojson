@@ -1,0 +1,73 @@
+{
+  "id": 1309930991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.96222,13.81882,99.96222,13.81882",
+    "geom:latitude":13.81882,
+    "geom:longitude":99.96222,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Ban Bang Tan",
+    "gn:country_code":"TH",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1157117,
+    "gn:latitude":13.81882,
+    "gn:longitude":99.96222,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Ban Bang Tan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1a\u0e32\u0e07\u0e15\u0e32\u0e25"
+    ],
+    "name:und_x_variant":[
+        "Ban Khlong Bang Tan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678761,
+        1108731153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1157117
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"5f63c9b0db68221856f795174ccb0039",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731153,
+            "locality_id":1309930991,
+            "region_id":85678761
+        }
+    ],
+    "wof:id":1309930991,
+    "wof:lastmodified":1537703239,
+    "wof:name":"Ban Bang Tan",
+    "wof:parent_id":1108731153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.96222,
+    13.81882,
+    99.96222,
+    13.81882
+],
+  "geometry": {"coordinates":[99.96222,13.81882],"type":"Point"}
+}

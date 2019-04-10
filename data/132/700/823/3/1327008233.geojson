@@ -1,0 +1,73 @@
+{
+  "id": 1327008233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.49556,17.58953,100.49556,17.58953",
+    "geom:latitude":17.58953,
+    "geom:longitude":100.49556,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Ban Na Klam",
+    "gn:country_code":"TH",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8136306,
+    "gn:latitude":17.58953,
+    "gn:longitude":100.49556,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Ban Na Klam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "Ban Na Klam"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e19\u0e32\u0e01\u0e25\u0e48\u0e33"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678657,
+        890467459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8136306
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"7921ea28006dc87ab0813e0ea206525a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890467459,
+            "locality_id":1327008233,
+            "region_id":85678657
+        }
+    ],
+    "wof:id":1327008233,
+    "wof:lastmodified":1537704987,
+    "wof:name":"Ban Na Klam",
+    "wof:parent_id":890467459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.49556,
+    17.58953,
+    100.49556,
+    17.58953
+],
+  "geometry": {"coordinates":[100.49556,17.58953],"type":"Point"}
+}

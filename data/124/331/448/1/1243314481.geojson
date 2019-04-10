@@ -1,0 +1,73 @@
+{
+  "id": 1243314481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.25789,15.14222,102.25789,15.14222",
+    "geom:latitude":15.14222,
+    "geom:longitude":102.25789,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Ban Si Liam",
+    "gn:country_code":"TH",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1613324,
+    "gn:latitude":15.14222,
+    "gn:longitude":102.25789,
+    "gn:modification_date":"2014-06-04",
+    "gn:name":"Ban Si Liam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2a\u0e35\u0e48\u0e40\u0e2b\u0e25\u0e35\u0e48\u0e22\u0e21"
+    ],
+    "name:und_x_variant":[
+        "Ban Sa Si Liam (1)"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678841,
+        1108802699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1613324
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"58ce29f71311b702b9f6261e55943c0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802699,
+            "locality_id":1243314481,
+            "region_id":85678841
+        }
+    ],
+    "wof:id":1243314481,
+    "wof:lastmodified":1537703766,
+    "wof:name":"Ban Si Liam",
+    "wof:parent_id":1108802699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.25789,
+    15.14222,
+    102.25789,
+    15.14222
+],
+  "geometry": {"coordinates":[102.25789,15.14222],"type":"Point"}
+}

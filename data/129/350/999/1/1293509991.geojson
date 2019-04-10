@@ -1,0 +1,70 @@
+{
+  "id": 1293509991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.20531,18.14369,100.20531,18.14369",
+    "geom:latitude":18.14369,
+    "geom:longitude":100.20531,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ban Thin",
+    "gn:country_code":"TH",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1612330,
+    "gn:latitude":18.14369,
+    "gn:longitude":100.20531,
+    "gn:modification_date":"2012-09-05",
+    "gn:name":"Ban Thin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e16\u0e34\u0e48\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678643,
+        890466801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1612330
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"5d3368f860cd63fce891719da417d1ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466801,
+            "locality_id":1293509991,
+            "region_id":85678643
+        }
+    ],
+    "wof:id":1293509991,
+    "wof:lastmodified":1537703696,
+    "wof:name":"Ban Thin",
+    "wof:parent_id":890466801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.20531,
+    18.14369,
+    100.20531,
+    18.14369
+],
+  "geometry": {"coordinates":[100.20531,18.14369],"type":"Point"}
+}

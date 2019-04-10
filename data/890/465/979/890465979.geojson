@@ -1,0 +1,77 @@
+{
+  "id": 890465979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.91353,13.66081,99.91353,13.66081",
+    "geom:latitude":13.66081,
+    "geom:longitude":99.91353,
+    "gn:country":"TH",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424960,
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e25\u0e27\u0e07"
+    ],
+    "name:unk_x_variant":[
+        "Ban Luang"
+    ],
+    "qs:name":"Ta Luang",
+    "qs:name_adm0":"Thailand",
+    "qs:name_adm1":"Ratchaburi",
+    "qs:photos":16,
+    "qs:photos_1k":3,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":16,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8339270,
+        "gp:id":55947146,
+        "qs:id":1193843
+    },
+    "wof:country":"TH",
+    "wof:created":1469053554,
+    "wof:geomhash":"36d77468e0a407eefa6424618ab07673",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "locality_id":890465979,
+            "region_id":85678761
+        }
+    ],
+    "wof:id":890465979,
+    "wof:lastmodified":1505343706,
+    "wof:name":"Ta Luang",
+    "wof:parent_id":85678761,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.91353,
+    13.66081,
+    99.91353,
+    13.66081
+],
+  "geometry": {"coordinates":[99.91352999999999,13.66081],"type":"Point"}
+}

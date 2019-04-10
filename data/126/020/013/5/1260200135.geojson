@@ -1,0 +1,70 @@
+{
+  "id": 1260200135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.90669,13.87389,100.90669,13.87389",
+    "geom:latitude":13.87389,
+    "geom:longitude":100.90669,
+    "gn:admin1_code":"44.0",
+    "gn:asciiname":"Ban Khlong Sip Si",
+    "gn:country_code":"TH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7099286,
+    "gn:latitude":13.87389,
+    "gn:longitude":100.90669,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Khlong Sip Si",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e04\u0e25\u0e2d\u0e07\u0e2a\u0e34\u0e1a\u0e2a\u0e35\u0e48"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678739,
+        890465651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7099286
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"c379fdb71fbb976f50cc10ee97750f28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465651,
+            "locality_id":1260200135,
+            "region_id":85678739
+        }
+    ],
+    "wof:id":1260200135,
+    "wof:lastmodified":1537704431,
+    "wof:name":"Ban Khlong Sip Si",
+    "wof:parent_id":890465651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.90669,
+    13.87389,
+    100.90669,
+    13.87389
+],
+  "geometry": {"coordinates":[100.90669,13.87389],"type":"Point"}
+}

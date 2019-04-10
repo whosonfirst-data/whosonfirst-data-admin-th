@@ -1,0 +1,64 @@
+{
+  "id": 890467141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.56274,11.216879,99.56274,11.216879",
+    "geom:latitude":11.216879,
+    "geom:longitude":99.56274,
+    "gp:adm0":23424960,
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "qs:name":"Mae Ram Phueng",
+    "qs:name_adm0":"Thailand",
+    "qs:name_adm1":"Prachuap Khiri Khan",
+    "qs:photos":21,
+    "qs:photos_1k":4,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":21,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55945288,
+        "qs:id":776572
+    },
+    "wof:country":"TH",
+    "wof:created":1469053614,
+    "wof:geomhash":"adf91f6c42583412e0e63cdc767c6489",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "locality_id":890467141,
+            "region_id":85678757
+        }
+    ],
+    "wof:id":890467141,
+    "wof:lastmodified":1469053614,
+    "wof:name":"Mae Ram Phueng",
+    "wof:parent_id":85678757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.56274,
+    11.216879,
+    99.56274,
+    11.216879
+],
+  "geometry": {"coordinates":[99.56274000000001,11.216879],"type":"Point"}
+}

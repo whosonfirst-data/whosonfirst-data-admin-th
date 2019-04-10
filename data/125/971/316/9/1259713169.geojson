@@ -1,0 +1,70 @@
+{
+  "id": 1259713169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.8235,14.16669,101.8235,14.16669",
+    "geom:latitude":14.16669,
+    "geom:longitude":101.8235,
+    "gn:admin1_code":"74",
+    "gn:asciiname":"Ban Khlong Sai",
+    "gn:country_code":"TH",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8748958,
+    "gn:latitude":14.16669,
+    "gn:longitude":101.8235,
+    "gn:modification_date":"2014-04-08",
+    "gn:name":"Ban Khlong Sai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e04\u0e25\u0e2d\u0e07\u0e17\u0e23\u0e32\u0e22"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678711,
+        1108731541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8748958
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"19e2f07e72b177a76ea2c457dc00e6cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731541,
+            "locality_id":1259713169,
+            "region_id":85678711
+        }
+    ],
+    "wof:id":1259713169,
+    "wof:lastmodified":1537706026,
+    "wof:name":"Ban Khlong Sai",
+    "wof:parent_id":1108731541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.8235,
+    14.16669,
+    101.8235,
+    14.16669
+],
+  "geometry": {"coordinates":[101.8235,14.16669],"type":"Point"}
+}

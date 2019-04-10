@@ -1,0 +1,70 @@
+{
+  "id": 1242837679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.28753,18.04992,102.28753,18.04992",
+    "geom:latitude":18.04992,
+    "geom:longitude":102.28753,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Lam Phu Phan",
+    "gn:country_code":"TH",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7672516,
+    "gn:latitude":18.04992,
+    "gn:longitude":102.28753,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Lam Phu Phan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e25\u0e33\u0e20\u0e39\u0e1e\u0e32\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678859,
+        890465961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7672516
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"fc380d2896f9caaaf023a83ca0ad57bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465961,
+            "locality_id":1242837679,
+            "region_id":85678859
+        }
+    ],
+    "wof:id":1242837679,
+    "wof:lastmodified":1537704578,
+    "wof:name":"Ban Lam Phu Phan",
+    "wof:parent_id":890465961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.28753,
+    18.04992,
+    102.28753,
+    18.04992
+],
+  "geometry": {"coordinates":[102.28753,18.04992],"type":"Point"}
+}

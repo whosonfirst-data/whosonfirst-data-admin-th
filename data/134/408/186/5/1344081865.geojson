@@ -1,0 +1,74 @@
+{
+  "id": 1344081865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.18717,17.03925,102.18717,17.03925",
+    "geom:latitude":17.03925,
+    "geom:longitude":102.18717,
+    "gn:admin1_code":"79.0",
+    "gn:asciiname":"Ban Yang Lo",
+    "gn:country_code":"TH",
+    "gn:dem":224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1611687,
+    "gn:latitude":17.03925,
+    "gn:longitude":102.18717,
+    "gn:modification_date":"2013-02-07",
+    "gn:name":"Ban Yang Lo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e22\u0e32\u0e07\u0e2b\u0e25\u0e48\u0e2d"
+    ],
+    "name:und_x_variant":[
+        "Ban Na Lo",
+        "Ban Yang Lo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678871,
+        1108731877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1611687
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"50c1d4b4f82c7f9b7e84f54ed6eb3094",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731877,
+            "locality_id":1344081865,
+            "region_id":85678871
+        }
+    ],
+    "wof:id":1344081865,
+    "wof:lastmodified":1537703652,
+    "wof:name":"Ban Yang Lo",
+    "wof:parent_id":1108731877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.18717,
+    17.03925,
+    102.18717,
+    17.03925
+],
+  "geometry": {"coordinates":[102.18716999999999,17.03925],"type":"Point"}
+}

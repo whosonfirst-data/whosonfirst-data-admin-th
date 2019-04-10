@@ -1,0 +1,74 @@
+{
+  "id": 1226057113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.35,7.68333,100.35,7.68333",
+    "geom:latitude":7.68333,
+    "geom:longitude":100.35,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Ban Rawa",
+    "gn:country_code":"TH",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1598616,
+    "gn:latitude":7.68333,
+    "gn:longitude":100.35,
+    "gn:modification_date":"1994-04-10",
+    "gn:name":"Ban Rawa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        1108802633,
+        1108731433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1598616
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"06ac3a3a7d435073906c6ef4c694d00b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802633,
+            "locality_id":1226057113,
+            "region_id":-1
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731433,
+            "locality_id":1226057113,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226057113,
+    "wof:lastmodified":1536709008,
+    "wof:name":"Ban Rawa",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.35,
+    7.68333,
+    100.35,
+    7.68333
+],
+  "geometry": {"coordinates":[100.34999999999999,7.68333],"type":"Point"}
+}

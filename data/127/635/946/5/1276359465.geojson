@@ -1,0 +1,70 @@
+{
+  "id": 1276359465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.28394,9.12153,99.28394,9.12153",
+    "geom:latitude":9.12153,
+    "geom:longitude":99.28394,
+    "gn:admin1_code":"60.0",
+    "gn:asciiname":"Ban Wat Mapring",
+    "gn:country_code":"TH",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8323745,
+    "gn:latitude":9.12153,
+    "gn:longitude":99.28394,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Ban Wat Mapring",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e27\u0e31\u0e14\u0e21\u0e30\u0e1b\u0e23\u0e34\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678581,
+        890467241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8323745
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"237a5bde691422d47015af261f2bd0c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890467241,
+            "locality_id":1276359465,
+            "region_id":85678581
+        }
+    ],
+    "wof:id":1276359465,
+    "wof:lastmodified":1537705371,
+    "wof:name":"Ban Wat Mapring",
+    "wof:parent_id":890467241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.28394,
+    9.12153,
+    99.28394,
+    9.12153
+],
+  "geometry": {"coordinates":[99.28394,9.12153],"type":"Point"}
+}

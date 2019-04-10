@@ -1,0 +1,71 @@
+{
+  "id": 1293560725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.0,15.55,100.0,15.55",
+    "geom:latitude":15.55,
+    "geom:longitude":100.0,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ban Dong Rakam",
+    "gn:country_code":"TH",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1619895,
+    "gn:latitude":15.55,
+    "gn:longitude":100.0,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Ban Dong Rakam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Nong Rakam",
+        "Ban Dong Rakam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678715,
+        1108731435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1619895
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"2bc9c61e451be2248a510f032eb99a3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731435,
+            "locality_id":1293560725,
+            "region_id":85678715
+        }
+    ],
+    "wof:id":1293560725,
+    "wof:lastmodified":1537704193,
+    "wof:name":"Ban Dong Rakam",
+    "wof:parent_id":1108731435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.0,
+    15.55,
+    100.0,
+    15.55
+],
+  "geometry": {"coordinates":[100.0,15.55],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 890466005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.43228,18.23825,99.43228,18.23825",
+    "geom:latitude":18.23825,
+    "geom:longitude":99.43228,
+    "gn:country":"TH",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424960,
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e0a\u0e21\u0e1e\u0e39"
+    ],
+    "name:unk_x_variant":[
+        "Jombhu"
+    ],
+    "qs:name":"Ban Chomphu",
+    "qs:name_adm0":"Thailand",
+    "qs:name_adm1":"Lampang",
+    "qs:photos":65,
+    "qs:photos_1k":13,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":65,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678625,
+        1108802669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1158017,
+        "gp:id":1202205,
+        "qs:id":1205909
+    },
+    "wof:country":"TH",
+    "wof:created":1469053561,
+    "wof:geomhash":"ce2badd4d869bb696afffef38929ecb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802669,
+            "locality_id":890466005,
+            "region_id":85678625
+        }
+    ],
+    "wof:id":890466005,
+    "wof:lastmodified":1505343706,
+    "wof:name":"Ban Chomphu",
+    "wof:parent_id":1108802669,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.43228,
+    18.23825,
+    99.43228,
+    18.23825
+],
+  "geometry": {"coordinates":[99.43228000000001,18.23825],"type":"Point"}
+}

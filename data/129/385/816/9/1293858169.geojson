@@ -1,0 +1,70 @@
+{
+  "id": 1293858169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.48039,17.92322,103.48039,17.92322",
+    "geom:latitude":17.92322,
+    "geom:longitude":103.48039,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Wang Nam Khao",
+    "gn:country_code":"TH",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7676584,
+    "gn:latitude":17.92322,
+    "gn:longitude":103.48039,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Wang Nam Khao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e27\u0e31\u0e07\u0e19\u0e49\u0e33\u0e02\u0e32\u0e27"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678863,
+        1108731135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7676584
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"b055b262b90595a352eb7afb7ac1a6fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731135,
+            "locality_id":1293858169,
+            "region_id":85678863
+        }
+    ],
+    "wof:id":1293858169,
+    "wof:lastmodified":1537704597,
+    "wof:name":"Ban Wang Nam Khao",
+    "wof:parent_id":1108731135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.48039,
+    17.92322,
+    103.48039,
+    17.92322
+],
+  "geometry": {"coordinates":[103.48039,17.92322],"type":"Point"}
+}

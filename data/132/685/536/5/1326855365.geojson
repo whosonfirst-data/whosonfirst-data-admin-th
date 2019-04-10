@@ -1,0 +1,70 @@
+{
+  "id": 1326855365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.52964,14.08956,101.52964,14.08956",
+    "geom:latitude":14.08956,
+    "geom:longitude":101.52964,
+    "gn:admin1_code":"74",
+    "gn:asciiname":"Ban Noi Ko Phok",
+    "gn:country_code":"TH",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8748763,
+    "gn:latitude":14.08956,
+    "gn:longitude":101.52964,
+    "gn:modification_date":"2014-04-08",
+    "gn:name":"Ban Noi Ko Phok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e19\u0e49\u0e2d\u0e22\u0e40\u0e01\u0e32\u0e30\u0e1e\u0e2d\u0e01"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678711,
+        1108731777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8748763
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"669794608e3f96f7b5ba7c50830ce3f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731777,
+            "locality_id":1326855365,
+            "region_id":85678711
+        }
+    ],
+    "wof:id":1326855365,
+    "wof:lastmodified":1537706023,
+    "wof:name":"Ban Noi Ko Phok",
+    "wof:parent_id":1108731777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.52964,
+    14.08956,
+    101.52964,
+    14.08956
+],
+  "geometry": {"coordinates":[101.52964,14.08956],"type":"Point"}
+}

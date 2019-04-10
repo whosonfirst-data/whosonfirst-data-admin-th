@@ -1,0 +1,76 @@
+{
+  "id": 1293703809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.12117,13.57501,100.12117,13.57501",
+    "geom:latitude":13.57501,
+    "geom:longitude":100.12117,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Ban Khlong Mo Kaeng",
+    "gn:country_code":"TH",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1616651,
+    "gn:latitude":13.57501,
+    "gn:longitude":100.12117,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Khlong Mo Kaeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e04\u0e25\u0e2d\u0e07\u0e2b\u0e21\u0e49\u0e2d\u0e41\u0e01\u0e07"
+    ],
+    "name:und_x_variant":[
+        "Ban Moh Keng Tek",
+        "Ban Mo Kaeng Taek",
+        "Ban Khlong Mo Kaeng",
+        "\u0e1a\u0e49\u0e32\u0e19\u0e04\u0e25\u0e2d\u0e07\u0e2b\u0e21\u0e49\u0e2d\u0e41\u0e01\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678771,
+        1108731145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1616651
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"c803f3173c0fcda9c1fef22fc21558a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731145,
+            "locality_id":1293703809,
+            "region_id":85678771
+        }
+    ],
+    "wof:id":1293703809,
+    "wof:lastmodified":1537703995,
+    "wof:name":"Ban Khlong Mo Kaeng",
+    "wof:parent_id":1108731145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.12117,
+    13.57501,
+    100.12117,
+    13.57501
+],
+  "geometry": {"coordinates":[100.12117000000001,13.57501],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1193181929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.48333,14.8,100.48333,14.8",
+    "geom:latitude":14.8,
+    "geom:longitude":100.48333,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Ban Khlong Takhop",
+    "gn:country_code":"TH",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1602584,
+    "gn:latitude":14.8,
+    "gn:longitude":100.48333,
+    "gn:modification_date":"1994-04-10",
+    "gn:name":"Ban Khlong Takhop",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678701,
+        1108802757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1602584
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"4b67c1a877e0b35e974f9544e5e2dfd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802757,
+            "locality_id":1193181929,
+            "region_id":85678701
+        }
+    ],
+    "wof:id":1193181929,
+    "wof:lastmodified":1536369224,
+    "wof:name":"Ban Khlong Takhop",
+    "wof:parent_id":1108802757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.48333,
+    14.8,
+    100.48333,
+    14.8
+],
+  "geometry": {"coordinates":[100.48333,14.8],"type":"Point"}
+}

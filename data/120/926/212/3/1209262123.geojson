@@ -1,0 +1,69 @@
+{
+  "id": 1209262123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.76975,15.47517,101.76975,15.47517",
+    "geom:latitude":15.47517,
+    "geom:longitude":101.76975,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Ban Tha Sala",
+    "gn:country_code":"TH",
+    "gn:dem":206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1612413,
+    "gn:latitude":15.47517,
+    "gn:longitude":101.76975,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Ban Tha Sala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e17\u0e48\u0e32\u0e28\u0e32\u0e25\u0e32"
+    ],
+    "name:und_x_variant":[
+        "B\u0101n Tha Sagea",
+        "Ban Tha Sakae",
+        "Ban Tha Sala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1612413
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"ad60cd41db48edcfa8a5eaedbd255876",
+    "wof:hierarchy":[
+        {
+            "country_id":85632293,
+            "locality_id":1209262123
+        }
+    ],
+    "wof:id":1209262123,
+    "wof:lastmodified":1537703702,
+    "wof:name":"Ban Tha Sala",
+    "wof:parent_id":85632293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.76975,
+    15.47517,
+    101.76975,
+    15.47517
+],
+  "geometry": {"coordinates":[101.76975,15.47517],"type":"Point"}
+}

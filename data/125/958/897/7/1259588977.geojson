@@ -1,0 +1,71 @@
+{
+  "id": 1259588977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.06667,19.35,101.06667,19.35",
+    "geom:latitude":19.35,
+    "geom:longitude":101.06667,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Ban Pang Nong",
+    "gn:country_code":"TH",
+    "gn:dem":1212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1614529,
+    "gn:latitude":19.35,
+    "gn:longitude":101.06667,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Pang Nong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pang Nong",
+        "Ban Pang Nong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678633,
+        890466167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1614529
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"0e8d14b17749f828be783ec92fd74cfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466167,
+            "locality_id":1259588977,
+            "region_id":85678633
+        }
+    ],
+    "wof:id":1259588977,
+    "wof:lastmodified":1537703849,
+    "wof:name":"Ban Pang Nong",
+    "wof:parent_id":890466167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.06667,
+    19.35,
+    101.06667,
+    19.35
+],
+  "geometry": {"coordinates":[101.06667,19.35],"type":"Point"}
+}

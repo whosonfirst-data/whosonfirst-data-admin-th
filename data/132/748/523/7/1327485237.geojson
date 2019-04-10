@@ -1,0 +1,73 @@
+{
+  "id": 1327485237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.05419,14.68778,101.05419,14.68778",
+    "geom:latitude":14.68778,
+    "geom:longitude":101.05419,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Ban Tha Sabok",
+    "gn:country_code":"TH",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1612712,
+    "gn:latitude":14.68778,
+    "gn:longitude":101.05419,
+    "gn:modification_date":"2014-04-29",
+    "gn:name":"Ban Tha Sabok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e17\u0e48\u0e32\u0e2a\u0e1a\u0e01"
+    ],
+    "name:und_x_variant":[
+        "Ban Tha Kabok (1)"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678735,
+        1108731311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1612712
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"fe9d28b72e94a0f86e75e182e9c7862d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731311,
+            "locality_id":1327485237,
+            "region_id":85678735
+        }
+    ],
+    "wof:id":1327485237,
+    "wof:lastmodified":1537703723,
+    "wof:name":"Ban Tha Sabok",
+    "wof:parent_id":1108731311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.05419,
+    14.68778,
+    101.05419,
+    14.68778
+],
+  "geometry": {"coordinates":[101.05419000000001,14.68778],"type":"Point"}
+}

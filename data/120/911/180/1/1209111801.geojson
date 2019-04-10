@@ -1,0 +1,66 @@
+{
+  "id": 1209111801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.15,18.65,101.15,18.65",
+    "geom:latitude":18.65,
+    "geom:longitude":101.15,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Ban Phu Sa Lao",
+    "gn:cc2":"TH",
+    "gn:country_code":"TH",
+    "gn:dem":823,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1614025,
+    "gn:latitude":18.65,
+    "gn:longitude":101.15,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Phu Sa Lao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u0101n Phu Sa L\u0101u",
+        "Ban Phu Sa Lao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1614025
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"8c58047ac0d8942e5a6d67af9bbb8522",
+    "wof:hierarchy":[
+        {
+            "country_id":85632293,
+            "locality_id":1209111801
+        }
+    ],
+    "wof:id":1209111801,
+    "wof:lastmodified":1537703814,
+    "wof:name":"Ban Phu Sa Lao",
+    "wof:parent_id":85632293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.15,
+    18.65,
+    101.15,
+    18.65
+],
+  "geometry": {"coordinates":[101.15000000000001,18.65],"type":"Point"}
+}

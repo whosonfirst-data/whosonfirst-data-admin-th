@@ -1,0 +1,70 @@
+{
+  "id": 1327095767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.97436,15.11003,102.97436,15.11003",
+    "geom:latitude":15.11003,
+    "geom:longitude":102.97436,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Ban Nong Kao Kha",
+    "gn:country_code":"TH",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1600390,
+    "gn:latitude":15.11003,
+    "gn:longitude":102.97436,
+    "gn:modification_date":"2014-08-05",
+    "gn:name":"Ban Nong Kao Kha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e19\u0e2d\u0e07\u0e40\u0e01\u0e49\u0e32\u0e02\u0e48\u0e32"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678817,
+        1108731457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1600390
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"9465a526bfb5bc8bac84f42914deff8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731457,
+            "locality_id":1327095767,
+            "region_id":85678817
+        }
+    ],
+    "wof:id":1327095767,
+    "wof:lastmodified":1537703473,
+    "wof:name":"Ban Nong Kao Kha",
+    "wof:parent_id":1108731457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.97436,
+    15.11003,
+    102.97436,
+    15.11003
+],
+  "geometry": {"coordinates":[102.97436,15.11003],"type":"Point"}
+}

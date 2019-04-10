@@ -1,0 +1,70 @@
+{
+  "id": 1326769417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.54983,14.65464,100.54983,14.65464",
+    "geom:latitude":14.65464,
+    "geom:longitude":100.54983,
+    "gn:admin1_code":"36",
+    "gn:asciiname":"Ban Pak Satang",
+    "gn:country_code":"TH",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8698266,
+    "gn:latitude":14.65464,
+    "gn:longitude":100.54983,
+    "gn:modification_date":"2014-02-16",
+    "gn:name":"Ban Pak Satang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1b\u0e32\u0e01\u0e2a\u0e15\u0e32\u0e07\u0e04\u0e4c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678721,
+        1108731149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8698266
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"0987fca5beed6a94bf8cb43c5feef8b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731149,
+            "locality_id":1326769417,
+            "region_id":85678721
+        }
+    ],
+    "wof:id":1326769417,
+    "wof:lastmodified":1537705899,
+    "wof:name":"Ban Pak Satang",
+    "wof:parent_id":1108731149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.54983,
+    14.65464,
+    100.54983,
+    14.65464
+],
+  "geometry": {"coordinates":[100.54983,14.65464],"type":"Point"}
+}

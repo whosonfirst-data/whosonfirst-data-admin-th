@@ -1,0 +1,70 @@
+{
+  "id": 1209744817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.2592,7.91489,100.2592,7.91489",
+    "geom:latitude":7.91489,
+    "geom:longitude":100.2592,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Ban Don Phasuk",
+    "gn:country_code":"TH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7887590,
+    "gn:latitude":7.91489,
+    "gn:longitude":100.2592,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Don Phasuk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e14\u0e2d\u0e19\u0e1c\u0e32\u0e2a\u0e38\u0e01"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678565,
+        890466369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7887590
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"1339c2b2de9b59dcb897a3a1c331f9d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466369,
+            "locality_id":1209744817,
+            "region_id":85678565
+        }
+    ],
+    "wof:id":1209744817,
+    "wof:lastmodified":1537704853,
+    "wof:name":"Ban Don Phasuk",
+    "wof:parent_id":890466369,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.2592,
+    7.91489,
+    100.2592,
+    7.91489
+],
+  "geometry": {"coordinates":[100.25920000000001,7.91489],"type":"Point"}
+}

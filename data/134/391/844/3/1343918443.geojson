@@ -1,0 +1,70 @@
+{
+  "id": 1343918443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.36808,14.84867,104.36808,14.84867",
+    "geom:latitude":14.84867,
+    "geom:longitude":104.36808,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Ban Phon Palat",
+    "gn:country_code":"TH",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1598970,
+    "gn:latitude":14.84867,
+    "gn:longitude":104.36808,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Phon Palat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e42\u0e1e\u0e19\u0e1b\u0e25\u0e31\u0e14"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678779,
+        1108731741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1598970
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"7bf7bcbcabca1b622f4e64a81b4d200a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731741,
+            "locality_id":1343918443,
+            "region_id":85678779
+        }
+    ],
+    "wof:id":1343918443,
+    "wof:lastmodified":1537703420,
+    "wof:name":"Ban Phon Palat",
+    "wof:parent_id":1108731741,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.36808,
+    14.84867,
+    104.36808,
+    14.84867
+],
+  "geometry": {"coordinates":[104.36808000000001,14.84867],"type":"Point"}
+}

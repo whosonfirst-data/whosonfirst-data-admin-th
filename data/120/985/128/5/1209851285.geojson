@@ -1,0 +1,73 @@
+{
+  "id": 1209851285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.23772,12.47036,102.23772,12.47036",
+    "geom:latitude":12.47036,
+    "geom:longitude":102.23772,
+    "gn:admin1_code":"48.0",
+    "gn:asciiname":"Ban Sueng Bon",
+    "gn:country_code":"TH",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1598046,
+    "gn:latitude":12.47036,
+    "gn:longitude":102.23772,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Sueng Bon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e0b\u0e36\u0e49\u0e07\u0e1a\u0e19"
+    ],
+    "name:und_x_variant":[
+        "Ban Sung Bon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678799,
+        1108731385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1598046
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"04ff6576043dc24325a8f370be77265d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731385,
+            "locality_id":1209851285,
+            "region_id":85678799
+        }
+    ],
+    "wof:id":1209851285,
+    "wof:lastmodified":1537703388,
+    "wof:name":"Ban Sueng Bon",
+    "wof:parent_id":1108731385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.23772,
+    12.47036,
+    102.23772,
+    12.47036
+],
+  "geometry": {"coordinates":[102.23772,12.47036],"type":"Point"}
+}

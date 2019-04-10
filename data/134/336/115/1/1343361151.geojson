@@ -1,0 +1,68 @@
+{
+  "id": 1343361151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.04115,19.90049,99.04115,19.90049",
+    "geom:latitude":19.90049,
+    "geom:longitude":99.04115,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Angkhang",
+    "gn:country_code":"TH",
+    "gn:dem":1423,
+    "gn:elevation":"0.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11071466,
+    "gn:latitude":19.90049,
+    "gn:longitude":99.04115,
+    "gn:modification_date":"2016-02-11",
+    "gn:name":"Angkhang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678619,
+        890466211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11071466
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"4413bd0cd634425c3dc0cc9209851bab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466211,
+            "locality_id":1343361151,
+            "region_id":85678619
+        }
+    ],
+    "wof:id":1343361151,
+    "wof:lastmodified":1536889087,
+    "wof:name":"Angkhang",
+    "wof:parent_id":890466211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.04115,
+    19.90049,
+    99.04115,
+    19.90049
+],
+  "geometry": {"coordinates":[99.04115,19.90049],"type":"Point"}
+}

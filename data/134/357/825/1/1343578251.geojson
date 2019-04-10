@@ -1,0 +1,70 @@
+{
+  "id": 1343578251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.22872,10.84456,99.22872,10.84456",
+    "geom:latitude":10.84456,
+    "geom:longitude":99.22872,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Ban Phru Takhian",
+    "gn:country_code":"TH",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8233681,
+    "gn:latitude":10.84456,
+    "gn:longitude":99.22872,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Ban Phru Takhian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1e\u0e23\u0e38\u0e15\u0e30\u0e40\u0e04\u0e35\u0e22\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678559,
+        1108731983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8233681
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"9072cc209c90ae35e05520a0ee58ca08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731983,
+            "locality_id":1343578251,
+            "region_id":85678559
+        }
+    ],
+    "wof:id":1343578251,
+    "wof:lastmodified":1537705190,
+    "wof:name":"Ban Phru Takhian",
+    "wof:parent_id":1108731983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.22872,
+    10.84456,
+    99.22872,
+    10.84456
+],
+  "geometry": {"coordinates":[99.22872,10.84456],"type":"Point"}
+}

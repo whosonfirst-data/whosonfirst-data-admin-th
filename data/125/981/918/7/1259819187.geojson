@@ -1,0 +1,70 @@
+{
+  "id": 1259819187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.01542,7.637,100.01542,7.637",
+    "geom:latitude":7.637,
+    "geom:longitude":100.01542,
+    "gn:admin1_code":"66.0",
+    "gn:asciiname":"Ban Lam Phai Tok",
+    "gn:country_code":"TH",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8538975,
+    "gn:latitude":7.637,
+    "gn:longitude":100.01542,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Ban Lam Phai Tok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e25\u0e33\u0e1e\u0e32\u0e22\u0e15\u0e01"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678591,
+        1108731403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8538975
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"51c7d4fac5b88aec3cb5635bf27b52dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731403,
+            "locality_id":1259819187,
+            "region_id":85678591
+        }
+    ],
+    "wof:id":1259819187,
+    "wof:lastmodified":1537705681,
+    "wof:name":"Ban Lam Phai Tok",
+    "wof:parent_id":1108731403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.01542,
+    7.637,
+    100.01542,
+    7.637
+],
+  "geometry": {"coordinates":[100.01542000000001,7.637],"type":"Point"}
+}

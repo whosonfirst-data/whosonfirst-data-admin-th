@@ -1,0 +1,70 @@
+{
+  "id": 1277153115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.567,17.81977,102.567,17.81977",
+    "geom:latitude":17.81977,
+    "geom:longitude":102.567,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Na Chang Nam",
+    "gn:country_code":"TH",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1601324,
+    "gn:latitude":17.81977,
+    "gn:longitude":102.567,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Na Chang Nam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e19\u0e32\u0e0a\u0e49\u0e32\u0e07\u0e19\u0e49\u0e33"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678859,
+        890465741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1601324
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"dedb653ff83ad733e682dbdc92f7fe7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465741,
+            "locality_id":1277153115,
+            "region_id":85678859
+        }
+    ],
+    "wof:id":1277153115,
+    "wof:lastmodified":1537703507,
+    "wof:name":"Ban Na Chang Nam",
+    "wof:parent_id":890465741,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.567,
+    17.81977000000001,
+    102.567,
+    17.81977000000001
+],
+  "geometry": {"coordinates":[102.56699999999999,17.81977000000001],"type":"Point"}
+}

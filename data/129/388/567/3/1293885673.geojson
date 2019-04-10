@@ -1,0 +1,74 @@
+{
+  "id": 1293885673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.23133,18.80295,98.23133,18.80295",
+    "geom:latitude":18.80295,
+    "geom:longitude":98.23133,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Pha La Pi",
+    "gn:country_code":"TH",
+    "gn:dem":810,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1462881,
+    "gn:latitude":18.80295,
+    "gn:longitude":98.23133,
+    "gn:modification_date":"2013-07-07",
+    "gn:name":"Ban Pha La Pi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1c\u0e32\u0e25\u0e30\u0e1b\u0e34"
+    ],
+    "name:und_x_variant":[
+        "Ban Yang Pha Lap",
+        "Ban Pha La Pi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678619,
+        890466281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1462881
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"e1b656a878a87b8c5829a4c995e9e3c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466281,
+            "locality_id":1293885673,
+            "region_id":85678619
+        }
+    ],
+    "wof:id":1293885673,
+    "wof:lastmodified":1537703331,
+    "wof:name":"Ban Pha La Pi",
+    "wof:parent_id":890466281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.23133,
+    18.80295,
+    98.23133,
+    18.80295
+],
+  "geometry": {"coordinates":[98.23133,18.80295],"type":"Point"}
+}

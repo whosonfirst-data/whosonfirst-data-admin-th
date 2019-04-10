@@ -1,0 +1,70 @@
+{
+  "id": 1293857177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.28467,16.79789,101.28467,16.79789",
+    "geom:latitude":16.79789,
+    "geom:longitude":101.28467,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ban Som Lao Nuea",
+    "gn:country_code":"TH",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8564802,
+    "gn:latitude":16.79789,
+    "gn:longitude":101.28467,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Ban Som Lao Nuea",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2a\u0e49\u0e21\u0e40\u0e25\u0e32\u0e40\u0e2b\u0e19\u0e37\u0e2d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678673,
+        890466361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8564802
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"cedb58dd94fa7c5516b23dbba5211503",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466361,
+            "locality_id":1293857177,
+            "region_id":85678673
+        }
+    ],
+    "wof:id":1293857177,
+    "wof:lastmodified":1537705713,
+    "wof:name":"Ban Som Lao Nuea",
+    "wof:parent_id":890466361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.28467,
+    16.79789,
+    101.28467,
+    16.79789
+],
+  "geometry": {"coordinates":[101.28467000000001,16.79789],"type":"Point"}
+}

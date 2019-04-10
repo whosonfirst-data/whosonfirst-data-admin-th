@@ -1,0 +1,70 @@
+{
+  "id": 1309930877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.79042,13.88908,99.79042,13.88908",
+    "geom:latitude":13.88908,
+    "geom:longitude":99.79042,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Ban U Taphao",
+    "gn:country_code":"TH",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8455629,
+    "gn:latitude":13.88908,
+    "gn:longitude":99.79042,
+    "gn:modification_date":"2013-02-10",
+    "gn:name":"Ban U Taphao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2d\u0e39\u0e48\u0e15\u0e30\u0e40\u0e20\u0e32"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678663,
+        1108802755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8455629
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"6bed85bd810b83ee0a7e384df65e5b93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802755,
+            "locality_id":1309930877,
+            "region_id":85678663
+        }
+    ],
+    "wof:id":1309930877,
+    "wof:lastmodified":1537705634,
+    "wof:name":"Ban U Taphao",
+    "wof:parent_id":1108802755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.79042,
+    13.88908,
+    99.79042,
+    13.88908
+],
+  "geometry": {"coordinates":[99.79042,13.88908],"type":"Point"}
+}

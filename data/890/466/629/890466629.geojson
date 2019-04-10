@@ -1,0 +1,66 @@
+{
+  "id": 890466629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.37267,12.00171,102.37267,12.00171",
+    "geom:latitude":12.00171,
+    "geom:longitude":102.37267,
+    "gn:country":"TH",
+    "gn:fcode":"PPLA3",
+    "gn:pop":2346,
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u043e-\u0427\u0430\u043d\u0433-\u0422\u0430\u0438"
+    ],
+    "qs:name":"Ko Chang Tai",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7280459,
+        "qs:id":671080
+    },
+    "wof:country":"TH",
+    "wof:created":1469053586,
+    "wof:geomhash":"be6702216db1fbb83eb3bf269fb55d1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "locality_id":890466629,
+            "region_id":85678813
+        }
+    ],
+    "wof:id":890466629,
+    "wof:lastmodified":1505343707,
+    "wof:name":"Ko Chang Tai",
+    "wof:parent_id":85678813,
+    "wof:placetype":"locality",
+    "wof:population":2346,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.37267,
+    12.00171,
+    102.37267,
+    12.00171
+],
+  "geometry": {"coordinates":[102.37267,12.00171],"type":"Point"}
+}

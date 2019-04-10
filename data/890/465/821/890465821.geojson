@@ -1,0 +1,120 @@
+{
+  "id": 890465821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.003642,
+    "geom:area_square_m":43753796.600908,
+    "geom:bbox":"100.335426787,13.6514814437,100.412425341,13.7349825971",
+    "geom:latitude":13.690362,
+    "geom:longitude":100.364443,
+    "gn:country":"TH",
+    "gn:fcode":"ADM2",
+    "gn:pop":0,
+    "iso:country":"TH",
+    "lbl:latitude":13.686663,
+    "lbl:longitude":100.363836,
+    "meso:admin1_en":"KRUNG THEP",
+    "meso:diss_me":"NongkhamKRUNG THEP",
+    "meso:gadm_admin":"Nongkheam",
+    "meso:gadm_hasc2":"TH.BM.NK",
+    "meso:gaul_admin":"Nongkham",
+    "meso:id":"482",
+    "meso:loc_id_alt":"1023",
+    "meso:local_id":"3223",
+    "meso:mps_x":100.363836,
+    "meso:mps_y":13.686663,
+    "meso:name_en":"Nongkham",
+    "meso:name_local":"\u0e40\u0e02\u0e15\u0e2b\u0e19\u0e2d\u0e07\u0e41\u0e02\u0e21",
+    "meso:source":"AOTM",
+    "mps:latitude":13.686663,
+    "mps:longitude":100.363836,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Nong Khaem"
+    ],
+    "name:eng_x_variant":[
+        "Nongkham",
+        "Nongkheam"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e02\u0e15\u0e2b\u0e19\u0e2d\u0e07\u0e41\u0e02\u0e21"
+    ],
+    "name:tha_x_variant":[
+        "\u0e2b\u0e19\u0e2d\u0e07\u0e41\u0e02\u0e21",
+        "\u0e40\u0e02\u0e15\u0e2b\u0e19\u0e2d\u0e07\u0e41\u0e02\u0e21"
+    ],
+    "name:unk_x_variant":[
+        "King Amphoe Nong Khaem"
+    ],
+    "qs:name":"Khet Nong Khaem",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"0",
+    "src:geom":"unknown",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2000-04-01",
+    "statoids:area_km":"36",
+    "statoids:as_of_date":"2000-04-01",
+    "statoids:capital":"",
+    "statoids:country":"TH",
+    "statoids:hasc":"TH.BM",
+    "statoids:name":"Nong Khaem",
+    "statoids:population":"122062",
+    "statoids:statoid":"TH.BM.NK",
+    "statoids:timezone":"7",
+    "statoids:type":"district",
+    "wd:wordcount":209,
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1608235,
+        "gp:id":28341396,
+        "hasc:id":"TH.BM.NK",
+        "qs:id":1151783,
+        "wd:id":"Q1019620",
+        "wk:page":"Nong Khaem District"
+    },
+    "wof:country":"TH",
+    "wof:created":1469053536,
+    "wof:geomhash":"19215c1241c07f64275e69edd558ff16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465821,
+            "region_id":85678739
+        }
+    ],
+    "wof:id":890465821,
+    "wof:lastmodified":1536617417,
+    "wof:name":"Nongkham",
+    "wof:parent_id":85678739,
+    "wof:placetype":"county",
+    "wof:placetype_local":"district",
+    "wof:population":122062,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:shortcode":"NK",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.33542678680833,
+    13.65148144372122,
+    100.4124253413946,
+    13.73498259713909
+],
+  "geometry": {"coordinates":[[[100.33593310830777,13.73281495990209],[100.33670736158864,13.73354961698588],[100.34960303050917,13.73346510285857],[100.35100959734677,13.73199681099644],[100.35800486435144,13.7328227203784],[100.36266066068495,13.73498259713909],[100.3765080236722,13.72026211769743],[100.37666555361056,13.72015514999533],[100.37669601835671,13.71964914895988],[100.37379581324731,13.71040803746795],[100.38428142058004,13.69427148683718],[100.38856793181287,13.69412029175454],[100.38928955636094,13.69393473529387],[100.39829403347912,13.68475264010441],[100.40296272321677,13.68365067829564],[100.4124253413946,13.66436915133659],[100.40408493788597,13.65851055821147],[100.39808913317152,13.66036224743276],[100.39166598607481,13.66585082415063],[100.37854171615518,13.66831109562161],[100.36802754652911,13.66162075791636],[100.3666796877813,13.66224204560486],[100.34813038100255,13.65148144372122],[100.33793109453386,13.6559705024117],[100.33684207674462,13.66093902058186],[100.33722845551593,13.66346997971267],[100.33588209792963,13.66716445297212],[100.33542678680833,13.6715521529982],[100.3424253306556,13.68264782356606],[100.33767641488613,13.69474619231526],[100.33602345449589,13.69709895785055],[100.33622956138434,13.69983171424157],[100.33979487067545,13.70583621520773],[100.34127156805629,13.71296490031263],[100.33942260420761,13.71511986696691],[100.33593310830777,13.73281495990209]]],"type":"Polygon"}
+}

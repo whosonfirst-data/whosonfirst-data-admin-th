@@ -1,0 +1,74 @@
+{
+  "id": 1344073857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.1043,13.95324,100.1043,13.95324",
+    "geom:latitude":13.95324,
+    "geom:longitude":100.1043,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Ban Ko Klang",
+    "gn:country_code":"TH",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1619837,
+    "gn:latitude":13.95324,
+    "gn:longitude":100.1043,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Ko Klang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e01\u0e32\u0e30\u0e01\u0e25\u0e32\u0e07"
+    ],
+    "name:und_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e01\u0e32\u0e30\u0e01\u0e25\u0e32\u0e07",
+        "Ban Don Klang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678747,
+        1108731279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1619837
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"9673b41366f2f89cba645340fbffd5f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731279,
+            "locality_id":1344073857,
+            "region_id":85678747
+        }
+    ],
+    "wof:id":1344073857,
+    "wof:lastmodified":1537704189,
+    "wof:name":"Ban Ko Klang",
+    "wof:parent_id":1108731279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.1043,
+    13.95324,
+    100.1043,
+    13.95324
+],
+  "geometry": {"coordinates":[100.10429999999999,13.95324],"type":"Point"}
+}

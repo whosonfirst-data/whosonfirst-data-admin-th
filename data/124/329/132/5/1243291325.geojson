@@ -1,0 +1,77 @@
+{
+  "id": 1243291325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.30072,7.55575,100.30072,7.55575",
+    "geom:latitude":7.55575,
+    "geom:longitude":100.30072,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Ban Yang Thong",
+    "gn:country_code":"TH",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1597127,
+    "gn:latitude":7.55575,
+    "gn:longitude":100.30072,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Yang Thong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e22\u0e32\u0e07\u0e17\u0e2d\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        1108802633,
+        1108731433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1597127
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"4fcee38363de1a469aa55a9c7bc7ab0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802633,
+            "locality_id":1243291325,
+            "region_id":-1
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731433,
+            "locality_id":1243291325,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1243291325,
+    "wof:lastmodified":1537703358,
+    "wof:name":"Ban Yang Thong",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.30072,
+    7.55575,
+    100.30072,
+    7.55575
+],
+  "geometry": {"coordinates":[100.30072,7.55575],"type":"Point"}
+}

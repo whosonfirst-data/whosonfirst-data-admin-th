@@ -1,0 +1,76 @@
+{
+  "id": 890465819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-11-10",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.80463,14.48283,100.80463,14.48283",
+    "geom:latitude":14.48283,
+    "geom:longitude":100.80463,
+    "gn:country":"TH",
+    "gn:fcode":"ADM2",
+    "gn:pop":0,
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e2b\u0e19\u0e2d\u0e07\u0e41\u0e0b\u0e07"
+    ],
+    "name:tha_x_variant":[
+        "\u0e2b\u0e19\u0e2d\u0e07\u0e41\u0e0b\u0e07"
+    ],
+    "name:unk_x_variant":[
+        "King Amphoe Nong Saeng"
+    ],
+    "qs:name":"Amphoe Nong Saeng",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":29,
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1608172,
+        "gp:id":28341497,
+        "qs:id":1151781,
+        "wd:id":"Q476276",
+        "wk:page":"Amphoe Nong Saeng"
+    },
+    "wof:country":"TH",
+    "wof:created":1469053536,
+    "wof:geomhash":"92c780ad17ae7bbee442bc4627926fa4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465819,
+            "region_id":85678735
+        }
+    ],
+    "wof:id":890465819,
+    "wof:lastmodified":1527736647,
+    "wof:name":"Amphoe Nong Saeng",
+    "wof:parent_id":85678735,
+    "wof:placetype":"county",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.80463,
+    14.48283,
+    100.80463,
+    14.48283
+],
+  "geometry": {"coordinates":[100.80463,14.48283],"type":"Point"}
+}

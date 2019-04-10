@@ -1,0 +1,70 @@
+{
+  "id": 1277041757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.66819,14.65172,101.66819,14.65172",
+    "geom:latitude":14.65172,
+    "geom:longitude":101.66819,
+    "gn:admin1_code":"27",
+    "gn:asciiname":"Ban Pong Din Dam",
+    "gn:country_code":"TH",
+    "gn:dem":371,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9105744,
+    "gn:latitude":14.65172,
+    "gn:longitude":101.66819,
+    "gn:modification_date":"2014-06-07",
+    "gn:name":"Ban Pong Din Dam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e42\u0e1b\u0e48\u0e07\u0e14\u0e34\u0e19\u0e14\u0e33"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678841,
+        1108731671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9105744
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"58df8324c07700e39ef887a33d4cf7b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731671,
+            "locality_id":1277041757,
+            "region_id":85678841
+        }
+    ],
+    "wof:id":1277041757,
+    "wof:lastmodified":1537706151,
+    "wof:name":"Ban Pong Din Dam",
+    "wof:parent_id":1108731671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.66819,
+    14.65172,
+    101.66819,
+    14.65172
+],
+  "geometry": {"coordinates":[101.66819,14.65172],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243380401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.42006,7.47308,100.42006,7.47308",
+    "geom:latitude":7.47308,
+    "geom:longitude":100.42006,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Ban Tanot Rop",
+    "gn:country_code":"TH",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7886940,
+    "gn:latitude":7.47308,
+    "gn:longitude":100.42006,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Tanot Rop",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e42\u0e15\u0e19\u0e14\u0e23\u0e2d\u0e1a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678603,
+        890466337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7886940
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"6aef761df11881d8f784d1c539a3ab4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466337,
+            "locality_id":1243380401,
+            "region_id":85678603
+        }
+    ],
+    "wof:id":1243380401,
+    "wof:lastmodified":1537704849,
+    "wof:name":"Ban Tanot Rop",
+    "wof:parent_id":890466337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.42006,
+    7.47308,
+    100.42006,
+    7.47308
+],
+  "geometry": {"coordinates":[100.42006000000001,7.47308],"type":"Point"}
+}

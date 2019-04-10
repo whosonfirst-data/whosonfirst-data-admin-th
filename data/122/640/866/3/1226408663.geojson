@@ -1,0 +1,70 @@
+{
+  "id": 1226408663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.79314,17.75,102.79314,17.75",
+    "geom:latitude":17.75,
+    "geom:longitude":102.79314,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Sang Phok",
+    "gn:country_code":"TH",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7672862,
+    "gn:latitude":17.75,
+    "gn:longitude":102.79314,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Sang Phok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2a\u0e23\u0e49\u0e32\u0e07\u0e1e\u0e2d\u0e01"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678859,
+        890465657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7672862
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"9c83787eca2cca9f96a7afebf0863115",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465657,
+            "locality_id":1226408663,
+            "region_id":85678859
+        }
+    ],
+    "wof:id":1226408663,
+    "wof:lastmodified":1537704581,
+    "wof:name":"Ban Sang Phok",
+    "wof:parent_id":890465657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.79314,
+    17.75,
+    102.79314,
+    17.75
+],
+  "geometry": {"coordinates":[102.79313999999999,17.75],"type":"Point"}
+}

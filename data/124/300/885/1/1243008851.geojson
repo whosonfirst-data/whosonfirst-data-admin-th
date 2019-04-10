@@ -1,0 +1,67 @@
+{
+  "id": 1243008851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.26792,6.52947,101.26792,6.52947",
+    "geom:latitude":6.52947,
+    "geom:longitude":101.26792,
+    "gn:admin1_code":"70.0",
+    "gn:asciiname":"Ban Sateng",
+    "gn:country_code":"TH",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7881733,
+    "gn:latitude":6.52947,
+    "gn:longitude":101.26792,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Sateng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678611,
+        890466087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7881733
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"f44dd3faba7e48de286e75dfe2841c6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466087,
+            "locality_id":1243008851,
+            "region_id":85678611
+        }
+    ],
+    "wof:id":1243008851,
+    "wof:lastmodified":1536940121,
+    "wof:name":"Ban Sateng",
+    "wof:parent_id":890466087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.26792,
+    6.52947,
+    101.26792,
+    6.52947
+],
+  "geometry": {"coordinates":[101.26792,6.52947],"type":"Point"}
+}

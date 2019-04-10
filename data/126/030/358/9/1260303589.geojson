@@ -1,0 +1,67 @@
+{
+  "id": 1260303589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.8,17.0,98.8,17.0",
+    "geom:latitude":17.0,
+    "geom:longitude":98.8,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Ban Khun Tak",
+    "gn:country_code":"TH",
+    "gn:dem":488,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1119434,
+    "gn:latitude":17.0,
+    "gn:longitude":98.8,
+    "gn:modification_date":"1994-04-10",
+    "gn:name":"Ban Khun Tak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678683,
+        1108731505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1119434
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"784dd77146155651dfe06628bb6b0e54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731505,
+            "locality_id":1260303589,
+            "region_id":85678683
+        }
+    ],
+    "wof:id":1260303589,
+    "wof:lastmodified":1536684887,
+    "wof:name":"Ban Khun Tak",
+    "wof:parent_id":1108731505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.8,
+    17.0,
+    98.8,
+    17.0
+],
+  "geometry": {"coordinates":[98.8,17.0],"type":"Point"}
+}

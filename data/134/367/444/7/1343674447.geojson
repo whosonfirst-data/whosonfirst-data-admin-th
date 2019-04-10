@@ -1,0 +1,70 @@
+{
+  "id": 1343674447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.68789,19.38411,98.68789,19.38411",
+    "geom:latitude":19.38411,
+    "geom:longitude":98.68789,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Huai Din Dam",
+    "gn:country_code":"TH",
+    "gn:dem":753,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7784511,
+    "gn:latitude":19.38411,
+    "gn:longitude":98.68789,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Huai Din Dam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e49\u0e27\u0e22\u0e14\u0e34\u0e19\u0e14\u0e33"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678619,
+        1108802591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7784511
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"99761d756e0fc1370d59a842366aaa96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802591,
+            "locality_id":1343674447,
+            "region_id":85678619
+        }
+    ],
+    "wof:id":1343674447,
+    "wof:lastmodified":1537704677,
+    "wof:name":"Ban Huai Din Dam",
+    "wof:parent_id":1108802591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.68789,
+    19.38411,
+    98.68789,
+    19.38411
+],
+  "geometry": {"coordinates":[98.68789,19.38411],"type":"Point"}
+}

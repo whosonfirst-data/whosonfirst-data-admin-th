@@ -1,0 +1,125 @@
+{
+  "id": 102025077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000256,
+    "geom:area_square_m":3135900.663062,
+    "geom:bbox":"100.290624099,7.34797544037,100.308741102,7.36606240379",
+    "geom:latitude":7.357019,
+    "geom:longitude":100.299683,
+    "gn:latitude":7.34219,
+    "gn:longitude":100.31747,
+    "iso:country":"TH",
+    "lbl:latitude":7.357019,
+    "lbl:longitude":100.299682,
+    "mps:latitude":7.357019,
+    "mps:longitude":100.299682,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bpy_x_preferred":[
+        "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09aa\u09be\u0995 \u09ab\u09be\u09af\u09bc\u09c1\u09a8"
+    ],
+    "name:deu_x_preferred":[
+        "Amphoe Pak Phayun"
+    ],
+    "name:eng_x_preferred":[
+        "Pak Phayun"
+    ],
+    "name:eng_x_variant":[
+        "Ban Laem Fat",
+        "Ban Pak Phayun",
+        "Pak Pa Yun",
+        "Pak Phayoon",
+        "Pak Phayum"
+    ],
+    "name:ron_x_preferred":[
+        "Districtul Pak Phayun"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e1b\u0e32\u0e01\u0e1e\u0e30\u0e22\u0e39\u0e19"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1b\u0e32\u0e01\u0e1e\u0e30\u0e22\u0e39\u0e19",
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1b\u0e32\u0e01\u0e1e\u0e30\u0e22\u0e39\u0e19"
+    ],
+    "name:unk_x_variant":[
+        "Ban Pak Phayun"
+    ],
+    "name:vie_x_preferred":[
+        "Pak Phayun"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Pak Phayun K\u016bn"
+    ],
+    "qs:a0":"Thailand",
+    "qs:a1":"*Phatthalung",
+    "qs:a1r":"*",
+    "qs:a2":"Pak Phayun",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Pak Phayun",
+    "qs:loc_alt":"Pak Phayun",
+    "qs:loc_lc":"1608028",
+    "qs:pop":0,
+    "qs:source":"Aquattroshapes",
+    "qs:type":"County",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":161,
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        1108802715,
+        1108731675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"07cf976c-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":1608028,
+        "gp:id":28341670,
+        "qs:id":1013938,
+        "wd:id":"Q476333"
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"9bf02783368b64ce24c28f8fe37072b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802715,
+            "locality_id":102025077,
+            "region_id":-1
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731675,
+            "locality_id":102025077,
+            "region_id":-1
+        }
+    ],
+    "wof:id":102025077,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527636682,
+    "wof:name":"Pak Phayun",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.29062409894526,
+    7.34797544037158,
+    100.3087411018157,
+    7.36606240379368
+],
+  "geometry": {"coordinates":[[[100.30142401219483,7.34814408554558],[100.29965631687217,7.34797544037158],[100.29788963035732,7.348154324314],[100.29619184158118,7.3486738640606],[100.29462819264445,7.34951409569483],[100.29325877205197,7.35064273163856],[100.29213620579567,7.35201640113431],[100.29130363497912,7.35358231664215],[100.2907930576999,7.35528030215967],[100.29062409894526,7.35704510556192],[100.29080325583929,7.35880890612611],[100.29132364733256,7.36050392089128],[100.2921652780512,7.36206500968551],[100.29329580625257,7.36343217868486],[100.29467178644786,7.36455288625595],[100.29624033897547,7.36538406242047],[100.29794118236568,7.36589376428768],[100.29970895036273,7.36606240379368],[100.30147570449186,7.36588350053817],[100.30317354552868,7.36536393077329],[100.30473722341621,7.36452366298585],[100.30610664524211,7.36339499025785],[100.30722918482651,7.36202128894683],[100.30806170512658,7.36045535143651],[100.30857221573548,7.35875735707867],[100.3087411018157,7.35699255934433],[100.30856187730741,7.35522877809332],[100.30804143355336,7.35353379334636],[100.30719977388411,7.35197274070535],[100.30606924444943,7.35060560849027],[100.30469329092575,7.34948493273434],[100.30312478891473,7.3486537785724],[100.30142401219483,7.34814408554558]]],"type":"Polygon"}
+}

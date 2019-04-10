@@ -1,0 +1,70 @@
+{
+  "id": 1193119095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.45597,15.19306,100.45597,15.19306",
+    "geom:latitude":15.19306,
+    "geom:longitude":100.45597,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ban Khum Ta Ot",
+    "gn:country_code":"TH",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8344302,
+    "gn:latitude":15.19306,
+    "gn:longitude":100.45597,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Ban Khum Ta Ot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e04\u0e38\u0e49\u0e21\u0e15\u0e32\u0e2d\u0e4a\u0e2d\u0e14"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678715,
+        890465891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8344302
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"f76bb1bf42214f4616f43193ec9b7f2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465891,
+            "locality_id":1193119095,
+            "region_id":85678715
+        }
+    ],
+    "wof:id":1193119095,
+    "wof:lastmodified":1537705462,
+    "wof:name":"Ban Khum Ta Ot",
+    "wof:parent_id":890465891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.45597,
+    15.19306,
+    100.45597,
+    15.19306
+],
+  "geometry": {"coordinates":[100.45596999999999,15.19306],"type":"Point"}
+}

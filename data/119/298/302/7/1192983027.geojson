@@ -1,0 +1,70 @@
+{
+  "id": 1192983027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.30731,17.18592,104.30731,17.18592",
+    "geom:latitude":17.18592,
+    "geom:longitude":104.30731,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Na Tong Yai",
+    "gn:country_code":"TH",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8537302,
+    "gn:latitude":17.18592,
+    "gn:longitude":104.30731,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Ban Na Tong Yai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e19\u0e32\u0e15\u0e07\u0e43\u0e2b\u0e0d\u0e48"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678863,
+        890467249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8537302
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"da2d68ea7c97e8e98937aacc951f440c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890467249,
+            "locality_id":1192983027,
+            "region_id":85678863
+        }
+    ],
+    "wof:id":1192983027,
+    "wof:lastmodified":1537705673,
+    "wof:name":"Ban Na Tong Yai",
+    "wof:parent_id":890467249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.30731,
+    17.18592,
+    104.30731,
+    17.18592
+],
+  "geometry": {"coordinates":[104.30731,17.18592],"type":"Point"}
+}

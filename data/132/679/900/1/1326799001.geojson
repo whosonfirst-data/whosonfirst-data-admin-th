@@ -1,0 +1,70 @@
+{
+  "id": 1326799001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.95769,16.57383,103.95769,16.57383",
+    "geom:latitude":16.57383,
+    "geom:longitude":103.95769,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Ban Kut Fang Daeng",
+    "gn:country_code":"TH",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8653608,
+    "gn:latitude":16.57383,
+    "gn:longitude":103.95769,
+    "gn:modification_date":"2013-12-17",
+    "gn:name":"Ban Kut Fang Daeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e01\u0e38\u0e14\u0e1d\u0e31\u0e48\u0e07\u0e41\u0e14\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678831,
+        1108731437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8653608
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"5de552849c9b88d0678d57b0a01692f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731437,
+            "locality_id":1326799001,
+            "region_id":85678831
+        }
+    ],
+    "wof:id":1326799001,
+    "wof:lastmodified":1537705772,
+    "wof:name":"Ban Kut Fang Daeng",
+    "wof:parent_id":1108731437,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.95769,
+    16.57382999999999,
+    103.95769,
+    16.57382999999999
+],
+  "geometry": {"coordinates":[103.95769,16.57382999999999],"type":"Point"}
+}

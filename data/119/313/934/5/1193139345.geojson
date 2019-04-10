@@ -1,0 +1,74 @@
+{
+  "id": 1193139345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.3185,19.97917,99.3185,19.97917",
+    "geom:latitude":19.97917,
+    "geom:longitude":99.3185,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban San Ton Pin",
+    "gn:country_code":"TH",
+    "gn:dem":464,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1117776,
+    "gn:latitude":19.97917,
+    "gn:longitude":99.3185,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban San Ton Pin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2a\u0e31\u0e19\u0e15\u0e49\u0e19\u0e1b\u0e34\u0e19"
+    ],
+    "name:und_x_variant":[
+        "Ban San Ton Pao",
+        "Ban San Ton Pin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678619,
+        890467229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1117776
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"1dc2c18ef8fe08b2c52810035a3fa4e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890467229,
+            "locality_id":1193139345,
+            "region_id":85678619
+        }
+    ],
+    "wof:id":1193139345,
+    "wof:lastmodified":1537702926,
+    "wof:name":"Ban San Ton Pin",
+    "wof:parent_id":890467229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.3185,
+    19.97917,
+    99.3185,
+    19.97917
+],
+  "geometry": {"coordinates":[99.3185,19.97917],"type":"Point"}
+}

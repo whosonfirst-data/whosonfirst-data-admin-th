@@ -1,0 +1,73 @@
+{
+  "id": 1327181945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.70514,16.01336,101.70514,16.01336",
+    "geom:latitude":16.01336,
+    "geom:longitude":101.70514,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Ban Huai Kontha",
+    "gn:country_code":"TH",
+    "gn:dem":222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1602240,
+    "gn:latitude":16.01336,
+    "gn:longitude":101.70514,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Ban Huai Kontha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e49\u0e27\u0e22\u0e01\u0e19\u0e17\u0e32"
+    ],
+    "name:und_x_variant":[
+        "Ban Khontha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678825,
+        890466301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1602240
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"c98042b1aa9c7be33e76a5c4d138a085",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466301,
+            "locality_id":1327181945,
+            "region_id":85678825
+        }
+    ],
+    "wof:id":1327181945,
+    "wof:lastmodified":1537703538,
+    "wof:name":"Ban Huai Kontha",
+    "wof:parent_id":890466301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.70514,
+    16.01336,
+    101.70514,
+    16.01336
+],
+  "geometry": {"coordinates":[101.70514,16.01336],"type":"Point"}
+}

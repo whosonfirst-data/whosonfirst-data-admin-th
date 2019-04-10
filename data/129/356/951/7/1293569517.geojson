@@ -1,0 +1,70 @@
+{
+  "id": 1293569517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.35131,16.45953,99.35131,16.45953",
+    "geom:latitude":16.45953,
+    "geom:longitude":99.35131,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Ban Si Krailat",
+    "gn:country_code":"TH",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8386067,
+    "gn:latitude":16.45953,
+    "gn:longitude":99.35131,
+    "gn:modification_date":"2012-09-08",
+    "gn:name":"Ban Si Krailat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e28\u0e23\u0e35\u0e44\u0e01\u0e23\u0e25\u0e32\u0e28"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678665,
+        890466023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8386067
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"a21b65bf372124dffdcc79495a46aa5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466023,
+            "locality_id":1293569517,
+            "region_id":85678665
+        }
+    ],
+    "wof:id":1293569517,
+    "wof:lastmodified":1537705539,
+    "wof:name":"Ban Si Krailat",
+    "wof:parent_id":890466023,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.35131,
+    16.45952999999999,
+    99.35131,
+    16.45952999999999
+],
+  "geometry": {"coordinates":[99.35131,16.45952999999999],"type":"Point"}
+}

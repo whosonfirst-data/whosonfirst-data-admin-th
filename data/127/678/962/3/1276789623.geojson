@@ -1,0 +1,70 @@
+{
+  "id": 1276789623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.72856,14.51583,99.72856,14.51583",
+    "geom:latitude":14.51583,
+    "geom:longitude":99.72856,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Ban Nong Kham Pha",
+    "gn:country_code":"TH",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1118591,
+    "gn:latitude":14.51583,
+    "gn:longitude":99.72856,
+    "gn:modification_date":"2013-02-07",
+    "gn:name":"Ban Nong Kham Pha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e19\u0e2d\u0e07\u0e04\u0e33\u0e1e\u0e32"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678663,
+        1108731473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1118591
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"cdc8111abf72e290aa7d911bf8f562e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731473,
+            "locality_id":1276789623,
+            "region_id":85678663
+        }
+    ],
+    "wof:id":1276789623,
+    "wof:lastmodified":1537702954,
+    "wof:name":"Ban Nong Kham Pha",
+    "wof:parent_id":1108731473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.72856,
+    14.51583,
+    99.72856,
+    14.51583
+],
+  "geometry": {"coordinates":[99.72856,14.51583],"type":"Point"}
+}

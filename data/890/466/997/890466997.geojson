@@ -1,0 +1,76 @@
+{
+  "id": 890466997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.57617,14.64681,100.57617,14.64681",
+    "geom:latitude":14.64681,
+    "geom:longitude":100.57617,
+    "gn:country":"TH",
+    "gn:fcode":"PPLA2",
+    "gn:pop":0,
+    "gp:adm0":23424960,
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e41\u0e1e\u0e23\u0e01"
+    ],
+    "name:unk_x_variant":[
+        "Phraek"
+    ],
+    "qs:name":"Ban Phraek",
+    "qs:name_adm0":"Thailand",
+    "qs:name_adm1":"Phra Nakhon Si Ayutthaya",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":110,
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1614108,
+        "gp:id":1218171,
+        "qs:id":1158073,
+        "wd:id":"Q475161",
+        "wk:page":"Ban Phraek District"
+    },
+    "wof:country":"TH",
+    "wof:created":1469053607,
+    "wof:geomhash":"285419bc7035f778a708adb4cecac261",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "locality_id":890466997,
+            "region_id":85678721
+        }
+    ],
+    "wof:id":890466997,
+    "wof:lastmodified":1527793007,
+    "wof:name":"Ban Phraek",
+    "wof:parent_id":85678721,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.57617,
+    14.64681,
+    100.57617,
+    14.64681
+],
+  "geometry": {"coordinates":[100.57617,14.64681],"type":"Point"}
+}

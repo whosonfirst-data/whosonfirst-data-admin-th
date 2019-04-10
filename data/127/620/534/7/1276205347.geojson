@@ -1,0 +1,70 @@
+{
+  "id": 1276205347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.48664,16.09125,100.48664,16.09125",
+    "geom:latitude":16.09125,
+    "geom:longitude":100.48664,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Ban Lam Prada",
+    "gn:country_code":"TH",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8451521,
+    "gn:latitude":16.09125,
+    "gn:longitude":100.48664,
+    "gn:modification_date":"2013-02-10",
+    "gn:name":"Ban Lam Prada",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e25\u0e33\u0e1b\u0e23\u0e30\u0e14\u0e32"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678669,
+        1108731971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8451521
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"2df601406926857d6989d5eb564b9f6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731971,
+            "locality_id":1276205347,
+            "region_id":85678669
+        }
+    ],
+    "wof:id":1276205347,
+    "wof:lastmodified":1537705607,
+    "wof:name":"Ban Lam Prada",
+    "wof:parent_id":1108731971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.48664,
+    16.09125,
+    100.48664,
+    16.09125
+],
+  "geometry": {"coordinates":[100.48663999999999,16.09125],"type":"Point"}
+}

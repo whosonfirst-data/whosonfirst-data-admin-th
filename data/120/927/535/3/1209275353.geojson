@@ -1,0 +1,64 @@
+{
+  "id": 1209275353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.64439,15.07528,103.64439,15.07528",
+    "geom:latitude":15.07528,
+    "geom:longitude":103.64439,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Ban Thaen",
+    "gn:country_code":"TH",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8705507,
+    "gn:latitude":15.07528,
+    "gn:longitude":103.64439,
+    "gn:modification_date":"2014-02-17",
+    "gn:name":"Ban Thaen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e41\u0e17\u0e48\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8705507
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"9e3cff63183738c0c7ccd4d1dce99ede",
+    "wof:hierarchy":[
+        {
+            "country_id":85632293,
+            "locality_id":1209275353
+        }
+    ],
+    "wof:id":1209275353,
+    "wof:lastmodified":1537705958,
+    "wof:name":"Ban Thaen",
+    "wof:parent_id":85632293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.64439,
+    15.07528,
+    103.64439,
+    15.07528
+],
+  "geometry": {"coordinates":[103.64439,15.07528],"type":"Point"}
+}

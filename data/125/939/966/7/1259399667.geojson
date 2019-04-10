@@ -1,0 +1,70 @@
+{
+  "id": 1259399667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.85161,12.39375,99.85161,12.39375",
+    "geom:latitude":12.39375,
+    "geom:longitude":99.85161,
+    "gn:admin1_code":"57.0",
+    "gn:asciiname":"Ban Huai Luek",
+    "gn:country_code":"TH",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8209288,
+    "gn:latitude":12.39375,
+    "gn:longitude":99.85161,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Ban Huai Luek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e49\u0e27\u0e22\u0e25\u0e36\u0e01"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678757,
+        890466945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8209288
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"7e1b5fd18a911eb277256a24d6c6305e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466945,
+            "locality_id":1259399667,
+            "region_id":85678757
+        }
+    ],
+    "wof:id":1259399667,
+    "wof:lastmodified":1537705132,
+    "wof:name":"Ban Huai Luek",
+    "wof:parent_id":890466945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.85161,
+    12.39375,
+    99.85161,
+    12.39375
+],
+  "geometry": {"coordinates":[99.85160999999999,12.39375],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243571061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.45444,8.79108,98.45444,8.79108",
+    "geom:latitude":8.79108,
+    "geom:longitude":98.45444,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Ban Sai Pi Nang",
+    "gn:country_code":"TH",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8341267,
+    "gn:latitude":8.79108,
+    "gn:longitude":98.45444,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Ban Sai Pi Nang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2a\u0e32\u0e22\u0e1b\u0e34\u0e2b\u0e19\u0e31\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678573,
+        1108731337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8341267
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"881280cbeaf93761e46e02c6611b0136",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731337,
+            "locality_id":1243571061,
+            "region_id":85678573
+        }
+    ],
+    "wof:id":1243571061,
+    "wof:lastmodified":1537705433,
+    "wof:name":"Ban Sai Pi Nang",
+    "wof:parent_id":1108731337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.45444,
+    8.79108,
+    98.45444,
+    8.79108
+],
+  "geometry": {"coordinates":[98.45444000000001,8.79108],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1209964089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.81694,15.17561,101.81694,15.17561",
+    "geom:latitude":15.17561,
+    "geom:longitude":101.81694,
+    "gn:admin1_code":"27",
+    "gn:asciiname":"Ban Don Tabaeng",
+    "gn:country_code":"TH",
+    "gn:dem":207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9106601,
+    "gn:latitude":15.17561,
+    "gn:longitude":101.81694,
+    "gn:modification_date":"2014-06-07",
+    "gn:name":"Ban Don Tabaeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e14\u0e2d\u0e19\u0e15\u0e30\u0e41\u0e1a\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678841,
+        890466375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9106601
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"1ee1ab0e1b6a85ebcfa1354f44f37b91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466375,
+            "locality_id":1209964089,
+            "region_id":85678841
+        }
+    ],
+    "wof:id":1209964089,
+    "wof:lastmodified":1537706161,
+    "wof:name":"Ban Don Tabaeng",
+    "wof:parent_id":890466375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.81694,
+    15.17561,
+    101.81694,
+    15.17561
+],
+  "geometry": {"coordinates":[101.81694,15.17561],"type":"Point"}
+}

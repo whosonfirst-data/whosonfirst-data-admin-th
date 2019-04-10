@@ -1,0 +1,70 @@
+{
+  "id": 1226086187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.35086,14.60797,100.35086,14.60797",
+    "geom:latitude":14.60797,
+    "geom:longitude":100.35086,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Ban Na Wat Sing",
+    "gn:country_code":"TH",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8197007,
+    "gn:latitude":14.60797,
+    "gn:longitude":100.35086,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Ban Na Wat Sing",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e19\u0e49\u0e32\u0e27\u0e31\u0e14\u0e2a\u0e34\u0e07\u0e2b\u0e4c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678691,
+        890465635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8197007
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"2805fa5d18c1eae55b8c989db1fd935d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465635,
+            "locality_id":1226086187,
+            "region_id":85678691
+        }
+    ],
+    "wof:id":1226086187,
+    "wof:lastmodified":1537705066,
+    "wof:name":"Ban Na Wat Sing",
+    "wof:parent_id":890465635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.35086,
+    14.60797,
+    100.35086,
+    14.60797
+],
+  "geometry": {"coordinates":[100.35086,14.60797],"type":"Point"}
+}

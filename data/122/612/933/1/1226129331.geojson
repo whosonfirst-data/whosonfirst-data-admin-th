@@ -1,0 +1,70 @@
+{
+  "id": 1226129331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.35847,16.88472,100.35847,16.88472",
+    "geom:latitude":16.88472,
+    "geom:longitude":100.35847,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Ban Don Thong Song",
+    "gn:country_code":"TH",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8205057,
+    "gn:latitude":16.88472,
+    "gn:longitude":100.35847,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Ban Don Thong Song",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e14\u0e2d\u0e19\u0e17\u0e2d\u0e07 \u0e2a\u0e2d\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678647,
+        890466019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8205057
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"2e482718b5280a3e5cc0321fc0aae2a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466019,
+            "locality_id":1226129331,
+            "region_id":85678647
+        }
+    ],
+    "wof:id":1226129331,
+    "wof:lastmodified":1537705094,
+    "wof:name":"Ban Don Thong Song",
+    "wof:parent_id":890466019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.35847,
+    16.88472,
+    100.35847,
+    16.88472
+],
+  "geometry": {"coordinates":[100.35847,16.88472],"type":"Point"}
+}

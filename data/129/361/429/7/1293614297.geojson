@@ -1,0 +1,70 @@
+{
+  "id": 1293614297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.62342,13.90278,99.62342,13.90278",
+    "geom:latitude":13.90278,
+    "geom:longitude":99.62342,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Ban Sa Setthi",
+    "gn:country_code":"TH",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8455509,
+    "gn:latitude":13.90278,
+    "gn:longitude":99.62342,
+    "gn:modification_date":"2013-02-10",
+    "gn:name":"Ban Sa Setthi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2a\u0e23\u0e30\u0e40\u0e28\u0e23\u0e29\u0e10\u0e35"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678663,
+        890466893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8455509
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"4559d0f3551a61aa89a3f735ffaa5a78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466893,
+            "locality_id":1293614297,
+            "region_id":85678663
+        }
+    ],
+    "wof:id":1293614297,
+    "wof:lastmodified":1537705632,
+    "wof:name":"Ban Sa Setthi",
+    "wof:parent_id":890466893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.62342,
+    13.90278,
+    99.62342,
+    13.90278
+],
+  "geometry": {"coordinates":[99.62342,13.90278],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1293102091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.91653,18.16247,97.91653,18.16247",
+    "geom:latitude":18.16247,
+    "geom:longitude":97.91653,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ban Thung Laeng",
+    "gn:country_code":"TH",
+    "gn:dem":225,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1117398,
+    "gn:latitude":18.16247,
+    "gn:longitude":97.91653,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Ban Thung Laeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e28\u0e23\u0e35\u0e21\u0e39\u0e25\u0e40\u0e21\u0e37\u0e2d\u0e07"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e17\u0e38\u0e48\u0e07\u0e41\u0e25\u0e49\u0e07"
+    ],
+    "name:und_x_variant":[
+        "Si Mun Mueang",
+        "Ban Si Mun Mueng",
+        "Ban Thung Laeng",
+        "Ban Si Mun Mueang",
+        "\u0e1a\u0e49\u0e32\u0e19\u0e28\u0e23\u0e35\u0e21\u0e39\u0e25\u0e40\u0e21\u0e37\u0e2d\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678555,
+        890466275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1117398
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"8a830738615353033bf83874900389c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466275,
+            "locality_id":1293102091,
+            "region_id":85678555
+        }
+    ],
+    "wof:id":1293102091,
+    "wof:lastmodified":1537702914,
+    "wof:name":"Ban Thung Laeng",
+    "wof:parent_id":890466275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.91653,
+    18.16247000000001,
+    97.91653,
+    18.16247000000001
+],
+  "geometry": {"coordinates":[97.91652999999999,18.16247000000001],"type":"Point"}
+}

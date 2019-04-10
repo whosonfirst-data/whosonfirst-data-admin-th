@@ -1,0 +1,76 @@
+{
+  "id": 1310449139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.97294,15.29192,101.97294,15.29192",
+    "geom:latitude":15.29192,
+    "geom:longitude":101.97294,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Ban Pakham",
+    "gn:country_code":"TH",
+    "gn:dem":192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1614683,
+    "gn:latitude":15.29192,
+    "gn:longitude":101.97294,
+    "gn:modification_date":"2014-06-04",
+    "gn:name":"Ban Pakham",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1b\u0e30\u0e04\u0e33"
+    ],
+    "name:und_x_variant":[
+        "Pa Tham",
+        "Ban Pakha",
+        "B\u0101n Paga",
+        "Ban Pakham"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678841,
+        1108731607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1614683
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"0418012adaea5002275c671e34247100",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731607,
+            "locality_id":1310449139,
+            "region_id":85678841
+        }
+    ],
+    "wof:id":1310449139,
+    "wof:lastmodified":1537703861,
+    "wof:name":"Ban Pakham",
+    "wof:parent_id":1108731607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.97294,
+    15.29192,
+    101.97294,
+    15.29192
+],
+  "geometry": {"coordinates":[101.97293999999999,15.29192],"type":"Point"}
+}

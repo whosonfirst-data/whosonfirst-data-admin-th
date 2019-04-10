@@ -1,0 +1,78 @@
+{
+  "id": 1259842819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.66925,17.80078,102.66925,17.80078",
+    "geom:latitude":17.80078,
+    "geom:longitude":102.66925,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Wiang Khuk Klang",
+    "gn:country_code":"TH",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1611757,
+    "gn:latitude":17.80078,
+    "gn:longitude":102.66925,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Wiang Khuk Klang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e27\u0e35\u0e22\u0e07\u0e04\u0e38\u0e01\u0e01\u0e25\u0e32\u0e07"
+    ],
+    "name:und_x_variant":[
+        "Muang Kuk",
+        "Kouk",
+        "Ban Kuk",
+        "Muang Kouk",
+        "Ban Wiang Khuk",
+        "Ban Wiang Khuk Klang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678859,
+        890465657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1611757
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"342a884f643a4b55ddb9f271f8ec4a11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465657,
+            "locality_id":1259842819,
+            "region_id":85678859
+        }
+    ],
+    "wof:id":1259842819,
+    "wof:lastmodified":1537703657,
+    "wof:name":"Ban Wiang Khuk Klang",
+    "wof:parent_id":890465657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.66925,
+    17.80078,
+    102.66925,
+    17.80078
+],
+  "geometry": {"coordinates":[102.66925000000001,17.80078],"type":"Point"}
+}

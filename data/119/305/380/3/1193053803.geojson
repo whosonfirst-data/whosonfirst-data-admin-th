@@ -1,0 +1,73 @@
+{
+  "id": 1193053803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.20175,14.155,100.20175,14.155",
+    "geom:latitude":14.155,
+    "geom:longitude":100.20175,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Ban Rang Phakchi",
+    "gn:country_code":"TH",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8138723,
+    "gn:latitude":14.155,
+    "gn:longitude":100.20175,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Ban Rang Phakchi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "Ban Rang Phakchi"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e23\u0e32\u0e07\u0e1c\u0e31\u0e01\u0e0a\u0e35"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678747,
+        1108802581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8138723
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"e840a8b69490e8f795e97337848b1774",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802581,
+            "locality_id":1193053803,
+            "region_id":85678747
+        }
+    ],
+    "wof:id":1193053803,
+    "wof:lastmodified":1537705008,
+    "wof:name":"Ban Rang Phakchi",
+    "wof:parent_id":1108802581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.20175,
+    14.155,
+    100.20175,
+    14.155
+],
+  "geometry": {"coordinates":[100.20175,14.155],"type":"Point"}
+}

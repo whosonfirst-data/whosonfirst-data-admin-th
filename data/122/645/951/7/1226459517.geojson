@@ -1,0 +1,75 @@
+{
+  "id": 1226459517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.83803,12.07403,99.83803,12.07403",
+    "geom:latitude":12.07403,
+    "geom:longitude":99.83803,
+    "gn:admin1_code":"57.0",
+    "gn:asciiname":"Ban Plai Nam",
+    "gn:country_code":"TH",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1155153,
+    "gn:latitude":12.07403,
+    "gn:longitude":99.83803,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Ban Plai Nam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1b\u0e25\u0e32\u0e22\u0e19\u0e49\u0e33"
+    ],
+    "name:und_x_variant":[
+        "Pl\u0101inam",
+        "Ban Plai Nam (1)",
+        "Ban Plai Nam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678757,
+        1108802639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1155153
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"679bd5b8f8928417fb67617e7a799f6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802639,
+            "locality_id":1226459517,
+            "region_id":85678757
+        }
+    ],
+    "wof:id":1226459517,
+    "wof:lastmodified":1537703098,
+    "wof:name":"Ban Plai Nam",
+    "wof:parent_id":1108802639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.83803,
+    12.07403,
+    99.83803,
+    12.07403
+],
+  "geometry": {"coordinates":[99.83803,12.07403],"type":"Point"}
+}

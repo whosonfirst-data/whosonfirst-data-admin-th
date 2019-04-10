@@ -1,0 +1,72 @@
+{
+  "id": 890465781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-11-10",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.69001,13.76531,100.69001,13.76531",
+    "geom:latitude":13.76531,
+    "geom:longitude":100.69001,
+    "gn:country":"TH",
+    "gn:fcode":"ADM2",
+    "gn:pop":0,
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:tha_x_preferred":[
+        "\u0e40\u0e02\u0e15\u0e2a\u0e30\u0e1e\u0e32\u0e19\u0e2a\u0e39\u0e07"
+    ],
+    "name:tha_x_variant":[
+        "\u0e2a\u0e30\u0e1e\u0e32\u0e19\u0e2a\u0e39\u0e07"
+    ],
+    "qs:name":"Khet Saphan Sung",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":201,
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6845108,
+        "qs:id":1046870,
+        "wd:id":"Q1019420",
+        "wk:page":"Saphan Sung District"
+    },
+    "wof:country":"TH",
+    "wof:created":1469053534,
+    "wof:geomhash":"8e5020c75a72e3129b73936c924f1d41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465781,
+            "region_id":85678739
+        }
+    ],
+    "wof:id":890465781,
+    "wof:lastmodified":1527736657,
+    "wof:name":"Khet Saphan Sung",
+    "wof:parent_id":85678739,
+    "wof:placetype":"county",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.69001,
+    13.76531,
+    100.69001,
+    13.76531
+],
+  "geometry": {"coordinates":[100.69001,13.76531],"type":"Point"}
+}

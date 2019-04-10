@@ -1,0 +1,64 @@
+{
+  "id": 1209275355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.85456,14.74017,103.85456,14.74017",
+    "geom:latitude":14.74017,
+    "geom:longitude":103.85456,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Ban Hat",
+    "gn:country_code":"TH",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8702772,
+    "gn:latitude":14.74017,
+    "gn:longitude":103.85456,
+    "gn:modification_date":"2014-02-17",
+    "gn:name":"Ban Hat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e32\u0e14"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8702772
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"a6df14be67877b5f9dd7f77bc94bc2c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632293,
+            "locality_id":1209275355
+        }
+    ],
+    "wof:id":1209275355,
+    "wof:lastmodified":1537705917,
+    "wof:name":"Ban Hat",
+    "wof:parent_id":85632293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.85456,
+    14.74017,
+    103.85456,
+    14.74017
+],
+  "geometry": {"coordinates":[103.85456000000001,14.74017],"type":"Point"}
+}

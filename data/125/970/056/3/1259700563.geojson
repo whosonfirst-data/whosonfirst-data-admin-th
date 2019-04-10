@@ -1,0 +1,73 @@
+{
+  "id": 1259700563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.30303,16.72572,104.30303,16.72572",
+    "geom:latitude":16.72572,
+    "geom:longitude":104.30303,
+    "gn:admin1_code":"78.0",
+    "gn:asciiname":"Ban Ta Poe",
+    "gn:country_code":"TH",
+    "gn:dem":251,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8036501,
+    "gn:latitude":16.72572,
+    "gn:longitude":104.30303,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Ta Poe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "Ban Ta Poe"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e15\u0e32\u0e40\u0e1b\u0e2d\u0e30"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678881,
+        1108731413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8036501
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"5078ccb034bf15d7c471c9ee104cbc59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731413,
+            "locality_id":1259700563,
+            "region_id":85678881
+        }
+    ],
+    "wof:id":1259700563,
+    "wof:lastmodified":1537704929,
+    "wof:name":"Ban Ta Poe",
+    "wof:parent_id":1108731413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.30303,
+    16.72572000000001,
+    104.30303,
+    16.72572000000001
+],
+  "geometry": {"coordinates":[104.30303000000001,16.72572000000001],"type":"Point"}
+}

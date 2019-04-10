@@ -1,0 +1,70 @@
+{
+  "id": 1259731129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.86469,15.90653,101.86469,15.90653",
+    "geom:latitude":15.90653,
+    "geom:longitude":101.86469,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Ban Huai Takhaeng",
+    "gn:country_code":"TH",
+    "gn:dem":251,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8379577,
+    "gn:latitude":15.90653,
+    "gn:longitude":101.86469,
+    "gn:modification_date":"2012-09-08",
+    "gn:name":"Ban Huai Takhaeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e49\u0e27\u0e22\u0e15\u0e30\u0e41\u0e04\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678825,
+        1108731117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8379577
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"bb042239bb87bb74077a761fcd10fcd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731117,
+            "locality_id":1259731129,
+            "region_id":85678825
+        }
+    ],
+    "wof:id":1259731129,
+    "wof:lastmodified":1537705528,
+    "wof:name":"Ban Huai Takhaeng",
+    "wof:parent_id":1108731117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.86469,
+    15.90653,
+    101.86469,
+    15.90653
+],
+  "geometry": {"coordinates":[101.86469,15.90653],"type":"Point"}
+}

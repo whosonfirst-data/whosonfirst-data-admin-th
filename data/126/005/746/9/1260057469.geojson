@@ -1,0 +1,70 @@
+{
+  "id": 1260057469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.39989,16.39978,99.39989,16.39978",
+    "geom:latitude":16.39978,
+    "geom:longitude":99.39989,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Ban Wong Khong",
+    "gn:country_code":"TH",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8386088,
+    "gn:latitude":16.39978,
+    "gn:longitude":99.39989,
+    "gn:modification_date":"2012-09-08",
+    "gn:name":"Ban Wong Khong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e27\u0e07\u0e06\u0e49\u0e2d\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678665,
+        890466023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8386088
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"0a50db14517fe11d5f2aca60eda5a97b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466023,
+            "locality_id":1260057469,
+            "region_id":85678665
+        }
+    ],
+    "wof:id":1260057469,
+    "wof:lastmodified":1537705539,
+    "wof:name":"Ban Wong Khong",
+    "wof:parent_id":890466023,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.39989,
+    16.39978,
+    99.39989,
+    16.39978
+],
+  "geometry": {"coordinates":[99.39989,16.39978],"type":"Point"}
+}

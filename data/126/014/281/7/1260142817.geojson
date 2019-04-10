@@ -1,0 +1,78 @@
+{
+  "id": 1260142817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.72939,17.42467,101.72939,17.42467",
+    "geom:latitude":17.42467,
+    "geom:longitude":101.72939,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Khon Kaen",
+    "gn:country_code":"TH",
+    "gn:dem":251,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1617758,
+    "gn:latitude":17.42467,
+    "gn:longitude":101.72939,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Khon Kaen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "Ban Khon Kaen"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e02\u0e2d\u0e19\u0e41\u0e01\u0e48\u0e19"
+    ],
+    "name:und_x_variant":[
+        "B\u0101n Wang Thean",
+        "Ban Wang Thaen",
+        "Ban Khon Kaen Nai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678853,
+        890467393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1617758
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"f66e24ce8552d93847f45983627911cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890467393,
+            "locality_id":1260142817,
+            "region_id":85678853
+        }
+    ],
+    "wof:id":1260142817,
+    "wof:lastmodified":1537704073,
+    "wof:name":"Ban Khon Kaen",
+    "wof:parent_id":890467393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.72939,
+    17.42467000000001,
+    101.72939,
+    17.42467000000001
+],
+  "geometry": {"coordinates":[101.72939,17.42467000000001],"type":"Point"}
+}

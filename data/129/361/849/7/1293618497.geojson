@@ -1,0 +1,70 @@
+{
+  "id": 1293618497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.64214,13.43936,101.64214,13.43936",
+    "geom:latitude":13.43936,
+    "geom:longitude":101.64214,
+    "gn:admin1_code":"44.0",
+    "gn:asciiname":"Ban Takhian Baen",
+    "gn:country_code":"TH",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7854005,
+    "gn:latitude":13.43936,
+    "gn:longitude":101.64214,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Takhian Baen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e15\u0e30\u0e40\u0e04\u0e35\u0e22\u0e19\u0e41\u0e1a\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678797,
+        1108731985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7854005
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"14cc2192dfc59ac714e80c5c33002481",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731985,
+            "locality_id":1293618497,
+            "region_id":85678797
+        }
+    ],
+    "wof:id":1293618497,
+    "wof:lastmodified":1537704740,
+    "wof:name":"Ban Takhian Baen",
+    "wof:parent_id":1108731985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.64214,
+    13.43936,
+    101.64214,
+    13.43936
+],
+  "geometry": {"coordinates":[101.64214,13.43936],"type":"Point"}
+}

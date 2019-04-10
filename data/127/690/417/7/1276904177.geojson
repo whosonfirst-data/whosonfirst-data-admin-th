@@ -1,0 +1,70 @@
+{
+  "id": 1276904177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.00419,13.86406,101.00419,13.86406",
+    "geom:latitude":13.86406,
+    "geom:longitude":101.00419,
+    "gn:admin1_code":"44.0",
+    "gn:asciiname":"Ban Bueng Ta Po",
+    "gn:country_code":"TH",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7853861,
+    "gn:latitude":13.86406,
+    "gn:longitude":101.00419,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Bueng Ta Po",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1a\u0e36\u0e07\u0e15\u0e32\u0e1b\u0e2d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678797,
+        1108802585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7853861
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"22c532224bc6c8fef2ac6435dc9e130d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802585,
+            "locality_id":1276904177,
+            "region_id":85678797
+        }
+    ],
+    "wof:id":1276904177,
+    "wof:lastmodified":1537704738,
+    "wof:name":"Ban Bueng Ta Po",
+    "wof:parent_id":1108802585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.00419,
+    13.86406,
+    101.00419,
+    13.86406
+],
+  "geometry": {"coordinates":[101.00418999999999,13.86406],"type":"Point"}
+}

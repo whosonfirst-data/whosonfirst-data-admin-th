@@ -1,0 +1,82 @@
+{
+  "id": 102025739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000035,
+    "geom:area_square_m":417907.979327,
+    "geom:bbox":"100.475463867,13.7847365493,100.482330322,13.7927388354",
+    "geom:latitude":13.788632,
+    "geom:longitude":100.479114,
+    "gn:latitude":13.79425,
+    "gn:longitude":100.50447,
+    "iso:country":"TH",
+    "lbl:latitude":13.788149,
+    "lbl:longitude":100.479049,
+    "mps:latitude":13.788149,
+    "mps:longitude":100.479049,
+    "mz:hierarchy_label":1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e32\u0e07\u0e1e\u0e25\u0e31\u0e14"
+    ],
+    "name:unk_x_variant":[
+        "Amphoe Bang Phlat"
+    ],
+    "qs:a0":"Thailand",
+    "qs:a1":"*Bangkok",
+    "qs:a1r":"*",
+    "qs:a2":"Bang Phlat",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Bang Phlat",
+    "qs:loc_alt":"Bang Phlat",
+    "qs:loc_lc":"1620706",
+    "qs:pop":0,
+    "qs:source":"Aquattroshapes",
+    "qs:type":"County",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678739,
+        890465843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1620706,
+        "gp:id":28341409,
+        "qs:id":213572
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"d3109c0afcdb06ce6b2153911a1d3ea6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465843,
+            "locality_id":102025739,
+            "region_id":85678739
+        }
+    ],
+    "wof:id":102025739,
+    "wof:lastmodified":1501221073,
+    "wof:name":"Bang Phlat",
+    "wof:parent_id":890465843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.475463867,
+    13.7847365493,
+    100.482330322,
+    13.7927388354
+],
+  "geometry": {"coordinates":[[[100.478210449,13.7847365493],[100.478210449,13.7860702827],[100.476837158,13.7860702827],[100.476837158,13.7874040085],[100.475463867,13.7874040085],[100.475463867,13.7900714372],[100.478210449,13.7900714372],[100.478210449,13.7927388354],[100.480957031,13.7927388354],[100.480957031,13.7900714372],[100.482330322,13.7900714372],[100.482330322,13.7887377267],[100.482330322,13.7874040085],[100.480957031,13.7874040085],[100.480957031,13.7860702827],[100.480957031,13.7847365493],[100.47958374,13.7847365493],[100.478210449,13.7847365493]]],"type":"Polygon"}
+}

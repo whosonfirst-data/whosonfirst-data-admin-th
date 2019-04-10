@@ -1,0 +1,73 @@
+{
+  "id": 1326457801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.63709,17.04171,104.63709,17.04171",
+    "geom:latitude":17.04171,
+    "geom:longitude":104.63709,
+    "gn:admin1_code":"73.0",
+    "gn:asciiname":"Ban Na Don Mai",
+    "gn:country_code":"TH",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1601288,
+    "gn:latitude":17.04171,
+    "gn:longitude":104.63709,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Na Don Mai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "Ban Na Don Mai"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e19\u0e32\u0e42\u0e14\u0e19\u0e43\u0e2b\u0e21\u0e48"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678879,
+        1108731811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1601288
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"01b6a8b9fa730b6e10999dd7a3f100a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731811,
+            "locality_id":1326457801,
+            "region_id":85678879
+        }
+    ],
+    "wof:id":1326457801,
+    "wof:lastmodified":1537703505,
+    "wof:name":"Ban Na Don Mai",
+    "wof:parent_id":1108731811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.63709,
+    17.04171,
+    104.63709,
+    17.04171
+],
+  "geometry": {"coordinates":[104.63709,17.04171],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243299401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.77858,13.97392,101.77858,13.97392",
+    "geom:latitude":13.97392,
+    "geom:longitude":101.77858,
+    "gn:admin1_code":"74",
+    "gn:asciiname":"Ban Hua Thanon",
+    "gn:country_code":"TH",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8749165,
+    "gn:latitude":13.97392,
+    "gn:longitude":101.77858,
+    "gn:modification_date":"2014-04-08",
+    "gn:name":"Ban Hua Thanon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e31\u0e27\u0e16\u0e19\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678711,
+        1108731305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8749165
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"14709140ca835799e0b2142a6ae31425",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731305,
+            "locality_id":1243299401,
+            "region_id":85678711
+        }
+    ],
+    "wof:id":1243299401,
+    "wof:lastmodified":1537706030,
+    "wof:name":"Ban Hua Thanon",
+    "wof:parent_id":1108731305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.77858,
+    13.97392,
+    101.77858,
+    13.97392
+],
+  "geometry": {"coordinates":[101.77858000000001,13.97392],"type":"Point"}
+}

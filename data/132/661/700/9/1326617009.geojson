@@ -1,0 +1,70 @@
+{
+  "id": 1326617009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.65864,16.53458,100.65864,16.53458",
+    "geom:latitude":16.53458,
+    "geom:longitude":100.65864,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Ban Noen Kabak",
+    "gn:country_code":"TH",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8206620,
+    "gn:latitude":16.53458,
+    "gn:longitude":100.65864,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Ban Noen Kabak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e19\u0e34\u0e19\u0e01\u0e30\u0e1a\u0e32\u0e01"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678647,
+        1108731599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8206620
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"8453beab587ef29a704b8a6b051d780d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731599,
+            "locality_id":1326617009,
+            "region_id":85678647
+        }
+    ],
+    "wof:id":1326617009,
+    "wof:lastmodified":1537705115,
+    "wof:name":"Ban Noen Kabak",
+    "wof:parent_id":1108731599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.65864,
+    16.53458,
+    100.65864,
+    16.53458
+],
+  "geometry": {"coordinates":[100.65864000000001,16.53458],"type":"Point"}
+}

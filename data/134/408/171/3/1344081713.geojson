@@ -1,0 +1,70 @@
+{
+  "id": 1344081713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.05119,6.13972,102.05119,6.13972",
+    "geom:latitude":6.13972,
+    "geom:longitude":102.05119,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Ban Si Po Hu Lu",
+    "gn:country_code":"TH",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7000782,
+    "gn:latitude":6.13972,
+    "gn:longitude":102.05119,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ban Si Po Hu Lu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e0b\u0e35\u0e42\u0e1b\u0e2e\u0e39\u0e25\u0e39"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678885,
+        890465893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7000782
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"b1147bc108c5e24a42d414a35e4d83ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465893,
+            "locality_id":1344081713,
+            "region_id":85678885
+        }
+    ],
+    "wof:id":1344081713,
+    "wof:lastmodified":1537704382,
+    "wof:name":"Ban Si Po Hu Lu",
+    "wof:parent_id":890465893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.05119,
+    6.13972,
+    102.05119,
+    6.13972
+],
+  "geometry": {"coordinates":[102.05119000000001,6.13972],"type":"Point"}
+}

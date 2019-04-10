@@ -1,0 +1,75 @@
+{
+  "id": 1226288267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.31244,14.553,104.31244,14.553",
+    "geom:latitude":14.553,
+    "geom:longitude":104.31244,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Ban Chong Ko",
+    "gn:country_code":"TH",
+    "gn:dem":206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1620124,
+    "gn:latitude":14.553,
+    "gn:longitude":104.31244,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Chong Ko",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e08\u0e2d\u0e07\u0e01\u0e2d"
+    ],
+    "name:und_x_variant":[
+        "Changkoe",
+        "Ban Changko",
+        "Ban Chong Ko"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678779,
+        1108731415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1620124
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"5bbb6684e714248a75cbef8ed849f471",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731415,
+            "locality_id":1226288267,
+            "region_id":85678779
+        }
+    ],
+    "wof:id":1226288267,
+    "wof:lastmodified":1537704208,
+    "wof:name":"Ban Chong Ko",
+    "wof:parent_id":1108731415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.31244,
+    14.553,
+    104.31244,
+    14.553
+],
+  "geometry": {"coordinates":[104.31244,14.553],"type":"Point"}
+}

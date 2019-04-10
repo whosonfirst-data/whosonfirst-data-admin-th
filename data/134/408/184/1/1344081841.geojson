@@ -1,0 +1,70 @@
+{
+  "id": 1344081841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.09303,5.75939,101.09303,5.75939",
+    "geom:latitude":5.75939,
+    "geom:longitude":101.09303,
+    "gn:admin1_code":"70.0",
+    "gn:asciiname":"Ban Sa Bue Rang",
+    "gn:country_code":"TH",
+    "gn:dem":289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6975401,
+    "gn:latitude":5.75939,
+    "gn:longitude":101.09303,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ban Sa Bue Rang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2a\u0e30\u0e1a\u0e37\u0e2d\u0e23\u0e31\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678611,
+        1108731185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6975401
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"d0d11d49bf3ebde7fff6b664093a67f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731185,
+            "locality_id":1344081841,
+            "region_id":85678611
+        }
+    ],
+    "wof:id":1344081841,
+    "wof:lastmodified":1537704352,
+    "wof:name":"Ban Sa Bue Rang",
+    "wof:parent_id":1108731185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.09303,
+    5.75939,
+    101.09303,
+    5.75939
+],
+  "geometry": {"coordinates":[101.09303,5.75939],"type":"Point"}
+}

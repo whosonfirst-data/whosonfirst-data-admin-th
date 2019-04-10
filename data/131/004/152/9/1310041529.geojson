@@ -1,0 +1,73 @@
+{
+  "id": 1310041529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.89861,13.86881,99.89861,13.86881",
+    "geom:latitude":13.86881,
+    "geom:longitude":99.89861,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Ban Nong Khang Maeo",
+    "gn:country_code":"TH",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1155823,
+    "gn:latitude":13.86881,
+    "gn:longitude":99.89861,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Ban Nong Khang Maeo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e19\u0e2d\u0e07\u0e04\u0e32\u0e07\u0e41\u0e21\u0e27"
+    ],
+    "name:und_x_variant":[
+        "Ban Nong Khang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678761,
+        1108731153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1155823
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"e0349cc6fffa0f560920b8512518d104",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731153,
+            "locality_id":1310041529,
+            "region_id":85678761
+        }
+    ],
+    "wof:id":1310041529,
+    "wof:lastmodified":1537703146,
+    "wof:name":"Ban Nong Khang Maeo",
+    "wof:parent_id":1108731153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.89861,
+    13.86881,
+    99.89861,
+    13.86881
+],
+  "geometry": {"coordinates":[99.89861000000001,13.86881],"type":"Point"}
+}

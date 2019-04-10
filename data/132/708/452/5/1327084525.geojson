@@ -1,0 +1,70 @@
+{
+  "id": 1327084525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.54489,15.34219,103.54489,15.34219",
+    "geom:latitude":15.34219,
+    "geom:longitude":103.54489,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Ban Phrai Khala Noi",
+    "gn:country_code":"TH",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8705625,
+    "gn:latitude":15.34219,
+    "gn:longitude":103.54489,
+    "gn:modification_date":"2014-02-17",
+    "gn:name":"Ban Phrai Khala Noi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e44\u0e1e\u0e23\u0e02\u0e25\u0e32\u0e19\u0e49\u0e2d\u0e22"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678849,
+        1108731261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8705625
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"fb8f8bcc6ffbb078711bda2d0c34e05e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731261,
+            "locality_id":1327084525,
+            "region_id":85678849
+        }
+    ],
+    "wof:id":1327084525,
+    "wof:lastmodified":1537705961,
+    "wof:name":"Ban Phrai Khala Noi",
+    "wof:parent_id":1108731261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.54489,
+    15.34219,
+    103.54489,
+    15.34219
+],
+  "geometry": {"coordinates":[103.54489,15.34219],"type":"Point"}
+}

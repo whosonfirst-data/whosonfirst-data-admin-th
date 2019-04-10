@@ -1,0 +1,73 @@
+{
+  "id": 1226141053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.24161,18.53414,99.24161,18.53414",
+    "geom:latitude":18.53414,
+    "geom:longitude":99.24161,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ban Tha Song Tha",
+    "gn:country_code":"TH",
+    "gn:dem":452,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1117718,
+    "gn:latitude":18.53414,
+    "gn:longitude":99.24161,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Ban Tha Song Tha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e17\u0e32\u0e2a\u0e2d\u0e07\u0e17\u0e48\u0e32"
+    ],
+    "name:und_x_variant":[
+        "Ban Song Tha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678629,
+        890466103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1117718
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"5dbb3bf5d3691bf5d4823483ad22c4e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466103,
+            "locality_id":1226141053,
+            "region_id":85678629
+        }
+    ],
+    "wof:id":1226141053,
+    "wof:lastmodified":1537702924,
+    "wof:name":"Ban Tha Song Tha",
+    "wof:parent_id":890466103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.24161,
+    18.53414,
+    99.24161,
+    18.53414
+],
+  "geometry": {"coordinates":[99.24160999999999,18.53414],"type":"Point"}
+}

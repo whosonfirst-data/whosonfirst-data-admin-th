@@ -1,0 +1,73 @@
+{
+  "id": 1327110299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.84111,16.82528,101.84111,16.82528",
+    "geom:latitude":16.82528,
+    "geom:longitude":101.84111,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Than Tawan",
+    "gn:country_code":"TH",
+    "gn:dem":257,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8039502,
+    "gn:latitude":16.82528,
+    "gn:longitude":101.84111,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Than Tawan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "Ban Than Tawan"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e17\u0e32\u0e19\u0e15\u0e30\u0e27\u0e31\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678853,
+        890466061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8039502
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"c74dd7ce1f948e2e186b608df8645036",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466061,
+            "locality_id":1327110299,
+            "region_id":85678853
+        }
+    ],
+    "wof:id":1327110299,
+    "wof:lastmodified":1537704949,
+    "wof:name":"Ban Than Tawan",
+    "wof:parent_id":890466061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.84111,
+    16.82528,
+    101.84111,
+    16.82528
+],
+  "geometry": {"coordinates":[101.84111,16.82528],"type":"Point"}
+}

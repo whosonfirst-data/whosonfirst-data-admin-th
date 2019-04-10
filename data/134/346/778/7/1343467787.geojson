@@ -1,0 +1,67 @@
+{
+  "id": 1343467787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.0425,18.80528,98.0425,18.80528",
+    "geom:latitude":18.80528,
+    "geom:longitude":98.0425,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ban Kiu",
+    "gn:country_code":"TH",
+    "gn:dem":956,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1330995,
+    "gn:latitude":18.80528,
+    "gn:longitude":98.0425,
+    "gn:modification_date":"1999-10-13",
+    "gn:name":"Ban Kiu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678555,
+        890466207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1330995
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"0442114fdf2b41b7a20ac9cd1a04d8d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466207,
+            "locality_id":1343467787,
+            "region_id":85678555
+        }
+    ],
+    "wof:id":1343467787,
+    "wof:lastmodified":1536735552,
+    "wof:name":"Ban Kiu",
+    "wof:parent_id":890466207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.0425,
+    18.80528,
+    98.0425,
+    18.80528
+],
+  "geometry": {"coordinates":[98.0425,18.80528],"type":"Point"}
+}

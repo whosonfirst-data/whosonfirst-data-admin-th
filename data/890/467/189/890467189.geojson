@@ -1,0 +1,75 @@
+{
+  "id": 890467189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.07914,15.85053,100.07914,15.85053",
+    "geom:latitude":15.85053,
+    "geom:longitude":100.07914,
+    "gn:country":"TH",
+    "gn:fcode":"PPLA2",
+    "gn:pop":0,
+    "gp:adm0":23424960,
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e40\u0e01\u0e49\u0e32\u0e40\u0e25\u0e35\u0e49\u0e22\u0e27"
+    ],
+    "name:unk_x_variant":[
+        "Kao Liao"
+    ],
+    "qs:name":"Kao Lieo",
+    "qs:name_adm0":"Thailand",
+    "qs:name_adm1":"Nakhon Sawan",
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":4,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1610211,
+        "gp:id":1225375,
+        "qs:id":317631
+    },
+    "wof:country":"TH",
+    "wof:created":1469053619,
+    "wof:geomhash":"d0fac7b92b2f501f05ba648a54b854af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "locality_id":890467189,
+            "region_id":85678715
+        }
+    ],
+    "wof:id":890467189,
+    "wof:lastmodified":1505343709,
+    "wof:name":"Kao Lieo",
+    "wof:parent_id":85678715,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.07914,
+    15.85053,
+    100.07914,
+    15.85053
+],
+  "geometry": {"coordinates":[100.07914,15.85053],"type":"Point"}
+}

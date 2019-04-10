@@ -1,0 +1,70 @@
+{
+  "id": 1309870185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.73342,17.67589,103.73342,17.67589",
+    "geom:latitude":17.67589,
+    "geom:longitude":103.73342,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Huai Thong",
+    "gn:country_code":"TH",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7677355,
+    "gn:latitude":17.67589,
+    "gn:longitude":103.73342,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Huai Thong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e49\u0e27\u0e22\u0e42\u0e17\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678863,
+        890466295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7677355
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"cf83edb93ed43138d68d12f9f35faa20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466295,
+            "locality_id":1309870185,
+            "region_id":85678863
+        }
+    ],
+    "wof:id":1309870185,
+    "wof:lastmodified":1537704602,
+    "wof:name":"Ban Huai Thong",
+    "wof:parent_id":890466295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.73342,
+    17.67589,
+    103.73342,
+    17.67589
+],
+  "geometry": {"coordinates":[103.73342,17.67589],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 102025831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00006,
+    "geom:area_square_m":725630.341488,
+    "geom:bbox":"100.623779297,13.8167440468,100.632019043,13.8287457254",
+    "geom:latitude":13.822341,
+    "geom:longitude":100.627545,
+    "gn:latitude":13.78528,
+    "gn:longitude":100.66958,
+    "iso:country":"TH",
+    "lbl:latitude":13.822118,
+    "lbl:longitude":100.626643,
+    "mps:latitude":13.822118,
+    "mps:longitude":100.626643,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e36\u0e07\u0e01\u0e38\u0e48\u0e21"
+    ],
+    "qs:a0":"Thailand",
+    "qs:a1":"*Bangkok",
+    "qs:a1r":"*",
+    "qs:a2":"Bueng Kum",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Bueng Kum",
+    "qs:loc_alt":"Bueng Kum",
+    "qs:loc_lc":"7026776",
+    "qs:pop":0,
+    "qs:source":"Aquattroshapes",
+    "qs:type":"County",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678739,
+        1108802645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7026776,
+        "gp:id":28341405,
+        "qs:id":896638
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"923e9b22095d743e0c09c392bb3cada1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802645,
+            "locality_id":102025831,
+            "region_id":85678739
+        }
+    ],
+    "wof:id":102025831,
+    "wof:lastmodified":1501273137,
+    "wof:name":"Bueng Kum",
+    "wof:parent_id":1108802645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.623779297,
+    13.8167440468,
+    100.632019043,
+    13.8287457254
+],
+  "geometry": {"coordinates":[[[100.62515258800001,13.8167440468],[100.62515258800001,13.8180775972],[100.623779297,13.8180775972],[100.623779297,13.81941114],[100.623779297,13.8220782026],[100.623779297,13.8247452346],[100.626525879,13.8247452346],[100.626525879,13.8260787392],[100.62789917000001,13.8260787392],[100.62789917000001,13.8274122361],[100.629272461,13.8274122361],[100.629272461,13.8287457254],[100.63064575199999,13.8287457254],[100.63064575199999,13.8274122361],[100.632019043,13.8274122361],[100.632019043,13.8260787392],[100.632019043,13.8247452346],[100.63064575199999,13.8247452346],[100.63064575199999,13.8234117224],[100.63064575199999,13.8220782026],[100.629272461,13.8220782026],[100.629272461,13.8207446751],[100.629272461,13.81941114],[100.629272461,13.8167440468],[100.626525879,13.8167440468],[100.62515258800001,13.8167440468]]],"type":"Polygon"}
+}

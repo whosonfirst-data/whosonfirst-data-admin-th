@@ -1,0 +1,70 @@
+{
+  "id": 1293322003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.8205,6.52339,100.8205,6.52339",
+    "geom:latitude":6.52339,
+    "geom:longitude":100.8205,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Ban Tham Talot",
+    "gn:country_code":"TH",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7095791,
+    "gn:latitude":6.52339,
+    "gn:longitude":100.8205,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Tham Talot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e16\u0e49\u0e33\u0e15\u0e25\u0e2d\u0e14"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678603,
+        1108731821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7095791
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"3ae8ff8a39bf50db226bcee14d81e9fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731821,
+            "locality_id":1293322003,
+            "region_id":85678603
+        }
+    ],
+    "wof:id":1293322003,
+    "wof:lastmodified":1537704420,
+    "wof:name":"Ban Tham Talot",
+    "wof:parent_id":1108731821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.8205,
+    6.52339,
+    100.8205,
+    6.52339
+],
+  "geometry": {"coordinates":[100.8205,6.52339],"type":"Point"}
+}

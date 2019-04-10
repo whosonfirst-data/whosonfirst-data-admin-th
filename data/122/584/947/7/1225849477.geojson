@@ -1,0 +1,70 @@
+{
+  "id": 1225849477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.06275,17.70375,99.06275,17.70375",
+    "geom:latitude":17.70375,
+    "geom:longitude":99.06275,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ban Huai Yasai",
+    "gn:country_code":"TH",
+    "gn:dem":596,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1119781,
+    "gn:latitude":17.70375,
+    "gn:longitude":99.06275,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Ban Huai Yasai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e49\u0e27\u0e22\u0e2b\u0e0d\u0e49\u0e32\u0e44\u0e0b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678629,
+        1108802647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1119781
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"47e5ab3e3478a2864da5bfb9ce3da378",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802647,
+            "locality_id":1225849477,
+            "region_id":85678629
+        }
+    ],
+    "wof:id":1225849477,
+    "wof:lastmodified":1537702989,
+    "wof:name":"Ban Huai Yasai",
+    "wof:parent_id":1108802647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.06275,
+    17.70375,
+    99.06275,
+    17.70375
+],
+  "geometry": {"coordinates":[99.06274999999999,17.70375],"type":"Point"}
+}

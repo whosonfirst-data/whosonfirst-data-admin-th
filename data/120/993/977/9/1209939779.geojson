@@ -1,0 +1,70 @@
+{
+  "id": 1209939779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.44333,13.12192,101.44333,13.12192",
+    "geom:latitude":13.12192,
+    "geom:longitude":101.44333,
+    "gn:admin1_code":"46.0",
+    "gn:asciiname":"Ban Noen Din Daeng",
+    "gn:country_code":"TH",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7851022,
+    "gn:latitude":13.12192,
+    "gn:longitude":101.44333,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Noen Din Daeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e19\u0e34\u0e19\u0e14\u0e34\u0e19\u0e41\u0e14\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678795,
+        1108802711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7851022
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"e916c05ced0009cf340f089e78dbf5f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802711,
+            "locality_id":1209939779,
+            "region_id":85678795
+        }
+    ],
+    "wof:id":1209939779,
+    "wof:lastmodified":1537704714,
+    "wof:name":"Ban Noen Din Daeng",
+    "wof:parent_id":1108802711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.44333,
+    13.12192,
+    101.44333,
+    13.12192
+],
+  "geometry": {"coordinates":[101.44333,13.12192],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1327448285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.07256,17.83025,103.07256,17.83025",
+    "geom:latitude":17.83025,
+    "geom:longitude":103.07256,
+    "gn:admin1_code":"76.0",
+    "gn:asciiname":"Ban Dong Phak Thiam",
+    "gn:country_code":"TH",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7681462,
+    "gn:latitude":17.83025,
+    "gn:longitude":103.07256,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Dong Phak Thiam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e14\u0e07\u0e1c\u0e31\u0e01\u0e40\u0e17\u0e35\u0e22\u0e21"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678869,
+        1108802739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7681462
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"a5116f0fbb80b22c53d44af3074c449c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802739,
+            "locality_id":1327448285,
+            "region_id":85678869
+        }
+    ],
+    "wof:id":1327448285,
+    "wof:lastmodified":1537704621,
+    "wof:name":"Ban Dong Phak Thiam",
+    "wof:parent_id":1108802739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.07256,
+    17.83025,
+    103.07256,
+    17.83025
+],
+  "geometry": {"coordinates":[103.07256,17.83025],"type":"Point"}
+}

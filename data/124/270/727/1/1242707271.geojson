@@ -1,0 +1,70 @@
+{
+  "id": 1242707271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.27142,15.07706,105.27142,15.07706",
+    "geom:latitude":15.07706,
+    "geom:longitude":105.27142,
+    "gn:admin1_code":"75.0",
+    "gn:asciiname":"Ban Sila Rak",
+    "gn:country_code":"TH",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8319674,
+    "gn:latitude":15.07706,
+    "gn:longitude":105.27142,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Ban Sila Rak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e28\u0e34\u0e25\u0e32\u0e23\u0e31\u0e01\u0e29\u0e4c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678783,
+        890466347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8319674
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"51aea305df47495d6bcc5bee4f4af204",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466347,
+            "locality_id":1242707271,
+            "region_id":85678783
+        }
+    ],
+    "wof:id":1242707271,
+    "wof:lastmodified":1537705350,
+    "wof:name":"Ban Sila Rak",
+    "wof:parent_id":890466347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.27142,
+    15.07706,
+    105.27142,
+    15.07706
+],
+  "geometry": {"coordinates":[105.27142000000001,15.07706],"type":"Point"}
+}

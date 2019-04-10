@@ -1,0 +1,70 @@
+{
+  "id": 1276683685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.61197,14.04533,101.61197,14.04533",
+    "geom:latitude":14.04533,
+    "geom:longitude":101.61197,
+    "gn:admin1_code":"74",
+    "gn:asciiname":"Ban Tha Krathin",
+    "gn:country_code":"TH",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8749504,
+    "gn:latitude":14.04533,
+    "gn:longitude":101.61197,
+    "gn:modification_date":"2014-04-08",
+    "gn:name":"Ban Tha Krathin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e17\u0e48\u0e32\u0e01\u0e23\u0e30\u0e16\u0e34\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678711,
+        1108731305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8749504
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"31b941abd2e4c135ca1552e260f03ff2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731305,
+            "locality_id":1276683685,
+            "region_id":85678711
+        }
+    ],
+    "wof:id":1276683685,
+    "wof:lastmodified":1537706035,
+    "wof:name":"Ban Tha Krathin",
+    "wof:parent_id":1108731305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.61197,
+    14.04533,
+    101.61197,
+    14.04533
+],
+  "geometry": {"coordinates":[101.61197,14.04533],"type":"Point"}
+}

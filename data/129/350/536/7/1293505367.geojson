@@ -1,0 +1,67 @@
+{
+  "id": 1293505367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.13333,19.61667,98.13333,19.61667",
+    "geom:latitude":19.61667,
+    "geom:longitude":98.13333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Ban Mai Son",
+    "gn:country_code":"TH",
+    "gn:dem":881,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1118969,
+    "gn:latitude":19.61667,
+    "gn:longitude":98.13333,
+    "gn:modification_date":"1994-04-10",
+    "gn:name":"Ban Mai Son",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678555,
+        890465713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1118969
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"c7707bf9c129ed216c38710b928585a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465713,
+            "locality_id":1293505367,
+            "region_id":85678555
+        }
+    ],
+    "wof:id":1293505367,
+    "wof:lastmodified":1536761514,
+    "wof:name":"Ban Mai Son",
+    "wof:parent_id":890465713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.13333,
+    19.61667000000001,
+    98.13333,
+    19.61667000000001
+],
+  "geometry": {"coordinates":[98.13333,19.61667000000001],"type":"Point"}
+}

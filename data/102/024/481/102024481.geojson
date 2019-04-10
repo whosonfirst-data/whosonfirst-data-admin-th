@@ -1,0 +1,118 @@
+{
+  "id": 102024481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000262,
+    "geom:area_square_m":3135217.156345,
+    "geom:bbox":"99.6532026172,14.3245407023,99.671748536,14.3426229787",
+    "geom:latitude":14.333582,
+    "geom:longitude":99.662476,
+    "iso:country":"TH",
+    "lbl:latitude":14.333582,
+    "lbl:longitude":99.662476,
+    "mps:latitude":14.333582,
+    "mps:longitude":99.662476,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bpy_x_preferred":[
+        "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09b9\u09c1\u09af\u09bc\u09be\u0987 \u0995\u09cd\u09b0\u09be\u099a\u09be\u0993"
+    ],
+    "name:deu_x_preferred":[
+        "Amphoe Huai Krachao"
+    ],
+    "name:eng_x_preferred":[
+        "Ban Huai Krachao"
+    ],
+    "name:eng_x_variant":[
+        "Ban Huai Kachao",
+        "Ban Hui Ka Chao",
+        "Huai Kachao",
+        "Huai Krachao",
+        "Huai Terachao"
+    ],
+    "name:fra_x_preferred":[
+        "Amphoe Huai Krachao"
+    ],
+    "name:ron_x_preferred":[
+        "Districtul Huai Krachao"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e2b\u0e49\u0e27\u0e22\u0e01\u0e23\u0e30\u0e40\u0e08\u0e32"
+    ],
+    "name:tha_x_variant":[
+        "\u0e2b\u0e49\u0e27\u0e22\u0e01\u0e23\u0e30\u0e40\u0e08\u0e32"
+    ],
+    "name:unk_x_variant":[
+        "Huai Kachao"
+    ],
+    "name:vie_x_preferred":[
+        "Huai Krachao"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Huai Krachao K\u016bn"
+    ],
+    "qs:a0":"Thailand",
+    "qs:a1":"*Kanchanaburi",
+    "qs:a1r":"*",
+    "qs:a2":"Huai Krachao",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Huai Krachao",
+    "qs:loc_alt":"Ban Huai Krachao",
+    "qs:loc_lc":"1157482",
+    "qs:pop":0,
+    "qs:source":"Aquattroshapes",
+    "qs:type":"Town",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":164,
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678663,
+        890465747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"07cee9d4-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":1157482,
+        "gp:id":28341444,
+        "qs:id":1013461,
+        "wd:id":"Q475538"
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"4648daa5fd74f5945fa01fde413ae8ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465747,
+            "locality_id":102024481,
+            "region_id":85678663
+        }
+    ],
+    "wof:id":102024481,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527636445,
+    "wof:name":"Huai Krachao",
+    "wof:parent_id":890465747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.65320261723703,
+    14.32454070233705,
+    99.67174853604338,
+    14.34262297873948
+],
+  "geometry": {"coordinates":[[[99.66425855338396,14.32470937261701],[99.66244905045299,14.32454070233705],[99.66064056621072,14.32471946441454],[99.65890259168971,14.32523879026114],[99.65730190965097,14.32607872497697],[99.65590002916763,14.32720699382624],[99.65475082251079,14.32858024200728],[99.65389845505381,14.33014570015528],[99.65337568771692,14.33184321166175],[99.65320261723703,14.3336075439923],[99.65338590278323,14.33537089524921],[99.65391850880722,14.33706549969754],[99.65477997419363,14.338626232137],[99.65593719755903,14.33999311100621],[99.65734570867086,14.34111360397226],[99.65895137722789,14.34194464731938],[99.66069249336273,14.342454301443],[99.66250213986702,14.34262297873948],[99.66431076486329,14.34244419663409],[99.6660488558902,14.34192482676431],[99.66764961244986,14.34108483073203],[99.66905151412426,14.33995649260811],[99.67020068541562,14.33858317774042],[99.67105296633507,14.33701766564641],[99.67157560913672,14.33532012114732],[99.67174853604338,14.33355578180026],[99.6715651097431,14.33179245057131],[99.6710323872132,14.33009789014608],[99.67017084730578,14.32853721902308],[99.66901360274959,14.3271704094286],[99.66760512700326,14.3260499831491],[99.66599954498365,14.32521899374791],[99.66425855338396,14.32470937261701]]],"type":"Polygon"}
+}

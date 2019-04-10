@@ -1,0 +1,70 @@
+{
+  "id": 1326790193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.19803,15.1595,100.19803,15.1595",
+    "geom:latitude":15.1595,
+    "geom:longitude":100.19803,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Ban Suan Lamyai",
+    "gn:country_code":"TH",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8676896,
+    "gn:latitude":15.1595,
+    "gn:longitude":100.19803,
+    "gn:modification_date":"2014-01-18",
+    "gn:name":"Ban Suan Lamyai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2a\u0e27\u0e19\u0e25\u0e33\u0e43\u0e22"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678699,
+        1108731857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8676896
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"85d6e40eabf3f1a025981a94b50939d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731857,
+            "locality_id":1326790193,
+            "region_id":85678699
+        }
+    ],
+    "wof:id":1326790193,
+    "wof:lastmodified":1537705836,
+    "wof:name":"Ban Suan Lamyai",
+    "wof:parent_id":1108731857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.19803,
+    15.1595,
+    100.19803,
+    15.1595
+],
+  "geometry": {"coordinates":[100.19803,15.1595],"type":"Point"}
+}

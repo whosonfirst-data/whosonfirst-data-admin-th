@@ -1,0 +1,74 @@
+{
+  "id": 1293889297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.94839,18.91722,100.94839,18.91722",
+    "geom:latitude":18.91722,
+    "geom:longitude":100.94839,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Ban Phong",
+    "gn:country_code":"TH",
+    "gn:dem":285,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1614197,
+    "gn:latitude":18.91722,
+    "gn:longitude":100.94839,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Phong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1e\u0e07\u0e29\u0e4c"
+    ],
+    "name:und_x_variant":[
+        "Ban Muang Phong",
+        "Ban Phong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678633,
+        1108731855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1614197
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"fc1754d8888300fa80241d8a234a2ffd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731855,
+            "locality_id":1293889297,
+            "region_id":85678633
+        }
+    ],
+    "wof:id":1293889297,
+    "wof:lastmodified":1537703826,
+    "wof:name":"Ban Phong",
+    "wof:parent_id":1108731855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.94839,
+    18.91722,
+    100.94839,
+    18.91722
+],
+  "geometry": {"coordinates":[100.94839,18.91722],"type":"Point"}
+}

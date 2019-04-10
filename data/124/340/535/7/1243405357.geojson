@@ -1,0 +1,70 @@
+{
+  "id": 1243405357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.46347,15.05881,102.46347,15.05881",
+    "geom:latitude":15.05881,
+    "geom:longitude":102.46347,
+    "gn:admin1_code":"27",
+    "gn:asciiname":"Ban Nong Phruek",
+    "gn:country_code":"TH",
+    "gn:dem":211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9106862,
+    "gn:latitude":15.05881,
+    "gn:longitude":102.46347,
+    "gn:modification_date":"2014-06-07",
+    "gn:name":"Ban Nong Phruek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e19\u0e2d\u0e07\u0e1e\u0e24\u0e01\u0e29\u0e4c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678841,
+        1108731221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9106862
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"ed4d1f36fff9dfd07bbb74a2aafb0b9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731221,
+            "locality_id":1243405357,
+            "region_id":85678841
+        }
+    ],
+    "wof:id":1243405357,
+    "wof:lastmodified":1537706164,
+    "wof:name":"Ban Nong Phruek",
+    "wof:parent_id":1108731221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.46347,
+    15.05881,
+    102.46347,
+    15.05881
+],
+  "geometry": {"coordinates":[102.46347,15.05881],"type":"Point"}
+}

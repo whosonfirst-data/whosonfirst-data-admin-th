@@ -1,0 +1,73 @@
+{
+  "id": 1242671183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.20017,17.23094,100.20017,17.23094",
+    "geom:latitude":17.23094,
+    "geom:longitude":100.20017,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Ban Nuea",
+    "gn:country_code":"TH",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8135939,
+    "gn:latitude":17.23094,
+    "gn:longitude":100.20017,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Ban Nuea",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "Ban Nuea"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e2b\u0e19\u0e37\u0e2d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678657,
+        890465911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8135939
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"774d9a10cd5da42cf49a85e985c25559",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465911,
+            "locality_id":1242671183,
+            "region_id":85678657
+        }
+    ],
+    "wof:id":1242671183,
+    "wof:lastmodified":1537704981,
+    "wof:name":"Ban Nuea",
+    "wof:parent_id":890465911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.20017,
+    17.23094,
+    100.20017,
+    17.23094
+],
+  "geometry": {"coordinates":[100.20017,17.23094],"type":"Point"}
+}

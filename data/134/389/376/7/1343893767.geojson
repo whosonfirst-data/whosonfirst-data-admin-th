@@ -1,0 +1,67 @@
+{
+  "id": 1343893767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.98438,12.24054,99.98438,12.24054",
+    "geom:latitude":12.24054,
+    "geom:longitude":99.98438,
+    "gn:admin1_code":"57",
+    "gn:asciiname":"Moo 4",
+    "gn:country_code":"TH",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10792308,
+    "gn:latitude":12.24054,
+    "gn:longitude":99.98438,
+    "gn:modification_date":"2015-09-09",
+    "gn:name":"Moo 4",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678757,
+        890466945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10792308
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"e89c4ed96f53b30d132bee0c1ad635fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466945,
+            "locality_id":1343893767,
+            "region_id":85678757
+        }
+    ],
+    "wof:id":1343893767,
+    "wof:lastmodified":1536616189,
+    "wof:name":"Moo 4",
+    "wof:parent_id":890466945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.98438,
+    12.24054,
+    99.98438,
+    12.24054
+],
+  "geometry": {"coordinates":[99.98438,12.24054],"type":"Point"}
+}

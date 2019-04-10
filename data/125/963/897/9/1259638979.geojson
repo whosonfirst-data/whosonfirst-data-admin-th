@@ -1,0 +1,79 @@
+{
+  "id": 1259638979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.03184,15.79339,103.03184,15.79339",
+    "geom:latitude":15.79339,
+    "geom:longitude":103.03184,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"4407.0",
+    "gn:asciiname":"Na Chueak",
+    "gn:country_code":"TH",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1608568,
+    "gn:latitude":15.79339,
+    "gn:longitude":103.03184,
+    "gn:modification_date":"2017-03-22",
+    "gn:name":"Na Chueak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e19\u0e32\u0e40\u0e0a\u0e37\u0e2d\u0e01"
+    ],
+    "name:und_x_variant":[
+        "Ban Na Chuak",
+        "Na Chuak",
+        "Na Chueak",
+        "\u0e19\u0e32\u0e40\u0e0a\u0e37\u0e2d\u0e01",
+        "King Amphoe Na Chueak",
+        "Amphoe Na Chueak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678835,
+        1108731539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1608568
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"41bd2adf640d6c81b7736e9750ec52b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731539,
+            "locality_id":1259638979,
+            "region_id":85678835
+        }
+    ],
+    "wof:id":1259638979,
+    "wof:lastmodified":1537703628,
+    "wof:name":"Na Chueak",
+    "wof:parent_id":1108731539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.03184,
+    15.79339,
+    103.03184,
+    15.79339
+],
+  "geometry": {"coordinates":[103.03184,15.79339],"type":"Point"}
+}

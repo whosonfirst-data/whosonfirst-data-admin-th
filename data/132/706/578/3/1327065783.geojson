@@ -1,0 +1,70 @@
+{
+  "id": 1327065783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.44239,15.30944,105.44239,15.30944",
+    "geom:latitude":15.30944,
+    "geom:longitude":105.44239,
+    "gn:admin1_code":"75.0",
+    "gn:asciiname":"Ban Pak Huai Khaen",
+    "gn:country_code":"TH",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8316873,
+    "gn:latitude":15.30944,
+    "gn:longitude":105.44239,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Ban Pak Huai Khaen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1b\u0e32\u0e01\u0e2b\u0e49\u0e27\u0e22\u0e41\u0e04\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678783,
+        890467233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8316873
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"2783e7aee13ab88b659bb7e1f10bcae5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890467233,
+            "locality_id":1327065783,
+            "region_id":85678783
+        }
+    ],
+    "wof:id":1327065783,
+    "wof:lastmodified":1537705319,
+    "wof:name":"Ban Pak Huai Khaen",
+    "wof:parent_id":890467233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.44239,
+    15.30944,
+    105.44239,
+    15.30944
+],
+  "geometry": {"coordinates":[105.44239,15.30944],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1343388589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.67692,7.90322,99.67692,7.90322",
+    "geom:latitude":7.90322,
+    "geom:longitude":99.67692,
+    "gn:admin1_code":"65.0",
+    "gn:asciiname":"Ban Huai Phong",
+    "gn:country_code":"TH",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8229230,
+    "gn:latitude":7.90322,
+    "gn:longitude":99.67692,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Ban Huai Phong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e49\u0e27\u0e22\u0e1e\u0e07\u0e29\u0e4c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678609,
+        1108731803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8229230
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"5f284b1b31e4a6b6608c396b33f1914c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731803,
+            "locality_id":1343388589,
+            "region_id":85678609
+        }
+    ],
+    "wof:id":1343388589,
+    "wof:lastmodified":1537705165,
+    "wof:name":"Ban Huai Phong",
+    "wof:parent_id":1108731803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.67692,
+    7.90322,
+    99.67692,
+    7.90322
+],
+  "geometry": {"coordinates":[99.67692,7.90322],"type":"Point"}
+}

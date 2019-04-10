@@ -1,0 +1,70 @@
+{
+  "id": 1309729097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.79903,8.84569,98.79903,8.84569",
+    "geom:latitude":8.84569,
+    "geom:longitude":98.79903,
+    "gn:admin1_code":"60.0",
+    "gn:asciiname":"Ban Luk Duean",
+    "gn:country_code":"TH",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8326858,
+    "gn:latitude":8.84569,
+    "gn:longitude":98.79903,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Ban Luk Duean",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e25\u0e39\u0e01\u0e40\u0e14\u0e37\u0e2d\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678849,
+        890465923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8326858
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"53e0d1a96d8e5e892c94288241a6676a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465923,
+            "locality_id":1309729097,
+            "region_id":85678849
+        }
+    ],
+    "wof:id":1309729097,
+    "wof:lastmodified":1537705400,
+    "wof:name":"Ban Luk Duean",
+    "wof:parent_id":890465923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.79903,
+    8.84569,
+    98.79903,
+    8.84569
+],
+  "geometry": {"coordinates":[98.79903,8.84569],"type":"Point"}
+}

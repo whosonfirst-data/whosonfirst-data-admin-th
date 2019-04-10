@@ -1,0 +1,67 @@
+{
+  "id": 1343967751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.9,17.08333,98.9,17.08333",
+    "geom:latitude":17.08333,
+    "geom:longitude":98.9,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Ban Pa",
+    "gn:country_code":"TH",
+    "gn:dem":438,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1118404,
+    "gn:latitude":17.08333,
+    "gn:longitude":98.9,
+    "gn:modification_date":"1994-04-10",
+    "gn:name":"Ban Pa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678683,
+        1108731155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1118404
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"dbc08ee1f8fc5a6558b9b9da2774cbd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731155,
+            "locality_id":1343967751,
+            "region_id":85678683
+        }
+    ],
+    "wof:id":1343967751,
+    "wof:lastmodified":1537008658,
+    "wof:name":"Ban Pa",
+    "wof:parent_id":1108731155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.9,
+    17.08333,
+    98.9,
+    17.08333
+],
+  "geometry": {"coordinates":[98.90000000000001,17.08333],"type":"Point"}
+}

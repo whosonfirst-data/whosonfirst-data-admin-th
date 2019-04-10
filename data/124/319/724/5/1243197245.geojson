@@ -1,0 +1,67 @@
+{
+  "id": 1243197245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.73333,17.41611,102.73333,17.41611",
+    "geom:latitude":17.41611,
+    "geom:longitude":102.73333,
+    "gn:admin1_code":"76.0",
+    "gn:asciiname":"Ban Ngoi",
+    "gn:country_code":"TH",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1600740,
+    "gn:latitude":17.41611,
+    "gn:longitude":102.73333,
+    "gn:modification_date":"2009-06-01",
+    "gn:name":"Ban Ngoi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678869,
+        890466845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1600740
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"9766c64d5f3d69fdafae97d658f46040",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466845,
+            "locality_id":1243197245,
+            "region_id":85678869
+        }
+    ],
+    "wof:id":1243197245,
+    "wof:lastmodified":1536667900,
+    "wof:name":"Ban Ngoi",
+    "wof:parent_id":890466845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.73333,
+    17.41611,
+    102.73333,
+    17.41611
+],
+  "geometry": {"coordinates":[102.73333,17.41611],"type":"Point"}
+}

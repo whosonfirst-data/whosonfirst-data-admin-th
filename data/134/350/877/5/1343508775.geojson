@@ -1,0 +1,70 @@
+{
+  "id": 1343508775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.82436,16.05697,101.82436,16.05697",
+    "geom:latitude":16.05697,
+    "geom:longitude":101.82436,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Ban Nong Hai Tai",
+    "gn:country_code":"TH",
+    "gn:dem":247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8369594,
+    "gn:latitude":16.05697,
+    "gn:longitude":101.82436,
+    "gn:modification_date":"2012-08-06",
+    "gn:name":"Ban Nong Hai Tai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e19\u0e2d\u0e07\u0e44\u0e2e\u0e43\u0e15\u0e49"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678825,
+        890466301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8369594
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"7da9bbb7c801f9587f5da6173067943f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466301,
+            "locality_id":1343508775,
+            "region_id":85678825
+        }
+    ],
+    "wof:id":1343508775,
+    "wof:lastmodified":1537705498,
+    "wof:name":"Ban Nong Hai Tai",
+    "wof:parent_id":890466301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.82436,
+    16.05697,
+    101.82436,
+    16.05697
+],
+  "geometry": {"coordinates":[101.82436,16.05697],"type":"Point"}
+}

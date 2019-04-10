@@ -1,0 +1,75 @@
+{
+  "id": 1226570295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.18528,13.94022,101.18528,13.94022",
+    "geom:latitude":13.94022,
+    "geom:longitude":101.18528,
+    "gn:admin1_code":"74.0",
+    "gn:asciiname":"Ban Bang Yang",
+    "gn:country_code":"TH",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1620581,
+    "gn:latitude":13.94022,
+    "gn:longitude":101.18528,
+    "gn:modification_date":"2014-04-05",
+    "gn:name":"Ban Bang Yang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1a\u0e32\u0e07\u0e22\u0e32\u0e07"
+    ],
+    "name:und_x_variant":[
+        "Bang Yang",
+        "Ban Bang Yao",
+        "Ban Bang Yang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678711,
+        890466387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1620581
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"f477f1703cca75120c1d81db4e125e0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466387,
+            "locality_id":1226570295,
+            "region_id":85678711
+        }
+    ],
+    "wof:id":1226570295,
+    "wof:lastmodified":1537704240,
+    "wof:name":"Ban Bang Yang",
+    "wof:parent_id":890466387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.18528,
+    13.94022,
+    101.18528,
+    13.94022
+],
+  "geometry": {"coordinates":[101.18528000000001,13.94022],"type":"Point"}
+}

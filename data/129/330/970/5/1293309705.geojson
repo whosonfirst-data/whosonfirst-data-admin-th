@@ -1,0 +1,75 @@
+{
+  "id": 1293309705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.18406,6.66906,101.18406,6.66906",
+    "geom:latitude":6.66906,
+    "geom:longitude":101.18406,
+    "gn:admin1_code":"69.0",
+    "gn:asciiname":"Ban Pa Rai",
+    "gn:country_code":"TH",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1614503,
+    "gn:latitude":6.66906,
+    "gn:longitude":101.18406,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Pa Rai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1b\u0e48\u0e32\u0e44\u0e23\u0e48"
+    ],
+    "name:und_x_variant":[
+        "Pa Rai",
+        "Ban Pa Ri",
+        "Ban Pa Rai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678889,
+        1108731389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1614503
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"7cef1b1761f55c39cf43b48554221775",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731389,
+            "locality_id":1293309705,
+            "region_id":85678889
+        }
+    ],
+    "wof:id":1293309705,
+    "wof:lastmodified":1537703847,
+    "wof:name":"Ban Pa Rai",
+    "wof:parent_id":1108731389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.18406,
+    6.66906,
+    101.18406,
+    6.66906
+],
+  "geometry": {"coordinates":[101.18406,6.66906],"type":"Point"}
+}

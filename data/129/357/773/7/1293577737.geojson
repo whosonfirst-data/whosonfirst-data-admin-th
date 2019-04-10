@@ -1,0 +1,73 @@
+{
+  "id": 1293577737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.71374,17.73419,100.71374,17.73419",
+    "geom:latitude":17.73419,
+    "geom:longitude":100.71374,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Ban Na Kwang",
+    "gn:country_code":"TH",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1601165,
+    "gn:latitude":17.73419,
+    "gn:longitude":100.71374,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Na Kwang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "Ban Na Kwang"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e19\u0e32\u0e01\u0e27\u0e32\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678657,
+        890467459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1601165
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"b9cf06b8bb13e669e4dbfe2b99acf4c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890467459,
+            "locality_id":1293577737,
+            "region_id":85678657
+        }
+    ],
+    "wof:id":1293577737,
+    "wof:lastmodified":1537703501,
+    "wof:name":"Ban Na Kwang",
+    "wof:parent_id":890467459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.71374,
+    17.73418999999999,
+    100.71374,
+    17.73418999999999
+],
+  "geometry": {"coordinates":[100.71374,17.73418999999999],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1276202679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.52014,16.67572,100.52014,16.67572",
+    "geom:latitude":16.67572,
+    "geom:longitude":100.52014,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Ban Nong Plalai",
+    "gn:country_code":"TH",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8205990,
+    "gn:latitude":16.67572,
+    "gn:longitude":100.52014,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Ban Nong Plalai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e19\u0e2d\u0e07\u0e1b\u0e25\u0e32\u0e44\u0e2b\u0e25"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678647,
+        890465723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8205990
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"32e0b0816c8dd99c5fa549224cedc850",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465723,
+            "locality_id":1276202679,
+            "region_id":85678647
+        }
+    ],
+    "wof:id":1276202679,
+    "wof:lastmodified":1537705106,
+    "wof:name":"Ban Nong Plalai",
+    "wof:parent_id":890465723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.52014,
+    16.67572,
+    100.52014,
+    16.67572
+],
+  "geometry": {"coordinates":[100.52014,16.67572],"type":"Point"}
+}

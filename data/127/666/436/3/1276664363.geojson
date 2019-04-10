@@ -1,0 +1,70 @@
+{
+  "id": 1276664363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.09117,19.65447,100.09117,19.65447",
+    "geom:latitude":19.65447,
+    "geom:longitude":100.09117,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ban Plong Nam Lom",
+    "gn:country_code":"TH",
+    "gn:dem":378,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7382636,
+    "gn:latitude":19.65447,
+    "gn:longitude":100.09117,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Plong Nam Lom",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1b\u0e25\u0e49\u0e2d\u0e07\u0e19\u0e49\u0e33\u0e25\u0e49\u0e2d\u0e21"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678617,
+        890466587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7382636
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"f15ca3e270bd66fecbf73812df220447",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466587,
+            "locality_id":1276664363,
+            "region_id":85678617
+        }
+    ],
+    "wof:id":1276664363,
+    "wof:lastmodified":1537704459,
+    "wof:name":"Ban Plong Nam Lom",
+    "wof:parent_id":890466587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.09117,
+    19.65447,
+    100.09117,
+    19.65447
+],
+  "geometry": {"coordinates":[100.09117000000001,19.65447],"type":"Point"}
+}

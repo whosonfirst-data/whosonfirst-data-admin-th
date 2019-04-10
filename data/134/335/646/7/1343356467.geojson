@@ -1,0 +1,70 @@
+{
+  "id": 1343356467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.38881,18.25281,99.38881,18.25281",
+    "geom:latitude":18.25281,
+    "geom:longitude":99.38881,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Ban Nang Liao",
+    "gn:country_code":"TH",
+    "gn:dem":235,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8266923,
+    "gn:latitude":18.25281,
+    "gn:longitude":99.38881,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Ban Nang Liao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e19\u0e32\u0e07\u0e40\u0e2b\u0e25\u0e35\u0e22\u0e27"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678625,
+        890466105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8266923
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"d996a74e9cfcf5196e66f8188df43e4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466105,
+            "locality_id":1343356467,
+            "region_id":85678625
+        }
+    ],
+    "wof:id":1343356467,
+    "wof:lastmodified":1537705259,
+    "wof:name":"Ban Nang Liao",
+    "wof:parent_id":890466105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.38881,
+    18.25281,
+    99.38881,
+    18.25281
+],
+  "geometry": {"coordinates":[99.38881000000001,18.25281],"type":"Point"}
+}

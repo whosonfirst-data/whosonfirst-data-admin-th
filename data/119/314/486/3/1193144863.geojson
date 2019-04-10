@@ -1,0 +1,75 @@
+{
+  "id": 1193144863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.85789,18.50353,98.85789,18.50353",
+    "geom:latitude":18.50353,
+    "geom:longitude":98.85789,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Tha Tum",
+    "gn:country_code":"TH",
+    "gn:dem":287,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1154398,
+    "gn:latitude":18.50353,
+    "gn:longitude":98.85789,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Ban Tha Tum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e17\u0e48\u0e32\u0e15\u0e38\u0e49\u0e21"
+    ],
+    "name:und_x_variant":[
+        "Tatum",
+        "Ban Ta Tum",
+        "Ban Tha Tum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678619,
+        1108802597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1154398
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"d2c322c38b5738fa038a7fcdb7eab59d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802597,
+            "locality_id":1193144863,
+            "region_id":85678619
+        }
+    ],
+    "wof:id":1193144863,
+    "wof:lastmodified":1537703043,
+    "wof:name":"Ban Tha Tum",
+    "wof:parent_id":1108802597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.85789,
+    18.50353,
+    98.85789,
+    18.50353
+],
+  "geometry": {"coordinates":[98.85789,18.50353],"type":"Point"}
+}

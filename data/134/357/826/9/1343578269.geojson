@@ -1,0 +1,70 @@
+{
+  "id": 1343578269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.50856,6.57806,101.50856,6.57806",
+    "geom:latitude":6.57806,
+    "geom:longitude":101.50856,
+    "gn:admin1_code":"70.0",
+    "gn:asciiname":"Ban Ba Ngo Bu Lo",
+    "gn:country_code":"TH",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7882906,
+    "gn:latitude":6.57806,
+    "gn:longitude":101.50856,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Ba Ngo Bu Lo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1a\u0e32\u0e42\u0e07\u0e1a\u0e39\u0e42\u0e25\u0e4a\u0e30"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678611,
+        1108731791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7882906
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"8407e6b84e6c6b18ee7694cca4b65d99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731791,
+            "locality_id":1343578269,
+            "region_id":85678611
+        }
+    ],
+    "wof:id":1343578269,
+    "wof:lastmodified":1537704833,
+    "wof:name":"Ban Ba Ngo Bu Lo",
+    "wof:parent_id":1108731791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.50856,
+    6.57806,
+    101.50856,
+    6.57806
+],
+  "geometry": {"coordinates":[101.50856,6.57806],"type":"Point"}
+}

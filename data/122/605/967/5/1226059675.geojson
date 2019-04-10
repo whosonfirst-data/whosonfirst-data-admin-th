@@ -1,0 +1,70 @@
+{
+  "id": 1226059675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.15917,17.15583,103.15917,17.15583",
+    "geom:latitude":17.15583,
+    "geom:longitude":103.15917,
+    "gn:admin1_code":"76.0",
+    "gn:asciiname":"Ban Sam Pa Han",
+    "gn:country_code":"TH",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8535773,
+    "gn:latitude":17.15583,
+    "gn:longitude":103.15917,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Ban Sam Pa Han",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e0b\u0e33\u0e1b\u0e48\u0e32\u0e2b\u0e31\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678869,
+        1108731617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8535773
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"a5abcfd089f355f0b6b851a5fa5e4064",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731617,
+            "locality_id":1226059675,
+            "region_id":85678869
+        }
+    ],
+    "wof:id":1226059675,
+    "wof:lastmodified":1537705659,
+    "wof:name":"Ban Sam Pa Han",
+    "wof:parent_id":1108731617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.15917,
+    17.15583,
+    103.15917,
+    17.15583
+],
+  "geometry": {"coordinates":[103.15917,17.15583],"type":"Point"}
+}

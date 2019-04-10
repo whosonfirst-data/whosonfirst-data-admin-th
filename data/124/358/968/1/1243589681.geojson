@@ -1,0 +1,76 @@
+{
+  "id": 1243589681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.97456,6.57772,100.97456,6.57772",
+    "geom:latitude":6.57772,
+    "geom:longitude":100.97456,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Ban Ya Re",
+    "gn:country_code":"TH",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1611720,
+    "gn:latitude":6.57772,
+    "gn:longitude":100.97456,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Ya Re",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e22\u0e32\u0e40\u0e23\u0e4a\u0e30"
+    ],
+    "name:und_x_variant":[
+        "Ya Le",
+        "Ban Yaleh",
+        "Ban Ya Le",
+        "Ban Ya Re"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678603,
+        1108731821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1611720
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"b238eb7b96bc950412b3bce3a8e42c0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731821,
+            "locality_id":1243589681,
+            "region_id":85678603
+        }
+    ],
+    "wof:id":1243589681,
+    "wof:lastmodified":1537703654,
+    "wof:name":"Ban Ya Re",
+    "wof:parent_id":1108731821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.97456,
+    6.57772,
+    100.97456,
+    6.57772
+],
+  "geometry": {"coordinates":[100.97456,6.57772],"type":"Point"}
+}

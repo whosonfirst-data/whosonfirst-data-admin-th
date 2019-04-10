@@ -1,0 +1,74 @@
+{
+  "id": 1243092541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.23099,13.54461,100.23099,13.54461",
+    "geom:latitude":13.54461,
+    "geom:longitude":100.23099,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Ban Bang Phai Tia",
+    "gn:country_code":"TH",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1620864,
+    "gn:latitude":13.54461,
+    "gn:longitude":100.23099,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Bang Phai Tia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1a\u0e32\u0e07\u0e44\u0e1c\u0e48\u0e40\u0e15\u0e35\u0e49\u0e22"
+    ],
+    "name:und_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1a\u0e32\u0e07\u0e44\u0e1c\u0e48\u0e40\u0e15\u0e35\u0e49\u0e22",
+        "Ban Bang Kai Tia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678771,
+        890467239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1620864
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"ff6100f3bc31cc63519443346c412aad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890467239,
+            "locality_id":1243092541,
+            "region_id":85678771
+        }
+    ],
+    "wof:id":1243092541,
+    "wof:lastmodified":1537704258,
+    "wof:name":"Ban Bang Phai Tia",
+    "wof:parent_id":890467239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.23099,
+    13.54461,
+    100.23099,
+    13.54461
+],
+  "geometry": {"coordinates":[100.23099000000001,13.54461],"type":"Point"}
+}

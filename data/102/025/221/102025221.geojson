@@ -1,0 +1,110 @@
+{
+  "id": 102025221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000263,
+    "geom:area_square_m":3134708.504719,
+    "geom:bbox":"104.234455272,15.4075747831,104.253093578,15.4256549875",
+    "geom:latitude":15.416615,
+    "geom:longitude":104.243774,
+    "gn:latitude":15.52935,
+    "gn:longitude":104.23847,
+    "iso:country":"TH",
+    "lbl:latitude":15.416615,
+    "lbl:longitude":104.243774,
+    "mps:latitude":15.416615,
+    "mps:longitude":104.243774,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bpy_x_preferred":[
+        "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ae\u09be\u09b9\u09be \u099a\u09be\u09a8\u09be \u099a\u09bf"
+    ],
+    "name:deu_x_preferred":[
+        "Amphoe Maha Chana Chai"
+    ],
+    "name:eng_x_preferred":[
+        "Maha Chana Chai"
+    ],
+    "name:ron_x_preferred":[
+        "Districtul Maha Chana Chai"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e21\u0e2b\u0e32\u0e0a\u0e19\u0e30\u0e0a\u0e31\u0e22"
+    ],
+    "name:tha_x_variant":[
+        "\u0e21\u0e2b\u0e32\u0e0a\u0e19\u0e30\u0e0a\u0e31\u0e22"
+    ],
+    "name:unk_x_variant":[
+        "Amphoe Maha Chana Chai"
+    ],
+    "name:vie_x_preferred":[
+        "Maha Chana Chai"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Maha Chana Chai K\u016bn"
+    ],
+    "qs:a0":"Thailand",
+    "qs:a1":"*Yasothon",
+    "qs:a1r":"*",
+    "qs:a2":"Maha Chana Chai",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Maha Chana Chai",
+    "qs:loc_alt":"Maha Chana Chai",
+    "qs:loc_lc":"1608909",
+    "qs:pop":0,
+    "qs:source":"Aquattroshapes",
+    "qs:type":"County",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":318,
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678791,
+        890465717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"07cf86d2-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":1608909,
+        "gp:id":28341207,
+        "qs:id":206759,
+        "wd:id":"Q475982"
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"a1493017dd65bd0171668b30dd66a435",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465717,
+            "locality_id":102025221,
+            "region_id":85678791
+        }
+    ],
+    "wof:id":102025221,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527636682,
+    "wof:name":"Maha Chana Chai",
+    "wof:parent_id":890465717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.2344552719462,
+    15.40757478307913,
+    104.25309357759154,
+    15.42565498750866
+],
+  "geometry": {"coordinates":[[[104.24562447493271,15.40775466346305],[104.24380710295721,15.40757478307913],[104.241988475989,15.40774229417018],[104.24023847398301,15.40825075978317],[104.23862434083667,15.40908064187074],[104.23720810141511,15.41020005182304],[104.23604417878759,15.41156597542908],[104.23517730311714,15.41312592526728],[104.23464079251418,15.4148199571202],[104.2344552719462,15.41658297302165],[104.23462787954243,15.41834722251916],[104.2351519909581,15.42004490609307],[104.23600747259503,15.42161078071405],[104.23716145414836,15.4229846674007],[104.23856959097533,15.4241137643655],[104.24017776789468,15.42495467678165],[104.24192417899674,15.42547508507189],[104.24374170350559,15.42565498750866],[104.24556048628632,15.42548746928581],[104.24731062366233,15.42497896844189],[104.2489248511278,15.42414902838806],[104.25034112945822,15.42302954655887],[104.25150502966103,15.42166354810797],[104.25237182498667,15.42010353185135],[104.25290820955694,15.41840945211815],[104.25309357759154,15.41664641416385],[104.2529208141831,15.41488217179824],[104.2523965673971,15.41318452345527],[104.25154099144108,15.41161870680052],[104.25038697097877,15.4102448919907],[104.2489788565767,15.40911586987073],[104.24737076000214,15.40827502387293],[104.24562447493271,15.40775466346305]]],"type":"Polygon"}
+}

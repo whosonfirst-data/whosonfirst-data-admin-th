@@ -1,0 +1,70 @@
+{
+  "id": 1276315079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.39544,15.18983,100.39544,15.18983",
+    "geom:latitude":15.18983,
+    "geom:longitude":100.39544,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ban Rang Makhaeng",
+    "gn:country_code":"TH",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8344366,
+    "gn:latitude":15.18983,
+    "gn:longitude":100.39544,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Ban Rang Makhaeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e23\u0e32\u0e07\u0e21\u0e30\u0e41\u0e04\u0e48\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678715,
+        890465891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8344366
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"9082309b76c39115e8964332e846f5fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465891,
+            "locality_id":1276315079,
+            "region_id":85678715
+        }
+    ],
+    "wof:id":1276315079,
+    "wof:lastmodified":1537705464,
+    "wof:name":"Ban Rang Makhaeng",
+    "wof:parent_id":890465891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.39544,
+    15.18983,
+    100.39544,
+    15.18983
+],
+  "geometry": {"coordinates":[100.39543999999999,15.18983],"type":"Point"}
+}

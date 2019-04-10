@@ -1,0 +1,64 @@
+{
+  "id": 1209130907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.36929,19.27629,100.36929,19.27629",
+    "geom:latitude":19.27629,
+    "geom:longitude":100.36929,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Ban Na Do",
+    "gn:country_code":"TH",
+    "gn:dem":353,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8332882,
+    "gn:latitude":19.27629,
+    "gn:longitude":100.36929,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Ban Na Do",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e19\u0e32\u0e14\u0e2d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8332882
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"d1cadaf02b4244f52d2b0e306483c205",
+    "wof:hierarchy":[
+        {
+            "country_id":85632293,
+            "locality_id":1209130907
+        }
+    ],
+    "wof:id":1209130907,
+    "wof:lastmodified":1537705410,
+    "wof:name":"Ban Na Do",
+    "wof:parent_id":85632293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.36929,
+    19.27629,
+    100.36929,
+    19.27629
+],
+  "geometry": {"coordinates":[100.36929000000001,19.27629],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 102024443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000003,
+    "geom:area_square_m":32917.17833,
+    "geom:bbox":"100.555114746,13.8514138738,100.556488037,13.853929099",
+    "geom:latitude":13.852444,
+    "geom:longitude":100.555734,
+    "iso:country":"TH",
+    "lbl:latitude":13.852433,
+    "lbl:longitude":100.555804,
+    "mps:latitude":13.852433,
+    "mps:longitude":100.555804,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e41\u0e1b\u0e30"
+    ],
+    "name:unk_x_variant":[
+        "B\u0101n Pea"
+    ],
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Ban Pae",
+    "qs:loc_lc":"1155498",
+    "qs:pop":0,
+    "qs:source":"Aquattroshapes",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":58,
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678617,
+        890465959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1155498
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"310fd7144f9e7909a5d0970df0723c4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465959,
+            "locality_id":102024443,
+            "region_id":85678617
+        }
+    ],
+    "wof:id":102024443,
+    "wof:lastmodified":1527636445,
+    "wof:name":"Ban Pae",
+    "wof:parent_id":890465959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.55511474600003,
+    13.85141387380001,
+    100.55648803725008,
+    13.85392909895243
+],
+  "geometry": {"coordinates":[[[100.55648803700005,13.85141387380001],[100.55511474600003,13.85141387380001],[100.55511474600003,13.8527472255],[100.55511474600003,13.85347471191758],[100.55526180269582,13.85392909895243],[100.55536022178417,13.85390882537592],[100.55648803725008,13.85274722455],[100.55648803700005,13.85141387380001]]],"type":"Polygon"}
+}

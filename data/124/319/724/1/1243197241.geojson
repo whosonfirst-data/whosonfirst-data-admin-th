@@ -1,0 +1,70 @@
+{
+  "id": 1243197241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.53239,8.30903,99.53239,8.30903",
+    "geom:latitude":8.30903,
+    "geom:longitude":99.53239,
+    "gn:admin1_code":"64.0",
+    "gn:asciiname":"Ban Chong Lom",
+    "gn:country_code":"TH",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1120190,
+    "gn:latitude":8.30903,
+    "gn:longitude":99.53239,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Ban Chong Lom",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e0a\u0e48\u0e2d\u0e07\u0e25\u0e21"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678565,
+        1108731535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1120190
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"c26662a4d03e56aa601a28bea5e4f8ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731535,
+            "locality_id":1243197241,
+            "region_id":85678565
+        }
+    ],
+    "wof:id":1243197241,
+    "wof:lastmodified":1537703001,
+    "wof:name":"Ban Chong Lom",
+    "wof:parent_id":1108731535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.53239,
+    8.30903,
+    99.53239,
+    8.30903
+],
+  "geometry": {"coordinates":[99.53239000000001,8.30903],"type":"Point"}
+}

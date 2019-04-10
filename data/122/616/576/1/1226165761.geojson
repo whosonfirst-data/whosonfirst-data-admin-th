@@ -1,0 +1,77 @@
+{
+  "id": 1226165761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.93503,19.01986,100.93503,19.01986",
+    "geom:latitude":19.01986,
+    "geom:longitude":100.93503,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Ban Thung Klang",
+    "gn:country_code":"TH",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1612253,
+    "gn:latitude":19.01986,
+    "gn:longitude":100.93503,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Ban Thung Klang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e17\u0e38\u0e48\u0e07\u0e01\u0e25\u0e32\u0e07"
+    ],
+    "name:und_x_variant":[
+        "\u014chn",
+        "Ban Muang On",
+        "Muang Aun",
+        "B\u0101n Muang Aun",
+        "Ban Thung Klang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678633,
+        890466167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1612253
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"de49c1426703ba4fbb31d19d9b05e104",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466167,
+            "locality_id":1226165761,
+            "region_id":85678633
+        }
+    ],
+    "wof:id":1226165761,
+    "wof:lastmodified":1537703691,
+    "wof:name":"Ban Thung Klang",
+    "wof:parent_id":890466167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.93503,
+    19.01986,
+    100.93503,
+    19.01986
+],
+  "geometry": {"coordinates":[100.93503,19.01986],"type":"Point"}
+}

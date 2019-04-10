@@ -1,0 +1,75 @@
+{
+  "id": 890466241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-11-10",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.49881,13.67632,100.49881,13.67632",
+    "geom:latitude":13.67632,
+    "geom:longitude":100.49881,
+    "gn:country":"TH",
+    "gn:fcode":"ADM2",
+    "gn:pop":0,
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:tha_x_preferred":[
+        "\u0e40\u0e02\u0e15\u0e23\u0e32\u0e29\u0e0e\u0e23\u0e4c\u0e1a\u0e39\u0e23\u0e13\u0e30"
+    ],
+    "name:tha_x_variant":[
+        "\u0e23\u0e32\u0e29\u0e0e\u0e23\u0e4c\u0e1a\u0e39\u0e23\u0e13\u0e30"
+    ],
+    "name:unk_x_variant":[
+        "Amphoe Rat Burana"
+    ],
+    "qs:name":"Khet Rat Burana",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":196,
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1607054,
+        "qs:id":370831,
+        "wd:id":"Q1019633",
+        "wk:page":"Rat Burana District"
+    },
+    "wof:country":"TH",
+    "wof:created":1469053571,
+    "wof:geomhash":"d334298a22937c87354ab13ea78742b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466241,
+            "region_id":85678739
+        }
+    ],
+    "wof:id":890466241,
+    "wof:lastmodified":1527793015,
+    "wof:name":"Khet Rat Burana",
+    "wof:parent_id":85678739,
+    "wof:placetype":"county",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.49881,
+    13.67632,
+    100.49881,
+    13.67632
+],
+  "geometry": {"coordinates":[100.49881000000001,13.67632],"type":"Point"}
+}

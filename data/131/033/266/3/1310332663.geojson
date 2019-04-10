@@ -1,0 +1,74 @@
+{
+  "id": 1310332663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.94647,8.019,98.94647,8.019",
+    "geom:latitude":8.019,
+    "geom:longitude":98.94647,
+    "gn:admin1_code":"63.0",
+    "gn:asciiname":"Ban Khlong Kam",
+    "gn:country_code":"TH",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1157093,
+    "gn:latitude":8.019,
+    "gn:longitude":98.94647,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Ban Khlong Kam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e04\u0e25\u0e2d\u0e07\u0e01\u0e33"
+    ],
+    "name:und_x_variant":[
+        "Ban Khlong Ka",
+        "Ban Klong Kam",
+        "Ban Khlong Lam",
+        "Ban Khlong Kam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632293,
+        890466649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1157093
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"6e875ce9444519cb245dda92c4a591f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632293,
+            "county_id":890466649,
+            "locality_id":1310332663,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310332663,
+    "wof:lastmodified":1537703238,
+    "wof:name":"Ban Khlong Kam",
+    "wof:parent_id":890466649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.94647,
+    8.019,
+    98.94647,
+    8.019
+],
+  "geometry": {"coordinates":[98.94647000000001,8.019],"type":"Point"}
+}

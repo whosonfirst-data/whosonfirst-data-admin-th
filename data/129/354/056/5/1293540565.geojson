@@ -1,0 +1,70 @@
+{
+  "id": 1293540565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.48033,15.08544,101.48033,15.08544",
+    "geom:latitude":15.08544,
+    "geom:longitude":101.48033,
+    "gn:admin1_code":"27",
+    "gn:asciiname":"Ban Huai Ket",
+    "gn:country_code":"TH",
+    "gn:dem":369,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9104076,
+    "gn:latitude":15.08544,
+    "gn:longitude":101.48033,
+    "gn:modification_date":"2014-06-07",
+    "gn:name":"Ban Huai Ket",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e49\u0e27\u0e22\u0e40\u0e01\u0e15\u0e38"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678841,
+        1108731913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9104076
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"c9b466ef34edf2d01793246cb516c6b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731913,
+            "locality_id":1293540565,
+            "region_id":85678841
+        }
+    ],
+    "wof:id":1293540565,
+    "wof:lastmodified":1537706128,
+    "wof:name":"Ban Huai Ket",
+    "wof:parent_id":1108731913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.48033,
+    15.08544,
+    101.48033,
+    15.08544
+],
+  "geometry": {"coordinates":[101.48033,15.08544],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 890467483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.54962,13.99904,100.54962,13.99904",
+    "geom:latitude":13.99904,
+    "geom:longitude":100.54962,
+    "gn:country":"TH",
+    "gn:fcode":"PPL",
+    "gn:pop":27911,
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Ban Bang Kadi Pathum Thani",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wd:wordcount":289,
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1620875,
+        "qs:id":85608,
+        "wd:id":"Q1935501",
+        "wk:page":"Mueang Pathum Thani District"
+    },
+    "wof:country":"TH",
+    "wof:created":1469053648,
+    "wof:geomhash":"9069bc2678e7ba1cf97c611af2615563",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "locality_id":890467483,
+            "region_id":85678725
+        }
+    ],
+    "wof:id":890467483,
+    "wof:lastmodified":1527792894,
+    "wof:name":"Ban Bang Kadi Pathum Thani",
+    "wof:parent_id":85678725,
+    "wof:placetype":"locality",
+    "wof:population":27911,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.54962,
+    13.99904,
+    100.54962,
+    13.99904
+],
+  "geometry": {"coordinates":[100.54962,13.99904],"type":"Point"}
+}

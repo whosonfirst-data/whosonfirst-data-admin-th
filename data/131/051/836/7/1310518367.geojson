@@ -1,0 +1,67 @@
+{
+  "id": 1310518367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.05,7.75,100.05,7.75",
+    "geom:latitude":7.75,
+    "geom:longitude":100.05,
+    "gn:admin1_code":"66.0",
+    "gn:asciiname":"Ban Sai Sathon",
+    "gn:country_code":"TH",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1598526,
+    "gn:latitude":7.75,
+    "gn:longitude":100.05,
+    "gn:modification_date":"1994-04-10",
+    "gn:name":"Ban Sai Sathon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678591,
+        1108731403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1598526
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"2a629f33d92e2d1568b3f10f9770fdfe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731403,
+            "locality_id":1310518367,
+            "region_id":85678591
+        }
+    ],
+    "wof:id":1310518367,
+    "wof:lastmodified":1536898258,
+    "wof:name":"Ban Sai Sathon",
+    "wof:parent_id":1108731403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.05,
+    7.75,
+    100.05,
+    7.75
+],
+  "geometry": {"coordinates":[100.05,7.75],"type":"Point"}
+}

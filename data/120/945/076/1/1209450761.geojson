@@ -1,0 +1,67 @@
+{
+  "id": 1209450761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.46689,12.2275,102.46689,12.2275",
+    "geom:latitude":12.2275,
+    "geom:longitude":102.46689,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"Ban Nong Nam Wan",
+    "gn:country_code":"TH",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1615901,
+    "gn:latitude":12.2275,
+    "gn:longitude":102.46689,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Nong Nam Wan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e19\u0e2d\u0e07\u0e19\u0e49\u0e33\u0e2b\u0e27\u0e32\u0e19"
+    ],
+    "name:und_x_variant":[
+        "Ban Nong Ai Wan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1615901
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"ee20d5ad6e34fd29a8b4bf5f87135c87",
+    "wof:hierarchy":[
+        {
+            "country_id":85632293,
+            "locality_id":1209450761
+        }
+    ],
+    "wof:id":1209450761,
+    "wof:lastmodified":1537703939,
+    "wof:name":"Ban Nong Nam Wan",
+    "wof:parent_id":85632293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.46689,
+    12.2275,
+    102.46689,
+    12.2275
+],
+  "geometry": {"coordinates":[102.46689000000001,12.2275],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1243197377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.75,6.53333,101.75,6.53333",
+    "geom:latitude":6.53333,
+    "geom:longitude":101.75,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Ban Thop",
+    "gn:cc2":"TH",
+    "gn:country_code":"TH",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1612296,
+    "gn:latitude":6.53333,
+    "gn:longitude":101.75,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Thop",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Thaup",
+        "Ban Thob",
+        "Ban Thop"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678885,
+        890465659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1612296
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"6b97f06b1e8a97937917a7dbbd4df57f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465659,
+            "locality_id":1243197377,
+            "region_id":85678885
+        }
+    ],
+    "wof:id":1243197377,
+    "wof:lastmodified":1537703694,
+    "wof:name":"Ban Thop",
+    "wof:parent_id":890465659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.75,
+    6.53333,
+    101.75,
+    6.53333
+],
+  "geometry": {"coordinates":[101.75,6.53333],"type":"Point"}
+}

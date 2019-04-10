@@ -1,0 +1,73 @@
+{
+  "id": 1293577739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.30243,17.69616,100.30243,17.69616",
+    "geom:latitude":17.69616,
+    "geom:longitude":100.30243,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Ban Daen Thong",
+    "gn:country_code":"TH",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8136304,
+    "gn:latitude":17.69616,
+    "gn:longitude":100.30243,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Ban Daen Thong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "Ban Daen Thong"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e41\u0e14\u0e19\u0e17\u0e2d\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678657,
+        890466775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8136304
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"cc594798fb82ce1516bce7d258fcadcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466775,
+            "locality_id":1293577739,
+            "region_id":85678657
+        }
+    ],
+    "wof:id":1293577739,
+    "wof:lastmodified":1537704987,
+    "wof:name":"Ban Daen Thong",
+    "wof:parent_id":890466775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.30243,
+    17.69616,
+    100.30243,
+    17.69616
+],
+  "geometry": {"coordinates":[100.30243,17.69616],"type":"Point"}
+}

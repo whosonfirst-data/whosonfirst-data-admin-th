@@ -1,0 +1,70 @@
+{
+  "id": 1327300993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.34428,15.82158,101.34428,15.82158",
+    "geom:latitude":15.82158,
+    "geom:longitude":101.34428,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Ban Prang Makha",
+    "gn:country_code":"TH",
+    "gn:dem":356,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8369173,
+    "gn:latitude":15.82158,
+    "gn:longitude":101.34428,
+    "gn:modification_date":"2012-08-06",
+    "gn:name":"Ban Prang Makha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1b\u0e23\u0e32\u0e07\u0e04\u0e4c\u0e21\u0e30\u0e04\u0e48\u0e32"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678825,
+        1108731697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8369173
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"fd76fdd33160b435b3fd0a5289f1c71f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731697,
+            "locality_id":1327300993,
+            "region_id":85678825
+        }
+    ],
+    "wof:id":1327300993,
+    "wof:lastmodified":1537705493,
+    "wof:name":"Ban Prang Makha",
+    "wof:parent_id":1108731697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.34428,
+    15.82158,
+    101.34428,
+    15.82158
+],
+  "geometry": {"coordinates":[101.34428,15.82158],"type":"Point"}
+}

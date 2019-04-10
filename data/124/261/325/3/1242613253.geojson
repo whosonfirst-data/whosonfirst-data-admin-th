@@ -1,0 +1,73 @@
+{
+  "id": 1242613253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.08333,6.16667,102.08333,6.16667",
+    "geom:latitude":6.16667,
+    "geom:longitude":102.08333,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Kampong Lado",
+    "gn:cc2":"TH",
+    "gn:country_code":"TH",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1610338,
+    "gn:latitude":6.16667,
+    "gn:longitude":102.08333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Kampong Lado",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kampong Lator",
+        "Kampong Lada",
+        "Kampong Lado"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678885,
+        890465893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1610338
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"2444e72e45e96fa8708991e513e4a813",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465893,
+            "locality_id":1242613253,
+            "region_id":85678885
+        }
+    ],
+    "wof:id":1242613253,
+    "wof:lastmodified":1537703639,
+    "wof:name":"Kampong Lado",
+    "wof:parent_id":890465893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.08333,
+    6.16667,
+    102.08333,
+    6.16667
+],
+  "geometry": {"coordinates":[102.08333,6.16667],"type":"Point"}
+}

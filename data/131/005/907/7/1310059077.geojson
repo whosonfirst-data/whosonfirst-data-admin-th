@@ -1,0 +1,70 @@
+{
+  "id": 1310059077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.28086,14.54328,100.28086,14.54328",
+    "geom:latitude":14.54328,
+    "geom:longitude":100.28086,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Ban Chong Nam Lai",
+    "gn:country_code":"TH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1620116,
+    "gn:latitude":14.54328,
+    "gn:longitude":100.28086,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Ban Chong Nam Lai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e0a\u0e48\u0e2d\u0e07\u0e19\u0e49\u0e33\u0e44\u0e2b\u0e25"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678691,
+        890465635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1620116
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"8773e5f8516dd63af2789b19fdefc9d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465635,
+            "locality_id":1310059077,
+            "region_id":85678691
+        }
+    ],
+    "wof:id":1310059077,
+    "wof:lastmodified":1537704207,
+    "wof:name":"Ban Chong Nam Lai",
+    "wof:parent_id":890465635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.28086,
+    14.54328,
+    100.28086,
+    14.54328
+],
+  "geometry": {"coordinates":[100.28086,14.54328],"type":"Point"}
+}

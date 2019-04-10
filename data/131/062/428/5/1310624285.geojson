@@ -1,0 +1,65 @@
+{
+  "id": 1310624285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.41667,8.55,98.41667,8.55",
+    "geom:latitude":8.55,
+    "geom:longitude":98.41667,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Ban Bang Ma Noi",
+    "gn:country_code":"TH",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1120362,
+    "gn:latitude":8.55,
+    "gn:longitude":98.41667,
+    "gn:modification_date":"1994-04-10",
+    "gn:name":"Ban Bang Ma Noi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632293,
+        890466041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1120362
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"62644c88253cad45a43d8ae70c0198c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632293,
+            "county_id":890466041,
+            "locality_id":1310624285,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310624285,
+    "wof:lastmodified":1536745345,
+    "wof:name":"Ban Bang Ma Noi",
+    "wof:parent_id":890466041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.41667,
+    8.55,
+    98.41667,
+    8.55
+],
+  "geometry": {"coordinates":[98.41667,8.55],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293675193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.41686,16.13961,100.41686,16.13961",
+    "geom:latitude":16.13961,
+    "geom:longitude":100.41686,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Ban Sathani Dong Takhop",
+    "gn:country_code":"TH",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8541746,
+    "gn:latitude":16.13961,
+    "gn:longitude":100.41686,
+    "gn:modification_date":"2013-06-06",
+    "gn:name":"Ban Sathani Dong Takhop",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2a\u0e16\u0e32\u0e19\u0e35\u0e14\u0e07\u0e15\u0e30\u0e02\u0e1a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678669,
+        890465835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8541746
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"a0433b34bd25d270273f19df511d49a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465835,
+            "locality_id":1293675193,
+            "region_id":85678669
+        }
+    ],
+    "wof:id":1293675193,
+    "wof:lastmodified":1537705709,
+    "wof:name":"Ban Sathani Dong Takhop",
+    "wof:parent_id":890465835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.41686,
+    16.13961,
+    100.41686,
+    16.13961
+],
+  "geometry": {"coordinates":[100.41686,16.13961],"type":"Point"}
+}

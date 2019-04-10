@@ -1,0 +1,70 @@
+{
+  "id": 1293908375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.53572,16.90872,102.53572,16.90872",
+    "geom:latitude":16.90872,
+    "geom:longitude":102.53572,
+    "gn:admin1_code":"79.0",
+    "gn:asciiname":"Ban Nikhom Phatthana",
+    "gn:country_code":"TH",
+    "gn:dem":215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8460861,
+    "gn:latitude":16.90872,
+    "gn:longitude":102.53572,
+    "gn:modification_date":"2013-02-10",
+    "gn:name":"Ban Nikhom Phatthana",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e19\u0e34\u0e04\u0e21\u0e1e\u0e31\u0e12\u0e19\u0e32"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678871,
+        890466637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8460861
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"a244ffb3330d3d611a2a9a2a8454b3bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466637,
+            "locality_id":1293908375,
+            "region_id":85678871
+        }
+    ],
+    "wof:id":1293908375,
+    "wof:lastmodified":1537705651,
+    "wof:name":"Ban Nikhom Phatthana",
+    "wof:parent_id":890466637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.53572,
+    16.90872,
+    102.53572,
+    16.90872
+],
+  "geometry": {"coordinates":[102.53572,16.90872],"type":"Point"}
+}

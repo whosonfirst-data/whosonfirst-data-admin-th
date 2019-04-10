@@ -1,0 +1,70 @@
+{
+  "id": 1343883147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.25145,19.53178,100.25145,19.53178",
+    "geom:latitude":19.53178,
+    "geom:longitude":100.25145,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Ban Noen Sai Klang",
+    "gn:country_code":"TH",
+    "gn:dem":407,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7382456,
+    "gn:latitude":19.53178,
+    "gn:longitude":100.25145,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Ban Noen Sai Klang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e19\u0e34\u0e19\u0e2a\u0e32\u0e22\u0e01\u0e25\u0e32\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678637,
+        890466535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7382456
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"60ab4411476dd30b28944755f0bd3741",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466535,
+            "locality_id":1343883147,
+            "region_id":85678637
+        }
+    ],
+    "wof:id":1343883147,
+    "wof:lastmodified":1537704458,
+    "wof:name":"Ban Noen Sai Klang",
+    "wof:parent_id":890466535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.25145,
+    19.53178,
+    100.25145,
+    19.53178
+],
+  "geometry": {"coordinates":[100.25145000000001,19.53178],"type":"Point"}
+}

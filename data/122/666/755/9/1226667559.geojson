@@ -1,0 +1,74 @@
+{
+  "id": 1226667559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.35253,18.08658,99.35253,18.08658",
+    "geom:latitude":18.08658,
+    "geom:longitude":99.35253,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Ban Mae Hai",
+    "gn:country_code":"TH",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1156564,
+    "gn:latitude":18.08658,
+    "gn:longitude":99.35253,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Ban Mae Hai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e41\u0e21\u0e48\u0e44\u0e2e"
+    ],
+    "name:und_x_variant":[
+        "B\u0101n Mea H\u0101i",
+        "Ban Mae Hai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678625,
+        890466105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1156564
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"f7003e83f435cbf2f602398fe4169fa8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466105,
+            "locality_id":1226667559,
+            "region_id":85678625
+        }
+    ],
+    "wof:id":1226667559,
+    "wof:lastmodified":1537703203,
+    "wof:name":"Ban Mae Hai",
+    "wof:parent_id":890466105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.35253,
+    18.08658,
+    99.35253,
+    18.08658
+],
+  "geometry": {"coordinates":[99.35253,18.08658],"type":"Point"}
+}

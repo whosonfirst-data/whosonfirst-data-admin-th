@@ -1,0 +1,75 @@
+{
+  "id": 1343362443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.96689,19.36375,97.96689,19.36375",
+    "geom:latitude":19.36375,
+    "geom:longitude":97.96689,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ban Pang Mu",
+    "gn:country_code":"TH",
+    "gn:dem":214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1155353,
+    "gn:latitude":19.36375,
+    "gn:longitude":97.96689,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Pang Mu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1b\u0e32\u0e07\u0e2b\u0e21\u0e39"
+    ],
+    "name:und_x_variant":[
+        "Panghmu",
+        "Pong Mu",
+        "Ban Pang Mu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678555,
+        890466979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1155353
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"a95cede4a97d812dd6a5ed5adeefd5b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466979,
+            "locality_id":1343362443,
+            "region_id":85678555
+        }
+    ],
+    "wof:id":1343362443,
+    "wof:lastmodified":1537703112,
+    "wof:name":"Ban Pang Mu",
+    "wof:parent_id":890466979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.96689,
+    19.36375,
+    97.96689,
+    19.36375
+],
+  "geometry": {"coordinates":[97.96689000000001,19.36375],"type":"Point"}
+}

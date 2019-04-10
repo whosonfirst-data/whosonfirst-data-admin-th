@@ -1,0 +1,70 @@
+{
+  "id": 1360240267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.28619,15.76331,103.28619,15.76331",
+    "geom:latitude":15.76331,
+    "geom:longitude":103.28619,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Ban Khok Khruea",
+    "gn:country_code":"TH",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8732305,
+    "gn:latitude":15.76331,
+    "gn:longitude":103.28619,
+    "gn:modification_date":"2014-03-12",
+    "gn:name":"Ban Khok Khruea",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e42\u0e04\u0e01\u0e40\u0e04\u0e23\u0e37\u0e2d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678835,
+        1108731545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8732305
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"7590ae8b2bb98b8305ac61ee5183ddb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731545,
+            "locality_id":1360240267,
+            "region_id":85678835
+        }
+    ],
+    "wof:id":1360240267,
+    "wof:lastmodified":1537705996,
+    "wof:name":"Ban Khok Khruea",
+    "wof:parent_id":1108731545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.28619,
+    15.76331,
+    103.28619,
+    15.76331
+],
+  "geometry": {"coordinates":[103.28619,15.76331],"type":"Point"}
+}

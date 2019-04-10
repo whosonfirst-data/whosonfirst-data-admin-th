@@ -1,0 +1,70 @@
+{
+  "id": 1360289993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.96778,18.53158,98.96778,18.53158",
+    "geom:latitude":18.53158,
+    "geom:longitude":98.96778,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ban Nong Tao",
+    "gn:country_code":"TH",
+    "gn:dem":291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8218290,
+    "gn:latitude":18.53158,
+    "gn:longitude":98.96778,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Ban Nong Tao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e19\u0e2d\u0e07\u0e40\u0e15\u0e48\u0e32"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678629,
+        890466981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8218290
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"f5f0746d6e44a5431f1f8ab1575f4068",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466981,
+            "locality_id":1360289993,
+            "region_id":85678629
+        }
+    ],
+    "wof:id":1360289993,
+    "wof:lastmodified":1537705138,
+    "wof:name":"Ban Nong Tao",
+    "wof:parent_id":890466981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.96778,
+    18.53158,
+    98.96778,
+    18.53158
+],
+  "geometry": {"coordinates":[98.96778,18.53158],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1243271793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.7255,17.92447,98.7255,17.92447",
+    "geom:latitude":17.92447,
+    "geom:longitude":98.7255,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Plaeng 2",
+    "gn:country_code":"TH",
+    "gn:dem":283,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7793242,
+    "gn:latitude":17.92447,
+    "gn:longitude":98.7255,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Plaeng 2",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e41\u0e1b\u0e25\u0e07 \u0e2a\u0e2d\u0e07"
+    ],
+    "name:und_x_variant":[
+        "Ban Plaeng Song"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678619,
+        890466749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7793242
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"54ed42359b0257b7ab31f9ab5926ae0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466749,
+            "locality_id":1243271793,
+            "region_id":85678619
+        }
+    ],
+    "wof:id":1243271793,
+    "wof:lastmodified":1537704703,
+    "wof:name":"Ban Plaeng 2",
+    "wof:parent_id":890466749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.7255,
+    17.92447,
+    98.7255,
+    17.92447
+],
+  "geometry": {"coordinates":[98.7255,17.92447],"type":"Point"}
+}

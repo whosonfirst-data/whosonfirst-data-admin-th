@@ -1,0 +1,67 @@
+{
+  "id": 1310200203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.26667,17.71667,100.26667,17.71667",
+    "geom:latitude":17.71667,
+    "geom:longitude":100.26667,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Ban Mae Soei",
+    "gn:country_code":"TH",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1601600,
+    "gn:latitude":17.71667,
+    "gn:longitude":100.26667,
+    "gn:modification_date":"1994-04-10",
+    "gn:name":"Ban Mae Soei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678657,
+        890466775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1601600
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"6da335d7b36ca41fb909ea19ab477a89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466775,
+            "locality_id":1310200203,
+            "region_id":85678657
+        }
+    ],
+    "wof:id":1310200203,
+    "wof:lastmodified":1536858631,
+    "wof:name":"Ban Mae Soei",
+    "wof:parent_id":890466775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.26667,
+    17.71667,
+    100.26667,
+    17.71667
+],
+  "geometry": {"coordinates":[100.26667,17.71667],"type":"Point"}
+}

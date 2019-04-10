@@ -1,0 +1,70 @@
+{
+  "id": 1310569777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.56686,16.57783,103.56686,16.57783",
+    "geom:latitude":16.57783,
+    "geom:longitude":103.56686,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Ban Na In Plaeng",
+    "gn:country_code":"TH",
+    "gn:dem":185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8653152,
+    "gn:latitude":16.57783,
+    "gn:longitude":103.56686,
+    "gn:modification_date":"2013-12-17",
+    "gn:name":"Ban Na In Plaeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e19\u0e32\u0e2d\u0e34\u0e19\u0e17\u0e23\u0e4c\u0e41\u0e1b\u0e25\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678831,
+        890466881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8653152
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"f19ad2616a7431078cb7c09f68ebe3e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466881,
+            "locality_id":1310569777,
+            "region_id":85678831
+        }
+    ],
+    "wof:id":1310569777,
+    "wof:lastmodified":1537705767,
+    "wof:name":"Ban Na In Plaeng",
+    "wof:parent_id":890466881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.56686,
+    16.57783,
+    103.56686,
+    16.57783
+],
+  "geometry": {"coordinates":[103.56686000000001,16.57783],"type":"Point"}
+}

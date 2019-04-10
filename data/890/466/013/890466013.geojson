@@ -1,0 +1,79 @@
+{
+  "id": 890466013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.95,19.11667,98.95,19.11667",
+    "geom:latitude":19.11667,
+    "geom:longitude":98.95,
+    "gn:country":"TH",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424960,
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Amphoe Mae Taeng"
+    ],
+    "qs:name":"Mae Wang",
+    "qs:name_adm0":"Thailand",
+    "qs:name_adm1":"Chiang Mai",
+    "qs:photos":228,
+    "qs:photos_1k":46,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":228,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":184,
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678619,
+        1108802653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1152183,
+        "gp:id":28349082,
+        "qs:id":1210238,
+        "wd:id":"Q475979",
+        "wk:page":"Mae Wang District"
+    },
+    "wof:country":"TH",
+    "wof:created":1469053562,
+    "wof:geomhash":"99c1fa2ca8160331322713a82ea2ecd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802653,
+            "locality_id":890466013,
+            "region_id":85678619
+        }
+    ],
+    "wof:id":890466013,
+    "wof:lastmodified":1527793008,
+    "wof:name":"Mae Wang",
+    "wof:parent_id":1108802653,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.95,
+    19.11667,
+    98.95,
+    19.11667
+],
+  "geometry": {"coordinates":[98.95,19.11667],"type":"Point"}
+}

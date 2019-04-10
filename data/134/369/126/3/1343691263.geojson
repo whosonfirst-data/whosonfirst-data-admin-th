@@ -1,0 +1,75 @@
+{
+  "id": 1343691263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.73522,14.06111,101.73522,14.06111",
+    "geom:latitude":14.06111,
+    "geom:longitude":101.73522,
+    "gn:admin1_code":"74.0",
+    "gn:asciiname":"Ban Non Klang",
+    "gn:country_code":"TH",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1619185,
+    "gn:latitude":14.06111,
+    "gn:longitude":101.73522,
+    "gn:modification_date":"2014-04-05",
+    "gn:name":"Ban Non Klang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e42\u0e19\u0e19\u0e01\u0e25\u0e32\u0e07"
+    ],
+    "name:und_x_variant":[
+        "Ban Klang",
+        "Ban Hae",
+        "Ban Non Klang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678711,
+        1108731305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1619185
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"5fa9626bc3c197e5300e5b1eb425b685",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731305,
+            "locality_id":1343691263,
+            "region_id":85678711
+        }
+    ],
+    "wof:id":1343691263,
+    "wof:lastmodified":1537704176,
+    "wof:name":"Ban Non Klang",
+    "wof:parent_id":1108731305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.73522,
+    14.06111,
+    101.73522,
+    14.06111
+],
+  "geometry": {"coordinates":[101.73522,14.06111],"type":"Point"}
+}

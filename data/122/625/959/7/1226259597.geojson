@@ -1,0 +1,70 @@
+{
+  "id": 1226259597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.68243,12.72681,101.68243,12.72681",
+    "geom:latitude":12.72681,
+    "geom:longitude":101.68243,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Ban Trok Tak Sin",
+    "gn:country_code":"TH",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7736252,
+    "gn:latitude":12.72681,
+    "gn:longitude":101.68243,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Trok Tak Sin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e15\u0e23\u0e2d\u0e01\u0e15\u0e32\u0e01\u0e2a\u0e34\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678809,
+        890465677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7736252
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"40f10976be14b48ca5d8ad45f597588f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465677,
+            "locality_id":1226259597,
+            "region_id":85678809
+        }
+    ],
+    "wof:id":1226259597,
+    "wof:lastmodified":1537704640,
+    "wof:name":"Ban Trok Tak Sin",
+    "wof:parent_id":890465677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.68243,
+    12.72681,
+    101.68243,
+    12.72681
+],
+  "geometry": {"coordinates":[101.68243,12.72681],"type":"Point"}
+}

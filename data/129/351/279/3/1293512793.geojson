@@ -1,0 +1,70 @@
+{
+  "id": 1293512793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.77347,13.52025,99.77347,13.52025",
+    "geom:latitude":13.52025,
+    "geom:longitude":99.77347,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Ban Sa Sawat",
+    "gn:country_code":"TH",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8338644,
+    "gn:latitude":13.52025,
+    "gn:longitude":99.77347,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Ban Sa Sawat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2a\u0e23\u0e30\u0e2a\u0e27\u0e32\u0e2a\u0e14\u0e34\u0e4c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678761,
+        890466987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8338644
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"e0535b0d80fb234e2d22e5cb0da545f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466987,
+            "locality_id":1293512793,
+            "region_id":85678761
+        }
+    ],
+    "wof:id":1293512793,
+    "wof:lastmodified":1537705419,
+    "wof:name":"Ban Sa Sawat",
+    "wof:parent_id":890466987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.77347,
+    13.52025,
+    99.77347,
+    13.52025
+],
+  "geometry": {"coordinates":[99.77347,13.52025],"type":"Point"}
+}

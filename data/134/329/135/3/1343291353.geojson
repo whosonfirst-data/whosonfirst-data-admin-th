@@ -1,0 +1,70 @@
+{
+  "id": 1343291353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.00297,17.42622,102.00297,17.42622",
+    "geom:latitude":17.42622,
+    "geom:longitude":102.00297,
+    "gn:admin1_code":"79.0",
+    "gn:asciiname":"Ban Khok Charoen",
+    "gn:country_code":"TH",
+    "gn:dem":297,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8460004,
+    "gn:latitude":17.42622,
+    "gn:longitude":102.00297,
+    "gn:modification_date":"2013-02-10",
+    "gn:name":"Ban Khok Charoen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e42\u0e04\u0e01\u0e40\u0e08\u0e23\u0e34\u0e0d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678871,
+        1108731551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8460004
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"10353792cf07be9868a9e8c2efcd3646",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731551,
+            "locality_id":1343291353,
+            "region_id":85678871
+        }
+    ],
+    "wof:id":1343291353,
+    "wof:lastmodified":1537705643,
+    "wof:name":"Ban Khok Charoen",
+    "wof:parent_id":1108731551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.00297,
+    17.42622,
+    102.00297,
+    17.42622
+],
+  "geometry": {"coordinates":[102.00297,17.42622],"type":"Point"}
+}

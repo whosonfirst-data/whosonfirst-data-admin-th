@@ -1,0 +1,74 @@
+{
+  "id": 1260365619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.69334,17.24208,101.69334,17.24208",
+    "geom:latitude":17.24208,
+    "geom:longitude":101.69334,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Sai Khao",
+    "gn:country_code":"TH",
+    "gn:dem":264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1613647,
+    "gn:latitude":17.24208,
+    "gn:longitude":101.69334,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Sai Khao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e17\u0e23\u0e32\u0e22\u0e02\u0e32\u0e27"
+    ],
+    "name:und_x_variant":[
+        "B\u0101n Sai K\u0101u",
+        "Ban Sai Khao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678853,
+        1108732063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1613647
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"bc8822e194fd6c5959ae08e4e2b6744d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108732063,
+            "locality_id":1260365619,
+            "region_id":85678853
+        }
+    ],
+    "wof:id":1260365619,
+    "wof:lastmodified":1537703787,
+    "wof:name":"Ban Sai Khao",
+    "wof:parent_id":1108732063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.69334,
+    17.24208,
+    101.69334,
+    17.24208
+],
+  "geometry": {"coordinates":[101.69334000000001,17.24208],"type":"Point"}
+}

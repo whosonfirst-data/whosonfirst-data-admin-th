@@ -1,0 +1,67 @@
+{
+  "id": 1243066019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.08333,18.41667,99.08333,18.41667",
+    "geom:latitude":18.41667,
+    "geom:longitude":99.08333,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ban Yang",
+    "gn:country_code":"TH",
+    "gn:dem":399,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1153963,
+    "gn:latitude":18.41667,
+    "gn:longitude":99.08333,
+    "gn:modification_date":"1994-04-06",
+    "gn:name":"Ban Yang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678629,
+        890466103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1153963
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"dfc819f9221654c39e41f4b54d31eeeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466103,
+            "locality_id":1243066019,
+            "region_id":85678629
+        }
+    ],
+    "wof:id":1243066019,
+    "wof:lastmodified":1536855764,
+    "wof:name":"Ban Yang",
+    "wof:parent_id":890466103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.08333,
+    18.41667,
+    99.08333,
+    18.41667
+],
+  "geometry": {"coordinates":[99.08333,18.41667],"type":"Point"}
+}

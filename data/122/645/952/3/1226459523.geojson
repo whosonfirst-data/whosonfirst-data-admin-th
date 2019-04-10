@@ -1,0 +1,70 @@
+{
+  "id": 1226459523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.98086,8.34797,99.98086,8.34797",
+    "geom:latitude":8.34797,
+    "geom:longitude":99.98086,
+    "gn:admin1_code":"64.0",
+    "gn:asciiname":"Ban Phang Sing Tai",
+    "gn:country_code":"TH",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8264911,
+    "gn:latitude":8.34797,
+    "gn:longitude":99.98086,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Ban Phang Sing Tai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1e\u0e31\u0e07\u0e2a\u0e34\u0e07\u0e2b\u0e4c\u0e43\u0e15\u0e49"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678565,
+        890465711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8264911
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"1c15aa0993be44163f0f0ed8d056a3b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465711,
+            "locality_id":1226459523,
+            "region_id":85678565
+        }
+    ],
+    "wof:id":1226459523,
+    "wof:lastmodified":1537705258,
+    "wof:name":"Ban Phang Sing Tai",
+    "wof:parent_id":890465711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.98086,
+    8.34797,
+    99.98086,
+    8.34797
+],
+  "geometry": {"coordinates":[99.98086000000001,8.34797],"type":"Point"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 102024977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000027,
+    "geom:area_square_m":330215.501969,
+    "geom:bbox":"100.623779297,13.6833505738,100.630645752,13.6886877698",
+    "geom:latitude":13.686331,
+    "geom:longitude":100.627304,
+    "iso:country":"TH",
+    "lbl:latitude":13.686608,
+    "lbl:longitude":100.627238,
+    "mps:latitude":13.686608,
+    "mps:longitude":100.627238,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Prakanong"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e1e\u0e23\u0e30\u0e44\u0e02\u0e19\u0e07"
+    ],
+    "name:unk_x_variant":[
+        "Amphoe Phra Khanong"
+    ],
+    "qs:a0":"Thailand",
+    "qs:a1":"*Bangkok",
+    "qs:a1r":"*",
+    "qs:a2":"Phra Khanong",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Phra Khanong",
+    "qs:loc_alt":"Phra Khanong",
+    "qs:loc_lc":"1607542",
+    "qs:pop":0,
+    "qs:source":"Aquattroshapes",
+    "qs:type":"County",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":554,
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678739,
+        890465899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1607542,
+        "gp:id":28341404,
+        "qs:id":1077152,
+        "wd:id":"Q473316"
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"1a40949832fd4c3ab26569dd159bc839",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465899,
+            "locality_id":102024977,
+            "region_id":85678739
+        }
+    ],
+    "wof:id":102024977,
+    "wof:lastmodified":1527636439,
+    "wof:name":"Phra Khanong",
+    "wof:parent_id":890465899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.623779297,
+    13.6833505738,
+    100.63064575199999,
+    13.6886877698
+],
+  "geometry": {"coordinates":[[[100.626525879,13.6833505738],[100.626525879,13.6846848841],[100.62515258800001,13.6846848841],[100.62515258800001,13.6860191869],[100.623779297,13.6860191869],[100.623779297,13.6886877698],[100.626525879,13.6886877698],[100.629272461,13.6886877698],[100.629272461,13.6873534821],[100.63064575199999,13.6873534821],[100.63064575199999,13.6860191869],[100.63064575199999,13.6846848841],[100.629272461,13.6846848841],[100.629272461,13.6833505738],[100.626525879,13.6833505738]]],"type":"Polygon"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1260195557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.95639,18.62919,98.95639,18.62919",
+    "geom:latitude":18.62919,
+    "geom:longitude":98.95639,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Tha Makham",
+    "gn:country_code":"TH",
+    "gn:dem":294,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7790612,
+    "gn:latitude":18.62919,
+    "gn:longitude":98.95639,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Tha Makham",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e17\u0e48\u0e32\u0e21\u0e30\u0e02\u0e32\u0e21"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678619,
+        1108731859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7790612
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"bde77d48946922fe283e7a2fa329bcf8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731859,
+            "locality_id":1260195557,
+            "region_id":85678619
+        }
+    ],
+    "wof:id":1260195557,
+    "wof:lastmodified":1537704687,
+    "wof:name":"Ban Tha Makham",
+    "wof:parent_id":1108731859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.95639,
+    18.62919,
+    98.95639,
+    18.62919
+],
+  "geometry": {"coordinates":[98.95639,18.62919],"type":"Point"}
+}

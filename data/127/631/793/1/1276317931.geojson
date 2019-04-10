@@ -1,0 +1,73 @@
+{
+  "id": 1276317931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.15486,16.81053,99.15486,16.81053",
+    "geom:latitude":16.81053,
+    "geom:longitude":99.15486,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Ban Wang Hin",
+    "gn:country_code":"TH",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1117219,
+    "gn:latitude":16.81053,
+    "gn:longitude":99.15486,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Wang Hin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "Ban Wang Hin"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e27\u0e31\u0e07\u0e2b\u0e34\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678683,
+        890466081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1117219
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"da5b6d2fcfca60f6a894b4cae1a05f1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466081,
+            "locality_id":1276317931,
+            "region_id":85678683
+        }
+    ],
+    "wof:id":1276317931,
+    "wof:lastmodified":1537702908,
+    "wof:name":"Ban Wang Hin",
+    "wof:parent_id":890466081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.15486,
+    16.81053,
+    99.15486,
+    16.81053
+],
+  "geometry": {"coordinates":[99.15486,16.81053],"type":"Point"}
+}

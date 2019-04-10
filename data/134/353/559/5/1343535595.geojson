@@ -1,0 +1,70 @@
+{
+  "id": 1343535595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.54147,17.31819,103.54147,17.31819",
+    "geom:latitude":17.31819,
+    "geom:longitude":103.54147,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Don Yao Yai",
+    "gn:country_code":"TH",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8537281,
+    "gn:latitude":17.31819,
+    "gn:longitude":103.54147,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Ban Don Yao Yai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e14\u0e2d\u0e19\u0e22\u0e32\u0e27\u0e43\u0e2b\u0e0d\u0e48"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678863,
+        1108732067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8537281
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"78e7629b757470e3d6e5d1c9708f61b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108732067,
+            "locality_id":1343535595,
+            "region_id":85678863
+        }
+    ],
+    "wof:id":1343535595,
+    "wof:lastmodified":1537705673,
+    "wof:name":"Ban Don Yao Yai",
+    "wof:parent_id":1108732067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.54147,
+    17.31819,
+    103.54147,
+    17.31819
+],
+  "geometry": {"coordinates":[103.54147,17.31819],"type":"Point"}
+}

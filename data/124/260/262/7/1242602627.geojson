@@ -1,0 +1,73 @@
+{
+  "id": 1242602627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.13147,14.90715,100.13147,14.90715",
+    "geom:latitude":14.90715,
+    "geom:longitude":100.13147,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Ban Sam Ek Neua",
+    "gn:country_code":"TH",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8593902,
+    "gn:latitude":14.90715,
+    "gn:longitude":100.13147,
+    "gn:modification_date":"2013-08-06",
+    "gn:name":"Ban Sam Ek Neua",
+    "gn:population":500,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2a\u0e32\u0e21\u0e40\u0e2d\u0e01\u0e40\u0e2b\u0e19\u0e37\u0e2d"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678679,
+        1108731271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8593902
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"8a238d4d96d91a02f969876505f495ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731271,
+            "locality_id":1242602627,
+            "region_id":85678679
+        }
+    ],
+    "wof:id":1242602627,
+    "wof:lastmodified":1537705752,
+    "wof:name":"Ban Sam Ek Neua",
+    "wof:parent_id":1108731271,
+    "wof:placetype":"locality",
+    "wof:population":500,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.13147,
+    14.90715,
+    100.13147,
+    14.90715
+],
+  "geometry": {"coordinates":[100.13146999999999,14.90715],"type":"Point"}
+}

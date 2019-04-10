@@ -1,0 +1,73 @@
+{
+  "id": 1259512723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.40969,16.8025,104.40969,16.8025",
+    "geom:latitude":16.8025,
+    "geom:longitude":104.40969,
+    "gn:admin1_code":"78.0",
+    "gn:asciiname":"Ban Tio",
+    "gn:country_code":"TH",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8036354,
+    "gn:latitude":16.8025,
+    "gn:longitude":104.40969,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Tio",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "Ban Tio"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e15\u0e34\u0e49\u0e27"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678881,
+        1108802607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8036354
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"50e497f8297e633ab9dba7b72f658298",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802607,
+            "locality_id":1259512723,
+            "region_id":85678881
+        }
+    ],
+    "wof:id":1259512723,
+    "wof:lastmodified":1537704928,
+    "wof:name":"Ban Tio",
+    "wof:parent_id":1108802607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.40969,
+    16.8025,
+    104.40969,
+    16.8025
+],
+  "geometry": {"coordinates":[104.40969,16.8025],"type":"Point"}
+}

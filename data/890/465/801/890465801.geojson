@@ -1,0 +1,76 @@
+{
+  "id": 890465801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-11-10",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.5941,14.23482,100.5941,14.23482",
+    "geom:latitude":14.23482,
+    "geom:longitude":100.5941,
+    "gn:country":"TH",
+    "gn:fcode":"ADM2",
+    "gn:pop":0,
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e1a\u0e32\u0e07\u0e1b\u0e30\u0e2d\u0e34\u0e19"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e32\u0e07\u0e1b\u0e30\u0e2d\u0e34\u0e19"
+    ],
+    "name:unk_x_variant":[
+        "Khwaeng U Thai"
+    ],
+    "qs:name":"Amphoe Bang Pa-in",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":151,
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1619368,
+        "gp:id":28341523,
+        "qs:id":1151820,
+        "wd:id":"Q475224",
+        "wk:page":"Bang Pa-in District"
+    },
+    "wof:country":"TH",
+    "wof:created":1469053534,
+    "wof:geomhash":"4b9fdae72a4d5b43e6725b3d97f58a5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465801,
+            "region_id":85678721
+        }
+    ],
+    "wof:id":890465801,
+    "wof:lastmodified":1527736657,
+    "wof:name":"Amphoe Bang Pa-in",
+    "wof:parent_id":85678721,
+    "wof:placetype":"county",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.5941,
+    14.23482,
+    100.5941,
+    14.23482
+],
+  "geometry": {"coordinates":[100.5941,14.23482],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243287103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.26297,13.90031,102.26297,13.90031",
+    "geom:latitude":13.90031,
+    "geom:longitude":102.26297,
+    "gn:admin1_code":"80",
+    "gn:asciiname":"Ban Non Phasuk",
+    "gn:country_code":"TH",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8760128,
+    "gn:latitude":13.90031,
+    "gn:longitude":102.26297,
+    "gn:modification_date":"2014-04-08",
+    "gn:name":"Ban Non Phasuk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e42\u0e19\u0e19\u0e1c\u0e32\u0e2a\u0e38\u0e01"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678805,
+        1108732073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8760128
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"01acc4750979443ec089f3a06c9650e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108732073,
+            "locality_id":1243287103,
+            "region_id":85678805
+        }
+    ],
+    "wof:id":1243287103,
+    "wof:lastmodified":1537706038,
+    "wof:name":"Ban Non Phasuk",
+    "wof:parent_id":1108732073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.26297,
+    13.90031,
+    102.26297,
+    13.90031
+],
+  "geometry": {"coordinates":[102.26297,13.90031],"type":"Point"}
+}

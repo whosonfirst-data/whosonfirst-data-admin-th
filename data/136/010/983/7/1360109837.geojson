@@ -1,0 +1,70 @@
+{
+  "id": 1360109837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.91728,19.08864,99.91728,19.08864",
+    "geom:latitude":19.08864,
+    "geom:longitude":99.91728,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Ban Nong Kaeo",
+    "gn:country_code":"TH",
+    "gn:dem":409,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8332184,
+    "gn:latitude":19.08864,
+    "gn:longitude":99.91728,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Ban Nong Kaeo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e19\u0e2d\u0e07\u0e41\u0e01\u0e49\u0e27"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678637,
+        890467463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8332184
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"f43e61f6e0825c60c7b7471be7bc176c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890467463,
+            "locality_id":1360109837,
+            "region_id":85678637
+        }
+    ],
+    "wof:id":1360109837,
+    "wof:lastmodified":1537705402,
+    "wof:name":"Ban Nong Kaeo",
+    "wof:parent_id":890467463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.91728,
+    19.08864,
+    99.91728,
+    19.08864
+],
+  "geometry": {"coordinates":[99.91728000000001,19.08864],"type":"Point"}
+}

@@ -1,0 +1,117 @@
+{
+  "id": 85902865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000091,
+    "geom:area_square_m":1089430.899226,
+    "geom:bbox":"100.529045598,13.7783711175,100.536889351,13.8021147124",
+    "geom:latitude":13.790624,
+    "geom:longitude":100.53277,
+    "gn:latitude":13.78333,
+    "gn:longitude":100.51667,
+    "iso:country":"TH",
+    "lbl:latitude":13.793708,
+    "lbl:longitude":100.533985,
+    "mps:latitude":13.798074,
+    "mps:longitude":100.533116,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":5,
+    "name:eng_x_preferred":[
+        "Sam Sen"
+    ],
+    "name:eng_x_variant":[
+        "Sam Sen Nai"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2a\u0e32\u0e21\u0e40\u0e2a\u0e19"
+    ],
+    "name:unk_x_variant":[
+        "Sam Sen"
+    ],
+    "qs:gn_adm0_cc":"TH",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":1609350,
+    "qs:gn_nam_loc":"Bangkok, Bangkok, TH",
+    "qs:gn_namadm1":"40",
+    "qs:gn_name":"Sam Sen",
+    "qs:local_max":21510,
+    "qs:local_sum":280580,
+    "qs:localhoods":117,
+    "qs:name":"Sam Sen",
+    "qs:name_adm0":"Thailand",
+    "qs:name_adm1":"Bangkok",
+    "qs:name_adm2":"Phaya Thai",
+    "qs:name_local":"Bangkok",
+    "qs:photo_max":85,
+    "qs:photo_sum":138,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":8,
+    "qs:woe_adm0":23424960,
+    "qs:woe_adm1":2347165,
+    "qs:woe_adm2":28341420,
+    "qs:woe_lau":0,
+    "qs:woe_local":1225448,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85678739,
+        102191569,
+        85632293,
+        102025263,
+        890466393
+    ],
+    "wof:breaches":[
+        85908053
+    ],
+    "wof:concordances":{
+        "gn:id":1606609,
+        "gp:id":1225629,
+        "qs:id":1146033,
+        "qs_pg:id":1146033
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"6c2113b508008cabb403eac87f77e01c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466393,
+            "locality_id":102025263,
+            "neighbourhood_id":85902865,
+            "region_id":85678739
+        }
+    ],
+    "wof:id":85902865,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1497317867,
+    "wof:name":"Sam Sen",
+    "wof:parent_id":102025263,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.52904559847201,
+    13.77837111754194,
+    100.53688935089497,
+    13.80211471236386
+],
+  "geometry": {"coordinates":[[[[100.53039550800008,13.78611041182383],[100.53314209000013,13.78516772789229],[100.53488794869622,13.7857669428217],[100.53588867200011,13.78473654486692],[100.53588867200011,13.78206905461698],[100.53588867200011,13.77940153664451],[100.53488791289652,13.77837111754194],[100.53314209000013,13.77897029966107],[100.53139626710384,13.77837111754194],[100.53039550698708,13.77940153734964],[100.52939476251635,13.78043193243481],[100.52992475453499,13.78206905207546],[100.52906118392673,13.78473654930008],[100.52904559847201,13.78478469146323],[100.52979024462695,13.78631815077217],[100.53039550800008,13.78611041182383]]],[[[100.53039550800008,13.80211471236386],[100.53314209000013,13.80117196377905],[100.53488801532018,13.8017712426733],[100.5358886709239,13.80074084478832],[100.53688934232787,13.79971042227363],[100.5363594550617,13.79807353275034],[100.53688935089497,13.79643659798376],[100.53588867421581,13.79540620094832],[100.53488797947216,13.7943757789787],[100.53314209000013,13.7949750250116],[100.53039550800008,13.79403230876643],[100.52906126779641,13.79540617262511],[100.52906127766153,13.79540620309993],[100.52992472493838,13.79807353275034],[100.52906128258201,13.80074081660038],[100.53039550800008,13.80211471236386]]]],"type":"MultiPolygon"}
+}

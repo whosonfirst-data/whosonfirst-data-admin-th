@@ -1,0 +1,72 @@
+{
+  "id": 1226467361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.3,6.28333,101.3,6.28333",
+    "geom:latitude":6.28333,
+    "geom:longitude":101.3,
+    "gn:admin1_code":"70.0",
+    "gn:asciiname":"Kampong Yalabong",
+    "gn:cc2":"TH",
+    "gn:country_code":"TH",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1610240,
+    "gn:latitude":6.28333,
+    "gn:longitude":101.3,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Kampong Yalabong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kampong Jalabong",
+        "Kampong Yalabong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678611,
+        1108731183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1610240
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"5c4b394a3bf7bdfea2db9f2bef26c181",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731183,
+            "locality_id":1226467361,
+            "region_id":85678611
+        }
+    ],
+    "wof:id":1226467361,
+    "wof:lastmodified":1537703629,
+    "wof:name":"Kampong Yalabong",
+    "wof:parent_id":1108731183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.3,
+    6.28333,
+    101.3,
+    6.28333
+],
+  "geometry": {"coordinates":[101.3,6.28333],"type":"Point"}
+}

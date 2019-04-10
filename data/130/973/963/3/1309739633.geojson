@@ -1,0 +1,70 @@
+{
+  "id": 1309739633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.36708,8.27992,98.36708,8.27992",
+    "geom:latitude":8.27992,
+    "geom:longitude":98.36708,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Ban Khok Liang",
+    "gn:country_code":"TH",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7091962,
+    "gn:latitude":8.27992,
+    "gn:longitude":98.36708,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Khok Liang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e42\u0e04\u0e01\u0e40\u0e2b\u0e25\u0e35\u0e22\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678573,
+        890466905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7091962
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"f8c7c5be101b2c2c9ab9e234c81d957c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466905,
+            "locality_id":1309739633,
+            "region_id":85678573
+        }
+    ],
+    "wof:id":1309739633,
+    "wof:lastmodified":1537704413,
+    "wof:name":"Ban Khok Liang",
+    "wof:parent_id":890466905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.36708,
+    8.27992,
+    98.36708,
+    8.27992
+],
+  "geometry": {"coordinates":[98.36708,8.27992],"type":"Point"}
+}

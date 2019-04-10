@@ -1,0 +1,113 @@
+{
+  "id": 102024691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000264,
+    "geom:bbox":"103.740043488,16.0314959419,103.758735844,16.0495723665",
+    "geom:latitude":16.040534,
+    "geom:longitude":103.74939,
+    "iso:country":"TH",
+    "lbl:latitude":16.040534,
+    "lbl:longitude":103.74939,
+    "mps:latitude":16.040534,
+    "mps:longitude":103.74939,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bpy_x_preferred":[
+        "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09a5\u09be\u09f1\u09be\u09a4 \u09ac\u09c1\u09b0\u09bf"
+    ],
+    "name:deu_x_preferred":[
+        "Amphoe Thawat Buri"
+    ],
+    "name:eng_x_preferred":[
+        "Thawatchaburi"
+    ],
+    "name:eng_x_variant":[
+        "Ban Phon Thong",
+        "Bouri",
+        "Phon Thong",
+        "Phonthaung",
+        "Thawat Buri",
+        "Thawatburi"
+    ],
+    "name:ron_x_preferred":[
+        "Districtul Thawat Buri"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e18\u0e27\u0e31\u0e0a\u0e1a\u0e38\u0e23\u0e35"
+    ],
+    "name:tha_x_variant":[
+        "\u0e18\u0e27\u0e31\u0e0a\u0e1a\u0e38\u0e23\u0e35"
+    ],
+    "name:unk_x_variant":[
+        "Amphoe Ban Phon Thong"
+    ],
+    "name:vie_x_preferred":[
+        "Thawat Buri"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Thawat Buri K\u016bn"
+    ],
+    "qs:a0":"Thailand",
+    "qs:a1":"*Roi Et",
+    "qs:a1r":"*",
+    "qs:a2":"Thawat Buri",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Thawat Buri",
+    "qs:loc_alt":"Thawat Buri",
+    "qs:loc_lc":"1605473",
+    "qs:pop":0,
+    "qs:source":"Aquattroshapes",
+    "qs:type":"County",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":167,
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"07cf570c-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":1605473,
+        "gp:id":28341188,
+        "qs:id":298838,
+        "wd:id":"Q476903"
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"998fd01cb48e89ae7b54dc2b36bf34a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "locality_id":102024691,
+            "region_id":85678845
+        }
+    ],
+    "wof:id":102024691,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527636448,
+    "wof:name":"Thawat Buri",
+    "wof:parent_id":85678845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.7400434880844,
+    16.03149594192145,
+    103.7587358439314,
+    16.04957236647766
+],
+  "geometry": {"coordinates":[[[103.7512681946687,16.03168023128663],[103.74944600826346,16.03149594192145],[103.74762165801413,16.031658970793],[103.74586524335952,16.03216305295284],[103.74424425411711,16.032988818669],[103.74282097813658,16.03410453751111],[103.74165010850403,16.03546733723387],[103.74077664211559,16.03702485069456],[103.74023415031628,16.03871722761033],[103.7400434880844,16.04047943394878],[103.74021199147423,16.04224375068264],[103.74073319432186,16.04394237595304],[103.74158707531809,16.04551003068013],[103.74274082616184,16.04688646748458],[103.74415011147029,16.04801878646067],[103.74576077216345,16.04886346873165],[103.74751090692475,16.04938804954084],[103.74933325172266,16.04957236647766],[103.75115776584751,16.04940933477495],[103.75291432491211,16.0489052198122],[103.75453541711364,16.04807939631523],[103.75595873892802,16.04696360351122],[103.75712959029134,16.04560072490534],[103.75800297708871,16.04404313964955],[103.75854534009228,16.04235070895689],[103.7587358439314,16.0405884750468],[103.75856717666626,16.03882416114418],[103.75804582940854,16.0371255686767],[103.75719184545308,16.03555797173031],[103.75603804877541,16.03418160888786],[103.75462878173634,16.03304936879489],[103.75301820063409,16.03220475831903],[103.7512681946687,16.03168023128663]]],"type":"Polygon"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1226565277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.44878,14.76439,99.44878,14.76439",
+    "geom:latitude":14.76439,
+    "geom:longitude":99.44878,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Ban Samnak Phai",
+    "gn:country_code":"TH",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8665576,
+    "gn:latitude":14.76439,
+    "gn:longitude":99.44878,
+    "gn:modification_date":"2014-01-18",
+    "gn:name":"Ban Samnak Phai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2a\u0e33\u0e19\u0e31\u0e01\u0e44\u0e1c\u0e48"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678663,
+        1108731639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8665576
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"b032beb5104ff05a808dfed18506c52d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731639,
+            "locality_id":1226565277,
+            "region_id":85678663
+        }
+    ],
+    "wof:id":1226565277,
+    "wof:lastmodified":1537705784,
+    "wof:name":"Ban Samnak Phai",
+    "wof:parent_id":1108731639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.44878,
+    14.76439,
+    99.44878,
+    14.76439
+],
+  "geometry": {"coordinates":[99.44878,14.76439],"type":"Point"}
+}

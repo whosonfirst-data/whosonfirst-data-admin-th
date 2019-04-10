@@ -1,0 +1,70 @@
+{
+  "id": 1243398941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.20564,8.20989,100.20564,8.20989",
+    "geom:latitude":8.20989,
+    "geom:longitude":100.20564,
+    "gn:admin1_code":"64.0",
+    "gn:asciiname":"Ban Na Lang",
+    "gn:country_code":"TH",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8241771,
+    "gn:latitude":8.20989,
+    "gn:longitude":100.20564,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Ban Na Lang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e19\u0e32\u0e25\u0e48\u0e32\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678565,
+        1108731241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8241771
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"58f13a8ff06234260d2010151b7ffe8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731241,
+            "locality_id":1243398941,
+            "region_id":85678565
+        }
+    ],
+    "wof:id":1243398941,
+    "wof:lastmodified":1537705234,
+    "wof:name":"Ban Na Lang",
+    "wof:parent_id":1108731241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.20564,
+    8.20989,
+    100.20564,
+    8.20989
+],
+  "geometry": {"coordinates":[100.20564,8.20989],"type":"Point"}
+}

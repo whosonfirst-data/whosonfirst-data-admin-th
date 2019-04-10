@@ -1,0 +1,73 @@
+{
+  "id": 1343324469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.75731,17.31706,101.75731,17.31706",
+    "geom:latitude":17.31706,
+    "geom:longitude":101.75731,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Wang Nam Yen",
+    "gn:country_code":"TH",
+    "gn:dem":255,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8039772,
+    "gn:latitude":17.31706,
+    "gn:longitude":101.75731,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Wang Nam Yen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "Ban Wang Nam Yen"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e27\u0e31\u0e07\u0e19\u0e49\u0e33\u0e40\u0e22\u0e47\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678853,
+        1108732063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8039772
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"d4270b4eed821cc445df0bcc5925452e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108732063,
+            "locality_id":1343324469,
+            "region_id":85678853
+        }
+    ],
+    "wof:id":1343324469,
+    "wof:lastmodified":1537704954,
+    "wof:name":"Ban Wang Nam Yen",
+    "wof:parent_id":1108732063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.75731,
+    17.31706,
+    101.75731,
+    17.31706
+],
+  "geometry": {"coordinates":[101.75731,17.31706],"type":"Point"}
+}

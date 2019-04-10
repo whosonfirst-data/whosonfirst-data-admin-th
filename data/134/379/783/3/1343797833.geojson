@@ -1,0 +1,74 @@
+{
+  "id": 1343797833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.78578,11.74561,99.78578,11.74561",
+    "geom:latitude":11.74561,
+    "geom:longitude":99.78578,
+    "gn:admin1_code":"57.0",
+    "gn:asciiname":"Ban Khlong Wan",
+    "gn:country_code":"TH",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1157028,
+    "gn:latitude":11.74561,
+    "gn:longitude":99.78578,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Ban Khlong Wan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e04\u0e25\u0e2d\u0e07\u0e27\u0e32\u0e2c"
+    ],
+    "name:und_x_variant":[
+        "Gl\u014dhng Wal",
+        "Ban Khlong Wan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678757,
+        890466989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1157028
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"ccb0c33d87684f3aa235c9dd4905c712",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466989,
+            "locality_id":1343797833,
+            "region_id":85678757
+        }
+    ],
+    "wof:id":1343797833,
+    "wof:lastmodified":1537703234,
+    "wof:name":"Ban Khlong Wan",
+    "wof:parent_id":890466989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.78578,
+    11.74561,
+    99.78578,
+    11.74561
+],
+  "geometry": {"coordinates":[99.78578,11.74561],"type":"Point"}
+}

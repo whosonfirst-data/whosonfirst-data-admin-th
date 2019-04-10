@@ -1,0 +1,67 @@
+{
+  "id": 1193000909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.79056,15.61333,99.79056,15.61333",
+    "geom:latitude":15.61333,
+    "geom:longitude":99.79056,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ban Thung Sa-Ngop",
+    "gn:country_code":"TH",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1117336,
+    "gn:latitude":15.61333,
+    "gn:longitude":99.79056,
+    "gn:modification_date":"2000-09-11",
+    "gn:name":"Ban Thung Sa-Ngop",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678689,
+        1108731867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1117336
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"e4ca18623ec490bee0e0f3ca00a19761",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731867,
+            "locality_id":1193000909,
+            "region_id":85678689
+        }
+    ],
+    "wof:id":1193000909,
+    "wof:lastmodified":1536370750,
+    "wof:name":"Ban Thung Sa-Ngop",
+    "wof:parent_id":1108731867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.79056,
+    15.61333,
+    99.79056,
+    15.61333
+],
+  "geometry": {"coordinates":[99.79056,15.61333],"type":"Point"}
+}

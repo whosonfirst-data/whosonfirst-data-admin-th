@@ -1,0 +1,70 @@
+{
+  "id": 1226401381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.57833,17.30758,103.57833,17.30758",
+    "geom:latitude":17.30758,
+    "geom:longitude":103.57833,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Nong Bak",
+    "gn:country_code":"TH",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7917282,
+    "gn:latitude":17.30758,
+    "gn:longitude":103.57833,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Nong Bak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e19\u0e2d\u0e07\u0e1a\u0e32\u0e01"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678863,
+        1108732067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7917282
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"c2b17bcececa6c7f723db861758e9168",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108732067,
+            "locality_id":1226401381,
+            "region_id":85678863
+        }
+    ],
+    "wof:id":1226401381,
+    "wof:lastmodified":1537704877,
+    "wof:name":"Ban Nong Bak",
+    "wof:parent_id":1108732067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.57833,
+    17.30758,
+    103.57833,
+    17.30758
+],
+  "geometry": {"coordinates":[103.57832999999999,17.30758],"type":"Point"}
+}

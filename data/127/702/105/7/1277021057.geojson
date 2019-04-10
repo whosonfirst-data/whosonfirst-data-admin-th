@@ -1,0 +1,70 @@
+{
+  "id": 1277021057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.43208,15.49836,102.43208,15.49836",
+    "geom:latitude":15.49836,
+    "geom:longitude":102.43208,
+    "gn:admin1_code":"27",
+    "gn:asciiname":"Ban Chaeng Sawang",
+    "gn:country_code":"TH",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9106240,
+    "gn:latitude":15.49836,
+    "gn:longitude":102.43208,
+    "gn:modification_date":"2014-06-07",
+    "gn:name":"Ban Chaeng Sawang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e41\u0e08\u0e49\u0e07\u0e2a\u0e27\u0e48\u0e32\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678841,
+        1108731197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9106240
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"0705d9d189e22806a8b7db1c661c4f05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731197,
+            "locality_id":1277021057,
+            "region_id":85678841
+        }
+    ],
+    "wof:id":1277021057,
+    "wof:lastmodified":1537706157,
+    "wof:name":"Ban Chaeng Sawang",
+    "wof:parent_id":1108731197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.43208,
+    15.49836,
+    102.43208,
+    15.49836
+],
+  "geometry": {"coordinates":[102.43208,15.49836],"type":"Point"}
+}

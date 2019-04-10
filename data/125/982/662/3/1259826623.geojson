@@ -1,0 +1,73 @@
+{
+  "id": 1259826623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.83997,14.59375,102.83997,14.59375",
+    "geom:latitude":14.59375,
+    "geom:longitude":102.83997,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Ban Sawai So",
+    "gn:country_code":"TH",
+    "gn:dem":194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1613300,
+    "gn:latitude":14.59375,
+    "gn:longitude":102.83997,
+    "gn:modification_date":"2014-08-05",
+    "gn:name":"Ban Sawai So",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2a\u0e27\u0e32\u0e22\u0e2a\u0e2d"
+    ],
+    "name:und_x_variant":[
+        "Ban Sawai Se"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678817,
+        1108802689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1613300
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"10f7f0176706f81c8ca572c0e3fb035d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802689,
+            "locality_id":1259826623,
+            "region_id":85678817
+        }
+    ],
+    "wof:id":1259826623,
+    "wof:lastmodified":1537703764,
+    "wof:name":"Ban Sawai So",
+    "wof:parent_id":1108802689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.83997,
+    14.59375,
+    102.83997,
+    14.59375
+],
+  "geometry": {"coordinates":[102.83996999999999,14.59375],"type":"Point"}
+}

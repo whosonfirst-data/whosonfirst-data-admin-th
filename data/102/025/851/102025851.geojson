@@ -1,0 +1,79 @@
+{
+  "id": 102025851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000011,
+    "geom:area_square_m":132011.986625,
+    "geom:bbox":"100.557861328,13.7500568096,100.561981201,13.7540585804",
+    "geom:latitude":13.75228,
+    "geom:longitude":100.56015,
+    "gn:latitude":13.759,
+    "gn:longitude":100.53358,
+    "iso:country":"TH",
+    "lbl:latitude":13.752647,
+    "lbl:longitude":100.560523,
+    "mps:latitude":13.752647,
+    "mps:longitude":100.560523,
+    "mz:hierarchy_label":1,
+    "name:tha_x_preferred":[
+        "\u0e23\u0e32\u0e0a\u0e40\u0e17\u0e27\u0e35"
+    ],
+    "qs:a0":"Thailand",
+    "qs:a1":"*Bangkok",
+    "qs:a1r":"*",
+    "qs:a2":"Ratchathewi",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Ratchathewi",
+    "qs:loc_alt":"Ratchathewi",
+    "qs:loc_lc":"7026885",
+    "qs:pop":0,
+    "qs:source":"Aquattroshapes",
+    "qs:type":"County",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678739,
+        890465783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7026885,
+        "gp:id":28341412,
+        "qs:id":1151410
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"28d4687865066a2f24c358996f3577f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465783,
+            "locality_id":102025851,
+            "region_id":85678739
+        }
+    ],
+    "wof:id":102025851,
+    "wof:lastmodified":1501273138,
+    "wof:name":"Ratchathewi",
+    "wof:parent_id":890465783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.557861328,
+    13.7500568096,
+    100.561981201,
+    13.7540585804
+],
+  "geometry": {"coordinates":[[[100.55923461899999,13.7500568096],[100.55923461899999,13.7513907408],[100.557861328,13.7513907408],[100.557861328,13.7527246644],[100.55923461899999,13.7527246644],[100.55923461899999,13.7540585804],[100.56060791,13.7540585804],[100.56198120099999,13.7540585804],[100.56198120099999,13.7527246644],[100.56198120099999,13.7513907408],[100.56060791,13.7513907408],[100.56060791,13.7500568096],[100.55923461899999,13.7500568096]]],"type":"Polygon"}
+}

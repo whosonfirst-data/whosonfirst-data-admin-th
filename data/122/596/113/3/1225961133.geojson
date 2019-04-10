@@ -1,0 +1,70 @@
+{
+  "id": 1225961133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.96505,7.85426,99.96505,7.85426",
+    "geom:latitude":7.85426,
+    "geom:longitude":99.96505,
+    "gn:admin1_code":"66.0",
+    "gn:asciiname":"Ban Pradu Hom",
+    "gn:country_code":"TH",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8203706,
+    "gn:latitude":7.85426,
+    "gn:longitude":99.96505,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Ban Pradu Hom",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1b\u0e23\u0e30\u0e14\u0e39\u0e48\u0e2b\u0e2d\u0e21"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678591,
+        1108731403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8203706
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"bc977013fcf6f94911c30815b73d5f48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731403,
+            "locality_id":1225961133,
+            "region_id":85678591
+        }
+    ],
+    "wof:id":1225961133,
+    "wof:lastmodified":1537705076,
+    "wof:name":"Ban Pradu Hom",
+    "wof:parent_id":1108731403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.96505,
+    7.85426,
+    99.96505,
+    7.85426
+],
+  "geometry": {"coordinates":[99.96505000000001,7.85426],"type":"Point"}
+}

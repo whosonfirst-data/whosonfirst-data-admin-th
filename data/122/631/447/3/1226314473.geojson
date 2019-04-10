@@ -1,0 +1,70 @@
+{
+  "id": 1226314473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.28887,15.22753,100.28887,15.22753",
+    "geom:latitude":15.22753,
+    "geom:longitude":100.28887,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ban Nong Si So",
+    "gn:country_code":"TH",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1615052,
+    "gn:latitude":15.22753,
+    "gn:longitude":100.28887,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Ban Nong Si So",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e19\u0e2d\u0e07\u0e2a\u0e35\u0e0b\u0e2d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678715,
+        890465891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1615052
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"b7f903018421af47ef9a4a37238f9ac7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465891,
+            "locality_id":1226314473,
+            "region_id":85678715
+        }
+    ],
+    "wof:id":1226314473,
+    "wof:lastmodified":1537703884,
+    "wof:name":"Ban Nong Si So",
+    "wof:parent_id":890465891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.28887,
+    15.22753,
+    100.28887,
+    15.22753
+],
+  "geometry": {"coordinates":[100.28887,15.22753],"type":"Point"}
+}

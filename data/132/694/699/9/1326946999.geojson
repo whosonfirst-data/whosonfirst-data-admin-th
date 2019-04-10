@@ -1,0 +1,73 @@
+{
+  "id": 1326946999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.63178,15.98489,104.63178,15.98489",
+    "geom:latitude":15.98489,
+    "geom:longitude":104.63178,
+    "gn:admin1_code":"77.0",
+    "gn:asciiname":"Ban Khok Kok",
+    "gn:country_code":"TH",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8147679,
+    "gn:latitude":15.98489,
+    "gn:longitude":104.63178,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Ban Khok Kok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "Ban Khok Kok"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e42\u0e04\u0e01\u0e01\u0e2d\u0e01"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678789,
+        1108731529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8147679
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"9ca1ad8044a4760e325c69f703cac16a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731529,
+            "locality_id":1326946999,
+            "region_id":85678789
+        }
+    ],
+    "wof:id":1326946999,
+    "wof:lastmodified":1537705022,
+    "wof:name":"Ban Khok Kok",
+    "wof:parent_id":1108731529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.63178,
+    15.98489,
+    104.63178,
+    15.98489
+],
+  "geometry": {"coordinates":[104.63178000000001,15.98489],"type":"Point"}
+}

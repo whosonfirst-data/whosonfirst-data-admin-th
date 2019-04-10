@@ -1,0 +1,106 @@
+{
+  "id": 85932829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000014,
+    "geom:area_square_m":167995.281644,
+    "geom:bbox":"100.491192677,13.7386981477,100.496396872,13.7423965294",
+    "geom:latitude":13.740349,
+    "geom:longitude":100.49357,
+    "gn:id":"",
+    "iso:country":"TH",
+    "lbl:latitude":13.74062,
+    "lbl:longitude":100.493967,
+    "mps:latitude":13.740484,
+    "mps:longitude":100.493359,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":5,
+    "name:eng_x_preferred":[
+        "Wat Kanlaya"
+    ],
+    "name:unk_x_variant":[
+        "Wat Kanlaya"
+    ],
+    "qs:gn_adm0_cc":"TH",
+    "qs:gn_id":0,
+    "qs:gn_local":1609350,
+    "qs:gn_nam_loc":"Bangkok, Bangkok, TH",
+    "qs:gn_namadm1":"40",
+    "qs:local_max":21510,
+    "qs:local_sum":280580,
+    "qs:localhoods":117,
+    "qs:name":"Wat Kanlaya",
+    "qs:name_adm0":"Thailand",
+    "qs:name_adm1":"Bangkok",
+    "qs:name_adm2":"Thon Buri",
+    "qs:name_local":"Bangkok",
+    "qs:photo_max":67,
+    "qs:photo_sum":419,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":16,
+    "qs:woe_adm0":23424960,
+    "qs:woe_adm1":2347165,
+    "qs:woe_adm2":28341426,
+    "qs:woe_lau":0,
+    "qs:woe_local":1225448,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85678739,
+        102191569,
+        85632293,
+        102025263,
+        890466393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55948175,
+        "qs:id":899377,
+        "qs_pg:id":899377
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"c39a60dc8c2a33c03238e9ca110eccd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466393,
+            "locality_id":102025263,
+            "neighbourhood_id":85932829,
+            "region_id":85678739
+        }
+    ],
+    "wof:id":85932829,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527269342,
+    "wof:name":"Wat Kanlaya",
+    "wof:parent_id":102025263,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.4911926768566,
+    13.73869814769566,
+    100.49639687210822,
+    13.74239652941928
+],
+  "geometry": {"coordinates":[[[100.49331665000011,13.74239652941928],[100.49365028644132,13.74205306159169],[100.49435630598032,13.74205306190832],[100.49468994100005,13.74205306270004],[100.49468994100005,13.74170959431467],[100.49468994100005,13.7412342791723],[100.49519039811793,13.74071907719167],[100.49572959513489,13.7407190775084],[100.49606323199998,13.74071907830003],[100.49606323200015,13.74037560997176],[100.49606323200015,13.73972855290579],[100.49639687210822,13.73938508505013],[100.49618090047966,13.73871808702513],[100.49606323199998,13.7387180871962],[100.4953765868334,13.73871808718332],[100.49468994100005,13.73871808720037],[100.4940777679206,13.73871808702513],[100.49406436533837,13.73874108249645],[100.4940032957503,13.73877880344556],[100.49286273765949,13.7390136336651],[100.49194335900017,13.73869814769566],[100.49127608185677,13.73938507872505],[100.49155348998505,13.74024182506905],[100.49133118813052,13.74138607100012],[100.4911926768566,13.74162372432409],[100.49194335900006,13.74239652924778],[100.49263000475003,13.74216090235582],[100.49331665000011,13.74239652941928]]],"type":"Polygon"}
+}

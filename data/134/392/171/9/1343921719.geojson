@@ -1,0 +1,70 @@
+{
+  "id": 1343921719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.00411,16.06694,100.00411,16.06694",
+    "geom:latitude":16.06694,
+    "geom:longitude":100.00411,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ban Thung Khae Daeng",
+    "gn:country_code":"TH",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8344581,
+    "gn:latitude":16.06694,
+    "gn:longitude":100.00411,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Ban Thung Khae Daeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e17\u0e38\u0e48\u0e07\u0e41\u0e04\u0e41\u0e14\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678715,
+        890466389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8344581
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"2ae6db4dca8d9e09477d5d6afc9c589d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466389,
+            "locality_id":1343921719,
+            "region_id":85678715
+        }
+    ],
+    "wof:id":1343921719,
+    "wof:lastmodified":1537705467,
+    "wof:name":"Ban Thung Khae Daeng",
+    "wof:parent_id":890466389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.00411,
+    16.06694,
+    100.00411,
+    16.06694
+],
+  "geometry": {"coordinates":[100.00411,16.06694],"type":"Point"}
+}

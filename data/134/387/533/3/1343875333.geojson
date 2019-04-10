@@ -1,0 +1,70 @@
+{
+  "id": 1343875333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.04661,15.44097,105.04661,15.44097",
+    "geom:latitude":15.44097,
+    "geom:longitude":105.04661,
+    "gn:admin1_code":"75.0",
+    "gn:asciiname":"Ban Muang Toi",
+    "gn:country_code":"TH",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8318520,
+    "gn:latitude":15.44097,
+    "gn:longitude":105.04661,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Ban Muang Toi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e21\u0e48\u0e27\u0e07\u0e15\u0e2d\u0e22"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678783,
+        890466223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8318520
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"934366c561f6d4304c44332736d29e58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466223,
+            "locality_id":1343875333,
+            "region_id":85678783
+        }
+    ],
+    "wof:id":1343875333,
+    "wof:lastmodified":1537705339,
+    "wof:name":"Ban Muang Toi",
+    "wof:parent_id":890466223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.04661000000002,
+    15.44097,
+    105.04661000000002,
+    15.44097
+],
+  "geometry": {"coordinates":[105.04661000000002,15.44097],"type":"Point"}
+}

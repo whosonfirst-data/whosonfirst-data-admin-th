@@ -1,0 +1,73 @@
+{
+  "id": 1276335241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.29761,20.05233,100.29761,20.05233",
+    "geom:latitude":20.05233,
+    "geom:longitude":100.29761,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ban Kaen",
+    "gn:country_code":"TH",
+    "gn:dem":359,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1618693,
+    "gn:latitude":20.05233,
+    "gn:longitude":100.29761,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Kaen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e41\u0e01\u0e48\u0e19"
+    ],
+    "name:und_x_variant":[
+        "Ban Kaeng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678617,
+        1108802595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1618693
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"54a06f4e8278a9beec1201c24467964f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802595,
+            "locality_id":1276335241,
+            "region_id":85678617
+        }
+    ],
+    "wof:id":1276335241,
+    "wof:lastmodified":1537704143,
+    "wof:name":"Ban Kaen",
+    "wof:parent_id":1108802595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.29761,
+    20.05233,
+    100.29761,
+    20.05233
+],
+  "geometry": {"coordinates":[100.29761000000001,20.05233],"type":"Point"}
+}

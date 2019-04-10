@@ -1,0 +1,67 @@
+{
+  "id": 1209932311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.7,18.8,100.7,18.8",
+    "geom:latitude":18.8,
+    "geom:longitude":100.7,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Ban Pha Sing",
+    "gn:country_code":"TH",
+    "gn:dem":213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1599058,
+    "gn:latitude":18.8,
+    "gn:longitude":100.7,
+    "gn:modification_date":"1994-04-10",
+    "gn:name":"Ban Pha Sing",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678633,
+        890466613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1599058
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"57139a92b069921bd04c5e13d11b6e53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466613,
+            "locality_id":1209932311,
+            "region_id":85678633
+        }
+    ],
+    "wof:id":1209932311,
+    "wof:lastmodified":1536392190,
+    "wof:name":"Ban Pha Sing",
+    "wof:parent_id":890466613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.7,
+    18.8,
+    100.7,
+    18.8
+],
+  "geometry": {"coordinates":[100.7,18.8],"type":"Point"}
+}

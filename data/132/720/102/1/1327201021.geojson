@@ -1,0 +1,70 @@
+{
+  "id": 1327201021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.90242,16.53889,101.90242,16.53889",
+    "geom:latitude":16.53889,
+    "geom:longitude":101.90242,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Ban Huai Yang Yai",
+    "gn:country_code":"TH",
+    "gn:dem":278,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8379573,
+    "gn:latitude":16.53889,
+    "gn:longitude":101.90242,
+    "gn:modification_date":"2012-09-08",
+    "gn:name":"Ban Huai Yang Yai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e49\u0e27\u0e22\u0e22\u0e32\u0e07\u0e43\u0e2b\u0e0d\u0e48"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678825,
+        890465699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8379573
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"c8b06fda2132be1489caca03ad95b22e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465699,
+            "locality_id":1327201021,
+            "region_id":85678825
+        }
+    ],
+    "wof:id":1327201021,
+    "wof:lastmodified":1537705528,
+    "wof:name":"Ban Huai Yang Yai",
+    "wof:parent_id":890465699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.90242,
+    16.53889,
+    101.90242,
+    16.53889
+],
+  "geometry": {"coordinates":[101.90242000000001,16.53889],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1276588133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.00419,13.53781,101.00419,13.53781",
+    "geom:latitude":13.53781,
+    "geom:longitude":101.00419,
+    "gn:admin1_code":"44.0",
+    "gn:asciiname":"Ban Khao Din",
+    "gn:country_code":"TH",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1618460,
+    "gn:latitude":13.53781,
+    "gn:longitude":101.00419,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Khao Din",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e02\u0e32\u0e14\u0e34\u0e19"
+    ],
+    "name:und_x_variant":[
+        "Ban Khao Din (2)"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678797,
+        1108802587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1618460
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"9abd79d8aae42fa48ce859f6ea36b73d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802587,
+            "locality_id":1276588133,
+            "region_id":85678797
+        }
+    ],
+    "wof:id":1276588133,
+    "wof:lastmodified":1537704125,
+    "wof:name":"Ban Khao Din",
+    "wof:parent_id":1108802587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.00419,
+    13.53781,
+    101.00419,
+    13.53781
+],
+  "geometry": {"coordinates":[101.00418999999999,13.53781],"type":"Point"}
+}

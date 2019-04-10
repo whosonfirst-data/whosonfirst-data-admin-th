@@ -1,0 +1,75 @@
+{
+  "id": 890467169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.1289,15.20359,101.1289,15.20359",
+    "geom:latitude":15.20359,
+    "geom:longitude":101.1289,
+    "gn:country":"TH",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424960,
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e25\u0e33\u0e19\u0e32\u0e23\u0e22\u0e13\u0e4c"
+    ],
+    "name:unk_x_variant":[
+        "Lamnarai"
+    ],
+    "qs:name":"Ban Lam Narai",
+    "qs:name_adm0":"Thailand",
+    "qs:name_adm1":"Lop Buri",
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1617109,
+        "gp:id":1225818,
+        "qs:id":924376
+    },
+    "wof:country":"TH",
+    "wof:created":1469053615,
+    "wof:geomhash":"94b6bd22e975c5e98979b391a00955e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "locality_id":890467169,
+            "region_id":85678701
+        }
+    ],
+    "wof:id":890467169,
+    "wof:lastmodified":1505343709,
+    "wof:name":"Ban Lam Narai",
+    "wof:parent_id":85678701,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.1289,
+    15.20359,
+    101.1289,
+    15.20359
+],
+  "geometry": {"coordinates":[101.1289,15.20359],"type":"Point"}
+}

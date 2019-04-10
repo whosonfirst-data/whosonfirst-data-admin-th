@@ -1,0 +1,66 @@
+{
+  "id": 1293697011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.25461,8.90608,98.25461,8.90608",
+    "geom:latitude":8.90608,
+    "geom:longitude":98.25461,
+    "gn:asciiname":"Koh Koh Kao",
+    "gn:country_code":"TH",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":10227180,
+    "gn:latitude":8.90608,
+    "gn:longitude":98.25461,
+    "gn:modification_date":"2015-04-14",
+    "gn:name":"Koh Koh Kao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678573,
+        1108731961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10227180
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"1be46333bddce7464270c4920d023bb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731961,
+            "locality_id":1293697011,
+            "region_id":85678573
+        }
+    ],
+    "wof:id":1293697011,
+    "wof:lastmodified":1536981528,
+    "wof:name":"Koh Koh Kao",
+    "wof:parent_id":1108731961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.25461,
+    8.90608,
+    98.25461,
+    8.90608
+],
+  "geometry": {"coordinates":[98.25461,8.90608],"type":"Point"}
+}

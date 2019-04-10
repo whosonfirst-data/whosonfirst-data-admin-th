@@ -1,0 +1,70 @@
+{
+  "id": 1327358705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.65492,15.56094,104.65492,15.56094",
+    "geom:latitude":15.56094,
+    "geom:longitude":104.65492,
+    "gn:admin1_code":"75.0",
+    "gn:asciiname":"Ban Phak Kraya",
+    "gn:country_code":"TH",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8320017,
+    "gn:latitude":15.56094,
+    "gn:longitude":104.65492,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Ban Phak Kraya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1c\u0e31\u0e01\u0e01\u0e23\u0e30\u0e22\u0e48\u0e32"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678783,
+        1108731533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8320017
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"1b06a53598f76e3eb9fb544b0adccef5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731533,
+            "locality_id":1327358705,
+            "region_id":85678783
+        }
+    ],
+    "wof:id":1327358705,
+    "wof:lastmodified":1537705353,
+    "wof:name":"Ban Phak Kraya",
+    "wof:parent_id":1108731533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.65492,
+    15.56094,
+    104.65492,
+    15.56094
+],
+  "geometry": {"coordinates":[104.65492,15.56094],"type":"Point"}
+}

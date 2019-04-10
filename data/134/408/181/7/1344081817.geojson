@@ -1,0 +1,70 @@
+{
+  "id": 1344081817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.85586,8.49747,99.85586,8.49747",
+    "geom:latitude":8.49747,
+    "geom:longitude":99.85586,
+    "gn:admin1_code":"64.0",
+    "gn:asciiname":"Ban Khao Pun",
+    "gn:country_code":"TH",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8240872,
+    "gn:latitude":8.49747,
+    "gn:longitude":99.85586,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Ban Khao Pun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e02\u0e32\u0e1b\u0e39\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678565,
+        890466713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8240872
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"86bde0b25e8ba04b333d735b43087320",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466713,
+            "locality_id":1344081817,
+            "region_id":85678565
+        }
+    ],
+    "wof:id":1344081817,
+    "wof:lastmodified":1537705222,
+    "wof:name":"Ban Khao Pun",
+    "wof:parent_id":890466713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.85586,
+    8.49747,
+    99.85586,
+    8.49747
+],
+  "geometry": {"coordinates":[99.85586000000001,8.49747],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293080583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.67983,16.71156,100.67983,16.71156",
+    "geom:latitude":16.71156,
+    "geom:longitude":100.67983,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Ban Fao Rai",
+    "gn:country_code":"TH",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8206665,
+    "gn:latitude":16.71156,
+    "gn:longitude":100.67983,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Ban Fao Rai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e1d\u0e49\u0e32\u0e44\u0e23\u0e48"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678647,
+        1108731599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8206665
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"c8db77811a09ec0662a6b4d58a3d87e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731599,
+            "locality_id":1293080583,
+            "region_id":85678647
+        }
+    ],
+    "wof:id":1293080583,
+    "wof:lastmodified":1537705116,
+    "wof:name":"Ban Fao Rai",
+    "wof:parent_id":1108731599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.67983,
+    16.71156,
+    100.67983,
+    16.71156
+],
+  "geometry": {"coordinates":[100.67983,16.71156],"type":"Point"}
+}

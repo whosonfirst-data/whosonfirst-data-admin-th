@@ -1,0 +1,73 @@
+{
+  "id": 1327151335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.67428,15.821,104.67428,15.821",
+    "geom:latitude":15.821,
+    "geom:longitude":104.67428,
+    "gn:admin1_code":"77.0",
+    "gn:asciiname":"Ban I Pe",
+    "gn:country_code":"TH",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8147537,
+    "gn:latitude":15.821,
+    "gn:longitude":104.67428,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Ban I Pe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "Ban I Pe"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2d\u0e35\u0e40\u0e1b\u0e4b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678789,
+        1108731529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8147537
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"fb4f6047f8b6caa4451ede747c3c7f4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731529,
+            "locality_id":1327151335,
+            "region_id":85678789
+        }
+    ],
+    "wof:id":1327151335,
+    "wof:lastmodified":1537705020,
+    "wof:name":"Ban I Pe",
+    "wof:parent_id":1108731529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.67428,
+    15.821,
+    104.67428,
+    15.821
+],
+  "geometry": {"coordinates":[104.67428,15.821],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343893757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.08333,14.55,105.08333,14.55",
+    "geom:latitude":14.55,
+    "geom:longitude":105.08333,
+    "gn:admin1_code":"75.0",
+    "gn:asciiname":"Ban Ta Luak",
+    "gn:country_code":"TH",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1597960,
+    "gn:latitude":14.55,
+    "gn:longitude":105.08333,
+    "gn:modification_date":"2009-06-01",
+    "gn:name":"Ban Ta Luak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678783,
+        1108731587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1597960
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"6aa8854652b2fd5d8741295f70eee18e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731587,
+            "locality_id":1343893757,
+            "region_id":85678783
+        }
+    ],
+    "wof:id":1343893757,
+    "wof:lastmodified":1536616205,
+    "wof:name":"Ban Ta Luak",
+    "wof:parent_id":1108731587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.08333,
+    14.55,
+    105.08333,
+    14.55
+],
+  "geometry": {"coordinates":[105.08333,14.55],"type":"Point"}
+}

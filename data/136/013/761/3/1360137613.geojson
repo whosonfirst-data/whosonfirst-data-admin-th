@@ -1,0 +1,70 @@
+{
+  "id": 1360137613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.25492,14.21708,100.25492,14.21708",
+    "geom:latitude":14.21708,
+    "geom:longitude":100.25492,
+    "gn:admin1_code":"36",
+    "gn:asciiname":"Ban Khlong Yai Bua",
+    "gn:country_code":"TH",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8697297,
+    "gn:latitude":14.21708,
+    "gn:longitude":100.25492,
+    "gn:modification_date":"2014-02-16",
+    "gn:name":"Ban Khlong Yai Bua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e04\u0e25\u0e2d\u0e07\u0e22\u0e32\u0e22\u0e1a\u0e31\u0e27"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678721,
+        1108731477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8697297
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"ac51c432c69f02888ae86ef738dc9a8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731477,
+            "locality_id":1360137613,
+            "region_id":85678721
+        }
+    ],
+    "wof:id":1360137613,
+    "wof:lastmodified":1537705889,
+    "wof:name":"Ban Khlong Yai Bua",
+    "wof:parent_id":1108731477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.25492,
+    14.21708,
+    100.25492,
+    14.21708
+],
+  "geometry": {"coordinates":[100.25492,14.21708],"type":"Point"}
+}

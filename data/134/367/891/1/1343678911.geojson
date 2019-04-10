@@ -1,0 +1,74 @@
+{
+  "id": 1343678911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.88703,8.21839,99.88703,8.21839",
+    "geom:latitude":8.21839,
+    "geom:longitude":99.88703,
+    "gn:admin1_code":"64.0",
+    "gn:asciiname":"Ban Hin Tok",
+    "gn:country_code":"TH",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1157557,
+    "gn:latitude":8.21839,
+    "gn:longitude":99.88703,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Ban Hin Tok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e34\u0e19\u0e15\u0e01"
+    ],
+    "name:und_x_variant":[
+        "Ban Hin",
+        "Ban Hin Tok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678565,
+        1108731813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1157557
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"dd1770d836c6cbdce1f62451149e74ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731813,
+            "locality_id":1343678911,
+            "region_id":85678565
+        }
+    ],
+    "wof:id":1343678911,
+    "wof:lastmodified":1537703270,
+    "wof:name":"Ban Hin Tok",
+    "wof:parent_id":1108731813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.88703,
+    8.21839,
+    99.88703,
+    8.21839
+],
+  "geometry": {"coordinates":[99.88703,8.21839],"type":"Point"}
+}

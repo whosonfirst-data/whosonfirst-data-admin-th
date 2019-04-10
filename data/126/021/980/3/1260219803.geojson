@@ -1,0 +1,67 @@
+{
+  "id": 1260219803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.28333,13.08333,102.28333,13.08333",
+    "geom:latitude":13.08333,
+    "geom:longitude":102.28333,
+    "gn:admin1_code":"48.0",
+    "gn:asciiname":"Ban Don Chen",
+    "gn:country_code":"TH",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1604010,
+    "gn:latitude":13.08333,
+    "gn:longitude":102.28333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Don Chen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678799,
+        1108731929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1604010
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"da2033e7611297a8cde1b2fc86b79c9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731929,
+            "locality_id":1260219803,
+            "region_id":85678799
+        }
+    ],
+    "wof:id":1260219803,
+    "wof:lastmodified":1536798462,
+    "wof:name":"Ban Don Chen",
+    "wof:parent_id":1108731929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.28333,
+    13.08333,
+    102.28333,
+    13.08333
+],
+  "geometry": {"coordinates":[102.28333000000001,13.08333],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243189343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.03578,12.58536,102.03578,12.58536",
+    "geom:latitude":12.58536,
+    "geom:longitude":102.03578,
+    "gn:admin1_code":"48.0",
+    "gn:asciiname":"Ban Thung Kai Thuean",
+    "gn:country_code":"TH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7913580,
+    "gn:latitude":12.58536,
+    "gn:longitude":102.03578,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Thung Kai Thuean",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e17\u0e38\u0e48\u0e07\u0e44\u0e01\u0e48\u0e40\u0e16\u0e37\u0e48\u0e2d\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678799,
+        890466889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7913580
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"a3d90e38614aa86a80ec8a579980e2df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466889,
+            "locality_id":1243189343,
+            "region_id":85678799
+        }
+    ],
+    "wof:id":1243189343,
+    "wof:lastmodified":1537704866,
+    "wof:name":"Ban Thung Kai Thuean",
+    "wof:parent_id":890466889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.03578,
+    12.58536,
+    102.03578,
+    12.58536
+],
+  "geometry": {"coordinates":[102.03578,12.58536],"type":"Point"}
+}

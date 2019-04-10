@@ -1,0 +1,68 @@
+{
+  "id": 1209439811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.16667,12.67444,101.16667,12.67444",
+    "geom:latitude":12.67444,
+    "geom:longitude":101.16667,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Ban Takuan",
+    "gn:country_code":"TH",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1613005,
+    "gn:latitude":12.67444,
+    "gn:longitude":101.16667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Takuan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e15\u0e32\u0e01\u0e27\u0e19"
+    ],
+    "name:und_x_variant":[
+        "Hin Tawet",
+        "Ban Takuan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1613005
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"44e571417a9bec1edd0e0715fc8e3aff",
+    "wof:hierarchy":[
+        {
+            "country_id":85632293,
+            "locality_id":1209439811
+        }
+    ],
+    "wof:id":1209439811,
+    "wof:lastmodified":1537703742,
+    "wof:name":"Ban Takuan",
+    "wof:parent_id":85632293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.16667,
+    12.67444,
+    101.16667,
+    12.67444
+],
+  "geometry": {"coordinates":[101.16667,12.67444],"type":"Point"}
+}

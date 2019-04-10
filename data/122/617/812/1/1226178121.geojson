@@ -1,0 +1,67 @@
+{
+  "id": 1226178121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.85,13.4,99.85,13.4",
+    "geom:latitude":13.4,
+    "geom:longitude":99.85,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Ban Don Suang",
+    "gn:country_code":"TH",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1157810,
+    "gn:latitude":13.4,
+    "gn:longitude":99.85,
+    "gn:modification_date":"1994-04-06",
+    "gn:name":"Ban Don Suang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678761,
+        890467423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1157810
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"500de39b0ed249b955aa5e5cd686ffcc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890467423,
+            "locality_id":1226178121,
+            "region_id":85678761
+        }
+    ],
+    "wof:id":1226178121,
+    "wof:lastmodified":1537029704,
+    "wof:name":"Ban Don Suang",
+    "wof:parent_id":890467423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.85,
+    13.4,
+    99.85,
+    13.4
+],
+  "geometry": {"coordinates":[99.84999999999999,13.4],"type":"Point"}
+}

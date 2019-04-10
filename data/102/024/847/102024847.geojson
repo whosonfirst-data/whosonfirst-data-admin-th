@@ -1,0 +1,111 @@
+{
+  "id": 102024847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000266,
+    "geom:area_square_m":3131077.016288,
+    "geom:bbox":"103.080778207,17.8181111668,103.099641771,17.83617867",
+    "geom:latitude":17.827145,
+    "geom:longitude":103.09021,
+    "iso:country":"TH",
+    "lbl:latitude":17.827145,
+    "lbl:longitude":103.09021,
+    "mps:latitude":17.827145,
+    "mps:longitude":103.09021,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bpy_x_preferred":[
+        "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09b8\u09be\u0982 \u0996\u09cb\u09ae"
+    ],
+    "name:deu_x_preferred":[
+        "Amphoe Sang Khom"
+    ],
+    "name:eng_x_preferred":[
+        "Ban Sang Khom"
+    ],
+    "name:eng_x_variant":[
+        "Sang Khom"
+    ],
+    "name:ron_x_preferred":[
+        "Districtul Sang Khom"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e2a\u0e23\u0e49\u0e32\u0e07\u0e04\u0e2d\u0e21"
+    ],
+    "name:tha_x_variant":[
+        "\u0e2a\u0e23\u0e49\u0e32\u0e07\u0e04\u0e2d\u0e21"
+    ],
+    "name:unk_x_variant":[
+        "\u0e2a\u0e23\u0e49\u0e32\u0e07\u0e04\u0e2d\u0e21"
+    ],
+    "name:vie_x_preferred":[
+        "Sang Khom"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Sang Khom K\u016bn"
+    ],
+    "qs:a0":"Thailand",
+    "qs:a1":"*Udon Thani",
+    "qs:a1r":"*",
+    "qs:a2":"Sang Khom",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Sang Khom",
+    "qs:loc_alt":"Sang Khom",
+    "qs:loc_lc":"1606537",
+    "qs:pop":0,
+    "qs:source":"Aquattroshapes",
+    "qs:type":"County",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":155,
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678869,
+        1108802739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"07cf130a-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":1606537,
+        "gp:id":28341018,
+        "qs:id":1163687,
+        "wd:id":"Q476630"
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"3075b53f3bccbc451ef959f39fb43143",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802739,
+            "locality_id":102024847,
+            "region_id":85678869
+        }
+    ],
+    "wof:id":102024847,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527636446,
+    "wof:name":"Sang Khom",
+    "wof:parent_id":1108802739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.08077820744391,
+    17.81811116676688,
+    103.09964177147073,
+    17.83617866998655
+],
+  "geometry": {"coordinates":[[[103.09214432619554,17.81830272093977],[103.09030621550404,17.81811116676688],[103.08846440904416,17.81826675763766],[103.08668967582646,17.81876351416264],[103.08505020839122,17.81958234809503],[103.08360900364598,17.82069179560338],[103.08242144298141,17.82204922587752],[103.08153316449831,17.82360247870228],[103.08097830903877,17.82529186817362],[103.08077820744391,17.82705247567438],[103.08094055959644,17.82881664410048],[103.08145913698245,17.8305165775719],[103.08231402043741,17.83208694677049],[103.08347236418517,17.83346739978674],[103.08488965702863,17.83460488194267],[103.08651143238519,17.83545567536088],[103.08827536153096,17.83598707979155],[103.09011364958964,17.83617866998655],[103.09195564208098,17.83602308119066],[103.09373054167237,17.83552629247721],[103.09537013049503,17.83470739699352],[103.09681139316122,17.83359786794178],[103.09799893946224,17.83224034854621],[103.09888713348413,17.83068701258999],[103.09944184724314,17.82899755863318],[103.09964177147073,17.82723691511029],[103.09947923328683,17.8254727446094],[103.09896048952687,17.82377284332638],[103.09810548468458,17.822202535679],[103.09694708301585,17.82082216420632],[103.09552980453596,17.81968477117181],[103.09390811364069,17.81883406088497],[103.09214432619554,17.81830272093977]]],"type":"Polygon"}
+}

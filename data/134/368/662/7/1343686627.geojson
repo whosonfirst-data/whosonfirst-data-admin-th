@@ -1,0 +1,70 @@
+{
+  "id": 1343686627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.18311,14.63322,105.18311,14.63322",
+    "geom:latitude":14.63322,
+    "geom:longitude":105.18311,
+    "gn:admin1_code":"75.0",
+    "gn:asciiname":"Ban Nong Kradon",
+    "gn:country_code":"TH",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8319189,
+    "gn:latitude":14.63322,
+    "gn:longitude":105.18311,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Ban Nong Kradon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e19\u0e2d\u0e07\u0e01\u0e23\u0e30\u0e42\u0e14\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678783,
+        890466259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8319189
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"b643b7e824591dc456d14b9d66c1f7bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466259,
+            "locality_id":1343686627,
+            "region_id":85678783
+        }
+    ],
+    "wof:id":1343686627,
+    "wof:lastmodified":1537705345,
+    "wof:name":"Ban Nong Kradon",
+    "wof:parent_id":890466259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.18311,
+    14.63322,
+    105.18311,
+    14.63322
+],
+  "geometry": {"coordinates":[105.18311,14.63322],"type":"Point"}
+}

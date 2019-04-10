@@ -1,0 +1,73 @@
+{
+  "id": 1243517765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.66994,17.72597,102.66994,17.72597",
+    "geom:latitude":17.72597,
+    "geom:longitude":102.66994,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Wang Thiam",
+    "gn:country_code":"TH",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1611839,
+    "gn:latitude":17.72597,
+    "gn:longitude":102.66994,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Wang Thiam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wang Thuan",
+        "Ban Wang Thuan",
+        "Ban Wang Thiam",
+        "\u0e1a\u0e49\u0e32\u0e19\u0e27\u0e31\u0e07\u0e40\u0e17\u0e35\u0e22\u0e21"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678859,
+        890465657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1611839
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"98ec4028cd38980b404b13c74980f6bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465657,
+            "locality_id":1243517765,
+            "region_id":85678859
+        }
+    ],
+    "wof:id":1243517765,
+    "wof:lastmodified":1537703661,
+    "wof:name":"Ban Wang Thiam",
+    "wof:parent_id":890465657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.66994,
+    17.72597,
+    102.66994,
+    17.72597
+],
+  "geometry": {"coordinates":[102.66994,17.72597],"type":"Point"}
+}

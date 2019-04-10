@@ -1,0 +1,75 @@
+{
+  "id": 1276819573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.63639,15.30914,102.63639,15.30914",
+    "geom:latitude":15.30914,
+    "geom:longitude":102.63639,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Ban Prasuk",
+    "gn:country_code":"TH",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1613895,
+    "gn:latitude":15.30914,
+    "gn:longitude":102.63639,
+    "gn:modification_date":"2014-06-04",
+    "gn:name":"Ban Prasuk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1b\u0e23\u0e30\u0e2a\u0e38\u0e02"
+    ],
+    "name:und_x_variant":[
+        "Prasuk",
+        "Ban Pra Suk",
+        "Ban Prasuk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678841,
+        890466783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1613895
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"5bfd65871769f6a6097cc756267e5830",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466783,
+            "locality_id":1276819573,
+            "region_id":85678841
+        }
+    ],
+    "wof:id":1276819573,
+    "wof:lastmodified":1537703804,
+    "wof:name":"Ban Prasuk",
+    "wof:parent_id":890466783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.63639,
+    15.30914,
+    102.63639,
+    15.30914
+],
+  "geometry": {"coordinates":[102.63639000000001,15.30914],"type":"Point"}
+}

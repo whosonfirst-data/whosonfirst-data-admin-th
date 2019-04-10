@@ -1,0 +1,79 @@
+{
+  "id": 890467033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.63531,13.99603,99.63531,13.99603",
+    "geom:latitude":13.99603,
+    "geom:longitude":99.63531,
+    "gn:country":"TH",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424960,
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e17\u0e38\u0e48\u0e07\u0e17\u0e2d\u0e07"
+    ],
+    "name:unk_x_variant":[
+        "Ban Tung Tong"
+    ],
+    "qs:name":"Ban Thung Thong (1)",
+    "qs:name_adm0":"Thailand",
+    "qs:name_adm1":"Kanchanaburi",
+    "qs:photos":48,
+    "qs:photos_1k":10,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":48,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678663,
+        890466893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1154196,
+        "gp:id":1223399,
+        "qs:id":1167936
+    },
+    "wof:country":"TH",
+    "wof:created":1469053609,
+    "wof:geomhash":"377a3240a73460aa9deaacef6c4ac327",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466893,
+            "locality_id":890467033,
+            "region_id":85678663
+        }
+    ],
+    "wof:id":890467033,
+    "wof:lastmodified":1505343709,
+    "wof:name":"Ban Thung Thong (1)",
+    "wof:parent_id":890466893,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.63531,
+    13.99603,
+    99.63531,
+    13.99603
+],
+  "geometry": {"coordinates":[99.63531,13.99603],"type":"Point"}
+}

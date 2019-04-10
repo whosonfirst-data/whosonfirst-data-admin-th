@@ -1,0 +1,70 @@
+{
+  "id": 1360015113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.79094,13.69286,101.79094,13.69286",
+    "geom:latitude":13.69286,
+    "geom:longitude":101.79094,
+    "gn:admin1_code":"44.0",
+    "gn:asciiname":"Ban Non Sawan",
+    "gn:country_code":"TH",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7854117,
+    "gn:latitude":13.69286,
+    "gn:longitude":101.79094,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Non Sawan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e42\u0e19\u0e19\u0e2a\u0e27\u0e23\u0e23\u0e04\u0e4c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678797,
+        890466343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7854117
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"5c119aeb5edb6dc51dd46ce2e61f0302",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466343,
+            "locality_id":1360015113,
+            "region_id":85678797
+        }
+    ],
+    "wof:id":1360015113,
+    "wof:lastmodified":1537704742,
+    "wof:name":"Ban Non Sawan",
+    "wof:parent_id":890466343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.79094,
+    13.69286,
+    101.79094,
+    13.69286
+],
+  "geometry": {"coordinates":[101.79094000000001,13.69286],"type":"Point"}
+}

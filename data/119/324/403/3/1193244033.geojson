@@ -1,0 +1,74 @@
+{
+  "id": 1193244033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.67544,17.85278,101.67544,17.85278",
+    "geom:latitude":17.85278,
+    "geom:longitude":101.67544,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Phon",
+    "gn:country_code":"TH",
+    "gn:dem":227,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1614200,
+    "gn:latitude":17.85278,
+    "gn:longitude":101.67544,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Phon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e42\u0e1e\u0e19"
+    ],
+    "name:und_x_variant":[
+        "B\u0101n Phaun",
+        "Ban Phon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678853,
+        1108802593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1614200
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"0683615fc1fe7a6c4ebcbcd055e5a8cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802593,
+            "locality_id":1193244033,
+            "region_id":85678853
+        }
+    ],
+    "wof:id":1193244033,
+    "wof:lastmodified":1537703826,
+    "wof:name":"Ban Phon",
+    "wof:parent_id":1108802593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.67544,
+    17.85278,
+    101.67544,
+    17.85278
+],
+  "geometry": {"coordinates":[101.67543999999999,17.85278],"type":"Point"}
+}

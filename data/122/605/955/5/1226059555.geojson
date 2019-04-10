@@ -1,0 +1,70 @@
+{
+  "id": 1226059555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.1125,14.83253,100.1125,14.83253",
+    "geom:latitude":14.83253,
+    "geom:longitude":100.1125,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Ban Tha Manao",
+    "gn:country_code":"TH",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1612588,
+    "gn:latitude":14.83253,
+    "gn:longitude":100.1125,
+    "gn:modification_date":"2014-01-08",
+    "gn:name":"Ban Tha Manao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e17\u0e48\u0e32\u0e21\u0e30\u0e19\u0e32\u0e27"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678679,
+        1108731271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1612588
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"f20b2b02bb3ac64a642ab802a1cb8e73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731271,
+            "locality_id":1226059555,
+            "region_id":85678679
+        }
+    ],
+    "wof:id":1226059555,
+    "wof:lastmodified":1537703714,
+    "wof:name":"Ban Tha Manao",
+    "wof:parent_id":1108731271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.1125,
+    14.83253,
+    100.1125,
+    14.83253
+],
+  "geometry": {"coordinates":[100.1125,14.83253],"type":"Point"}
+}

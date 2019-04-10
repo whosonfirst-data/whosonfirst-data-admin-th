@@ -1,0 +1,70 @@
+{
+  "id": 1243240077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.13222,17.03794,100.13222,17.03794",
+    "geom:latitude":17.03794,
+    "geom:longitude":100.13222,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Ban Khlong Tan",
+    "gn:country_code":"TH",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1602581,
+    "gn:latitude":17.03794,
+    "gn:longitude":100.13222,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Ban Khlong Tan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e04\u0e25\u0e2d\u0e07\u0e15\u0e32\u0e25"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678647,
+        1108802729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1602581
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"aae5ef6fdaa2466205d8490c6b23d831",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802729,
+            "locality_id":1243240077,
+            "region_id":85678647
+        }
+    ],
+    "wof:id":1243240077,
+    "wof:lastmodified":1537703552,
+    "wof:name":"Ban Khlong Tan",
+    "wof:parent_id":1108802729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.13222,
+    17.03794,
+    100.13222,
+    17.03794
+],
+  "geometry": {"coordinates":[100.13222,17.03794],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1310229759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.69836,13.59361,101.69836,13.59361",
+    "geom:latitude":13.59361,
+    "geom:longitude":101.69836,
+    "gn:admin1_code":"44.0",
+    "gn:asciiname":"Ban Prong Charoen",
+    "gn:country_code":"TH",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7854318,
+    "gn:latitude":13.59361,
+    "gn:longitude":101.69836,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Prong Charoen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e42\u0e1b\u0e23\u0e48\u0e07\u0e40\u0e08\u0e23\u0e34\u0e0d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678797,
+        890466343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7854318
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"84d6e08ee7e08babe44676c7d58635ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466343,
+            "locality_id":1310229759,
+            "region_id":85678797
+        }
+    ],
+    "wof:id":1310229759,
+    "wof:lastmodified":1537704746,
+    "wof:name":"Ban Prong Charoen",
+    "wof:parent_id":890466343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.69836,
+    13.59361,
+    101.69836,
+    13.59361
+],
+  "geometry": {"coordinates":[101.69835999999999,13.59361],"type":"Point"}
+}

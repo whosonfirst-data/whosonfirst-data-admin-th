@@ -1,0 +1,70 @@
+{
+  "id": 1225804693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.23428,15.14936,100.23428,15.14936",
+    "geom:latitude":15.14936,
+    "geom:longitude":100.23428,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Ban Wat Rat",
+    "gn:country_code":"TH",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8676899,
+    "gn:latitude":15.14936,
+    "gn:longitude":100.23428,
+    "gn:modification_date":"2014-01-18",
+    "gn:name":"Ban Wat Rat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e27\u0e31\u0e14\u0e23\u0e32\u0e29\u0e0e\u0e23\u0e4c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678699,
+        1108731857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8676899
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"48d57aad07464c2988772101b34a99f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731857,
+            "locality_id":1225804693,
+            "region_id":85678699
+        }
+    ],
+    "wof:id":1225804693,
+    "wof:lastmodified":1537705836,
+    "wof:name":"Ban Wat Rat",
+    "wof:parent_id":1108731857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.23428,
+    15.14936,
+    100.23428,
+    15.14936
+],
+  "geometry": {"coordinates":[100.23428,15.14936],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1209085253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.12531,16.1712,100.12531,16.1712",
+    "geom:latitude":16.1712,
+    "geom:longitude":100.12531,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Bueng Na Rang",
+    "gn:country_code":"TH",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1620390,
+    "gn:latitude":16.1712,
+    "gn:longitude":100.12531,
+    "gn:modification_date":"2013-12-13",
+    "gn:name":"Bueng Na Rang",
+    "gn:population":4948,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e36\u0e07\u0e19\u0e32\u0e23\u0e32\u0e07"
+    ],
+    "name:und_x_variant":[
+        "Bung Narang",
+        "B\u0101n Beung Na R\u0101ng",
+        "Boeng Narang",
+        "Ban Bung Na Rang",
+        "\u0e1a\u0e36\u0e07\u0e19\u0e32\u0e23\u0e32\u0e07",
+        "King Amphoe Beung Na Rang",
+        "Amphoe Beung Na Rang",
+        "Bueng Na Rang"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1620390
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"a5943958e565457b3d67d013c1357f6c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632293,
+            "locality_id":1209085253
+        }
+    ],
+    "wof:id":1209085253,
+    "wof:lastmodified":1537704227,
+    "wof:name":"Bueng Na Rang",
+    "wof:parent_id":85632293,
+    "wof:placetype":"locality",
+    "wof:population":4948,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.12531,
+    16.1712,
+    100.12531,
+    16.1712
+],
+  "geometry": {"coordinates":[100.12531,16.1712],"type":"Point"}
+}

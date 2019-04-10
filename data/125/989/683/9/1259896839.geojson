@@ -1,0 +1,70 @@
+{
+  "id": 1259896839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.22944,13.60881,100.22944,13.60881",
+    "geom:latitude":13.60881,
+    "geom:longitude":100.22944,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Ban San Chao Tuek",
+    "gn:country_code":"TH",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7508119,
+    "gn:latitude":13.60881,
+    "gn:longitude":100.22944,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban San Chao Tuek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e28\u0e32\u0e25\u0e40\u0e08\u0e49\u0e32\u0e15\u0e36\u0e01"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678771,
+        890466983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7508119
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"3da2e1dfe17cda675e7c3226ec131606",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466983,
+            "locality_id":1259896839,
+            "region_id":85678771
+        }
+    ],
+    "wof:id":1259896839,
+    "wof:lastmodified":1537704541,
+    "wof:name":"Ban San Chao Tuek",
+    "wof:parent_id":890466983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.22944,
+    13.60881,
+    100.22944,
+    13.60881
+],
+  "geometry": {"coordinates":[100.22944,13.60881],"type":"Point"}
+}

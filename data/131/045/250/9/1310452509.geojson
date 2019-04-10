@@ -1,0 +1,75 @@
+{
+  "id": 1310452509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.81197,14.60975,102.81197,14.60975",
+    "geom:latitude":14.60975,
+    "geom:longitude":102.81197,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Ban Sanuan",
+    "gn:country_code":"TH",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1618481,
+    "gn:latitude":14.60975,
+    "gn:longitude":102.81197,
+    "gn:modification_date":"2014-08-05",
+    "gn:name":"Ban Sanuan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2a\u0e19\u0e27\u0e19"
+    ],
+    "name:und_x_variant":[
+        "Ban Chanuan",
+        "Ban Khanuan",
+        "Ban Sanuan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678817,
+        1108802689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1618481
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"50eab62b021ab2f09e1e0d7c7a2c270f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802689,
+            "locality_id":1310452509,
+            "region_id":85678817
+        }
+    ],
+    "wof:id":1310452509,
+    "wof:lastmodified":1537704126,
+    "wof:name":"Ban Sanuan",
+    "wof:parent_id":1108802689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.81197,
+    14.60975,
+    102.81197,
+    14.60975
+],
+  "geometry": {"coordinates":[102.81197,14.60975],"type":"Point"}
+}

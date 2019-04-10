@@ -1,0 +1,67 @@
+{
+  "id": 1225802129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.57583,15.66639,103.57583,15.66639",
+    "geom:latitude":15.66639,
+    "geom:longitude":103.57583,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Ban Nong Waeng",
+    "gn:country_code":"TH",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1885110,
+    "gn:latitude":15.66639,
+    "gn:longitude":103.57583,
+    "gn:modification_date":"1996-08-28",
+    "gn:name":"Ban Nong Waeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678845,
+        1108731341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1885110
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"6c84ecf0e721ba6dcecd02d89b07eca9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731341,
+            "locality_id":1225802129,
+            "region_id":85678845
+        }
+    ],
+    "wof:id":1225802129,
+    "wof:lastmodified":1537073679,
+    "wof:name":"Ban Nong Waeng",
+    "wof:parent_id":1108731341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.57583,
+    15.66639,
+    103.57583,
+    15.66639
+],
+  "geometry": {"coordinates":[103.57583,15.66639],"type":"Point"}
+}

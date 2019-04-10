@@ -1,0 +1,70 @@
+{
+  "id": 1326884707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.20544,16.06369,102.20544,16.06369",
+    "geom:latitude":16.06369,
+    "geom:longitude":102.20544,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Ban Nong Ruak",
+    "gn:country_code":"TH",
+    "gn:dem":205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8371305,
+    "gn:latitude":16.06369,
+    "gn:longitude":102.20544,
+    "gn:modification_date":"2012-08-06",
+    "gn:name":"Ban Nong Ruak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e19\u0e2d\u0e07\u0e23\u0e27\u0e01"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678825,
+        1108731313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8371305
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"763af321d52e50efcff67ba3ae3d0bc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731313,
+            "locality_id":1326884707,
+            "region_id":85678825
+        }
+    ],
+    "wof:id":1326884707,
+    "wof:lastmodified":1537705516,
+    "wof:name":"Ban Nong Ruak",
+    "wof:parent_id":1108731313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.20544,
+    16.06369,
+    102.20544,
+    16.06369
+],
+  "geometry": {"coordinates":[102.20544,16.06369],"type":"Point"}
+}

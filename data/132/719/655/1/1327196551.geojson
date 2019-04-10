@@ -1,0 +1,73 @@
+{
+  "id": 1327196551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.98856,16.95953,101.98856,16.95953",
+    "geom:latitude":16.95953,
+    "geom:longitude":101.98856,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Sam Khrai",
+    "gn:country_code":"TH",
+    "gn:dem":362,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8039499,
+    "gn:latitude":16.95953,
+    "gn:longitude":101.98856,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Sam Khrai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "Ban Sam Khrai"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e0b\u0e33\u0e44\u0e04\u0e23\u0e49"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678853,
+        890466061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8039499
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"abf962a53aaa30aaf7be3882939d07d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466061,
+            "locality_id":1327196551,
+            "region_id":85678853
+        }
+    ],
+    "wof:id":1327196551,
+    "wof:lastmodified":1537704949,
+    "wof:name":"Ban Sam Khrai",
+    "wof:parent_id":890466061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.98856,
+    16.95952999999999,
+    101.98856,
+    16.95952999999999
+],
+  "geometry": {"coordinates":[101.98856000000001,16.95952999999999],"type":"Point"}
+}

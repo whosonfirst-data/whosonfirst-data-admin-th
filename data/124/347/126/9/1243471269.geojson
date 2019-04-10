@@ -1,0 +1,72 @@
+{
+  "id": 1243471269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.08278,14.39861,99.08278,14.39861",
+    "geom:latitude":14.39861,
+    "geom:longitude":99.08278,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Ban Plai Huai Kaeng Riang",
+    "gn:cc2":"TH",
+    "gn:country_code":"TH",
+    "gn:dem":574,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1155159,
+    "gn:latitude":14.39861,
+    "gn:longitude":99.08278,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Plai Huai Kaeng Riang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Plai Hui Keng Riang",
+        "Ban Plai Huai Kaeng Riang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678663,
+        890466317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1155159
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"0d52c2b98fad0769658b4c979c9c7d36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466317,
+            "locality_id":1243471269,
+            "region_id":85678663
+        }
+    ],
+    "wof:id":1243471269,
+    "wof:lastmodified":1537703098,
+    "wof:name":"Ban Plai Huai Kaeng Riang",
+    "wof:parent_id":890466317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.08278,
+    14.39861,
+    99.08278,
+    14.39861
+],
+  "geometry": {"coordinates":[99.08278,14.39861],"type":"Point"}
+}

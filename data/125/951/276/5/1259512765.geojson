@@ -1,0 +1,70 @@
+{
+  "id": 1259512765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.7145,6.56253,101.7145,6.56253",
+    "geom:latitude":6.56253,
+    "geom:longitude":101.7145,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Ban Ba Se Pu Te",
+    "gn:country_code":"TH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7883056,
+    "gn:latitude":6.56253,
+    "gn:longitude":101.7145,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Ba Se Pu Te",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1b\u0e32\u0e40\u0e0b\u0e1b\u0e39\u0e40\u0e15\u0e4a\u0e30"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678885,
+        890465659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7883056
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"b541ccd166a75de452b5ad2fe429a81a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465659,
+            "locality_id":1259512765,
+            "region_id":85678885
+        }
+    ],
+    "wof:id":1259512765,
+    "wof:lastmodified":1537704836,
+    "wof:name":"Ban Ba Se Pu Te",
+    "wof:parent_id":890465659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.7145,
+    6.56253,
+    101.7145,
+    6.56253
+],
+  "geometry": {"coordinates":[101.7145,6.56253],"type":"Point"}
+}

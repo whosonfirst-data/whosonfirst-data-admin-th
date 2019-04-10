@@ -1,0 +1,75 @@
+{
+  "id": 890466751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-11-10",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.75856,18.41844,98.75856,18.41844",
+    "geom:latitude":18.41844,
+    "geom:longitude":98.75856,
+    "gn:country":"TH",
+    "gn:fcode":"ADM2",
+    "gn:pop":0,
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e40\u0e27\u0e35\u0e22\u0e07\u0e2b\u0e19\u0e2d\u0e07\u0e25\u0e48\u0e2d\u0e07"
+    ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e27\u0e35\u0e22\u0e07\u0e2b\u0e19\u0e2d\u0e07\u0e25\u0e48\u0e2d\u0e07"
+    ],
+    "name:unk_x_variant":[
+        "King Amphoe Wiang Nong Long"
+    ],
+    "qs:name":"Amphoe Wiang Nong Long",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":221,
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7510617,
+        "qs:id":906869,
+        "wd:id":"Q477076",
+        "wk:page":"Wiang Nong Long District"
+    },
+    "wof:country":"TH",
+    "wof:created":1469053591,
+    "wof:geomhash":"f817329e029342de43ba673799705db1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466751,
+            "region_id":85678629
+        }
+    ],
+    "wof:id":890466751,
+    "wof:lastmodified":1527793014,
+    "wof:name":"Amphoe Wiang Nong Long",
+    "wof:parent_id":85678629,
+    "wof:placetype":"county",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.75856,
+    18.41844,
+    98.75856,
+    18.41844
+],
+  "geometry": {"coordinates":[98.75856,18.41844],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1310229917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.51869,15.586,104.51869,15.586",
+    "geom:latitude":15.586,
+    "geom:longitude":104.51869,
+    "gn:admin1_code":"77.0",
+    "gn:asciiname":"Ban Chik Du",
+    "gn:country_code":"TH",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8148020,
+    "gn:latitude":15.586,
+    "gn:longitude":104.51869,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Ban Chik Du",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "Ban Chik Du"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e08\u0e34\u0e01\u0e14\u0e39\u0e48"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678789,
+        1108731289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8148020
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"198aeeed65fe457e25d2d78e8765af69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731289,
+            "locality_id":1310229917,
+            "region_id":85678789
+        }
+    ],
+    "wof:id":1310229917,
+    "wof:lastmodified":1537705028,
+    "wof:name":"Ban Chik Du",
+    "wof:parent_id":1108731289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.51869,
+    15.586,
+    104.51869,
+    15.586
+],
+  "geometry": {"coordinates":[104.51869000000001,15.586],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1343865151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.31297,19.94653,100.31297,19.94653",
+    "geom:latitude":19.94653,
+    "geom:longitude":100.31297,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ban Pa Bong",
+    "gn:country_code":"TH",
+    "gn:dem":386,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1620516,
+    "gn:latitude":19.94653,
+    "gn:longitude":100.31297,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Pa Bong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1b\u0e48\u0e32\u0e1a\u0e07"
+    ],
+    "name:und_x_variant":[
+        "Ban Pong",
+        "Ban Bong",
+        "Ban Pa Bong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678617,
+        1108731417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1620516
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"557b9c62651e4988b023fc45136ae6e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731417,
+            "locality_id":1343865151,
+            "region_id":85678617
+        }
+    ],
+    "wof:id":1343865151,
+    "wof:lastmodified":1537704235,
+    "wof:name":"Ban Pa Bong",
+    "wof:parent_id":1108731417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.31297,
+    19.94653,
+    100.31297,
+    19.94653
+],
+  "geometry": {"coordinates":[100.31297000000001,19.94653],"type":"Point"}
+}

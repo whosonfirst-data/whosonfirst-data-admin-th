@@ -1,0 +1,73 @@
+{
+  "id": 1360302373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.54589,16.3572,104.54589,16.3572",
+    "geom:latitude":16.3572,
+    "geom:longitude":104.54589,
+    "gn:admin1_code":"78.0",
+    "gn:asciiname":"Ban Non Kasem",
+    "gn:country_code":"TH",
+    "gn:dem":194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8036899,
+    "gn:latitude":16.3572,
+    "gn:longitude":104.54589,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Non Kasem",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "Ban Non Kasem"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e42\u0e19\u0e19\u0e40\u0e01\u0e29\u0e21"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678881,
+        1108731593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8036899
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"560a7718969e48d963db18a14f38309c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731593,
+            "locality_id":1360302373,
+            "region_id":85678881
+        }
+    ],
+    "wof:id":1360302373,
+    "wof:lastmodified":1537704937,
+    "wof:name":"Ban Non Kasem",
+    "wof:parent_id":1108731593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.54589,
+    16.3572,
+    104.54589,
+    16.3572
+],
+  "geometry": {"coordinates":[104.54589,16.3572],"type":"Point"}
+}

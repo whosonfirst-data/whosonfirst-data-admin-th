@@ -1,0 +1,70 @@
+{
+  "id": 1277011823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.02858,6.15089,102.02858,6.15089",
+    "geom:latitude":6.15089,
+    "geom:longitude":102.02858,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Ban Plak Pla",
+    "gn:country_code":"TH",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1598812,
+    "gn:latitude":6.15089,
+    "gn:longitude":102.02858,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Plak Pla",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1b\u0e25\u0e31\u0e01\u0e1b\u0e25\u0e32"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678885,
+        890467363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1598812
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"7cf4125159d5adca4c4958d1fecc99b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890467363,
+            "locality_id":1277011823,
+            "region_id":85678885
+        }
+    ],
+    "wof:id":1277011823,
+    "wof:lastmodified":1537703414,
+    "wof:name":"Ban Plak Pla",
+    "wof:parent_id":890467363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.02858,
+    6.15089,
+    102.02858,
+    6.15089
+],
+  "geometry": {"coordinates":[102.02858000000001,6.15089],"type":"Point"}
+}

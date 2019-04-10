@@ -1,0 +1,73 @@
+{
+  "id": 1344274115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.14628,8.08617,100.14628,8.08617",
+    "geom:latitude":8.08617,
+    "geom:longitude":100.14628,
+    "gn:admin1_code":"64.0",
+    "gn:asciiname":"Ban Na Nok",
+    "gn:country_code":"TH",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1118732,
+    "gn:latitude":8.08617,
+    "gn:longitude":100.14628,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Ban Na Nok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e19\u0e32\u0e19\u0e2d\u0e01"
+    ],
+    "name:und_x_variant":[
+        "Ban Na No"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678565,
+        1108731241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1118732
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"f0aba65a59ff265a7300e5a880e3a10d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731241,
+            "locality_id":1344274115,
+            "region_id":85678565
+        }
+    ],
+    "wof:id":1344274115,
+    "wof:lastmodified":1537702959,
+    "wof:name":"Ban Na Nok",
+    "wof:parent_id":1108731241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.14628,
+    8.08617,
+    100.14628,
+    8.08617
+],
+  "geometry": {"coordinates":[100.14628,8.08617],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243197213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.66422,13.42536,99.66422,13.42536",
+    "geom:latitude":13.42536,
+    "geom:longitude":99.66422,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Ban Noen",
+    "gn:country_code":"TH",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8339600,
+    "gn:latitude":13.42536,
+    "gn:longitude":99.66422,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Ban Noen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e19\u0e34\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678761,
+        890467423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8339600
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"4ae2c916ad75b0c58f355f91d1fe1045",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890467423,
+            "locality_id":1243197213,
+            "region_id":85678761
+        }
+    ],
+    "wof:id":1243197213,
+    "wof:lastmodified":1537705429,
+    "wof:name":"Ban Noen",
+    "wof:parent_id":890467423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.66422,
+    13.42536,
+    99.66422,
+    13.42536
+],
+  "geometry": {"coordinates":[99.66422,13.42536],"type":"Point"}
+}

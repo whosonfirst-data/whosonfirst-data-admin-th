@@ -1,0 +1,70 @@
+{
+  "id": 1310530789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.74949,7.50095,99.74949,7.50095",
+    "geom:latitude":7.50095,
+    "geom:longitude":99.74949,
+    "gn:admin1_code":"65.0",
+    "gn:asciiname":"Ban Rai Luang",
+    "gn:country_code":"TH",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1155049,
+    "gn:latitude":7.50095,
+    "gn:longitude":99.74949,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Ban Rai Luang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e44\u0e23\u0e48\u0e2b\u0e25\u0e27\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678609,
+        1108731571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1155049
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"093f81cd36961757f66fd8b3cf0c3dbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731571,
+            "locality_id":1310530789,
+            "region_id":85678609
+        }
+    ],
+    "wof:id":1310530789,
+    "wof:lastmodified":1537703090,
+    "wof:name":"Ban Rai Luang",
+    "wof:parent_id":1108731571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.74949,
+    7.50095,
+    99.74949,
+    7.50095
+],
+  "geometry": {"coordinates":[99.74948999999999,7.50095],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1276789597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.3,9.15,98.3,9.15",
+    "geom:latitude":9.15,
+    "geom:longitude":98.3,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Ban Ko Ha Ya",
+    "gn:country_code":"TH",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1156840,
+    "gn:latitude":9.15,
+    "gn:longitude":98.3,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Ban Ko Ha Ya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Ko Haa",
+        "Ban Ko Ha Ya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678573,
+        1108802629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1156840
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"2cb5487a0585140d09c5f7a82033f2bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802629,
+            "locality_id":1276789597,
+            "region_id":85678573
+        }
+    ],
+    "wof:id":1276789597,
+    "wof:lastmodified":1537703222,
+    "wof:name":"Ban Ko Ha Ya",
+    "wof:parent_id":1108802629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.3,
+    9.15,
+    98.3,
+    9.15
+],
+  "geometry": {"coordinates":[98.3,9.15],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1309680867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.69267,15.8545,102.69267,15.8545",
+    "geom:latitude":15.8545,
+    "geom:longitude":102.69267,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Ban Sok Nok Ten",
+    "gn:country_code":"TH",
+    "gn:dem":198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1598153,
+    "gn:latitude":15.8545,
+    "gn:longitude":102.69267,
+    "gn:modification_date":"2014-04-29",
+    "gn:name":"Ban Sok Nok Ten",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e42\u0e2a\u0e01\u0e19\u0e01\u0e40\u0e15\u0e47\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678827,
+        890465789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1598153
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"5ff65676e3fa112315355a3e49d1a162",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465789,
+            "locality_id":1309680867,
+            "region_id":85678827
+        }
+    ],
+    "wof:id":1309680867,
+    "wof:lastmodified":1537703392,
+    "wof:name":"Ban Sok Nok Ten",
+    "wof:parent_id":890465789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.69267,
+    15.8545,
+    102.69267,
+    15.8545
+],
+  "geometry": {"coordinates":[102.69267000000001,15.8545],"type":"Point"}
+}

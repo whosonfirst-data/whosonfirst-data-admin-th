@@ -1,0 +1,63 @@
+{
+  "id": 890467049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.22472,17.2675,103.22472,17.2675",
+    "geom:latitude":17.2675,
+    "geom:longitude":103.22472,
+    "gn:country":"TH",
+    "gn:fcode":"PPL",
+    "gn:pop":21722,
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Ban Nong Wua So",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1599640,
+        "qs:id":85375
+    },
+    "wof:country":"TH",
+    "wof:created":1469053610,
+    "wof:geomhash":"36801593eb9a1a6e01b7c1d09dcd3c2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "locality_id":890467049,
+            "region_id":85678869
+        }
+    ],
+    "wof:id":890467049,
+    "wof:lastmodified":1505343709,
+    "wof:name":"Ban Nong Wua So",
+    "wof:parent_id":85678869,
+    "wof:placetype":"locality",
+    "wof:population":21722,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.22472,
+    17.2675,
+    103.22472,
+    17.2675
+],
+  "geometry": {"coordinates":[103.22472,17.2675],"type":"Point"}
+}

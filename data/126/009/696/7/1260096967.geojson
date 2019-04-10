@@ -1,0 +1,70 @@
+{
+  "id": 1260096967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.98514,14.70683,104.98514,14.70683",
+    "geom:latitude":14.70683,
+    "geom:longitude":104.98514,
+    "gn:admin1_code":"75.0",
+    "gn:asciiname":"Ban Huai Samran",
+    "gn:country_code":"TH",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8317265,
+    "gn:latitude":14.70683,
+    "gn:longitude":104.98514,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Ban Huai Samran",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e49\u0e27\u0e22\u0e2a\u0e33\u0e23\u0e32\u0e0d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678783,
+        1108731269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8317265
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"b53eaef8f0d497c9c60b6e444d1af855",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731269,
+            "locality_id":1260096967,
+            "region_id":85678783
+        }
+    ],
+    "wof:id":1260096967,
+    "wof:lastmodified":1537705325,
+    "wof:name":"Ban Huai Samran",
+    "wof:parent_id":1108731269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.98514,
+    14.70683,
+    104.98514,
+    14.70683
+],
+  "geometry": {"coordinates":[104.98514,14.70683],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1343586129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.96006,13.56167,100.96006,13.56167",
+    "geom:latitude":13.56167,
+    "geom:longitude":100.96006,
+    "gn:admin1_code":"44.0",
+    "gn:asciiname":"Ban Wang Suea Yai",
+    "gn:country_code":"TH",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7099943,
+    "gn:latitude":13.56167,
+    "gn:longitude":100.96006,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Wang Suea Yai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e27\u0e31\u0e07\u0e40\u0e2a\u0e37\u0e2d\u0e43\u0e2b\u0e0d\u0e48"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678797,
+        1108802587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7099943
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"f4b3ea8609393849f4d28de923167e0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802587,
+            "locality_id":1343586129,
+            "region_id":85678797
+        }
+    ],
+    "wof:id":1343586129,
+    "wof:lastmodified":1537704440,
+    "wof:name":"Ban Wang Suea Yai",
+    "wof:parent_id":1108802587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.96006,
+    13.56167,
+    100.96006,
+    13.56167
+],
+  "geometry": {"coordinates":[100.96006,13.56167],"type":"Point"}
+}

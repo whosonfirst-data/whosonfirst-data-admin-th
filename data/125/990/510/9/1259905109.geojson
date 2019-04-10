@@ -1,0 +1,70 @@
+{
+  "id": 1259905109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.92197,6.02017,101.92197,6.02017",
+    "geom:latitude":6.02017,
+    "geom:longitude":101.92197,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Ban Kue Bong Ka Mae",
+    "gn:country_code":"TH",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7000299,
+    "gn:latitude":6.02017,
+    "gn:longitude":101.92197,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ban Kue Bong Ka Mae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e01\u0e37\u0e2d\u0e1a\u0e07\u0e01\u0e32\u0e41\u0e21"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678885,
+        890466217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7000299
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"005a54684003d3b9d7ab6a331b71056b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466217,
+            "locality_id":1259905109,
+            "region_id":85678885
+        }
+    ],
+    "wof:id":1259905109,
+    "wof:lastmodified":1537704375,
+    "wof:name":"Ban Kue Bong Ka Mae",
+    "wof:parent_id":890466217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.92197,
+    6.02017,
+    101.92197,
+    6.02017
+],
+  "geometry": {"coordinates":[101.92197,6.02017],"type":"Point"}
+}

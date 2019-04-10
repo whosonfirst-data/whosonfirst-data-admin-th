@@ -1,0 +1,75 @@
+{
+  "id": 890466581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.2985,7.84769,98.2985,7.84769",
+    "geom:latitude":7.84769,
+    "geom:longitude":98.2985,
+    "gn:country":"TH",
+    "gn:fcode":"PPL",
+    "gn:pop":7094,
+    "gp:adm0":23424960,
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Ka Rorn"
+    ],
+    "qs:name":"Ban Karon",
+    "qs:name_adm0":"Thailand",
+    "qs:name_adm1":"Phuket",
+    "qs:photos":5000,
+    "qs:photos_1k":1000,
+    "qs:photos_9k":22,
+    "qs:photos_9r":14,
+    "qs:photos_all":5000,
+    "qs:photos_sr":24,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1157249,
+        "gp:id":1205620,
+        "qs:id":484809
+    },
+    "wof:country":"TH",
+    "wof:created":1469053585,
+    "wof:geomhash":"761bb00ec29cfd49b744c55ea60af94a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "locality_id":890466581,
+            "region_id":85678567
+        }
+    ],
+    "wof:id":890466581,
+    "wof:lastmodified":1505343707,
+    "wof:name":"Ban Karon",
+    "wof:parent_id":85678567,
+    "wof:placetype":"locality",
+    "wof:population":7094,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.2985,
+    7.84769,
+    98.2985,
+    7.84769
+],
+  "geometry": {"coordinates":[98.2985,7.84769],"type":"Point"}
+}

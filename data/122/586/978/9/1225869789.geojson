@@ -1,0 +1,70 @@
+{
+  "id": 1225869789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.05583,13.52656,101.05583,13.52656",
+    "geom:latitude":13.52656,
+    "geom:longitude":101.05583,
+    "gn:admin1_code":"44.0",
+    "gn:asciiname":"Ban Si Samet",
+    "gn:country_code":"TH",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7853782,
+    "gn:latitude":13.52656,
+    "gn:longitude":101.05583,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Si Samet",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e28\u0e23\u0e35\u0e40\u0e2a\u0e21\u0e47\u0e14"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678797,
+        1108802587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7853782
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"2c234525e8b37f114bf7326a81316fa5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802587,
+            "locality_id":1225869789,
+            "region_id":85678797
+        }
+    ],
+    "wof:id":1225869789,
+    "wof:lastmodified":1537704738,
+    "wof:name":"Ban Si Samet",
+    "wof:parent_id":1108802587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.05583,
+    13.52656,
+    101.05583,
+    13.52656
+],
+  "geometry": {"coordinates":[101.05583,13.52656],"type":"Point"}
+}

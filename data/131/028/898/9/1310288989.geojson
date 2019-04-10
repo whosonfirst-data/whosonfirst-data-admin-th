@@ -1,0 +1,70 @@
+{
+  "id": 1310288989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.67861,17.27825,99.67861,17.27825",
+    "geom:latitude":17.27825,
+    "geom:longitude":99.67861,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ban Tha Wiset",
+    "gn:country_code":"TH",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1117481,
+    "gn:latitude":17.27825,
+    "gn:longitude":99.67861,
+    "gn:modification_date":"2012-11-07",
+    "gn:name":"Ban Tha Wiset",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e17\u0e48\u0e32\u0e27\u0e34\u0e40\u0e28\u0e29"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678651,
+        1108732025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1117481
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"7f6f37980c114334c599f57e35bad155",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108732025,
+            "locality_id":1310288989,
+            "region_id":85678651
+        }
+    ],
+    "wof:id":1310288989,
+    "wof:lastmodified":1537702916,
+    "wof:name":"Ban Tha Wiset",
+    "wof:parent_id":1108732025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.67861,
+    17.27825,
+    99.67861,
+    17.27825
+],
+  "geometry": {"coordinates":[99.67861000000001,17.27825],"type":"Point"}
+}

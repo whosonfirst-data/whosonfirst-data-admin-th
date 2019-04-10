@@ -1,0 +1,73 @@
+{
+  "id": 1259700549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.69036,16.76514,104.69036,16.76514",
+    "geom:latitude":16.76514,
+    "geom:longitude":104.69036,
+    "gn:admin1_code":"78.0",
+    "gn:asciiname":"Ban Na Tabaeng",
+    "gn:country_code":"TH",
+    "gn:dem":167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8037255,
+    "gn:latitude":16.76514,
+    "gn:longitude":104.69036,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Na Tabaeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "Ban Na Tabaeng"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e19\u0e32\u0e15\u0e30\u0e41\u0e1a\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678881,
+        890467231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8037255
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"67fc82637e8f1a9a70a4286c4a9fe6ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890467231,
+            "locality_id":1259700549,
+            "region_id":85678881
+        }
+    ],
+    "wof:id":1259700549,
+    "wof:lastmodified":1537704944,
+    "wof:name":"Ban Na Tabaeng",
+    "wof:parent_id":890467231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.69036,
+    16.76514,
+    104.69036,
+    16.76514
+],
+  "geometry": {"coordinates":[104.69036,16.76514],"type":"Point"}
+}

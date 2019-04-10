@@ -1,0 +1,70 @@
+{
+  "id": 1343905421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.99714,15.09472,101.99714,15.09472",
+    "geom:latitude":15.09472,
+    "geom:longitude":101.99714,
+    "gn:admin1_code":"27",
+    "gn:asciiname":"Ban Nong Pradu",
+    "gn:country_code":"TH",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9107944,
+    "gn:latitude":15.09472,
+    "gn:longitude":101.99714,
+    "gn:modification_date":"2014-06-07",
+    "gn:name":"Ban Nong Pradu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e19\u0e2d\u0e07\u0e1b\u0e23\u0e30\u0e14\u0e39\u0e48"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678841,
+        1108731607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9107944
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"668f05e896fd8301a0261a64f7d79732",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731607,
+            "locality_id":1343905421,
+            "region_id":85678841
+        }
+    ],
+    "wof:id":1343905421,
+    "wof:lastmodified":1537706178,
+    "wof:name":"Ban Nong Pradu",
+    "wof:parent_id":1108731607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.99714,
+    15.09472,
+    101.99714,
+    15.09472
+],
+  "geometry": {"coordinates":[101.99714,15.09472],"type":"Point"}
+}

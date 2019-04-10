@@ -1,0 +1,74 @@
+{
+  "id": 1226663165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.27281,13.59322,100.27281,13.59322",
+    "geom:latitude":13.59322,
+    "geom:longitude":100.27281,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Ban Khlong Chek",
+    "gn:country_code":"TH",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1618348,
+    "gn:latitude":13.59322,
+    "gn:longitude":100.27281,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Khlong Chek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e04\u0e25\u0e2d\u0e07\u0e40\u0e08\u0e4a\u0e01"
+    ],
+    "name:und_x_variant":[
+        "Ban Klong Chek",
+        "Ban Khlong Chek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678771,
+        890467239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1618348
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"88b1d77c1e90f5448e1e86e754c28853",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890467239,
+            "locality_id":1226663165,
+            "region_id":85678771
+        }
+    ],
+    "wof:id":1226663165,
+    "wof:lastmodified":1537704116,
+    "wof:name":"Ban Khlong Chek",
+    "wof:parent_id":890467239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.27281,
+    13.59322,
+    100.27281,
+    13.59322
+],
+  "geometry": {"coordinates":[100.27281000000001,13.59322],"type":"Point"}
+}

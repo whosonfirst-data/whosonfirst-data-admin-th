@@ -1,0 +1,79 @@
+{
+  "id": 890467195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.10265,13.79751,100.10265,13.79751",
+    "geom:latitude":13.79751,
+    "geom:longitude":100.10265,
+    "gn:country":"TH",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424960,
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e01\u0e32\u0e30\u0e28\u0e23\u0e35\u0e08\u0e31\u0e19\u0e17\u0e23\u0e4c"
+    ],
+    "name:unk_x_variant":[
+        "Ban Ko Si Chan"
+    ],
+    "qs:name":"Ko Si Chang",
+    "qs:name_adm0":"Thailand",
+    "qs:name_adm1":"Chon Buri",
+    "qs:photos":683,
+    "qs:photos_1k":138,
+    "qs:photos_9k":3,
+    "qs:photos_9r":5,
+    "qs:photos_all":683,
+    "qs:photos_sr":8,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678747,
+        1108802671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1617419,
+        "gp:id":1225443,
+        "qs:id":188699
+    },
+    "wof:country":"TH",
+    "wof:created":1469053619,
+    "wof:geomhash":"04841b09283e9b94f730e1fd28834d42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802671,
+            "locality_id":890467195,
+            "region_id":85678747
+        }
+    ],
+    "wof:id":890467195,
+    "wof:lastmodified":1505343709,
+    "wof:name":"Ko Si Chang",
+    "wof:parent_id":1108802671,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.10265,
+    13.79751,
+    100.10265,
+    13.79751
+],
+  "geometry": {"coordinates":[100.10265,13.79751],"type":"Point"}
+}

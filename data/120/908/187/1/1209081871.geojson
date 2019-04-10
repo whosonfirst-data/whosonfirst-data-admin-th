@@ -1,0 +1,67 @@
+{
+  "id": 1209081871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.00867,18.13008,102.00867,18.13008",
+    "geom:latitude":18.13008,
+    "geom:longitude":102.00867,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Pak Mang",
+    "gn:country_code":"TH",
+    "gn:dem":199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1599278,
+    "gn:latitude":18.13008,
+    "gn:longitude":102.00867,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Pak Mang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1b\u0e32\u0e01\u0e21\u0e31\u0e48\u0e07"
+    ],
+    "name:und_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1b\u0e32\u0e01\u0e21\u0e31\u0e48\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1599278
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"f5ec4c50f52dcadfb7a54de060a96758",
+    "wof:hierarchy":[
+        {
+            "country_id":85632293,
+            "locality_id":1209081871
+        }
+    ],
+    "wof:id":1209081871,
+    "wof:lastmodified":1537703430,
+    "wof:name":"Ban Pak Mang",
+    "wof:parent_id":85632293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.00867,
+    18.13008,
+    102.00867,
+    18.13008
+],
+  "geometry": {"coordinates":[102.00867,18.13008],"type":"Point"}
+}

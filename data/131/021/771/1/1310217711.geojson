@@ -1,0 +1,70 @@
+{
+  "id": 1310217711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.357,18.87831,99.357,18.87831",
+    "geom:latitude":18.87831,
+    "geom:longitude":99.357,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Pang Saen Phap",
+    "gn:country_code":"TH",
+    "gn:dem":1004,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8277964,
+    "gn:latitude":18.87831,
+    "gn:longitude":99.357,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Ban Pang Saen Phap",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1b\u0e32\u0e07\u0e41\u0e2a\u0e19\u0e20\u0e32\u0e1e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678619,
+        1108731841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8277964
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"ad06324ec45d91510237a602f59a5983",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731841,
+            "locality_id":1310217711,
+            "region_id":85678619
+        }
+    ],
+    "wof:id":1310217711,
+    "wof:lastmodified":1537705297,
+    "wof:name":"Ban Pang Saen Phap",
+    "wof:parent_id":1108731841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.357,
+    18.87831,
+    99.357,
+    18.87831
+],
+  "geometry": {"coordinates":[99.357,18.87831],"type":"Point"}
+}

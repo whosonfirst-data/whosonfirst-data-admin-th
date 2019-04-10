@@ -1,0 +1,70 @@
+{
+  "id": 1259896717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.07544,14.27825,101.07544,14.27825",
+    "geom:latitude":14.27825,
+    "geom:longitude":101.07544,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Ban Khok Prasoet",
+    "gn:country_code":"TH",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8773460,
+    "gn:latitude":14.27825,
+    "gn:longitude":101.07544,
+    "gn:modification_date":"2014-04-08",
+    "gn:name":"Ban Khok Prasoet",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e42\u0e04\u0e01\u0e1b\u0e23\u0e30\u0e40\u0e2a\u0e23\u0e34\u0e10"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678705,
+        1108731143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8773460
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"093b28b2ff39edd2c381b811e6e0ce08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731143,
+            "locality_id":1259896717,
+            "region_id":85678705
+        }
+    ],
+    "wof:id":1259896717,
+    "wof:lastmodified":1537706060,
+    "wof:name":"Ban Khok Prasoet",
+    "wof:parent_id":1108731143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.07544,
+    14.27825,
+    101.07544,
+    14.27825
+],
+  "geometry": {"coordinates":[101.07544,14.27825],"type":"Point"}
+}

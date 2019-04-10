@@ -1,0 +1,70 @@
+{
+  "id": 1226080853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.26,8.17806,100.26,8.17806",
+    "geom:latitude":8.17806,
+    "geom:longitude":100.26,
+    "gn:admin1_code":"64.0",
+    "gn:asciiname":"Ban Bang Khan Thong",
+    "gn:country_code":"TH",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8242062,
+    "gn:latitude":8.17806,
+    "gn:longitude":100.26,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Ban Bang Khan Thong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1a\u0e32\u0e07\u0e04\u0e31\u0e19\u0e18\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678565,
+        1108731673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8242062
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"d3ad19ccd1c18a61ffb05b338c12cb75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731673,
+            "locality_id":1226080853,
+            "region_id":85678565
+        }
+    ],
+    "wof:id":1226080853,
+    "wof:lastmodified":1537705240,
+    "wof:name":"Ban Bang Khan Thong",
+    "wof:parent_id":1108731673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.26,
+    8.17806,
+    100.26,
+    8.17806
+],
+  "geometry": {"coordinates":[100.26000000000001,8.17806],"type":"Point"}
+}

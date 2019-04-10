@@ -1,0 +1,73 @@
+{
+  "id": 1344132579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.09742,17.16872,101.09742,17.16872",
+    "geom:latitude":17.16872,
+    "geom:longitude":101.09742,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Hua Na",
+    "gn:country_code":"TH",
+    "gn:dem":769,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8039295,
+    "gn:latitude":17.16872,
+    "gn:longitude":101.09742,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Hua Na",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "Ban Hua Na"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e31\u0e27\u0e19\u0e32"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678853,
+        1108802605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8039295
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"9d95421d50f840be392182107ddc115c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802605,
+            "locality_id":1344132579,
+            "region_id":85678853
+        }
+    ],
+    "wof:id":1344132579,
+    "wof:lastmodified":1537704947,
+    "wof:name":"Ban Hua Na",
+    "wof:parent_id":1108802605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.09742,
+    17.16872,
+    101.09742,
+    17.16872
+],
+  "geometry": {"coordinates":[101.09742,17.16872],"type":"Point"}
+}

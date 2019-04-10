@@ -1,0 +1,72 @@
+{
+  "id": 890466125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.15,15.71667,100.15,15.71667",
+    "geom:latitude":15.71667,
+    "geom:longitude":100.15,
+    "gn:country":"TH",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424960,
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Amphu Paknam Po"
+    ],
+    "qs:name":"Ban Pak Nam Pho",
+    "qs:name_adm0":"Thailand",
+    "qs:name_adm1":"Nakhon Sawan",
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1614603,
+        "gp:id":1217066,
+        "qs:id":321696
+    },
+    "wof:country":"TH",
+    "wof:created":1469053566,
+    "wof:geomhash":"252550f242d976baa38ce0b0940667fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "locality_id":890466125,
+            "region_id":85678715
+        }
+    ],
+    "wof:id":890466125,
+    "wof:lastmodified":1505343706,
+    "wof:name":"Ban Pak Nam Pho",
+    "wof:parent_id":85678715,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.15,
+    15.71667,
+    100.15,
+    15.71667
+],
+  "geometry": {"coordinates":[100.15000000000001,15.71667],"type":"Point"}
+}

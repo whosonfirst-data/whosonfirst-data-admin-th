@@ -1,0 +1,70 @@
+{
+  "id": 1344081775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.94956,12.93736,99.94956,12.93736",
+    "geom:latitude":12.93736,
+    "geom:longitude":99.94956,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"Ban Nong Khang",
+    "gn:country_code":"TH",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8540212,
+    "gn:latitude":12.93736,
+    "gn:longitude":99.94956,
+    "gn:modification_date":"2013-06-06",
+    "gn:name":"Ban Nong Khang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e19\u0e2d\u0e07\u0e04\u0e32\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678753,
+        890466431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8540212
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"b7069ee94a0ca6ec012307f0588b2556",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466431,
+            "locality_id":1344081775,
+            "region_id":85678753
+        }
+    ],
+    "wof:id":1344081775,
+    "wof:lastmodified":1537705693,
+    "wof:name":"Ban Nong Khang",
+    "wof:parent_id":890466431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.94956,
+    12.93736,
+    99.94956,
+    12.93736
+],
+  "geometry": {"coordinates":[99.94956000000001,12.93736],"type":"Point"}
+}

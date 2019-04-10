@@ -1,0 +1,75 @@
+{
+  "id": 1309984543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.41889,17.544,100.41889,17.544",
+    "geom:latitude":17.544,
+    "geom:longitude":100.41889,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Ban Phak Khuang",
+    "gn:country_code":"TH",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1614355,
+    "gn:latitude":17.544,
+    "gn:longitude":100.41889,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Phak Khuang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1c\u0e31\u0e01\u0e02\u0e27\u0e07"
+    ],
+    "name:und_x_variant":[
+        "Phakkhw\u0101ng",
+        "Ban Phak Kuang",
+        "Ban Phak Khuang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678657,
+        1108732019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1614355
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"8b4a57c959f2e1260f2a5d8573cb6471",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108732019,
+            "locality_id":1309984543,
+            "region_id":85678657
+        }
+    ],
+    "wof:id":1309984543,
+    "wof:lastmodified":1537703837,
+    "wof:name":"Ban Phak Khuang",
+    "wof:parent_id":1108732019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.41889,
+    17.544,
+    100.41889,
+    17.544
+],
+  "geometry": {"coordinates":[100.41889,17.544],"type":"Point"}
+}

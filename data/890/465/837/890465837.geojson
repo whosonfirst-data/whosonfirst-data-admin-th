@@ -1,0 +1,119 @@
+{
+  "id": 890465837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000613,
+    "geom:area_square_m":7363978.272424,
+    "geom:bbox":"100.521890362,13.7422555416,100.55964362,13.7696135537",
+    "geom:latitude":13.754278,
+    "geom:longitude":100.541223,
+    "gn:country":"TH",
+    "gn:fcode":"ADM2",
+    "gn:pop":0,
+    "iso:country":"TH",
+    "lbl:latitude":13.754578,
+    "lbl:longitude":100.541595,
+    "meso:admin1_en":"KRUNG THEP",
+    "meso:diss_me":"RatthewiKRUNG THEP",
+    "meso:gadm_admin":"Ratchathewi",
+    "meso:gadm_hasc2":"TH.BM.RT",
+    "meso:gaul_admin":"Ratthewi",
+    "meso:id":"599",
+    "meso:loc_id_alt":"1037",
+    "meso:local_id":"3237",
+    "meso:mps_x":100.541595,
+    "meso:mps_y":13.754578,
+    "meso:name_en":"Ratthewi",
+    "meso:name_local":"\u0e40\u0e02\u0e15\u0e23\u0e32\u0e0a\u0e40\u0e17\u0e27\u0e35",
+    "meso:source":"AOTM",
+    "mps:latitude":13.754578,
+    "mps:longitude":100.541595,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Ratchathewi"
+    ],
+    "name:eng_x_variant":[
+        "Ratthewi",
+        "Ratchathewi"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e02\u0e15\u0e23\u0e32\u0e0a\u0e40\u0e17\u0e27\u0e35"
+    ],
+    "name:tha_x_variant":[
+        "\u0e23\u0e32\u0e0a\u0e40\u0e17\u0e27\u0e35",
+        "\u0e40\u0e02\u0e15\u0e23\u0e32\u0e0a\u0e40\u0e17\u0e27\u0e35"
+    ],
+    "name:unk_x_variant":[
+        "Khet Ratchathewi"
+    ],
+    "qs:name":"Khet Ratchathewi",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"0",
+    "src:geom":"unknown",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2000-04-01",
+    "statoids:area_km":"7",
+    "statoids:as_of_date":"2000-04-01",
+    "statoids:capital":"",
+    "statoids:country":"TH",
+    "statoids:hasc":"TH.BM",
+    "statoids:name":"Ratchathewi",
+    "statoids:population":"119574",
+    "statoids:statoid":"TH.BM.RT",
+    "statoids:timezone":"7",
+    "statoids:type":"district",
+    "wd:wordcount":693,
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6845022,
+        "hasc:id":"TH.BM.RT",
+        "qs:id":1153746,
+        "wd:id":"Q999170",
+        "wk:page":"Ratchathewi District"
+    },
+    "wof:country":"TH",
+    "wof:created":1469053538,
+    "wof:geomhash":"b3f892bbc4e78ae403878021ba034cba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465837,
+            "region_id":85678739
+        }
+    ],
+    "wof:id":890465837,
+    "wof:lastmodified":1536617417,
+    "wof:name":"Ratthewi",
+    "wof:parent_id":85678739,
+    "wof:placetype":"county",
+    "wof:placetype_local":"district",
+    "wof:population":119574,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:shortcode":"RT",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.52189036245034,
+    13.74225554157001,
+    100.55964362026417,
+    13.76961355373373
+],
+  "geometry": {"coordinates":[[[100.53586979493588,13.76961355373373],[100.54298650669931,13.76570483671815],[100.55200427725418,13.76283829384592],[100.55212944323323,13.7623150544406],[100.55838259973335,13.75446036895239],[100.55964362026417,13.75070079307755],[100.55952556839215,13.74977591114443],[100.55827901533731,13.7483594756751],[100.54062425959489,13.74235713981296],[100.5405409865694,13.74225554157001],[100.52189036245034,13.74574879648783],[100.53115998934338,13.75776500180613],[100.53015325808164,13.76595167448346],[100.53465620232616,13.76879527011249],[100.53586979493588,13.76961355373373]]],"type":"Polygon"}
+}

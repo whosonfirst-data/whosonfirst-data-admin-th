@@ -1,0 +1,70 @@
+{
+  "id": 1226489415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.91361,15.04533,102.91361,15.04533",
+    "geom:latitude":15.04533,
+    "geom:longitude":102.91361,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Ban Thamen Chai Song",
+    "gn:country_code":"TH",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9284919,
+    "gn:latitude":15.04533,
+    "gn:longitude":102.91361,
+    "gn:modification_date":"2014-08-07",
+    "gn:name":"Ban Thamen Chai Song",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e17\u0e30\u0e40\u0e21\u0e19\u0e0a\u0e31\u0e22\u0e2a\u0e2d\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678817,
+        1108731457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9284919
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"db872ac0f9c106bf671822028bbd3e03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731457,
+            "locality_id":1226489415,
+            "region_id":85678817
+        }
+    ],
+    "wof:id":1226489415,
+    "wof:lastmodified":1537706272,
+    "wof:name":"Ban Thamen Chai Song",
+    "wof:parent_id":1108731457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.91361,
+    15.04533,
+    102.91361,
+    15.04533
+],
+  "geometry": {"coordinates":[102.91361000000001,15.04533],"type":"Point"}
+}

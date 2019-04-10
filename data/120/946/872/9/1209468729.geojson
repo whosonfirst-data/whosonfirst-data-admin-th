@@ -1,0 +1,69 @@
+{
+  "id": 1209468729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.36069,15.46183,101.36069,15.46183",
+    "geom:latitude":15.46183,
+    "geom:longitude":101.36069,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Ban Kut Ta Phet",
+    "gn:country_code":"TH",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1601552,
+    "gn:latitude":15.46183,
+    "gn:longitude":101.36069,
+    "gn:modification_date":"2014-07-08",
+    "gn:name":"Ban Kut Ta Phet",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e01\u0e38\u0e14\u0e15\u0e32\u0e40\u0e1e\u0e0a\u0e23"
+    ],
+    "name:und_x_variant":[
+        "Ban Ut Taphet",
+        "Ban Mai Kut Taphet",
+        "Ban Kut Ta Phet"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1601552
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"5f3d1f264a4e957db38f09b882b86ba1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632293,
+            "locality_id":1209468729
+        }
+    ],
+    "wof:id":1209468729,
+    "wof:lastmodified":1537703516,
+    "wof:name":"Ban Kut Ta Phet",
+    "wof:parent_id":85632293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.36069,
+    15.46183,
+    101.36069,
+    15.46183
+],
+  "geometry": {"coordinates":[101.36069000000001,15.46183],"type":"Point"}
+}

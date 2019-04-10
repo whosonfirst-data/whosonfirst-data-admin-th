@@ -1,0 +1,71 @@
+{
+  "id": 1243109689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.39114,13.59711,100.39114,13.59711",
+    "geom:latitude":13.59711,
+    "geom:longitude":100.39114,
+    "gn:admin1_code":"40.0",
+    "gn:admin2_code":"1021.0",
+    "gn:asciiname":"Muban Sirinda",
+    "gn:country_code":"TH",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7503950,
+    "gn:latitude":13.59711,
+    "gn:longitude":100.39114,
+    "gn:modification_date":"2017-03-23",
+    "gn:name":"Muban Sirinda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e2b\u0e21\u0e39\u0e48\u0e1a\u0e49\u0e32\u0e19\u0e2a\u0e34\u0e23\u0e34\u0e19\u0e14\u0e32"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678739,
+        890466313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7503950
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"ff17feb7bf4ec66482086e7e4595f37c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466313,
+            "locality_id":1243109689,
+            "region_id":85678739
+        }
+    ],
+    "wof:id":1243109689,
+    "wof:lastmodified":1537704519,
+    "wof:name":"Muban Sirinda",
+    "wof:parent_id":890466313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.39114,
+    13.59711,
+    100.39114,
+    13.59711
+],
+  "geometry": {"coordinates":[100.39113999999999,13.59711],"type":"Point"}
+}

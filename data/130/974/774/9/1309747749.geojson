@@ -1,0 +1,70 @@
+{
+  "id": 1309747749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.68722,13.83131,101.68722,13.83131",
+    "geom:latitude":13.83131,
+    "geom:longitude":101.68722,
+    "gn:admin1_code":"74",
+    "gn:asciiname":"Ban Prong Chang Thaeng",
+    "gn:country_code":"TH",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8749395,
+    "gn:latitude":13.83131,
+    "gn:longitude":101.68722,
+    "gn:modification_date":"2014-04-08",
+    "gn:name":"Ban Prong Chang Thaeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e42\u0e1b\u0e23\u0e48\u0e07\u0e0a\u0e49\u0e32\u0e07\u0e41\u0e17\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678711,
+        1108731305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8749395
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"e7fd253e2a721b03d16ecb4edaa95405",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731305,
+            "locality_id":1309747749,
+            "region_id":85678711
+        }
+    ],
+    "wof:id":1309747749,
+    "wof:lastmodified":1537706034,
+    "wof:name":"Ban Prong Chang Thaeng",
+    "wof:parent_id":1108731305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.68722,
+    13.83131,
+    101.68722,
+    13.83131
+],
+  "geometry": {"coordinates":[101.68722,13.83131],"type":"Point"}
+}

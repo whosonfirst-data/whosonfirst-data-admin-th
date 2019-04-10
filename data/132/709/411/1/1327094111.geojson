@@ -1,0 +1,67 @@
+{
+  "id": 1327094111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.08333,14.95,100.08333,14.95",
+    "geom:latitude":14.95,
+    "geom:longitude":100.08333,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Ban Samae San",
+    "gn:country_code":"TH",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1598459,
+    "gn:latitude":14.95,
+    "gn:longitude":100.08333,
+    "gn:modification_date":"1994-04-10",
+    "gn:name":"Ban Samae San",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678679,
+        1108731271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1598459
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"b382df0173a3913577016d9002cfdfa1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731271,
+            "locality_id":1327094111,
+            "region_id":85678679
+        }
+    ],
+    "wof:id":1327094111,
+    "wof:lastmodified":1536671517,
+    "wof:name":"Ban Samae San",
+    "wof:parent_id":1108731271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.08333,
+    14.95,
+    100.08333,
+    14.95
+],
+  "geometry": {"coordinates":[100.08333,14.95],"type":"Point"}
+}

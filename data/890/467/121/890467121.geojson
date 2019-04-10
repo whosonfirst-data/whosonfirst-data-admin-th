@@ -1,0 +1,80 @@
+{
+  "id": 890467121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.07988,13.02365,100.07988,13.02365",
+    "geom:latitude":13.02365,
+    "geom:longitude":100.07988,
+    "gn:country":"TH",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424960,
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e41\u0e2b\u0e25\u0e21\u0e1c\u0e31\u0e01\u0e40\u0e1a\u0e35\u0e49\u0e22"
+    ],
+    "name:unk_x_variant":[
+        "Laem Phak Bia"
+    ],
+    "qs:name":"Ban Laem Phak Bia (1)",
+    "qs:name_adm0":"Thailand",
+    "qs:name_adm1":"Phetchaburi",
+    "qs:photos":124,
+    "qs:photos_1k":25,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":124,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":153,
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1617194,
+        "gp:id":1209165,
+        "qs:id":316622,
+        "wd:id":"Q475119",
+        "wk:page":"Ban Laem District"
+    },
+    "wof:country":"TH",
+    "wof:created":1469053613,
+    "wof:geomhash":"efd3d35e06d712da6794c8d19bf1c4fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "locality_id":890467121,
+            "region_id":85678753
+        }
+    ],
+    "wof:id":890467121,
+    "wof:lastmodified":1527792897,
+    "wof:name":"Ban Laem Phak Bia (1)",
+    "wof:parent_id":85678753,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.07988,
+    13.02365,
+    100.07988,
+    13.02365
+],
+  "geometry": {"coordinates":[100.07988,13.02365],"type":"Point"}
+}

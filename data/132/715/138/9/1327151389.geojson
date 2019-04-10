@@ -1,0 +1,70 @@
+{
+  "id": 1327151389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.38036,7.17117,100.38036,7.17117",
+    "geom:latitude":7.17117,
+    "geom:longitude":100.38036,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Ban Thung Pap",
+    "gn:country_code":"TH",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7884773,
+    "gn:latitude":7.17117,
+    "gn:longitude":100.38036,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Thung Pap",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e17\u0e38\u0e48\u0e07\u0e1b\u0e32\u0e1a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678603,
+        1108731405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7884773
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"34906fd3f82d1f3da69f37ac5332846c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731405,
+            "locality_id":1327151389,
+            "region_id":85678603
+        }
+    ],
+    "wof:id":1327151389,
+    "wof:lastmodified":1537704842,
+    "wof:name":"Ban Thung Pap",
+    "wof:parent_id":1108731405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.38036,
+    7.17117,
+    100.38036,
+    7.17117
+],
+  "geometry": {"coordinates":[100.38036,7.17117],"type":"Point"}
+}

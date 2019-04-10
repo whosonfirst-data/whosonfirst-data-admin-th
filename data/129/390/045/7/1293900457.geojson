@@ -1,0 +1,73 @@
+{
+  "id": 1293900457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.83372,13.30847,99.83372,13.30847",
+    "geom:latitude":13.30847,
+    "geom:longitude":99.83372,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"Ban Ka Chap",
+    "gn:country_code":"TH",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1158332,
+    "gn:latitude":13.30847,
+    "gn:longitude":99.83372,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Ban Ka Chap",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e01\u0e32\u0e08\u0e31\u0e1a"
+    ],
+    "name:und_x_variant":[
+        "Ban Bang Ka Chap"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678753,
+        890466429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1158332
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"61d6b52a8d96b971163371a24570613d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466429,
+            "locality_id":1293900457,
+            "region_id":85678753
+        }
+    ],
+    "wof:id":1293900457,
+    "wof:lastmodified":1537703314,
+    "wof:name":"Ban Ka Chap",
+    "wof:parent_id":890466429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.83372,
+    13.30847,
+    99.83372,
+    13.30847
+],
+  "geometry": {"coordinates":[99.83372,13.30847],"type":"Point"}
+}

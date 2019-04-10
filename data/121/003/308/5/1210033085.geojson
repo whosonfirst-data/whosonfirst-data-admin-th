@@ -1,0 +1,70 @@
+{
+  "id": 1210033085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.91617,19.17542,99.91617,19.17542",
+    "geom:latitude":19.17542,
+    "geom:longitude":99.91617,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Ban Huai Nam Khao",
+    "gn:country_code":"TH",
+    "gn:dem":404,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8332178,
+    "gn:latitude":19.17542,
+    "gn:longitude":99.91617,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Ban Huai Nam Khao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e49\u0e27\u0e22\u0e19\u0e49\u0e33\u0e02\u0e32\u0e27"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678637,
+        890467463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8332178
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"df75e17a4bfec5b15dcaa28420b66296",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890467463,
+            "locality_id":1210033085,
+            "region_id":85678637
+        }
+    ],
+    "wof:id":1210033085,
+    "wof:lastmodified":1537705402,
+    "wof:name":"Ban Huai Nam Khao",
+    "wof:parent_id":890467463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.91617,
+    19.17542000000001,
+    99.91617,
+    19.17542000000001
+],
+  "geometry": {"coordinates":[99.91616999999999,19.17542000000001],"type":"Point"}
+}

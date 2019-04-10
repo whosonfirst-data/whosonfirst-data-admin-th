@@ -1,0 +1,73 @@
+{
+  "id": 1260105161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.69658,13.93167,99.69658,13.93167",
+    "geom:latitude":13.93167,
+    "geom:longitude":99.69658,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Ban Som Siao",
+    "gn:country_code":"TH",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1154757,
+    "gn:latitude":13.93167,
+    "gn:longitude":99.69658,
+    "gn:modification_date":"2013-02-07",
+    "gn:name":"Ban Som Siao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2a\u0e49\u0e21\u0e40\u0e2a\u0e35\u0e49\u0e22\u0e27"
+    ],
+    "name:und_x_variant":[
+        "Ban Som Sieo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678663,
+        890466893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1154757
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"5ee9f8a82d3200afdaec368abfa99d3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466893,
+            "locality_id":1260105161,
+            "region_id":85678663
+        }
+    ],
+    "wof:id":1260105161,
+    "wof:lastmodified":1537703070,
+    "wof:name":"Ban Som Siao",
+    "wof:parent_id":890466893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.69658,
+    13.93167,
+    99.69658,
+    13.93167
+],
+  "geometry": {"coordinates":[99.69658,13.93167],"type":"Point"}
+}

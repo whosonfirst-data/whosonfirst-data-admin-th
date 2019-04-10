@@ -1,0 +1,70 @@
+{
+  "id": 1360181135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.58911,17.32314,99.58911,17.32314",
+    "geom:latitude":17.32314,
+    "geom:longitude":99.58911,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ban Samran Rat",
+    "gn:country_code":"TH",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8414275,
+    "gn:latitude":17.32314,
+    "gn:longitude":99.58911,
+    "gn:modification_date":"2012-11-10",
+    "gn:name":"Ban Samran Rat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2a\u0e33\u0e23\u0e32\u0e0d\u0e23\u0e32\u0e29\u0e0e\u0e23\u0e4c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678651,
+        1108732025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8414275
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"7494a240ab020ee469364cdbc24af9ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108732025,
+            "locality_id":1360181135,
+            "region_id":85678651
+        }
+    ],
+    "wof:id":1360181135,
+    "wof:lastmodified":1537705589,
+    "wof:name":"Ban Samran Rat",
+    "wof:parent_id":1108732025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.58911,
+    17.32314,
+    99.58911,
+    17.32314
+],
+  "geometry": {"coordinates":[99.58911000000001,17.32314],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1343875127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.98975,13.63544,101.98975,13.63544",
+    "geom:latitude":13.63544,
+    "geom:longitude":101.98975,
+    "gn:admin1_code":"80",
+    "gn:asciiname":"Ban Than Nopphakao",
+    "gn:country_code":"TH",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8761209,
+    "gn:latitude":13.63544,
+    "gn:longitude":101.98975,
+    "gn:modification_date":"2014-04-08",
+    "gn:name":"Ban Than Nopphakao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e18\u0e32\u0e23\u0e19\u0e1e\u0e40\u0e01\u0e49\u0e32"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678805,
+        890466779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8761209
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"f76ed67de64b2adfbbb83bf2188f5bcf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466779,
+            "locality_id":1343875127,
+            "region_id":85678805
+        }
+    ],
+    "wof:id":1343875127,
+    "wof:lastmodified":1537706053,
+    "wof:name":"Ban Than Nopphakao",
+    "wof:parent_id":890466779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.98975,
+    13.63544,
+    101.98975,
+    13.63544
+],
+  "geometry": {"coordinates":[101.98975,13.63544],"type":"Point"}
+}

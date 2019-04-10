@@ -1,0 +1,70 @@
+{
+  "id": 1293414917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.89078,8.93099,98.89078,8.93099",
+    "geom:latitude":8.93099,
+    "geom:longitude":98.89078,
+    "gn:admin1_code":"60.0",
+    "gn:asciiname":"Ban Chiao Khwan",
+    "gn:country_code":"TH",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8330085,
+    "gn:latitude":8.93099,
+    "gn:longitude":98.89078,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Ban Chiao Khwan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e0a\u0e35\u0e48\u0e22\u0e27\u0e02\u0e27\u0e32\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678581,
+        890466747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8330085
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"6b307858b5a846ae5d342e0d2256ff79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466747,
+            "locality_id":1293414917,
+            "region_id":85678581
+        }
+    ],
+    "wof:id":1293414917,
+    "wof:lastmodified":1537705400,
+    "wof:name":"Ban Chiao Khwan",
+    "wof:parent_id":890466747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.89078,
+    8.93099,
+    98.89078,
+    8.93099
+],
+  "geometry": {"coordinates":[98.89078000000001,8.93099],"type":"Point"}
+}

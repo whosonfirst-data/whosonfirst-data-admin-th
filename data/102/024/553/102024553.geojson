@@ -1,0 +1,110 @@
+{
+  "id": 102024553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000264,
+    "geom:area_square_m":3128467.971119,
+    "geom:bbox":"102.333765086,16.7902523853,102.352514288,16.8083122927",
+    "geom:latitude":16.799282,
+    "geom:longitude":102.34314,
+    "iso:country":"TH",
+    "lbl:latitude":16.799282,
+    "lbl:longitude":102.34314,
+    "mps:latitude":16.799282,
+    "mps:longitude":102.34314,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bpy_x_preferred":[
+        "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09a8\u09cb\u0982 \u09a8\u09be \u0996\u09be\u09ae"
+    ],
+    "name:deu_x_preferred":[
+        "Amphoe Nong Na Kham"
+    ],
+    "name:eng_x_preferred":[
+        "Ban Nong Na Kham"
+    ],
+    "name:ger_x_preferred":[
+        "Nong Na Kham"
+    ],
+    "name:ron_x_preferred":[
+        "Districtul Nong Na Kham"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e2b\u0e19\u0e2d\u0e07\u0e19\u0e32\u0e04\u0e33"
+    ],
+    "name:tha_x_variant":[
+        "\u0e2b\u0e19\u0e2d\u0e07\u0e19\u0e32\u0e04\u0e33",
+        "\u0e40\u0e17\u0e28\u0e1a\u0e32\u0e25\u0e15\u0e33\u0e1a\u0e25\u0e2b\u0e19\u0e2d\u0e07\u0e19\u0e32\u0e04\u0e33"
+    ],
+    "name:unk_x_variant":[
+        "\u0e2b\u0e19\u0e2d\u0e07\u0e19\u0e32\u0e04\u0e33"
+    ],
+    "name:vie_x_preferred":[
+        "Nong Na Kham"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Nong Na Kham K\u016bn"
+    ],
+    "qs:a0":"Thailand",
+    "qs:a1":"*Khon Kaen",
+    "qs:a1r":"*",
+    "qs:a2":"Nong Na Kham",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Nong Na Kham",
+    "qs:loc_alt":"Nong Na Kham",
+    "qs:loc_lc":"1600104",
+    "qs:pop":0,
+    "qs:source":"Aquattroshapes",
+    "qs:type":"County",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":225,
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"07ced6c4-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":1600104,
+        "gp:id":28341099,
+        "qs:id":206732,
+        "wd:id":"Q26206754"
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"545b243aafaac3742137a1fcea85d65b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "locality_id":102024553,
+            "region_id":85678827
+        }
+    ],
+    "wof:id":102024553,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527636444,
+    "wof:name":"Nong Na Kham",
+    "wof:parent_id":85678827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.33376508577602,
+    16.79025238527677,
+    102.35251428777623,
+    16.80831229268925
+],
+  "geometry": {"coordinates":[[[102.34509173688578,16.79044949936528],[102.34326534050702,16.79025238527677],[102.34143411824705,16.79040227136954],[102.33966843298894,16.79089339700865],[102.33803612990933,16.79170688981038],[102.33659993061322,16.79281149070087],[102.33541502382629,16.79416475472873],[102.33452694507328,16.79571468155596],[102.33396982674022,16.79740171306592],[102.33376508577602,16.79916102143203],[102.33392059955601,16.80092499982827],[102.33443040174394,16.80262586015462],[102.33527491005601,16.80419823800291],[102.33642167740776,16.80558170477161],[102.33782663778443,16.80672309036032],[102.33943579912282,16.80757852711402],[102.34118731822947,16.80811513637104],[102.34301387799211,16.80831229268925],[102.34484527543869,16.80816241705708],[102.34661112101567,16.80767126851701],[102.34824354513917,16.80685772293909],[102.34967980777644,16.80575304743202],[102.35086471055847,16.80439969830699],[102.35175271857049,16.80284968885695],[102.35230971019611,16.80116258977732],[102.35251428777623,16.79940323918153],[102.35235859880943,16.79763925032459],[102.35184863630282,16.79593841289929],[102.35100400694667,16.7943660878271],[102.34985717625385,16.79298269567498],[102.34845221988208,16.79184139518354],[102.34684312928469,16.79098604105263],[102.34509173688578,16.79044949936528]]],"type":"Polygon"}
+}

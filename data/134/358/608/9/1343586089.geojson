@@ -1,0 +1,70 @@
+{
+  "id": 1343586089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.71074,14.12633,101.71074,14.12633",
+    "geom:latitude":14.12633,
+    "geom:longitude":101.71074,
+    "gn:admin1_code":"74",
+    "gn:asciiname":"Ban Thung Wichit",
+    "gn:country_code":"TH",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8748978,
+    "gn:latitude":14.12633,
+    "gn:longitude":101.71074,
+    "gn:modification_date":"2014-04-08",
+    "gn:name":"Ban Thung Wichit",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e17\u0e38\u0e48\u0e07\u0e27\u0e34\u0e08\u0e34\u0e15\u0e23"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678711,
+        1108731541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8748978
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"0b88f8845f081ac66b444a9be3c638b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731541,
+            "locality_id":1343586089,
+            "region_id":85678711
+        }
+    ],
+    "wof:id":1343586089,
+    "wof:lastmodified":1537706027,
+    "wof:name":"Ban Thung Wichit",
+    "wof:parent_id":1108731541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.71074,
+    14.12633,
+    101.71074,
+    14.12633
+],
+  "geometry": {"coordinates":[101.71074,14.12633],"type":"Point"}
+}

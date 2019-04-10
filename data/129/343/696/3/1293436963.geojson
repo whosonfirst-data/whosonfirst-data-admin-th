@@ -1,0 +1,70 @@
+{
+  "id": 1293436963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.69728,14.21381,102.69728,14.21381",
+    "geom:latitude":14.21381,
+    "geom:longitude":102.69728,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Ban Khlong Hin",
+    "gn:country_code":"TH",
+    "gn:dem":277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9282133,
+    "gn:latitude":14.21381,
+    "gn:longitude":102.69728,
+    "gn:modification_date":"2014-08-07",
+    "gn:name":"Ban Khlong Hin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e04\u0e25\u0e2d\u0e07\u0e2b\u0e34\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678817,
+        1108802697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9282133
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"329b59934c5cf71dcbfa9e1e1295a7be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802697,
+            "locality_id":1293436963,
+            "region_id":85678817
+        }
+    ],
+    "wof:id":1293436963,
+    "wof:lastmodified":1537706235,
+    "wof:name":"Ban Khlong Hin",
+    "wof:parent_id":1108802697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.69728,
+    14.21381,
+    102.69728,
+    14.21381
+],
+  "geometry": {"coordinates":[102.69728000000001,14.21381],"type":"Point"}
+}

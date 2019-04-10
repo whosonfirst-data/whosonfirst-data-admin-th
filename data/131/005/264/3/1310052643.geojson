@@ -1,0 +1,73 @@
+{
+  "id": 1310052643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.19344,14.57458,103.19344,14.57458",
+    "geom:latitude":14.57458,
+    "geom:longitude":103.19344,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Ban Lawia",
+    "gn:country_code":"TH",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1613756,
+    "gn:latitude":14.57458,
+    "gn:longitude":103.19344,
+    "gn:modification_date":"2014-08-05",
+    "gn:name":"Ban Lawia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e25\u0e30\u0e40\u0e27\u0e35\u0e49\u0e22"
+    ],
+    "name:und_x_variant":[
+        "Ban Rawia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678817,
+        1108731779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1613756
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"f757c9f9d547a5bf3c37241a793d989a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731779,
+            "locality_id":1310052643,
+            "region_id":85678817
+        }
+    ],
+    "wof:id":1310052643,
+    "wof:lastmodified":1537703795,
+    "wof:name":"Ban Lawia",
+    "wof:parent_id":1108731779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.19344,
+    14.57458,
+    103.19344,
+    14.57458
+],
+  "geometry": {"coordinates":[103.19344,14.57458],"type":"Point"}
+}

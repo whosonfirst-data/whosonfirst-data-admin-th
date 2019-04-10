@@ -1,0 +1,73 @@
+{
+  "id": 1226729301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.0,17.08333,101.0,17.08333",
+    "geom:latitude":17.08333,
+    "geom:longitude":101.0,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Ban Huai Tham",
+    "gn:cc2":"TH",
+    "gn:country_code":"TH",
+    "gn:dem":512,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1618892,
+    "gn:latitude":17.08333,
+    "gn:longitude":101.0,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Huai Tham",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u0101n Th\u016bp Gao",
+        "Ban Thup Kao",
+        "Ban Huai Tham"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678647,
+        1108731579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1618892
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"4d2011585b84f0ff24a290ac8be22f1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731579,
+            "locality_id":1226729301,
+            "region_id":85678647
+        }
+    ],
+    "wof:id":1226729301,
+    "wof:lastmodified":1537704156,
+    "wof:name":"Ban Huai Tham",
+    "wof:parent_id":1108731579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.0,
+    17.08333,
+    101.0,
+    17.08333
+],
+  "geometry": {"coordinates":[101.0,17.08333],"type":"Point"}
+}

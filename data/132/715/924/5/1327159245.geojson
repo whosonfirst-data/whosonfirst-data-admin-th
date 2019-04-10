@@ -1,0 +1,70 @@
+{
+  "id": 1327159245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.34717,14.94356,105.34717,14.94356",
+    "geom:latitude":14.94356,
+    "geom:longitude":105.34717,
+    "gn:admin1_code":"75.0",
+    "gn:asciiname":"Ban Non Khun Noi",
+    "gn:country_code":"TH",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8319579,
+    "gn:latitude":14.94356,
+    "gn:longitude":105.34717,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Ban Non Khun Noi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e42\u0e19\u0e19\u0e04\u0e39\u0e13\u0e19\u0e49\u0e2d\u0e22"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678783,
+        1108731211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8319579
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"725cc7877e9607406ab3cadc2093ccbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731211,
+            "locality_id":1327159245,
+            "region_id":85678783
+        }
+    ],
+    "wof:id":1327159245,
+    "wof:lastmodified":1537705349,
+    "wof:name":"Ban Non Khun Noi",
+    "wof:parent_id":1108731211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.34717,
+    14.94356,
+    105.34717,
+    14.94356
+],
+  "geometry": {"coordinates":[105.34717000000001,14.94356],"type":"Point"}
+}

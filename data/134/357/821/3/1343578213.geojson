@@ -1,0 +1,70 @@
+{
+  "id": 1343578213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.51458,6.51928,101.51458,6.51928",
+    "geom:latitude":6.51928,
+    "geom:longitude":101.51458,
+    "gn:admin1_code":"70.0",
+    "gn:asciiname":"Ban Ba Ngo Ku Wing",
+    "gn:country_code":"TH",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7882891,
+    "gn:latitude":6.51928,
+    "gn:longitude":101.51458,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Ba Ngo Ku Wing",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1a\u0e32\u0e42\u0e07\u0e01\u0e39\u0e27\u0e34\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678611,
+        1108731791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7882891
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"7f457217b4a7af69e82ea786c84d3656",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731791,
+            "locality_id":1343578213,
+            "region_id":85678611
+        }
+    ],
+    "wof:id":1343578213,
+    "wof:lastmodified":1537704833,
+    "wof:name":"Ban Ba Ngo Ku Wing",
+    "wof:parent_id":1108731791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.51458,
+    6.51928,
+    101.51458,
+    6.51928
+],
+  "geometry": {"coordinates":[101.51458,6.51928],"type":"Point"}
+}

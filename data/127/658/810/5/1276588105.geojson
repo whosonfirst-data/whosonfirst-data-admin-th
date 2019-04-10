@@ -1,0 +1,72 @@
+{
+  "id": 1276588105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.98333,7.8,98.98333,7.8",
+    "geom:latitude":7.8,
+    "geom:longitude":98.98333,
+    "gn:admin1_code":"63.0",
+    "gn:asciiname":"Ban Tot",
+    "gn:cc2":"TH",
+    "gn:country_code":"TH",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1154120,
+    "gn:latitude":7.8,
+    "gn:longitude":98.98333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Tot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Laitot",
+        "Ai Taut",
+        "Ban Ai Tot",
+        "Ban Tot"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632293,
+        890466649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1154120
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"78ec44bd9aff82fd547deb839bac272f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632293,
+            "county_id":890466649,
+            "locality_id":1276588105,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276588105,
+    "wof:lastmodified":1537703024,
+    "wof:name":"Ban Tot",
+    "wof:parent_id":890466649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.98333,
+    7.8,
+    98.98333,
+    7.8
+],
+  "geometry": {"coordinates":[98.98333,7.8],"type":"Point"}
+}

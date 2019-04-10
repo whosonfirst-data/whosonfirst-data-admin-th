@@ -1,0 +1,75 @@
+{
+  "id": 1226777027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.48239,11.04419,99.48239,11.04419",
+    "geom:latitude":11.04419,
+    "geom:longitude":99.48239,
+    "gn:admin1_code":"57.0",
+    "gn:asciiname":"Ban Kammasen",
+    "gn:country_code":"TH",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1157265,
+    "gn:latitude":11.04419,
+    "gn:longitude":99.48239,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Ban Kammasen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e01\u0e33\u0e21\u0e30\u0e40\u0e2a\u0e19"
+    ],
+    "name:und_x_variant":[
+        "Kammasen",
+        "Ban Faeng Daeng",
+        "Ban Kammasen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678757,
+        890467395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1157265
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"2ae829219a1a6807d88cb7f680326e3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890467395,
+            "locality_id":1226777027,
+            "region_id":85678757
+        }
+    ],
+    "wof:id":1226777027,
+    "wof:lastmodified":1537703249,
+    "wof:name":"Ban Kammasen",
+    "wof:parent_id":890467395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.48239,
+    11.04419,
+    99.48239,
+    11.04419
+],
+  "geometry": {"coordinates":[99.48239,11.04419],"type":"Point"}
+}

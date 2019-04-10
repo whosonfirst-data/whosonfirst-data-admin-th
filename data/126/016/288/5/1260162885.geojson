@@ -1,0 +1,70 @@
+{
+  "id": 1260162885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.41036,15.88028,100.41036,15.88028",
+    "geom:latitude":15.88028,
+    "geom:longitude":100.41036,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ban Noen Tako",
+    "gn:country_code":"TH",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8343923,
+    "gn:latitude":15.88028,
+    "gn:longitude":100.41036,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Ban Noen Tako",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e19\u0e34\u0e19\u0e15\u0e30\u0e42\u0e01"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678715,
+        1108731263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8343923
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"345dae8cac9b7294366738850150c1fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731263,
+            "locality_id":1260162885,
+            "region_id":85678715
+        }
+    ],
+    "wof:id":1260162885,
+    "wof:lastmodified":1537705457,
+    "wof:name":"Ban Noen Tako",
+    "wof:parent_id":1108731263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.41036,
+    15.88028,
+    100.41036,
+    15.88028
+],
+  "geometry": {"coordinates":[100.41036,15.88028],"type":"Point"}
+}

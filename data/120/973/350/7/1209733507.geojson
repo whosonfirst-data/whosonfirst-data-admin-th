@@ -1,0 +1,67 @@
+{
+  "id": 1209733507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.61,19.00222,99.61,19.00222",
+    "geom:latitude":19.00222,
+    "geom:longitude":99.61,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Ban Pong Wang",
+    "gn:country_code":"TH",
+    "gn:dem":390,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1118014,
+    "gn:latitude":19.00222,
+    "gn:longitude":99.61,
+    "gn:modification_date":"1999-10-25",
+    "gn:name":"Ban Pong Wang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678625,
+        1108732055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1118014
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"bfcb0110502fc9813349296ca910d3ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108732055,
+            "locality_id":1209733507,
+            "region_id":85678625
+        }
+    ],
+    "wof:id":1209733507,
+    "wof:lastmodified":1536376164,
+    "wof:name":"Ban Pong Wang",
+    "wof:parent_id":1108732055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.61,
+    19.00222,
+    99.61,
+    19.00222
+],
+  "geometry": {"coordinates":[99.61,19.00222],"type":"Point"}
+}

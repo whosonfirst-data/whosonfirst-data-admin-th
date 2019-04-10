@@ -1,0 +1,73 @@
+{
+  "id": 1193161911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.41864,17.21483,104.41864,17.21483",
+    "geom:latitude":17.21483,
+    "geom:longitude":104.41864,
+    "gn:admin1_code":"73.0",
+    "gn:asciiname":"Ban Hong Chot",
+    "gn:country_code":"TH",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8027002,
+    "gn:latitude":17.21483,
+    "gn:longitude":104.41864,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Hong Chot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "Ban Hong Chot"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2e\u0e48\u0e2d\u0e07\u0e42\u0e08\u0e14"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678879,
+        1108731765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8027002
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"e95674b0400e543aaaa4807873aee6c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731765,
+            "locality_id":1193161911,
+            "region_id":85678879
+        }
+    ],
+    "wof:id":1193161911,
+    "wof:lastmodified":1537704909,
+    "wof:name":"Ban Hong Chot",
+    "wof:parent_id":1108731765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.41864,
+    17.21483,
+    104.41864,
+    17.21483
+],
+  "geometry": {"coordinates":[104.41864,17.21483],"type":"Point"}
+}

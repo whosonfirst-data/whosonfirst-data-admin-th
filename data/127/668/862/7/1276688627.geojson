@@ -1,0 +1,70 @@
+{
+  "id": 1276688627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.96519,8.25575,99.96519,8.25575",
+    "geom:latitude":8.25575,
+    "geom:longitude":99.96519,
+    "gn:admin1_code":"64.0",
+    "gn:asciiname":"Ban Rat Bamrung",
+    "gn:country_code":"TH",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8241152,
+    "gn:latitude":8.25575,
+    "gn:longitude":99.96519,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Ban Rat Bamrung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e23\u0e32\u0e29\u0e0e\u0e23\u0e4c\u0e1a\u0e33\u0e23\u0e38\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678565,
+        890465711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8241152
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"ececa16cc3118b4a06bb1467c0c19489",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465711,
+            "locality_id":1276688627,
+            "region_id":85678565
+        }
+    ],
+    "wof:id":1276688627,
+    "wof:lastmodified":1537705226,
+    "wof:name":"Ban Rat Bamrung",
+    "wof:parent_id":890465711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.96519,
+    8.25575,
+    99.96519,
+    8.25575
+],
+  "geometry": {"coordinates":[99.96519000000001,8.25575],"type":"Point"}
+}

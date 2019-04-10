@@ -1,0 +1,70 @@
+{
+  "id": 1209130879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.94436,14.22875,100.94436,14.22875",
+    "geom:latitude":14.22875,
+    "geom:longitude":100.94436,
+    "gn:admin1_code":"43.0",
+    "gn:asciiname":"Ban Ong Phat",
+    "gn:country_code":"TH",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1614750,
+    "gn:latitude":14.22875,
+    "gn:longitude":100.94436,
+    "gn:modification_date":"2014-04-05",
+    "gn:name":"Ban Ong Phat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "Ban Ong Phat"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2d\u0e07\u0e04\u0e4c\u0e1e\u0e32\u0e15"
+    ],
+    "name:und_x_variant":[
+        "Ban Ong Phat (2)"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1614750
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"82d9090609eda1fe1268c3ca89b0b66e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632293,
+            "locality_id":1209130879
+        }
+    ],
+    "wof:id":1209130879,
+    "wof:lastmodified":1537703865,
+    "wof:name":"Ban Ong Phat",
+    "wof:parent_id":85632293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.94436,
+    14.22875,
+    100.94436,
+    14.22875
+],
+  "geometry": {"coordinates":[100.94436,14.22875],"type":"Point"}
+}

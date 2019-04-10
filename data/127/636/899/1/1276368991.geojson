@@ -1,0 +1,75 @@
+{
+  "id": 1276368991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.75033,18.58131,100.75033,18.58131",
+    "geom:latitude":18.58131,
+    "geom:longitude":100.75033,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Ban Don Thaen",
+    "gn:country_code":"TH",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1619701,
+    "gn:latitude":18.58131,
+    "gn:longitude":100.75033,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Ban Don Thaen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e14\u0e2d\u0e19\u0e41\u0e17\u0e48\u0e19"
+    ],
+    "name:und_x_variant":[
+        "B\u0101n Daun Geo",
+        "Ban Don Kaeo",
+        "Ban Don Thaen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678633,
+        890465705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1619701
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"6aa1c7c1db76a756d0d2ea0140f58b32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465705,
+            "locality_id":1276368991,
+            "region_id":85678633
+        }
+    ],
+    "wof:id":1276368991,
+    "wof:lastmodified":1537704181,
+    "wof:name":"Ban Don Thaen",
+    "wof:parent_id":890465705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.75033,
+    18.58131,
+    100.75033,
+    18.58131
+],
+  "geometry": {"coordinates":[100.75033000000001,18.58131],"type":"Point"}
+}

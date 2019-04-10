@@ -1,0 +1,70 @@
+{
+  "id": 1360102021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.54314,14.01172,101.54314,14.01172",
+    "geom:latitude":14.01172,
+    "geom:longitude":101.54314,
+    "gn:admin1_code":"74",
+    "gn:asciiname":"Ban Nong Chat",
+    "gn:country_code":"TH",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8748797,
+    "gn:latitude":14.01172,
+    "gn:longitude":101.54314,
+    "gn:modification_date":"2014-04-08",
+    "gn:name":"Ban Nong Chat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e19\u0e2d\u0e07\u0e0a\u0e32\u0e15\u0e34"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678711,
+        1108731777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8748797
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"489a854e340fbf61e5eaf1a0c6af5dee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731777,
+            "locality_id":1360102021,
+            "region_id":85678711
+        }
+    ],
+    "wof:id":1360102021,
+    "wof:lastmodified":1537706025,
+    "wof:name":"Ban Nong Chat",
+    "wof:parent_id":1108731777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.54314,
+    14.01172,
+    101.54314,
+    14.01172
+],
+  "geometry": {"coordinates":[101.54313999999999,14.01172],"type":"Point"}
+}

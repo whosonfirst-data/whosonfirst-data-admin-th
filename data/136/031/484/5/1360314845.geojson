@@ -1,0 +1,70 @@
+{
+  "id": 1360314845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.84531,6.19947,101.84531,6.19947",
+    "geom:latitude":6.19947,
+    "geom:longitude":101.84531,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Ban Blu Ka Ya Nu",
+    "gn:country_code":"TH",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7001005,
+    "gn:latitude":6.19947,
+    "gn:longitude":101.84531,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ban Blu Ka Ya Nu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1a\u0e25\u0e39\u0e01\u0e32\u0e22\u0e32\u0e19\u0e38"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678885,
+        1108731251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7001005
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"1413f313ce75f7a4da2dd23a69644b91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731251,
+            "locality_id":1360314845,
+            "region_id":85678885
+        }
+    ],
+    "wof:id":1360314845,
+    "wof:lastmodified":1537704385,
+    "wof:name":"Ban Blu Ka Ya Nu",
+    "wof:parent_id":1108731251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.84531,
+    6.19947,
+    101.84531,
+    6.19947
+],
+  "geometry": {"coordinates":[101.84531,6.19947],"type":"Point"}
+}

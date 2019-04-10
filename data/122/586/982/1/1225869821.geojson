@@ -1,0 +1,70 @@
+{
+  "id": 1225869821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.005,14.70014,100.005,14.70014",
+    "geom:latitude":14.70014,
+    "geom:longitude":100.005,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Ban Pho Suwan",
+    "gn:country_code":"TH",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8667385,
+    "gn:latitude":14.70014,
+    "gn:longitude":100.005,
+    "gn:modification_date":"2014-01-18",
+    "gn:name":"Ban Pho Suwan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e42\u0e1e\u0e18\u0e34\u0e4c\u0e2a\u0e38\u0e27\u0e23\u0e23\u0e13"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678679,
+        890466315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8667385
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"1ad1f27e329129eac20f70f21d3d696b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466315,
+            "locality_id":1225869821,
+            "region_id":85678679
+        }
+    ],
+    "wof:id":1225869821,
+    "wof:lastmodified":1537705807,
+    "wof:name":"Ban Pho Suwan",
+    "wof:parent_id":890466315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.005,
+    14.70014,
+    100.005,
+    14.70014
+],
+  "geometry": {"coordinates":[100.005,14.70014],"type":"Point"}
+}

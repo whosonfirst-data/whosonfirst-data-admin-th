@@ -1,0 +1,73 @@
+{
+  "id": 890466051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.33608,7.79778,98.33608,7.79778",
+    "geom:latitude":7.79778,
+    "geom:longitude":98.33608,
+    "gn:country":"TH",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424960,
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e23\u0e32\u0e44\u0e27\u0e22\u0e4c"
+    ],
+    "name:unk_x_variant":[
+        "Ban Rawai"
+    ],
+    "qs:name":"Ban Ra Wai",
+    "qs:name_adm0":"Thailand",
+    "qs:name_adm1":"Phuket",
+    "qs:photos":422,
+    "qs:photos_1k":86,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":422,
+    "qs:photos_sr":6,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1117942,
+        "gp:id":1218882,
+        "qs:id":1220697
+    },
+    "wof:country":"TH",
+    "wof:created":1469053563,
+    "wof:geomhash":"846ccb55921a3aa150f408a9d536a09a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632293,
+            "locality_id":890466051
+        }
+    ],
+    "wof:id":890466051,
+    "wof:lastmodified":1505343706,
+    "wof:name":"Ban Ra Wai",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.33608,
+    7.79778,
+    98.33608,
+    7.79778
+],
+  "geometry": {"coordinates":[98.33608,7.79778],"type":"Point"}
+}

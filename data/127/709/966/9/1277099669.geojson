@@ -1,0 +1,70 @@
+{
+  "id": 1277099669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.22414,15.83594,105.22414,15.83594",
+    "geom:latitude":15.83594,
+    "geom:longitude":105.22414,
+    "gn:admin1_code":"75.0",
+    "gn:asciiname":"Ban Khok Thoeloe",
+    "gn:country_code":"TH",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8317848,
+    "gn:latitude":15.83594,
+    "gn:longitude":105.22414,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Ban Khok Thoeloe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e42\u0e04\u0e01\u0e40\u0e17\u0e48\u0e2d\u0e40\u0e25\u0e48\u0e2d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678783,
+        1108731371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8317848
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"bb8521118f50a1fd371a56e5ec47bf44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731371,
+            "locality_id":1277099669,
+            "region_id":85678783
+        }
+    ],
+    "wof:id":1277099669,
+    "wof:lastmodified":1537705331,
+    "wof:name":"Ban Khok Thoeloe",
+    "wof:parent_id":1108731371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.22414,
+    15.83594,
+    105.22414,
+    15.83594
+],
+  "geometry": {"coordinates":[105.22414000000001,15.83594],"type":"Point"}
+}

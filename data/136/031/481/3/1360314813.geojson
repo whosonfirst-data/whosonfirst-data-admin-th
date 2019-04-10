@@ -1,0 +1,70 @@
+{
+  "id": 1360314813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.39575,14.73,105.39575,14.73",
+    "geom:latitude":14.73,
+    "geom:longitude":105.39575,
+    "gn:admin1_code":"75.0",
+    "gn:asciiname":"Ban Sang Tho",
+    "gn:country_code":"TH",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8319544,
+    "gn:latitude":14.73,
+    "gn:longitude":105.39575,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Ban Sang Tho",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2a\u0e23\u0e49\u0e32\u0e07\u0e16\u0e48\u0e2d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678783,
+        1108731211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8319544
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"da0d2374911eb0c6e40b911a16a3ae9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731211,
+            "locality_id":1360314813,
+            "region_id":85678783
+        }
+    ],
+    "wof:id":1360314813,
+    "wof:lastmodified":1537705349,
+    "wof:name":"Ban Sang Tho",
+    "wof:parent_id":1108731211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.39575,
+    14.73,
+    105.39575,
+    14.73
+],
+  "geometry": {"coordinates":[105.39575000000001,14.73],"type":"Point"}
+}

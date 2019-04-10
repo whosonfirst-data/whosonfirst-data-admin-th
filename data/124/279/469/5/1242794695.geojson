@@ -1,0 +1,67 @@
+{
+  "id": 1242794695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.29998,12.87695,99.29998,12.87695",
+    "geom:latitude":12.87695,
+    "geom:longitude":99.29998,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"Ban Krang",
+    "gn:country_code":"TH",
+    "gn:dem":255,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1156774,
+    "gn:latitude":12.87695,
+    "gn:longitude":99.29998,
+    "gn:modification_date":"2013-01-09",
+    "gn:name":"Ban Krang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678753,
+        1108731315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1156774
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"f56f9fbfbc3c9caeb080749cb808e31b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731315,
+            "locality_id":1242794695,
+            "region_id":85678753
+        }
+    ],
+    "wof:id":1242794695,
+    "wof:lastmodified":1536750857,
+    "wof:name":"Ban Krang",
+    "wof:parent_id":1108731315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.29998,
+    12.87695,
+    99.29998,
+    12.87695
+],
+  "geometry": {"coordinates":[99.29998000000001,12.87695],"type":"Point"}
+}

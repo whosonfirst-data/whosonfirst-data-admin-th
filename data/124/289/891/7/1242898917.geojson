@@ -1,0 +1,73 @@
+{
+  "id": 1242898917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.83333,6.4,101.83333,6.4",
+    "geom:latitude":6.4,
+    "geom:longitude":101.83333,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Kampong Pro",
+    "gn:cc2":"TH",
+    "gn:country_code":"TH",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1610288,
+    "gn:latitude":6.4,
+    "gn:longitude":101.83333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Kampong Pro",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kampong Prok",
+        "Kampong Prau",
+        "Kampong Pro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678885,
+        890465659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1610288
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"ea2af58f8253e627e9b3d41a1c5c7f2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465659,
+            "locality_id":1242898917,
+            "region_id":85678885
+        }
+    ],
+    "wof:id":1242898917,
+    "wof:lastmodified":1537703634,
+    "wof:name":"Kampong Pro",
+    "wof:parent_id":890465659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.83333,
+    6.4,
+    101.83333,
+    6.4
+],
+  "geometry": {"coordinates":[101.83333,6.4],"type":"Point"}
+}

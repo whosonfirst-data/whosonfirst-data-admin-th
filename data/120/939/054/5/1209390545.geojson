@@ -1,0 +1,69 @@
+{
+  "id": 1209390545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.07678,17.50389,101.07678,17.50389",
+    "geom:latitude":17.50389,
+    "geom:longitude":101.07678,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Mueang Phrae",
+    "gn:country_code":"TH",
+    "gn:dem":474,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1616552,
+    "gn:latitude":17.50389,
+    "gn:longitude":101.07678,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Mueang Phrae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e2b\u0e21\u0e37\u0e2d\u0e07\u0e41\u0e1e\u0e23\u0e48"
+    ],
+    "name:und_x_variant":[
+        "B\u0101n Muang Phrea",
+        "Ban Muang Phrae",
+        "Ban Mueang Phrae"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1616552
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"6a579bb0f350dd7206c1876339c2fc7a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632293,
+            "locality_id":1209390545
+        }
+    ],
+    "wof:id":1209390545,
+    "wof:lastmodified":1537703988,
+    "wof:name":"Ban Mueang Phrae",
+    "wof:parent_id":85632293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.07678,
+    17.50389,
+    101.07678,
+    17.50389
+],
+  "geometry": {"coordinates":[101.07678,17.50389],"type":"Point"}
+}

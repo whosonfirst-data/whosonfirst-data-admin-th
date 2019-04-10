@@ -1,0 +1,67 @@
+{
+  "id": 1242695831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.35,17.25,101.35,17.25",
+    "geom:latitude":17.25,
+    "geom:longitude":101.35,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Ban Hin So",
+    "gn:country_code":"TH",
+    "gn:dem":960,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1603565,
+    "gn:latitude":17.25,
+    "gn:longitude":101.35,
+    "gn:modification_date":"1994-04-10",
+    "gn:name":"Ban Hin So",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678853,
+        1108802605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1603565
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"a18b7eed317f17c54e3834af33ff7383",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802605,
+            "locality_id":1242695831,
+            "region_id":85678853
+        }
+    ],
+    "wof:id":1242695831,
+    "wof:lastmodified":1536893184,
+    "wof:name":"Ban Hin So",
+    "wof:parent_id":1108802605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.35,
+    17.25,
+    101.35,
+    17.25
+],
+  "geometry": {"coordinates":[101.34999999999999,17.25],"type":"Point"}
+}

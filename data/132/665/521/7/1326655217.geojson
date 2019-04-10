@@ -1,0 +1,70 @@
+{
+  "id": 1326655217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.41194,18.00438,103.41194,18.00438",
+    "geom:latitude":18.00438,
+    "geom:longitude":103.41194,
+    "gn:admin1_code":"81.0",
+    "gn:asciiname":"Ban Huai Sai",
+    "gn:country_code":"TH",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1603271,
+    "gn:latitude":18.00438,
+    "gn:longitude":103.41194,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Ban Huai Sai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e49\u0e27\u0e22\u0e17\u0e23\u0e32\u0e22"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678895,
+        1108731923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1603271
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"dc2b9485e8d966043b753a1686f83a81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731923,
+            "locality_id":1326655217,
+            "region_id":85678895
+        }
+    ],
+    "wof:id":1326655217,
+    "wof:lastmodified":1537703578,
+    "wof:name":"Ban Huai Sai",
+    "wof:parent_id":1108731923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.41194,
+    18.00437999999999,
+    103.41194,
+    18.00437999999999
+],
+  "geometry": {"coordinates":[103.41194,18.00437999999999],"type":"Point"}
+}

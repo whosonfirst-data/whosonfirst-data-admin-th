@@ -1,0 +1,70 @@
+{
+  "id": 1276406265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.12219,14.99919,102.12219,14.99919",
+    "geom:latitude":14.99919,
+    "geom:longitude":102.12219,
+    "gn:admin1_code":"27",
+    "gn:asciiname":"Ban Bueng Phaya Prap",
+    "gn:country_code":"TH",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9108718,
+    "gn:latitude":14.99919,
+    "gn:longitude":102.12219,
+    "gn:modification_date":"2014-06-07",
+    "gn:name":"Ban Bueng Phaya Prap",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1a\u0e36\u0e07\u0e1e\u0e0d\u0e32\u0e1b\u0e23\u0e32\u0e1a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678841,
+        890466785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9108718
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"a47232acb7a436c6bd873382f8a88adc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466785,
+            "locality_id":1276406265,
+            "region_id":85678841
+        }
+    ],
+    "wof:id":1276406265,
+    "wof:lastmodified":1537706185,
+    "wof:name":"Ban Bueng Phaya Prap",
+    "wof:parent_id":890466785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.12219,
+    14.99919,
+    102.12219,
+    14.99919
+],
+  "geometry": {"coordinates":[102.12219,14.99919],"type":"Point"}
+}

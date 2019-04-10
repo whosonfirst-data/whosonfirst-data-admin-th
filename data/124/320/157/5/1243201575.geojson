@@ -1,0 +1,70 @@
+{
+  "id": 1243201575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.38333,12.71139,101.38333,12.71139",
+    "geom:latitude":12.71139,
+    "geom:longitude":101.38333,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Ban Takrao Thong",
+    "gn:country_code":"TH",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7735853,
+    "gn:latitude":12.71139,
+    "gn:longitude":101.38333,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Takrao Thong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e15\u0e30\u0e40\u0e01\u0e23\u0e32\u0e17\u0e2d\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678809,
+        1108802679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7735853
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"d7212da0a16f434e7011bdaac1cb3a10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802679,
+            "locality_id":1243201575,
+            "region_id":85678809
+        }
+    ],
+    "wof:id":1243201575,
+    "wof:lastmodified":1537704636,
+    "wof:name":"Ban Takrao Thong",
+    "wof:parent_id":1108802679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.38333,
+    12.71139,
+    101.38333,
+    12.71139
+],
+  "geometry": {"coordinates":[101.38333,12.71139],"type":"Point"}
+}

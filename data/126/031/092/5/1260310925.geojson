@@ -1,0 +1,70 @@
+{
+  "id": 1260310925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.25647,6.59642,101.25647,6.59642",
+    "geom:latitude":6.59642,
+    "geom:longitude":101.25647,
+    "gn:admin1_code":"70.0",
+    "gn:asciiname":"Ban Thung Ya Mu",
+    "gn:country_code":"TH",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7881540,
+    "gn:latitude":6.59642,
+    "gn:longitude":101.25647,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Thung Ya Mu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e17\u0e38\u0e48\u0e07\u0e22\u0e32\u0e21\u0e39"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678611,
+        890466087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7881540
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"6db92182d92d8236d1a5dcff54606bed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466087,
+            "locality_id":1260310925,
+            "region_id":85678611
+        }
+    ],
+    "wof:id":1260310925,
+    "wof:lastmodified":1537704813,
+    "wof:name":"Ban Thung Ya Mu",
+    "wof:parent_id":890466087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.25647,
+    6.59642,
+    101.25647,
+    6.59642
+],
+  "geometry": {"coordinates":[101.25646999999999,6.59642],"type":"Point"}
+}

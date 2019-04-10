@@ -1,0 +1,70 @@
+{
+  "id": 1326553135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.72086,18.57344,100.72086,18.57344",
+    "geom:latitude":18.57344,
+    "geom:longitude":100.72086,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Ban Lao",
+    "gn:country_code":"TH",
+    "gn:dem":212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1601763,
+    "gn:latitude":18.57344,
+    "gn:longitude":100.72086,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Ban Lao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e2b\u0e25\u0e48\u0e32"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678633,
+        890465705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1601763
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"6909b9daeec8d25e6c44f9e0f30f5200",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465705,
+            "locality_id":1326553135,
+            "region_id":85678633
+        }
+    ],
+    "wof:id":1326553135,
+    "wof:lastmodified":1537703523,
+    "wof:name":"Ban Lao",
+    "wof:parent_id":890465705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.72086,
+    18.57344,
+    100.72086,
+    18.57344
+],
+  "geometry": {"coordinates":[100.72086,18.57344],"type":"Point"}
+}

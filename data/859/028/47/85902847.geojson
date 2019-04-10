@@ -1,0 +1,109 @@
+{
+  "id": 85902847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000174,
+    "geom:area_square_m":2091099.553343,
+    "geom:bbox":"100.464477539,13.7552325394,100.481957846,13.7713987922",
+    "geom:latitude":13.764051,
+    "geom:longitude":100.471869,
+    "gn:id":"",
+    "iso:country":"TH",
+    "lbl:latitude":13.76496,
+    "lbl:longitude":100.473872,
+    "mps:latitude":13.764339,
+    "mps:longitude":100.471699,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":5,
+    "name:eng_x_preferred":[
+        "Bangkok Noi Khwaeng"
+    ],
+    "name:eng_x_variant":[
+        "Bangkok Noi Khwang"
+    ],
+    "name:unk_x_variant":[
+        "Bangkok Noi Khwaeng"
+    ],
+    "qs:gn_adm0_cc":"TH",
+    "qs:gn_id":0,
+    "qs:gn_local":1609350,
+    "qs:gn_nam_loc":"Bangkok, Bangkok, TH",
+    "qs:gn_namadm1":"40",
+    "qs:local_max":21510,
+    "qs:local_sum":280580,
+    "qs:localhoods":117,
+    "qs:name":"Bangkok Noi Khwaeng",
+    "qs:name_adm0":"Thailand",
+    "qs:name_adm1":"Bangkok",
+    "qs:name_adm2":"Bangkok Noi",
+    "qs:name_local":"Bangkok",
+    "qs:photo_max":35,
+    "qs:photo_sum":132,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":11,
+    "qs:woe_adm0":23424960,
+    "qs:woe_adm1":2347165,
+    "qs:woe_adm2":28341383,
+    "qs:woe_lau":0,
+    "qs:woe_local":1225448,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85678739,
+        102191569,
+        85632293,
+        102025263,
+        890466393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1225073,
+        "qs:id":1168959,
+        "qs_pg:id":1168959
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"7723a868268119e3b6719671f68ba490",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466393,
+            "locality_id":102025263,
+            "neighbourhood_id":85902847,
+            "region_id":85678739
+        }
+    ],
+    "wof:id":85902847,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527269214,
+    "wof:name":"Bangkok Noi Khwaeng",
+    "wof:parent_id":102025263,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.46447753900003,
+    13.75523253944174,
+    100.48195784579718,
+    13.77139879220503
+],
+  "geometry": {"coordinates":[[[100.47271728500004,13.77139879216675],[100.47401277031719,13.77006496044994],[100.47546386700009,13.77006496044994],[100.47550276984174,13.77006496044994],[100.47679824039568,13.76873115470009],[100.4774265742742,13.76808422734423],[100.47821044900024,13.76792281426444],[100.47944313033946,13.76817664422585],[100.48095703100012,13.76739730332514],[100.48100369668424,13.76737328029829],[100.48195784579718,13.76442617322968],[100.48095703100012,13.76408270838201],[100.48095703100012,13.76339577960006],[100.47821044900013,13.76339577960006],[100.47821044900013,13.76072804639993],[100.47754323213627,13.76072804418331],[100.47546386700009,13.76072804098925],[100.47546386700009,13.75806028279996],[100.47412942958164,13.75806028279996],[100.47346221321567,13.75599947200293],[100.47271728500021,13.75523253944174],[100.46997070300006,13.7580602524],[100.4644775390002,13.7580602524],[100.46447753900014,13.75806028279996],[100.46447753900014,13.76339574917516],[100.4644775390002,13.76339577960006],[100.46447753900014,13.76873112427511],[100.46447753900003,13.76873115470009],[100.46863632283834,13.76873115121676],[100.46949996925918,13.77139878900013],[100.46997070300006,13.77139879220503],[100.47271728500004,13.77139879216675]]],"type":"Polygon"}
+}

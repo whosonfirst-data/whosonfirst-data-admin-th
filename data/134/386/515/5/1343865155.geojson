@@ -1,0 +1,70 @@
+{
+  "id": 1343865155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.99639,19.95147,99.99639,19.95147",
+    "geom:latitude":19.95147,
+    "geom:longitude":99.99639,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ban Huai Khian Tai",
+    "gn:country_code":"TH",
+    "gn:dem":388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7420603,
+    "gn:latitude":19.95147,
+    "gn:longitude":99.99639,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Huai Khian Tai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e49\u0e27\u0e22\u0e40\u0e04\u0e35\u0e22\u0e19\u0e43\u0e15\u0e49"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678617,
+        1108732075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7420603
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"06b9d081e70c6da3594a2b3a6dfb2049",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108732075,
+            "locality_id":1343865155,
+            "region_id":85678617
+        }
+    ],
+    "wof:id":1343865155,
+    "wof:lastmodified":1537704470,
+    "wof:name":"Ban Huai Khian Tai",
+    "wof:parent_id":1108732075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.99639,
+    19.95147,
+    99.99639,
+    19.95147
+],
+  "geometry": {"coordinates":[99.99639000000001,19.95147],"type":"Point"}
+}

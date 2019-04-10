@@ -1,0 +1,70 @@
+{
+  "id": 1209602111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.65533,16.69547,100.65533,16.69547",
+    "geom:latitude":16.69547,
+    "geom:longitude":100.65533,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Ban Chomphu Nuea",
+    "gn:country_code":"TH",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1620137,
+    "gn:latitude":16.69547,
+    "gn:longitude":100.65533,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Ban Chomphu Nuea",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e0a\u0e21\u0e1e\u0e39\u0e40\u0e2b\u0e19\u0e37\u0e2d"
+    ],
+    "name:und_x_variant":[
+        "Ban Chomphu",
+        "Ban Chompu",
+        "Ban Chomphu Nuea"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1620137,
+        "wk:page":"Chomphu%2C_Phitsanulok"
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"68ee55a99e439819a53341a87348180a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632293,
+            "locality_id":1209602111
+        }
+    ],
+    "wof:id":1209602111,
+    "wof:lastmodified":1537704209,
+    "wof:name":"Ban Chomphu Nuea",
+    "wof:parent_id":85632293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.65533,
+    16.69547,
+    100.65533,
+    16.69547
+],
+  "geometry": {"coordinates":[100.65533000000001,16.69547],"type":"Point"}
+}

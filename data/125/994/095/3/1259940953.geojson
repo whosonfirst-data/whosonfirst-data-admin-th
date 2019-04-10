@@ -1,0 +1,73 @@
+{
+  "id": 1259940953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.54425,14.75106,103.54425,14.75106",
+    "geom:latitude":14.75106,
+    "geom:longitude":103.54425,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Ban Ampuen",
+    "gn:country_code":"TH",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1604553,
+    "gn:latitude":14.75106,
+    "gn:longitude":103.54425,
+    "gn:modification_date":"2014-02-06",
+    "gn:name":"Ban Ampuen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2d\u0e33\u0e1b\u0e36\u0e25"
+    ],
+    "name:und_x_variant":[
+        "Ban Ampun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678845,
+        890466955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1604553
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"ca3444b4318f78973371842053b55e49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466955,
+            "locality_id":1259940953,
+            "region_id":85678845
+        }
+    ],
+    "wof:id":1259940953,
+    "wof:lastmodified":1537703624,
+    "wof:name":"Ban Ampuen",
+    "wof:parent_id":890466955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.54425,
+    14.75106,
+    103.54425,
+    14.75106
+],
+  "geometry": {"coordinates":[103.54425000000001,14.75106],"type":"Point"}
+}

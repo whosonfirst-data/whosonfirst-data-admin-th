@@ -1,0 +1,70 @@
+{
+  "id": 1310555693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.18036,16.44808,102.18036,16.44808",
+    "geom:latitude":16.44808,
+    "geom:longitude":102.18036,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Ban Nong Ben",
+    "gn:country_code":"TH",
+    "gn:dem":207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1600610,
+    "gn:latitude":16.44808,
+    "gn:longitude":102.18036,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Ban Nong Ben",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e19\u0e2d\u0e07\u0e40\u0e1a\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678825,
+        1108731745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1600610
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"f2e41f8f75b7a04fed1e886be583ef72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731745,
+            "locality_id":1310555693,
+            "region_id":85678825
+        }
+    ],
+    "wof:id":1310555693,
+    "wof:lastmodified":1537703482,
+    "wof:name":"Ban Nong Ben",
+    "wof:parent_id":1108731745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.18036,
+    16.44807999999999,
+    102.18036,
+    16.44807999999999
+],
+  "geometry": {"coordinates":[102.18035999999999,16.44807999999999],"type":"Point"}
+}

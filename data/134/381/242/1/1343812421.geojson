@@ -1,0 +1,70 @@
+{
+  "id": 1343812421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.25294,16.27564,102.25294,16.27564",
+    "geom:latitude":16.27564,
+    "geom:longitude":102.25294,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Ban Kwang Chon",
+    "gn:country_code":"TH",
+    "gn:dem":225,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1601855,
+    "gn:latitude":16.27564,
+    "gn:longitude":102.25294,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Ban Kwang Chon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e01\u0e27\u0e32\u0e07\u0e42\u0e08\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678825,
+        1108731745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1601855
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"ac62bbf2e9c693fe63239c457fbf33f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731745,
+            "locality_id":1343812421,
+            "region_id":85678825
+        }
+    ],
+    "wof:id":1343812421,
+    "wof:lastmodified":1537703526,
+    "wof:name":"Ban Kwang Chon",
+    "wof:parent_id":1108731745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.25294,
+    16.27564,
+    102.25294,
+    16.27564
+],
+  "geometry": {"coordinates":[102.25294,16.27564],"type":"Point"}
+}

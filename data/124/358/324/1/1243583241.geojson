@@ -1,0 +1,73 @@
+{
+  "id": 1243583241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.02192,14.1287,100.02192,14.1287",
+    "geom:latitude":14.1287,
+    "geom:longitude":100.02192,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Ban Kradi O",
+    "gn:country_code":"TH",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1617381,
+    "gn:latitude":14.1287,
+    "gn:longitude":100.02192,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Kradi O",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "Ban Kradi O"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e01\u0e23\u0e30\u0e14\u0e35\u0e48\u0e2d\u0e49\u0e2d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678747,
+        1108731323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1617381
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"c7a65ef0697e5168cf3e34455f202810",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731323,
+            "locality_id":1243583241,
+            "region_id":85678747
+        }
+    ],
+    "wof:id":1243583241,
+    "wof:lastmodified":1537704046,
+    "wof:name":"Ban Kradi O",
+    "wof:parent_id":1108731323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.02192,
+    14.1287,
+    100.02192,
+    14.1287
+],
+  "geometry": {"coordinates":[100.02191999999999,14.1287],"type":"Point"}
+}

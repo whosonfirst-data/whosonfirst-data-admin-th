@@ -1,0 +1,75 @@
+{
+  "id": 1243000641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.00603,12.87628,100.00603,12.87628",
+    "geom:latitude":12.87628,
+    "geom:longitude":100.00603,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"Ban Bo Yai",
+    "gn:country_code":"TH",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1620486,
+    "gn:latitude":12.87628,
+    "gn:longitude":100.00603,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Ban Bo Yai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1a\u0e48\u0e2d\u0e43\u0e2b\u0e0d\u0e48"
+    ],
+    "name:und_x_variant":[
+        "Ban Pak Khlong",
+        "Ban Hua Don",
+        "Ban Bo Yai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678753,
+        890466433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1620486
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"d7a1fa4d9205d84640a580ca25adcb55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466433,
+            "locality_id":1243000641,
+            "region_id":85678753
+        }
+    ],
+    "wof:id":1243000641,
+    "wof:lastmodified":1537704233,
+    "wof:name":"Ban Bo Yai",
+    "wof:parent_id":890466433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.00603,
+    12.87628,
+    100.00603,
+    12.87628
+],
+  "geometry": {"coordinates":[100.00603,12.87628],"type":"Point"}
+}

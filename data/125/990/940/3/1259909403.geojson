@@ -1,0 +1,77 @@
+{
+  "id": 1259909403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.26667,13.08333,102.26667,13.08333",
+    "geom:latitude":13.08333,
+    "geom:longitude":102.26667,
+    "gn:admin1_code":"48.0",
+    "gn:asciiname":"Ban Ta Mun",
+    "gn:cc2":"TH",
+    "gn:country_code":"TH",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1612933,
+    "gn:latitude":13.08333,
+    "gn:longitude":102.26667,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Ban Ta Mun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rok Skao",
+        "Ban Ta Mun Nua",
+        "Choksakao",
+        "Ban Ta Mun Tai",
+        "Rok Sakao",
+        "Ta Mun Nua",
+        "Ban Ta Mun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678799,
+        1108731929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1612933
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"ffa7b38cbb500a38850c8b52f4412917",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731929,
+            "locality_id":1259909403,
+            "region_id":85678799
+        }
+    ],
+    "wof:id":1259909403,
+    "wof:lastmodified":1537703737,
+    "wof:name":"Ban Ta Mun",
+    "wof:parent_id":1108731929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.26667,
+    13.08333,
+    102.26667,
+    13.08333
+],
+  "geometry": {"coordinates":[102.26667,13.08333],"type":"Point"}
+}

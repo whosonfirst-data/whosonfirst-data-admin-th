@@ -1,0 +1,92 @@
+{
+  "id": 1126018319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.40056,7.60608,100.40056,7.60608",
+    "geom:latitude":7.60608,
+    "geom:longitude":100.40056,
+    "gn:gn_country":"TH",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"TH",
+    "lbl:latitude":7.60608,
+    "lbl:longitude":100.40056,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e0a\u0e38\u0e21\u0e1e\u0e25"
+    ],
+    "name:unk_x_variant":[
+        "Chum Phon"
+    ],
+    "qs_pg:aaroncc":"TH",
+    "qs_pg:gn_country":"TH",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1620084,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Ban Chumphon",
+    "qs_pg:name_adm0":"Thailand",
+    "qs_pg:name_adm1":"Songkhla",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":5,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":308548,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424960,
+    "qs_pg:woe_id":1202360,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424960,
+    "woe:name_adm0":"Thailand",
+    "woe:name_adm1":"Songkhla",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678603,
+        890466337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1620084,
+        "gp:id":1202360,
+        "qs_pg:id":308548
+    },
+    "wof:country":"TH",
+    "wof:created":1497300683,
+    "wof:geomhash":"590b25036c56cedd7db856c50ea084d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466337,
+            "locality_id":1126018319,
+            "region_id":85678603
+        }
+    ],
+    "wof:id":1126018319,
+    "wof:lastmodified":1509407070,
+    "wof:name":"Ban Chumphon",
+    "wof:parent_id":890466337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.40056,
+    7.60608,
+    100.40056,
+    7.60608
+],
+  "geometry": {"coordinates":[100.40056,7.60608],"type":"Point"}
+}

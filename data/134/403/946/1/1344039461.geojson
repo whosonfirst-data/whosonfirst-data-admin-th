@@ -1,0 +1,67 @@
+{
+  "id": 1344039461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.67139,15.8075,99.67139,15.8075",
+    "geom:latitude":15.8075,
+    "geom:longitude":99.67139,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ban Wang San",
+    "gn:country_code":"TH",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1117167,
+    "gn:latitude":15.8075,
+    "gn:longitude":99.67139,
+    "gn:modification_date":"2000-09-11",
+    "gn:name":"Ban Wang San",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678715,
+        890466203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1117167
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"88f8c68c513e2ed9cfe53ee59c3f2c48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466203,
+            "locality_id":1344039461,
+            "region_id":85678715
+        }
+    ],
+    "wof:id":1344039461,
+    "wof:lastmodified":1536906193,
+    "wof:name":"Ban Wang San",
+    "wof:parent_id":890466203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.67139,
+    15.8075,
+    99.67139,
+    15.8075
+],
+  "geometry": {"coordinates":[99.67139,15.8075],"type":"Point"}
+}

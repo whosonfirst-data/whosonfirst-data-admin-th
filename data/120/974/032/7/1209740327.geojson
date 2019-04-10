@@ -1,0 +1,70 @@
+{
+  "id": 1209740327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.38539,6.48608,101.38539,6.48608",
+    "geom:latitude":6.48608,
+    "geom:longitude":101.38539,
+    "gn:admin1_code":"70.0",
+    "gn:asciiname":"Ban To Ku Sae",
+    "gn:country_code":"TH",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7013477,
+    "gn:latitude":6.48608,
+    "gn:longitude":101.38539,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ban To Ku Sae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e42\u0e15\u0e4a\u0e30\u0e01\u0e39\u0e41\u0e0b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678611,
+        1108731791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7013477
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"0115260982f69259ec915dd35697fcd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731791,
+            "locality_id":1209740327,
+            "region_id":85678611
+        }
+    ],
+    "wof:id":1209740327,
+    "wof:lastmodified":1537704403,
+    "wof:name":"Ban To Ku Sae",
+    "wof:parent_id":1108731791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.38539,
+    6.48608,
+    101.38539,
+    6.48608
+],
+  "geometry": {"coordinates":[101.38539,6.48608],"type":"Point"}
+}

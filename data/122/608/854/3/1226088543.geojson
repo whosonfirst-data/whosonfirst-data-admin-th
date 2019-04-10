@@ -1,0 +1,70 @@
+{
+  "id": 1226088543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.00278,15.02831,104.00278,15.02831",
+    "geom:latitude":15.02831,
+    "geom:longitude":104.00278,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Ban Kalao",
+    "gn:country_code":"TH",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1603008,
+    "gn:latitude":15.02831,
+    "gn:longitude":104.00278,
+    "gn:modification_date":"2014-02-06",
+    "gn:name":"Ban Kalao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e01\u0e30\u0e40\u0e25\u0e32"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678849,
+        1108731839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1603008
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"3bdd9545fc462268500e0777848db65d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731839,
+            "locality_id":1226088543,
+            "region_id":85678849
+        }
+    ],
+    "wof:id":1226088543,
+    "wof:lastmodified":1537703568,
+    "wof:name":"Ban Kalao",
+    "wof:parent_id":1108731839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.00278,
+    15.02831,
+    104.00278,
+    15.02831
+],
+  "geometry": {"coordinates":[104.00278,15.02831],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1276934901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.89081,16.63314,103.89081,16.63314",
+    "geom:latitude":16.63314,
+    "geom:longitude":103.89081,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Ban Khlong Udom",
+    "gn:country_code":"TH",
+    "gn:dem":185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8654325,
+    "gn:latitude":16.63314,
+    "gn:longitude":103.89081,
+    "gn:modification_date":"2013-12-17",
+    "gn:name":"Ban Khlong Udom",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e04\u0e25\u0e2d\u0e07\u0e2d\u0e38\u0e14\u0e21"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678831,
+        1108731293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8654325
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"36a3884b15253fabb89e46ec132c4b4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731293,
+            "locality_id":1276934901,
+            "region_id":85678831
+        }
+    ],
+    "wof:id":1276934901,
+    "wof:lastmodified":1537705779,
+    "wof:name":"Ban Khlong Udom",
+    "wof:parent_id":1108731293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.89081,
+    16.63314,
+    103.89081,
+    16.63314
+],
+  "geometry": {"coordinates":[103.89081,16.63314],"type":"Point"}
+}

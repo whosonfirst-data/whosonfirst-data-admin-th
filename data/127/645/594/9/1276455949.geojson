@@ -1,0 +1,70 @@
+{
+  "id": 1276455949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.04269,18.74217,99.04269,18.74217",
+    "geom:latitude":18.74217,
+    "geom:longitude":99.04269,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Nantharam",
+    "gn:country_code":"TH",
+    "gn:dem":300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7791090,
+    "gn:latitude":18.74217,
+    "gn:longitude":99.04269,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Nantharam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e19\u0e31\u0e19\u0e17\u0e32\u0e23\u0e32\u0e21"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678619,
+        1108731859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7791090
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"53647f82f66060c372aa9ddfb3b3c0d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731859,
+            "locality_id":1276455949,
+            "region_id":85678619
+        }
+    ],
+    "wof:id":1276455949,
+    "wof:lastmodified":1537704693,
+    "wof:name":"Ban Nantharam",
+    "wof:parent_id":1108731859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.04269,
+    18.74217,
+    99.04269,
+    18.74217
+],
+  "geometry": {"coordinates":[99.04268999999999,18.74217],"type":"Point"}
+}

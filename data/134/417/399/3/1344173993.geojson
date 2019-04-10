@@ -1,0 +1,67 @@
+{
+  "id": 1344173993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.36667,6.75,100.36667,6.75",
+    "geom:latitude":6.75,
+    "geom:longitude":100.36667,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Ban Wang Kun",
+    "gn:country_code":"TH",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1611928,
+    "gn:latitude":6.75,
+    "gn:longitude":100.36667,
+    "gn:modification_date":"1994-04-06",
+    "gn:name":"Ban Wang Kun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678603,
+        890465793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1611928
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"7bef749eae5772174197893531c380a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465793,
+            "locality_id":1344173993,
+            "region_id":85678603
+        }
+    ],
+    "wof:id":1344173993,
+    "wof:lastmodified":1536712055,
+    "wof:name":"Ban Wang Kun",
+    "wof:parent_id":890465793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.36667,
+    6.75,
+    100.36667,
+    6.75
+],
+  "geometry": {"coordinates":[100.36667,6.75],"type":"Point"}
+}

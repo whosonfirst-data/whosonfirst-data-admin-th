@@ -1,0 +1,67 @@
+{
+  "id": 1209840645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.81667,6.2,101.81667,6.2",
+    "geom:latitude":6.2,
+    "geom:longitude":101.81667,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Kampong Bukekaya",
+    "gn:country_code":"TH",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1610398,
+    "gn:latitude":6.2,
+    "gn:longitude":101.81667,
+    "gn:modification_date":"1994-04-06",
+    "gn:name":"Kampong Bukekaya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678885,
+        1108731251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1610398
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"4a066dd39e5aaf113a4cac50c42df84b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731251,
+            "locality_id":1209840645,
+            "region_id":85678885
+        }
+    ],
+    "wof:id":1209840645,
+    "wof:lastmodified":1536392881,
+    "wof:name":"Kampong Bukekaya",
+    "wof:parent_id":1108731251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.81667,
+    6.2,
+    101.81667,
+    6.2
+],
+  "geometry": {"coordinates":[101.81667,6.2],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1260228187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.40983,15.03381,102.40983,15.03381",
+    "geom:latitude":15.03381,
+    "geom:longitude":102.40983,
+    "gn:admin1_code":"27",
+    "gn:asciiname":"Ban Nong Chok",
+    "gn:country_code":"TH",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9106861,
+    "gn:latitude":15.03381,
+    "gn:longitude":102.40983,
+    "gn:modification_date":"2014-06-07",
+    "gn:name":"Ban Nong Chok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e19\u0e2d\u0e07\u0e08\u0e2d\u0e01"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678841,
+        1108731221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9106861
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"8c0adcdb72b53289c4ea6f2c073b31b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731221,
+            "locality_id":1260228187,
+            "region_id":85678841
+        }
+    ],
+    "wof:id":1260228187,
+    "wof:lastmodified":1537706164,
+    "wof:name":"Ban Nong Chok",
+    "wof:parent_id":1108731221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.40983,
+    15.03381,
+    102.40983,
+    15.03381
+],
+  "geometry": {"coordinates":[102.40983,15.03381],"type":"Point"}
+}

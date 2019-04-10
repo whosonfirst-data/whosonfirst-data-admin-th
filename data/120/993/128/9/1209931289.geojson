@@ -1,0 +1,70 @@
+{
+  "id": 1209931289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.85069,7.30542,99.85069,7.30542",
+    "geom:latitude":7.30542,
+    "geom:longitude":99.85069,
+    "gn:admin1_code":"65.0",
+    "gn:asciiname":"Ban Pak Khlaeng",
+    "gn:country_code":"TH",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8228221,
+    "gn:latitude":7.30542,
+    "gn:longitude":99.85069,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Ban Pak Khlaeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1b\u0e32\u0e01\u0e41\u0e04\u0e25\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678609,
+        1108731683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8228221
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"5738202f687b4f5ed3826e36c54d6539",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731683,
+            "locality_id":1209931289,
+            "region_id":85678609
+        }
+    ],
+    "wof:id":1209931289,
+    "wof:lastmodified":1537705151,
+    "wof:name":"Ban Pak Khlaeng",
+    "wof:parent_id":1108731683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.85069,
+    7.30542,
+    99.85069,
+    7.30542
+],
+  "geometry": {"coordinates":[99.85069,7.30542],"type":"Point"}
+}

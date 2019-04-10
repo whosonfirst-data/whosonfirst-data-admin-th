@@ -1,0 +1,70 @@
+{
+  "id": 1243317773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.23875,16.01989,102.23875,16.01989",
+    "geom:latitude":16.01989,
+    "geom:longitude":102.23875,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Ban Sap Muang Khai",
+    "gn:country_code":"TH",
+    "gn:dem":215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8370970,
+    "gn:latitude":16.01989,
+    "gn:longitude":102.23875,
+    "gn:modification_date":"2012-08-06",
+    "gn:name":"Ban Sap Muang Khai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e0b\u0e31\u0e1a\u0e21\u0e48\u0e27\u0e07\u0e44\u0e02\u0e48"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678825,
+        1108731397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8370970
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"a7c86319a40cc964ed8adff2bcc46b85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731397,
+            "locality_id":1243317773,
+            "region_id":85678825
+        }
+    ],
+    "wof:id":1243317773,
+    "wof:lastmodified":1537705512,
+    "wof:name":"Ban Sap Muang Khai",
+    "wof:parent_id":1108731397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.23875,
+    16.01989,
+    102.23875,
+    16.01989
+],
+  "geometry": {"coordinates":[102.23875,16.01989],"type":"Point"}
+}

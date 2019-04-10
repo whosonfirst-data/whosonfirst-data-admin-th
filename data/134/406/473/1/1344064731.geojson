@@ -1,0 +1,70 @@
+{
+  "id": 1344064731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.23156,19.38247,99.23156,19.38247",
+    "geom:latitude":19.38247,
+    "geom:longitude":99.23156,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Thung Ku",
+    "gn:country_code":"TH",
+    "gn:dem":465,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8310297,
+    "gn:latitude":19.38247,
+    "gn:longitude":99.23156,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Ban Thung Ku",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e17\u0e38\u0e48\u0e07\u0e01\u0e39\u0e48"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678619,
+        1108802725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8310297
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"3ebeebd86c5e3b89e712f6b120e54a90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802725,
+            "locality_id":1344064731,
+            "region_id":85678619
+        }
+    ],
+    "wof:id":1344064731,
+    "wof:lastmodified":1537705313,
+    "wof:name":"Ban Thung Ku",
+    "wof:parent_id":1108802725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.23156,
+    19.38247,
+    99.23156,
+    19.38247
+],
+  "geometry": {"coordinates":[99.23156,19.38247],"type":"Point"}
+}

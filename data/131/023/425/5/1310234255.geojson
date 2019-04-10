@@ -1,0 +1,70 @@
+{
+  "id": 1310234255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.28128,15.72461,105.28128,15.72461",
+    "geom:latitude":15.72461,
+    "geom:longitude":105.28128,
+    "gn:admin1_code":"75.0",
+    "gn:asciiname":"Ban Phrai Sawan",
+    "gn:country_code":"TH",
+    "gn:dem":203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8317814,
+    "gn:latitude":15.72461,
+    "gn:longitude":105.28128,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Ban Phrai Sawan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e44\u0e1e\u0e23\u0e2a\u0e27\u0e23\u0e23\u0e04\u0e4c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678783,
+        1108802721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8317814
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"d5f9a9cf71a43f7cbab324d60d3d750b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802721,
+            "locality_id":1310234255,
+            "region_id":85678783
+        }
+    ],
+    "wof:id":1310234255,
+    "wof:lastmodified":1537705330,
+    "wof:name":"Ban Phrai Sawan",
+    "wof:parent_id":1108802721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.28128,
+    15.72461,
+    105.28128,
+    15.72461
+],
+  "geometry": {"coordinates":[105.28128,15.72461],"type":"Point"}
+}

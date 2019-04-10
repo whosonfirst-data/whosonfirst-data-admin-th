@@ -1,0 +1,67 @@
+{
+  "id": 1327486855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.3,14.78333,100.3,14.78333",
+    "geom:latitude":14.78333,
+    "geom:longitude":100.3,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Ban Pradap",
+    "gn:country_code":"TH",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1598743,
+    "gn:latitude":14.78333,
+    "gn:longitude":100.3,
+    "gn:modification_date":"1994-04-10",
+    "gn:name":"Ban Pradap",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678691,
+        1108731865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1598743
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"a0a887449dca1b336ba979c21f8ff575",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731865,
+            "locality_id":1327486855,
+            "region_id":85678691
+        }
+    ],
+    "wof:id":1327486855,
+    "wof:lastmodified":1537096737,
+    "wof:name":"Ban Pradap",
+    "wof:parent_id":1108731865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.3,
+    14.78333,
+    100.3,
+    14.78333
+],
+  "geometry": {"coordinates":[100.3,14.78333],"type":"Point"}
+}

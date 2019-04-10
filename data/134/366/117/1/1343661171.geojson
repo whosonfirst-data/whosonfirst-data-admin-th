@@ -1,0 +1,70 @@
+{
+  "id": 1343661171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.64367,18.72142,100.64367,18.72142",
+    "geom:latitude":18.72142,
+    "geom:longitude":100.64367,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Ban Na Mon",
+    "gn:country_code":"TH",
+    "gn:dem":292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8231045,
+    "gn:latitude":18.72142,
+    "gn:longitude":100.64367,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Ban Na Mon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e19\u0e32\u0e21\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678633,
+        890466613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8231045
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"3e7461e22d68d6e60875ac3a3d5d0547",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466613,
+            "locality_id":1343661171,
+            "region_id":85678633
+        }
+    ],
+    "wof:id":1343661171,
+    "wof:lastmodified":1537705179,
+    "wof:name":"Ban Na Mon",
+    "wof:parent_id":890466613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.64367,
+    18.72142,
+    100.64367,
+    18.72142
+],
+  "geometry": {"coordinates":[100.64367,18.72142],"type":"Point"}
+}

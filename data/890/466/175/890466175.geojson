@@ -1,0 +1,81 @@
+{
+  "id": 890466175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.21675,13.74836,101.21675,13.74836",
+    "geom:latitude":13.74836,
+    "geom:longitude":101.21675,
+    "gn:country":"TH",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424960,
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e34\u0e19\u0e15\u0e31\u0e49\u0e07"
+    ],
+    "name:unk_x_variant":[
+        "Ban Hin Tang"
+    ],
+    "qs:name":"Hin Tang",
+    "qs:name_adm0":"Thailand",
+    "qs:name_adm1":"Nakhon Nayok",
+    "qs:photos":133,
+    "qs:photos_1k":27,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":133,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":210,
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678797,
+        1108802575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7853737,
+        "gp:id":55947583,
+        "qs:id":361165,
+        "wk:page":"Ban Phai District"
+    },
+    "wof:country":"TH",
+    "wof:created":1469053569,
+    "wof:geomhash":"bc227658f63b76d60dde3c21e91ff460",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802575,
+            "locality_id":890466175,
+            "region_id":85678797
+        }
+    ],
+    "wof:id":890466175,
+    "wof:lastmodified":1527793012,
+    "wof:name":"Hin Tang",
+    "wof:parent_id":1108802575,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.21675,
+    13.74836,
+    101.21675,
+    13.74836
+],
+  "geometry": {"coordinates":[101.21675,13.74836],"type":"Point"}
+}

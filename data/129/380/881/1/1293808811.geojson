@@ -1,0 +1,70 @@
+{
+  "id": 1293808811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.82842,14.41514,99.82842,14.41514",
+    "geom:latitude":14.41514,
+    "geom:longitude":99.82842,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Ban Huai Hin",
+    "gn:country_code":"TH",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8666291,
+    "gn:latitude":14.41514,
+    "gn:longitude":99.82842,
+    "gn:modification_date":"2014-01-18",
+    "gn:name":"Ban Huai Hin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e49\u0e27\u0e22\u0e2b\u0e34\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678679,
+        1108732035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8666291
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"4a8407907b3bed10ca5a9c35bc6eac6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108732035,
+            "locality_id":1293808811,
+            "region_id":85678679
+        }
+    ],
+    "wof:id":1293808811,
+    "wof:lastmodified":1537705794,
+    "wof:name":"Ban Huai Hin",
+    "wof:parent_id":1108732035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.82842,
+    14.41514,
+    99.82842,
+    14.41514
+],
+  "geometry": {"coordinates":[99.82841999999999,14.41514],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 890466047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.79758,16.99794,99.79758,16.99794",
+    "geom:latitude":16.99794,
+    "geom:longitude":99.79758,
+    "gn:country":"TH",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424960,
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e01\u0e25\u0e49\u0e27\u0e22"
+    ],
+    "name:unk_x_variant":[
+        "B\u0101n Gluai"
+    ],
+    "qs:name":"Ban Kluai",
+    "qs:name_adm0":"Thailand",
+    "qs:name_adm1":"Sukhothai",
+    "qs:photos":1748,
+    "qs:photos_1k":354,
+    "qs:photos_9k":8,
+    "qs:photos_9r":8,
+    "qs:photos_all":1748,
+    "qs:photos_sr":14,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1156852,
+        "gp:id":1208302,
+        "qs:id":1220537
+    },
+    "wof:country":"TH",
+    "wof:created":1469053563,
+    "wof:geomhash":"8f7913bb2000e1b77463d66bd626fa50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "locality_id":890466047,
+            "region_id":85678651
+        }
+    ],
+    "wof:id":890466047,
+    "wof:lastmodified":1505343706,
+    "wof:name":"Ban Kluai",
+    "wof:parent_id":85678651,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.79758,
+    16.99794,
+    99.79758,
+    16.99794
+],
+  "geometry": {"coordinates":[99.79758,16.99794],"type":"Point"}
+}

@@ -1,0 +1,115 @@
+{
+  "id": 102024349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000263,
+    "geom:area_square_m":3134983.346327,
+    "geom:bbox":"99.5652724978,15.2486484447,99.5838974077,15.2667295758",
+    "geom:latitude":15.257689,
+    "geom:longitude":99.574585,
+    "gn:population":5940,
+    "iso:country":"TH",
+    "lbl:latitude":15.257689,
+    "lbl:longitude":99.574585,
+    "mps:latitude":15.257689,
+    "mps:longitude":99.574585,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bpy_x_preferred":[
+        "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09b9\u09c1\u09af\u09bc\u09be\u0987 \u0996\u09cb\u09a4"
+    ],
+    "name:deu_x_preferred":[
+        "Amphoe Huai Khot"
+    ],
+    "name:eng_x_preferred":[
+        "Huai Khot"
+    ],
+    "name:ron_x_preferred":[
+        "Districtul Huai Khot"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e2b\u0e49\u0e27\u0e22\u0e04\u0e15"
+    ],
+    "name:tha_x_variant":[
+        "\u0e2b\u0e49\u0e27\u0e22\u0e04\u0e15"
+    ],
+    "name:unk_x_variant":[
+        "\u0e2b\u0e49\u0e27\u0e22\u0e04\u0e15"
+    ],
+    "name:vie_x_preferred":[
+        "Huai Khot"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Huai Khot K\u016bn"
+    ],
+    "qs:a0":"Thailand",
+    "qs:a1":"*Uthai Thani",
+    "qs:a1r":"*",
+    "qs:a2":"Huai Khot",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Huai Khot",
+    "qs:loc_alt":"Huai Khot",
+    "qs:loc_lc":"1153263",
+    "qs:pop":0,
+    "qs:source":"Aquattroshapes",
+    "qs:type":"Town",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":167,
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678689,
+        890466427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"07cf2958-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":1153263,
+        "gp:id":1225160,
+        "qs:id":1213635,
+        "qs_pg:id":1213635,
+        "wd:id":"Q475533"
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"5abe9ef56b8f69e27791f8373c9f6762",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466427,
+            "locality_id":102024349,
+            "region_id":85678689
+        }
+    ],
+    "wof:id":102024349,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527636441,
+    "wof:name":"Huai Khot",
+    "wof:parent_id":890466427,
+    "wof:placetype":"locality",
+    "wof:population":5940,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.56527249782239,
+    15.24864844472212,
+    99.58389740765865,
+    15.26672957576244
+],
+  "geometry": {"coordinates":[[[99.57637755718007,15.24881749749576],[99.57456039190289,15.24864844472212],[99.57274416986984,15.24882680138276],[99.57099867888006,15.24934571447366],[99.56939099002672,15.25018524506457],[99.56798288127978,15.25131313414484],[99.56682846409537,15.25268604175955],[99.56597210415178,15.25425121190273],[99.56544671608869,15.25594849928314],[99.56527249782239,15.25771268016825],[99.56545615320529,15.25947595858024],[99.56599063306875,15.2611705715796],[99.56685540480875,15.26273139352932],[99.56801724035155,15.26409843923361],[99.56943149238545,15.26521916969564],[99.57104380992074,15.26605051180147],[99.57279222728364,15.26656051421607],[99.57460954621648,15.26672957576244],[99.57642591942069,15.26655119899938],[99.57817153608265,15.26603223999145],[99.57977930597686,15.26519264465907],[99.58118743879574,15.2640646818695],[99.5823418194182,15.26269170279916],[99.58319808773204,15.2611264743324],[99.58372334304791,15.2594291506397],[99.58389740765865,15.25766496098187],[99.58371360110458,15.25590170267229],[99.58317899556893,15.25420713559008],[99.58231414278806,15.25264637838171],[99.58115228317332,15.25127940638674],[99.57973806770157,15.25015874738044],[99.57812584179571,15.24932746359818],[99.57637755718007,15.24881749749576]]],"type":"Polygon"}
+}

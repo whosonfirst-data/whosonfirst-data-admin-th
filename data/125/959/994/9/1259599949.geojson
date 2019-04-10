@@ -1,0 +1,70 @@
+{
+  "id": 1259599949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.04058,7.54831,100.04058,7.54831",
+    "geom:latitude":7.54831,
+    "geom:longitude":100.04058,
+    "gn:admin1_code":"66.0",
+    "gn:asciiname":"Ban Pluak Ron",
+    "gn:country_code":"TH",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1598804,
+    "gn:latitude":7.54831,
+    "gn:longitude":100.04058,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Ban Pluak Ron",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1b\u0e25\u0e27\u0e01\u0e23\u0e49\u0e2d\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678591,
+        890467449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1598804
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"f84a3888caaa67a9f8d4d2a5691df397",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890467449,
+            "locality_id":1259599949,
+            "region_id":85678591
+        }
+    ],
+    "wof:id":1259599949,
+    "wof:lastmodified":1537703414,
+    "wof:name":"Ban Pluak Ron",
+    "wof:parent_id":890467449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.04058,
+    7.54831,
+    100.04058,
+    7.54831
+],
+  "geometry": {"coordinates":[100.04058000000001,7.54831],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1276245721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.94825,13.78544,99.94825,13.78544",
+    "geom:latitude":13.78544,
+    "geom:longitude":99.94825,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Ban Rong Khao San",
+    "gn:country_code":"TH",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8339224,
+    "gn:latitude":13.78544,
+    "gn:longitude":99.94825,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Ban Rong Khao San",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e42\u0e23\u0e07\u0e02\u0e49\u0e32\u0e27\u0e2a\u0e32\u0e23"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678761,
+        1108731153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8339224
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"54e89f87aa4b3fd7940eb7f754be8a3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731153,
+            "locality_id":1276245721,
+            "region_id":85678761
+        }
+    ],
+    "wof:id":1276245721,
+    "wof:lastmodified":1537705426,
+    "wof:name":"Ban Rong Khao San",
+    "wof:parent_id":1108731153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.94825,
+    13.78544,
+    99.94825,
+    13.78544
+],
+  "geometry": {"coordinates":[99.94825,13.78544],"type":"Point"}
+}

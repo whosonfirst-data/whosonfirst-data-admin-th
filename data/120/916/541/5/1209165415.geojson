@@ -1,0 +1,64 @@
+{
+  "id": 1209165415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.13303,15.63739,102.13303,15.63739",
+    "geom:latitude":15.63739,
+    "geom:longitude":102.13303,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Ban Ton",
+    "gn:country_code":"TH",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1597458,
+    "gn:latitude":15.63739,
+    "gn:longitude":102.13303,
+    "gn:modification_date":"2014-06-04",
+    "gn:name":"Ban Ton",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e42\u0e15\u0e49\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1597458
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"999d34b00d82ac5c4ef1e83888b44e98",
+    "wof:hierarchy":[
+        {
+            "country_id":85632293,
+            "locality_id":1209165415
+        }
+    ],
+    "wof:id":1209165415,
+    "wof:lastmodified":1537703369,
+    "wof:name":"Ban Ton",
+    "wof:parent_id":85632293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.13303,
+    15.63739,
+    102.13303,
+    15.63739
+],
+  "geometry": {"coordinates":[102.13303000000001,15.63739],"type":"Point"}
+}

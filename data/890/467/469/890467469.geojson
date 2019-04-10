@@ -1,0 +1,69 @@
+{
+  "id": 890467469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-11-10",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.152609,19.502416,98.152609,19.502416",
+    "geom:latitude":19.502416,
+    "geom:longitude":98.152609,
+    "gp:adm0":23424960,
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "qs:name":"Pangmapha",
+    "qs:name_adm0":"Thailand",
+    "qs:name_adm1":"Mae Hong Son",
+    "qs:photos":419,
+    "qs:photos_1k":85,
+    "qs:photos_9k":6,
+    "qs:photos_9r":7,
+    "qs:photos_all":1345,
+    "qs:photos_sr":6,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "wd:wordcount":388,
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28340831,
+        "qs:id":251091,
+        "wd:id":"Q476348",
+        "wk:page":"Pang Mapha District"
+    },
+    "wof:country":"TH",
+    "wof:created":1469053647,
+    "wof:geomhash":"14d9a0a250d5b4cc9055d2432fa23611",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890467469,
+            "region_id":85678555
+        }
+    ],
+    "wof:id":890467469,
+    "wof:lastmodified":1527792900,
+    "wof:name":"Pangmapha",
+    "wof:parent_id":85678555,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.152609,
+    19.502416,
+    98.152609,
+    19.502416
+],
+  "geometry": {"coordinates":[98.152609,19.502416],"type":"Point"}
+}

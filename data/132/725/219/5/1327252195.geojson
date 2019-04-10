@@ -1,0 +1,70 @@
+{
+  "id": 1327252195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.69108,17.15922,99.69108,17.15922",
+    "geom:latitude":17.15922,
+    "geom:longitude":99.69108,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ban Taluk",
+    "gn:country_code":"TH",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8414771,
+    "gn:latitude":17.15922,
+    "gn:longitude":99.69108,
+    "gn:modification_date":"2012-11-10",
+    "gn:name":"Ban Taluk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e15\u0e25\u0e38\u0e01"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678651,
+        1108731899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8414771
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"15ac7a11efc751d4826cf34b659691b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731899,
+            "locality_id":1327252195,
+            "region_id":85678651
+        }
+    ],
+    "wof:id":1327252195,
+    "wof:lastmodified":1537705595,
+    "wof:name":"Ban Taluk",
+    "wof:parent_id":1108731899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.69108,
+    17.15922,
+    99.69108,
+    17.15922
+],
+  "geometry": {"coordinates":[99.69108,17.15922],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1226327107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.94036,17.18442,98.94036,17.18442",
+    "geom:latitude":17.18442,
+    "geom:longitude":98.94036,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Ban Huai Rin",
+    "gn:country_code":"TH",
+    "gn:dem":304,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8163904,
+    "gn:latitude":17.18442,
+    "gn:longitude":98.94036,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Ban Huai Rin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "Ban Huai Rin"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e49\u0e27\u0e22\u0e23\u0e34\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678683,
+        1108731833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8163904
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"987236dcb264a20b0775677ed83ca7c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731833,
+            "locality_id":1226327107,
+            "region_id":85678683
+        }
+    ],
+    "wof:id":1226327107,
+    "wof:lastmodified":1537705043,
+    "wof:name":"Ban Huai Rin",
+    "wof:parent_id":1108731833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.94036,
+    17.18442000000001,
+    98.94036,
+    17.18442000000001
+],
+  "geometry": {"coordinates":[98.94036,17.18442000000001],"type":"Point"}
+}

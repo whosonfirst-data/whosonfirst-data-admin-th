@@ -1,0 +1,119 @@
+{
+  "id": 102024365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000513,
+    "geom:area_square_m":6005911.783719,
+    "geom:bbox":"99.1135439618,18.8387139769,99.1446244812,18.8953569008",
+    "geom:latitude":18.85946,
+    "geom:longitude":99.127982,
+    "iso:country":"TH",
+    "lbl:latitude":18.848069,
+    "lbl:longitude":99.12286,
+    "mps:latitude":18.848069,
+    "mps:longitude":99.12286,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bpy_x_preferred":[
+        "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09a6\u09cb\u0987 \u09b8\u09be\u0995\u09c7\u09a4"
+    ],
+    "name:deu_x_preferred":[
+        "Amphoe Doi Saket"
+    ],
+    "name:eng_x_preferred":[
+        "Doi Saket"
+    ],
+    "name:eng_x_variant":[
+        "Ban Jaeung Doi",
+        "Doi Sket",
+        "Jaeung Doi",
+        "Maung Ken"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c9\u30fc\u30a4\u30b5\u30b1\u30c3\u30c8\u90e1"
+    ],
+    "name:ron_x_preferred":[
+        "Districtul Doi Saket"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e14\u0e2d\u0e22\u0e2a\u0e30\u0e40\u0e01\u0e47\u0e14"
+    ],
+    "name:unk_x_variant":[
+        "Jaeung Doi"
+    ],
+    "name:vie_x_preferred":[
+        "Doi Saket"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Doi Saket K\u016bn"
+    ],
+    "qs:a0":"Thailand",
+    "qs:a1":"*Chiang Mai",
+    "qs:a1r":"*",
+    "qs:a2":"Doi Saket",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Doi Saket",
+    "qs:loc_alt":"Doi Saket",
+    "qs:loc_lc":"1153469",
+    "qs:pop":0,
+    "qs:source":"Aquattroshapes",
+    "qs:type":"Town",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":199,
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678619,
+        890467381
+    ],
+    "wof:breaches":[
+        102024381
+    ],
+    "wof:concordances":{
+        "fct:id":"07ceb608-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":1153469,
+        "gp:id":1225970,
+        "qs:id":482510,
+        "qs_pg:id":482510,
+        "wd:id":"Q475465"
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"d7c411bb0bb7fddf282e3073264d82e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890467381,
+            "locality_id":102024365,
+            "region_id":85678619
+        }
+    ],
+    "wof:id":102024365,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527636421,
+    "wof:name":"Doi Saket",
+    "wof:parent_id":890467381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.11354396181842,
+    18.83871397690001,
+    99.14462448116872,
+    18.89535690080373
+],
+  "geometry": {"coordinates":[[[[99.1252651185052,18.8589317298876],[99.12963851939416,18.85431036190002],[99.1296386719,18.85431036190002],[99.140625,18.85431036190002],[99.140625,18.8543102008],[99.14287293028455,18.8543102008],[99.14287211016067,18.85430925094265],[99.14302893620892,18.85412702197554],[99.14390484470648,18.85256382985366],[99.14444359112132,18.85086798242521],[99.14462448116872,18.84910465301695],[99.14451127752342,18.84801941104564],[99.14062515232347,18.84391320109998],[99.140625,18.84391320109998],[99.12963867190008,18.84391320109998],[99.12963867185009,18.84391304014997],[99.12471826808051,18.83871397690001],[99.12289606064873,18.83871397690001],[99.11363488301514,18.84290775207248],[99.11354396181842,18.84309989282956],[99.11478615628137,18.852287844464],[99.1252651185052,18.8589317298876]]],[[[99.13542298423373,18.88679733300003],[99.13419354313201,18.88549797749995],[99.12963867190008,18.88549797750004],[99.12826538090006,18.88549797750004],[99.12689208980002,18.88549797750004],[99.12198922014558,18.88549797749995],[99.1198441626686,18.88675744423735],[99.11985674271024,18.88679733300003],[99.12127993836357,18.89311513266684],[99.12826538090015,18.8948730642864],[99.12963867185009,18.89535690080373],[99.13697446314869,18.89203392244362],[99.13760785519533,18.88868662303628],[99.13542298423373,18.88679733300003]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243128441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.0,16.6,102.0,16.6",
+    "geom:latitude":16.6,
+    "geom:longitude":102.0,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Ban Non Han",
+    "gn:country_code":"TH",
+    "gn:dem":238,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1614865,
+    "gn:latitude":16.6,
+    "gn:longitude":102.0,
+    "gn:modification_date":"1994-04-06",
+    "gn:name":"Ban Non Han",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678827,
+        890467315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1614865
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"1cc2fe99d4af57d421186f83f86dafd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890467315,
+            "locality_id":1243128441,
+            "region_id":85678827
+        }
+    ],
+    "wof:id":1243128441,
+    "wof:lastmodified":1536767613,
+    "wof:name":"Ban Non Han",
+    "wof:parent_id":890467315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.0,
+    16.6,
+    102.0,
+    16.6
+],
+  "geometry": {"coordinates":[102.0,16.6],"type":"Point"}
+}

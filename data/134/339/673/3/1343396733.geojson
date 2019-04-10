@@ -1,0 +1,73 @@
+{
+  "id": 1343396733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.111,17.41269,104.111,17.41269",
+    "geom:latitude":17.41269,
+    "geom:longitude":104.111,
+    "gn:admin1_code":"73.0",
+    "gn:asciiname":"Ban Na Khoi",
+    "gn:country_code":"TH",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8027075,
+    "gn:latitude":17.41269,
+    "gn:longitude":104.111,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Na Khoi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "Ban Na Khoi"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e19\u0e32\u0e04\u0e2d\u0e22"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678879,
+        1108731565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8027075
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"c3ba514decaaff1ff971d63f4ad4ea6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731565,
+            "locality_id":1343396733,
+            "region_id":85678879
+        }
+    ],
+    "wof:id":1343396733,
+    "wof:lastmodified":1537704910,
+    "wof:name":"Ban Na Khoi",
+    "wof:parent_id":1108731565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.111,
+    17.41269,
+    104.111,
+    17.41269
+],
+  "geometry": {"coordinates":[104.111,17.41269],"type":"Point"}
+}

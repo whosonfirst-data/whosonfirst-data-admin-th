@@ -1,0 +1,70 @@
+{
+  "id": 1293414937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.62153,16.94947,102.62153,16.94947",
+    "geom:latitude":16.94947,
+    "geom:longitude":102.62153,
+    "gn:admin1_code":"79.0",
+    "gn:asciiname":"Ban Nong Waeng",
+    "gn:country_code":"TH",
+    "gn:dem":211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1599680,
+    "gn:latitude":16.94947,
+    "gn:longitude":102.62153,
+    "gn:modification_date":"2013-02-07",
+    "gn:name":"Ban Nong Waeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e19\u0e2d\u0e07\u0e41\u0e27\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678871,
+        890466637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1599680
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"1815550bdc4cb6dee0bda0166ee0c1ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466637,
+            "locality_id":1293414937,
+            "region_id":85678871
+        }
+    ],
+    "wof:id":1293414937,
+    "wof:lastmodified":1537703445,
+    "wof:name":"Ban Nong Waeng",
+    "wof:parent_id":890466637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.62153,
+    16.94947,
+    102.62153,
+    16.94947
+],
+  "geometry": {"coordinates":[102.62153000000001,16.94947],"type":"Point"}
+}

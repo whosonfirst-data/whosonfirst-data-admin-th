@@ -1,0 +1,73 @@
+{
+  "id": 1293322033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.15283,7.49647,100.15283,7.49647",
+    "geom:latitude":7.49647,
+    "geom:longitude":100.15283,
+    "gn:admin1_code":"66.0",
+    "gn:asciiname":"Ban Yang Cham Raet",
+    "gn:country_code":"TH",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1117118,
+    "gn:latitude":7.49647,
+    "gn:longitude":100.15283,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Ban Yang Cham Raet",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e22\u0e32\u0e07\u0e08\u0e33\u0e41\u0e23\u0e14"
+    ],
+    "name:und_x_variant":[
+        "Ban Yang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678591,
+        1108731359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1117118
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"b5d20a3d59f629e20b6af86336923045",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731359,
+            "locality_id":1293322033,
+            "region_id":85678591
+        }
+    ],
+    "wof:id":1293322033,
+    "wof:lastmodified":1537702905,
+    "wof:name":"Ban Yang Cham Raet",
+    "wof:parent_id":1108731359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.15283,
+    7.49647,
+    100.15283,
+    7.49647
+],
+  "geometry": {"coordinates":[100.15282999999999,7.49647],"type":"Point"}
+}

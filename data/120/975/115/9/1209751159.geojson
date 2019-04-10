@@ -1,0 +1,73 @@
+{
+  "id": 1209751159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.37785,6.97669,100.37785,6.97669",
+    "geom:latitude":6.97669,
+    "geom:longitude":100.37785,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Ban Muang Khom",
+    "gn:country_code":"TH",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1616575,
+    "gn:latitude":6.97669,
+    "gn:longitude":100.37785,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Muang Khom",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Muang Loy",
+        "Ban Muang Khoi",
+        "Ban Muang Khom",
+        "\u0e1a\u0e49\u0e32\u0e19\u0e21\u0e48\u0e27\u0e07\u0e04\u0e48\u0e2d\u0e21"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678603,
+        890467223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1616575
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"a906100e4744e0d504fde92e78f0fd82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890467223,
+            "locality_id":1209751159,
+            "region_id":85678603
+        }
+    ],
+    "wof:id":1209751159,
+    "wof:lastmodified":1537703990,
+    "wof:name":"Ban Muang Khom",
+    "wof:parent_id":890467223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.37785,
+    6.97669,
+    100.37785,
+    6.97669
+],
+  "geometry": {"coordinates":[100.37785,6.97669],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293017791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.87739,8.31208,98.87739,8.31208",
+    "geom:latitude":8.31208,
+    "geom:longitude":98.87739,
+    "gn:admin1_code":"63.0",
+    "gn:asciiname":"Ban Chong Mai Dam",
+    "gn:country_code":"TH",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8271804,
+    "gn:latitude":8.31208,
+    "gn:longitude":98.87739,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Ban Chong Mai Dam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e0a\u0e48\u0e2d\u0e07\u0e44\u0e21\u0e49\u0e14\u0e33"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678585,
+        1108731103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8271804
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"e018156590ef56bb2f3c38f5e08df596",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731103,
+            "locality_id":1293017791,
+            "region_id":85678585
+        }
+    ],
+    "wof:id":1293017791,
+    "wof:lastmodified":1537705291,
+    "wof:name":"Ban Chong Mai Dam",
+    "wof:parent_id":1108731103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.87739,
+    8.31208,
+    98.87739,
+    8.31208
+],
+  "geometry": {"coordinates":[98.87739000000001,8.31208],"type":"Point"}
+}

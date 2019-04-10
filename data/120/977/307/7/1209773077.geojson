@@ -1,0 +1,70 @@
+{
+  "id": 1209773077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.32883,15.45456,103.32883,15.45456",
+    "geom:latitude":15.45456,
+    "geom:longitude":103.32883,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Ban Khai Nun",
+    "gn:country_code":"TH",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8732803,
+    "gn:latitude":15.45456,
+    "gn:longitude":103.32883,
+    "gn:modification_date":"2014-03-12",
+    "gn:name":"Ban Khai Nun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e04\u0e48\u0e32\u0e22\u0e19\u0e38\u0e48\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678835,
+        1108731715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8732803
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"616eb9ddeb5a97b5ec9a7b013f36ed9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731715,
+            "locality_id":1209773077,
+            "region_id":85678835
+        }
+    ],
+    "wof:id":1209773077,
+    "wof:lastmodified":1537706002,
+    "wof:name":"Ban Khai Nun",
+    "wof:parent_id":1108731715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.32883,
+    15.45456,
+    103.32883,
+    15.45456
+],
+  "geometry": {"coordinates":[103.32883,15.45456],"type":"Point"}
+}

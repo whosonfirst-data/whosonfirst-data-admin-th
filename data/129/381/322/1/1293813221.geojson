@@ -1,0 +1,70 @@
+{
+  "id": 1293813221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.17467,15.88028,105.17467,15.88028",
+    "geom:latitude":15.88028,
+    "geom:longitude":105.17467,
+    "gn:admin1_code":"75.0",
+    "gn:asciiname":"Ban Dao Khanong",
+    "gn:country_code":"TH",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8317033,
+    "gn:latitude":15.88028,
+    "gn:longitude":105.17467,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Ban Dao Khanong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e14\u0e32\u0e27\u0e04\u0e30\u0e19\u0e2d\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678783,
+        1108731371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8317033
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"c09392ee972769029f65f763a9525c13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731371,
+            "locality_id":1293813221,
+            "region_id":85678783
+        }
+    ],
+    "wof:id":1293813221,
+    "wof:lastmodified":1537705321,
+    "wof:name":"Ban Dao Khanong",
+    "wof:parent_id":1108731371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.17467,
+    15.88028,
+    105.17467,
+    15.88028
+],
+  "geometry": {"coordinates":[105.17467000000001,15.88028],"type":"Point"}
+}

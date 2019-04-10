@@ -1,0 +1,70 @@
+{
+  "id": 1343918459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.27056,15.33039,104.27056,15.33039",
+    "geom:latitude":15.33039,
+    "geom:longitude":104.27056,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Ban Don Makluea",
+    "gn:country_code":"TH",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7877215,
+    "gn:latitude":15.33039,
+    "gn:longitude":104.27056,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Don Makluea",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e14\u0e2d\u0e19\u0e21\u0e30\u0e40\u0e01\u0e25\u0e37\u0e2d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678779,
+        1108731797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7877215
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"632a857784047fded330e2eeca121862",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731797,
+            "locality_id":1343918459,
+            "region_id":85678779
+        }
+    ],
+    "wof:id":1343918459,
+    "wof:lastmodified":1537704775,
+    "wof:name":"Ban Don Makluea",
+    "wof:parent_id":1108731797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.27056,
+    15.33039,
+    104.27056,
+    15.33039
+],
+  "geometry": {"coordinates":[104.27056,15.33039],"type":"Point"}
+}

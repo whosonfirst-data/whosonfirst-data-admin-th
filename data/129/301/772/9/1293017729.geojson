@@ -1,0 +1,75 @@
+{
+  "id": 1293017729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.20925,8.20172,100.20925,8.20172",
+    "geom:latitude":8.20172,
+    "geom:longitude":100.20925,
+    "gn:admin1_code":"64.0",
+    "gn:asciiname":"Ban Na Khae",
+    "gn:country_code":"TH",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1616418,
+    "gn:latitude":8.20172,
+    "gn:longitude":100.20925,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Ban Na Khae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e19\u0e32\u0e41\u0e04"
+    ],
+    "name:und_x_variant":[
+        "Ban Nake",
+        "Ban Na Kae",
+        "Ban Na Khae"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678565,
+        1108731241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1616418
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"9253496480544dab644fdaeb07fd2c18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731241,
+            "locality_id":1293017729,
+            "region_id":85678565
+        }
+    ],
+    "wof:id":1293017729,
+    "wof:lastmodified":1537703978,
+    "wof:name":"Ban Na Khae",
+    "wof:parent_id":1108731241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.20925,
+    8.20172,
+    100.20925,
+    8.20172
+],
+  "geometry": {"coordinates":[100.20925,8.20172],"type":"Point"}
+}

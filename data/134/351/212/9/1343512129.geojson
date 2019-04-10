@@ -1,0 +1,70 @@
+{
+  "id": 1343512129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.72822,14.54481,102.72822,14.54481",
+    "geom:latitude":14.54481,
+    "geom:longitude":102.72822,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Ban Lung Takai",
+    "gn:country_code":"TH",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9284171,
+    "gn:latitude":14.54481,
+    "gn:longitude":102.72822,
+    "gn:modification_date":"2014-08-07",
+    "gn:name":"Ban Lung Takai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e25\u0e38\u0e07\u0e15\u0e30\u0e44\u0e01\u0e49"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678817,
+        1108802689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9284171
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"49b9de01e956245dfa48faa68bc7f185",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802689,
+            "locality_id":1343512129,
+            "region_id":85678817
+        }
+    ],
+    "wof:id":1343512129,
+    "wof:lastmodified":1537706263,
+    "wof:name":"Ban Lung Takai",
+    "wof:parent_id":1108802689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.72822,
+    14.54481,
+    102.72822,
+    14.54481
+],
+  "geometry": {"coordinates":[102.72821999999999,14.54481],"type":"Point"}
+}

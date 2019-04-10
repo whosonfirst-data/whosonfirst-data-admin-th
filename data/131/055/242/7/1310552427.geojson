@@ -1,0 +1,70 @@
+{
+  "id": 1310552427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.18083,15.06181,102.18083,15.06181",
+    "geom:latitude":15.06181,
+    "geom:longitude":102.18083,
+    "gn:admin1_code":"27",
+    "gn:asciiname":"Ban Burana Phanit",
+    "gn:country_code":"TH",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9108823,
+    "gn:latitude":15.06181,
+    "gn:longitude":102.18083,
+    "gn:modification_date":"2014-06-07",
+    "gn:name":"Ban Burana Phanit",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1a\u0e39\u0e23\u0e13\u0e1e\u0e32\u0e13\u0e34\u0e0a\u0e22\u0e4c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678841,
+        890466785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9108823
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"8abaa11efc543ddceaee9a21c2bc1b5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466785,
+            "locality_id":1310552427,
+            "region_id":85678841
+        }
+    ],
+    "wof:id":1310552427,
+    "wof:lastmodified":1537706186,
+    "wof:name":"Ban Burana Phanit",
+    "wof:parent_id":890466785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.18083,
+    15.06181,
+    102.18083,
+    15.06181
+],
+  "geometry": {"coordinates":[102.18083,15.06181],"type":"Point"}
+}

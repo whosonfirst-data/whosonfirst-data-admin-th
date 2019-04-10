@@ -1,0 +1,70 @@
+{
+  "id": 1259731121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.94572,15.66931,101.94572,15.66931",
+    "geom:latitude":15.66931,
+    "geom:longitude":101.94572,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Ban Wang Pho Thong",
+    "gn:country_code":"TH",
+    "gn:dem":192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8370436,
+    "gn:latitude":15.66931,
+    "gn:longitude":101.94572,
+    "gn:modification_date":"2012-08-06",
+    "gn:name":"Ban Wang Pho Thong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e27\u0e31\u0e07\u0e42\u0e1e\u0e18\u0e34\u0e4c\u0e17\u0e2d\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678825,
+        1108731117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8370436
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"2d119fe7c86a5404560b7f2f242c7acb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731117,
+            "locality_id":1259731121,
+            "region_id":85678825
+        }
+    ],
+    "wof:id":1259731121,
+    "wof:lastmodified":1537705506,
+    "wof:name":"Ban Wang Pho Thong",
+    "wof:parent_id":1108731117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.94572,
+    15.66931,
+    101.94572,
+    15.66931
+],
+  "geometry": {"coordinates":[101.94571999999999,15.66931],"type":"Point"}
+}

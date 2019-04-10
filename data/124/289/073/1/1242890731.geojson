@@ -1,0 +1,73 @@
+{
+  "id": 1242890731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.94667,12.40572,99.94667,12.40572",
+    "geom:latitude":12.40572,
+    "geom:longitude":99.94667,
+    "gn:admin1_code":"57.0",
+    "gn:asciiname":"Ban Benchaphat",
+    "gn:country_code":"TH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1158185,
+    "gn:latitude":12.40572,
+    "gn:longitude":99.94667,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Ban Benchaphat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e1a\u0e0d\u0e08\u0e1e\u0e32\u0e2a"
+    ],
+    "name:und_x_variant":[
+        "Ban Benyaphat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678757,
+        890466945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1158185
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"60cf424ab3f63b5eb75bf02b67ccdc2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466945,
+            "locality_id":1242890731,
+            "region_id":85678757
+        }
+    ],
+    "wof:id":1242890731,
+    "wof:lastmodified":1537703303,
+    "wof:name":"Ban Benchaphat",
+    "wof:parent_id":890466945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.94667,
+    12.40572,
+    99.94667,
+    12.40572
+],
+  "geometry": {"coordinates":[99.94667,12.40572],"type":"Point"}
+}

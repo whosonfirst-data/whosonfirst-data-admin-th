@@ -1,0 +1,73 @@
+{
+  "id": 1310193529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.38703,17.81172,100.38703,17.81172",
+    "geom:latitude":17.81172,
+    "geom:longitude":100.38703,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Ban Dong Ngam",
+    "gn:country_code":"TH",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8136174,
+    "gn:latitude":17.81172,
+    "gn:longitude":100.38703,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Ban Dong Ngam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "Ban Dong Ngam"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e14\u0e07\u0e07\u0e32\u0e21"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678657,
+        1108731981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8136174
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"8e679705e9ed9abe7f770030fdc667ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731981,
+            "locality_id":1310193529,
+            "region_id":85678657
+        }
+    ],
+    "wof:id":1310193529,
+    "wof:lastmodified":1537704985,
+    "wof:name":"Ban Dong Ngam",
+    "wof:parent_id":1108731981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.38703,
+    17.81172,
+    100.38703,
+    17.81172
+],
+  "geometry": {"coordinates":[100.38703,17.81172],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293350043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.12611,15.00373,100.12611,15.00373",
+    "geom:latitude":15.00373,
+    "geom:longitude":100.12611,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Ban Theppharat",
+    "gn:country_code":"TH",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8676770,
+    "gn:latitude":15.00373,
+    "gn:longitude":100.12611,
+    "gn:modification_date":"2014-01-18",
+    "gn:name":"Ban Theppharat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e17\u0e1e\u0e23\u0e31\u0e15\u0e19\u0e4c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678699,
+        1108731851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8676770
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"fe492bd3f2afd582448aba3034f32355",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731851,
+            "locality_id":1293350043,
+            "region_id":85678699
+        }
+    ],
+    "wof:id":1293350043,
+    "wof:lastmodified":1537705834,
+    "wof:name":"Ban Theppharat",
+    "wof:parent_id":1108731851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.12611,
+    15.00373,
+    100.12611,
+    15.00373
+],
+  "geometry": {"coordinates":[100.12611,15.00373],"type":"Point"}
+}

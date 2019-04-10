@@ -1,0 +1,70 @@
+{
+  "id": 1260213239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.69767,7.36267,99.69767,7.36267",
+    "geom:latitude":7.36267,
+    "geom:longitude":99.69767,
+    "gn:admin1_code":"65.0",
+    "gn:asciiname":"Ban Som Fueang",
+    "gn:country_code":"TH",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8229092,
+    "gn:latitude":7.36267,
+    "gn:longitude":99.69767,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Ban Som Fueang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2a\u0e49\u0e21\u0e40\u0e1f\u0e37\u0e2d\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678609,
+        1108731683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8229092
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"55c1b46fe52ac27fd980b55e8d5a25de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731683,
+            "locality_id":1260213239,
+            "region_id":85678609
+        }
+    ],
+    "wof:id":1260213239,
+    "wof:lastmodified":1537705163,
+    "wof:name":"Ban Som Fueang",
+    "wof:parent_id":1108731683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.69767,
+    7.36267,
+    99.69767,
+    7.36267
+],
+  "geometry": {"coordinates":[99.69767,7.36267],"type":"Point"}
+}

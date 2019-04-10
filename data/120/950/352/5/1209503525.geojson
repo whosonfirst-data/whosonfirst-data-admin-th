@@ -1,0 +1,66 @@
+{
+  "id": 1209503525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.35,17.8,100.35,17.8",
+    "geom:latitude":17.8,
+    "geom:longitude":100.35,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Ban Sing Nai",
+    "gn:cc2":"TH",
+    "gn:country_code":"TH",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1613249,
+    "gn:latitude":17.8,
+    "gn:longitude":100.35,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Sing Nai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sing Nai",
+        "Ban Sing Nai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1613249
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"6603f05e144b1a7660be5544ea3b53e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632293,
+            "locality_id":1209503525
+        }
+    ],
+    "wof:id":1209503525,
+    "wof:lastmodified":1537703760,
+    "wof:name":"Ban Sing Nai",
+    "wof:parent_id":85632293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.35,
+    17.8,
+    100.35,
+    17.8
+],
+  "geometry": {"coordinates":[100.34999999999999,17.8],"type":"Point"}
+}

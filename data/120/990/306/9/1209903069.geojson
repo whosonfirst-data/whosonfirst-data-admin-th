@@ -1,0 +1,74 @@
+{
+  "id": 1209903069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.49061,16.85758,100.49061,16.85758",
+    "geom:latitude":16.85758,
+    "geom:longitude":100.49061,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Ban Wang Din So",
+    "gn:country_code":"TH",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1611998,
+    "gn:latitude":16.85758,
+    "gn:longitude":100.49061,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Ban Wang Din So",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e27\u0e31\u0e07\u0e14\u0e34\u0e19\u0e2a\u0e2d"
+    ],
+    "name:und_x_variant":[
+        "Ban W\u0101ng Din Sau",
+        "Ban Wang Din So"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678647,
+        890465723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1611998
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"345a8bb229667498c639e6466901deaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465723,
+            "locality_id":1209903069,
+            "region_id":85678647
+        }
+    ],
+    "wof:id":1209903069,
+    "wof:lastmodified":1537703672,
+    "wof:name":"Ban Wang Din So",
+    "wof:parent_id":890465723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.49061,
+    16.85758,
+    100.49061,
+    16.85758
+],
+  "geometry": {"coordinates":[100.49061,16.85758],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1344240047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.16797,15.91375,101.16797,15.91375",
+    "geom:latitude":15.91375,
+    "geom:longitude":101.16797,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ban Khao Noi",
+    "gn:country_code":"TH",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8565456,
+    "gn:latitude":15.91375,
+    "gn:longitude":101.16797,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Ban Khao Noi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e02\u0e32\u0e19\u0e49\u0e2d\u0e22"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678673,
+        1108731635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8565456
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"39b88bdf1b08664e88beb14693f2e36d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731635,
+            "locality_id":1344240047,
+            "region_id":85678673
+        }
+    ],
+    "wof:id":1344240047,
+    "wof:lastmodified":1537705721,
+    "wof:name":"Ban Khao Noi",
+    "wof:parent_id":1108731635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.16797,
+    15.91375,
+    101.16797,
+    15.91375
+],
+  "geometry": {"coordinates":[101.16797,15.91375],"type":"Point"}
+}

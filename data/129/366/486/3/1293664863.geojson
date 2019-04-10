@@ -1,0 +1,73 @@
+{
+  "id": 1293664863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.27979,17.48145,101.27979,17.48145",
+    "geom:latitude":17.48145,
+    "geom:longitude":101.27979,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Hai Tak",
+    "gn:country_code":"TH",
+    "gn:dem":757,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8039217,
+    "gn:latitude":17.48145,
+    "gn:longitude":101.27979,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Hai Tak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "Ban Hai Tak"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e44\u0e2e\u0e15\u0e32\u0e01"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678853,
+        1108731751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8039217
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"fd3275a23fb718bc225b9f333b07eec5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731751,
+            "locality_id":1293664863,
+            "region_id":85678853
+        }
+    ],
+    "wof:id":1293664863,
+    "wof:lastmodified":1537704946,
+    "wof:name":"Ban Hai Tak",
+    "wof:parent_id":1108731751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.27979,
+    17.48145,
+    101.27979,
+    17.48145
+],
+  "geometry": {"coordinates":[101.27979000000001,17.48145],"type":"Point"}
+}

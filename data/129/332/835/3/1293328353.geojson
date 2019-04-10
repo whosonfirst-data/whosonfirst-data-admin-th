@@ -1,0 +1,73 @@
+{
+  "id": 1293328353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.45501,17.40668,102.45501,17.40668",
+    "geom:latitude":17.40668,
+    "geom:longitude":102.45501,
+    "gn:admin1_code":"76.0",
+    "gn:asciiname":"Ban Nong Kung",
+    "gn:country_code":"TH",
+    "gn:dem":223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1602399,
+    "gn:latitude":17.40668,
+    "gn:longitude":102.45501,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Nong Kung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e19\u0e2d\u0e07\u0e01\u0e38\u0e07"
+    ],
+    "name:und_x_variant":[
+        "Ban Khok Nong Kung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678869,
+        1108731443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1602399
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"d4668bc092bb228a7013c897c0c0fb42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731443,
+            "locality_id":1293328353,
+            "region_id":85678869
+        }
+    ],
+    "wof:id":1293328353,
+    "wof:lastmodified":1537703544,
+    "wof:name":"Ban Nong Kung",
+    "wof:parent_id":1108731443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.45501,
+    17.40668,
+    102.45501,
+    17.40668
+],
+  "geometry": {"coordinates":[102.45501,17.40668],"type":"Point"}
+}

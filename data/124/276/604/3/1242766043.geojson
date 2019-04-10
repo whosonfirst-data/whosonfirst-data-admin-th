@@ -1,0 +1,75 @@
+{
+  "id": 1242766043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.11214,17.602,100.11214,17.602",
+    "geom:latitude":17.602,
+    "geom:longitude":100.11214,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Ban Ko Thai",
+    "gn:country_code":"TH",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1617408,
+    "gn:latitude":17.602,
+    "gn:longitude":100.11214,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Ko Thai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e01\u0e32\u0e30\u0e44\u0e17\u0e22"
+    ],
+    "name:und_x_variant":[
+        "B\u0101n Go N\u0101i",
+        "Ban Ko Nai",
+        "Ban Ko Thai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678657,
+        890466775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1617408
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"88de9ff31af9e58db89a72d94810f1f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466775,
+            "locality_id":1242766043,
+            "region_id":85678657
+        }
+    ],
+    "wof:id":1242766043,
+    "wof:lastmodified":1537704048,
+    "wof:name":"Ban Ko Thai",
+    "wof:parent_id":890466775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.11214,
+    17.602,
+    100.11214,
+    17.602
+],
+  "geometry": {"coordinates":[100.11214,17.602],"type":"Point"}
+}

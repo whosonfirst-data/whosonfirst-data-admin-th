@@ -1,0 +1,73 @@
+{
+  "id": 1226359365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.5704,15.8652,104.5704,15.8652",
+    "geom:latitude":15.8652,
+    "geom:longitude":104.5704,
+    "gn:admin1_code":"77.0",
+    "gn:asciiname":"Ban Pho Sila",
+    "gn:country_code":"TH",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8147538,
+    "gn:latitude":15.8652,
+    "gn:longitude":104.5704,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Ban Pho Sila",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "Ban Pho Sila"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e42\u0e1e\u0e18\u0e34\u0e4c\u0e28\u0e34\u0e25\u0e32"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678789,
+        1108731529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8147538
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"a5291b7b5781ca450d8cc7ec89c09a3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731529,
+            "locality_id":1226359365,
+            "region_id":85678789
+        }
+    ],
+    "wof:id":1226359365,
+    "wof:lastmodified":1537705020,
+    "wof:name":"Ban Pho Sila",
+    "wof:parent_id":1108731529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.5704,
+    15.8652,
+    104.5704,
+    15.8652
+],
+  "geometry": {"coordinates":[104.57040000000001,15.8652],"type":"Point"}
+}

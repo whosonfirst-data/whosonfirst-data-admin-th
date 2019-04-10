@@ -1,0 +1,73 @@
+{
+  "id": 1226350097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.29008,19.17306,99.29008,19.17306",
+    "geom:latitude":19.17306,
+    "geom:longitude":99.29008,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Pa Miang Mae Pang Pang Lo",
+    "gn:country_code":"TH",
+    "gn:dem":982,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1118316,
+    "gn:latitude":19.17306,
+    "gn:longitude":99.29008,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Pa Miang Mae Pang Pang Lo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1b\u0e48\u0e32\u0e40\u0e21\u0e35\u0e48\u0e22\u0e07\u0e41\u0e21\u0e48\u0e1b\u0e31\u0e4b\u0e07\u0e1b\u0e32\u0e07\u0e42\u0e25\u0e4a\u0e30"
+    ],
+    "name:und_x_variant":[
+        "Ban Pa Miang Mae Pang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678619,
+        1108802725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1118316
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"26911cb798d5f504061ba08ef40b1160",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802725,
+            "locality_id":1226350097,
+            "region_id":85678619
+        }
+    ],
+    "wof:id":1226350097,
+    "wof:lastmodified":1537702943,
+    "wof:name":"Ban Pa Miang Mae Pang Pang Lo",
+    "wof:parent_id":1108802725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.29008,
+    19.17306,
+    99.29008,
+    19.17306
+],
+  "geometry": {"coordinates":[99.29008,19.17306],"type":"Point"}
+}

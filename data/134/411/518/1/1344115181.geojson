@@ -1,0 +1,70 @@
+{
+  "id": 1344115181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.75383,16.71519,102.75383,16.71519",
+    "geom:latitude":16.71519,
+    "geom:longitude":102.75383,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Ban Huai Chot",
+    "gn:country_code":"TH",
+    "gn:dem":194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9003579,
+    "gn:latitude":16.71519,
+    "gn:longitude":102.75383,
+    "gn:modification_date":"2014-05-01",
+    "gn:name":"Ban Huai Chot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e49\u0e27\u0e22\u0e42\u0e08\u0e14"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678827,
+        1108731583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9003579
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"87191a42b3b3d3f51034e184246cdc02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731583,
+            "locality_id":1344115181,
+            "region_id":85678827
+        }
+    ],
+    "wof:id":1344115181,
+    "wof:lastmodified":1537706095,
+    "wof:name":"Ban Huai Chot",
+    "wof:parent_id":1108731583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.75383,
+    16.71519,
+    102.75383,
+    16.71519
+],
+  "geometry": {"coordinates":[102.75382999999999,16.71519],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1277024091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.54994,14.63897,103.54994,14.63897",
+    "geom:latitude":14.63897,
+    "geom:longitude":103.54994,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Ban Khok Ampuen",
+    "gn:country_code":"TH",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8703956,
+    "gn:latitude":14.63897,
+    "gn:longitude":103.54994,
+    "gn:modification_date":"2014-02-17",
+    "gn:name":"Ban Khok Ampuen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e42\u0e04\u0e01\u0e2d\u0e33\u0e1b\u0e36\u0e25"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678849,
+        1108731783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8703956
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"9f0f13162c410ce74aa92492558020cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731783,
+            "locality_id":1277024091,
+            "region_id":85678849
+        }
+    ],
+    "wof:id":1277024091,
+    "wof:lastmodified":1537705935,
+    "wof:name":"Ban Khok Ampuen",
+    "wof:parent_id":1108731783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.54994,
+    14.63897,
+    103.54994,
+    14.63897
+],
+  "geometry": {"coordinates":[103.54994000000001,14.63897],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 890466461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.256568,8.747244,98.256568,8.747244",
+    "geom:latitude":8.747244,
+    "geom:longitude":98.256568,
+    "gn:country":"TH",
+    "gp:adm0":23424960,
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "qs:name":"Khuekkhak",
+    "qs:name_adm0":"Thailand",
+    "qs:name_adm1":"Phangnga",
+    "qs:photos":760,
+    "qs:photos_1k":154,
+    "qs:photos_9k":3,
+    "qs:photos_9r":6,
+    "qs:photos_all":760,
+    "qs:photos_sr":9,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55946318,
+        "qs:id":1345730
+    },
+    "wof:country":"TH",
+    "wof:created":1469053580,
+    "wof:geomhash":"eed52bae2db4bbb898bf6f0ca689868c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "locality_id":890466461,
+            "region_id":85678573
+        }
+    ],
+    "wof:id":890466461,
+    "wof:lastmodified":1469053580,
+    "wof:name":"Khuekkhak",
+    "wof:parent_id":85678573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.256568,
+    8.747244,
+    98.256568,
+    8.747244
+],
+  "geometry": {"coordinates":[98.256568,8.747244],"type":"Point"}
+}

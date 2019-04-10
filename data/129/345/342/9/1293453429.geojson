@@ -1,0 +1,70 @@
+{
+  "id": 1293453429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.29106,15.76714,100.29106,15.76714",
+    "geom:latitude":15.76714,
+    "geom:longitude":100.29106,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ban Thung Waen",
+    "gn:country_code":"TH",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8343921,
+    "gn:latitude":15.76714,
+    "gn:longitude":100.29106,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Ban Thung Waen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e17\u0e38\u0e48\u0e07\u0e41\u0e27\u0e48\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678715,
+        1108731263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8343921
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"8d5a4b8cd663d778d1b3febfa7be089d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731263,
+            "locality_id":1293453429,
+            "region_id":85678715
+        }
+    ],
+    "wof:id":1293453429,
+    "wof:lastmodified":1537705456,
+    "wof:name":"Ban Thung Waen",
+    "wof:parent_id":1108731263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.29106,
+    15.76714,
+    100.29106,
+    15.76714
+],
+  "geometry": {"coordinates":[100.29106,15.76714],"type":"Point"}
+}

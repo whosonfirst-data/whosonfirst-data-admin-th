@@ -1,0 +1,70 @@
+{
+  "id": 1243327225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.35228,15.426,100.35228,15.426",
+    "geom:latitude":15.426,
+    "geom:longitude":100.35228,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ban Rai Sattha Tham",
+    "gn:country_code":"TH",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8344068,
+    "gn:latitude":15.426,
+    "gn:longitude":100.35228,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Ban Rai Sattha Tham",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e44\u0e23\u0e48\u0e28\u0e23\u0e31\u0e17\u0e18\u0e32\u0e18\u0e23\u0e23\u0e21"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678715,
+        890465891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8344068
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"5d795fc3652b854b39e9363fe147b355",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465891,
+            "locality_id":1243327225,
+            "region_id":85678715
+        }
+    ],
+    "wof:id":1243327225,
+    "wof:lastmodified":1537705459,
+    "wof:name":"Ban Rai Sattha Tham",
+    "wof:parent_id":890465891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.35228,
+    15.426,
+    100.35228,
+    15.426
+],
+  "geometry": {"coordinates":[100.35227999999999,15.426],"type":"Point"}
+}

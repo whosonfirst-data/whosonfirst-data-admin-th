@@ -1,0 +1,70 @@
+{
+  "id": 1310322181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.57814,9.52297,98.57814,9.52297",
+    "geom:latitude":9.52297,
+    "geom:longitude":98.57814,
+    "gn:admin1_code":"59.0",
+    "gn:asciiname":"Ban Takhian Ngam",
+    "gn:country_code":"TH",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8270920,
+    "gn:latitude":9.52297,
+    "gn:longitude":98.57814,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Ban Takhian Ngam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e15\u0e30\u0e40\u0e04\u0e35\u0e22\u0e19\u0e07\u0e32\u0e21"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678577,
+        1108731335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8270920
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"501b9c87abf2b8db71d76a05b5fcd693",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731335,
+            "locality_id":1310322181,
+            "region_id":85678577
+        }
+    ],
+    "wof:id":1310322181,
+    "wof:lastmodified":1537705281,
+    "wof:name":"Ban Takhian Ngam",
+    "wof:parent_id":1108731335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.57814,
+    9.52297,
+    98.57814,
+    9.52297
+],
+  "geometry": {"coordinates":[98.57814,9.52297],"type":"Point"}
+}

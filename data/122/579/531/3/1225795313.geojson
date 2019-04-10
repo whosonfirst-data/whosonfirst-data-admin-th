@@ -1,0 +1,70 @@
+{
+  "id": 1225795313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.22175,15.44469,103.22175,15.44469",
+    "geom:latitude":15.44469,
+    "geom:longitude":103.22175,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Ban Yang Bo Thet",
+    "gn:country_code":"TH",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8703386,
+    "gn:latitude":15.44469,
+    "gn:longitude":103.22175,
+    "gn:modification_date":"2014-02-17",
+    "gn:name":"Ban Yang Bo Thet",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e22\u0e32\u0e07\u0e1a\u0e48\u0e2d\u0e40\u0e17\u0e28"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678849,
+        1108731261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8703386
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"0214e799d2b940c9738f4a5a99f49c7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731261,
+            "locality_id":1225795313,
+            "region_id":85678849
+        }
+    ],
+    "wof:id":1225795313,
+    "wof:lastmodified":1537705925,
+    "wof:name":"Ban Yang Bo Thet",
+    "wof:parent_id":1108731261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.22175,
+    15.44469,
+    103.22175,
+    15.44469
+],
+  "geometry": {"coordinates":[103.22175,15.44469],"type":"Point"}
+}

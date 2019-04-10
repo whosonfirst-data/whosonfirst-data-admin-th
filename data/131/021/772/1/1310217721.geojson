@@ -1,0 +1,70 @@
+{
+  "id": 1310217721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.9017,19.73853,98.9017,19.73853",
+    "geom:latitude":19.73853,
+    "geom:longitude":98.9017,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Mueang Na Klang",
+    "gn:country_code":"TH",
+    "gn:dem":706,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7073716,
+    "gn:latitude":19.73853,
+    "gn:longitude":98.9017,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ban Mueang Na Klang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e19\u0e30\u0e01\u0e25\u0e32\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678619,
+        1108802591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7073716
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"9682bf14cce46c21880ca812a91a7905",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802591,
+            "locality_id":1310217721,
+            "region_id":85678619
+        }
+    ],
+    "wof:id":1310217721,
+    "wof:lastmodified":1537704408,
+    "wof:name":"Ban Mueang Na Klang",
+    "wof:parent_id":1108802591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.9017,
+    19.73853,
+    98.9017,
+    19.73853
+],
+  "geometry": {"coordinates":[98.90170000000001,19.73853],"type":"Point"}
+}

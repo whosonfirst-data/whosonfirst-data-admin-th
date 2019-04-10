@@ -1,0 +1,70 @@
+{
+  "id": 1209021347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.75869,14.07081,101.75869,14.07081",
+    "geom:latitude":14.07081,
+    "geom:longitude":101.75869,
+    "gn:admin1_code":"74.0",
+    "gn:asciiname":"Ban Tha Makok",
+    "gn:country_code":"TH",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1612591,
+    "gn:latitude":14.07081,
+    "gn:longitude":101.75869,
+    "gn:modification_date":"2014-04-05",
+    "gn:name":"Ban Tha Makok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e17\u0e48\u0e32\u0e21\u0e30\u0e01\u0e2d\u0e01"
+    ],
+    "name:und_x_variant":[
+        "Ban Chaeng",
+        "Ban Cheng",
+        "Ban Tha Makok (1)",
+        "Ban Tha Makok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1612591
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"9f650dbb789660a4381653d70c1a8d59",
+    "wof:hierarchy":[
+        {
+            "country_id":85632293,
+            "locality_id":1209021347
+        }
+    ],
+    "wof:id":1209021347,
+    "wof:lastmodified":1537703714,
+    "wof:name":"Ban Tha Makok",
+    "wof:parent_id":85632293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.75869,
+    14.07081,
+    101.75869,
+    14.07081
+],
+  "geometry": {"coordinates":[101.75869,14.07081],"type":"Point"}
+}

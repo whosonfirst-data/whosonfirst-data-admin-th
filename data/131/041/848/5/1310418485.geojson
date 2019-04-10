@@ -1,0 +1,70 @@
+{
+  "id": 1310418485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.86261,18.54508,98.86261,18.54508",
+    "geom:latitude":18.54508,
+    "geom:longitude":98.86261,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Ton Haen Luang",
+    "gn:country_code":"TH",
+    "gn:dem":291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7790679,
+    "gn:latitude":18.54508,
+    "gn:longitude":98.86261,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Ton Haen Luang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e15\u0e49\u0e19\u0e41\u0e2b\u0e19\u0e2b\u0e25\u0e27\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678619,
+        890467097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7790679
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"28150c78e6ad358ce857cfbaef28135a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890467097,
+            "locality_id":1310418485,
+            "region_id":85678619
+        }
+    ],
+    "wof:id":1310418485,
+    "wof:lastmodified":1537704689,
+    "wof:name":"Ban Ton Haen Luang",
+    "wof:parent_id":890467097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.86261,
+    18.54508,
+    98.86261,
+    18.54508
+],
+  "geometry": {"coordinates":[98.86261,18.54508],"type":"Point"}
+}

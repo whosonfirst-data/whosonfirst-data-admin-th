@@ -1,0 +1,70 @@
+{
+  "id": 1209772591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.40342,15.57169,103.40342,15.57169",
+    "geom:latitude":15.57169,
+    "geom:longitude":103.40342,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Ban Bua Khao",
+    "gn:country_code":"TH",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1604353,
+    "gn:latitude":15.57169,
+    "gn:longitude":103.40342,
+    "gn:modification_date":"2014-01-08",
+    "gn:name":"Ban Bua Khao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1a\u0e31\u0e27\u0e02\u0e32\u0e27"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678845,
+        1108731689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1604353
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"04364d6ffe432e6eb8732b46ac48bdb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731689,
+            "locality_id":1209772591,
+            "region_id":85678845
+        }
+    ],
+    "wof:id":1209772591,
+    "wof:lastmodified":1537703617,
+    "wof:name":"Ban Bua Khao",
+    "wof:parent_id":1108731689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.40342,
+    15.57169,
+    103.40342,
+    15.57169
+],
+  "geometry": {"coordinates":[103.40342,15.57169],"type":"Point"}
+}

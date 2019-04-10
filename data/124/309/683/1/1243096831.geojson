@@ -1,0 +1,70 @@
+{
+  "id": 1243096831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.28375,14.26053,101.28375,14.26053",
+    "geom:latitude":14.26053,
+    "geom:longitude":101.28375,
+    "gn:admin1_code":"43.0",
+    "gn:asciiname":"Ban Khlong Sisiat",
+    "gn:country_code":"TH",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1618120,
+    "gn:latitude":14.26053,
+    "gn:longitude":101.28375,
+    "gn:modification_date":"2014-04-05",
+    "gn:name":"Ban Khlong Sisiat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e04\u0e25\u0e2d\u0e07\u0e2a\u0e35\u0e40\u0e2a\u0e35\u0e22\u0e14"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678705,
+        890466935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1618120
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"8868abd6bdd569a17193235168b2ffa8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466935,
+            "locality_id":1243096831,
+            "region_id":85678705
+        }
+    ],
+    "wof:id":1243096831,
+    "wof:lastmodified":1537704098,
+    "wof:name":"Ban Khlong Sisiat",
+    "wof:parent_id":890466935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.28375,
+    14.26053,
+    101.28375,
+    14.26053
+],
+  "geometry": {"coordinates":[101.28375,14.26053],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1260342703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.23928,14.90508,100.23928,14.90508",
+    "geom:latitude":14.90508,
+    "geom:longitude":100.23928,
+    "gn:admin1_code":"33",
+    "gn:asciiname":"Ban Dong Yang Thon",
+    "gn:country_code":"TH",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8725621,
+    "gn:latitude":14.90508,
+    "gn:longitude":100.23928,
+    "gn:modification_date":"2014-03-11",
+    "gn:name":"Ban Dong Yang Thon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e14\u0e07\u0e22\u0e32\u0e07\u0e42\u0e17\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678729,
+        1108731175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8725621
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"f913c2947c8b0bf46c05578c009b7968",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731175,
+            "locality_id":1260342703,
+            "region_id":85678729
+        }
+    ],
+    "wof:id":1260342703,
+    "wof:lastmodified":1537705972,
+    "wof:name":"Ban Dong Yang Thon",
+    "wof:parent_id":1108731175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.23928,
+    14.90508,
+    100.23928,
+    14.90508
+],
+  "geometry": {"coordinates":[100.23927999999999,14.90508],"type":"Point"}
+}

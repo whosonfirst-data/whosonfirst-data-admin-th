@@ -1,0 +1,70 @@
+{
+  "id": 1226556695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.36083,12.69611,101.36083,12.69611",
+    "geom:latitude":12.69611,
+    "geom:longitude":101.36083,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Ban Khwak Ling",
+    "gn:country_code":"TH",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1617636,
+    "gn:latitude":12.69611,
+    "gn:longitude":101.36083,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Khwak Ling",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e02\u0e27\u0e32\u0e01\u0e25\u0e34\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678809,
+        1108802679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1617636
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"eef44ee53eb6b09e9d5f9695fc712d10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802679,
+            "locality_id":1226556695,
+            "region_id":85678809
+        }
+    ],
+    "wof:id":1226556695,
+    "wof:lastmodified":1537704063,
+    "wof:name":"Ban Khwak Ling",
+    "wof:parent_id":1108802679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.36083,
+    12.69611,
+    101.36083,
+    12.69611
+],
+  "geometry": {"coordinates":[101.36083000000001,12.69611],"type":"Point"}
+}

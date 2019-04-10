@@ -1,0 +1,70 @@
+{
+  "id": 1276258585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.34147,13.74089,101.34147,13.74089",
+    "geom:latitude":13.74089,
+    "geom:longitude":101.34147,
+    "gn:admin1_code":"44.0",
+    "gn:asciiname":"Ban Mueang Kai",
+    "gn:country_code":"TH",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7853380,
+    "gn:latitude":13.74089,
+    "gn:longitude":101.34147,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Mueang Kai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e01\u0e32\u0e22"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678797,
+        1108731713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7853380
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"719f790f51b17b2a709fed0c207a28e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731713,
+            "locality_id":1276258585,
+            "region_id":85678797
+        }
+    ],
+    "wof:id":1276258585,
+    "wof:lastmodified":1537704732,
+    "wof:name":"Ban Mueang Kai",
+    "wof:parent_id":1108731713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.34147,
+    13.74089,
+    101.34147,
+    13.74089
+],
+  "geometry": {"coordinates":[101.34147,13.74089],"type":"Point"}
+}

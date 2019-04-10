@@ -1,0 +1,70 @@
+{
+  "id": 1293676949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.66181,16.02397,99.66181,16.02397",
+    "geom:latitude":16.02397,
+    "geom:longitude":99.66181,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Ban Noen Samran",
+    "gn:country_code":"TH",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8387230,
+    "gn:latitude":16.02397,
+    "gn:longitude":99.66181,
+    "gn:modification_date":"2012-09-08",
+    "gn:name":"Ban Noen Samran",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e19\u0e34\u0e19\u0e2a\u0e33\u0e23\u0e32\u0e0d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678665,
+        1108731355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8387230
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"04b762a10eddb593bf5e6746eb0ab9a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731355,
+            "locality_id":1293676949,
+            "region_id":85678665
+        }
+    ],
+    "wof:id":1293676949,
+    "wof:lastmodified":1537705555,
+    "wof:name":"Ban Noen Samran",
+    "wof:parent_id":1108731355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.66181,
+    16.02397,
+    99.66181,
+    16.02397
+],
+  "geometry": {"coordinates":[99.66181,16.02397],"type":"Point"}
+}

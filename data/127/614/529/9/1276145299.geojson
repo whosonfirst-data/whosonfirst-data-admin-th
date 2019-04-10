@@ -1,0 +1,70 @@
+{
+  "id": 1276145299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.83167,6.00981,101.83167,6.00981",
+    "geom:latitude":6.00981,
+    "geom:longitude":101.83167,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Ban La Lo",
+    "gn:country_code":"TH",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1601808,
+    "gn:latitude":6.00981,
+    "gn:longitude":101.83167,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban La Lo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e25\u0e32\u0e42\u0e25\u0e4a\u0e30"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678885,
+        1108731953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1601808
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"dfcb6efc3991be613ef94317379ef4c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731953,
+            "locality_id":1276145299,
+            "region_id":85678885
+        }
+    ],
+    "wof:id":1276145299,
+    "wof:lastmodified":1537703525,
+    "wof:name":"Ban La Lo",
+    "wof:parent_id":1108731953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.83167,
+    6.00981,
+    101.83167,
+    6.00981
+],
+  "geometry": {"coordinates":[101.83167,6.00981],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343982887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.26869,15.50653,105.26869,15.50653",
+    "geom:latitude":15.50653,
+    "geom:longitude":105.26869,
+    "gn:admin1_code":"75.0",
+    "gn:asciiname":"Khong Chiam",
+    "gn:country_code":"TH",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8442037,
+    "gn:latitude":15.50653,
+    "gn:longitude":105.26869,
+    "gn:modification_date":"2013-01-12",
+    "gn:name":"Khong Chiam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678783,
+        1108731889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8442037
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"2da91f618255dd172550e012b4fff2d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731889,
+            "locality_id":1343982887,
+            "region_id":85678783
+        }
+    ],
+    "wof:id":1343982887,
+    "wof:lastmodified":1536986867,
+    "wof:name":"Khong Chiam",
+    "wof:parent_id":1108731889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.26869,
+    15.50653,
+    105.26869,
+    15.50653
+],
+  "geometry": {"coordinates":[105.26869000000001,15.50653],"type":"Point"}
+}

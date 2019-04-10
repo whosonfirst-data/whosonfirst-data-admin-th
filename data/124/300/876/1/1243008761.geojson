@@ -1,0 +1,70 @@
+{
+  "id": 1243008761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.73917,12.74028,101.73917,12.74028",
+    "geom:latitude":12.74028,
+    "geom:longitude":101.73917,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Ban Na Sa",
+    "gn:country_code":"TH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1616134,
+    "gn:latitude":12.74028,
+    "gn:longitude":101.73917,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Na Sa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e19\u0e32\u0e0b\u0e32"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678809,
+        890465677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1616134
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"334102c6c4ebf3f98570b679cf96c3f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465677,
+            "locality_id":1243008761,
+            "region_id":85678809
+        }
+    ],
+    "wof:id":1243008761,
+    "wof:lastmodified":1537703956,
+    "wof:name":"Ban Na Sa",
+    "wof:parent_id":890465677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.73917,
+    12.74028,
+    101.73917,
+    12.74028
+],
+  "geometry": {"coordinates":[101.73917,12.74028],"type":"Point"}
+}

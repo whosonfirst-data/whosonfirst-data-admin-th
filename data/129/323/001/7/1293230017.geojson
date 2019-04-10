@@ -1,0 +1,70 @@
+{
+  "id": 1293230017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.26939,8.27661,100.26939,8.27661",
+    "geom:latitude":8.27661,
+    "geom:longitude":100.26939,
+    "gn:admin1_code":"64.0",
+    "gn:asciiname":"Ban Ao Bon",
+    "gn:country_code":"TH",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8242323,
+    "gn:latitude":8.27661,
+    "gn:longitude":100.26939,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Ban Ao Bon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2d\u0e48\u0e32\u0e27\u0e1a\u0e2d\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678565,
+        1108731673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8242323
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"368075646dc0545c2fe60c20ab1c6670",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731673,
+            "locality_id":1293230017,
+            "region_id":85678565
+        }
+    ],
+    "wof:id":1293230017,
+    "wof:lastmodified":1537705243,
+    "wof:name":"Ban Ao Bon",
+    "wof:parent_id":1108731673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.26939,
+    8.27661,
+    100.26939,
+    8.27661
+],
+  "geometry": {"coordinates":[100.26939,8.27661],"type":"Point"}
+}

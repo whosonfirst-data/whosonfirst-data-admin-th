@@ -1,0 +1,70 @@
+{
+  "id": 1242898691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.74189,13.99872,101.74189,13.99872",
+    "geom:latitude":13.99872,
+    "geom:longitude":101.74189,
+    "gn:admin1_code":"74",
+    "gn:asciiname":"Ban Noen Wae",
+    "gn:country_code":"TH",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8749134,
+    "gn:latitude":13.99872,
+    "gn:longitude":101.74189,
+    "gn:modification_date":"2014-04-08",
+    "gn:name":"Ban Noen Wae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e19\u0e34\u0e19\u0e41\u0e27\u0e30"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678711,
+        1108731305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8749134
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"d75a8a5e89a6dddbcdaf1a11ad20da7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731305,
+            "locality_id":1242898691,
+            "region_id":85678711
+        }
+    ],
+    "wof:id":1242898691,
+    "wof:lastmodified":1537706029,
+    "wof:name":"Ban Noen Wae",
+    "wof:parent_id":1108731305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.74189,
+    13.99872,
+    101.74189,
+    13.99872
+],
+  "geometry": {"coordinates":[101.74189,13.99872],"type":"Point"}
+}

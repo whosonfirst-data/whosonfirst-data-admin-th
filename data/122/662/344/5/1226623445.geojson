@@ -1,0 +1,70 @@
+{
+  "id": 1226623445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.84783,16.02919,99.84783,16.02919",
+    "geom:latitude":16.02919,
+    "geom:longitude":99.84783,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Ban Map Talung",
+    "gn:country_code":"TH",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8387172,
+    "gn:latitude":16.02919,
+    "gn:longitude":99.84783,
+    "gn:modification_date":"2012-09-08",
+    "gn:name":"Ban Map Talung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e21\u0e32\u0e1a\u0e15\u0e30\u0e25\u0e38\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678665,
+        1108731355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8387172
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"235af916c398dcc043e7ee17a78cca96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731355,
+            "locality_id":1226623445,
+            "region_id":85678665
+        }
+    ],
+    "wof:id":1226623445,
+    "wof:lastmodified":1537705555,
+    "wof:name":"Ban Map Talung",
+    "wof:parent_id":1108731355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.84783,
+    16.02919,
+    99.84783,
+    16.02919
+],
+  "geometry": {"coordinates":[99.84783,16.02919],"type":"Point"}
+}

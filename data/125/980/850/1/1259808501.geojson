@@ -1,0 +1,73 @@
+{
+  "id": 1259808501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.001,14.00764,100.001,14.00764",
+    "geom:latitude":14.00764,
+    "geom:longitude":100.001,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Ban Na Kaset",
+    "gn:country_code":"TH",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8138714,
+    "gn:latitude":14.00764,
+    "gn:longitude":100.001,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Ban Na Kaset",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "Ban Na Kaset"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e19\u0e49\u0e32\u0e40\u0e01\u0e29\u0e15\u0e23"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678747,
+        1108731323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8138714
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"ff464c35a8d82bfd3c6b20c69cff766f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731323,
+            "locality_id":1259808501,
+            "region_id":85678747
+        }
+    ],
+    "wof:id":1259808501,
+    "wof:lastmodified":1537705008,
+    "wof:name":"Ban Na Kaset",
+    "wof:parent_id":1108731323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.001,
+    14.00764,
+    100.001,
+    14.00764
+],
+  "geometry": {"coordinates":[100.001,14.00764],"type":"Point"}
+}

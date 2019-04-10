@@ -1,0 +1,70 @@
+{
+  "id": 1293364589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.96672,17.57608,103.96672,17.57608",
+    "geom:latitude":17.57608,
+    "geom:longitude":103.96672,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Phaeng Yai",
+    "gn:country_code":"TH",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7677148,
+    "gn:latitude":17.57608,
+    "gn:longitude":103.96672,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Phaeng Yai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e41\u0e1e\u0e07\u0e43\u0e2b\u0e0d\u0e48"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678863,
+        1108731099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7677148
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"73429437e0531fbfe578caaffc823802",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731099,
+            "locality_id":1293364589,
+            "region_id":85678863
+        }
+    ],
+    "wof:id":1293364589,
+    "wof:lastmodified":1537704601,
+    "wof:name":"Ban Phaeng Yai",
+    "wof:parent_id":1108731099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.96672,
+    17.57607999999999,
+    103.96672,
+    17.57607999999999
+],
+  "geometry": {"coordinates":[103.96672,17.57607999999999],"type":"Point"}
+}

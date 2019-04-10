@@ -1,0 +1,73 @@
+{
+  "id": 1260141185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.46575,14.9485,103.46575,14.9485",
+    "geom:latitude":14.9485,
+    "geom:longitude":103.46575,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Ban Khok Maka",
+    "gn:country_code":"TH",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1601526,
+    "gn:latitude":14.9485,
+    "gn:longitude":103.46575,
+    "gn:modification_date":"2014-08-05",
+    "gn:name":"Ban Khok Maka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e42\u0e04\u0e01\u0e21\u0e30\u0e01\u0e30"
+    ],
+    "name:und_x_variant":[
+        "Ban Makha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678845,
+        890466955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1601526
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"acb8eadd2319574e0361a4017b4a74c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466955,
+            "locality_id":1260141185,
+            "region_id":85678845
+        }
+    ],
+    "wof:id":1260141185,
+    "wof:lastmodified":1537703515,
+    "wof:name":"Ban Khok Maka",
+    "wof:parent_id":890466955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.46575,
+    14.9485,
+    103.46575,
+    14.9485
+],
+  "geometry": {"coordinates":[103.46575,14.9485],"type":"Point"}
+}

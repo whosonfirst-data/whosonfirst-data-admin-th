@@ -1,0 +1,67 @@
+{
+  "id": 1310007975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.53306,18.46278,98.53306,18.46278",
+    "geom:latitude":18.46278,
+    "geom:longitude":98.53306,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Tun",
+    "gn:country_code":"TH",
+    "gn:dem":1395,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1117257,
+    "gn:latitude":18.46278,
+    "gn:longitude":98.53306,
+    "gn:modification_date":"1999-10-19",
+    "gn:name":"Ban Tun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678619,
+        1108802597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1117257
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"163da349d92bcf8ad282b595d201b2ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802597,
+            "locality_id":1310007975,
+            "region_id":85678619
+        }
+    ],
+    "wof:id":1310007975,
+    "wof:lastmodified":1536638686,
+    "wof:name":"Ban Tun",
+    "wof:parent_id":1108802597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.53306,
+    18.46278,
+    98.53306,
+    18.46278
+],
+  "geometry": {"coordinates":[98.53306000000001,18.46278],"type":"Point"}
+}

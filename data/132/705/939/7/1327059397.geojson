@@ -1,0 +1,70 @@
+{
+  "id": 1327059397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.09528,12.73833,101.09528,12.73833",
+    "geom:latitude":12.73833,
+    "geom:longitude":101.09528,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Ban Phaen Din Thai",
+    "gn:country_code":"TH",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7736001,
+    "gn:latitude":12.73833,
+    "gn:longitude":101.09528,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Phaen Din Thai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e41\u0e1c\u0e48\u0e19\u0e14\u0e34\u0e19\u0e44\u0e17\u0e22"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678809,
+        890466415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7736001
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"55f9dc09ac15e47b52be24eb4032bad2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466415,
+            "locality_id":1327059397,
+            "region_id":85678809
+        }
+    ],
+    "wof:id":1327059397,
+    "wof:lastmodified":1537704638,
+    "wof:name":"Ban Phaen Din Thai",
+    "wof:parent_id":890466415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.09528,
+    12.73833,
+    101.09528,
+    12.73833
+],
+  "geometry": {"coordinates":[101.09528,12.73833],"type":"Point"}
+}

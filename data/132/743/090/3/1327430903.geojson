@@ -1,0 +1,70 @@
+{
+  "id": 1327430903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.74253,18.83797,100.74253,18.83797",
+    "geom:latitude":18.83797,
+    "geom:longitude":100.74253,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Ban Huai Som Poi",
+    "gn:country_code":"TH",
+    "gn:dem":247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8231158,
+    "gn:latitude":18.83797,
+    "gn:longitude":100.74253,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Ban Huai Som Poi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e49\u0e27\u0e22\u0e2a\u0e49\u0e21\u0e1b\u0e48\u0e2d\u0e22"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678633,
+        890466613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8231158
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"144f22d7b45540e0dfd125b00c0810fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466613,
+            "locality_id":1327430903,
+            "region_id":85678633
+        }
+    ],
+    "wof:id":1327430903,
+    "wof:lastmodified":1537705180,
+    "wof:name":"Ban Huai Som Poi",
+    "wof:parent_id":890466613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.74253,
+    18.83797,
+    100.74253,
+    18.83797
+],
+  "geometry": {"coordinates":[100.74253,18.83797],"type":"Point"}
+}

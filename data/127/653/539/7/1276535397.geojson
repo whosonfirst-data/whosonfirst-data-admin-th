@@ -1,0 +1,70 @@
+{
+  "id": 1276535397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.60481,16.48531,100.60481,16.48531",
+    "geom:latitude":16.48531,
+    "geom:longitude":100.60481,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Ban Nong Mai Yang Dam",
+    "gn:country_code":"TH",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8206550,
+    "gn:latitude":16.48531,
+    "gn:longitude":100.60481,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Ban Nong Mai Yang Dam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e19\u0e2d\u0e07\u0e44\u0e21\u0e49\u0e22\u0e32\u0e07\u0e14\u0e33"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678647,
+        1108731599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8206550
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"7addfdc9e2d0e320459d359a62b23178",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731599,
+            "locality_id":1276535397,
+            "region_id":85678647
+        }
+    ],
+    "wof:id":1276535397,
+    "wof:lastmodified":1537705114,
+    "wof:name":"Ban Nong Mai Yang Dam",
+    "wof:parent_id":1108731599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.60481,
+    16.48531,
+    100.60481,
+    16.48531
+],
+  "geometry": {"coordinates":[100.60481,16.48531],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1344274105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.33983,10.78567,99.33983,10.78567",
+    "geom:latitude":10.78567,
+    "geom:longitude":99.33983,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Ban Khao Chang Tai",
+    "gn:country_code":"TH",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8233815,
+    "gn:latitude":10.78567,
+    "gn:longitude":99.33983,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Ban Khao Chang Tai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e02\u0e32\u0e0a\u0e49\u0e32\u0e07\u0e15\u0e32\u0e22"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678559,
+        890466197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8233815
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"9bf53cdce1a40cbe506061a7839b86e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466197,
+            "locality_id":1344274105,
+            "region_id":85678559
+        }
+    ],
+    "wof:id":1344274105,
+    "wof:lastmodified":1537705192,
+    "wof:name":"Ban Khao Chang Tai",
+    "wof:parent_id":890466197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.33983,
+    10.78567,
+    99.33983,
+    10.78567
+],
+  "geometry": {"coordinates":[99.33983000000001,10.78567],"type":"Point"}
+}

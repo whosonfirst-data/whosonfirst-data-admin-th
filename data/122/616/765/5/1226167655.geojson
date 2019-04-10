@@ -1,0 +1,73 @@
+{
+  "id": 1226167655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.57222,11.59819,102.57222,11.59819",
+    "geom:latitude":11.59819,
+    "geom:longitude":102.57222,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"Ban Ao Phrao",
+    "gn:country_code":"TH",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1602628,
+    "gn:latitude":11.59819,
+    "gn:longitude":102.57222,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Ao Phrao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2d\u0e48\u0e32\u0e27\u0e1e\u0e23\u0e49\u0e32\u0e27"
+    ],
+    "name:und_x_variant":[
+        "Ban Khlong Phrao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678813,
+        1108731419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1602628
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"2710522af3599af987100bf4dab52315",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731419,
+            "locality_id":1226167655,
+            "region_id":85678813
+        }
+    ],
+    "wof:id":1226167655,
+    "wof:lastmodified":1537703553,
+    "wof:name":"Ban Ao Phrao",
+    "wof:parent_id":1108731419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.57222,
+    11.59819,
+    102.57222,
+    11.59819
+],
+  "geometry": {"coordinates":[102.57222,11.59819],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293512747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.98325,9.58153,99.98325,9.58153",
+    "geom:latitude":9.58153,
+    "geom:longitude":99.98325,
+    "gn:admin1_code":"60.0",
+    "gn:asciiname":"Ban Na Phra Lan",
+    "gn:country_code":"TH",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8326211,
+    "gn:latitude":9.58153,
+    "gn:longitude":99.98325,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Ban Na Phra Lan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e19\u0e49\u0e32\u0e1e\u0e23\u0e30\u0e25\u0e32\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678581,
+        890466647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8326211
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"f9c1fd1a5475855182f5d16df84ca77d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466647,
+            "locality_id":1293512747,
+            "region_id":85678581
+        }
+    ],
+    "wof:id":1293512747,
+    "wof:lastmodified":1537705395,
+    "wof:name":"Ban Na Phra Lan",
+    "wof:parent_id":890466647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.98325,
+    9.58153,
+    99.98325,
+    9.58153
+],
+  "geometry": {"coordinates":[99.98325,9.58153],"type":"Point"}
+}

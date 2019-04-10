@@ -1,0 +1,73 @@
+{
+  "id": 1226739707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.06714,17.03531,99.06714,17.03531",
+    "geom:latitude":17.03531,
+    "geom:longitude":99.06714,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Ban Nam Pu",
+    "gn:country_code":"TH",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8164384,
+    "gn:latitude":17.03531,
+    "gn:longitude":99.06714,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Ban Nam Pu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "Ban Nam Pu"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e19\u0e49\u0e33\u0e1b\u0e38"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678683,
+        1108731155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8164384
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"a364046a9a6a6aa0e188a24cf2b2e2d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731155,
+            "locality_id":1226739707,
+            "region_id":85678683
+        }
+    ],
+    "wof:id":1226739707,
+    "wof:lastmodified":1537705052,
+    "wof:name":"Ban Nam Pu",
+    "wof:parent_id":1108731155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.06714,
+    17.03531,
+    99.06714,
+    17.03531
+],
+  "geometry": {"coordinates":[99.06713999999999,17.03531],"type":"Point"}
+}

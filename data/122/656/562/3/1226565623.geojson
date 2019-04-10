@@ -1,0 +1,70 @@
+{
+  "id": 1226565623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.79575,15.56203,104.79575,15.56203",
+    "geom:latitude":15.56203,
+    "geom:longitude":104.79575,
+    "gn:admin1_code":"75.0",
+    "gn:asciiname":"Ban Phra Rot",
+    "gn:country_code":"TH",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8319871,
+    "gn:latitude":15.56203,
+    "gn:longitude":104.79575,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Ban Phra Rot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1e\u0e23\u0e30\u0e42\u0e23\u0e08\u0e19\u0e4c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678783,
+        1108731533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8319871
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"0e7a58605def0448f9f933693acc5962",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731533,
+            "locality_id":1226565623,
+            "region_id":85678783
+        }
+    ],
+    "wof:id":1226565623,
+    "wof:lastmodified":1537705352,
+    "wof:name":"Ban Phra Rot",
+    "wof:parent_id":1108731533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.79575,
+    15.56203,
+    104.79575,
+    15.56203
+],
+  "geometry": {"coordinates":[104.79575,15.56203],"type":"Point"}
+}

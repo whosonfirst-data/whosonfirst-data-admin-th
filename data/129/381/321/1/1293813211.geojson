@@ -1,0 +1,70 @@
+{
+  "id": 1293813211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.19208,8.22892,100.19208,8.22892",
+    "geom:latitude":8.22892,
+    "geom:longitude":100.19208,
+    "gn:admin1_code":"64.0",
+    "gn:asciiname":"Ban Talum Pho",
+    "gn:country_code":"TH",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1597956,
+    "gn:latitude":8.22892,
+    "gn:longitude":100.19208,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Ban Talum Pho",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e15\u0e30\u0e25\u0e38\u0e21\u0e1e\u0e2d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678565,
+        1108731673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1597956
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"be2af38b9d8e0ad9c1c65845785905f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731673,
+            "locality_id":1293813211,
+            "region_id":85678565
+        }
+    ],
+    "wof:id":1293813211,
+    "wof:lastmodified":1537703385,
+    "wof:name":"Ban Talum Pho",
+    "wof:parent_id":1108731673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.19208,
+    8.22892,
+    100.19208,
+    8.22892
+],
+  "geometry": {"coordinates":[100.19208,8.22892],"type":"Point"}
+}

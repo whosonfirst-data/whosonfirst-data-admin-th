@@ -1,0 +1,67 @@
+{
+  "id": 1259491165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.23111,18.80139,98.23111,18.80139",
+    "geom:latitude":18.80139,
+    "geom:longitude":98.23111,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Mae O",
+    "gn:country_code":"TH",
+    "gn:dem":825,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1331000,
+    "gn:latitude":18.80139,
+    "gn:longitude":98.23111,
+    "gn:modification_date":"1996-07-30",
+    "gn:name":"Ban Mae O",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678619,
+        890466281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1331000
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"fcd382d447d6e9d424dfe53ef9dd324d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466281,
+            "locality_id":1259491165,
+            "region_id":85678619
+        }
+    ],
+    "wof:id":1259491165,
+    "wof:lastmodified":1536846592,
+    "wof:name":"Ban Mae O",
+    "wof:parent_id":890466281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.23111,
+    18.80139,
+    98.23111,
+    18.80139
+],
+  "geometry": {"coordinates":[98.23111,18.80139],"type":"Point"}
+}

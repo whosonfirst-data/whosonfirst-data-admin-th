@@ -1,0 +1,75 @@
+{
+  "id": 1293605827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.89444,5.92997,101.89444,5.92997",
+    "geom:latitude":5.92997,
+    "geom:longitude":101.89444,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Ban Ku Pong",
+    "gn:country_code":"TH",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1610346,
+    "gn:latitude":5.92997,
+    "gn:longitude":101.89444,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Ku Pong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e01\u0e38\u0e1b\u0e07"
+    ],
+    "name:und_x_variant":[
+        "Kampong Kubang",
+        "Kampong Kubong",
+        "Ban Ku Pong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678885,
+        890466217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1610346
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"9980b4c8f86cf92c883950c677a90cbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466217,
+            "locality_id":1293605827,
+            "region_id":85678885
+        }
+    ],
+    "wof:id":1293605827,
+    "wof:lastmodified":1537703639,
+    "wof:name":"Ban Ku Pong",
+    "wof:parent_id":890466217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.89444,
+    5.92997,
+    101.89444,
+    5.92997
+],
+  "geometry": {"coordinates":[101.89444,5.92997],"type":"Point"}
+}

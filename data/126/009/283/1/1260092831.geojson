@@ -1,0 +1,70 @@
+{
+  "id": 1260092831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.69703,18.39758,98.69703,18.39758",
+    "geom:latitude":18.39758,
+    "geom:longitude":98.69703,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Tha Luk",
+    "gn:country_code":"TH",
+    "gn:dem":277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1154526,
+    "gn:latitude":18.39758,
+    "gn:longitude":98.69703,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Tha Luk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e17\u0e48\u0e32\u0e2b\u0e25\u0e38\u0e01"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678619,
+        1108802597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1154526
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"34a86633dcb9709e5b05f35f9c58e19b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802597,
+            "locality_id":1260092831,
+            "region_id":85678619
+        }
+    ],
+    "wof:id":1260092831,
+    "wof:lastmodified":1537703052,
+    "wof:name":"Ban Tha Luk",
+    "wof:parent_id":1108802597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.69703,
+    18.39758,
+    98.69703,
+    18.39758
+],
+  "geometry": {"coordinates":[98.69703,18.39758],"type":"Point"}
+}

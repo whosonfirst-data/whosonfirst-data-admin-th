@@ -1,0 +1,70 @@
+{
+  "id": 1276957567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.16056,16.12581,100.16056,16.12581",
+    "geom:latitude":16.12581,
+    "geom:longitude":100.16056,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Ban Thung Kathang",
+    "gn:country_code":"TH",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8451357,
+    "gn:latitude":16.12581,
+    "gn:longitude":100.16056,
+    "gn:modification_date":"2013-02-10",
+    "gn:name":"Ban Thung Kathang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e17\u0e38\u0e48\u0e07\u0e01\u0e30\u0e17\u0e31\u0e48\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678669,
+        1108731725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8451357
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"204ff13b4e7d49edc841fb1ee56d5150",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731725,
+            "locality_id":1276957567,
+            "region_id":85678669
+        }
+    ],
+    "wof:id":1276957567,
+    "wof:lastmodified":1537705604,
+    "wof:name":"Ban Thung Kathang",
+    "wof:parent_id":1108731725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.16056,
+    16.12581,
+    100.16056,
+    16.12581
+],
+  "geometry": {"coordinates":[100.16056,16.12581],"type":"Point"}
+}

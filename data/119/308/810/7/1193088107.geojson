@@ -1,0 +1,72 @@
+{
+  "id": 1193088107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.3,15.11667,102.3,15.11667",
+    "geom:latitude":15.11667,
+    "geom:longitude":102.3,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Ban Takot",
+    "gn:cc2":"TH",
+    "gn:country_code":"TH",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1613012,
+    "gn:latitude":15.11667,
+    "gn:longitude":102.3,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Takot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Non Takhot",
+        "Ban Takot"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678841,
+        1108802699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1613012
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"da0870732a551dda56626c2817d2c28f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802699,
+            "locality_id":1193088107,
+            "region_id":85678841
+        }
+    ],
+    "wof:id":1193088107,
+    "wof:lastmodified":1537703743,
+    "wof:name":"Ban Takot",
+    "wof:parent_id":1108802699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.3,
+    15.11667,
+    102.3,
+    15.11667
+],
+  "geometry": {"coordinates":[102.3,15.11667],"type":"Point"}
+}

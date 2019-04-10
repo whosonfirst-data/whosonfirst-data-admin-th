@@ -1,0 +1,76 @@
+{
+  "id": 890465709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-11-10",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.34827,15.70656,99.34827,15.70656",
+    "geom:latitude":15.70656,
+    "geom:longitude":99.34827,
+    "gn:country":"TH",
+    "gn:fcode":"ADM2",
+    "gn:pop":0,
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e41\u0e21\u0e48\u0e40\u0e1b\u0e34\u0e19"
+    ],
+    "name:tha_x_variant":[
+        "\u0e41\u0e21\u0e48\u0e40\u0e1b\u0e34\u0e19"
+    ],
+    "name:unk_x_variant":[
+        "King Amphoe Mae Poen"
+    ],
+    "qs:name":"Amphoe Mae Poen",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":186,
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7510629,
+        "gp:id":28340976,
+        "qs:id":906871,
+        "wd:id":"Q475949",
+        "wk:page":"Mae Poen District"
+    },
+    "wof:country":"TH",
+    "wof:created":1469053530,
+    "wof:geomhash":"72f51e3b2aa8977ae888791e720ddac4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465709,
+            "region_id":85678715
+        }
+    ],
+    "wof:id":890465709,
+    "wof:lastmodified":1527736645,
+    "wof:name":"Amphoe Mae Poen",
+    "wof:parent_id":85678715,
+    "wof:placetype":"county",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.34827,
+    15.70656,
+    99.34827,
+    15.70656
+],
+  "geometry": {"coordinates":[99.34827,15.70656],"type":"Point"}
+}

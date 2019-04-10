@@ -1,0 +1,70 @@
+{
+  "id": 1343887517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.72019,7.28575,99.72019,7.28575",
+    "geom:latitude":7.28575,
+    "geom:longitude":99.72019,
+    "gn:admin1_code":"65.0",
+    "gn:asciiname":"Ban Nong To",
+    "gn:country_code":"TH",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8539328,
+    "gn:latitude":7.28575,
+    "gn:longitude":99.72019,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Ban Nong To",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e19\u0e2d\u0e07\u0e42\u0e15\u0e4a\u0e30"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678609,
+        1108731683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8539328
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"8d255bbf61f0f5b847969e6658c1487a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731683,
+            "locality_id":1343887517,
+            "region_id":85678609
+        }
+    ],
+    "wof:id":1343887517,
+    "wof:lastmodified":1537705685,
+    "wof:name":"Ban Nong To",
+    "wof:parent_id":1108731683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.72019,
+    7.28575,
+    99.72019,
+    7.28575
+],
+  "geometry": {"coordinates":[99.72019,7.28575],"type":"Point"}
+}

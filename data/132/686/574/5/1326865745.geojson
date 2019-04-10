@@ -1,0 +1,73 @@
+{
+  "id": 1326865745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.48769,7.56103,99.48769,7.56103",
+    "geom:latitude":7.56103,
+    "geom:longitude":99.48769,
+    "gn:admin1_code":"65.0",
+    "gn:asciiname":"Ban Nong Mai Phai",
+    "gn:country_code":"TH",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1155746,
+    "gn:latitude":7.56103,
+    "gn:longitude":99.48769,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Ban Nong Mai Phai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e19\u0e2d\u0e07\u0e44\u0e21\u0e49\u0e44\u0e1c\u0e48"
+    ],
+    "name:und_x_variant":[
+        "Ban Nong Mai Phai (1)"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678609,
+        1108731911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1155746
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"d27cfce80852f20dc25dd7c5753aef70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731911,
+            "locality_id":1326865745,
+            "region_id":85678609
+        }
+    ],
+    "wof:id":1326865745,
+    "wof:lastmodified":1537703140,
+    "wof:name":"Ban Nong Mai Phai",
+    "wof:parent_id":1108731911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.48769,
+    7.56103,
+    99.48769,
+    7.56103
+],
+  "geometry": {"coordinates":[99.48769,7.56103],"type":"Point"}
+}

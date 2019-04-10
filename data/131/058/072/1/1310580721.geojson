@@ -1,0 +1,77 @@
+{
+  "id": 1310580721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.46017,16.92469,100.46017,16.92469",
+    "geom:latitude":16.92469,
+    "geom:longitude":100.46017,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Ban Nam Dam",
+    "gn:country_code":"TH",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1616321,
+    "gn:latitude":16.92469,
+    "gn:longitude":100.46017,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Ban Nam Dam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e19\u0e49\u0e33\u0e14\u0e33"
+    ],
+    "name:und_x_variant":[
+        "Nam Khan",
+        "Ban Nam Khan",
+        "B\u0101n Nam Kan",
+        "Ban Nam Dam (1)",
+        "Ban Nam Dam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678647,
+        890466019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1616321
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"b3dbc870f9e4ada24f20cd2ccc678a34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466019,
+            "locality_id":1310580721,
+            "region_id":85678647
+        }
+    ],
+    "wof:id":1310580721,
+    "wof:lastmodified":1537703971,
+    "wof:name":"Ban Nam Dam",
+    "wof:parent_id":890466019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.46017,
+    16.92469,
+    100.46017,
+    16.92469
+],
+  "geometry": {"coordinates":[100.46017000000001,16.92469],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1242736261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.81511,16.01117,102.81511,16.01117",
+    "geom:latitude":16.01117,
+    "geom:longitude":102.81511,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Ban Lan",
+    "gn:country_code":"TH",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1614835,
+    "gn:latitude":16.01117,
+    "gn:longitude":102.81511,
+    "gn:modification_date":"2014-04-29",
+    "gn:name":"Ban Lan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e25\u0e32\u0e19"
+    ],
+    "name:und_x_variant":[
+        "Ban Non Lan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678827,
+        1108802571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1614835
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"af98d539b7cdb35d1c041ee1af4c1c55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802571,
+            "locality_id":1242736261,
+            "region_id":85678827
+        }
+    ],
+    "wof:id":1242736261,
+    "wof:lastmodified":1537703871,
+    "wof:name":"Ban Lan",
+    "wof:parent_id":1108802571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.81511,
+    16.01117,
+    102.81511,
+    16.01117
+],
+  "geometry": {"coordinates":[102.81511,16.01117],"type":"Point"}
+}

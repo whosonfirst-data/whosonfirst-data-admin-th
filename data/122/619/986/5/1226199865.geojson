@@ -1,0 +1,73 @@
+{
+  "id": 1226199865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.09089,15.59181,103.09089,15.59181",
+    "geom:latitude":15.59181,
+    "geom:longitude":103.09089,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Ban Khok Luean",
+    "gn:country_code":"TH",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1602428,
+    "gn:latitude":15.59181,
+    "gn:longitude":103.09089,
+    "gn:modification_date":"2014-03-05",
+    "gn:name":"Ban Khok Luean",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e42\u0e04\u0e01\u0e40\u0e25\u0e37\u0e48\u0e2d\u0e19"
+    ],
+    "name:und_x_variant":[
+        "Ban Khok Luan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678835,
+        1108731595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1602428
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"0733d5807eac195679765a3fb0a20f2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731595,
+            "locality_id":1226199865,
+            "region_id":85678835
+        }
+    ],
+    "wof:id":1226199865,
+    "wof:lastmodified":1537703545,
+    "wof:name":"Ban Khok Luean",
+    "wof:parent_id":1108731595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.09089,
+    15.59181,
+    103.09089,
+    15.59181
+],
+  "geometry": {"coordinates":[103.09089,15.59181],"type":"Point"}
+}

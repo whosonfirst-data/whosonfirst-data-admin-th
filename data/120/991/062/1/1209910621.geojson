@@ -1,0 +1,74 @@
+{
+  "id": 1209910621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.17239,18.16828,100.17239,18.16828",
+    "geom:latitude":18.16828,
+    "geom:longitude":100.17239,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ban Thung Hong",
+    "gn:country_code":"TH",
+    "gn:dem":167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1612272,
+    "gn:latitude":18.16828,
+    "gn:longitude":100.17239,
+    "gn:modification_date":"2012-09-05",
+    "gn:name":"Ban Thung Hong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e17\u0e38\u0e48\u0e07\u0e42\u0e2e\u0e49\u0e07"
+    ],
+    "name:und_x_variant":[
+        "Ban Thung",
+        "Ban Thung Hong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678643,
+        890466801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1612272
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"b3c75a73623c54200f190da96e7b72e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466801,
+            "locality_id":1209910621,
+            "region_id":85678643
+        }
+    ],
+    "wof:id":1209910621,
+    "wof:lastmodified":1537703692,
+    "wof:name":"Ban Thung Hong",
+    "wof:parent_id":890466801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.17239,
+    18.16828,
+    100.17239,
+    18.16828
+],
+  "geometry": {"coordinates":[100.17238999999999,18.16828],"type":"Point"}
+}

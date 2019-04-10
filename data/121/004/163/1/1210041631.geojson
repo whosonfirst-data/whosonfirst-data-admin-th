@@ -1,0 +1,70 @@
+{
+  "id": 1210041631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.81453,8.75978,98.81453,8.75978",
+    "geom:latitude":8.75978,
+    "geom:longitude":98.81453,
+    "gn:admin1_code":"60.0",
+    "gn:asciiname":"Ban Thap Khrit",
+    "gn:country_code":"TH",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8326888,
+    "gn:latitude":8.75978,
+    "gn:longitude":98.81453,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Ban Thap Khrit",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e17\u0e31\u0e1a\u0e04\u0e23\u0e34\u0e2a\u0e15\u0e4c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678849,
+        890465923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8326888
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"7a8182ea388c489ad54525993a32eb1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465923,
+            "locality_id":1210041631,
+            "region_id":85678849
+        }
+    ],
+    "wof:id":1210041631,
+    "wof:lastmodified":1537705400,
+    "wof:name":"Ban Thap Khrit",
+    "wof:parent_id":890465923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.81453,
+    8.75978,
+    98.81453,
+    8.75978
+],
+  "geometry": {"coordinates":[98.81453,8.75978],"type":"Point"}
+}

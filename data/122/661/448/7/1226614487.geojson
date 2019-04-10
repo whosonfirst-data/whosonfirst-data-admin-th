@@ -1,0 +1,70 @@
+{
+  "id": 1226614487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.29058,16.46308,102.29058,16.46308",
+    "geom:latitude":16.46308,
+    "geom:longitude":102.29058,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Ban At Samat",
+    "gn:country_code":"TH",
+    "gn:dem":202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8440868,
+    "gn:latitude":16.46308,
+    "gn:longitude":102.29058,
+    "gn:modification_date":"2014-05-01",
+    "gn:name":"Ban At Samat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2d\u0e32\u0e08\u0e2a\u0e32\u0e21\u0e32\u0e23\u0e16"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678827,
+        890467315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8440868
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"c174a4f69623c0611d78080446ca1649",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890467315,
+            "locality_id":1226614487,
+            "region_id":85678827
+        }
+    ],
+    "wof:id":1226614487,
+    "wof:lastmodified":1537705599,
+    "wof:name":"Ban At Samat",
+    "wof:parent_id":890467315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.29058,
+    16.46308,
+    102.29058,
+    16.46308
+],
+  "geometry": {"coordinates":[102.29058000000001,16.46308],"type":"Point"}
+}

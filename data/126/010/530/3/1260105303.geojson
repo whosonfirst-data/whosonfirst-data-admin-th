@@ -1,0 +1,70 @@
+{
+  "id": 1260105303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.01214,15.74292,105.01214,15.74292",
+    "geom:latitude":15.74292,
+    "geom:longitude":105.01214,
+    "gn:admin1_code":"75.0",
+    "gn:asciiname":"Ban Na Sabaeng",
+    "gn:country_code":"TH",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8318754,
+    "gn:latitude":15.74292,
+    "gn:longitude":105.01214,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Ban Na Sabaeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e19\u0e32\u0e2a\u0e30\u0e41\u0e1a\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678783,
+        1108731449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8318754
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"fb0b1461b134d4d70cc92e3dd4df97ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731449,
+            "locality_id":1260105303,
+            "region_id":85678783
+        }
+    ],
+    "wof:id":1260105303,
+    "wof:lastmodified":1537705339,
+    "wof:name":"Ban Na Sabaeng",
+    "wof:parent_id":1108731449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.01214,
+    15.74292,
+    105.01214,
+    15.74292
+],
+  "geometry": {"coordinates":[105.01214,15.74292],"type":"Point"}
+}

@@ -1,0 +1,119 @@
+{
+  "id": 890466225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001153,
+    "geom:area_square_m":13852353.220748,
+    "geom:bbox":"100.471807589,13.6894667808,100.514306275,13.7356453196",
+    "geom:latitude":13.715165,
+    "geom:longitude":100.49324,
+    "gn:country":"TH",
+    "gn:fcode":"ADM2",
+    "gn:pop":0,
+    "iso:country":"TH",
+    "lbl:latitude":13.715552,
+    "lbl:longitude":100.491791,
+    "meso:admin1_en":"KRUNG THEP",
+    "meso:diss_me":"ThonburiKRUNG THEP",
+    "meso:gadm_admin":"Thon Buri",
+    "meso:gadm_hasc2":"TH.BM.TB",
+    "meso:gaul_admin":"Thonburi",
+    "meso:id":"745",
+    "meso:loc_id_alt":"1015",
+    "meso:local_id":"3215",
+    "meso:mps_x":100.491791,
+    "meso:mps_y":13.715552,
+    "meso:name_en":"Thonburi",
+    "meso:name_local":"\u0e40\u0e02\u0e15\u0e18\u0e19\u0e1a\u0e38\u0e23\u0e35",
+    "meso:source":"AOTM",
+    "mps:latitude":13.715552,
+    "mps:longitude":100.491791,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Thon Buri"
+    ],
+    "name:eng_x_variant":[
+        "Thonburi",
+        "Thon Buri"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e02\u0e15\u0e18\u0e19\u0e1a\u0e38\u0e23\u0e35"
+    ],
+    "name:tha_x_variant":[
+        "\u0e18\u0e19\u0e1a\u0e38\u0e23\u0e35",
+        "\u0e40\u0e02\u0e15\u0e18\u0e19\u0e1a\u0e38\u0e23\u0e35"
+    ],
+    "name:unk_x_variant":[
+        "Dhonburi"
+    ],
+    "qs:name":"Khet Thon Buri",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"0",
+    "src:geom":"unknown",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2000-04-01",
+    "statoids:area_km":"9",
+    "statoids:as_of_date":"2000-04-01",
+    "statoids:capital":"",
+    "statoids:country":"TH",
+    "statoids:hasc":"TH.BM",
+    "statoids:name":"Thon Buri",
+    "statoids:population":"210653",
+    "statoids:statoid":"TH.BM.TB",
+    "statoids:timezone":"7",
+    "statoids:type":"district",
+    "wd:wordcount":298,
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1605401,
+        "hasc:id":"TH.BM.TB",
+        "qs:id":370783,
+        "wd:id":"Q2305621",
+        "wk:page":"Thon Buri District"
+    },
+    "wof:country":"TH",
+    "wof:created":1469053570,
+    "wof:geomhash":"729e201858c9760fdbe882401593119c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466225,
+            "region_id":85678739
+        }
+    ],
+    "wof:id":890466225,
+    "wof:lastmodified":1536617421,
+    "wof:name":"Thonburi",
+    "wof:parent_id":85678739,
+    "wof:placetype":"county",
+    "wof:placetype_local":"district",
+    "wof:population":210653,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:shortcode":"TB",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.47180758879834,
+    13.68946678075953,
+    100.5143062751329,
+    13.73564531963365
+],
+  "geometry": {"coordinates":[[[100.48061051684695,13.72969492338865],[100.48477174553564,13.7324997628035],[100.50831506644228,13.73564531963365],[100.5143062751329,13.7222705187474],[100.50467194650258,13.71051862153694],[100.50231517173931,13.70281591892323],[100.50246505938922,13.7018540752635],[100.49493537069648,13.68946678075953],[100.48463178841402,13.69101466531909],[100.48548294438112,13.70143380768058],[100.48402472791268,13.70318803670117],[100.47590828275831,13.70398074074516],[100.47180758879834,13.71204430099558],[100.48026852142442,13.72286920674597],[100.48061051684695,13.72969492338865]]],"type":"Polygon"}
+}

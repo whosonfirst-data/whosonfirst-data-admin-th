@@ -1,0 +1,70 @@
+{
+  "id": 1310059759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.21639,14.80217,100.21639,14.80217",
+    "geom:latitude":14.80217,
+    "geom:longitude":100.21639,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Ban Huang Mara",
+    "gn:country_code":"TH",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8666593,
+    "gn:latitude":14.80217,
+    "gn:longitude":100.21639,
+    "gn:modification_date":"2014-03-11",
+    "gn:name":"Ban Huang Mara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e49\u0e27\u0e07\u0e21\u0e30\u0e23\u0e30"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678729,
+        1108731343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8666593
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"85a4619e9112aff911ba5e11099baf74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731343,
+            "locality_id":1310059759,
+            "region_id":85678729
+        }
+    ],
+    "wof:id":1310059759,
+    "wof:lastmodified":1537705798,
+    "wof:name":"Ban Huang Mara",
+    "wof:parent_id":1108731343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.21639,
+    14.80217,
+    100.21639,
+    14.80217
+],
+  "geometry": {"coordinates":[100.21639,14.80217],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 890466441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.86875,15.246924,104.86875,15.246924",
+    "geom:latitude":15.246924,
+    "geom:longitude":104.86875,
+    "gp:adm0":23424960,
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "qs:name":"Pathum",
+    "qs:name_adm0":"Thailand",
+    "qs:name_adm1":"Ubon Ratchathani",
+    "qs:photos":273,
+    "qs:photos_1k":55,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":273,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55945624,
+        "qs:id":1136711
+    },
+    "wof:country":"TH",
+    "wof:created":1469053579,
+    "wof:geomhash":"3b9c120a520f406155b387764906d5d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "locality_id":890466441,
+            "region_id":85678783
+        }
+    ],
+    "wof:id":890466441,
+    "wof:lastmodified":1469053579,
+    "wof:name":"Pathum",
+    "wof:parent_id":85678783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.86875,
+    15.246924,
+    104.86875,
+    15.246924
+],
+  "geometry": {"coordinates":[104.86875000000001,15.246924],"type":"Point"}
+}

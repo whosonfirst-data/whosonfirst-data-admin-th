@@ -1,0 +1,70 @@
+{
+  "id": 1344224067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.88764,16.2995,101.88764,16.2995",
+    "geom:latitude":16.2995,
+    "geom:longitude":101.88764,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Ban Tha Duea",
+    "gn:country_code":"TH",
+    "gn:dem":240,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8371933,
+    "gn:latitude":16.2995,
+    "gn:longitude":101.88764,
+    "gn:modification_date":"2012-08-06",
+    "gn:name":"Ban Tha Duea",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e17\u0e48\u0e32\u0e40\u0e14\u0e37\u0e48\u0e2d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678825,
+        890466305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8371933
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"8e911ade38c12f4c42ffd80f8b3daf76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466305,
+            "locality_id":1344224067,
+            "region_id":85678825
+        }
+    ],
+    "wof:id":1344224067,
+    "wof:lastmodified":1537705521,
+    "wof:name":"Ban Tha Duea",
+    "wof:parent_id":890466305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.88764,
+    16.2995,
+    101.88764,
+    16.2995
+],
+  "geometry": {"coordinates":[101.88764,16.2995],"type":"Point"}
+}

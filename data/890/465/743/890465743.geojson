@@ -1,0 +1,72 @@
+{
+  "id": 890465743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-11-10",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.65182,13.90727,100.65182,13.90727",
+    "geom:latitude":13.90727,
+    "geom:longitude":100.65182,
+    "gn:country":"TH",
+    "gn:fcode":"ADM2",
+    "gn:pop":0,
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:tha_x_preferred":[
+        "\u0e40\u0e02\u0e15\u0e2a\u0e32\u0e22\u0e44\u0e2b\u0e21"
+    ],
+    "name:tha_x_variant":[
+        "\u0e2a\u0e32\u0e22\u0e44\u0e2b\u0e21"
+    ],
+    "qs:name":"Khet Sai Mai",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":197,
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6845608,
+        "qs:id":1153753,
+        "wd:id":"Q1025969",
+        "wk:page":"Sai Mai District"
+    },
+    "wof:country":"TH",
+    "wof:created":1469053531,
+    "wof:geomhash":"2586d53759d76cb1692806f084f95328",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465743,
+            "region_id":85678739
+        }
+    ],
+    "wof:id":890465743,
+    "wof:lastmodified":1527736657,
+    "wof:name":"Khet Sai Mai",
+    "wof:parent_id":85678739,
+    "wof:placetype":"county",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.65182,
+    13.90727,
+    100.65182,
+    13.90727
+],
+  "geometry": {"coordinates":[100.65182,13.90727],"type":"Point"}
+}

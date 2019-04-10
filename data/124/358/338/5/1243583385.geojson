@@ -1,0 +1,70 @@
+{
+  "id": 1243583385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.02581,6.64725,101.02581,6.64725",
+    "geom:latitude":6.64725,
+    "geom:longitude":101.02581,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Ban Ra Mai Ok",
+    "gn:country_code":"TH",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8536353,
+    "gn:latitude":6.64725,
+    "gn:longitude":101.02581,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Ban Ra Mai Ok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e23\u0e32\u0e44\u0e21\u0e22\u0e4c\u0e2d\u0e2d\u0e01"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678603,
+        1108731821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8536353
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"5f8debdcfe5ebacda6bca3628207a917",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731821,
+            "locality_id":1243583385,
+            "region_id":85678603
+        }
+    ],
+    "wof:id":1243583385,
+    "wof:lastmodified":1537705665,
+    "wof:name":"Ban Ra Mai Ok",
+    "wof:parent_id":1108731821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.02581,
+    6.64725,
+    101.02581,
+    6.64725
+],
+  "geometry": {"coordinates":[101.02581000000001,6.64725],"type":"Point"}
+}

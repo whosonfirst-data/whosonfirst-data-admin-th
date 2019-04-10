@@ -1,0 +1,70 @@
+{
+  "id": 1193250039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.50106,15.76758,100.50106,15.76758",
+    "geom:latitude":15.76758,
+    "geom:longitude":100.50106,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ban Nong Kacho",
+    "gn:country_code":"TH",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8345678,
+    "gn:latitude":15.76758,
+    "gn:longitude":100.50106,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Ban Nong Kacho",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e19\u0e2d\u0e07\u0e01\u0e30\u0e0a\u0e48\u0e2d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678715,
+        1108731989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8345678
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"b6941f94bc544d56aeb8a1b407ccb588",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731989,
+            "locality_id":1193250039,
+            "region_id":85678715
+        }
+    ],
+    "wof:id":1193250039,
+    "wof:lastmodified":1537705480,
+    "wof:name":"Ban Nong Kacho",
+    "wof:parent_id":1108731989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.50106,
+    15.76758,
+    100.50106,
+    15.76758
+],
+  "geometry": {"coordinates":[100.50106,15.76758],"type":"Point"}
+}

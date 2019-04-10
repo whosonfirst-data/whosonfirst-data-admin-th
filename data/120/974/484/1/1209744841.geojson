@@ -1,0 +1,70 @@
+{
+  "id": 1209744841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.39122,6.61386,101.39122,6.61386",
+    "geom:latitude":6.61386,
+    "geom:longitude":101.39122,
+    "gn:admin1_code":"69.0",
+    "gn:asciiname":"Ban Ta Lo Mae Na",
+    "gn:country_code":"TH",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7881573,
+    "gn:latitude":6.61386,
+    "gn:longitude":101.39122,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Ta Lo Mae Na",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e15\u0e30\u0e42\u0e25\u0e4a\u0e30\u0e41\u0e21\u0e30\u0e19\u0e32"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678889,
+        1108732031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7881573
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"db5b0af89930fa77590cf8327d475718",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108732031,
+            "locality_id":1209744841,
+            "region_id":85678889
+        }
+    ],
+    "wof:id":1209744841,
+    "wof:lastmodified":1537704814,
+    "wof:name":"Ban Ta Lo Mae Na",
+    "wof:parent_id":1108732031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.39122,
+    6.61386,
+    101.39122,
+    6.61386
+],
+  "geometry": {"coordinates":[101.39122,6.61386],"type":"Point"}
+}

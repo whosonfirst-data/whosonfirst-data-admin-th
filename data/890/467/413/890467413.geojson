@@ -1,0 +1,76 @@
+{
+  "id": 890467413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-11-10",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.70591,17.59927,99.70591,17.59927",
+    "geom:latitude":17.59927,
+    "geom:longitude":99.70591,
+    "gn:country":"TH",
+    "gn:fcode":"ADM2",
+    "gn:pop":0,
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e28\u0e23\u0e35\u0e2a\u0e31\u0e0a\u0e19\u0e32\u0e25\u0e31\u0e22"
+    ],
+    "name:tha_x_variant":[
+        "\u0e28\u0e23\u0e35\u0e2a\u0e31\u0e0a\u0e19\u0e32\u0e25\u0e31\u0e22"
+    ],
+    "name:unk_x_variant":[
+        "Amphoe Hat Siao"
+    ],
+    "qs:name":"Amphoe Si Satchanalai",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":192,
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1150623,
+        "gp:id":28340912,
+        "qs:id":244426,
+        "wd:id":"Q349796",
+        "wk:page":"Si Satchanalai District"
+    },
+    "wof:country":"TH",
+    "wof:created":1469053640,
+    "wof:geomhash":"86c406e1b713f48080b4404ea31a7bb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890467413,
+            "region_id":85678651
+        }
+    ],
+    "wof:id":890467413,
+    "wof:lastmodified":1527792894,
+    "wof:name":"Amphoe Si Satchanalai",
+    "wof:parent_id":85678651,
+    "wof:placetype":"county",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.70591,
+    17.59927,
+    99.70591,
+    17.59927
+],
+  "geometry": {"coordinates":[99.70591,17.59927],"type":"Point"}
+}

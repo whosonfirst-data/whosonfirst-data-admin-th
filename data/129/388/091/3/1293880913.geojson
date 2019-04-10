@@ -1,0 +1,74 @@
+{
+  "id": 1293880913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.34025,18.09383,99.34025,18.09383",
+    "geom:latitude":18.09383,
+    "geom:longitude":99.34025,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Ban Chom Ping",
+    "gn:country_code":"TH",
+    "gn:dem":219,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1158016,
+    "gn:latitude":18.09383,
+    "gn:longitude":99.34025,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Ban Chom Ping",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e08\u0e2d\u0e21\u0e1b\u0e34\u0e07"
+    ],
+    "name:und_x_variant":[
+        "B\u0101n Jaum Ping",
+        "Ban Chom Ping"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678625,
+        890466105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1158016
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"fb91b325a82bd5dc25ede270e2f86c4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466105,
+            "locality_id":1293880913,
+            "region_id":85678625
+        }
+    ],
+    "wof:id":1293880913,
+    "wof:lastmodified":1537703290,
+    "wof:name":"Ban Chom Ping",
+    "wof:parent_id":890466105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.34025,
+    18.09383,
+    99.34025,
+    18.09383
+],
+  "geometry": {"coordinates":[99.34025,18.09383],"type":"Point"}
+}

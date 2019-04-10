@@ -1,0 +1,75 @@
+{
+  "id": 890466245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-11-10",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.50995,13.7548,100.50995,13.7548",
+    "geom:latitude":13.7548,
+    "geom:longitude":100.50995,
+    "gn:country":"TH",
+    "gn:fcode":"ADM2",
+    "gn:pop":0,
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:tha_x_preferred":[
+        "\u0e40\u0e02\u0e15\u0e1b\u0e49\u0e2d\u0e21\u0e1b\u0e23\u0e32\u0e1a\u0e28\u0e31\u0e15\u0e23\u0e39\u0e1e\u0e48\u0e32\u0e22"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1b\u0e49\u0e2d\u0e21\u0e1b\u0e23\u0e32\u0e1a\u0e28\u0e31\u0e15\u0e23\u0e39\u0e1e\u0e48\u0e32\u0e22"
+    ],
+    "name:unk_x_variant":[
+        "Amphoe Pom Prap Sattru Phai"
+    ],
+    "qs:name":"Khet Pom Prap Sattru Phai",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":873,
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1607326,
+        "qs:id":370855,
+        "wd:id":"Q1019440",
+        "wk:page":"Pom Prap Sattru Phai District"
+    },
+    "wof:country":"TH",
+    "wof:created":1469053571,
+    "wof:geomhash":"3df2363011a22c292ce1d436ea6d2122",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466245,
+            "region_id":85678739
+        }
+    ],
+    "wof:id":890466245,
+    "wof:lastmodified":1527793008,
+    "wof:name":"Khet Pom Prap Sattru Phai",
+    "wof:parent_id":85678739,
+    "wof:placetype":"county",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.50995,
+    13.7548,
+    100.50995,
+    13.7548
+],
+  "geometry": {"coordinates":[100.50995,13.7548],"type":"Point"}
+}

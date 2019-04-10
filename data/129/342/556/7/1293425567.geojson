@@ -1,0 +1,68 @@
+{
+  "id": 1293425567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.82022,8.26953,98.82022,8.26953",
+    "geom:latitude":8.26953,
+    "geom:longitude":98.82022,
+    "gn:admin1_code":"63.0",
+    "gn:asciiname":"Ban Thung Ton Pik",
+    "gn:country_code":"TH",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8539927,
+    "gn:latitude":8.26953,
+    "gn:longitude":98.82022,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Ban Thung Ton Pik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e17\u0e38\u0e48\u0e07\u0e15\u0e49\u0e19\u0e1b\u0e35\u0e01"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632293,
+        890466649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8539927
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"8d6d7c73605d5fa41482560381b94043",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632293,
+            "county_id":890466649,
+            "locality_id":1293425567,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293425567,
+    "wof:lastmodified":1537705692,
+    "wof:name":"Ban Thung Ton Pik",
+    "wof:parent_id":890466649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.82022,
+    8.26953,
+    98.82022,
+    8.26953
+],
+  "geometry": {"coordinates":[98.82022000000001,8.26953],"type":"Point"}
+}

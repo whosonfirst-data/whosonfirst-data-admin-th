@@ -1,0 +1,70 @@
+{
+  "id": 1260213215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.08706,12.93361,101.08706,12.93361",
+    "geom:latitude":12.93361,
+    "geom:longitude":101.08706,
+    "gn:admin1_code":"46.0",
+    "gn:asciiname":"Ban Chak Phakbung",
+    "gn:country_code":"TH",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7850699,
+    "gn:latitude":12.93361,
+    "gn:longitude":101.08706,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Chak Phakbung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e0a\u0e32\u0e01\u0e1c\u0e31\u0e01\u0e1a\u0e38\u0e49\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678625,
+        890466015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7850699
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"452aeff37c5e6b7b55ad2e2733035f88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466015,
+            "locality_id":1260213215,
+            "region_id":85678625
+        }
+    ],
+    "wof:id":1260213215,
+    "wof:lastmodified":1537704710,
+    "wof:name":"Ban Chak Phakbung",
+    "wof:parent_id":890466015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.08706,
+    12.93361,
+    101.08706,
+    12.93361
+],
+  "geometry": {"coordinates":[101.08705999999999,12.93361],"type":"Point"}
+}

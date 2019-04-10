@@ -1,0 +1,74 @@
+{
+  "id": 1242802821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.00331,9.5691,100.00331,9.5691",
+    "geom:latitude":9.5691,
+    "geom:longitude":100.00331,
+    "gn:admin1_code":"64.0",
+    "gn:asciiname":"Mae Nam Beach",
+    "gn:country_code":"TH",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6692479,
+    "gn:latitude":9.5691,
+    "gn:longitude":100.00331,
+    "gn:modification_date":"2011-06-21",
+    "gn:name":"Mae Nam Beach",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mae Nam"
+    ],
+    "name:eng_x_variant":[
+        "Mae Nam Beach"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2b\u0e32\u0e14\u0e41\u0e21\u0e48 \u0e19\u0e49\u0e33"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6692479
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"a270e1e493fdbf62d633143643fbafa8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "locality_id":1242802821,
+            "region_id":85678581
+        }
+    ],
+    "wof:id":1242802821,
+    "wof:lastmodified":1537704314,
+    "wof:name":"Mae Nam Beach",
+    "wof:parent_id":85678581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.00331,
+    9.5691,
+    100.00331,
+    9.5691
+],
+  "geometry": {"coordinates":[100.00331,9.5691],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 102025563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000233,
+    "geom:area_square_m":2777524.331007,
+    "geom:bbox":"104.908447266,15.2735871022,104.919433594,15.2947825903",
+    "geom:latitude":15.284185,
+    "geom:longitude":104.91394,
+    "gn:latitude":15.299,
+    "gn:longitude":104.89753,
+    "iso:country":"TH",
+    "lbl:latitude":15.284185,
+    "lbl:longitude":104.913941,
+    "mps:latitude":15.284185,
+    "mps:longitude":104.913941,
+    "mz:hierarchy_label":1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1b\u0e25\u0e32\u0e14\u0e38\u0e01"
+    ],
+    "name:unk_x_variant":[
+        "Ban Pa Duk"
+    ],
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Ban Pladuk",
+    "qs:loc_lc":"1614007",
+    "qs:pop":0,
+    "qs:source":"Aquattroshapes",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678783,
+        890466033
+    ],
+    "wof:breaches":[
+        102024669
+    ],
+    "wof:concordances":{
+        "gn:id":1614007
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"05d520c6c9a89bb0e0edd06e454365e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466033,
+            "locality_id":102025563,
+            "region_id":85678783
+        }
+    ],
+    "wof:id":102025563,
+    "wof:lastmodified":1501221066,
+    "wof:name":"Ban Pladuk",
+    "wof:parent_id":890466033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.908447266,
+    15.2735871022,
+    104.919433594,
+    15.2947825903
+],
+  "geometry": {"coordinates":[[[104.908447266,15.2735871022],[104.908447266,15.2841851141],[104.908447266,15.2947825903],[104.919433594,15.2947825903],[104.919433594,15.2841851141],[104.919433594,15.2735871022],[104.908447266,15.2735871022]]],"type":"Polygon"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1209966113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.06121,14.63817,104.06121,14.63817",
+    "geom:latitude":14.63817,
+    "geom:longitude":104.06121,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Ban Khanun",
+    "gn:country_code":"TH",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1618479,
+    "gn:latitude":14.63817,
+    "gn:longitude":104.06121,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Khanun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e02\u0e19\u0e38\u0e19"
+    ],
+    "name:und_x_variant":[
+        "Ban Khno",
+        "Ban Khano",
+        "Ban Khanun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678779,
+        1108731409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1618479
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"5296296f9b85620dd2a67a8bf24b53cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731409,
+            "locality_id":1209966113,
+            "region_id":85678779
+        }
+    ],
+    "wof:id":1209966113,
+    "wof:lastmodified":1537704126,
+    "wof:name":"Ban Khanun",
+    "wof:parent_id":1108731409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.06121,
+    14.63817,
+    104.06121,
+    14.63817
+],
+  "geometry": {"coordinates":[104.06121,14.63817],"type":"Point"}
+}

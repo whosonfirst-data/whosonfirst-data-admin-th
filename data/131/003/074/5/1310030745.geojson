@@ -1,0 +1,74 @@
+{
+  "id": 1310030745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.07458,14.49189,100.07458,14.49189",
+    "geom:latitude":14.49189,
+    "geom:longitude":100.07458,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Ban Lat Ta Nuan",
+    "gn:country_code":"TH",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1616973,
+    "gn:latitude":14.49189,
+    "gn:longitude":100.07458,
+    "gn:modification_date":"2014-01-08",
+    "gn:name":"Ban Lat Ta Nuan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e25\u0e32\u0e14\u0e15\u0e32\u0e19\u0e27\u0e19"
+    ],
+    "name:und_x_variant":[
+        "Ban Lad Ta-Nuan",
+        "Ban Lat Ta Nuan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678679,
+        890466933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1616973
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"93a7f99c97799c28cd8c04eaddcbcca1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466933,
+            "locality_id":1310030745,
+            "region_id":85678679
+        }
+    ],
+    "wof:id":1310030745,
+    "wof:lastmodified":1537704018,
+    "wof:name":"Ban Lat Ta Nuan",
+    "wof:parent_id":890466933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.07458,
+    14.49189,
+    100.07458,
+    14.49189
+],
+  "geometry": {"coordinates":[100.07458,14.49189],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1276998369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.56889,13.78772,99.56889,13.78772",
+    "geom:latitude":13.78772,
+    "geom:longitude":99.56889,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Ban Nong Tak Ya",
+    "gn:country_code":"TH",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1118458,
+    "gn:latitude":13.78772,
+    "gn:longitude":99.56889,
+    "gn:modification_date":"2013-02-07",
+    "gn:name":"Ban Nong Tak Ya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e19\u0e2d\u0e07\u0e15\u0e32\u0e01\u0e22\u0e32"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678663,
+        890466893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1118458
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"beae2165993071f35a339b0699cc5874",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466893,
+            "locality_id":1276998369,
+            "region_id":85678663
+        }
+    ],
+    "wof:id":1276998369,
+    "wof:lastmodified":1537702948,
+    "wof:name":"Ban Nong Tak Ya",
+    "wof:parent_id":890466893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.56889,
+    13.78772,
+    99.56889,
+    13.78772
+],
+  "geometry": {"coordinates":[99.56889,13.78772],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1310070003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.80311,17.43186,103.80311,17.43186",
+    "geom:latitude":17.43186,
+    "geom:longitude":103.80311,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Klang Charoen",
+    "gn:country_code":"TH",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7917039,
+    "gn:latitude":17.43186,
+    "gn:longitude":103.80311,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Klang Charoen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e01\u0e25\u0e32\u0e07\u0e40\u0e08\u0e23\u0e34\u0e0d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678863,
+        1108731707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7917039
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"449f87cb2e9b54738a0103abf10c80f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731707,
+            "locality_id":1310070003,
+            "region_id":85678863
+        }
+    ],
+    "wof:id":1310070003,
+    "wof:lastmodified":1537704875,
+    "wof:name":"Ban Klang Charoen",
+    "wof:parent_id":1108731707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.80311,
+    17.43186,
+    103.80311,
+    17.43186
+],
+  "geometry": {"coordinates":[103.80311,17.43186],"type":"Point"}
+}

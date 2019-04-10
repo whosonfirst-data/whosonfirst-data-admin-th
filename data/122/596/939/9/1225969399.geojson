@@ -1,0 +1,70 @@
+{
+  "id": 1225969399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.77601,17.86664,103.77601,17.86664",
+    "geom:latitude":17.86664,
+    "geom:longitude":103.77601,
+    "gn:admin1_code":"81.0",
+    "gn:asciiname":"Ban Tha Kok Daeng",
+    "gn:country_code":"TH",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1612652,
+    "gn:latitude":17.86664,
+    "gn:longitude":103.77601,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Ban Tha Kok Daeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e17\u0e48\u0e32\u0e01\u0e01\u0e41\u0e14\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678863,
+        1108731351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1612652
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"1987bcce78d65dcf73b5885c2ab91641",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731351,
+            "locality_id":1225969399,
+            "region_id":85678863
+        }
+    ],
+    "wof:id":1225969399,
+    "wof:lastmodified":1537703718,
+    "wof:name":"Ban Tha Kok Daeng",
+    "wof:parent_id":1108731351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.77601,
+    17.86664,
+    103.77601,
+    17.86664
+],
+  "geometry": {"coordinates":[103.77601,17.86664],"type":"Point"}
+}

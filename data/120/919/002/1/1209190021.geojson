@@ -1,0 +1,67 @@
+{
+  "id": 1209190021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.05028,17.42761,101.05028,17.42761",
+    "geom:latitude":17.42761,
+    "geom:longitude":101.05028,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Na Thon",
+    "gn:country_code":"TH",
+    "gn:dem":502,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1600788,
+    "gn:latitude":17.42761,
+    "gn:longitude":101.05028,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Na Thon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "Ban Na Thon"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e19\u0e32\u0e17\u0e48\u0e2d\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1600788
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"5e08c98dd7842a8f8a311717ff690c9b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632293,
+            "locality_id":1209190021
+        }
+    ],
+    "wof:id":1209190021,
+    "wof:lastmodified":1537703488,
+    "wof:name":"Ban Na Thon",
+    "wof:parent_id":85632293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.05028,
+    17.42761,
+    101.05028,
+    17.42761
+],
+  "geometry": {"coordinates":[101.05028,17.42761],"type":"Point"}
+}

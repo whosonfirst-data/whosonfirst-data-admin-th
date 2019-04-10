@@ -1,0 +1,70 @@
+{
+  "id": 1276930317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.39083,15.07269,101.39083,15.07269",
+    "geom:latitude":15.07269,
+    "geom:longitude":101.39083,
+    "gn:admin1_code":"34",
+    "gn:asciiname":"Ban Sap Takhian",
+    "gn:country_code":"TH",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9197665,
+    "gn:latitude":15.07269,
+    "gn:longitude":101.39083,
+    "gn:modification_date":"2014-07-10",
+    "gn:name":"Ban Sap Takhian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e0b\u0e31\u0e1a\u0e15\u0e30\u0e40\u0e04\u0e35\u0e22\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678825,
+        1108802641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9197665
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"9507873197528d613a6e2b6ef249dacd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802641,
+            "locality_id":1276930317,
+            "region_id":85678825
+        }
+    ],
+    "wof:id":1276930317,
+    "wof:lastmodified":1537706211,
+    "wof:name":"Ban Sap Takhian",
+    "wof:parent_id":1108802641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.39083,
+    15.07269,
+    101.39083,
+    15.07269
+],
+  "geometry": {"coordinates":[101.39082999999999,15.07269],"type":"Point"}
+}

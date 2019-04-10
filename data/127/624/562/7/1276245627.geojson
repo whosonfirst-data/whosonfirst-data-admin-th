@@ -1,0 +1,70 @@
+{
+  "id": 1276245627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.46267,6.29011,101.46267,6.29011",
+    "geom:latitude":6.29011,
+    "geom:longitude":101.46267,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Ban Ba Sa Hu Pi",
+    "gn:country_code":"TH",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7013131,
+    "gn:latitude":6.29011,
+    "gn:longitude":101.46267,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ban Ba Sa Hu Pi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1a\u0e32\u0e0b\u0e32\u0e2e\u0e39\u0e1b\u0e34"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678885,
+        890465725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7013131
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"f7e4c532a4ad8f24cbd705bfd97a77ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465725,
+            "locality_id":1276245627,
+            "region_id":85678885
+        }
+    ],
+    "wof:id":1276245627,
+    "wof:lastmodified":1537704390,
+    "wof:name":"Ban Ba Sa Hu Pi",
+    "wof:parent_id":890465725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.46267,
+    6.29011,
+    101.46267,
+    6.29011
+],
+  "geometry": {"coordinates":[101.46267,6.29011],"type":"Point"}
+}

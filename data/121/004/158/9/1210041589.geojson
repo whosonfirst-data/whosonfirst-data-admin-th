@@ -1,0 +1,71 @@
+{
+  "id": 1210041589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.56667,6.51667,101.56667,6.51667",
+    "geom:latitude":6.51667,
+    "geom:longitude":101.56667,
+    "gn:admin1_code":"70.0",
+    "gn:asciiname":"Ban Sida",
+    "gn:country_code":"TH",
+    "gn:dem":519,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1613273,
+    "gn:latitude":6.51667,
+    "gn:longitude":101.56667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Sida",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Si Da",
+        "Ban Sida"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678611,
+        1108731791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1613273
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"a7e0fc78708429ba65103f9cab480167",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731791,
+            "locality_id":1210041589,
+            "region_id":85678611
+        }
+    ],
+    "wof:id":1210041589,
+    "wof:lastmodified":1537703762,
+    "wof:name":"Ban Sida",
+    "wof:parent_id":1108731791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.56667,
+    6.51667,
+    101.56667,
+    6.51667
+],
+  "geometry": {"coordinates":[101.56667,6.51667],"type":"Point"}
+}

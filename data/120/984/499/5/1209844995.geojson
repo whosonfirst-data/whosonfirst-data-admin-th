@@ -1,0 +1,70 @@
+{
+  "id": 1209844995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.31264,15.12411,105.31264,15.12411",
+    "geom:latitude":15.12411,
+    "geom:longitude":105.31264,
+    "gn:admin1_code":"75.0",
+    "gn:asciiname":"Ban Mai Phasuk",
+    "gn:country_code":"TH",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8319665,
+    "gn:latitude":15.12411,
+    "gn:longitude":105.31264,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Ban Mai Phasuk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e43\u0e2b\u0e21\u0e48\u0e1c\u0e32\u0e2a\u0e38\u0e02"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678783,
+        890466347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8319665
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"958b01b3146e2e33a59ebc60a1b187e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466347,
+            "locality_id":1209844995,
+            "region_id":85678783
+        }
+    ],
+    "wof:id":1209844995,
+    "wof:lastmodified":1537705350,
+    "wof:name":"Ban Mai Phasuk",
+    "wof:parent_id":890466347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.31264,
+    15.12411,
+    105.31264,
+    15.12411
+],
+  "geometry": {"coordinates":[105.31264,15.12411],"type":"Point"}
+}

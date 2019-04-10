@@ -1,0 +1,73 @@
+{
+  "id": 1309829307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.08303,9.93836,99.08303,9.93836",
+    "geom:latitude":9.93836,
+    "geom:longitude":99.08303,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Ban Don Tako",
+    "gn:country_code":"TH",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1157803,
+    "gn:latitude":9.93836,
+    "gn:longitude":99.08303,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Ban Don Tako",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e14\u0e2d\u0e19\u0e15\u0e30\u0e42\u0e01"
+    ],
+    "name:und_x_variant":[
+        "Ban Don Ta Koet"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678559,
+        1108731469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1157803
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"bc7f750d0d9e4040f840f7a05fda348c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731469,
+            "locality_id":1309829307,
+            "region_id":85678559
+        }
+    ],
+    "wof:id":1309829307,
+    "wof:lastmodified":1537703277,
+    "wof:name":"Ban Don Tako",
+    "wof:parent_id":1108731469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.08303,
+    9.93836,
+    99.08303,
+    9.93836
+],
+  "geometry": {"coordinates":[99.08302999999999,9.93836],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1260347119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.83714,16.642,102.83714,16.642",
+    "geom:latitude":16.642,
+    "geom:longitude":102.83714,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Ban Bueng Klang",
+    "gn:country_code":"TH",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9003557,
+    "gn:latitude":16.642,
+    "gn:longitude":102.83714,
+    "gn:modification_date":"2014-05-01",
+    "gn:name":"Ban Bueng Klang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1a\u0e36\u0e07\u0e01\u0e25\u0e32\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678827,
+        1108731583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9003557
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"93f1854f7b29367297fc6d947eb25f4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731583,
+            "locality_id":1260347119,
+            "region_id":85678827
+        }
+    ],
+    "wof:id":1260347119,
+    "wof:lastmodified":1537706094,
+    "wof:name":"Ban Bueng Klang",
+    "wof:parent_id":1108731583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.83714,
+    16.642,
+    102.83714,
+    16.642
+],
+  "geometry": {"coordinates":[102.83714000000001,16.642],"type":"Point"}
+}

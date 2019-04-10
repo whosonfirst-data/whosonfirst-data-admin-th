@@ -1,0 +1,70 @@
+{
+  "id": 1243092463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.01483,14.26831,99.01483,14.26831",
+    "geom:latitude":14.26831,
+    "geom:longitude":99.01483,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Ban Kaeng Rawa",
+    "gn:country_code":"TH",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8454571,
+    "gn:latitude":14.26831,
+    "gn:longitude":99.01483,
+    "gn:modification_date":"2013-02-10",
+    "gn:name":"Ban Kaeng Rawa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e41\u0e01\u0e48\u0e07\u0e23\u0e30\u0e27\u0e49\u0e32"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678663,
+        1108731901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8454571
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"55a72c58aad5f0f59dfac033cfca0d27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731901,
+            "locality_id":1243092463,
+            "region_id":85678663
+        }
+    ],
+    "wof:id":1243092463,
+    "wof:lastmodified":1537705620,
+    "wof:name":"Ban Kaeng Rawa",
+    "wof:parent_id":1108731901,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.01483,
+    14.26831,
+    99.01483,
+    14.26831
+],
+  "geometry": {"coordinates":[99.01483,14.26831],"type":"Point"}
+}

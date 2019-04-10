@@ -1,0 +1,70 @@
+{
+  "id": 1344073813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.95181,6.56161,100.95181,6.56161",
+    "geom:latitude":6.56161,
+    "geom:longitude":100.95181,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Ban Mo La Tae",
+    "gn:country_code":"TH",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7095943,
+    "gn:latitude":6.56161,
+    "gn:longitude":100.95181,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Mo La Tae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e21\u0e32\u0e30\u0e25\u0e32\u0e41\u0e15"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678603,
+        1108731821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7095943
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"c0f387d85da114e27c4d1abf525deed5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731821,
+            "locality_id":1344073813,
+            "region_id":85678603
+        }
+    ],
+    "wof:id":1344073813,
+    "wof:lastmodified":1537704423,
+    "wof:name":"Ban Mo La Tae",
+    "wof:parent_id":1108731821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.95181,
+    6.56161,
+    100.95181,
+    6.56161
+],
+  "geometry": {"coordinates":[100.95180999999999,6.56161],"type":"Point"}
+}

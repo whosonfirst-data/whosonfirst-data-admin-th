@@ -1,0 +1,70 @@
+{
+  "id": 1327300995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.05117,15.62728,102.05117,15.62728",
+    "geom:latitude":15.62728,
+    "geom:longitude":102.05117,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Ban Khilek",
+    "gn:country_code":"TH",
+    "gn:dem":195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8371772,
+    "gn:latitude":15.62728,
+    "gn:longitude":102.05117,
+    "gn:modification_date":"2012-08-06",
+    "gn:name":"Ban Khilek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e02\u0e35\u0e49\u0e40\u0e2b\u0e25\u0e47\u0e01"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678841,
+        1108802693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8371772
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"3c4a5953f115fbf2b568feca46694c80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802693,
+            "locality_id":1327300995,
+            "region_id":85678841
+        }
+    ],
+    "wof:id":1327300995,
+    "wof:lastmodified":1537705520,
+    "wof:name":"Ban Khilek",
+    "wof:parent_id":1108802693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.05117,
+    15.62728,
+    102.05117,
+    15.62728
+],
+  "geometry": {"coordinates":[102.05117,15.62728],"type":"Point"}
+}

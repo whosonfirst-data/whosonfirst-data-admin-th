@@ -1,0 +1,64 @@
+{
+  "id": 1209381871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.92314,16.29631,101.92314,16.29631",
+    "geom:latitude":16.29631,
+    "geom:longitude":101.92314,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Ban Phrom",
+    "gn:country_code":"TH",
+    "gn:dem":238,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8371971,
+    "gn:latitude":16.29631,
+    "gn:longitude":101.92314,
+    "gn:modification_date":"2012-08-06",
+    "gn:name":"Ban Phrom",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1e\u0e23\u0e21"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8371971
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"ec8c95dfed46d271bf2a30b60538b789",
+    "wof:hierarchy":[
+        {
+            "country_id":85632293,
+            "locality_id":1209381871
+        }
+    ],
+    "wof:id":1209381871,
+    "wof:lastmodified":1537705522,
+    "wof:name":"Ban Phrom",
+    "wof:parent_id":85632293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.92314,
+    16.29631,
+    101.92314,
+    16.29631
+],
+  "geometry": {"coordinates":[101.92314,16.29631],"type":"Point"}
+}

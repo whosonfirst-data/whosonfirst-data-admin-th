@@ -1,0 +1,73 @@
+{
+  "id": 1259887745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.90519,18.61742,98.90519,18.61742",
+    "geom:latitude":18.61742,
+    "geom:longitude":98.90519,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Rai",
+    "gn:country_code":"TH",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1155045,
+    "gn:latitude":18.61742,
+    "gn:longitude":98.90519,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Ban Rai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e44\u0e23\u0e48"
+    ],
+    "name:und_x_variant":[
+        "Ban Rai Nai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678619,
+        890467097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1155045
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"e602becd53edb027178457680e7a8ca5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890467097,
+            "locality_id":1259887745,
+            "region_id":85678619
+        }
+    ],
+    "wof:id":1259887745,
+    "wof:lastmodified":1537703090,
+    "wof:name":"Ban Rai",
+    "wof:parent_id":890467097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.90519,
+    18.61742000000001,
+    98.90519,
+    18.61742000000001
+],
+  "geometry": {"coordinates":[98.90519,18.61742000000001],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1226816771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.70522,15.76619,103.70522,15.76619",
+    "geom:latitude":15.76619,
+    "geom:longitude":103.70522,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Ban Khu Mueang",
+    "gn:country_code":"TH",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1617671,
+    "gn:latitude":15.76619,
+    "gn:longitude":103.70522,
+    "gn:modification_date":"2014-01-08",
+    "gn:name":"Ban Khu Mueang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e04\u0e39\u0e40\u0e21\u0e37\u0e2d\u0e07"
+    ],
+    "name:und_x_variant":[
+        "Ban Khao Muang",
+        "Ban Kua Mung",
+        "Khao Muang",
+        "Ban Khu Muang",
+        "Ban Khu Mueang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678845,
+        1108802685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1617671
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"40e4993847b07cd6e67f1fe07821d9bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802685,
+            "locality_id":1226816771,
+            "region_id":85678845
+        }
+    ],
+    "wof:id":1226816771,
+    "wof:lastmodified":1537704065,
+    "wof:name":"Ban Khu Mueang",
+    "wof:parent_id":1108802685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.70522,
+    15.76619,
+    103.70522,
+    15.76619
+],
+  "geometry": {"coordinates":[103.70522,15.76619],"type":"Point"}
+}

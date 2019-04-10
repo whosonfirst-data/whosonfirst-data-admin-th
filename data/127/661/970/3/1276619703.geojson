@@ -1,0 +1,73 @@
+{
+  "id": 1276619703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.42503,17.49722,101.42503,17.49722",
+    "geom:latitude":17.49722,
+    "geom:longitude":101.42503,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Nam Krathom",
+    "gn:country_code":"TH",
+    "gn:dem":449,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8039195,
+    "gn:latitude":17.49722,
+    "gn:longitude":101.42503,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Nam Krathom",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "Ban Nam Krathom"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e19\u0e49\u0e33\u0e01\u0e23\u0e30\u0e42\u0e17\u0e21"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678853,
+        890465943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8039195
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"5fbbd9614b73f10e74beb3081837fddc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465943,
+            "locality_id":1276619703,
+            "region_id":85678853
+        }
+    ],
+    "wof:id":1276619703,
+    "wof:lastmodified":1537704945,
+    "wof:name":"Ban Nam Krathom",
+    "wof:parent_id":890465943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.42503,
+    17.49722,
+    101.42503,
+    17.49722
+],
+  "geometry": {"coordinates":[101.42503000000001,17.49722],"type":"Point"}
+}

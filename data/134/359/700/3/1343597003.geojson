@@ -1,0 +1,74 @@
+{
+  "id": 1343597003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.59403,9.95533,98.59403,9.95533",
+    "geom:latitude":9.95533,
+    "geom:longitude":98.59403,
+    "gn:admin1_code":"59.0",
+    "gn:asciiname":"Ban Pak Nam",
+    "gn:country_code":"TH",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1155416,
+    "gn:latitude":9.95533,
+    "gn:longitude":98.59403,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Ban Pak Nam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1b\u0e32\u0e01\u0e19\u0e49\u0e33"
+    ],
+    "name:und_x_variant":[
+        "Ban Pak Na",
+        "Ban Pak Nam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678577,
+        890467201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1155416
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"2cfac780e9f19fc458c726edd5eaa1fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890467201,
+            "locality_id":1343597003,
+            "region_id":85678577
+        }
+    ],
+    "wof:id":1343597003,
+    "wof:lastmodified":1537703117,
+    "wof:name":"Ban Pak Nam",
+    "wof:parent_id":890467201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.59403,
+    9.95533,
+    98.59403,
+    9.95533
+],
+  "geometry": {"coordinates":[98.59403,9.95533],"type":"Point"}
+}

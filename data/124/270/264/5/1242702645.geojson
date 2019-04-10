@@ -1,0 +1,70 @@
+{
+  "id": 1242702645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.62292,6.32353,101.62292,6.32353",
+    "geom:latitude":6.32353,
+    "geom:longitude":101.62292,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Ban Bra Eng",
+    "gn:country_code":"TH",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7463243,
+    "gn:latitude":6.32353,
+    "gn:longitude":101.62292,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Bra Eng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1a\u0e23\u0e30\u0e40\u0e2d\u0e47\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678885,
+        1108731793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7463243
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"a2aebb21ef7f0ab5058787957f3e8b56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731793,
+            "locality_id":1242702645,
+            "region_id":85678885
+        }
+    ],
+    "wof:id":1242702645,
+    "wof:lastmodified":1537704505,
+    "wof:name":"Ban Bra Eng",
+    "wof:parent_id":1108731793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.62292,
+    6.32353,
+    101.62292,
+    6.32353
+],
+  "geometry": {"coordinates":[101.62291999999999,6.32353],"type":"Point"}
+}

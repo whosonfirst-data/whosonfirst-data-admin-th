@@ -1,0 +1,70 @@
+{
+  "id": 1242594627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.30244,13.76617,102.30244,13.76617",
+    "geom:latitude":13.76617,
+    "geom:longitude":102.30244,
+    "gn:admin1_code":"80",
+    "gn:asciiname":"Ban Noi Sanambin",
+    "gn:country_code":"TH",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8760125,
+    "gn:latitude":13.76617,
+    "gn:longitude":102.30244,
+    "gn:modification_date":"2014-04-08",
+    "gn:name":"Ban Noi Sanambin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e19\u0e49\u0e2d\u0e22\u0e2a\u0e19\u0e32\u0e21\u0e1a\u0e34\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678805,
+        1108732073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8760125
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"d751b8e251e0026f62035025ecb4e159",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108732073,
+            "locality_id":1242594627,
+            "region_id":85678805
+        }
+    ],
+    "wof:id":1242594627,
+    "wof:lastmodified":1537706038,
+    "wof:name":"Ban Noi Sanambin",
+    "wof:parent_id":1108732073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.30244,
+    13.76617,
+    102.30244,
+    13.76617
+],
+  "geometry": {"coordinates":[102.30244,13.76617],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1242702897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.41869,13.33447,101.41869,13.33447",
+    "geom:latitude":13.33447,
+    "geom:longitude":101.41869,
+    "gn:admin1_code":"46.0",
+    "gn:asciiname":"Ban Thung Noi",
+    "gn:country_code":"TH",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7850810,
+    "gn:latitude":13.33447,
+    "gn:longitude":101.41869,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Thung Noi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e17\u0e38\u0e48\u0e07\u0e19\u0e49\u0e2d\u0e22"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678795,
+        1108731193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7850810
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"a54f12f13113592bedcf025c1de144be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731193,
+            "locality_id":1242702897,
+            "region_id":85678795
+        }
+    ],
+    "wof:id":1242702897,
+    "wof:lastmodified":1537704710,
+    "wof:name":"Ban Thung Noi",
+    "wof:parent_id":1108731193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.41869,
+    13.33447,
+    101.41869,
+    13.33447
+],
+  "geometry": {"coordinates":[101.41869,13.33447],"type":"Point"}
+}

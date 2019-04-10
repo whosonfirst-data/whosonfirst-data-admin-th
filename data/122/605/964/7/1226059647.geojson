@@ -1,0 +1,70 @@
+{
+  "id": 1226059647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.76311,13.99486,101.76311,13.99486",
+    "geom:latitude":13.99486,
+    "geom:longitude":101.76311,
+    "gn:admin1_code":"74",
+    "gn:asciiname":"Ban Lao Luang",
+    "gn:country_code":"TH",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8749171,
+    "gn:latitude":13.99486,
+    "gn:longitude":101.76311,
+    "gn:modification_date":"2014-04-08",
+    "gn:name":"Ban Lao Luang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e2b\u0e25\u0e48\u0e32\u0e2b\u0e25\u0e27\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678711,
+        1108731305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8749171
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"d551ee71289ebd434f260f4f0ea51871",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731305,
+            "locality_id":1226059647,
+            "region_id":85678711
+        }
+    ],
+    "wof:id":1226059647,
+    "wof:lastmodified":1537706030,
+    "wof:name":"Ban Lao Luang",
+    "wof:parent_id":1108731305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.76311,
+    13.99486,
+    101.76311,
+    13.99486
+],
+  "geometry": {"coordinates":[101.76311,13.99486],"type":"Point"}
+}

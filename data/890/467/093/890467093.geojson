@@ -1,0 +1,82 @@
+{
+  "id": 890467093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.58411,13.96414,99.58411,13.96414",
+    "geom:latitude":13.96414,
+    "geom:longitude":99.58411,
+    "gn:country":"TH",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424960,
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e02\u0e32\u0e19\u0e49\u0e2d\u0e22"
+    ],
+    "name:unk_x_variant":[
+        "Ban Khao Noi"
+    ],
+    "qs:name":"Khao Noi",
+    "qs:name_adm0":"Thailand",
+    "qs:name_adm1":"Kanchanaburi",
+    "qs:photos":98,
+    "qs:photos_1k":20,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":98,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":273,
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678663,
+        890466893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8455451,
+        "gp:id":55946456,
+        "qs:id":1182848,
+        "wd:id":"Q476524",
+        "wk:page":"Pran Buri District"
+    },
+    "wof:country":"TH",
+    "wof:created":1469053612,
+    "wof:geomhash":"4985f92bdcb23c17d2b5538b2e3d07f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466893,
+            "locality_id":890467093,
+            "region_id":85678663
+        }
+    ],
+    "wof:id":890467093,
+    "wof:lastmodified":1527792901,
+    "wof:name":"Khao Noi",
+    "wof:parent_id":890466893,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.58411,
+    13.96414,
+    99.58411,
+    13.96414
+],
+  "geometry": {"coordinates":[99.58411,13.96414],"type":"Point"}
+}

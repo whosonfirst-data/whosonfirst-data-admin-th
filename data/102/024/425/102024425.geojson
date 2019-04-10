@@ -1,0 +1,75 @@
+{
+  "id": 102024425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000221,
+    "geom:area_square_m":2590251.176783,
+    "geom:bbox":"99.0252685547,18.8283162527,99.0417480469,18.8439132011",
+    "geom:latitude":18.835654,
+    "geom:longitude":99.033996,
+    "iso:country":"TH",
+    "lbl:latitude":18.834467,
+    "lbl:longitude":99.034435,
+    "mps:latitude":18.834467,
+    "mps:longitude":99.034435,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2a\u0e31\u0e19\u0e17\u0e23\u0e32\u0e22"
+    ],
+    "name:unk_x_variant":[
+        "Sansai"
+    ],
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Ban San Sai",
+    "qs:loc_lc":"1154819",
+    "qs:pop":0,
+    "qs:source":"Aquattroshapes",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678619,
+        890466149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1154819
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"32cb1b288fc2103ab916169fa695a547",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466149,
+            "locality_id":102024425,
+            "region_id":85678619
+        }
+    ],
+    "wof:id":102024425,
+    "wof:lastmodified":1501216987,
+    "wof:name":"Ban San Sai",
+    "wof:parent_id":890466149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.02526855469999,
+    18.8283162527,
+    99.0417480469,
+    18.8439132011
+],
+  "geometry": {"coordinates":[[[99.03900146479999,18.8309158447],[99.03900146479999,18.8283162527],[99.03625488279999,18.8283162527],[99.03076171879999,18.8283162527],[99.02801513669999,18.8283162527],[99.02526855469999,18.8283162527],[99.02526855469999,18.8309158447],[99.02526855469999,18.8322156256],[99.02526855469999,18.8335153964],[99.02526855469999,18.8387143793],[99.03076171879999,18.8387143793],[99.03076171879999,18.8439132011],[99.03625488279999,18.8439132011],[99.0417480469,18.8439132011],[99.0417480469,18.8387143793],[99.0417480469,18.836114908],[99.0417480469,18.8335153964],[99.0417480469,18.8309158447],[99.03900146479999,18.8309158447]]],"type":"Polygon"}
+}

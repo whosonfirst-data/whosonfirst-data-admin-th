@@ -1,0 +1,70 @@
+{
+  "id": 1243137745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.81889,17.59434,101.81889,17.59434",
+    "geom:latitude":17.59434,
+    "geom:longitude":101.81889,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Nong Dokbua",
+    "gn:country_code":"TH",
+    "gn:dem":310,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1600486,
+    "gn:latitude":17.59434,
+    "gn:longitude":101.81889,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Ban Nong Dokbua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e19\u0e2d\u0e07\u0e14\u0e2d\u0e01\u0e1a\u0e31\u0e27"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678853,
+        890467393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1600486
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"c442ddfb4b21569001759961e813054e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890467393,
+            "locality_id":1243137745,
+            "region_id":85678853
+        }
+    ],
+    "wof:id":1243137745,
+    "wof:lastmodified":1537703477,
+    "wof:name":"Ban Nong Dokbua",
+    "wof:parent_id":890467393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.81889,
+    17.59434,
+    101.81889,
+    17.59434
+],
+  "geometry": {"coordinates":[101.81889,17.59434],"type":"Point"}
+}

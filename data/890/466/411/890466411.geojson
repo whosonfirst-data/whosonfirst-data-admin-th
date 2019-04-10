@@ -1,0 +1,73 @@
+{
+  "id": 890466411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-11-10",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.87878,19.30637,100.87878,19.30637",
+    "geom:latitude":19.30637,
+    "geom:longitude":100.87878,
+    "gn:country":"TH",
+    "gn:fcode":"ADM2",
+    "gn:pop":0,
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e40\u0e0a\u0e35\u0e22\u0e07\u0e01\u0e25\u0e32\u0e07"
+    ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e0a\u0e35\u0e22\u0e07\u0e01\u0e25\u0e32\u0e07"
+    ],
+    "qs:name":"Amphoe Chiang Klang",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":251,
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7510698,
+        "gp:id":28340907,
+        "qs:id":1041648,
+        "wd:id":"Q475393",
+        "wk:page":"Chiang Klang District"
+    },
+    "wof:country":"TH",
+    "wof:created":1469053577,
+    "wof:geomhash":"7764a3aacef0db3376db98074b8c3925",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466411,
+            "region_id":85678633
+        }
+    ],
+    "wof:id":890466411,
+    "wof:lastmodified":1527793016,
+    "wof:name":"Amphoe Chiang Klang",
+    "wof:parent_id":85678633,
+    "wof:placetype":"county",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.87878,
+    19.30637,
+    100.87878,
+    19.30637
+],
+  "geometry": {"coordinates":[100.87878000000001,19.30637],"type":"Point"}
+}

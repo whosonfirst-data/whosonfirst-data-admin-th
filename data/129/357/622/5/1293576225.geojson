@@ -1,0 +1,70 @@
+{
+  "id": 1293576225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.33492,17.26717,100.33492,17.26717",
+    "geom:latitude":17.26717,
+    "geom:longitude":100.33492,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Ban Huai Chiang",
+    "gn:country_code":"TH",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1603493,
+    "gn:latitude":17.26717,
+    "gn:longitude":100.33492,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Ban Huai Chiang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e49\u0e27\u0e22\u0e40\u0e08\u0e35\u0e22\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678647,
+        890466287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1603493
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"5c727ea5449d35926397d04eb11f3330",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466287,
+            "locality_id":1293576225,
+            "region_id":85678647
+        }
+    ],
+    "wof:id":1293576225,
+    "wof:lastmodified":1537703586,
+    "wof:name":"Ban Huai Chiang",
+    "wof:parent_id":890466287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.33492,
+    17.26717,
+    100.33492,
+    17.26717
+],
+  "geometry": {"coordinates":[100.33492,17.26717],"type":"Point"}
+}

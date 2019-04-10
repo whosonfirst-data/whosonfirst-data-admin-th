@@ -1,0 +1,70 @@
+{
+  "id": 1343786817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.50586,13.36553,99.50586,13.36553",
+    "geom:latitude":13.36553,
+    "geom:longitude":99.50586,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Ban Phu Bon Bon",
+    "gn:country_code":"TH",
+    "gn:dem":238,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8338958,
+    "gn:latitude":13.36553,
+    "gn:longitude":99.50586,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Ban Phu Bon Bon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1e\u0e38\u0e1a\u0e2d\u0e19\u0e1a\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678761,
+        1108731945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8338958
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"544a88ef3cee61b2b0e73a03c91d9558",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731945,
+            "locality_id":1343786817,
+            "region_id":85678761
+        }
+    ],
+    "wof:id":1343786817,
+    "wof:lastmodified":1537705422,
+    "wof:name":"Ban Phu Bon Bon",
+    "wof:parent_id":1108731945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.50586,
+    13.36553,
+    99.50586,
+    13.36553
+],
+  "geometry": {"coordinates":[99.50586,13.36553],"type":"Point"}
+}

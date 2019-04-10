@@ -1,0 +1,75 @@
+{
+  "id": 1293548429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.54114,17.20547,103.54114,17.20547",
+    "geom:latitude":17.20547,
+    "geom:longitude":103.54114,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Phu Wong",
+    "gn:country_code":"TH",
+    "gn:dem":207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1612841,
+    "gn:latitude":17.20547,
+    "gn:longitude":103.54114,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Phu Wong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e20\u0e39\u0e27\u0e07"
+    ],
+    "name:und_x_variant":[
+        "Ban Phu Hong",
+        "Ban Tat Phu Wong",
+        "Ban Phu Wong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678863,
+        1108732067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1612841
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"084baceeac028bc0873b6670b7604452",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108732067,
+            "locality_id":1293548429,
+            "region_id":85678863
+        }
+    ],
+    "wof:id":1293548429,
+    "wof:lastmodified":1537703731,
+    "wof:name":"Ban Phu Wong",
+    "wof:parent_id":1108732067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.54114,
+    17.20547,
+    103.54114,
+    17.20547
+],
+  "geometry": {"coordinates":[103.54114,17.20547],"type":"Point"}
+}

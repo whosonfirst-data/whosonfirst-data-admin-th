@@ -1,0 +1,97 @@
+{
+  "id": 1125787957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.76667,13.9,99.76667,13.9",
+    "geom:latitude":13.9,
+    "geom:longitude":99.76667,
+    "gn:gn_country":"TH",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":52907,
+    "gn:population":52907,
+    "iso:country":"TH",
+    "lbl:latitude":13.9,
+    "lbl:longitude":99.76667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Amphoe Tha Maka"
+    ],
+    "qs_pg:aaroncc":"TH",
+    "qs_pg:gn_country":"TH",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1150275,
+    "qs_pg:gn_pop":52907,
+    "qs_pg:name":"Tha Maka",
+    "qs_pg:name_adm0":"Thailand",
+    "qs_pg:name_adm1":"Kanchanaburi",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":2,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":8,
+    "qs_pg:qs_id":193740,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424960,
+    "qs_pg:woe_id":1225691,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424960,
+    "woe:name_adm0":"Thailand",
+    "woe:name_adm1":"Kanchanaburi",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678663,
+        1108802755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1150275,
+        "gp:id":1225691,
+        "qs_pg:id":193740
+    },
+    "wof:country":"TH",
+    "wof:created":1497290752,
+    "wof:geomhash":"2b26dd18f891a6032c4da33a70fc4d70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802755,
+            "locality_id":1125787957,
+            "region_id":85678663
+        }
+    ],
+    "wof:id":1125787957,
+    "wof:lastmodified":1534379465,
+    "wof:name":"Tha Maka",
+    "wof:parent_id":1108802755,
+    "wof:placetype":"locality",
+    "wof:population":52907,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[
+        102024415
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.76667,
+    13.9,
+    99.76667,
+    13.9
+],
+  "geometry": {"coordinates":[99.76667,13.9],"type":"Point"}
+}

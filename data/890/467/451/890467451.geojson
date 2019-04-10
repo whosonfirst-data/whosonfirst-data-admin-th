@@ -1,0 +1,73 @@
+{
+  "id": 890467451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-11-10",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.33868,19.47062,100.33868,19.47062",
+    "geom:latitude":19.47062,
+    "geom:longitude":100.33868,
+    "gn:country":"TH",
+    "gn:fcode":"ADM2",
+    "gn:pop":0,
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e40\u0e0a\u0e35\u0e22\u0e07\u0e04\u0e33"
+    ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e0a\u0e35\u0e22\u0e07\u0e04\u0e33"
+    ],
+    "qs:name":"Amphoe Chiang Kham",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":227,
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1611201,
+        "gp:id":28341731,
+        "qs:id":1151812,
+        "wd:id":"Q475382",
+        "wk:page":"Chiang Kham District"
+    },
+    "wof:country":"TH",
+    "wof:created":1469053641,
+    "wof:geomhash":"1edb3a05ad5c38433b32f2b6961e97e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890467451,
+            "region_id":85678637
+        }
+    ],
+    "wof:id":890467451,
+    "wof:lastmodified":1527792900,
+    "wof:name":"Amphoe Chiang Kham",
+    "wof:parent_id":85678637,
+    "wof:placetype":"county",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.33868,
+    19.47062,
+    100.33868,
+    19.47062
+],
+  "geometry": {"coordinates":[100.33868,19.47062],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1310229993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.92467,13.05853,100.92467,13.05853",
+    "geom:latitude":13.05853,
+    "geom:longitude":100.92467,
+    "gn:admin1_code":"46.0",
+    "gn:asciiname":"Ban Thung Krat",
+    "gn:country_code":"TH",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1612248,
+    "gn:latitude":13.05853,
+    "gn:longitude":100.92467,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Thung Krat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e17\u0e38\u0e48\u0e07\u0e01\u0e23\u0e32\u0e14"
+    ],
+    "name:und_x_variant":[
+        "Ban Thung Trat",
+        "Ban Thung Krat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678625,
+        890466015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1612248
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"db937976a5e0e29a66b6b3ad8b5f9d89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466015,
+            "locality_id":1310229993,
+            "region_id":85678625
+        }
+    ],
+    "wof:id":1310229993,
+    "wof:lastmodified":1537703690,
+    "wof:name":"Ban Thung Krat",
+    "wof:parent_id":890466015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.92467,
+    13.05853,
+    100.92467,
+    13.05853
+],
+  "geometry": {"coordinates":[100.92467000000001,13.05853],"type":"Point"}
+}

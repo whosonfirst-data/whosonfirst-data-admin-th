@@ -1,0 +1,74 @@
+{
+  "id": 1209832543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.81781,10.4935,98.81781,10.4935",
+    "geom:latitude":10.4935,
+    "geom:longitude":98.81781,
+    "gn:admin1_code":"59.0",
+    "gn:asciiname":"Ban Thap Li",
+    "gn:country_code":"TH",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1154474,
+    "gn:latitude":10.4935,
+    "gn:longitude":98.81781,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Ban Thap Li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e17\u0e31\u0e1a\u0e2b\u0e25\u0e35"
+    ],
+    "name:und_x_variant":[
+        "B\u0101n Thap",
+        "Ban Thap Li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678577,
+        1108802631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1154474
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"995a6c4d0daf903a4511677eb248ff87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802631,
+            "locality_id":1209832543,
+            "region_id":85678577
+        }
+    ],
+    "wof:id":1209832543,
+    "wof:lastmodified":1537703049,
+    "wof:name":"Ban Thap Li",
+    "wof:parent_id":1108802631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.81781,
+    10.4935,
+    98.81781,
+    10.4935
+],
+  "geometry": {"coordinates":[98.81780999999999,10.4935],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1310221945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.88678,14.11897,101.88678,14.11897",
+    "geom:latitude":14.11897,
+    "geom:longitude":101.88678,
+    "gn:admin1_code":"74",
+    "gn:asciiname":"Ban Sahakon Nikhom",
+    "gn:country_code":"TH",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8748967,
+    "gn:latitude":14.11897,
+    "gn:longitude":101.88678,
+    "gn:modification_date":"2014-04-08",
+    "gn:name":"Ban Sahakon Nikhom",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2a\u0e2b\u0e01\u0e23\u0e13\u0e4c\u0e19\u0e34\u0e04\u0e21"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678711,
+        1108731541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8748967
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"75a927a998a43bec74f20017777c54d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731541,
+            "locality_id":1310221945,
+            "region_id":85678711
+        }
+    ],
+    "wof:id":1310221945,
+    "wof:lastmodified":1537706026,
+    "wof:name":"Ban Sahakon Nikhom",
+    "wof:parent_id":1108731541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.88678,
+    14.11897,
+    101.88678,
+    14.11897
+],
+  "geometry": {"coordinates":[101.88678,14.11897],"type":"Point"}
+}

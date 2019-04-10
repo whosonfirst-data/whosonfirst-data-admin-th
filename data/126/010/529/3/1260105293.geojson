@@ -1,0 +1,70 @@
+{
+  "id": 1260105293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.53147,6.46225,101.53147,6.46225",
+    "geom:latitude":6.46225,
+    "geom:longitude":101.53147,
+    "gn:admin1_code":"70.0",
+    "gn:asciiname":"Ban To Do Ro",
+    "gn:country_code":"TH",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7463173,
+    "gn:latitude":6.46225,
+    "gn:longitude":101.53147,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban To Do Ro",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e42\u0e15\u0e4a\u0e30\u0e14\u0e2d\u0e40\u0e23\u0e32\u0e30"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678611,
+        1108731791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7463173
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"5dde887263685fd9b6a382e2d95bb852",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731791,
+            "locality_id":1260105293,
+            "region_id":85678611
+        }
+    ],
+    "wof:id":1260105293,
+    "wof:lastmodified":1537704503,
+    "wof:name":"Ban To Do Ro",
+    "wof:parent_id":1108731791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.53147,
+    6.46225,
+    101.53147,
+    6.46225
+],
+  "geometry": {"coordinates":[101.53147,6.46225],"type":"Point"}
+}

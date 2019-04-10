@@ -1,0 +1,73 @@
+{
+  "id": 1259578987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.01695,17.59981,100.01695,17.59981",
+    "geom:latitude":17.59981,
+    "geom:longitude":100.01695,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Ban Na Phong Nok",
+    "gn:country_code":"TH",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8136528,
+    "gn:latitude":17.59981,
+    "gn:longitude":100.01695,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Ban Na Phong Nok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "Ban Na Phong Nok"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e19\u0e32\u0e1e\u0e07\u0e19\u0e2d\u0e01"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678657,
+        1108731475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8136528
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"88a535652e25613740ea4fcb4826cede",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731475,
+            "locality_id":1259578987,
+            "region_id":85678657
+        }
+    ],
+    "wof:id":1259578987,
+    "wof:lastmodified":1537704990,
+    "wof:name":"Ban Na Phong Nok",
+    "wof:parent_id":1108731475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.01695,
+    17.59981,
+    100.01695,
+    17.59981
+],
+  "geometry": {"coordinates":[100.01694999999999,17.59981],"type":"Point"}
+}

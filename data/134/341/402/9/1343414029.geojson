@@ -1,0 +1,70 @@
+{
+  "id": 1343414029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.35103,14.17136,100.35103,14.17136",
+    "geom:latitude":14.17136,
+    "geom:longitude":100.35103,
+    "gn:admin1_code":"36",
+    "gn:asciiname":"Ban Talat Wo",
+    "gn:country_code":"TH",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8697681,
+    "gn:latitude":14.17136,
+    "gn:longitude":100.35103,
+    "gn:modification_date":"2014-02-16",
+    "gn:name":"Ban Talat Wo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e15\u0e25\u0e32\u0e14\u0e40\u0e27\u0e32\u0e30\u0e2b\u0e4c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678721,
+        1108731477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8697681
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"7bc5dcaf6acc4bfa6e4d1dbef7493d20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731477,
+            "locality_id":1343414029,
+            "region_id":85678721
+        }
+    ],
+    "wof:id":1343414029,
+    "wof:lastmodified":1537705894,
+    "wof:name":"Ban Talat Wo",
+    "wof:parent_id":1108731477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.35103,
+    14.17136,
+    100.35103,
+    14.17136
+],
+  "geometry": {"coordinates":[100.35102999999999,14.17136],"type":"Point"}
+}

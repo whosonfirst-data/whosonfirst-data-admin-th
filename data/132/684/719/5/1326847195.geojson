@@ -1,0 +1,70 @@
+{
+  "id": 1326847195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.76628,6.85603,100.76628,6.85603",
+    "geom:latitude":6.85603,
+    "geom:longitude":100.76628,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Ban Kasemrat",
+    "gn:country_code":"TH",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7095603,
+    "gn:latitude":6.85603,
+    "gn:longitude":100.76628,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Kasemrat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e01\u0e29\u0e21\u0e23\u0e31\u0e15\u0e19\u0e4c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678603,
+        1108731225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7095603
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"c80d22ce152cb33617992ae7a6f6de83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731225,
+            "locality_id":1326847195,
+            "region_id":85678603
+        }
+    ],
+    "wof:id":1326847195,
+    "wof:lastmodified":1537704417,
+    "wof:name":"Ban Kasemrat",
+    "wof:parent_id":1108731225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.76628,
+    6.85603,
+    100.76628,
+    6.85603
+],
+  "geometry": {"coordinates":[100.76627999999999,6.85603],"type":"Point"}
+}

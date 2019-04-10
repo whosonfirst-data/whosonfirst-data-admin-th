@@ -1,0 +1,74 @@
+{
+  "id": 1343612521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.18453,14.99319,102.18453,14.99319",
+    "geom:latitude":14.99319,
+    "geom:longitude":102.18453,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Ban Phutsa",
+    "gn:country_code":"TH",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1614020,
+    "gn:latitude":14.99319,
+    "gn:longitude":102.18453,
+    "gn:modification_date":"2014-06-04",
+    "gn:name":"Ban Phutsa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1e\u0e38\u0e14\u0e0b\u0e32"
+    ],
+    "name:und_x_variant":[
+        "Ban Putsa",
+        "Ban Phutsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678841,
+        890466785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1614020
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"0c5ccd944edc5b2f51f596cc7cd48ff2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466785,
+            "locality_id":1343612521,
+            "region_id":85678841
+        }
+    ],
+    "wof:id":1343612521,
+    "wof:lastmodified":1537703813,
+    "wof:name":"Ban Phutsa",
+    "wof:parent_id":890466785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.18453,
+    14.99319,
+    102.18453,
+    14.99319
+],
+  "geometry": {"coordinates":[102.18453,14.99319],"type":"Point"}
+}

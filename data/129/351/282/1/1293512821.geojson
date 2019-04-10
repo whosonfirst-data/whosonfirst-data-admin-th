@@ -1,0 +1,74 @@
+{
+  "id": 1293512821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.17794,6.19903,101.17794,6.19903",
+    "geom:latitude":6.19903,
+    "geom:longitude":101.17794,
+    "gn:admin1_code":"70.0",
+    "gn:asciiname":"Ban Phayap",
+    "gn:country_code":"TH",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1941353,
+    "gn:latitude":6.19903,
+    "gn:longitude":101.17794,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ban Phayap",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1e\u0e32\u0e22\u0e31\u0e1a"
+    ],
+    "name:und_x_variant":[
+        "Ban Pha Yai",
+        "Ban Phayap"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678611,
+        1108731183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1941353
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"75f17198b601457a6fa82b6ddc9222b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731183,
+            "locality_id":1293512821,
+            "region_id":85678611
+        }
+    ],
+    "wof:id":1293512821,
+    "wof:lastmodified":1537704296,
+    "wof:name":"Ban Phayap",
+    "wof:parent_id":1108731183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.17794,
+    6.19903,
+    101.17794,
+    6.19903
+],
+  "geometry": {"coordinates":[101.17794000000001,6.19903],"type":"Point"}
+}

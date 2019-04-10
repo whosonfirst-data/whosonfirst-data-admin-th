@@ -1,0 +1,68 @@
+{
+  "id": 1310229905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.00434,9.42324,100.00434,9.42324",
+    "geom:latitude":9.42324,
+    "geom:longitude":100.00434,
+    "gn:admin1_code":"64",
+    "gn:asciiname":"Laem Set",
+    "gn:country_code":"TH",
+    "gn:dem":23,
+    "gn:elevation":"0.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11071487,
+    "gn:latitude":9.42324,
+    "gn:longitude":100.00434,
+    "gn:modification_date":"2016-02-11",
+    "gn:name":"Laem Set",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678581,
+        890466647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11071487
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"413a5e07424a40db910a94d26d9e8c1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466647,
+            "locality_id":1310229905,
+            "region_id":85678581
+        }
+    ],
+    "wof:id":1310229905,
+    "wof:lastmodified":1536816313,
+    "wof:name":"Laem Set",
+    "wof:parent_id":890466647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.00434,
+    9.42324,
+    100.00434,
+    9.42324
+],
+  "geometry": {"coordinates":[100.00434,9.42324],"type":"Point"}
+}

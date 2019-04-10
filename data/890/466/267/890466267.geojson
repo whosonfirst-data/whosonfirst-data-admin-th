@@ -1,0 +1,76 @@
+{
+  "id": 890466267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-11-10",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.37183,7.85609,98.37183,7.85609",
+    "geom:latitude":7.85609,
+    "geom:longitude":98.37183,
+    "gn:country":"TH",
+    "gn:fcode":"ADM2",
+    "gn:pop":0,
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e20\u0e39\u0e40\u0e01\u0e47\u0e15"
+    ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e20\u0e39\u0e40\u0e01\u0e47\u0e15"
+    ],
+    "name:unk_x_variant":[
+        "Amphoe Muang Phuket"
+    ],
+    "qs:name":"Amphoe Mueang Phuket",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":242,
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1151984,
+        "gp:id":28341618,
+        "qs:id":1026839,
+        "wd:id":"Q476065",
+        "wk:page":"Mueang Phuket District"
+    },
+    "wof:country":"TH",
+    "wof:created":1469053571,
+    "wof:geomhash":"4fd1678f11268a70cb87699f8c995e4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466267,
+            "region_id":85678567
+        }
+    ],
+    "wof:id":890466267,
+    "wof:lastmodified":1527793010,
+    "wof:name":"Amphoe Mueang Phuket",
+    "wof:parent_id":85678567,
+    "wof:placetype":"county",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.37183,
+    7.85609,
+    98.37183,
+    7.85609
+],
+  "geometry": {"coordinates":[98.37183,7.85609],"type":"Point"}
+}

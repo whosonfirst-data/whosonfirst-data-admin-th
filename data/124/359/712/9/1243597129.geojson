@@ -1,0 +1,74 @@
+{
+  "id": 1243597129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.75272,14.30706,100.75272,14.30706",
+    "geom:latitude":14.30706,
+    "geom:longitude":100.75272,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Ban Lam Daeng",
+    "gn:country_code":"TH",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1617117,
+    "gn:latitude":14.30706,
+    "gn:longitude":100.75272,
+    "gn:modification_date":"2014-02-06",
+    "gn:name":"Ban Lam Daeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e25\u0e33\u0e41\u0e14\u0e07"
+    ],
+    "name:und_x_variant":[
+        "Ban Lamdeng",
+        "Ban Lam Daeng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678689,
+        890466353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1617117
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"db2698765f2b3e1964bb52b4231eb028",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466353,
+            "locality_id":1243597129,
+            "region_id":85678689
+        }
+    ],
+    "wof:id":1243597129,
+    "wof:lastmodified":1537704028,
+    "wof:name":"Ban Lam Daeng",
+    "wof:parent_id":890466353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.75272,
+    14.30706,
+    100.75272,
+    14.30706
+],
+  "geometry": {"coordinates":[100.75272,14.30706],"type":"Point"}
+}

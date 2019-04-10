@@ -1,0 +1,73 @@
+{
+  "id": 1343974843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.08333,12.75,102.08333,12.75",
+    "geom:latitude":12.75,
+    "geom:longitude":102.08333,
+    "gn:admin1_code":"48.0",
+    "gn:asciiname":"Ban Thung Ta Moek",
+    "gn:cc2":"TH",
+    "gn:country_code":"TH",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1612173,
+    "gn:latitude":12.75,
+    "gn:longitude":102.08333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Thung Ta Moek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Tamek",
+        "Tung Tamoek",
+        "Ban Thung Ta Moek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678799,
+        890466889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1612173
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"5d0e1b3d0b58bfd6041ed4b84ac85ebf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466889,
+            "locality_id":1343974843,
+            "region_id":85678799
+        }
+    ],
+    "wof:id":1343974843,
+    "wof:lastmodified":1537703684,
+    "wof:name":"Ban Thung Ta Moek",
+    "wof:parent_id":890466889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.08333,
+    12.75,
+    102.08333,
+    12.75
+],
+  "geometry": {"coordinates":[102.08333,12.75],"type":"Point"}
+}

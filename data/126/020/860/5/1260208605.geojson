@@ -1,0 +1,73 @@
+{
+  "id": 1260208605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.07733,14.09681,100.07733,14.09681",
+    "geom:latitude":14.09681,
+    "geom:longitude":100.07733,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Ban Lat Luang",
+    "gn:country_code":"TH",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1617003,
+    "gn:latitude":14.09681,
+    "gn:longitude":100.07733,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Lat Luang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "Ban Lat Luang"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e25\u0e32\u0e14\u0e2b\u0e25\u0e27\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678747,
+        1108802581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1617003
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"74d0b3723ae7ba26be0b2f86592b7764",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802581,
+            "locality_id":1260208605,
+            "region_id":85678747
+        }
+    ],
+    "wof:id":1260208605,
+    "wof:lastmodified":1537704020,
+    "wof:name":"Ban Lat Luang",
+    "wof:parent_id":1108802581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.07733,
+    14.09681,
+    100.07733,
+    14.09681
+],
+  "geometry": {"coordinates":[100.07733,14.09681],"type":"Point"}
+}

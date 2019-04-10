@@ -1,0 +1,73 @@
+{
+  "id": 1327251505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.16631,17.674,100.16631,17.674",
+    "geom:latitude":17.674,
+    "geom:longitude":100.16631,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Ban Rai Kluai",
+    "gn:country_code":"TH",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8136688,
+    "gn:latitude":17.674,
+    "gn:longitude":100.16631,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Ban Rai Kluai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "Ban Rai Kluai"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e44\u0e23\u0e48\u0e01\u0e25\u0e49\u0e27\u0e22"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678657,
+        890466775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8136688
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"4d0a5692945f98e1483a20d50c1ad3a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466775,
+            "locality_id":1327251505,
+            "region_id":85678657
+        }
+    ],
+    "wof:id":1327251505,
+    "wof:lastmodified":1537704996,
+    "wof:name":"Ban Rai Kluai",
+    "wof:parent_id":890466775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.16631,
+    17.674,
+    100.16631,
+    17.674
+],
+  "geometry": {"coordinates":[100.16631,17.674],"type":"Point"}
+}

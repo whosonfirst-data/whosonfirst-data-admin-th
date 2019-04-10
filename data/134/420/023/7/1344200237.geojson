@@ -1,0 +1,70 @@
+{
+  "id": 1344200237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.93969,14.33272,100.93969,14.33272",
+    "geom:latitude":14.33272,
+    "geom:longitude":100.93969,
+    "gn:admin1_code":"37",
+    "gn:asciiname":"Ban Khlong Mai",
+    "gn:country_code":"TH",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9028955,
+    "gn:latitude":14.33272,
+    "gn:longitude":100.93969,
+    "gn:modification_date":"2014-05-02",
+    "gn:name":"Ban Khlong Mai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e04\u0e25\u0e2d\u0e07\u0e43\u0e2b\u0e21\u0e48"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678735,
+        1108802775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9028955
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"83d941d08d56806944f27d3fa0741e54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802775,
+            "locality_id":1344200237,
+            "region_id":85678735
+        }
+    ],
+    "wof:id":1344200237,
+    "wof:lastmodified":1537706113,
+    "wof:name":"Ban Khlong Mai",
+    "wof:parent_id":1108802775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.93969,
+    14.33272,
+    100.93969,
+    14.33272
+],
+  "geometry": {"coordinates":[100.93969,14.33272],"type":"Point"}
+}

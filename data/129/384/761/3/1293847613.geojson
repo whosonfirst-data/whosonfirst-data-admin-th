@@ -1,0 +1,70 @@
+{
+  "id": 1293847613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.57386,15.27542,100.57386,15.27542",
+    "geom:latitude":15.27542,
+    "geom:longitude":100.57386,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ban Sap Phrai Ngoen",
+    "gn:country_code":"TH",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8344950,
+    "gn:latitude":15.27542,
+    "gn:longitude":100.57386,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Ban Sap Phrai Ngoen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e0b\u0e31\u0e1a\u0e44\u0e1e\u0e23\u0e40\u0e07\u0e34\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678715,
+        890465881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8344950
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"f1336345886ff2d44bda78e537d2071f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465881,
+            "locality_id":1293847613,
+            "region_id":85678715
+        }
+    ],
+    "wof:id":1293847613,
+    "wof:lastmodified":1537705473,
+    "wof:name":"Ban Sap Phrai Ngoen",
+    "wof:parent_id":890465881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.57386,
+    15.27542,
+    100.57386,
+    15.27542
+],
+  "geometry": {"coordinates":[100.57386,15.27542],"type":"Point"}
+}

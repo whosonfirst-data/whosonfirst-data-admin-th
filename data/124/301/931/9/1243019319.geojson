@@ -1,0 +1,70 @@
+{
+  "id": 1243019319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.41875,14.64372,102.41875,14.64372",
+    "geom:latitude":14.64372,
+    "geom:longitude":102.41875,
+    "gn:admin1_code":"27",
+    "gn:asciiname":"Ban Phun Sap",
+    "gn:country_code":"TH",
+    "gn:dem":238,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9104717,
+    "gn:latitude":14.64372,
+    "gn:longitude":102.41875,
+    "gn:modification_date":"2014-06-07",
+    "gn:name":"Ban Phun Sap",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1e\u0e39\u0e19\u0e17\u0e23\u0e31\u0e1e\u0e22\u0e4c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678841,
+        890467127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9104717
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"a7b76390aa60cfc7ceb8e53358612d3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890467127,
+            "locality_id":1243019319,
+            "region_id":85678841
+        }
+    ],
+    "wof:id":1243019319,
+    "wof:lastmodified":1537706138,
+    "wof:name":"Ban Phun Sap",
+    "wof:parent_id":890467127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.41875,
+    14.64372,
+    102.41875,
+    14.64372
+],
+  "geometry": {"coordinates":[102.41875,14.64372],"type":"Point"}
+}

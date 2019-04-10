@@ -1,0 +1,67 @@
+{
+  "id": 1260054355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.0,17.7,104.0,17.7",
+    "geom:latitude":17.7,
+    "geom:longitude":104.0,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Na Som",
+    "gn:country_code":"TH",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1600830,
+    "gn:latitude":17.7,
+    "gn:longitude":104.0,
+    "gn:modification_date":"1994-04-10",
+    "gn:name":"Ban Na Som",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678863,
+        1108731099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1600830
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"aca2b9188f8ee1ec8bc4f3d967c8754a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731099,
+            "locality_id":1260054355,
+            "region_id":85678863
+        }
+    ],
+    "wof:id":1260054355,
+    "wof:lastmodified":1537028838,
+    "wof:name":"Ban Na Som",
+    "wof:parent_id":1108731099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.0,
+    17.7,
+    104.0,
+    17.7
+],
+  "geometry": {"coordinates":[104.0,17.7],"type":"Point"}
+}

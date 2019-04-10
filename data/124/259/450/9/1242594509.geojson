@@ -1,0 +1,74 @@
+{
+  "id": 1242594509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.28428,7.86825,98.28428,7.86825",
+    "geom:latitude":7.86825,
+    "geom:longitude":98.28428,
+    "gn:admin1_code":"62.0",
+    "gn:asciiname":"Ban Karon",
+    "gn:country_code":"TH",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1157248,
+    "gn:latitude":7.86825,
+    "gn:longitude":98.28428,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Karon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e01\u0e30\u0e23\u0e19"
+    ],
+    "name:und_x_variant":[
+        "Ban Karon Noi",
+        "Ban Karon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678567,
+        890466909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1157248
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"96fb21dfc514ea5fa21568a6c3c39e2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466909,
+            "locality_id":1242594509,
+            "region_id":85678567
+        }
+    ],
+    "wof:id":1242594509,
+    "wof:lastmodified":1537703248,
+    "wof:name":"Ban Karon",
+    "wof:parent_id":890466909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.28428,
+    7.86825,
+    98.28428,
+    7.86825
+],
+  "geometry": {"coordinates":[98.28428,7.86825],"type":"Point"}
+}

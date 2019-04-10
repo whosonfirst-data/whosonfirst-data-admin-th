@@ -1,0 +1,70 @@
+{
+  "id": 1276203493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.42847,16.18547,99.42847,16.18547",
+    "geom:latitude":16.18547,
+    "geom:longitude":99.42847,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Ban Dat Thong Charoen",
+    "gn:country_code":"TH",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8386111,
+    "gn:latitude":16.18547,
+    "gn:longitude":99.42847,
+    "gn:modification_date":"2012-09-08",
+    "gn:name":"Ban Dat Thong Charoen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e14\u0e32\u0e14\u0e17\u0e2d\u0e07\u0e40\u0e08\u0e23\u0e34\u0e0d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678665,
+        1108731381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8386111
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"24ff95e302e89c5398eead9fafef1e04",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731381,
+            "locality_id":1276203493,
+            "region_id":85678665
+        }
+    ],
+    "wof:id":1276203493,
+    "wof:lastmodified":1537705540,
+    "wof:name":"Ban Dat Thong Charoen",
+    "wof:parent_id":1108731381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.42847,
+    16.18547,
+    99.42847,
+    16.18547
+],
+  "geometry": {"coordinates":[99.42847,16.18547],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1259879089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.8,18.8,100.8,18.8",
+    "geom:latitude":18.8,
+    "geom:longitude":100.8,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Ban Nam Lom",
+    "gn:cc2":"TH",
+    "gn:country_code":"TH",
+    "gn:dem":218,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1616288,
+    "gn:latitude":18.8,
+    "gn:longitude":100.8,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Nam Lom",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Nam Rin",
+        "Ban Nam Saum",
+        "Ban Nam Lom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678633,
+        890466613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1616288
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"c84573f5271ec307cf21be72b4a29e7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466613,
+            "locality_id":1259879089,
+            "region_id":85678633
+        }
+    ],
+    "wof:id":1259879089,
+    "wof:lastmodified":1537703968,
+    "wof:name":"Ban Nam Lom",
+    "wof:parent_id":890466613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.8,
+    18.8,
+    100.8,
+    18.8
+],
+  "geometry": {"coordinates":[100.8,18.8],"type":"Point"}
+}

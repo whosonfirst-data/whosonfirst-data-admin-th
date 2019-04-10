@@ -1,0 +1,70 @@
+{
+  "id": 1259500307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.57342,9.15103,99.57342,9.15103",
+    "geom:latitude":9.15103,
+    "geom:longitude":99.57342,
+    "gn:admin1_code":"60.0",
+    "gn:asciiname":"Ban Khao Mon",
+    "gn:country_code":"TH",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8326299,
+    "gn:latitude":9.15103,
+    "gn:longitude":99.57342,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Ban Khao Mon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e02\u0e32\u0e2b\u0e21\u0e2d\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678581,
+        1108731325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8326299
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"adcbb8928783bd36071b36f37d7480aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731325,
+            "locality_id":1259500307,
+            "region_id":85678581
+        }
+    ],
+    "wof:id":1259500307,
+    "wof:lastmodified":1537705396,
+    "wof:name":"Ban Khao Mon",
+    "wof:parent_id":1108731325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.57342,
+    9.15103,
+    99.57342,
+    9.15103
+],
+  "geometry": {"coordinates":[99.57342,9.15103],"type":"Point"}
+}

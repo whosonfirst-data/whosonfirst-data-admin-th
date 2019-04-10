@@ -1,0 +1,70 @@
+{
+  "id": 1260109641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.02797,15.53861,105.02797,15.53861",
+    "geom:latitude":15.53861,
+    "geom:longitude":105.02797,
+    "gn:admin1_code":"75.0",
+    "gn:asciiname":"Ban Sao Thong Noi",
+    "gn:country_code":"TH",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8318841,
+    "gn:latitude":15.53861,
+    "gn:longitude":105.02797,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Ban Sao Thong Noi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e2a\u0e32\u0e18\u0e07\u0e19\u0e49\u0e2d\u0e22"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678783,
+        890466223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8318841
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"7be9de709b359f49d0a3abf2db45885e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466223,
+            "locality_id":1260109641,
+            "region_id":85678783
+        }
+    ],
+    "wof:id":1260109641,
+    "wof:lastmodified":1537705342,
+    "wof:name":"Ban Sao Thong Noi",
+    "wof:parent_id":890466223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.02797,
+    15.53861,
+    105.02797,
+    15.53861
+],
+  "geometry": {"coordinates":[105.02797,15.53861],"type":"Point"}
+}

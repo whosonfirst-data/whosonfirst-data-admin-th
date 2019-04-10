@@ -1,0 +1,70 @@
+{
+  "id": 1343875321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.57719,14.84081,99.57719,14.84081",
+    "geom:latitude":14.84081,
+    "geom:longitude":99.57719,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Ban Rai Klai Thong",
+    "gn:country_code":"TH",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8665914,
+    "gn:latitude":14.84081,
+    "gn:longitude":99.57719,
+    "gn:modification_date":"2014-01-18",
+    "gn:name":"Ban Rai Klai Thong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e44\u0e23\u0e48\u0e44\u0e01\u0e25\u0e17\u0e32\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678679,
+        1108731265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8665914
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"215de8cd106ffbb428ad687797f462aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731265,
+            "locality_id":1343875321,
+            "region_id":85678679
+        }
+    ],
+    "wof:id":1343875321,
+    "wof:lastmodified":1537705788,
+    "wof:name":"Ban Rai Klai Thong",
+    "wof:parent_id":1108731265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.57719,
+    14.84081,
+    99.57719,
+    14.84081
+],
+  "geometry": {"coordinates":[99.57719,14.84081],"type":"Point"}
+}

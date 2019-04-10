@@ -1,0 +1,85 @@
+{
+  "id": 102025787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000336,
+    "geom:area_square_m":4123437.387808,
+    "geom:bbox":"99.0252685547,7.62388685312,99.0417480469,7.65110901759",
+    "geom:latitude":7.637226,
+    "geom:longitude":99.034576,
+    "gn:latitude":7.61342,
+    "gn:longitude":99.03651,
+    "gn:population":7946,
+    "iso:country":"TH",
+    "lbl:latitude":7.639381,
+    "lbl:longitude":99.035244,
+    "mps:latitude":7.639381,
+    "mps:longitude":99.035244,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ban Saladan"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043b\u0430\u0434\u0430\u043d"
+    ],
+    "qs:a0":"Thailand",
+    "qs:a1":"*Krabi",
+    "qs:a1r":"*",
+    "qs:a2":"Ko Lanta",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Saladan",
+    "qs:loc_alt":"Sala Dan",
+    "qs:loc_lc":"6691842",
+    "qs:pop":0,
+    "qs:source":"Aquattroshapes",
+    "qs:type":"Town",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632293,
+        890465695
+    ],
+    "wof:breaches":[
+        102024301
+    ],
+    "wof:concordances":{
+        "gn:id":6691842,
+        "gp:id":55946391,
+        "qs:id":1199727
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"5e31b6082a65f68c639085c84fefbb77",
+    "wof:hierarchy":[
+        {
+            "country_id":85632293,
+            "county_id":890465695,
+            "locality_id":102025787
+        }
+    ],
+    "wof:id":102025787,
+    "wof:lastmodified":1505338989,
+    "wof:name":"Saladan",
+    "wof:parent_id":890465695,
+    "wof:placetype":"locality",
+    "wof:population":7946,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.02526855469999,
+    7.62388685312,
+    99.0417480469,
+    7.65110901759
+],
+  "geometry": {"coordinates":[[[99.03076171879999,7.62388685312],[99.03076171879999,7.634775927],[99.02526855469999,7.634775927],[99.02526855469999,7.64022035995],[99.02526855469999,7.64566472349],[99.03076171879999,7.64566472349],[99.03076171879999,7.65110901759],[99.03625488279999,7.65110901759],[99.03625488279999,7.64838687922],[99.03900146479999,7.64838687922],[99.03900146479999,7.64566472349],[99.0417480469,7.64566472349],[99.0417480469,7.634775927],[99.0417480469,7.62388685312],[99.03076171879999,7.62388685312]]],"type":"Polygon"}
+}

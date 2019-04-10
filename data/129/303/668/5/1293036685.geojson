@@ -1,0 +1,73 @@
+{
+  "id": 1293036685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.39465,17.04784,104.39465,17.04784",
+    "geom:latitude":17.04784,
+    "geom:longitude":104.39465,
+    "gn:admin1_code":"73.0",
+    "gn:asciiname":"Ban Phak Khaya",
+    "gn:country_code":"TH",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1599106,
+    "gn:latitude":17.04784,
+    "gn:longitude":104.39465,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Phak Khaya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "Ban Phak Khaya"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1c\u0e31\u0e01\u0e02\u0e30\u0e22\u0e48\u0e32"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678879,
+        1108731549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1599106
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"60ec7b9bd16672996eef4bd9746b530d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731549,
+            "locality_id":1293036685,
+            "region_id":85678879
+        }
+    ],
+    "wof:id":1293036685,
+    "wof:lastmodified":1537703425,
+    "wof:name":"Ban Phak Khaya",
+    "wof:parent_id":1108731549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.39465,
+    17.04784,
+    104.39465,
+    17.04784
+],
+  "geometry": {"coordinates":[104.39465,17.04784],"type":"Point"}
+}

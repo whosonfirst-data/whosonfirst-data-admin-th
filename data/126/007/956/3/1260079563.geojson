@@ -1,0 +1,74 @@
+{
+  "id": 1260079563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.77393,18.71328,100.77393,18.71328",
+    "geom:latitude":18.71328,
+    "geom:longitude":100.77393,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Ban Na Pang",
+    "gn:country_code":"TH",
+    "gn:dem":206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1616177,
+    "gn:latitude":18.71328,
+    "gn:longitude":100.77393,
+    "gn:modification_date":"2016-10-24",
+    "gn:name":"Ban Na Pang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e19\u0e32\u0e1b\u0e31\u0e07"
+    ],
+    "name:und_x_variant":[
+        "Ban Pong",
+        "Ban Na Pang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678633,
+        890466613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1616177
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"48275faa60aa690a6ac52c6c6490230b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466613,
+            "locality_id":1260079563,
+            "region_id":85678633
+        }
+    ],
+    "wof:id":1260079563,
+    "wof:lastmodified":1537703959,
+    "wof:name":"Ban Na Pang",
+    "wof:parent_id":890466613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.77393,
+    18.71328,
+    100.77393,
+    18.71328
+],
+  "geometry": {"coordinates":[100.77392999999999,18.71328],"type":"Point"}
+}

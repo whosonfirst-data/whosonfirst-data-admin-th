@@ -1,0 +1,73 @@
+{
+  "id": 1260004607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.72886,6.8615,99.72886,6.8615",
+    "geom:latitude":6.8615,
+    "geom:longitude":99.72886,
+    "gn:admin1_code":"67.0",
+    "gn:asciiname":"Ban Pao Dang",
+    "gn:country_code":"TH",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8065501,
+    "gn:latitude":6.8615,
+    "gn:longitude":99.72886,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Ban Pao Dang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "Ban Pao Dang"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e1b\u0e32\u0e14\u0e31\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678595,
+        1108731471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8065501
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"cc063a0c518cb33c62bb90f2004d9715",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731471,
+            "locality_id":1260004607,
+            "region_id":85678595
+        }
+    ],
+    "wof:id":1260004607,
+    "wof:lastmodified":1537704976,
+    "wof:name":"Ban Pao Dang",
+    "wof:parent_id":1108731471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.72886,
+    6.8615,
+    99.72886,
+    6.8615
+],
+  "geometry": {"coordinates":[99.72886,6.8615],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1326766201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.58167,6.3852,101.58167,6.3852",
+    "geom:latitude":6.3852,
+    "geom:longitude":101.58167,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Ban To A Lem",
+    "gn:country_code":"TH",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7463169,
+    "gn:latitude":6.3852,
+    "gn:longitude":101.58167,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban To A Lem",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e42\u0e15\u0e4a\u0e30\u0e2d\u0e32\u0e40\u0e25\u0e47\u0e21"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678885,
+        890465725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7463169
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"945f4693fbafc8a1ef82ca63e32ac1e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465725,
+            "locality_id":1326766201,
+            "region_id":85678885
+        }
+    ],
+    "wof:id":1326766201,
+    "wof:lastmodified":1537704502,
+    "wof:name":"Ban To A Lem",
+    "wof:parent_id":890465725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.58167,
+    6.3852,
+    101.58167,
+    6.3852
+],
+  "geometry": {"coordinates":[101.58167,6.3852],"type":"Point"}
+}

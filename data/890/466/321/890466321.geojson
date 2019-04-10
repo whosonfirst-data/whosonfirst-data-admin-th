@@ -1,0 +1,76 @@
+{
+  "id": 890466321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-11-10",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.86662,8.15947,98.86662,8.15947",
+    "geom:latitude":8.15947,
+    "geom:longitude":98.86662,
+    "gn:country":"TH",
+    "gn:fcode":"ADM2",
+    "gn:pop":0,
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e01\u0e23\u0e30\u0e1a\u0e35\u0e48"
+    ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e01\u0e23\u0e30\u0e1a\u0e35\u0e48"
+    ],
+    "name:unk_x_variant":[
+        "Amphoe Muang Krabi"
+    ],
+    "qs:name":"Amphoe Mueang Krabi",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":188,
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1151992,
+        "gp:id":28341643,
+        "qs:id":1030319,
+        "wd:id":"Q2248586",
+        "wk:page":"Mueang Krabi District"
+    },
+    "wof:country":"TH",
+    "wof:created":1469053574,
+    "wof:geomhash":"c6c98d8a377265295ae7a12ac46677c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466321,
+            "region_id":85678585
+        }
+    ],
+    "wof:id":890466321,
+    "wof:lastmodified":1527793020,
+    "wof:name":"Amphoe Mueang Krabi",
+    "wof:parent_id":85678585,
+    "wof:placetype":"county",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.86662,
+    8.15947,
+    98.86662,
+    8.15947
+],
+  "geometry": {"coordinates":[98.86662,8.15947],"type":"Point"}
+}

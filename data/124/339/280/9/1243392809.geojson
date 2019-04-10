@@ -1,0 +1,70 @@
+{
+  "id": 1243392809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.21817,5.97914,101.21817,5.97914",
+    "geom:latitude":5.97914,
+    "geom:longitude":101.21817,
+    "gn:admin1_code":"70.0",
+    "gn:asciiname":"Ban Kho Ro Kri Yae",
+    "gn:country_code":"TH",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6975609,
+    "gn:latitude":5.97914,
+    "gn:longitude":101.21817,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ban Kho Ro Kri Yae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e04\u0e2d\u0e23\u0e2d\u0e01\u0e23\u0e35\u0e41\u0e22"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678611,
+        1108731185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6975609
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"df1c1dcae27b008c6dc86c99602f3297",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731185,
+            "locality_id":1243392809,
+            "region_id":85678611
+        }
+    ],
+    "wof:id":1243392809,
+    "wof:lastmodified":1537704356,
+    "wof:name":"Ban Kho Ro Kri Yae",
+    "wof:parent_id":1108731185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.21817,
+    5.97914,
+    101.21817,
+    5.97914
+],
+  "geometry": {"coordinates":[101.21817,5.97914],"type":"Point"}
+}

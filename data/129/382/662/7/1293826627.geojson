@@ -1,0 +1,70 @@
+{
+  "id": 1293826627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.44278,13.80656,100.44278,13.80656",
+    "geom:latitude":13.80656,
+    "geom:longitude":100.44278,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Ban Saphan Phak",
+    "gn:country_code":"TH",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6865809,
+    "gn:latitude":13.80656,
+    "gn:longitude":100.44278,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ban Saphan Phak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2a\u0e30\u0e1e\u0e32\u0e19\u0e1c\u0e31\u0e01"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678743,
+        1108802579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6865809
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"7b4c18bbcc00316a406f28078dbbe3b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802579,
+            "locality_id":1293826627,
+            "region_id":85678743
+        }
+    ],
+    "wof:id":1293826627,
+    "wof:lastmodified":1537704323,
+    "wof:name":"Ban Saphan Phak",
+    "wof:parent_id":1108802579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.44278,
+    13.80656,
+    100.44278,
+    13.80656
+],
+  "geometry": {"coordinates":[100.44278,13.80656],"type":"Point"}
+}

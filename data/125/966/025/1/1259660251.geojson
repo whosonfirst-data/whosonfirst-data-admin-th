@@ -1,0 +1,70 @@
+{
+  "id": 1259660251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.80889,17.06828,100.80889,17.06828",
+    "geom:latitude":17.06828,
+    "geom:longitude":100.80889,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Ban Pho Sadet",
+    "gn:country_code":"TH",
+    "gn:dem":201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8206335,
+    "gn:latitude":17.06828,
+    "gn:longitude":100.80889,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Ban Pho Sadet",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e42\u0e1e\u0e18\u0e34\u0e4c\u0e40\u0e2a\u0e14\u0e47\u0e08"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678647,
+        1108731579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8206335
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"254042d88b27c7290d74e917a3b48b11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731579,
+            "locality_id":1259660251,
+            "region_id":85678647
+        }
+    ],
+    "wof:id":1259660251,
+    "wof:lastmodified":1537705112,
+    "wof:name":"Ban Pho Sadet",
+    "wof:parent_id":1108731579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.80889,
+    17.06828,
+    100.80889,
+    17.06828
+],
+  "geometry": {"coordinates":[100.80889000000001,17.06828],"type":"Point"}
+}

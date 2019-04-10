@@ -1,0 +1,74 @@
+{
+  "id": 1259881963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.40239,18.556,98.40239,18.556",
+    "geom:latitude":18.556,
+    "geom:longitude":98.40239,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Mae Ming",
+    "gn:country_code":"TH",
+    "gn:dem":614,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1462912,
+    "gn:latitude":18.556,
+    "gn:longitude":98.40239,
+    "gn:modification_date":"2013-07-07",
+    "gn:name":"Ban Mae Ming",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e41\u0e21\u0e48\u0e21\u0e34\u0e07\u0e04\u0e4c"
+    ],
+    "name:und_x_variant":[
+        "Ban Yang Mae Ming",
+        "Ban Mae Ming"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678619,
+        890466281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1462912
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"7245d43924f8f3c6d6f384e12b2a7e4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466281,
+            "locality_id":1259881963,
+            "region_id":85678619
+        }
+    ],
+    "wof:id":1259881963,
+    "wof:lastmodified":1537703332,
+    "wof:name":"Ban Mae Ming",
+    "wof:parent_id":890466281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.40239,
+    18.556,
+    98.40239,
+    18.556
+],
+  "geometry": {"coordinates":[98.40239,18.556],"type":"Point"}
+}

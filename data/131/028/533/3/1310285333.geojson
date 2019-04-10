@@ -1,0 +1,70 @@
+{
+  "id": 1310285333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.72803,15.98217,99.72803,15.98217",
+    "geom:latitude":15.98217,
+    "geom:longitude":99.72803,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Ban Saep I Li",
+    "gn:country_code":"TH",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8387075,
+    "gn:latitude":15.98217,
+    "gn:longitude":99.72803,
+    "gn:modification_date":"2012-09-08",
+    "gn:name":"Ban Saep I Li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e41\u0e0b\u0e1a\u0e2d\u0e35\u0e2b\u0e25\u0e35"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678665,
+        1108731355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8387075
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"7bee4ff7bc848d3c4bb77e2b35ace77f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731355,
+            "locality_id":1310285333,
+            "region_id":85678665
+        }
+    ],
+    "wof:id":1310285333,
+    "wof:lastmodified":1537705554,
+    "wof:name":"Ban Saep I Li",
+    "wof:parent_id":1108731355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.72803,
+    15.98217,
+    99.72803,
+    15.98217
+],
+  "geometry": {"coordinates":[99.72803,15.98217],"type":"Point"}
+}

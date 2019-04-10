@@ -1,0 +1,67 @@
+{
+  "id": 1310106869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.04556,20.22917,100.04556,20.22917",
+    "geom:latitude":20.22917,
+    "geom:longitude":100.04556,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ban Pang",
+    "gn:country_code":"TH",
+    "gn:dem":374,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1950228,
+    "gn:latitude":20.22917,
+    "gn:longitude":100.04556,
+    "gn:modification_date":"2002-08-21",
+    "gn:name":"Ban Pang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678617,
+        890465683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1950228
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"1ffd1752176fd526d02d2dde39c3a154",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465683,
+            "locality_id":1310106869,
+            "region_id":85678617
+        }
+    ],
+    "wof:id":1310106869,
+    "wof:lastmodified":1536993673,
+    "wof:name":"Ban Pang",
+    "wof:parent_id":890465683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.04556,
+    20.22917,
+    100.04556,
+    20.22917
+],
+  "geometry": {"coordinates":[100.04555999999999,20.22917],"type":"Point"}
+}

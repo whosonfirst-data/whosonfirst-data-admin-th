@@ -1,0 +1,74 @@
+{
+  "id": 1193122951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.12628,18.05469,100.12628,18.05469",
+    "geom:latitude":18.05469,
+    "geom:longitude":100.12628,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ban Pha Khao",
+    "gn:country_code":"TH",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1614363,
+    "gn:latitude":18.05469,
+    "gn:longitude":100.12628,
+    "gn:modification_date":"2012-09-05",
+    "gn:name":"Ban Pha Khao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1c\u0e49\u0e32\u0e02\u0e32\u0e27"
+    ],
+    "name:und_x_variant":[
+        "Ban Tha Chang",
+        "Ban Pha Khao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678643,
+        1108731947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1614363
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"4bfcb874ed253bd3fef16df31f703cdf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731947,
+            "locality_id":1193122951,
+            "region_id":85678643
+        }
+    ],
+    "wof:id":1193122951,
+    "wof:lastmodified":1537703838,
+    "wof:name":"Ban Pha Khao",
+    "wof:parent_id":1108731947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.12628,
+    18.05469,
+    100.12628,
+    18.05469
+],
+  "geometry": {"coordinates":[100.12627999999999,18.05469],"type":"Point"}
+}

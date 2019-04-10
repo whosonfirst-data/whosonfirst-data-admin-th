@@ -1,0 +1,70 @@
+{
+  "id": 1327378287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.41628,14.679,100.41628,14.679",
+    "geom:latitude":14.679,
+    "geom:longitude":100.41628,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Ban Pho Rat",
+    "gn:country_code":"TH",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8196768,
+    "gn:latitude":14.679,
+    "gn:longitude":100.41628,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Ban Pho Rat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e42\u0e1e\u0e18\u0e34\u0e4c\u0e23\u0e32\u0e29\u0e0e\u0e23\u0e4c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678691,
+        1108802723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8196768
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"0dec5310e8eb8eb7b789790c3126aae6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802723,
+            "locality_id":1327378287,
+            "region_id":85678691
+        }
+    ],
+    "wof:id":1327378287,
+    "wof:lastmodified":1537705064,
+    "wof:name":"Ban Pho Rat",
+    "wof:parent_id":1108802723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.41628,
+    14.679,
+    100.41628,
+    14.679
+],
+  "geometry": {"coordinates":[100.41628,14.679],"type":"Point"}
+}

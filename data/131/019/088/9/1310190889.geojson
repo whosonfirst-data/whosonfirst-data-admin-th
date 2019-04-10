@@ -1,0 +1,74 @@
+{
+  "id": 1310190889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.28847,18.27147,100.28847,18.27147",
+    "geom:latitude":18.27147,
+    "geom:longitude":100.28847,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ban Nam Khong",
+    "gn:country_code":"TH",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1616305,
+    "gn:latitude":18.27147,
+    "gn:longitude":100.28847,
+    "gn:modification_date":"2012-09-05",
+    "gn:name":"Ban Nam Khong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e19\u0e49\u0e33\u0e42\u0e04\u0e49\u0e07"
+    ],
+    "name:und_x_variant":[
+        "B\u0101n Nam Kaung",
+        "Ban Nam Khong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678643,
+        1108731817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1616305
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"48fc7f862d524f6dce514e8a634c89b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731817,
+            "locality_id":1310190889,
+            "region_id":85678643
+        }
+    ],
+    "wof:id":1310190889,
+    "wof:lastmodified":1537703969,
+    "wof:name":"Ban Nam Khong",
+    "wof:parent_id":1108731817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.28847,
+    18.27147,
+    100.28847,
+    18.27147
+],
+  "geometry": {"coordinates":[100.28847,18.27147],"type":"Point"}
+}

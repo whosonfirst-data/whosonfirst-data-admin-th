@@ -1,0 +1,73 @@
+{
+  "id": 1259406041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.00644,9.72436,100.00644,9.72436",
+    "geom:latitude":9.72436,
+    "geom:longitude":100.00644,
+    "gn:admin1_code":"60.0",
+    "gn:asciiname":"Ban Nai Suan",
+    "gn:country_code":"TH",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1598077,
+    "gn:latitude":9.72436,
+    "gn:longitude":100.00644,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Ban Nai Suan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e43\u0e19\u0e2a\u0e27\u0e19"
+    ],
+    "name:und_x_variant":[
+        "Ban Suan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678581,
+        1108731421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1598077
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"f1e9ab323ea604a87444879d8e78c688",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731421,
+            "locality_id":1259406041,
+            "region_id":85678581
+        }
+    ],
+    "wof:id":1259406041,
+    "wof:lastmodified":1537703389,
+    "wof:name":"Ban Nai Suan",
+    "wof:parent_id":1108731421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.00644,
+    9.72436,
+    100.00644,
+    9.72436
+],
+  "geometry": {"coordinates":[100.00644,9.72436],"type":"Point"}
+}

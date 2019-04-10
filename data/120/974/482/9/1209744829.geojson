@@ -1,0 +1,74 @@
+{
+  "id": 1209744829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.05444,14.50639,99.05444,14.50639",
+    "geom:latitude":14.50639,
+    "geom:longitude":99.05444,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Ban Buk Yai",
+    "gn:cc2":"TH",
+    "gn:country_code":"TH",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1158104,
+    "gn:latitude":14.50639,
+    "gn:longitude":99.05444,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Buk Yai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Ko Buk",
+        "Ban Buk Noi",
+        "Ban Ko Buk Noi",
+        "Ban Buk Yai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678663,
+        890466317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1158104
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"c7952d344fb44b8a3dd0591ba652000d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466317,
+            "locality_id":1209744829,
+            "region_id":85678663
+        }
+    ],
+    "wof:id":1209744829,
+    "wof:lastmodified":1537703297,
+    "wof:name":"Ban Buk Yai",
+    "wof:parent_id":890466317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.05444,
+    14.50639,
+    99.05444,
+    14.50639
+],
+  "geometry": {"coordinates":[99.05444,14.50639],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1243197193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.30947,13.70422,100.30947,13.70422",
+    "geom:latitude":13.70422,
+    "geom:longitude":100.30947,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Ban Om Noi",
+    "gn:country_code":"TH",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1618211,
+    "gn:latitude":13.70422,
+    "gn:longitude":100.30947,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Om Noi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2d\u0e49\u0e2d\u0e21\u0e19\u0e49\u0e2d\u0e22"
+    ],
+    "name:und_x_variant":[
+        "Ban Khlong Om Noi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678771,
+        890466983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1618211
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"9e9ac64e891f1604717b63bd8bf14dad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466983,
+            "locality_id":1243197193,
+            "region_id":85678771
+        }
+    ],
+    "wof:id":1243197193,
+    "wof:lastmodified":1537704106,
+    "wof:name":"Ban Om Noi",
+    "wof:parent_id":890466983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.30947,
+    13.70422,
+    100.30947,
+    13.70422
+],
+  "geometry": {"coordinates":[100.30947,13.70422],"type":"Point"}
+}

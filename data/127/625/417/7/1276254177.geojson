@@ -1,0 +1,77 @@
+{
+  "id": 1276254177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.27267,7.25467,100.27267,7.25467",
+    "geom:latitude":7.25467,
+    "geom:longitude":100.27267,
+    "gn:admin1_code":"66.0",
+    "gn:asciiname":"Ban Khuan Din",
+    "gn:country_code":"TH",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8203474,
+    "gn:latitude":7.25467,
+    "gn:longitude":100.27267,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Ban Khuan Din",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e04\u0e27\u0e19\u0e14\u0e34\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        1108802715,
+        1108731675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8203474
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"8e4293d04d87450f542c4605d90d0828",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802715,
+            "locality_id":1276254177,
+            "region_id":-1
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731675,
+            "locality_id":1276254177,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276254177,
+    "wof:lastmodified":1537705072,
+    "wof:name":"Ban Khuan Din",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.27267,
+    7.25467,
+    100.27267,
+    7.25467
+],
+  "geometry": {"coordinates":[100.27267000000001,7.25467],"type":"Point"}
+}

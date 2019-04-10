@@ -1,0 +1,70 @@
+{
+  "id": 1343975027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.58061,12.84983,99.58061,12.84983",
+    "geom:latitude":12.84983,
+    "geom:longitude":99.58061,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"Ban Phu Pladuk",
+    "gn:country_code":"TH",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8278469,
+    "gn:latitude":12.84983,
+    "gn:longitude":99.58061,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Ban Phu Pladuk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1e\u0e38\u0e1b\u0e25\u0e32\u0e14\u0e38\u0e01"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678753,
+        1108731315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8278469
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"5ba1cacf80d892a7554c091922212570",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731315,
+            "locality_id":1343975027,
+            "region_id":85678753
+        }
+    ],
+    "wof:id":1343975027,
+    "wof:lastmodified":1537705303,
+    "wof:name":"Ban Phu Pladuk",
+    "wof:parent_id":1108731315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.58061,
+    12.84983,
+    99.58061,
+    12.84983
+],
+  "geometry": {"coordinates":[99.58060999999999,12.84983],"type":"Point"}
+}

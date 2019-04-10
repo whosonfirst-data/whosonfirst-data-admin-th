@@ -1,0 +1,70 @@
+{
+  "id": 1260315867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.74461,15.44533,104.74461,15.44533",
+    "geom:latitude":15.44533,
+    "geom:longitude":104.74461,
+    "gn:admin1_code":"75.0",
+    "gn:asciiname":"Ban Fak Huai",
+    "gn:country_code":"TH",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8319824,
+    "gn:latitude":15.44533,
+    "gn:longitude":104.74461,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Ban Fak Huai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1f\u0e32\u0e01\u0e2b\u0e49\u0e27\u0e22"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678783,
+        1108731533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8319824
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"8b1f282b0609abc62b7e103ff0024774",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731533,
+            "locality_id":1260315867,
+            "region_id":85678783
+        }
+    ],
+    "wof:id":1260315867,
+    "wof:lastmodified":1537705352,
+    "wof:name":"Ban Fak Huai",
+    "wof:parent_id":1108731533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.74461,
+    15.44533,
+    104.74461,
+    15.44533
+],
+  "geometry": {"coordinates":[104.74460999999999,15.44533],"type":"Point"}
+}

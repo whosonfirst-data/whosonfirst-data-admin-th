@@ -1,0 +1,70 @@
+{
+  "id": 1276445573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.13097,18.13539,98.13097,18.13539",
+    "geom:latitude":18.13539,
+    "geom:longitude":98.13097,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ban Mae Lai Luang",
+    "gn:country_code":"TH",
+    "gn:dem":1009,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8535919,
+    "gn:latitude":18.13539,
+    "gn:longitude":98.13097,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Ban Mae Lai Luang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e41\u0e21\u0e48\u0e25\u0e32\u0e22\u0e2b\u0e25\u0e27\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678555,
+        1108731937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8535919
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"88c4eefe94d504a5ec3a9b6c50abce03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731937,
+            "locality_id":1276445573,
+            "region_id":85678555
+        }
+    ],
+    "wof:id":1276445573,
+    "wof:lastmodified":1537705660,
+    "wof:name":"Ban Mae Lai Luang",
+    "wof:parent_id":1108731937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.13097,
+    18.13539,
+    98.13097,
+    18.13539
+],
+  "geometry": {"coordinates":[98.13097,18.13539],"type":"Point"}
+}

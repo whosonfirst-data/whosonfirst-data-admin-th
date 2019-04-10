@@ -1,0 +1,70 @@
+{
+  "id": 1277029763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.13392,15.67983,103.13392,15.67983",
+    "geom:latitude":15.67983,
+    "geom:longitude":103.13392,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Ban Khok Muang",
+    "gn:country_code":"TH",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8733188,
+    "gn:latitude":15.67983,
+    "gn:longitude":103.13392,
+    "gn:modification_date":"2014-03-12",
+    "gn:name":"Ban Khok Muang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e42\u0e04\u0e01\u0e21\u0e48\u0e27\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678835,
+        1108731595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8733188
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"2c69e909813f05a443a18d1d94d81425",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731595,
+            "locality_id":1277029763,
+            "region_id":85678835
+        }
+    ],
+    "wof:id":1277029763,
+    "wof:lastmodified":1537706007,
+    "wof:name":"Ban Khok Muang",
+    "wof:parent_id":1108731595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.13392,
+    15.67983,
+    103.13392,
+    15.67983
+],
+  "geometry": {"coordinates":[103.13392,15.67983],"type":"Point"}
+}

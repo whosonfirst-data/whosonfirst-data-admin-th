@@ -1,0 +1,73 @@
+{
+  "id": 1360281229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.98945,17.57103,99.98945,17.57103",
+    "geom:latitude":17.57103,
+    "geom:longitude":99.98945,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Ban Huai Rai",
+    "gn:country_code":"TH",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8135854,
+    "gn:latitude":17.57103,
+    "gn:longitude":99.98945,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Ban Huai Rai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "Ban Huai Rai"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e49\u0e27\u0e22\u0e44\u0e23\u0e48"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678657,
+        1108731475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8135854
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"f7c228e6ac0b6b2e2a8425c9b26d7155",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731475,
+            "locality_id":1360281229,
+            "region_id":85678657
+        }
+    ],
+    "wof:id":1360281229,
+    "wof:lastmodified":1537704980,
+    "wof:name":"Ban Huai Rai",
+    "wof:parent_id":1108731475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.98945,
+    17.57103,
+    99.98945,
+    17.57103
+],
+  "geometry": {"coordinates":[99.98945000000001,17.57103],"type":"Point"}
+}

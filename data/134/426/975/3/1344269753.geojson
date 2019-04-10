@@ -1,0 +1,70 @@
+{
+  "id": 1344269753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.88222,19.33581,98.88222,19.33581",
+    "geom:latitude":19.33581,
+    "geom:longitude":98.88222,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Pang Hang",
+    "gn:country_code":"TH",
+    "gn:dem":843,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8536268,
+    "gn:latitude":19.33581,
+    "gn:longitude":98.88222,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Ban Pang Hang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1b\u0e32\u0e07\u0e2e\u0e49\u0e32\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678619,
+        1108802591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8536268
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"e145f0a02c5c458b20c741f8415e49a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802591,
+            "locality_id":1344269753,
+            "region_id":85678619
+        }
+    ],
+    "wof:id":1344269753,
+    "wof:lastmodified":1537705663,
+    "wof:name":"Ban Pang Hang",
+    "wof:parent_id":1108802591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.88222,
+    19.33581,
+    98.88222,
+    19.33581
+],
+  "geometry": {"coordinates":[98.88222,19.33581],"type":"Point"}
+}

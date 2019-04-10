@@ -1,0 +1,74 @@
+{
+  "id": 1293512719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.95,13.13333,99.95,13.13333",
+    "geom:latitude":13.13333,
+    "geom:longitude":99.95,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"Ban Khlong Krachaeng",
+    "gn:cc2":"TH",
+    "gn:country_code":"TH",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1157074,
+    "gn:latitude":13.13333,
+    "gn:longitude":99.95,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Khlong Krachaeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gl\u014dhngkrajeng",
+        "Khlong Krachaeng",
+        "Khlaung Kachaeng",
+        "Ban Khlong Krachaeng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678753,
+        890466851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1157074
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"a5f692a19a5d2ead77801c1b4a215a45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466851,
+            "locality_id":1293512719,
+            "region_id":85678753
+        }
+    ],
+    "wof:id":1293512719,
+    "wof:lastmodified":1537703237,
+    "wof:name":"Ban Khlong Krachaeng",
+    "wof:parent_id":890466851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.95,
+    13.13333,
+    99.95,
+    13.13333
+],
+  "geometry": {"coordinates":[99.95,13.13333],"type":"Point"}
+}

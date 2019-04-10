@@ -1,0 +1,71 @@
+{
+  "id": 1209486959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.08767,15.60733,100.08767,15.60733",
+    "geom:latitude":15.60733,
+    "geom:longitude":100.08767,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ban Bang Mafo",
+    "gn:country_code":"TH",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1620771,
+    "gn:latitude":15.60733,
+    "gn:longitude":100.08767,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Ban Bang Mafo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1a\u0e32\u0e07\u0e21\u0e30\u0e1d\u0e2d"
+    ],
+    "name:und_x_variant":[
+        "Ban Bang Mato",
+        "Ban Bang Mafo",
+        "B\u0101n Bang Mafau",
+        "Ban Dong Mato",
+        "Ban Bang Mafo Nai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1620771
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"fb176e22fbfb13ebff3aa22c99350766",
+    "wof:hierarchy":[
+        {
+            "country_id":85632293,
+            "locality_id":1209486959
+        }
+    ],
+    "wof:id":1209486959,
+    "wof:lastmodified":1537704252,
+    "wof:name":"Ban Bang Mafo",
+    "wof:parent_id":85632293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.08767,
+    15.60733,
+    100.08767,
+    15.60733
+],
+  "geometry": {"coordinates":[100.08767,15.60733],"type":"Point"}
+}

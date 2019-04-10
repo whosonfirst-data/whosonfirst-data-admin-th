@@ -1,0 +1,73 @@
+{
+  "id": 1243214851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.05239,15.04164,102.05239,15.04164",
+    "geom:latitude":15.04164,
+    "geom:longitude":102.05239,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Ban Don Krathing",
+    "gn:country_code":"TH",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1619993,
+    "gn:latitude":15.04164,
+    "gn:longitude":102.05239,
+    "gn:modification_date":"2014-06-04",
+    "gn:name":"Ban Don Krathing",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e14\u0e2d\u0e19\u0e01\u0e23\u0e30\u0e17\u0e34\u0e07"
+    ],
+    "name:und_x_variant":[
+        "Ban Don"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678841,
+        890466785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1619993
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"d61a727505804983c8eeed0f0894ff3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466785,
+            "locality_id":1243214851,
+            "region_id":85678841
+        }
+    ],
+    "wof:id":1243214851,
+    "wof:lastmodified":1537704200,
+    "wof:name":"Ban Don Krathing",
+    "wof:parent_id":890466785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.05239,
+    15.04164,
+    102.05239,
+    15.04164
+],
+  "geometry": {"coordinates":[102.05239,15.04164],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1360052597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.18858,16.39581,102.18858,16.39581",
+    "geom:latitude":16.39581,
+    "geom:longitude":102.18858,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Ban Ruea",
+    "gn:country_code":"TH",
+    "gn:dem":212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1598593,
+    "gn:latitude":16.39581,
+    "gn:longitude":102.18858,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Ban Ruea",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e23\u0e37\u0e2d"
+    ],
+    "name:und_x_variant":[
+        "Ban Rua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678825,
+        1108731745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1598593
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"294dec084231df46cf4bf92e9a98b742",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731745,
+            "locality_id":1360052597,
+            "region_id":85678825
+        }
+    ],
+    "wof:id":1360052597,
+    "wof:lastmodified":1537703408,
+    "wof:name":"Ban Ruea",
+    "wof:parent_id":1108731745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.18858,
+    16.39581,
+    102.18858,
+    16.39581
+],
+  "geometry": {"coordinates":[102.18858,16.39581],"type":"Point"}
+}

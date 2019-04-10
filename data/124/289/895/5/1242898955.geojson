@@ -1,0 +1,75 @@
+{
+  "id": 1242898955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.25802,17.3646,103.25802,17.3646",
+    "geom:latitude":17.3646,
+    "geom:longitude":103.25802,
+    "gn:admin1_code":"76.0",
+    "gn:asciiname":"Ban Tong",
+    "gn:country_code":"TH",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1612117,
+    "gn:latitude":17.3646,
+    "gn:longitude":103.25802,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Tong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e15\u0e49\u0e2d\u0e07"
+    ],
+    "name:und_x_variant":[
+        "Ban Thong",
+        "Ban Tong",
+        "\u0e1a\u0e49\u0e32\u0e19\u0e15\u0e49\u0e2d\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678869,
+        1108731617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1612117
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"910e01071099c78d05f0eab964628cae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731617,
+            "locality_id":1242898955,
+            "region_id":85678869
+        }
+    ],
+    "wof:id":1242898955,
+    "wof:lastmodified":1537703681,
+    "wof:name":"Ban Tong",
+    "wof:parent_id":1108731617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.25802,
+    17.3646,
+    103.25802,
+    17.3646
+],
+  "geometry": {"coordinates":[103.25802,17.3646],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1226400739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.56136,16.51608,102.56136,16.51608",
+    "geom:latitude":16.51608,
+    "geom:longitude":102.56136,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Ban Nong Saeng",
+    "gn:country_code":"TH",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1615119,
+    "gn:latitude":16.51608,
+    "gn:longitude":102.56136,
+    "gn:modification_date":"2014-04-29",
+    "gn:name":"Ban Nong Saeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e19\u0e2d\u0e07\u0e41\u0e2a\u0e07"
+    ],
+    "name:und_x_variant":[
+        "Non Muang",
+        "Ban Non Muang",
+        "Ban Nong Saeng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678827,
+        1108731641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1615119
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"6340326f6d8798d37913248ebe9d489c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731641,
+            "locality_id":1226400739,
+            "region_id":85678827
+        }
+    ],
+    "wof:id":1226400739,
+    "wof:lastmodified":1537703888,
+    "wof:name":"Ban Nong Saeng",
+    "wof:parent_id":1108731641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.56136,
+    16.51608,
+    102.56136,
+    16.51608
+],
+  "geometry": {"coordinates":[102.56135999999999,16.51608],"type":"Point"}
+}

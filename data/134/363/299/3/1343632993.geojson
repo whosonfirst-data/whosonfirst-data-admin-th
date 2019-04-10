@@ -1,0 +1,70 @@
+{
+  "id": 1343632993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.88358,15.87131,99.88358,15.87131",
+    "geom:latitude":15.87131,
+    "geom:longitude":99.88358,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ban Don Phoem",
+    "gn:country_code":"TH",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8343323,
+    "gn:latitude":15.87131,
+    "gn:longitude":99.88358,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Ban Don Phoem",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e14\u0e2d\u0e19\u0e40\u0e1e\u0e34\u0e48\u0e21"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678715,
+        890466203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8343323
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"3bfd0690bb25c8f3a8b5526cbd33bfb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466203,
+            "locality_id":1343632993,
+            "region_id":85678715
+        }
+    ],
+    "wof:id":1343632993,
+    "wof:lastmodified":1537705449,
+    "wof:name":"Ban Don Phoem",
+    "wof:parent_id":890466203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.88358,
+    15.87131,
+    99.88358,
+    15.87131
+],
+  "geometry": {"coordinates":[99.88357999999999,15.87131],"type":"Point"}
+}

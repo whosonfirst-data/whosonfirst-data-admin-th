@@ -1,0 +1,139 @@
+{
+  "id": 1125906911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.49883,13.91301,100.49883,13.91301",
+    "geom:latitude":13.91301,
+    "geom:longitude":100.49883,
+    "gn:gn_country":"TH",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":182926,
+    "gn:population":182926,
+    "iso:country":"TH",
+    "lbl:latitude":13.91301,
+    "lbl:longitude":100.49883,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Pak Kret"
+    ],
+    "name:ara_x_preferred":[
+        "\u0628\u0627\u0643 \u0643\u0631\u064a\u062a"
+    ],
+    "name:deu_x_preferred":[
+        "Pak Kret"
+    ],
+    "name:dut_x_preferred":[
+        "Pak Kret"
+    ],
+    "name:eng_x_preferred":[
+        "Pak Kret"
+    ],
+    "name:fre_x_preferred":[
+        "Pak Kret"
+    ],
+    "name:ger_x_preferred":[
+        "Pak Kret"
+    ],
+    "name:nob_x_preferred":[
+        "Pak Kret"
+    ],
+    "name:nor_x_preferred":[
+        "Pak Kret"
+    ],
+    "name:pol_x_preferred":[
+        "Pak Kret"
+    ],
+    "name:por_x_preferred":[
+        "Pak Kret"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e1b\u0e32\u0e01\u0e40\u0e01\u0e23\u0e47\u0e14"
+    ],
+    "name:unk_x_variant":[
+        "Pak Kred"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u0627\u06a9 \u06a9\u0631\u06cc\u062a"
+    ],
+    "qs_pg:aaroncc":"TH",
+    "qs_pg:gn_country":"TH",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":1608048,
+    "qs_pg:gn_pop":182926,
+    "qs_pg:name":"Pak Kret",
+    "qs_pg:name_adm0":"Thailand",
+    "qs_pg:name_adm1":"Nonthaburi",
+    "qs_pg:photos":5000,
+    "qs_pg:photos_1k":1000,
+    "qs_pg:photos_9k":22,
+    "qs_pg:photos_9r":14,
+    "qs_pg:photos_all":5000,
+    "qs_pg:photos_sr":24,
+    "qs_pg:pop_sr":9,
+    "qs_pg:qs_id":1032051,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424960,
+    "qs_pg:woe_id":1226075,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424960,
+    "woe:name_adm0":"Thailand",
+    "woe:name_adm1":"Nonthaburi",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678743,
+        890466145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1608048,
+        "gp:id":1226075,
+        "qs_pg:id":1032051,
+        "wd:id":"Q3360716"
+    },
+    "wof:country":"TH",
+    "wof:created":1497296019,
+    "wof:geomhash":"f2d225316c8e2ccb4c056d9a779eed85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466145,
+            "locality_id":1125906911,
+            "region_id":85678743
+        }
+    ],
+    "wof:id":1125906911,
+    "wof:lastmodified":1534379464,
+    "wof:name":"Pak Kret",
+    "wof:parent_id":890466145,
+    "wof:placetype":"locality",
+    "wof:population":182926,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[
+        102025081
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.49883,
+    13.91301,
+    100.49883,
+    13.91301
+],
+  "geometry": {"coordinates":[100.49883,13.91301],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1343791391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.27586,7.17083,100.27586,7.17083",
+    "geom:latitude":7.17083,
+    "geom:longitude":100.27586,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Ban Ko Pring",
+    "gn:country_code":"TH",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7884762,
+    "gn:latitude":7.17083,
+    "gn:longitude":100.27586,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Ko Pring",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e01\u0e32\u0e30\u0e1b\u0e23\u0e34\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678603,
+        1108731809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7884762
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"9c2dff950a4f311454667d9adde3c6f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731809,
+            "locality_id":1343791391,
+            "region_id":85678603
+        }
+    ],
+    "wof:id":1343791391,
+    "wof:lastmodified":1537704842,
+    "wof:name":"Ban Ko Pring",
+    "wof:parent_id":1108731809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.27586,
+    7.17083,
+    100.27586,
+    7.17083
+],
+  "geometry": {"coordinates":[100.27585999999999,7.17083],"type":"Point"}
+}

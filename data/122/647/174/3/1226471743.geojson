@@ -1,0 +1,73 @@
+{
+  "id": 1226471743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.81045,7.09481,99.81045,7.09481",
+    "geom:latitude":7.09481,
+    "geom:longitude":99.81045,
+    "gn:admin1_code":"67.0",
+    "gn:asciiname":"Ban Huai Nam Thun",
+    "gn:country_code":"TH",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8065568,
+    "gn:latitude":7.09481,
+    "gn:longitude":99.81045,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Ban Huai Nam Thun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "Ban Huai Nam Thun"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e49\u0e27\u0e22\u0e19\u0e49\u0e33\u0e17\u0e38\u0e48\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678595,
+        1108732029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8065568
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"569ec1bb9adf6a80b780c5ea14e21863",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108732029,
+            "locality_id":1226471743,
+            "region_id":85678595
+        }
+    ],
+    "wof:id":1226471743,
+    "wof:lastmodified":1537704977,
+    "wof:name":"Ban Huai Nam Thun",
+    "wof:parent_id":1108732029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.81045,
+    7.09481,
+    99.81045,
+    7.09481
+],
+  "geometry": {"coordinates":[99.81045,7.09481],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1193225113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.21556,15.29822,103.21556,15.29822",
+    "geom:latitude":15.29822,
+    "geom:longitude":103.21556,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Ban Khok I Tia",
+    "gn:country_code":"TH",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9285326,
+    "gn:latitude":15.29822,
+    "gn:longitude":103.21556,
+    "gn:modification_date":"2014-08-07",
+    "gn:name":"Ban Khok I Tia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e42\u0e04\u0e01\u0e2d\u0e35\u0e40\u0e15\u0e35\u0e49\u0e22"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678817,
+        890466239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9285326
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"3c6b787a6a2032ac074c5e47ffec86f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466239,
+            "locality_id":1193225113,
+            "region_id":85678817
+        }
+    ],
+    "wof:id":1193225113,
+    "wof:lastmodified":1537706279,
+    "wof:name":"Ban Khok I Tia",
+    "wof:parent_id":890466239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.21556,
+    15.29822,
+    103.21556,
+    15.29822
+],
+  "geometry": {"coordinates":[103.21556,15.29822],"type":"Point"}
+}

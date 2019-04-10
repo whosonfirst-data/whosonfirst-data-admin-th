@@ -1,0 +1,74 @@
+{
+  "id": 1310007973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.45633,17.42322,98.45633,17.42322",
+    "geom:latitude":17.42322,
+    "geom:longitude":98.45633,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Huai Lo Duk",
+    "gn:country_code":"TH",
+    "gn:dem":437,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1119901,
+    "gn:latitude":17.42322,
+    "gn:longitude":98.45633,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Huai Lo Duk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e49\u0e27\u0e22\u0e2b\u0e25\u0e48\u0e2d\u0e14\u0e39\u0e01"
+    ],
+    "name:und_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e49\u0e27\u0e22\u0e2b\u0e25\u0e48\u0e2d\u0e14\u0e39\u0e01",
+        "Ban Huai Lo Khuk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678619,
+        890465947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1119901
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"34556ab1342be66dfcdd3a7f456e4fb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465947,
+            "locality_id":1310007973,
+            "region_id":85678619
+        }
+    ],
+    "wof:id":1310007973,
+    "wof:lastmodified":1537702993,
+    "wof:name":"Ban Huai Lo Duk",
+    "wof:parent_id":890465947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.45633,
+    17.42322,
+    98.45633,
+    17.42322
+],
+  "geometry": {"coordinates":[98.45632999999999,17.42322],"type":"Point"}
+}

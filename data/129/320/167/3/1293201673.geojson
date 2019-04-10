@@ -1,0 +1,70 @@
+{
+  "id": 1293201673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.75169,19.85478,99.75169,19.85478",
+    "geom:latitude":19.85478,
+    "geom:longitude":99.75169,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ban Pratu Lo",
+    "gn:country_code":"TH",
+    "gn:dem":424,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1118006,
+    "gn:latitude":19.85478,
+    "gn:longitude":99.75169,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Pratu Lo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1b\u0e23\u0e30\u0e15\u0e39\u0e25\u0e49\u0e2d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678617,
+        890466017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1118006
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"f06bad7a4495f90b927f9f95cc90d4ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466017,
+            "locality_id":1293201673,
+            "region_id":85678617
+        }
+    ],
+    "wof:id":1293201673,
+    "wof:lastmodified":1537702933,
+    "wof:name":"Ban Pratu Lo",
+    "wof:parent_id":890466017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.75169,
+    19.85478,
+    99.75169,
+    19.85478
+],
+  "geometry": {"coordinates":[99.75169,19.85478],"type":"Point"}
+}

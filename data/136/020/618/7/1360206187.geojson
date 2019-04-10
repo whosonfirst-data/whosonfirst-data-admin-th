@@ -1,0 +1,70 @@
+{
+  "id": 1360206187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.83744,18.31283,99.83744,18.31283",
+    "geom:latitude":18.31283,
+    "geom:longitude":99.83744,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Ban Wang Nam Tong",
+    "gn:country_code":"TH",
+    "gn:dem":365,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8268607,
+    "gn:latitude":18.31283,
+    "gn:longitude":99.83744,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Ban Wang Nam Tong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e27\u0e31\u0e07\u0e19\u0e49\u0e33\u0e15\u0e49\u0e2d\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678625,
+        1108731499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8268607
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"984b3b41dd9e2ac3b6379510a80873c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731499,
+            "locality_id":1360206187,
+            "region_id":85678625
+        }
+    ],
+    "wof:id":1360206187,
+    "wof:lastmodified":1537705271,
+    "wof:name":"Ban Wang Nam Tong",
+    "wof:parent_id":1108731499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.83744,
+    18.31283,
+    99.83744,
+    18.31283
+],
+  "geometry": {"coordinates":[99.83744,18.31283],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 890466391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-11-10",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.59365,13.92601,100.59365,13.92601",
+    "geom:latitude":13.92601,
+    "geom:longitude":100.59365,
+    "gn:country":"TH",
+    "gn:fcode":"ADM2",
+    "gn:pop":0,
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:tha_x_preferred":[
+        "\u0e40\u0e02\u0e15\u0e14\u0e2d\u0e19\u0e40\u0e21\u0e37\u0e2d\u0e07"
+    ],
+    "name:tha_x_variant":[
+        "\u0e14\u0e2d\u0e19\u0e40\u0e21\u0e37\u0e2d\u0e07"
+    ],
+    "name:unk_x_variant":[
+        "Ban Don Muang (1)"
+    ],
+    "qs:name":"Khet Don Mueang",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":777,
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1619792,
+        "qs:id":1030606,
+        "wd:id":"Q1239362",
+        "wk:page":"Don Mueang District"
+    },
+    "wof:country":"TH",
+    "wof:created":1469053576,
+    "wof:geomhash":"c267315c5e18e6dd8e482c49d0c5b12d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466391,
+            "region_id":85678739
+        }
+    ],
+    "wof:id":890466391,
+    "wof:lastmodified":1527793006,
+    "wof:name":"Khet Don Mueang",
+    "wof:parent_id":85678739,
+    "wof:placetype":"county",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.59365,
+    13.92601,
+    100.59365,
+    13.92601
+],
+  "geometry": {"coordinates":[100.59365,13.92601],"type":"Point"}
+}

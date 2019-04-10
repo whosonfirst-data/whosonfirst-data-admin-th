@@ -1,0 +1,67 @@
+{
+  "id": 1226367429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.38333,13.01667,102.38333,13.01667",
+    "geom:latitude":13.01667,
+    "geom:longitude":102.38333,
+    "gn:admin1_code":"48.0",
+    "gn:asciiname":"Ban Samet",
+    "gn:country_code":"TH",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1598451,
+    "gn:latitude":13.01667,
+    "gn:longitude":102.38333,
+    "gn:modification_date":"1994-04-10",
+    "gn:name":"Ban Samet",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678799,
+        1108731775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1598451
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"a44d5953998b4671037f4e5c9d9686bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731775,
+            "locality_id":1226367429,
+            "region_id":85678799
+        }
+    ],
+    "wof:id":1226367429,
+    "wof:lastmodified":1536758490,
+    "wof:name":"Ban Samet",
+    "wof:parent_id":1108731775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.38333,
+    13.01667,
+    102.38333,
+    13.01667
+],
+  "geometry": {"coordinates":[102.38333,13.01667],"type":"Point"}
+}

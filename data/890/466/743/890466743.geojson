@@ -1,0 +1,76 @@
+{
+  "id": 890466743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-11-10",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.6853,15.58723,100.6853,15.58723",
+    "geom:latitude":15.58723,
+    "geom:longitude":100.6853,
+    "gn:country":"TH",
+    "gn:fcode":"ADM2",
+    "gn:pop":0,
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e44\u0e1e\u0e28\u0e32\u0e25\u0e35"
+    ],
+    "name:tha_x_variant":[
+        "\u0e44\u0e1e\u0e28\u0e32\u0e25\u0e35"
+    ],
+    "name:unk_x_variant":[
+        "King Amphoe Phaisali"
+    ],
+    "qs:name":"Amphoe Phai Sali",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":364,
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1607880,
+        "gp:id":28340983,
+        "qs:id":903598,
+        "wd:id":"Q475237",
+        "wk:page":"Bang Pla Ma District"
+    },
+    "wof:country":"TH",
+    "wof:created":1469053591,
+    "wof:geomhash":"c3dc23c2f90dcdbc44c468446cd45b62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466743,
+            "region_id":85678715
+        }
+    ],
+    "wof:id":890466743,
+    "wof:lastmodified":1527793018,
+    "wof:name":"Amphoe Phai Sali",
+    "wof:parent_id":85678715,
+    "wof:placetype":"county",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.6853,
+    15.58723,
+    100.6853,
+    15.58723
+],
+  "geometry": {"coordinates":[100.6853,15.58723],"type":"Point"}
+}

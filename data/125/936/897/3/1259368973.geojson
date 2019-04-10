@@ -1,0 +1,75 @@
+{
+  "id": 1259368973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.40683,16.30778,100.40683,16.30778",
+    "geom:latitude":16.30778,
+    "geom:longitude":100.40683,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Ban Nam Chon Nuea",
+    "gn:country_code":"TH",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1616323,
+    "gn:latitude":16.30778,
+    "gn:longitude":100.40683,
+    "gn:modification_date":"2013-02-07",
+    "gn:name":"Ban Nam Chon Nuea",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e19\u0e49\u0e33\u0e42\u0e08\u0e19\u0e40\u0e2b\u0e19\u0e37\u0e2d"
+    ],
+    "name:und_x_variant":[
+        "Ban Nam Jaun Noi",
+        "Ban Nam Chon Noi",
+        "Ban Nam Chon Nuea"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678647,
+        890466725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1616323
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"2bbce66fb89dc7821be2b6216d998bc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466725,
+            "locality_id":1259368973,
+            "region_id":85678647
+        }
+    ],
+    "wof:id":1259368973,
+    "wof:lastmodified":1537703971,
+    "wof:name":"Ban Nam Chon Nuea",
+    "wof:parent_id":890466725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.40683,
+    16.30778,
+    100.40683,
+    16.30778
+],
+  "geometry": {"coordinates":[100.40683,16.30778],"type":"Point"}
+}

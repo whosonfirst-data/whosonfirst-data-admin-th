@@ -1,0 +1,70 @@
+{
+  "id": 1193091179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.43953,14.82439,100.43953,14.82439",
+    "geom:latitude":14.82439,
+    "geom:longitude":100.43953,
+    "gn:admin1_code":"33",
+    "gn:asciiname":"Ban Amphawan",
+    "gn:country_code":"TH",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8725711,
+    "gn:latitude":14.82439,
+    "gn:longitude":100.43953,
+    "gn:modification_date":"2014-03-11",
+    "gn:name":"Ban Amphawan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2d\u0e31\u0e21\u0e1e\u0e27\u0e31\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678729,
+        890465951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8725711
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"5d3b8a3a321157ed0374c977746d31f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465951,
+            "locality_id":1193091179,
+            "region_id":85678729
+        }
+    ],
+    "wof:id":1193091179,
+    "wof:lastmodified":1537705973,
+    "wof:name":"Ban Amphawan",
+    "wof:parent_id":890465951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.43953,
+    14.82439,
+    100.43953,
+    14.82439
+],
+  "geometry": {"coordinates":[100.43953,14.82439],"type":"Point"}
+}

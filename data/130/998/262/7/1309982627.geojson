@@ -1,0 +1,75 @@
+{
+  "id": 1309982627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.23642,16.73364,100.23642,16.73364",
+    "geom:latitude":16.73364,
+    "geom:longitude":100.23642,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Ban Wat Phrik",
+    "gn:country_code":"TH",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1611775,
+    "gn:latitude":16.73364,
+    "gn:longitude":100.23642,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Ban Wat Phrik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e27\u0e31\u0e14\u0e1e\u0e23\u0e34\u0e01"
+    ],
+    "name:und_x_variant":[
+        "Ban Wat Prik",
+        "Ban Wat Phrik (1)",
+        "Ban Wat Phrik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678647,
+        890466019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1611775
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"9892f1c4dbe86738fba1a8096e8eb89e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466019,
+            "locality_id":1309982627,
+            "region_id":85678647
+        }
+    ],
+    "wof:id":1309982627,
+    "wof:lastmodified":1537703658,
+    "wof:name":"Ban Wat Phrik",
+    "wof:parent_id":890466019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.23642,
+    16.73364,
+    100.23642,
+    16.73364
+],
+  "geometry": {"coordinates":[100.23642,16.73364],"type":"Point"}
+}

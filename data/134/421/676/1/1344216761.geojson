@@ -1,0 +1,70 @@
+{
+  "id": 1344216761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.84975,15.13469,99.84975,15.13469",
+    "geom:latitude":15.13469,
+    "geom:longitude":99.84975,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Ban Wang Duean Ha",
+    "gn:country_code":"TH",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8676400,
+    "gn:latitude":15.13469,
+    "gn:longitude":99.84975,
+    "gn:modification_date":"2014-01-18",
+    "gn:name":"Ban Wang Duean Ha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e27\u0e31\u0e07\u0e40\u0e14\u0e37\u0e2d\u0e19\u0e2b\u0e49\u0e32"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678699,
+        1108731283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8676400
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"ca174915bd3acab76c9c8aa539e2d5bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731283,
+            "locality_id":1344216761,
+            "region_id":85678699
+        }
+    ],
+    "wof:id":1344216761,
+    "wof:lastmodified":1537705829,
+    "wof:name":"Ban Wang Duean Ha",
+    "wof:parent_id":1108731283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.84975,
+    15.13469,
+    99.84975,
+    15.13469
+],
+  "geometry": {"coordinates":[99.84975,15.13469],"type":"Point"}
+}

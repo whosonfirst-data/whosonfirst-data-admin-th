@@ -1,0 +1,73 @@
+{
+  "id": 1193149547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.19228,17.73589,98.19228,17.73589",
+    "geom:latitude":17.73589,
+    "geom:longitude":98.19228,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Pha Phueng",
+    "gn:country_code":"TH",
+    "gn:dem":735,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1118159,
+    "gn:latitude":17.73589,
+    "gn:longitude":98.19228,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Pha Phueng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1c\u0e32\u0e1c\u0e36\u0e49\u0e07"
+    ],
+    "name:und_x_variant":[
+        "Ban Pha Phung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678619,
+        890465947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1118159
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"72cd14b886d63596af39e451d32b3df3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465947,
+            "locality_id":1193149547,
+            "region_id":85678619
+        }
+    ],
+    "wof:id":1193149547,
+    "wof:lastmodified":1537702937,
+    "wof:name":"Ban Pha Phueng",
+    "wof:parent_id":890465947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.19228,
+    17.73588999999999,
+    98.19228,
+    17.73588999999999
+],
+  "geometry": {"coordinates":[98.19228,17.73588999999999],"type":"Point"}
+}

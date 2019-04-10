@@ -1,0 +1,70 @@
+{
+  "id": 1327483843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.44133,14.85525,103.44133,14.85525",
+    "geom:latitude":14.85525,
+    "geom:longitude":103.44133,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Ban Khok Pa Ta Mi",
+    "gn:country_code":"TH",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8702147,
+    "gn:latitude":14.85525,
+    "gn:longitude":103.44133,
+    "gn:modification_date":"2014-02-17",
+    "gn:name":"Ban Khok Pa Ta Mi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e42\u0e04\u0e01\u0e1b\u0e48\u0e32\u0e15\u0e32\u0e21\u0e35"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678845,
+        890466955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8702147
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"42eca84b919968adfcc9384d01939d15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466955,
+            "locality_id":1327483843,
+            "region_id":85678845
+        }
+    ],
+    "wof:id":1327483843,
+    "wof:lastmodified":1537705903,
+    "wof:name":"Ban Khok Pa Ta Mi",
+    "wof:parent_id":890466955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.44133,
+    14.85525,
+    103.44133,
+    14.85525
+],
+  "geometry": {"coordinates":[103.44132999999999,14.85525],"type":"Point"}
+}

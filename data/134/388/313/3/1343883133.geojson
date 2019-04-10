@@ -1,0 +1,70 @@
+{
+  "id": 1343883133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.57783,13.20192,101.57783,13.20192",
+    "geom:latitude":13.20192,
+    "geom:longitude":101.57783,
+    "gn:admin1_code":"46.0",
+    "gn:asciiname":"Ban Khao Cha-ang",
+    "gn:country_code":"TH",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7851731,
+    "gn:latitude":13.20192,
+    "gn:longitude":101.57783,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Khao Cha-ang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e02\u0e32\u0e0a\u0e30\u0e2d\u0e32\u0e07\u0e04\u0e4c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678795,
+        1108731193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7851731
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"38e53359d9447c4e6a63d758aa7022c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731193,
+            "locality_id":1343883133,
+            "region_id":85678795
+        }
+    ],
+    "wof:id":1343883133,
+    "wof:lastmodified":1537704723,
+    "wof:name":"Ban Khao Cha-ang",
+    "wof:parent_id":1108731193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.57783,
+    13.20192,
+    101.57783,
+    13.20192
+],
+  "geometry": {"coordinates":[101.57783000000001,13.20192],"type":"Point"}
+}

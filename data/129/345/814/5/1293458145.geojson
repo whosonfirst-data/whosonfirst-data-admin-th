@@ -1,0 +1,70 @@
+{
+  "id": 1293458145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.72567,16.79669,103.72567,16.79669",
+    "geom:latitude":16.79669,
+    "geom:longitude":103.72567,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Ban Saeng Badan",
+    "gn:country_code":"TH",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8654084,
+    "gn:latitude":16.79669,
+    "gn:longitude":103.72567,
+    "gn:modification_date":"2013-12-17",
+    "gn:name":"Ban Saeng Badan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e41\u0e2a\u0e07\u0e1a\u0e32\u0e14\u0e32\u0e25"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678831,
+        1108731931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8654084
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"ba572368e53d269714de9a6a4bf708a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731931,
+            "locality_id":1293458145,
+            "region_id":85678831
+        }
+    ],
+    "wof:id":1293458145,
+    "wof:lastmodified":1537705777,
+    "wof:name":"Ban Saeng Badan",
+    "wof:parent_id":1108731931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.72567,
+    16.79669,
+    103.72567,
+    16.79669
+],
+  "geometry": {"coordinates":[103.72566999999999,16.79669],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1293328343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.30261,7.58197,100.30261,7.58197",
+    "geom:latitude":7.58197,
+    "geom:longitude":100.30261,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Ban Thong Bua",
+    "gn:country_code":"TH",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1597616,
+    "gn:latitude":7.58197,
+    "gn:longitude":100.30261,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Thong Bua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e17\u0e38\u0e48\u0e07\u0e1a\u0e31\u0e27"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        1108802633,
+        1108731433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1597616
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"2e83b2fe4a44403cc72a43219d47c6bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802633,
+            "locality_id":1293328343,
+            "region_id":-1
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731433,
+            "locality_id":1293328343,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293328343,
+    "wof:lastmodified":1537703374,
+    "wof:name":"Ban Thong Bua",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.30261,
+    7.58197,
+    100.30261,
+    7.58197
+],
+  "geometry": {"coordinates":[100.30261,7.58197],"type":"Point"}
+}

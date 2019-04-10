@@ -1,0 +1,96 @@
+{
+  "id": 1125777965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.03651,7.61342,99.03651,7.61342",
+    "geom:latitude":7.61342,
+    "geom:longitude":99.03651,
+    "gn:gn_country":"TH",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":7946,
+    "gn:population":7946,
+    "iso:country":"TH",
+    "lbl:latitude":7.61342,
+    "lbl:longitude":99.03651,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Ban Saladan"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043b\u0430\u0434\u0430\u043d"
+    ],
+    "qs_pg:aaroncc":"TH",
+    "qs_pg:gn_country":"TH",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":6691842,
+    "qs_pg:gn_pop":7946,
+    "qs_pg:name":"Sala Dan",
+    "qs_pg:name_adm0":"Thailand",
+    "qs_pg:name_adm1":"Krabi",
+    "qs_pg:photos":2183,
+    "qs_pg:photos_1k":442,
+    "qs_pg:photos_9k":10,
+    "qs_pg:photos_9r":9,
+    "qs_pg:photos_all":2183,
+    "qs_pg:photos_sr":16,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":1199727,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424960,
+    "qs_pg:woe_id":55946391,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424960,
+    "woe:name_adm0":"Thailand",
+    "woe:name_adm1":"Krabi",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85632293,
+        890465695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6691842,
+        "gp:id":55946391,
+        "qs_pg:id":1199727
+    },
+    "wof:country":"TH",
+    "wof:created":1497290347,
+    "wof:geomhash":"c530ae99a37b2699d96f26be4d88df09",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632293,
+            "county_id":890465695,
+            "locality_id":1125777965,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1125777965,
+    "wof:lastmodified":1509391390,
+    "wof:name":"Sala Dan",
+    "wof:parent_id":890465695,
+    "wof:placetype":"locality",
+    "wof:population":7946,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.03651,
+    7.61342,
+    99.03651,
+    7.61342
+],
+  "geometry": {"coordinates":[99.03651000000001,7.61342],"type":"Point"}
+}

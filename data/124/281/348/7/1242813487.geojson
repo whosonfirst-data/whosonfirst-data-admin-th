@@ -1,0 +1,65 @@
+{
+  "id": 1242813487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.58333,8.4,98.58333,8.4",
+    "geom:latitude":8.4,
+    "geom:longitude":98.58333,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Ban Chin Tha Khlong",
+    "gn:country_code":"TH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1158027,
+    "gn:latitude":8.4,
+    "gn:longitude":98.58333,
+    "gn:modification_date":"1994-04-06",
+    "gn:name":"Ban Chin Tha Khlong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632293,
+        890466041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1158027
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"57603b525f4785b287bb54d1d89cd589",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632293,
+            "county_id":890466041,
+            "locality_id":1242813487,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1242813487,
+    "wof:lastmodified":1536724286,
+    "wof:name":"Ban Chin Tha Khlong",
+    "wof:parent_id":890466041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.58333,
+    8.4,
+    98.58333,
+    8.4
+],
+  "geometry": {"coordinates":[98.58333,8.4],"type":"Point"}
+}

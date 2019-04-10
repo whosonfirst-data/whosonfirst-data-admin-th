@@ -1,0 +1,75 @@
+{
+  "id": 1343245991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.81544,17.00419,99.81544,17.00419",
+    "geom:latitude":17.00419,
+    "geom:longitude":99.81544,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ban Bang Kraban",
+    "gn:country_code":"TH",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1158300,
+    "gn:latitude":17.00419,
+    "gn:longitude":99.81544,
+    "gn:modification_date":"2012-11-07",
+    "gn:name":"Ban Bang Kraban",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1a\u0e32\u0e07\u0e01\u0e23\u0e30\u0e1a\u0e32\u0e19"
+    ],
+    "name:und_x_variant":[
+        "Ban Yang",
+        "B\u0101n B\u0101ng",
+        "Ban Bang Kraban"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678651,
+        890466803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1158300
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"fce53fe0e2478c2e72b0a788f37d3b87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466803,
+            "locality_id":1343245991,
+            "region_id":85678651
+        }
+    ],
+    "wof:id":1343245991,
+    "wof:lastmodified":1537703311,
+    "wof:name":"Ban Bang Kraban",
+    "wof:parent_id":890466803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.81544,
+    17.00419,
+    99.81544,
+    17.00419
+],
+  "geometry": {"coordinates":[99.81544,17.00419],"type":"Point"}
+}

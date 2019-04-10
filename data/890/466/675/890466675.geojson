@@ -1,0 +1,77 @@
+{
+  "id": 890466675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.58892,8.01608,98.58892,8.01608",
+    "geom:latitude":8.01608,
+    "geom:longitude":98.58892,
+    "gn:country":"TH",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424960,
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e42\u0e25\u0e4a\u0e30\u0e42\u0e1b\u0e4a\u0e30\u0e19\u0e49\u0e2d\u0e22"
+    ],
+    "name:unk_x_variant":[
+        "Ban Loh Poh Noi"
+    ],
+    "qs:name":"Ban Lo Po Noi",
+    "qs:name_adm0":"Thailand",
+    "qs:name_adm1":"Phangnga",
+    "qs:photos":100,
+    "qs:photos_1k":20,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":100,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1156609,
+        "gp:id":1209743,
+        "qs:id":983949
+    },
+    "wof:country":"TH",
+    "wof:created":1469053589,
+    "wof:geomhash":"c380042f2501576f8d41af0ac90ef9c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "locality_id":890466675,
+            "region_id":85678573
+        }
+    ],
+    "wof:id":890466675,
+    "wof:lastmodified":1505343708,
+    "wof:name":"Ban Lo Po Noi",
+    "wof:parent_id":85678573,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.58892,
+    8.01608,
+    98.58892,
+    8.01608
+],
+  "geometry": {"coordinates":[98.58892,8.01608],"type":"Point"}
+}

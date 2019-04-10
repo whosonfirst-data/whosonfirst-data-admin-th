@@ -1,0 +1,70 @@
+{
+  "id": 1327111099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.70158,16.51797,100.70158,16.51797",
+    "geom:latitude":16.51797,
+    "geom:longitude":100.70158,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Ban Plak Plalai",
+    "gn:country_code":"TH",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8206618,
+    "gn:latitude":16.51797,
+    "gn:longitude":100.70158,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Ban Plak Plalai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1b\u0e25\u0e31\u0e01\u0e1b\u0e25\u0e32\u0e44\u0e2b\u0e25"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678647,
+        1108731599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8206618
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"38517e50c9c2b66b3e330e5acaef2678",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731599,
+            "locality_id":1327111099,
+            "region_id":85678647
+        }
+    ],
+    "wof:id":1327111099,
+    "wof:lastmodified":1537705115,
+    "wof:name":"Ban Plak Plalai",
+    "wof:parent_id":1108731599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.70158,
+    16.51797,
+    100.70158,
+    16.51797
+],
+  "geometry": {"coordinates":[100.70158000000001,16.51797],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1242648989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.36183,15.46028,100.36183,15.46028",
+    "geom:latitude":15.46028,
+    "geom:longitude":100.36183,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ban Hua Prachae",
+    "gn:country_code":"TH",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8344059,
+    "gn:latitude":15.46028,
+    "gn:longitude":100.36183,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Ban Hua Prachae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e31\u0e27\u0e1b\u0e23\u0e30\u0e41\u0e08"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678715,
+        890465881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8344059
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"03b1ca96a5c3b60f4ce6cdf587e6c46d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465881,
+            "locality_id":1242648989,
+            "region_id":85678715
+        }
+    ],
+    "wof:id":1242648989,
+    "wof:lastmodified":1537705459,
+    "wof:name":"Ban Hua Prachae",
+    "wof:parent_id":890465881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.36183,
+    15.46028,
+    100.36183,
+    15.46028
+],
+  "geometry": {"coordinates":[100.36183,15.46028],"type":"Point"}
+}

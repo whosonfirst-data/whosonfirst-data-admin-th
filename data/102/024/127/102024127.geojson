@@ -1,0 +1,116 @@
+{
+  "id": 102024127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000265,
+    "geom:area_square_m":3134372.239258,
+    "geom:bbox":"99.6201375674,16.6850393222,99.6388956174,16.7031178606",
+    "geom:latitude":16.694079,
+    "geom:longitude":99.629517,
+    "iso:country":"TH",
+    "lbl:latitude":16.694079,
+    "lbl:longitude":99.629517,
+    "mps:latitude":16.694079,
+    "mps:longitude":99.629517,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bpy_x_preferred":[
+        "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09b8\u09bf \u09b8\u09be\u09ae\u09b0\u09cb\u0982"
+    ],
+    "name:deu_x_preferred":[
+        "Amphoe Si Samrong"
+    ],
+    "name:eng_x_colloquial":[
+        "Gldhngtaan",
+        "Gldhngtan",
+        "Glohngtan"
+    ],
+    "name:eng_x_preferred":[
+        "Si Samrong"
+    ],
+    "name:eng_x_variant":[
+        "Gl\u00f0hngt\u00e5n"
+    ],
+    "name:ron_x_preferred":[
+        "Districtul Si Samrong"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e28\u0e23\u0e35\u0e2a\u0e33\u0e42\u0e23\u0e07"
+    ],
+    "name:tha_x_variant":[
+        "\u0e28\u0e23\u0e35\u0e2a\u0e33\u0e42\u0e23\u0e07"
+    ],
+    "name:unk_x_variant":[
+        "Gl\u014dhngt\u0101n"
+    ],
+    "name:vie_x_preferred":[
+        "Si Samrong"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Si Samrong K\u016bn"
+    ],
+    "qs:a0":"Thailand",
+    "qs:a1":"*Sukhothai",
+    "qs:a1r":"*",
+    "qs:a2":"Si Samrong",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Si Samrong",
+    "qs:loc_alt":"Khlong Tan",
+    "qs:loc_lc":"1150626",
+    "qs:pop":0,
+    "qs:source":"Aquattroshapes",
+    "qs:type":"Town",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":130,
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678665,
+        890465763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"07cec2f6-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":1150626,
+        "gp:id":28340920,
+        "qs:id":280870,
+        "wd:id":"Q476712"
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"40c69e1be08e6e360b9a8b3188477741",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465763,
+            "locality_id":102024127,
+            "region_id":85678665
+        }
+    ],
+    "wof:id":102024127,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527636441,
+    "wof:name":"Si Samrong",
+    "wof:parent_id":890465763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.62013756743984,
+    16.68503932222679,
+    99.63889561740346,
+    16.70311786063735
+],
+  "geometry": {"coordinates":[[[99.63131724843491,16.68520743836878],[99.6294870076574,16.68503932222679],[99.62765790311421,16.68521856426622],[99.62590021675062,16.68573827757319],[99.62428148755869,16.68657849272664],[99.62286391729283,16.68770692477543],[99.62170198086939,16.68908021331609],[99.62084033315621,16.69064558810837],[99.62031209256254,16.69234289632598],[99.62013756743984,16.69410691364034],[99.62032347437092,16.69586985040819],[99.62086267858304,16.69756395670433],[99.62173446668147,16.69912412610333],[99.62290534144724,16.70049039811938],[99.62433030833706,16.70161026307056],[99.6259546043661,16.70244068069962],[99.6277158029696,16.70294973486892],[99.62954621389981,16.70311786063735],[99.63137548580114,16.70293859647659],[99.63313331124918,16.70241883266814],[99.63475213007804,16.7015785463216],[99.63616972688651,16.70045003322672],[99.63733162271761,16.69907666612517],[99.63819316888312,16.69751122721769],[99.63872126243352,16.69581387909146],[99.63889561740346,16.69404985215067],[99.63870954311416,16.69228693750422],[99.63817019981745,16.69059288170948],[99.63729832208212,16.68903278350348],[99.63612742077386,16.6876665925336],[99.63470249447654,16.68654680614324],[99.63307829999498,16.68571645262946],[99.63131724843491,16.68520743836878]]],"type":"Polygon"}
+}

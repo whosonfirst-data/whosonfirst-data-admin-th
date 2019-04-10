@@ -1,0 +1,66 @@
+{
+  "id": 1209644671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.36667,6.7,101.36667,6.7",
+    "geom:latitude":6.7,
+    "geom:longitude":101.36667,
+    "gn:admin1_code":"69.0",
+    "gn:asciiname":"Ban Tarang",
+    "gn:cc2":"TH",
+    "gn:country_code":"TH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1612852,
+    "gn:latitude":6.7,
+    "gn:longitude":101.36667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Tarang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ta Rang",
+        "Ban Tarang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1612852
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"3e7d260f07aa86a30508a48ca05edd5c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632293,
+            "locality_id":1209644671
+        }
+    ],
+    "wof:id":1209644671,
+    "wof:lastmodified":1537703732,
+    "wof:name":"Ban Tarang",
+    "wof:parent_id":85632293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.36667,
+    6.7,
+    101.36667,
+    6.7
+],
+  "geometry": {"coordinates":[101.36667,6.7],"type":"Point"}
+}

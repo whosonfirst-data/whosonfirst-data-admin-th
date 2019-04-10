@@ -1,0 +1,70 @@
+{
+  "id": 1259418597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.82181,8.72361,98.82181,8.72361",
+    "geom:latitude":8.72361,
+    "geom:longitude":98.82181,
+    "gn:admin1_code":"60.0",
+    "gn:asciiname":"Ban Nong Hua Waen",
+    "gn:country_code":"TH",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8324864,
+    "gn:latitude":8.72361,
+    "gn:longitude":98.82181,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Ban Nong Hua Waen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e19\u0e2d\u0e07\u0e2b\u0e31\u0e27\u0e41\u0e2b\u0e27\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678849,
+        890465923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8324864
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"77d8a979f6d2b13cadea388fc05898df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465923,
+            "locality_id":1259418597,
+            "region_id":85678849
+        }
+    ],
+    "wof:id":1259418597,
+    "wof:lastmodified":1537705387,
+    "wof:name":"Ban Nong Hua Waen",
+    "wof:parent_id":890465923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.82181,
+    8.72361,
+    98.82181,
+    8.72361
+],
+  "geometry": {"coordinates":[98.82181,8.72361],"type":"Point"}
+}

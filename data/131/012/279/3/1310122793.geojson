@@ -1,0 +1,70 @@
+{
+  "id": 1310122793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.06768,12.67795,101.06768,12.67795",
+    "geom:latitude":12.67795,
+    "geom:longitude":101.06768,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Ban Phayun",
+    "gn:country_code":"TH",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1599041,
+    "gn:latitude":12.67795,
+    "gn:longitude":101.06768,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Phayun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1e\u0e22\u0e39\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678809,
+        890466415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1599041
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"93ddd7d5dd92997f0da2c88006c8a593",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466415,
+            "locality_id":1310122793,
+            "region_id":85678809
+        }
+    ],
+    "wof:id":1310122793,
+    "wof:lastmodified":1537703423,
+    "wof:name":"Ban Phayun",
+    "wof:parent_id":890466415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.06768,
+    12.67795,
+    101.06768,
+    12.67795
+],
+  "geometry": {"coordinates":[101.06768,12.67795],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243103027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.99406,14.32681,99.99406,14.32681",
+    "geom:latitude":14.32681,
+    "geom:longitude":99.99406,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Ban Don Khai Tao",
+    "gn:country_code":"TH",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8665937,
+    "gn:latitude":14.32681,
+    "gn:longitude":99.99406,
+    "gn:modification_date":"2014-01-18",
+    "gn:name":"Ban Don Khai Tao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e14\u0e2d\u0e19\u0e44\u0e02\u0e48\u0e40\u0e15\u0e48\u0e32"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678679,
+        1108731173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8665937
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"c2cdcac64681741d748c6625814dee91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731173,
+            "locality_id":1243103027,
+            "region_id":85678679
+        }
+    ],
+    "wof:id":1243103027,
+    "wof:lastmodified":1537705789,
+    "wof:name":"Ban Don Khai Tao",
+    "wof:parent_id":1108731173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.99406,
+    14.32681,
+    99.99406,
+    14.32681
+],
+  "geometry": {"coordinates":[99.99406,14.32681],"type":"Point"}
+}

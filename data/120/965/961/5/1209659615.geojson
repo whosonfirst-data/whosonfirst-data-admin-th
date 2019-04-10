@@ -1,0 +1,67 @@
+{
+  "id": 1209659615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.45,14.68333,100.45,14.68333",
+    "geom:latitude":14.68333,
+    "geom:longitude":100.45,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Ban Nok",
+    "gn:cc2":"TH",
+    "gn:country_code":"TH",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1615939,
+    "gn:latitude":14.68333,
+    "gn:longitude":100.45,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Nok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Sa Ket",
+        "Ban Sakes",
+        "Ban Nok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1615939
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"0223752374f64c0add3904c4fcf5786a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632293,
+            "locality_id":1209659615
+        }
+    ],
+    "wof:id":1209659615,
+    "wof:lastmodified":1537703942,
+    "wof:name":"Ban Nok",
+    "wof:parent_id":85632293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.45,
+    14.68333,
+    100.45,
+    14.68333
+],
+  "geometry": {"coordinates":[100.45,14.68333],"type":"Point"}
+}

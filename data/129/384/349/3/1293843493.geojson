@@ -1,0 +1,70 @@
+{
+  "id": 1293843493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.02144,15.03272,100.02144,15.03272",
+    "geom:latitude":15.03272,
+    "geom:longitude":100.02144,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Ban Bueng Krachap",
+    "gn:country_code":"TH",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8676941,
+    "gn:latitude":15.03272,
+    "gn:longitude":100.02144,
+    "gn:modification_date":"2014-01-18",
+    "gn:name":"Ban Bueng Krachap",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1a\u0e36\u0e07\u0e01\u0e23\u0e30\u0e08\u0e31\u0e1a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678699,
+        1108731283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8676941
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"605803b9a6b653aa39c18330985011f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731283,
+            "locality_id":1293843493,
+            "region_id":85678699
+        }
+    ],
+    "wof:id":1293843493,
+    "wof:lastmodified":1537705836,
+    "wof:name":"Ban Bueng Krachap",
+    "wof:parent_id":1108731283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.02144,
+    15.03272,
+    100.02144,
+    15.03272
+],
+  "geometry": {"coordinates":[100.02144,15.03272],"type":"Point"}
+}

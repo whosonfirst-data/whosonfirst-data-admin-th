@@ -1,0 +1,70 @@
+{
+  "id": 1243483789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.72803,10.08569,98.72803,10.08569",
+    "geom:latitude":10.08569,
+    "geom:longitude":98.72803,
+    "gn:admin1_code":"59.0",
+    "gn:asciiname":"Ban Bang Phra Tai",
+    "gn:country_code":"TH",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8271050,
+    "gn:latitude":10.08569,
+    "gn:longitude":98.72803,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Ban Bang Phra Tai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1a\u0e32\u0e07\u0e1e\u0e23\u0e30\u0e43\u0e15\u0e49"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678577,
+        1108731451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8271050
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"183ff477dfdd88e0f276f24a81f949d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731451,
+            "locality_id":1243483789,
+            "region_id":85678577
+        }
+    ],
+    "wof:id":1243483789,
+    "wof:lastmodified":1537705283,
+    "wof:name":"Ban Bang Phra Tai",
+    "wof:parent_id":1108731451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.72803,
+    10.08569,
+    98.72803,
+    10.08569
+],
+  "geometry": {"coordinates":[98.72803,10.08569],"type":"Point"}
+}

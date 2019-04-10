@@ -1,0 +1,70 @@
+{
+  "id": 1243433813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.9629,16.82841,99.9629,16.82841",
+    "geom:latitude":16.82841,
+    "geom:longitude":99.9629,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Ban Ko Klang Na",
+    "gn:country_code":"TH",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8204969,
+    "gn:latitude":16.82841,
+    "gn:longitude":99.9629,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Ban Ko Klang Na",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e01\u0e32\u0e30\u0e01\u0e25\u0e32\u0e07\u0e19\u0e32"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678647,
+        890465827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8204969
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"281bc58290c1207da6ec2743382de329",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465827,
+            "locality_id":1243433813,
+            "region_id":85678647
+        }
+    ],
+    "wof:id":1243433813,
+    "wof:lastmodified":1537705094,
+    "wof:name":"Ban Ko Klang Na",
+    "wof:parent_id":890465827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.9629,
+    16.82841,
+    99.9629,
+    16.82841
+],
+  "geometry": {"coordinates":[99.9629,16.82841],"type":"Point"}
+}

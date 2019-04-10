@@ -1,0 +1,77 @@
+{
+  "id": 1343484347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.08994,14.78111,100.08994,14.78111",
+    "geom:latitude":14.78111,
+    "geom:longitude":100.08994,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Ban Thueng",
+    "gn:country_code":"TH",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1612981,
+    "gn:latitude":14.78111,
+    "gn:longitude":100.08994,
+    "gn:modification_date":"2014-01-08",
+    "gn:name":"Ban Thueng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e17\u0e36\u0e07"
+    ],
+    "name:und_x_variant":[
+        "Ban Noeng",
+        "Ban Thung",
+        "Ban Tung",
+        "Ban Talat Ban Thung",
+        "Ban Thueng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678679,
+        890466315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1612981
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"d12aee875b919da88fabd859e4b5d03c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466315,
+            "locality_id":1343484347,
+            "region_id":85678679
+        }
+    ],
+    "wof:id":1343484347,
+    "wof:lastmodified":1537703741,
+    "wof:name":"Ban Thueng",
+    "wof:parent_id":890466315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.08994,
+    14.78111,
+    100.08994,
+    14.78111
+],
+  "geometry": {"coordinates":[100.08994,14.78111],"type":"Point"}
+}

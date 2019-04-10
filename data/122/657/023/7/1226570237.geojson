@@ -1,0 +1,73 @@
+{
+  "id": 1226570237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.97739,13.90014,99.97739,13.90014",
+    "geom:latitude":13.90014,
+    "geom:longitude":99.97739,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Ban Paet Rong",
+    "gn:country_code":"TH",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8138465,
+    "gn:latitude":13.90014,
+    "gn:longitude":99.97739,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Ban Paet Rong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "Ban Paet Rong"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e41\u0e1b\u0e14\u0e42\u0e23\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678747,
+        1108802671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8138465
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"ee2abd364e83b644a880bf961f03a5dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802671,
+            "locality_id":1226570237,
+            "region_id":85678747
+        }
+    ],
+    "wof:id":1226570237,
+    "wof:lastmodified":1537705001,
+    "wof:name":"Ban Paet Rong",
+    "wof:parent_id":1108802671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.97739,
+    13.90014,
+    99.97739,
+    13.90014
+],
+  "geometry": {"coordinates":[99.97739,13.90014],"type":"Point"}
+}

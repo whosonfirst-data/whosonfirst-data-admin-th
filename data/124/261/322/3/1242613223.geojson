@@ -1,0 +1,70 @@
+{
+  "id": 1242613223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.84539,13.54628,100.84539,13.54628",
+    "geom:latitude":13.54628,
+    "geom:longitude":100.84539,
+    "gn:admin1_code":"42.0",
+    "gn:asciiname":"Ban Khlong Kanya",
+    "gn:country_code":"TH",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7099819,
+    "gn:latitude":13.54628,
+    "gn:longitude":100.84539,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Khlong Kanya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e04\u0e25\u0e2d\u0e07\u0e01\u0e31\u0e19\u0e22\u0e32"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678765,
+        1108802683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7099819
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"5b91550d5dd6bc0b28b9a39e17b5947d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802683,
+            "locality_id":1242613223,
+            "region_id":85678765
+        }
+    ],
+    "wof:id":1242613223,
+    "wof:lastmodified":1537704439,
+    "wof:name":"Ban Khlong Kanya",
+    "wof:parent_id":1108802683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.84539,
+    13.54628,
+    100.84539,
+    13.54628
+],
+  "geometry": {"coordinates":[100.84538999999999,13.54628],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1226367533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.14761,12.53419,102.14761,12.53419",
+    "geom:latitude":12.53419,
+    "geom:longitude":102.14761,
+    "gn:admin1_code":"48.0",
+    "gn:asciiname":"Ban Thaeo Khlong",
+    "gn:country_code":"TH",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7913572,
+    "gn:latitude":12.53419,
+    "gn:longitude":102.14761,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Thaeo Khlong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e41\u0e16\u0e27\u0e04\u0e25\u0e2d\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678799,
+        1108802663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7913572
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"98a1ac62405c48099a20c86366b9a2d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802663,
+            "locality_id":1226367533,
+            "region_id":85678799
+        }
+    ],
+    "wof:id":1226367533,
+    "wof:lastmodified":1537704866,
+    "wof:name":"Ban Thaeo Khlong",
+    "wof:parent_id":1108802663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.14761,
+    12.53419,
+    102.14761,
+    12.53419
+],
+  "geometry": {"coordinates":[102.14761,12.53419],"type":"Point"}
+}

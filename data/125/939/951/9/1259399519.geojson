@@ -1,0 +1,70 @@
+{
+  "id": 1259399519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.71981,5.91961,101.71981,5.91961",
+    "geom:latitude":5.91961,
+    "geom:longitude":101.71981,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Ban Tonyong Mali",
+    "gn:country_code":"TH",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6987488,
+    "gn:latitude":5.91961,
+    "gn:longitude":101.71981,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ban Tonyong Mali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e15\u0e31\u0e19\u0e2b\u0e22\u0e07\u0e21\u0e30\u0e25\u0e34"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678885,
+        1108731943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6987488
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"987e0f130e2cae128c298df8182c0ccc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731943,
+            "locality_id":1259399519,
+            "region_id":85678885
+        }
+    ],
+    "wof:id":1259399519,
+    "wof:lastmodified":1537704368,
+    "wof:name":"Ban Tonyong Mali",
+    "wof:parent_id":1108731943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.71981,
+    5.91961,
+    101.71981,
+    5.91961
+],
+  "geometry": {"coordinates":[101.71981,5.91961],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1242818661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.42647,14.52978,100.42647,14.52978",
+    "geom:latitude":14.52978,
+    "geom:longitude":100.42647,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Ban Lat Khao",
+    "gn:country_code":"TH",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1617006,
+    "gn:latitude":14.52978,
+    "gn:longitude":100.42647,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Ban Lat Khao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e25\u0e32\u0e14\u0e40\u0e04\u0e49\u0e32"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678691,
+        890465635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1617006
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"4695bc73bfc2c26efb442749a5ed6e19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465635,
+            "locality_id":1242818661,
+            "region_id":85678691
+        }
+    ],
+    "wof:id":1242818661,
+    "wof:lastmodified":1537704020,
+    "wof:name":"Ban Lat Khao",
+    "wof:parent_id":890465635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.42647,
+    14.52978,
+    100.42647,
+    14.52978
+],
+  "geometry": {"coordinates":[100.42646999999999,14.52978],"type":"Point"}
+}

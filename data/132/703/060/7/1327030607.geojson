@@ -1,0 +1,70 @@
+{
+  "id": 1327030607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.72445,19.86983,99.72445,19.86983",
+    "geom:latitude":19.86983,
+    "geom:longitude":99.72445,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ban Nong Khiao Tai",
+    "gn:country_code":"TH",
+    "gn:dem":451,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7421461,
+    "gn:latitude":19.86983,
+    "gn:longitude":99.72445,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Nong Khiao Tai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e19\u0e2d\u0e07\u0e40\u0e02\u0e35\u0e22\u0e27\u0e43\u0e15\u0e49"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678617,
+        890466017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7421461
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"b1060954a9f666ed6ef7a64e72230e4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466017,
+            "locality_id":1327030607,
+            "region_id":85678617
+        }
+    ],
+    "wof:id":1327030607,
+    "wof:lastmodified":1537704481,
+    "wof:name":"Ban Nong Khiao Tai",
+    "wof:parent_id":890466017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.72445,
+    19.86983,
+    99.72445,
+    19.86983
+],
+  "geometry": {"coordinates":[99.72445,19.86983],"type":"Point"}
+}

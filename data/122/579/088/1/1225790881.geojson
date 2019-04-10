@@ -1,0 +1,70 @@
+{
+  "id": 1225790881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.44525,14.57725,104.44525,14.57725",
+    "geom:latitude":14.57725,
+    "geom:longitude":104.44525,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Ban Lak Hin",
+    "gn:country_code":"TH",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7876324,
+    "gn:latitude":14.57725,
+    "gn:longitude":104.44525,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Lak Hin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e25\u0e31\u0e01\u0e2b\u0e34\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678779,
+        1108731415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7876324
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"298ab9faf0e1a5c1700f9cbe6664cb01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731415,
+            "locality_id":1225790881,
+            "region_id":85678779
+        }
+    ],
+    "wof:id":1225790881,
+    "wof:lastmodified":1537704761,
+    "wof:name":"Ban Lak Hin",
+    "wof:parent_id":1108731415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.44525,
+    14.57725,
+    104.44525,
+    14.57725
+],
+  "geometry": {"coordinates":[104.44525,14.57725],"type":"Point"}
+}

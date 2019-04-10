@@ -1,0 +1,67 @@
+{
+  "id": 1226278325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.55,13.95,100.55,13.95",
+    "geom:latitude":13.95,
+    "geom:longitude":100.55,
+    "gn:admin1_code":"39.0",
+    "gn:asciiname":"Ban Wat Pho Thong",
+    "gn:country_code":"TH",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1611777,
+    "gn:latitude":13.95,
+    "gn:longitude":100.55,
+    "gn:modification_date":"1994-04-06",
+    "gn:name":"Ban Wat Pho Thong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678743,
+        890466145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1611777
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"fe07d098c3d42cdba76c93e7770fa6f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466145,
+            "locality_id":1226278325,
+            "region_id":85678743
+        }
+    ],
+    "wof:id":1226278325,
+    "wof:lastmodified":1536886169,
+    "wof:name":"Ban Wat Pho Thong",
+    "wof:parent_id":890466145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.55,
+    13.95,
+    100.55,
+    13.95
+],
+  "geometry": {"coordinates":[100.55,13.95],"type":"Point"}
+}

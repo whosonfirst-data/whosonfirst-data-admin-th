@@ -1,0 +1,73 @@
+{
+  "id": 102026145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000094,
+    "geom:area_square_m":1109737.193663,
+    "geom:bbox":"102.821145011,17.3602962002,102.83203125,17.3716100241",
+    "geom:latitude":17.366915,
+    "geom:longitude":102.826668,
+    "gn:latitude":17.37075,
+    "gn:longitude":102.80806,
+    "iso:country":"TH",
+    "lbl:latitude":17.366765,
+    "lbl:longitude":102.826564,
+    "mps:latitude":17.366765,
+    "mps:longitude":102.826564,
+    "mz:hierarchy_label":1,
+    "name:tha_x_preferred":[
+        "\u0e2b\u0e19\u0e2d\u0e07\u0e02\u0e2d\u0e19\u0e01\u0e27\u0e49\u0e32\u0e07"
+    ],
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Nong Khon Kwang",
+    "qs:loc_lc":"7749458",
+    "qs:pop":0,
+    "qs:source":"Aquattroshapes",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678869,
+        890466845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7749458
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"fc096e430d4a2fa6677fd41e8b6d2e50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466845,
+            "locality_id":102026145,
+            "region_id":85678869
+        }
+    ],
+    "wof:id":102026145,
+    "wof:lastmodified":1501273304,
+    "wof:name":"Nong Khon Kwang",
+    "wof:parent_id":890466845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.8211450111579,
+    17.36029620021272,
+    102.83203125000007,
+    17.37161002409998
+],
+  "geometry": {"coordinates":[[[102.83203125000007,17.36922868099762],[102.82978744989329,17.36123550054454],[102.82976238810367,17.36126415940916],[102.82968059252325,17.36140719731618],[102.82954946703579,17.36133805042584],[102.82779100456283,17.36080486726253],[102.82612747346612,17.3606292435697],[102.82602654545859,17.36029620021272],[102.82516479450008,17.36136327251977],[102.82289074539442,17.36374592794996],[102.82178609527007,17.36556472305737],[102.8211450111579,17.37160998660002],[102.821145038994,17.37161002409998],[102.83203125000007,17.37161002409998],[102.83203125000007,17.36922868099762]]],"type":"Polygon"}
+}

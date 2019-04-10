@@ -1,0 +1,70 @@
+{
+  "id": 1309883137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.34947,15.956,99.34947,15.956",
+    "geom:latitude":15.956,
+    "geom:longitude":99.34947,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Ban Sap Ta Ming",
+    "gn:country_code":"TH",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8386301,
+    "gn:latitude":15.956,
+    "gn:longitude":99.34947,
+    "gn:modification_date":"2012-09-08",
+    "gn:name":"Ban Sap Ta Ming",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e17\u0e23\u0e31\u0e1e\u0e22\u0e4c\u0e15\u0e32\u0e21\u0e34\u0e48\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678665,
+        1108731355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8386301
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"321800fba695f755059e081f2a69dfdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731355,
+            "locality_id":1309883137,
+            "region_id":85678665
+        }
+    ],
+    "wof:id":1309883137,
+    "wof:lastmodified":1537705543,
+    "wof:name":"Ban Sap Ta Ming",
+    "wof:parent_id":1108731355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.34947,
+    15.956,
+    99.34947,
+    15.956
+],
+  "geometry": {"coordinates":[99.34947,15.956],"type":"Point"}
+}

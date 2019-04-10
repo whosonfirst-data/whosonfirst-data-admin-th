@@ -1,0 +1,74 @@
+{
+  "id": 1242866041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.44908,18.15597,99.44908,18.15597",
+    "geom:latitude":18.15597,
+    "geom:longitude":99.44908,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Ban Thung",
+    "gn:country_code":"TH",
+    "gn:dem":232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1154353,
+    "gn:latitude":18.15597,
+    "gn:longitude":99.44908,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Ban Thung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e17\u0e38\u0e48\u0e07"
+    ],
+    "name:und_x_variant":[
+        "Ban Hua Thung",
+        "Ban Thung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678625,
+        1108802657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1154353
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"f5ac1fca1078543d4c63aeea187d6b4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802657,
+            "locality_id":1242866041,
+            "region_id":85678625
+        }
+    ],
+    "wof:id":1242866041,
+    "wof:lastmodified":1537703039,
+    "wof:name":"Ban Thung",
+    "wof:parent_id":1108802657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.44908,
+    18.15597,
+    99.44908,
+    18.15597
+],
+  "geometry": {"coordinates":[99.44908,18.15597],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1309765179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.35306,17.36833,103.35306,17.36833",
+    "geom:latitude":17.36833,
+    "geom:longitude":103.35306,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Puai",
+    "gn:country_code":"TH",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1598709,
+    "gn:latitude":17.36833,
+    "gn:longitude":103.35306,
+    "gn:modification_date":"1995-02-08",
+    "gn:name":"Ban Puai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678863,
+        890466235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1598709
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"0fd9db193318d236270fe85bd23474b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466235,
+            "locality_id":1309765179,
+            "region_id":85678863
+        }
+    ],
+    "wof:id":1309765179,
+    "wof:lastmodified":1536988963,
+    "wof:name":"Ban Puai",
+    "wof:parent_id":890466235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.35306,
+    17.36833,
+    103.35306,
+    17.36833
+],
+  "geometry": {"coordinates":[103.35306,17.36833],"type":"Point"}
+}

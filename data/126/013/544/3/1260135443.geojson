@@ -1,0 +1,70 @@
+{
+  "id": 1260135443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.04047,16.31322,103.04047,16.31322",
+    "geom:latitude":16.31322,
+    "geom:longitude":103.04047,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Ban Yang Tha Chaeng",
+    "gn:country_code":"TH",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8731530,
+    "gn:latitude":16.31322,
+    "gn:longitude":103.04047,
+    "gn:modification_date":"2014-03-12",
+    "gn:name":"Ban Yang Tha Chaeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e22\u0e32\u0e07\u0e17\u0e48\u0e32\u0e41\u0e08\u0e49\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678835,
+        1108731427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8731530
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"a1fbce121010418a3624ab6592451706",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731427,
+            "locality_id":1260135443,
+            "region_id":85678835
+        }
+    ],
+    "wof:id":1260135443,
+    "wof:lastmodified":1537705986,
+    "wof:name":"Ban Yang Tha Chaeng",
+    "wof:parent_id":1108731427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.04047,
+    16.31322,
+    103.04047,
+    16.31322
+],
+  "geometry": {"coordinates":[103.04047,16.31322],"type":"Point"}
+}

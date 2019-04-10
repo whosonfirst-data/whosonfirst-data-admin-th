@@ -1,0 +1,67 @@
+{
+  "id": 1260322625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.03333,12.55,102.03333,12.55",
+    "geom:latitude":12.55,
+    "geom:longitude":102.03333,
+    "gn:admin1_code":"48.0",
+    "gn:asciiname":"Ban Bang I Ma",
+    "gn:country_code":"TH",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1620884,
+    "gn:latitude":12.55,
+    "gn:longitude":102.03333,
+    "gn:modification_date":"1994-04-06",
+    "gn:name":"Ban Bang I Ma",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678799,
+        1108802663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1620884
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"e8fa4c1b3268238fe9e4a6553e24cff4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802663,
+            "locality_id":1260322625,
+            "region_id":85678799
+        }
+    ],
+    "wof:id":1260322625,
+    "wof:lastmodified":1536659439,
+    "wof:name":"Ban Bang I Ma",
+    "wof:parent_id":1108802663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.03333,
+    12.55,
+    102.03333,
+    12.55
+],
+  "geometry": {"coordinates":[102.03333000000001,12.55],"type":"Point"}
+}

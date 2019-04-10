@@ -1,0 +1,73 @@
+{
+  "id": 1259833709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.42219,14.87239,100.42219,14.87239",
+    "geom:latitude":14.87239,
+    "geom:longitude":100.42219,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Ban Ko Wiwatthana",
+    "gn:country_code":"TH",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1617552,
+    "gn:latitude":14.87239,
+    "gn:longitude":100.42219,
+    "gn:modification_date":"2014-03-05",
+    "gn:name":"Ban Ko Wiwatthana",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e01\u0e32\u0e30\u0e27\u0e34\u0e27\u0e31\u0e12\u0e19\u0e32"
+    ],
+    "name:und_x_variant":[
+        "Ban Ko"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678729,
+        890465647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1617552
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"2277f9497e6c158a3ef9dedbbd4a50d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465647,
+            "locality_id":1259833709,
+            "region_id":85678729
+        }
+    ],
+    "wof:id":1259833709,
+    "wof:lastmodified":1537704058,
+    "wof:name":"Ban Ko Wiwatthana",
+    "wof:parent_id":890465647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.42219,
+    14.87239,
+    100.42219,
+    14.87239
+],
+  "geometry": {"coordinates":[100.42219,14.87239],"type":"Point"}
+}

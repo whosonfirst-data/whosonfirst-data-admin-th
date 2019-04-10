@@ -1,0 +1,70 @@
+{
+  "id": 1226816761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.07192,15.79792,104.07192,15.79792",
+    "geom:latitude":15.79792,
+    "geom:longitude":104.07192,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Ban Nong Hin",
+    "gn:country_code":"TH",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8682979,
+    "gn:latitude":15.79792,
+    "gn:longitude":104.07192,
+    "gn:modification_date":"2014-01-18",
+    "gn:name":"Ban Nong Hin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e19\u0e2d\u0e07\u0e2b\u0e34\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678845,
+        1108731711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8682979
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"d1aa5c2d7fe2c718c39fd1e9c9bbfb8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731711,
+            "locality_id":1226816761,
+            "region_id":85678845
+        }
+    ],
+    "wof:id":1226816761,
+    "wof:lastmodified":1537705874,
+    "wof:name":"Ban Nong Hin",
+    "wof:parent_id":1108731711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.07192,
+    15.79792,
+    104.07192,
+    15.79792
+],
+  "geometry": {"coordinates":[104.07192000000001,15.79792],"type":"Point"}
+}

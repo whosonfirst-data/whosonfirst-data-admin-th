@@ -1,0 +1,65 @@
+{
+  "id": 1243092399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.98579,7.89297,98.98579,7.89297",
+    "geom:latitude":7.89297,
+    "geom:longitude":98.98579,
+    "gn:admin1_code":"63.0",
+    "gn:asciiname":"Ko Siboya",
+    "gn:country_code":"TH",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7522500,
+    "gn:latitude":7.89297,
+    "gn:longitude":98.98579,
+    "gn:modification_date":"2010-09-03",
+    "gn:name":"Ko Siboya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632293,
+        890466649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7522500
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"46a04c22e7ce0a5a931b051202ede517",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632293,
+            "county_id":890466649,
+            "locality_id":1243092399,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1243092399,
+    "wof:lastmodified":1536818017,
+    "wof:name":"Ko Siboya",
+    "wof:parent_id":890466649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.98579,
+    7.89297,
+    98.98579,
+    7.89297
+],
+  "geometry": {"coordinates":[98.98578999999999,7.89297],"type":"Point"}
+}

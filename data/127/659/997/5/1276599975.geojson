@@ -1,0 +1,70 @@
+{
+  "id": 1276599975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.56039,14.87197,102.56039,14.87197",
+    "geom:latitude":14.87197,
+    "geom:longitude":102.56039,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Ban Pho Ngoen",
+    "gn:country_code":"TH",
+    "gn:dem":226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9285613,
+    "gn:latitude":14.87197,
+    "gn:longitude":102.56039,
+    "gn:modification_date":"2014-08-07",
+    "gn:name":"Ban Pho Ngoen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e42\u0e1e\u0e18\u0e34\u0e4c\u0e40\u0e07\u0e34\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678817,
+        1108731619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9285613
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"0a0a68f141d32fd385e0835c5b6068e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731619,
+            "locality_id":1276599975,
+            "region_id":85678817
+        }
+    ],
+    "wof:id":1276599975,
+    "wof:lastmodified":1537706282,
+    "wof:name":"Ban Pho Ngoen",
+    "wof:parent_id":1108731619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.56039,
+    14.87197,
+    102.56039,
+    14.87197
+],
+  "geometry": {"coordinates":[102.56039,14.87197],"type":"Point"}
+}

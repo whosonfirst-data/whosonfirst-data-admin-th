@@ -1,0 +1,70 @@
+{
+  "id": 1344005753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.02833,16.41439,102.02833,16.41439",
+    "geom:latitude":16.41439,
+    "geom:longitude":102.02833,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Ban Don Tao Lek",
+    "gn:country_code":"TH",
+    "gn:dem":223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8370039,
+    "gn:latitude":16.41439,
+    "gn:longitude":102.02833,
+    "gn:modification_date":"2012-08-06",
+    "gn:name":"Ban Don Tao Lek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e14\u0e2d\u0e19\u0e40\u0e15\u0e32\u0e40\u0e2b\u0e25\u0e47\u0e01"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678825,
+        1108731745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8370039
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"e2217cc8f3a3ba1317e785376c67f112",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731745,
+            "locality_id":1344005753,
+            "region_id":85678825
+        }
+    ],
+    "wof:id":1344005753,
+    "wof:lastmodified":1537705502,
+    "wof:name":"Ban Don Tao Lek",
+    "wof:parent_id":1108731745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.02833,
+    16.41439,
+    102.02833,
+    16.41439
+],
+  "geometry": {"coordinates":[102.02833,16.41439],"type":"Point"}
+}

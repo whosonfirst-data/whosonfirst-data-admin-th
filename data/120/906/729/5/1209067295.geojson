@@ -1,0 +1,64 @@
+{
+  "id": 1209067295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.97967,14.7995,103.97967,14.7995",
+    "geom:latitude":14.7995,
+    "geom:longitude":103.97967,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Ban Kung",
+    "gn:country_code":"TH",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8703121,
+    "gn:latitude":14.7995,
+    "gn:longitude":103.97967,
+    "gn:modification_date":"2014-02-17",
+    "gn:name":"Ban Kung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e01\u0e38\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8703121
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"16754c7ce001257d7d658c4aee1da171",
+    "wof:hierarchy":[
+        {
+            "country_id":85632293,
+            "locality_id":1209067295
+        }
+    ],
+    "wof:id":1209067295,
+    "wof:lastmodified":1537705922,
+    "wof:name":"Ban Kung",
+    "wof:parent_id":85632293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.97967,
+    14.7995,
+    103.97967,
+    14.7995
+],
+  "geometry": {"coordinates":[103.97967,14.7995],"type":"Point"}
+}

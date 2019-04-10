@@ -1,0 +1,70 @@
+{
+  "id": 1209789959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.93911,16.88195,103.93911,16.88195",
+    "geom:latitude":16.88195,
+    "geom:longitude":103.93911,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Chomphu Phan",
+    "gn:country_code":"TH",
+    "gn:dem":314,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7917516,
+    "gn:latitude":16.88195,
+    "gn:longitude":103.93911,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Chomphu Phan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e0a\u0e21\u0e20\u0e39\u0e1e\u0e32\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678863,
+        1108731441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7917516
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"0489c36f9d9c3e64cff14face13d630f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731441,
+            "locality_id":1209789959,
+            "region_id":85678863
+        }
+    ],
+    "wof:id":1209789959,
+    "wof:lastmodified":1537704878,
+    "wof:name":"Ban Chomphu Phan",
+    "wof:parent_id":1108731441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.93911,
+    16.88195,
+    103.93911,
+    16.88195
+],
+  "geometry": {"coordinates":[103.93911,16.88195],"type":"Point"}
+}

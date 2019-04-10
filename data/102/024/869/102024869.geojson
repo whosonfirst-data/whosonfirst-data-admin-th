@@ -1,0 +1,119 @@
+{
+  "id": 102024869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000011,
+    "geom:bbox":"101.467112471,12.6148769159,101.482441455,12.6215759908",
+    "geom:latitude":12.618139,
+    "geom:longitude":101.472908,
+    "iso:country":"TH",
+    "lbl:latitude":12.62006,
+    "lbl:longitude":101.468609,
+    "mps:latitude":12.62006,
+    "mps:longitude":101.468609,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0632\u064a\u0631\u0629 \u0643\u0648\u0647 \u0633\u0645\u064a\u062a"
+    ],
+    "name:deu_x_preferred":[
+        "Ko Samet"
+    ],
+    "name:fra_x_preferred":[
+        "Ko Samet"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d5 \u05e1\u05d0\u05de\u05d8"
+    ],
+    "name:ita_x_preferred":[
+        "Ko Samet"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30e1\u30c3\u30c8\u5cf6"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0ac\uba67 \uc12c"
+    ],
+    "name:nld_x_preferred":[
+        "Ko Samet"
+    ],
+    "name:pol_x_preferred":[
+        "Ko Samet"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043c\u0435\u0442"
+    ],
+    "name:spa_x_preferred":[
+        "Ko Samet"
+    ],
+    "name:swe_x_preferred":[
+        "Koh Samet"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e01\u0e32\u0e30\u0e40\u0e2a\u0e21\u0e47\u0e14"
+    ],
+    "name:tur_x_preferred":[
+        "Ko Samet"
+    ],
+    "name:unk_x_variant":[
+        "Ko Samet Island"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c99\u7f8e\u5c9b"
+    ],
+    "name:zho_yue_x_preferred":[
+        "\u6c99\u7f8e\u5cf6"
+    ],
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Ko Samet",
+    "qs:loc_lc":"1606720",
+    "qs:pop":0,
+    "qs:source":"Aquattroshapes",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":896,
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        85632293
+    ],
+    "wof:breaches":[
+        102024905
+    ],
+    "wof:concordances":{
+        "gn:id":1606720,
+        "wd:id":"Q1073840",
+        "wk:page":"Ko Samet"
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"7f52028f184078e23a10ad448a30ce05",
+    "wof:hierarchy":[
+        {
+            "country_id":85632293,
+            "locality_id":102024869
+        }
+    ],
+    "wof:id":102024869,
+    "wof:lastmodified":1527636437,
+    "wof:name":"Ko Samet",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.46711247070117,
+    12.61487691589998,
+    101.48244145493398,
+    12.62157599079906
+],
+  "geometry": {"coordinates":[[[[101.47384643599996,12.61487691589998],[101.47247314500002,12.61487691589998],[101.47247314500002,12.61621705229997],[101.47384643599996,12.61621705229997],[101.47521972699998,12.61621705229997],[101.47521972699998,12.61487691589998],[101.47384643599996,12.61487691589998]]],[[[101.48244145493398,12.61712584041389],[101.48071289100001,12.61653541580975],[101.48071289100001,12.61889730400001],[101.48111954179127,12.61889730400001],[101.48244145493398,12.61712584041389]]],[[[101.46972656200005,12.61889730400001],[101.4677157242386,12.61889730400001],[101.46711247070117,12.62157599079906],[101.46972656200005,12.62095780007991],[101.46972656200005,12.61889730400001]]]],"type":"MultiPolygon"}
+}

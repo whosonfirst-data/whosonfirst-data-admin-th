@@ -1,0 +1,73 @@
+{
+  "id": 1276305807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.64453,16.9155,101.64453,16.9155",
+    "geom:latitude":16.9155,
+    "geom:longitude":101.64453,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ban Wang Kwang",
+    "gn:country_code":"TH",
+    "gn:dem":586,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1597310,
+    "gn:latitude":16.9155,
+    "gn:longitude":101.64453,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"Ban Wang Kwang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e27\u0e31\u0e07\u0e01\u0e27\u0e32\u0e07"
+    ],
+    "name:und_x_variant":[
+        "Ban Wang Kuang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678673,
+        1108802687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1597310
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"7a3c58c31a39ee21f994595d9315ee98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802687,
+            "locality_id":1276305807,
+            "region_id":85678673
+        }
+    ],
+    "wof:id":1276305807,
+    "wof:lastmodified":1537703364,
+    "wof:name":"Ban Wang Kwang",
+    "wof:parent_id":1108802687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.64453,
+    16.9155,
+    101.64453,
+    16.9155
+],
+  "geometry": {"coordinates":[101.64453,16.9155],"type":"Point"}
+}

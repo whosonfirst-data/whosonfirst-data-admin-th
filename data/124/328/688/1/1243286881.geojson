@@ -1,0 +1,70 @@
+{
+  "id": 1243286881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.003,7.75189,100.003,7.75189",
+    "geom:latitude":7.75189,
+    "geom:longitude":100.003,
+    "gn:admin1_code":"66.0",
+    "gn:asciiname":"Ban Khok Sai Phong",
+    "gn:country_code":"TH",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8204236,
+    "gn:latitude":7.75189,
+    "gn:longitude":100.003,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Ban Khok Sai Phong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e42\u0e04\u0e01\u0e17\u0e23\u0e32\u0e22\u0e1c\u0e2d\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678591,
+        1108731403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8204236
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"6fb04f120f202a93a6e1a38d3fbaaf23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731403,
+            "locality_id":1243286881,
+            "region_id":85678591
+        }
+    ],
+    "wof:id":1243286881,
+    "wof:lastmodified":1537705085,
+    "wof:name":"Ban Khok Sai Phong",
+    "wof:parent_id":1108731403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.003,
+    7.75189,
+    100.003,
+    7.75189
+],
+  "geometry": {"coordinates":[100.003,7.75189],"type":"Point"}
+}

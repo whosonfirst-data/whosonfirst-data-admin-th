@@ -1,0 +1,74 @@
+{
+  "id": 1243189193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.69721,12.75133,101.69721,12.75133",
+    "geom:latitude":12.75133,
+    "geom:longitude":101.69721,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Ban Thung Khwai Kin",
+    "gn:country_code":"TH",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1612255,
+    "gn:latitude":12.75133,
+    "gn:longitude":101.69721,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Thung Khwai Kin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e17\u0e38\u0e48\u0e07\u0e04\u0e27\u0e32\u0e22\u0e01\u0e34\u0e19"
+    ],
+    "name:und_x_variant":[
+        "Ban Thung Kwaikin",
+        "Ban Thung Khwai Kin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678809,
+        890465677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1612255
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"9ee94486cfcbaa4b1c017db08b2601c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465677,
+            "locality_id":1243189193,
+            "region_id":85678809
+        }
+    ],
+    "wof:id":1243189193,
+    "wof:lastmodified":1537703691,
+    "wof:name":"Ban Thung Khwai Kin",
+    "wof:parent_id":890465677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.69721,
+    12.75133,
+    101.69721,
+    12.75133
+],
+  "geometry": {"coordinates":[101.69721,12.75133],"type":"Point"}
+}

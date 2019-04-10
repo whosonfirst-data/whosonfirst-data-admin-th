@@ -1,0 +1,70 @@
+{
+  "id": 1210041541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.01544,8.53369,99.01544,8.53369",
+    "geom:latitude":8.53369,
+    "geom:longitude":99.01544,
+    "gn:admin1_code":"60.0",
+    "gn:asciiname":"Ban Na Khao",
+    "gn:country_code":"TH",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8325843,
+    "gn:latitude":8.53369,
+    "gn:longitude":99.01544,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Ban Na Khao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e19\u0e49\u0e32\u0e40\u0e02\u0e32"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678581,
+        1108731217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8325843
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"200a9d9dbbedfd926317bffbe98a17ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731217,
+            "locality_id":1210041541,
+            "region_id":85678581
+        }
+    ],
+    "wof:id":1210041541,
+    "wof:lastmodified":1537705390,
+    "wof:name":"Ban Na Khao",
+    "wof:parent_id":1108731217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.01544,
+    8.53369,
+    99.01544,
+    8.53369
+],
+  "geometry": {"coordinates":[99.01544,8.53369],"type":"Point"}
+}

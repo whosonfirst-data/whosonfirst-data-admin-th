@@ -1,0 +1,75 @@
+{
+  "id": 890465829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-11-10",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.52388,13.73058,100.52388,13.73058",
+    "geom:latitude":13.73058,
+    "geom:longitude":100.52388,
+    "gn:country":"TH",
+    "gn:fcode":"ADM2",
+    "gn:pop":0,
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:tha_x_preferred":[
+        "\u0e40\u0e02\u0e15\u0e1a\u0e32\u0e07\u0e23\u0e31\u0e01"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e32\u0e07\u0e23\u0e31\u0e01"
+    ],
+    "name:unk_x_variant":[
+        "Amphoe Bang Rak"
+    ],
+    "qs:name":"Khet Bang Rak",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":765,
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1619277,
+        "qs:id":1151825,
+        "wd:id":"Q302711",
+        "wk:page":"Bang Rak District"
+    },
+    "wof:country":"TH",
+    "wof:created":1469053536,
+    "wof:geomhash":"1386f82341422d54929b13e365097542",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465829,
+            "region_id":85678739
+        }
+    ],
+    "wof:id":890465829,
+    "wof:lastmodified":1527736646,
+    "wof:name":"Khet Bang Rak",
+    "wof:parent_id":85678739,
+    "wof:placetype":"county",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.52388,
+    13.73058,
+    100.52388,
+    13.73058
+],
+  "geometry": {"coordinates":[100.52388000000001,13.73058],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1210045951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.68333,9.3,99.68333,9.3",
+    "geom:latitude":9.3,
+    "geom:longitude":99.68333,
+    "gn:admin1_code":"60.0",
+    "gn:asciiname":"Ban Rong Than",
+    "gn:country_code":"TH",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1117909,
+    "gn:latitude":9.3,
+    "gn:longitude":99.68333,
+    "gn:modification_date":"1994-04-10",
+    "gn:name":"Ban Rong Than",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678581,
+        1108731275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1117909
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"2c3a981c54b4ec3dc682c1630ce8e306",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731275,
+            "locality_id":1210045951,
+            "region_id":85678581
+        }
+    ],
+    "wof:id":1210045951,
+    "wof:lastmodified":1536378972,
+    "wof:name":"Ban Rong Than",
+    "wof:parent_id":1108731275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.68333,
+    9.3,
+    99.68333,
+    9.3
+],
+  "geometry": {"coordinates":[99.68333,9.3],"type":"Point"}
+}

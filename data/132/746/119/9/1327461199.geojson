@@ -1,0 +1,70 @@
+{
+  "id": 1327461199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.17592,14.87469,100.17592,14.87469",
+    "geom:latitude":14.87469,
+    "geom:longitude":100.17592,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Ban Kum Khok",
+    "gn:country_code":"TH",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1617313,
+    "gn:latitude":14.87469,
+    "gn:longitude":100.17592,
+    "gn:modification_date":"2014-01-08",
+    "gn:name":"Ban Kum Khok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e01\u0e38\u0e48\u0e21\u0e42\u0e04\u0e01"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678679,
+        1108731271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1617313
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"17a4d81e1ca3476c0cbe58a22a92b715",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731271,
+            "locality_id":1327461199,
+            "region_id":85678679
+        }
+    ],
+    "wof:id":1327461199,
+    "wof:lastmodified":1537704041,
+    "wof:name":"Ban Kum Khok",
+    "wof:parent_id":1108731271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.17592,
+    14.87469,
+    100.17592,
+    14.87469
+],
+  "geometry": {"coordinates":[100.17592,14.87469],"type":"Point"}
+}

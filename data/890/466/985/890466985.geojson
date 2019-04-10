@@ -1,0 +1,66 @@
+{
+  "id": 890466985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-11-10",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.0410745,13.843413,100.0410745,13.843413",
+    "geom:latitude":13.843413,
+    "geom:longitude":100.041074,
+    "gp:adm0":23424960,
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "qs:name":"Mueang Akhon Pathom",
+    "qs:name_adm0":"Thailand",
+    "qs:name_adm1":"Nathon Pathon",
+    "qs:photos":114,
+    "qs:photos_1k":23,
+    "qs:photos_9k":7,
+    "qs:photos_9r":8,
+    "qs:photos_all":1540,
+    "qs:photos_sr":3,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28341543,
+        "qs:id":1154747
+    },
+    "wof:country":"TH",
+    "wof:created":1469053607,
+    "wof:geomhash":"3ce899593c10d51c36d8763488a27cb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466985,
+            "region_id":85678747
+        }
+    ],
+    "wof:id":890466985,
+    "wof:lastmodified":1478801250,
+    "wof:name":"Mueang Akhon Pathom",
+    "wof:parent_id":85678747,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.04107449999998,
+    13.843413,
+    100.04107449999998,
+    13.843413
+],
+  "geometry": {"coordinates":[100.04107449999998,13.843413],"type":"Point"}
+}

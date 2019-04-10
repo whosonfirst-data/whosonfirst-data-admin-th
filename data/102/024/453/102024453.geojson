@@ -1,0 +1,110 @@
+{
+  "id": 102024453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000257,
+    "geom:bbox":"99.3018179122,8.88145381789,99.3200082516,8.8995438376",
+    "geom:latitude":8.890499,
+    "geom:longitude":99.310913,
+    "iso:country":"TH",
+    "lbl:latitude":8.890499,
+    "lbl:longitude":99.310913,
+    "mps:latitude":8.890499,
+    "mps:longitude":99.310913,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bpy_x_preferred":[
+        "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ac\u09be\u09a8 \u09a8\u09be \u09a6\u09cb\u09af\u09bc\u09c7\u09ae"
+    ],
+    "name:deu_x_preferred":[
+        "Amphoe Ban Na Doem"
+    ],
+    "name:eng_x_preferred":[
+        "Ban Na Doem"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30fc\u30f3\u30ca\u30fc\u30c9\u30a5\u30fc\u30e0\u90e1"
+    ],
+    "name:por_x_preferred":[
+        "Ban Na Doem"
+    ],
+    "name:ron_x_preferred":[
+        "Districtul Ban Na Doem"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e1a\u0e49\u0e32\u0e19\u0e19\u0e32\u0e40\u0e14\u0e34\u0e21"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e19\u0e32\u0e40\u0e14\u0e34\u0e21"
+    ],
+    "name:unk_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e19\u0e32\u0e40\u0e14\u0e34\u0e21"
+    ],
+    "name:vie_x_preferred":[
+        "Ban Na Doem"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Ban Na Doem K\u016bn"
+    ],
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Ban Na Doem",
+    "qs:loc_lc":"1156244",
+    "qs:pop":0,
+    "qs:source":"Aquattroshapes",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":319,
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"07cefa82-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":1156244,
+        "gp:id":1211430,
+        "qs:id":274991,
+        "qs_pg:id":274991,
+        "wd:id":"Q475141"
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"2d09905f25542c1298bd0aa04aef6352",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "locality_id":102024453,
+            "region_id":85678581
+        }
+    ],
+    "wof:id":102024453,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527636438,
+    "wof:name":"Ban Na Doem",
+    "wof:parent_id":85678581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.30181791215212,
+    8.88145381789457,
+    99.32000825157603,
+    8.89954383759962
+],
+  "geometry": {"coordinates":[[[99.31267994546492,8.88162613271307],[99.31090546228445,8.88145381789457],[99.30913127161575,8.88162908946222],[99.30742554979419,8.88214521246843],[99.30585384273725,8.88298235407797],[99.3044765476629,8.88410834550767],[99.30334659245464,8.88547991793628],[99.30250740179368,8.88704436493667],[99.3019912282012,8.88874156759952],[99.30181791215212,8.8905063045783],[99.30199411897725,8.89227075832567],[99.30251308197295,8.8939671212367],[99.30335486170732,8.89553020155282],[99.3044871116674,8.89689992887016],[99.30586632091875,8.89802366293142],[99.30743948608445,8.89885821692809],[99.30914614840721,8.89937151750205],[99.31092071758805,8.89954383759962],[99.31269499302776,8.89936855475413],[99.31440078548617,8.89885240563034],[99.31597253829149,8.89801522703954],[99.31734984726104,8.89688919339498],[99.31847978239593,8.89551757994469],[99.31931892207091,8.89395309936113],[99.31983502152723,8.89225587566621],[99.32000825157603,8.89049113340846],[99.3198319599796,8.88872669093881],[99.31931292634717,8.88703035414538],[99.31847110086441,8.88546731081053],[99.3173388370093,8.88409762570812],[99.31595964783115,8.88297393266853],[99.31438653365133,8.88213941225504],[99.31267994546492,8.88162613271307]]],"type":"Polygon"}
+}

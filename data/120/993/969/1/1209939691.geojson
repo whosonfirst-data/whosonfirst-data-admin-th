@@ -1,0 +1,74 @@
+{
+  "id": 1209939691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.57514,12.5935,102.57514,12.5935",
+    "geom:latitude":12.5935,
+    "geom:longitude":102.57514,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"Ban Muen Dan",
+    "gn:country_code":"TH",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1949467,
+    "gn:latitude":12.5935,
+    "gn:longitude":102.57514,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ban Muen Dan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e21\u0e37\u0e48\u0e19\u0e14\u0e48\u0e32\u0e19"
+    ],
+    "name:und_x_variant":[
+        "Ban Mun Dan",
+        "Ban Muen Dan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678813,
+        1108731191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1949467
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"ab198eb0f38e722e5533900615a492bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731191,
+            "locality_id":1209939691,
+            "region_id":85678813
+        }
+    ],
+    "wof:id":1209939691,
+    "wof:lastmodified":1537704298,
+    "wof:name":"Ban Muen Dan",
+    "wof:parent_id":1108731191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.57514,
+    12.5935,
+    102.57514,
+    12.5935
+],
+  "geometry": {"coordinates":[102.57514,12.5935],"type":"Point"}
+}

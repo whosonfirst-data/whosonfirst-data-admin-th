@@ -1,0 +1,67 @@
+{
+  "id": 1226367419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.3,13.71667,102.3,13.71667",
+    "geom:latitude":13.71667,
+    "geom:longitude":102.3,
+    "gn:admin1_code":"80.0",
+    "gn:asciiname":"Ban Hoi",
+    "gn:country_code":"TH",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1603555,
+    "gn:latitude":13.71667,
+    "gn:longitude":102.3,
+    "gn:modification_date":"2009-06-01",
+    "gn:name":"Ban Hoi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678805,
+        1108732073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1603555
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"a561a4d7e499d08855af9f79bec664ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108732073,
+            "locality_id":1226367419,
+            "region_id":85678805
+        }
+    ],
+    "wof:id":1226367419,
+    "wof:lastmodified":1536758503,
+    "wof:name":"Ban Hoi",
+    "wof:parent_id":1108732073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.3,
+    13.71667,
+    102.3,
+    13.71667
+],
+  "geometry": {"coordinates":[102.3,13.71667],"type":"Point"}
+}

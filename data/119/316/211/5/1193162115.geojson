@@ -1,0 +1,74 @@
+{
+  "id": 1193162115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.05137,13.05096,100.05137,13.05096",
+    "geom:latitude":13.05096,
+    "geom:longitude":100.05137,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"Ban Don Makham Chang",
+    "gn:country_code":"TH",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1601525,
+    "gn:latitude":13.05096,
+    "gn:longitude":100.05137,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Don Makham Chang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e14\u0e2d\u0e19\u0e21\u0e30\u0e02\u0e32\u0e21\u0e0a\u0e49\u0e32\u0e07"
+    ],
+    "name:und_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e14\u0e2d\u0e19\u0e21\u0e30\u0e02\u0e32\u0e21\u0e0a\u0e49\u0e32\u0e07",
+        "Ban Makham Chang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678753,
+        890466851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1601525
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"95a0231ad305e6f0abd2aaef85a14ded",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466851,
+            "locality_id":1193162115,
+            "region_id":85678753
+        }
+    ],
+    "wof:id":1193162115,
+    "wof:lastmodified":1537703515,
+    "wof:name":"Ban Don Makham Chang",
+    "wof:parent_id":890466851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.05137,
+    13.05096,
+    100.05137,
+    13.05096
+],
+  "geometry": {"coordinates":[100.05137000000001,13.05096],"type":"Point"}
+}

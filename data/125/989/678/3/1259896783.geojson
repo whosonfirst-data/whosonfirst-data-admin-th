@@ -1,0 +1,67 @@
+{
+  "id": 1259896783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.18333,10.7,99.18333,10.7",
+    "geom:latitude":10.7,
+    "geom:longitude":99.18333,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Ban Lan Tao",
+    "gn:country_code":"TH",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1156669,
+    "gn:latitude":10.7,
+    "gn:longitude":99.18333,
+    "gn:modification_date":"1994-04-06",
+    "gn:name":"Ban Lan Tao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678559,
+        1108731983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1156669
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"be0c331ef3c98cd807367d688bfe5203",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731983,
+            "locality_id":1259896783,
+            "region_id":85678559
+        }
+    ],
+    "wof:id":1259896783,
+    "wof:lastmodified":1536760169,
+    "wof:name":"Ban Lan Tao",
+    "wof:parent_id":1108731983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.18333,
+    10.7,
+    99.18333,
+    10.7
+],
+  "geometry": {"coordinates":[99.18333,10.7],"type":"Point"}
+}

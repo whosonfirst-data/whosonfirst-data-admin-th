@@ -1,0 +1,82 @@
+{
+  "id": 102025697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":21997.270829,
+    "geom:bbox":"100.474090576,13.7767339891,100.475463867,13.7780677681",
+    "geom:latitude":13.777401,
+    "geom:longitude":100.474777,
+    "gn:latitude":13.76266,
+    "gn:longitude":100.47798,
+    "iso:country":"TH",
+    "lbl:latitude":13.777401,
+    "lbl:longitude":100.474777,
+    "mps:latitude":13.777401,
+    "mps:longitude":100.474777,
+    "mz:hierarchy_label":1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e32\u0e07\u0e01\u0e2d\u0e01\u0e19\u0e49\u0e2d\u0e22"
+    ],
+    "name:unk_x_variant":[
+        "Amphoe Bangkok Noi"
+    ],
+    "qs:a0":"Thailand",
+    "qs:a1":"*Bangkok",
+    "qs:a1r":"*",
+    "qs:a2":"Bangkok Noi",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Bangkok Noi",
+    "qs:loc_alt":"Bangkok Noi",
+    "qs:loc_lc":"1619460",
+    "qs:pop":0,
+    "qs:source":"Aquattroshapes",
+    "qs:type":"County",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678739,
+        890465843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1619460,
+        "gp:id":28341383,
+        "qs:id":1151987
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"7e9d4bbf1f9e8c67c84cf4a6d1169c44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465843,
+            "locality_id":102025697,
+            "region_id":85678739
+        }
+    ],
+    "wof:id":102025697,
+    "wof:lastmodified":1501221071,
+    "wof:name":"Bangkok Noi",
+    "wof:parent_id":890465843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.474090576,
+    13.7767339891,
+    100.475463867,
+    13.7780677681
+],
+  "geometry": {"coordinates":[[[100.47409057599999,13.7767339891],[100.47409057599999,13.7780677681],[100.475463867,13.7780677681],[100.475463867,13.7767339891],[100.47409057599999,13.7767339891]]],"type":"Polygon"}
+}

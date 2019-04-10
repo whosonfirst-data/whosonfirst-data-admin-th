@@ -1,0 +1,67 @@
+{
+  "id": 1210041625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.94726,13.07519,99.94726,13.07519",
+    "geom:latitude":13.07519,
+    "geom:longitude":99.94726,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"Ton Mamuang",
+    "gn:country_code":"TH",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8081328,
+    "gn:latitude":13.07519,
+    "gn:longitude":99.94726,
+    "gn:modification_date":"2011-12-12",
+    "gn:name":"Ton Mamuang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678753,
+        890466851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8081328
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"dc0483237229e6cbd252c2bb26560bae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466851,
+            "locality_id":1210041625,
+            "region_id":85678753
+        }
+    ],
+    "wof:id":1210041625,
+    "wof:lastmodified":1536383328,
+    "wof:name":"Ton Mamuang",
+    "wof:parent_id":890466851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.94726,
+    13.07519,
+    99.94726,
+    13.07519
+],
+  "geometry": {"coordinates":[99.94726,13.07519],"type":"Point"}
+}

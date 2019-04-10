@@ -1,0 +1,65 @@
+{
+  "id": 1344173969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.26667,10.41667,99.26667,10.41667",
+    "geom:latitude":10.41667,
+    "geom:longitude":99.26667,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Ban Hin Dat",
+    "gn:country_code":"TH",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1157577,
+    "gn:latitude":10.41667,
+    "gn:longitude":99.26667,
+    "gn:modification_date":"1994-04-06",
+    "gn:name":"Ban Hin Dat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632293,
+        890466037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1157577
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"dd17759a81f422f54034b490056815df",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632293,
+            "county_id":890466037,
+            "locality_id":1344173969,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1344173969,
+    "wof:lastmodified":1536712092,
+    "wof:name":"Ban Hin Dat",
+    "wof:parent_id":890466037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.26667,
+    10.41667,
+    99.26667,
+    10.41667
+],
+  "geometry": {"coordinates":[99.26667,10.41667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343834623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.36667,17.3,100.36667,17.3",
+    "geom:latitude":17.3,
+    "geom:longitude":100.36667,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Ban Takhian Tia",
+    "gn:country_code":"TH",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1598011,
+    "gn:latitude":17.3,
+    "gn:longitude":100.36667,
+    "gn:modification_date":"1994-04-10",
+    "gn:name":"Ban Takhian Tia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678647,
+        890466287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1598011
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"fcdd07a00f84332b9903e18920617d9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466287,
+            "locality_id":1343834623,
+            "region_id":85678647
+        }
+    ],
+    "wof:id":1343834623,
+    "wof:lastmodified":1536704226,
+    "wof:name":"Ban Takhian Tia",
+    "wof:parent_id":890466287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.36667,
+    17.3,
+    100.36667,
+    17.3
+],
+  "geometry": {"coordinates":[100.36667,17.3],"type":"Point"}
+}

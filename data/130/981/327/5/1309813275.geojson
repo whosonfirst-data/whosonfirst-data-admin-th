@@ -1,0 +1,67 @@
+{
+  "id": 1309813275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.8,6.23333,101.8,6.23333",
+    "geom:latitude":6.23333,
+    "geom:longitude":101.8,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Ban Chuap",
+    "gn:country_code":"TH",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1604088,
+    "gn:latitude":6.23333,
+    "gn:longitude":101.8,
+    "gn:modification_date":"1994-04-10",
+    "gn:name":"Ban Chuap",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678885,
+        1108731251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1604088
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"d51ed21babd1fbefc7eda96a4e17c0e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731251,
+            "locality_id":1309813275,
+            "region_id":85678885
+        }
+    ],
+    "wof:id":1309813275,
+    "wof:lastmodified":1536920829,
+    "wof:name":"Ban Chuap",
+    "wof:parent_id":1108731251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.8,
+    6.23333,
+    101.8,
+    6.23333
+],
+  "geometry": {"coordinates":[101.8,6.23333],"type":"Point"}
+}

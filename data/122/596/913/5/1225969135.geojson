@@ -1,0 +1,74 @@
+{
+  "id": 1225969135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.91497,6.91894,99.91497,6.91894",
+    "geom:latitude":6.91894,
+    "geom:longitude":99.91497,
+    "gn:admin1_code":"67.0",
+    "gn:asciiname":"Ban Udai",
+    "gn:country_code":"TH",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1154110,
+    "gn:latitude":6.91894,
+    "gn:longitude":99.91497,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Udai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2d\u0e38\u0e44\u0e14"
+    ],
+    "name:und_x_variant":[
+        "Ban U Rai",
+        "Ban Udai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678595,
+        1108731401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1154110
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"55c371d6b1ad8bb07b5bc381677dad58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731401,
+            "locality_id":1225969135,
+            "region_id":85678595
+        }
+    ],
+    "wof:id":1225969135,
+    "wof:lastmodified":1537703023,
+    "wof:name":"Ban Udai",
+    "wof:parent_id":1108731401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.91497,
+    6.91894,
+    99.91497,
+    6.91894
+],
+  "geometry": {"coordinates":[99.91497,6.91894],"type":"Point"}
+}

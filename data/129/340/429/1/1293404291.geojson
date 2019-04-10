@@ -1,0 +1,73 @@
+{
+  "id": 1293404291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.25683,8.03247,100.25683,8.03247",
+    "geom:latitude":8.03247,
+    "geom:longitude":100.25683,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Ban I Mon",
+    "gn:country_code":"TH",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1603080,
+    "gn:latitude":8.03247,
+    "gn:longitude":100.25683,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Ban I Mon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2d\u0e34\u0e21\u0e2d\u0e0d"
+    ],
+    "name:und_x_variant":[
+        "Ban I Mon Ok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678565,
+        890466369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1603080
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"89ecdf577aebc661839f4dae2f0764d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466369,
+            "locality_id":1293404291,
+            "region_id":85678565
+        }
+    ],
+    "wof:id":1293404291,
+    "wof:lastmodified":1537703571,
+    "wof:name":"Ban I Mon",
+    "wof:parent_id":890466369,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.25683,
+    8.03247,
+    100.25683,
+    8.03247
+],
+  "geometry": {"coordinates":[100.25682999999999,8.03247],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1225973867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.53319,14.03486,101.53319,14.03486",
+    "geom:latitude":14.03486,
+    "geom:longitude":101.53319,
+    "gn:admin1_code":"74.0",
+    "gn:asciiname":"Ban Kho",
+    "gn:country_code":"TH",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1617742,
+    "gn:latitude":14.03486,
+    "gn:longitude":101.53319,
+    "gn:modification_date":"2014-04-05",
+    "gn:name":"Ban Kho",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e04\u0e49\u0e2d"
+    ],
+    "name:und_x_variant":[
+        "Ban Ko",
+        "Ban Kho (1)",
+        "Ban Kho"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678711,
+        1108731777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1617742
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"df7e8ff2821e7e30b57c4b332bc794cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731777,
+            "locality_id":1225973867,
+            "region_id":85678711
+        }
+    ],
+    "wof:id":1225973867,
+    "wof:lastmodified":1537704072,
+    "wof:name":"Ban Kho",
+    "wof:parent_id":1108731777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.53319,
+    14.03486,
+    101.53319,
+    14.03486
+],
+  "geometry": {"coordinates":[101.53319,14.03486],"type":"Point"}
+}

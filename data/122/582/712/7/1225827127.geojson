@@ -1,0 +1,70 @@
+{
+  "id": 1225827127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.50633,15.85161,100.50633,15.85161",
+    "geom:latitude":15.85161,
+    "geom:longitude":100.50633,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ban Chik Yao Mai Sung",
+    "gn:country_code":"TH",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8345568,
+    "gn:latitude":15.85161,
+    "gn:longitude":100.50633,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Ban Chik Yao Mai Sung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e08\u0e34\u0e01\u0e22\u0e32\u0e27\u0e44\u0e21\u0e49\u0e0b\u0e38\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678715,
+        1108802701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8345568
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"60ed0b256a7013ea279cd51de3e5e300",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802701,
+            "locality_id":1225827127,
+            "region_id":85678715
+        }
+    ],
+    "wof:id":1225827127,
+    "wof:lastmodified":1537705478,
+    "wof:name":"Ban Chik Yao Mai Sung",
+    "wof:parent_id":1108802701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.50633,
+    15.85161,
+    100.50633,
+    15.85161
+],
+  "geometry": {"coordinates":[100.50633000000001,15.85161],"type":"Point"}
+}

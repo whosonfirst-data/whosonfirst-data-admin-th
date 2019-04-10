@@ -1,0 +1,70 @@
+{
+  "id": 1243405333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.2555,14.89292,102.2555,14.89292",
+    "geom:latitude":14.89292,
+    "geom:longitude":102.2555,
+    "gn:admin1_code":"27",
+    "gn:asciiname":"Ban Mai Na Niyom",
+    "gn:country_code":"TH",
+    "gn:dem":212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9108071,
+    "gn:latitude":14.89292,
+    "gn:longitude":102.2555,
+    "gn:modification_date":"2014-06-07",
+    "gn:name":"Ban Mai Na Niyom",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e43\u0e2b\u0e21\u0e48\u0e19\u0e32\u0e19\u0e34\u0e22\u0e21"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678841,
+        890467485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9108071
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"25d8497cdb086635ba4f28b255827371",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890467485,
+            "locality_id":1243405333,
+            "region_id":85678841
+        }
+    ],
+    "wof:id":1243405333,
+    "wof:lastmodified":1537706180,
+    "wof:name":"Ban Mai Na Niyom",
+    "wof:parent_id":890467485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.2555,
+    14.89292,
+    102.2555,
+    14.89292
+],
+  "geometry": {"coordinates":[102.2555,14.89292],"type":"Point"}
+}

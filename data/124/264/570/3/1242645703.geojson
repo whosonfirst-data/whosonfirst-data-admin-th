@@ -1,0 +1,70 @@
+{
+  "id": 1242645703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.11356,16.71556,104.11356,16.71556",
+    "geom:latitude":16.71556,
+    "geom:longitude":104.11356,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Ban Thung Kadao",
+    "gn:country_code":"TH",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8654387,
+    "gn:latitude":16.71556,
+    "gn:longitude":104.11356,
+    "gn:modification_date":"2013-12-17",
+    "gn:name":"Ban Thung Kadao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e17\u0e38\u0e48\u0e07\u0e01\u0e30\u0e40\u0e14\u0e32"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678831,
+        1108731369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8654387
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"6515584299780f0c62cf598b84901fb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731369,
+            "locality_id":1242645703,
+            "region_id":85678831
+        }
+    ],
+    "wof:id":1242645703,
+    "wof:lastmodified":1537705779,
+    "wof:name":"Ban Thung Kadao",
+    "wof:parent_id":1108731369,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.11356,
+    16.71556,
+    104.11356,
+    16.71556
+],
+  "geometry": {"coordinates":[104.11356000000001,16.71556],"type":"Point"}
+}

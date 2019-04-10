@@ -1,0 +1,70 @@
+{
+  "id": 1226406841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.83819,17.76575,103.83819,17.76575",
+    "geom:latitude":17.76575,
+    "geom:longitude":103.83819,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Phon Sawan",
+    "gn:country_code":"TH",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7676798,
+    "gn:latitude":17.76575,
+    "gn:longitude":103.83819,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Phon Sawan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1e\u0e23\u0e2a\u0e27\u0e23\u0e23\u0e04\u0e4c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678863,
+        1108731351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7676798
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"275e71735a96e44f1ba7bab2b43e86c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731351,
+            "locality_id":1226406841,
+            "region_id":85678863
+        }
+    ],
+    "wof:id":1226406841,
+    "wof:lastmodified":1537704599,
+    "wof:name":"Ban Phon Sawan",
+    "wof:parent_id":1108731351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.83819,
+    17.76575,
+    103.83819,
+    17.76575
+],
+  "geometry": {"coordinates":[103.83819,17.76575],"type":"Point"}
+}

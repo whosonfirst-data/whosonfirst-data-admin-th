@@ -1,0 +1,73 @@
+{
+  "id": 1226777009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.80911,15.71159,104.80911,15.71159",
+    "geom:latitude":15.71159,
+    "geom:longitude":104.80911,
+    "gn:admin1_code":"77.0",
+    "gn:asciiname":"Ban Don Wai",
+    "gn:country_code":"TH",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8148349,
+    "gn:latitude":15.71159,
+    "gn:longitude":104.80911,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Ban Don Wai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "Ban Don Wai"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e14\u0e2d\u0e19\u0e2b\u0e27\u0e32\u0e22"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678789,
+        1108731703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8148349
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"1ff2c35d2b4174881f2e5d7ffd824373",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731703,
+            "locality_id":1226777009,
+            "region_id":85678789
+        }
+    ],
+    "wof:id":1226777009,
+    "wof:lastmodified":1537705035,
+    "wof:name":"Ban Don Wai",
+    "wof:parent_id":1108731703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.80911,
+    15.71159,
+    104.80911,
+    15.71159
+],
+  "geometry": {"coordinates":[104.80911,15.71159],"type":"Point"}
+}

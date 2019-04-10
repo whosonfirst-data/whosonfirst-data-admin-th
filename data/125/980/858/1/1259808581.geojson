@@ -1,0 +1,73 @@
+{
+  "id": 1259808581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.79269,8.78058,98.79269,8.78058",
+    "geom:latitude":8.78058,
+    "geom:longitude":98.79269,
+    "gn:admin1_code":"60.0",
+    "gn:asciiname":"Ban Bang San",
+    "gn:country_code":"TH",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1158227,
+    "gn:latitude":8.78058,
+    "gn:longitude":98.79269,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Ban Bang San",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1a\u0e32\u0e07\u0e2a\u0e32\u0e19"
+    ],
+    "name:und_x_variant":[
+        "Ban Bang Sano"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678849,
+        890465923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1158227
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"ca7e3a3e255648cfcb1f46c36d5a6a64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465923,
+            "locality_id":1259808581,
+            "region_id":85678849
+        }
+    ],
+    "wof:id":1259808581,
+    "wof:lastmodified":1537703306,
+    "wof:name":"Ban Bang San",
+    "wof:parent_id":890465923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.79269,
+    8.78058,
+    98.79269,
+    8.78058
+],
+  "geometry": {"coordinates":[98.79268999999999,8.78058],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243306583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.80858,14.33872,100.80858,14.33872",
+    "geom:latitude":14.33872,
+    "geom:longitude":100.80858,
+    "gn:admin1_code":"37",
+    "gn:asciiname":"Ban Khok Kaphi",
+    "gn:country_code":"TH",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9028861,
+    "gn:latitude":14.33872,
+    "gn:longitude":100.80858,
+    "gn:modification_date":"2014-05-02",
+    "gn:name":"Ban Khok Kaphi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e42\u0e04\u0e01\u0e01\u0e30\u0e1e\u0e35\u0e49"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678735,
+        1108731621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9028861
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"66b14f7553041cceab3b579c4aa84203",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731621,
+            "locality_id":1243306583,
+            "region_id":85678735
+        }
+    ],
+    "wof:id":1243306583,
+    "wof:lastmodified":1537706111,
+    "wof:name":"Ban Khok Kaphi",
+    "wof:parent_id":1108731621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.80858,
+    14.33872,
+    100.80858,
+    14.33872
+],
+  "geometry": {"coordinates":[100.80858000000001,14.33872],"type":"Point"}
+}

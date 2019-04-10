@@ -1,0 +1,70 @@
+{
+  "id": 1226579133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.22,12.68111,101.22,12.68111",
+    "geom:latitude":12.68111,
+    "geom:longitude":101.22,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Ban Tha Banthuk",
+    "gn:country_code":"TH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7735965,
+    "gn:latitude":12.68111,
+    "gn:longitude":101.22,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Tha Banthuk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e17\u0e48\u0e32\u0e1a\u0e23\u0e23\u0e17\u0e38\u0e01"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678809,
+        1108802679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7735965
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"6059c996f36841aa647665f55af421bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802679,
+            "locality_id":1226579133,
+            "region_id":85678809
+        }
+    ],
+    "wof:id":1226579133,
+    "wof:lastmodified":1537704637,
+    "wof:name":"Ban Tha Banthuk",
+    "wof:parent_id":1108802679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.22,
+    12.68111,
+    101.22,
+    12.68111
+],
+  "geometry": {"coordinates":[101.22,12.68111],"type":"Point"}
+}

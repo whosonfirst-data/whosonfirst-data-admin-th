@@ -1,0 +1,70 @@
+{
+  "id": 1344173899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.46833,12.76389,101.46833,12.76389",
+    "geom:latitude":12.76389,
+    "geom:longitude":101.46833,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Ban Kaset Siri",
+    "gn:country_code":"TH",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7735719,
+    "gn:latitude":12.76389,
+    "gn:longitude":101.46833,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Kaset Siri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e01\u0e29\u0e15\u0e23\u0e28\u0e34\u0e23\u0e34"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678809,
+        1108802679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7735719
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"e810b9801170973bfa4bf91e58e1e76d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802679,
+            "locality_id":1344173899,
+            "region_id":85678809
+        }
+    ],
+    "wof:id":1344173899,
+    "wof:lastmodified":1537704633,
+    "wof:name":"Ban Kaset Siri",
+    "wof:parent_id":1108802679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.46833,
+    12.76389,
+    101.46833,
+    12.76389
+],
+  "geometry": {"coordinates":[101.46832999999999,12.76389],"type":"Point"}
+}

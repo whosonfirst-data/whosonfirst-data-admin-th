@@ -1,0 +1,70 @@
+{
+  "id": 1209931077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.90295,18.17561,103.90295,18.17561",
+    "geom:latitude":18.17561,
+    "geom:longitude":103.90295,
+    "gn:admin1_code":"81.0",
+    "gn:asciiname":"Ban Thung Sai Chok",
+    "gn:country_code":"TH",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1597511,
+    "gn:latitude":18.17561,
+    "gn:longitude":103.90295,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Ban Thung Sai Chok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e17\u0e38\u0e48\u0e07\u0e17\u0e23\u0e32\u0e22\u0e08\u0e01"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678895,
+        1108802747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1597511
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"ac8951b7f3e8c540edcff5afa76739f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802747,
+            "locality_id":1209931077,
+            "region_id":85678895
+        }
+    ],
+    "wof:id":1209931077,
+    "wof:lastmodified":1537703371,
+    "wof:name":"Ban Thung Sai Chok",
+    "wof:parent_id":1108802747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.90295,
+    18.17561,
+    103.90295,
+    18.17561
+],
+  "geometry": {"coordinates":[103.90295,18.17561],"type":"Point"}
+}

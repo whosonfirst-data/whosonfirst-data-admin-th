@@ -1,0 +1,69 @@
+{
+  "id": 890466925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-11-10",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.10144,12.624257,102.10144,12.624257",
+    "geom:latitude":12.624257,
+    "geom:longitude":102.10144,
+    "gp:adm0":23424960,
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "qs:name":"Mueang Chanthaburi",
+    "qs:name_adm0":"Thailand",
+    "qs:name_adm1":"Chanthaburi",
+    "qs:photos":97,
+    "qs:photos_1k":20,
+    "qs:photos_9k":3,
+    "qs:photos_9r":5,
+    "qs:photos_all":703,
+    "qs:photos_sr":3,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "wd:wordcount":264,
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28341372,
+        "qs:id":1119294,
+        "wd:id":"Q1935516",
+        "wk:page":"Mueang Chanthaburi District"
+    },
+    "wof:country":"TH",
+    "wof:created":1469053604,
+    "wof:geomhash":"f28ec7786812197d266e162577d190bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466925,
+            "region_id":85678799
+        }
+    ],
+    "wof:id":890466925,
+    "wof:lastmodified":1527793013,
+    "wof:name":"Mueang Chanthaburi",
+    "wof:parent_id":85678799,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.10144,
+    12.624257,
+    102.10144,
+    12.624257
+],
+  "geometry": {"coordinates":[102.10144,12.624257],"type":"Point"}
+}

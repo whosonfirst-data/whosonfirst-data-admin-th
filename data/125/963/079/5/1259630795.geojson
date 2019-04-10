@@ -1,0 +1,73 @@
+{
+  "id": 1259630795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.17644,15.11233,102.17644,15.11233",
+    "geom:latitude":15.11233,
+    "geom:longitude":102.17644,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Ban Kadon",
+    "gn:country_code":"TH",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1611971,
+    "gn:latitude":15.11233,
+    "gn:longitude":102.17644,
+    "gn:modification_date":"2014-06-04",
+    "gn:name":"Ban Kadon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e01\u0e30\u0e42\u0e14\u0e19"
+    ],
+    "name:und_x_variant":[
+        "Ban Wang Kadon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678841,
+        890466785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1611971
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"b6b775e05256be007cee6e7bb522d59c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466785,
+            "locality_id":1259630795,
+            "region_id":85678841
+        }
+    ],
+    "wof:id":1259630795,
+    "wof:lastmodified":1537703671,
+    "wof:name":"Ban Kadon",
+    "wof:parent_id":890466785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.17644,
+    15.11233,
+    102.17644,
+    15.11233
+],
+  "geometry": {"coordinates":[102.17644,15.11233],"type":"Point"}
+}

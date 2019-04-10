@@ -1,0 +1,70 @@
+{
+  "id": 1259996505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.13547,15.92822,105.13547,15.92822",
+    "geom:latitude":15.92822,
+    "geom:longitude":105.13547,
+    "gn:admin1_code":"75.0",
+    "gn:asciiname":"Ban Rueng Udom",
+    "gn:country_code":"TH",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8317072,
+    "gn:latitude":15.92822,
+    "gn:longitude":105.13547,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Ban Rueng Udom",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e23\u0e37\u0e2d\u0e07\u0e2d\u0e38\u0e14\u0e21"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678783,
+        1108731371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8317072
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"313fc426821c104b4d0400b67ced39a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731371,
+            "locality_id":1259996505,
+            "region_id":85678783
+        }
+    ],
+    "wof:id":1259996505,
+    "wof:lastmodified":1537705322,
+    "wof:name":"Ban Rueng Udom",
+    "wof:parent_id":1108731371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.13547,
+    15.92822,
+    105.13547,
+    15.92822
+],
+  "geometry": {"coordinates":[105.13547,15.92822],"type":"Point"}
+}

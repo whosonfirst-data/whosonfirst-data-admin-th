@@ -1,0 +1,64 @@
+{
+  "id": 1209070001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.64203,15.77289,100.64203,15.77289",
+    "geom:latitude":15.77289,
+    "geom:longitude":100.64203,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ban Weluwan",
+    "gn:country_code":"TH",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8345630,
+    "gn:latitude":15.77289,
+    "gn:longitude":100.64203,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Ban Weluwan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e27\u0e2c\u0e38\u0e27\u0e31\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8345630
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"06fe1915ed1c057c471a0548b7ba1d0a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632293,
+            "locality_id":1209070001
+        }
+    ],
+    "wof:id":1209070001,
+    "wof:lastmodified":1537705479,
+    "wof:name":"Ban Weluwan",
+    "wof:parent_id":85632293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.64203,
+    15.77289,
+    100.64203,
+    15.77289
+],
+  "geometry": {"coordinates":[100.64203000000001,15.77289],"type":"Point"}
+}

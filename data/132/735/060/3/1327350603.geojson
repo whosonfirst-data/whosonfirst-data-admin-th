@@ -1,0 +1,70 @@
+{
+  "id": 1327350603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.39314,13.54886,101.39314,13.54886",
+    "geom:latitude":13.54886,
+    "geom:longitude":101.39314,
+    "gn:admin1_code":"44.0",
+    "gn:asciiname":"Ban Plaeng Nokpao",
+    "gn:country_code":"TH",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7853394,
+    "gn:latitude":13.54886,
+    "gn:longitude":101.39314,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Plaeng Nokpao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e41\u0e1b\u0e25\u0e07\u0e19\u0e01\u0e40\u0e1b\u0e49\u0e32"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678797,
+        1108731767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7853394
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"73fb47e9679bd581f1dc425e4082236f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731767,
+            "locality_id":1327350603,
+            "region_id":85678797
+        }
+    ],
+    "wof:id":1327350603,
+    "wof:lastmodified":1537704732,
+    "wof:name":"Ban Plaeng Nokpao",
+    "wof:parent_id":1108731767,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.39314,
+    13.54886,
+    101.39314,
+    13.54886
+],
+  "geometry": {"coordinates":[101.39314,13.54886],"type":"Point"}
+}

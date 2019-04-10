@@ -1,0 +1,70 @@
+{
+  "id": 1243571295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.24481,6.7352,101.24481,6.7352",
+    "geom:latitude":6.7352,
+    "geom:longitude":101.24481,
+    "gn:admin1_code":"69.0",
+    "gn:asciiname":"Ban Bango Sa Ko",
+    "gn:country_code":"TH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7882060,
+    "gn:latitude":6.7352,
+    "gn:longitude":101.24481,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Bango Sa Ko",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1a\u0e32\u0e42\u0e07\u0e2a\u0e32\u0e01\u0e2d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678889,
+        1108731613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7882060
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"19be56d9b697c1e87643e14a5e3d9a52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731613,
+            "locality_id":1243571295,
+            "region_id":85678889
+        }
+    ],
+    "wof:id":1243571295,
+    "wof:lastmodified":1537704821,
+    "wof:name":"Ban Bango Sa Ko",
+    "wof:parent_id":1108731613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.24481,
+    6.7352,
+    101.24481,
+    6.7352
+],
+  "geometry": {"coordinates":[101.24481,6.7352],"type":"Point"}
+}

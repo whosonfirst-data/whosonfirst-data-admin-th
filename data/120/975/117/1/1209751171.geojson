@@ -1,0 +1,70 @@
+{
+  "id": 1209751171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.64883,6.08664,101.64883,6.08664",
+    "geom:latitude":6.08664,
+    "geom:longitude":101.64883,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Ban Ai Cha Seng",
+    "gn:country_code":"TH",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7000564,
+    "gn:latitude":6.08664,
+    "gn:longitude":101.64883,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ban Ai Cha Seng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e44\u0e2d\u0e23\u0e4c\u0e08\u0e30\u0e40\u0e0b\u0e47\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678885,
+        1108731223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7000564
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"c7eaf26bf58042db7e9144ddb14d2aaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731223,
+            "locality_id":1209751171,
+            "region_id":85678885
+        }
+    ],
+    "wof:id":1209751171,
+    "wof:lastmodified":1537704379,
+    "wof:name":"Ban Ai Cha Seng",
+    "wof:parent_id":1108731223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.64883,
+    6.08664,
+    101.64883,
+    6.08664
+],
+  "geometry": {"coordinates":[101.64883,6.08664],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 890466717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-11-10",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.94353,7.56991,99.94353,7.56991",
+    "geom:latitude":7.56991,
+    "geom:longitude":99.94353,
+    "gn:country":"TH",
+    "gn:fcode":"PPLA2",
+    "gn:pop":0,
+    "gp:adm0":23424960,
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:tha_x_preferred":[
+        "\u0e28\u0e23\u0e35\u0e19\u0e04\u0e23\u0e34\u0e19\u0e17\u0e23\u0e4c"
+    ],
+    "name:unk_x_variant":[
+        "Sinakharin"
+    ],
+    "qs:name":"Srinagarindra",
+    "qs:name_adm0":"Thailand",
+    "qs:name_adm1":"Phatthalung",
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":5,
+    "qs:photos_sr":0,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":7993,
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7511049,
+        "gp:id":28341661,
+        "qs:id":1013937,
+        "wd:id":"Q449433",
+        "wk:page":"Srinagarindra"
+    },
+    "wof:country":"TH",
+    "wof:created":1469053590,
+    "wof:geomhash":"efa82e365bf7dcfa4640031ac147c063",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466717,
+            "region_id":85678591
+        }
+    ],
+    "wof:id":890466717,
+    "wof:lastmodified":1527793019,
+    "wof:name":"Srinagarindra",
+    "wof:parent_id":85678591,
+    "wof:placetype":"county",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.94353,
+    7.56991,
+    99.94353,
+    7.56991
+],
+  "geometry": {"coordinates":[99.94353,7.56991],"type":"Point"}
+}

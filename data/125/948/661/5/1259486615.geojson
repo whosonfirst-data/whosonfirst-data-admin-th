@@ -1,0 +1,73 @@
+{
+  "id": 1259486615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.06486,18.46325,98.06486,18.46325",
+    "geom:latitude":18.46325,
+    "geom:longitude":98.06486,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ban Thi Kho Khi",
+    "gn:country_code":"TH",
+    "gn:dem":941,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1330898,
+    "gn:latitude":18.46325,
+    "gn:longitude":98.06486,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ban Thi Kho Khi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e17\u0e35\u0e42\u0e04\u0e04\u0e35"
+    ],
+    "name:und_x_variant":[
+        "Ban Thi Khlo Khli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678555,
+        1108731495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1330898
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"e4e21506a811b15a08691ec540d261ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731495,
+            "locality_id":1259486615,
+            "region_id":85678555
+        }
+    ],
+    "wof:id":1259486615,
+    "wof:lastmodified":1537703323,
+    "wof:name":"Ban Thi Kho Khi",
+    "wof:parent_id":1108731495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.06486,
+    18.46325,
+    98.06486,
+    18.46325
+],
+  "geometry": {"coordinates":[98.06486,18.46325],"type":"Point"}
+}

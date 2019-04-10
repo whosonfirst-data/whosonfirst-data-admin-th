@@ -1,0 +1,70 @@
+{
+  "id": 1327452445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.73731,17.19431,99.73731,17.19431",
+    "geom:latitude":17.19431,
+    "geom:longitude":99.73731,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ban Bung Sak",
+    "gn:country_code":"TH",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8414765,
+    "gn:latitude":17.19431,
+    "gn:longitude":99.73731,
+    "gn:modification_date":"2012-11-10",
+    "gn:name":"Ban Bung Sak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1a\u0e38\u0e48\u0e07\u0e2a\u0e31\u0e01"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678651,
+        1108731899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8414765
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"7ed071af8dea601c7c807f3a3c226ff6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731899,
+            "locality_id":1327452445,
+            "region_id":85678651
+        }
+    ],
+    "wof:id":1327452445,
+    "wof:lastmodified":1537705595,
+    "wof:name":"Ban Bung Sak",
+    "wof:parent_id":1108731899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.73731,
+    17.19431,
+    99.73731,
+    17.19431
+],
+  "geometry": {"coordinates":[99.73730999999999,17.19431],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209440001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.06411,17.29444,103.06411,17.29444",
+    "geom:latitude":17.29444,
+    "geom:longitude":103.06411,
+    "gn:admin1_code":"76.0",
+    "gn:asciiname":"Ban Kham Bak",
+    "gn:country_code":"TH",
+    "gn:dem":195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7749273,
+    "gn:latitude":17.29444,
+    "gn:longitude":103.06411,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Kham Bak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e04\u0e33\u0e1a\u0e32\u0e01"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7749273
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"d77dd206dca68a679793b1419e6995c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632293,
+            "locality_id":1209440001
+        }
+    ],
+    "wof:id":1209440001,
+    "wof:lastmodified":1537704663,
+    "wof:name":"Ban Kham Bak",
+    "wof:parent_id":85632293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.06411,
+    17.29444,
+    103.06411,
+    17.29444
+],
+  "geometry": {"coordinates":[103.06411,17.29444],"type":"Point"}
+}

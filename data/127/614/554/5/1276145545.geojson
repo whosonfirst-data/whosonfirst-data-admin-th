@@ -1,0 +1,67 @@
+{
+  "id": 1276145545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.31667,8.6,99.31667,8.6",
+    "geom:latitude":8.6,
+    "geom:longitude":99.31667,
+    "gn:admin1_code":"60.0",
+    "gn:asciiname":"Ban Khuan Phlo",
+    "gn:country_code":"TH",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1119475,
+    "gn:latitude":8.6,
+    "gn:longitude":99.31667,
+    "gn:modification_date":"1994-04-10",
+    "gn:name":"Ban Khuan Phlo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678581,
+        1108802773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1119475
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"a32437cca6760de342e80f93d88b7bba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802773,
+            "locality_id":1276145545,
+            "region_id":85678581
+        }
+    ],
+    "wof:id":1276145545,
+    "wof:lastmodified":1537029140,
+    "wof:name":"Ban Khuan Phlo",
+    "wof:parent_id":1108802773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.31667,
+    8.6,
+    99.31667,
+    8.6
+],
+  "geometry": {"coordinates":[99.31667,8.6],"type":"Point"}
+}

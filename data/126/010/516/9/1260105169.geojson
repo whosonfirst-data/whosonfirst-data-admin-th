@@ -1,0 +1,70 @@
+{
+  "id": 1260105169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.15019,14.75822,100.15019,14.75822",
+    "geom:latitude":14.75822,
+    "geom:longitude":100.15019,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Ban Thung Lan Pho",
+    "gn:country_code":"TH",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8667424,
+    "gn:latitude":14.75822,
+    "gn:longitude":100.15019,
+    "gn:modification_date":"2014-01-18",
+    "gn:name":"Ban Thung Lan Pho",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e17\u0e38\u0e48\u0e07\u0e25\u0e32\u0e19\u0e42\u0e1e\u0e18\u0e34\u0e4c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678679,
+        890466315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8667424
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"ee9adb1fb063e23a147d614a1142e9d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466315,
+            "locality_id":1260105169,
+            "region_id":85678679
+        }
+    ],
+    "wof:id":1260105169,
+    "wof:lastmodified":1537705807,
+    "wof:name":"Ban Thung Lan Pho",
+    "wof:parent_id":890466315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.15019,
+    14.75822,
+    100.15019,
+    14.75822
+],
+  "geometry": {"coordinates":[100.15018999999999,14.75822],"type":"Point"}
+}

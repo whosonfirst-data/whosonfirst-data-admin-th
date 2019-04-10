@@ -1,0 +1,64 @@
+{
+  "id": 1209214127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.85342,19.28633,100.85342,19.28633",
+    "geom:latitude":19.28633,
+    "geom:longitude":100.85342,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Ban Saowa",
+    "gn:country_code":"TH",
+    "gn:dem":257,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8231226,
+    "gn:latitude":19.28633,
+    "gn:longitude":100.85342,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Ban Saowa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e0b\u0e32\u0e27\u0e27\u0e32"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8231226
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"e9caef7aa2e69565461493310ee7236d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632293,
+            "locality_id":1209214127
+        }
+    ],
+    "wof:id":1209214127,
+    "wof:lastmodified":1537705180,
+    "wof:name":"Ban Saowa",
+    "wof:parent_id":85632293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.85342,
+    19.28633,
+    100.85342,
+    19.28633
+],
+  "geometry": {"coordinates":[100.85342,19.28633],"type":"Point"}
+}

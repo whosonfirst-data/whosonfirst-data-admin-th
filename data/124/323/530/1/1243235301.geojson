@@ -1,0 +1,70 @@
+{
+  "id": 1243235301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.5965,15.74664,99.5965,15.74664",
+    "geom:latitude":15.74664,
+    "geom:longitude":99.5965,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ban Chum Ma-nao",
+    "gn:country_code":"TH",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8343479,
+    "gn:latitude":15.74664,
+    "gn:longitude":99.5965,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Ban Chum Ma-nao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e0a\u0e38\u0e21\u0e21\u0e30\u0e19\u0e32\u0e27"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678715,
+        1108731513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8343479
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"5b1a6739e5bdd5790e6c3002473ec970",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731513,
+            "locality_id":1243235301,
+            "region_id":85678715
+        }
+    ],
+    "wof:id":1243235301,
+    "wof:lastmodified":1537705451,
+    "wof:name":"Ban Chum Ma-nao",
+    "wof:parent_id":1108731513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.5965,
+    15.74664,
+    99.5965,
+    15.74664
+],
+  "geometry": {"coordinates":[99.59650000000001,15.74664],"type":"Point"}
+}

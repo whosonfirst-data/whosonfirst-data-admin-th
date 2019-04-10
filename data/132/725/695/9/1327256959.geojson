@@ -1,0 +1,73 @@
+{
+  "id": 1327256959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.23536,8.55261,99.23536,8.55261",
+    "geom:latitude":8.55261,
+    "geom:longitude":99.23536,
+    "gn:admin1_code":"60.0",
+    "gn:asciiname":"Ban O Phat",
+    "gn:country_code":"TH",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1118412,
+    "gn:latitude":8.55261,
+    "gn:longitude":99.23536,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Ban O Phat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e42\u0e2d\u0e20\u0e32\u0e2a"
+    ],
+    "name:und_x_variant":[
+        "Ban O Mat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678581,
+        1108731743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1118412
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"764899a7ed19ae455b958921ad747fd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731743,
+            "locality_id":1327256959,
+            "region_id":85678581
+        }
+    ],
+    "wof:id":1327256959,
+    "wof:lastmodified":1537702946,
+    "wof:name":"Ban O Phat",
+    "wof:parent_id":1108731743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.23536,
+    8.55261,
+    99.23536,
+    8.55261
+],
+  "geometry": {"coordinates":[99.23536,8.55261],"type":"Point"}
+}

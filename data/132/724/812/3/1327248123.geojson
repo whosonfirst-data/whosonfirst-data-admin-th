@@ -1,0 +1,67 @@
+{
+  "id": 1327248123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.98333,6.03333,101.98333,6.03333",
+    "geom:latitude":6.03333,
+    "geom:longitude":101.98333,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Kampong Baka",
+    "gn:country_code":"TH",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1610437,
+    "gn:latitude":6.03333,
+    "gn:longitude":101.98333,
+    "gn:modification_date":"1994-04-06",
+    "gn:name":"Kampong Baka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678885,
+        890467363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1610437
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"a33be6ebe58fd3709371b5f8e8d8e724",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890467363,
+            "locality_id":1327248123,
+            "region_id":85678885
+        }
+    ],
+    "wof:id":1327248123,
+    "wof:lastmodified":1536947211,
+    "wof:name":"Kampong Baka",
+    "wof:parent_id":890467363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.98333,
+    6.03333,
+    101.98333,
+    6.03333
+],
+  "geometry": {"coordinates":[101.98333,6.03333],"type":"Point"}
+}

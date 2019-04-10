@@ -1,0 +1,74 @@
+{
+  "id": 1276383207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.42147,14.76303,100.42147,14.76303",
+    "geom:latitude":14.76303,
+    "geom:longitude":100.42147,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Ban Ok Roi",
+    "gn:country_code":"TH",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1614763,
+    "gn:latitude":14.76303,
+    "gn:longitude":100.42147,
+    "gn:modification_date":"2014-03-05",
+    "gn:name":"Ban Ok Roi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2d\u0e01\u0e42\u0e23\u0e22"
+    ],
+    "name:und_x_variant":[
+        "Ban Ok Roi Tok",
+        "Ban Ok Roi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678729,
+        890466157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1614763
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"8eec373d760054dc0ce189b6914ab10c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466157,
+            "locality_id":1276383207,
+            "region_id":85678729
+        }
+    ],
+    "wof:id":1276383207,
+    "wof:lastmodified":1537703866,
+    "wof:name":"Ban Ok Roi",
+    "wof:parent_id":890466157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.42147,
+    14.76303,
+    100.42147,
+    14.76303
+],
+  "geometry": {"coordinates":[100.42147,14.76303],"type":"Point"}
+}

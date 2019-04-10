@@ -1,0 +1,77 @@
+{
+  "id": 890466665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.015,13.61456,101.015,13.61456",
+    "geom:latitude":13.61456,
+    "geom:longitude":101.015,
+    "gn:country":"TH",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424960,
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e25\u0e32\u0e14\u0e02\u0e27\u0e32\u0e07"
+    ],
+    "name:unk_x_variant":[
+        "Ban Lat Khwang"
+    ],
+    "qs:name":"Talat Khwan",
+    "qs:name_adm0":"Thailand",
+    "qs:name_adm1":"Nonthaburi",
+    "qs:photos":34,
+    "qs:photos_1k":7,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":34,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1618253,
+        "gp:id":55946797,
+        "qs:id":981507
+    },
+    "wof:country":"TH",
+    "wof:created":1469053588,
+    "wof:geomhash":"c4ebf8e5dd7468a6c4ef9721dd016c27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "locality_id":890466665,
+            "region_id":85678797
+        }
+    ],
+    "wof:id":890466665,
+    "wof:lastmodified":1505343707,
+    "wof:name":"Talat Khwan",
+    "wof:parent_id":85678797,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.015,
+    13.61456,
+    101.015,
+    13.61456
+],
+  "geometry": {"coordinates":[101.015,13.61456],"type":"Point"}
+}

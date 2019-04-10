@@ -1,0 +1,75 @@
+{
+  "id": 1226828515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.20542,16.87664,100.20542,16.87664",
+    "geom:latitude":16.87664,
+    "geom:longitude":100.20542,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Ban Krang",
+    "gn:country_code":"TH",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1617368,
+    "gn:latitude":16.87664,
+    "gn:longitude":100.20542,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Ban Krang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e01\u0e23\u0e48\u0e32\u0e07"
+    ],
+    "name:und_x_variant":[
+        "B\u0101n Gr\u0101ng",
+        "Ban Krang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678647,
+        890466019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1617368,
+        "wk:page":"Ban_Krang%2C_Phitsanulok"
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"6fd2b1deff8b53673802f432466199a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466019,
+            "locality_id":1226828515,
+            "region_id":85678647
+        }
+    ],
+    "wof:id":1226828515,
+    "wof:lastmodified":1537704045,
+    "wof:name":"Ban Krang",
+    "wof:parent_id":890466019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.20542,
+    16.87664,
+    100.20542,
+    16.87664
+],
+  "geometry": {"coordinates":[100.20542,16.87664],"type":"Point"}
+}

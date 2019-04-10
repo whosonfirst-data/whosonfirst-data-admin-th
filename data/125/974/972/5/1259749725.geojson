@@ -1,0 +1,70 @@
+{
+  "id": 1259749725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.22381,15.04517,102.22381,15.04517",
+    "geom:latitude":15.04517,
+    "geom:longitude":102.22381,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Ban Pho Noi",
+    "gn:country_code":"TH",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1614170,
+    "gn:latitude":15.04517,
+    "gn:longitude":102.22381,
+    "gn:modification_date":"2014-06-04",
+    "gn:name":"Ban Pho Noi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e42\u0e1e\u0e18\u0e34\u0e4c\u0e19\u0e49\u0e2d\u0e22"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678841,
+        1108731221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1614170
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"382ad99732c1d298b22eb2518f8cd82a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731221,
+            "locality_id":1259749725,
+            "region_id":85678841
+        }
+    ],
+    "wof:id":1259749725,
+    "wof:lastmodified":1537703824,
+    "wof:name":"Ban Pho Noi",
+    "wof:parent_id":1108731221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.22381,
+    15.04517,
+    102.22381,
+    15.04517
+],
+  "geometry": {"coordinates":[102.22381,15.04517],"type":"Point"}
+}

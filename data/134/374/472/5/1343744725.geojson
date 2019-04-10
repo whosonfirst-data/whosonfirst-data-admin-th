@@ -1,0 +1,70 @@
+{
+  "id": 1343744725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.49806,15.17642,99.49806,15.17642",
+    "geom:latitude":15.17642,
+    "geom:longitude":99.49806,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ban Mai Lampang",
+    "gn:country_code":"TH",
+    "gn:dem":178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8396370,
+    "gn:latitude":15.17642,
+    "gn:longitude":99.49806,
+    "gn:modification_date":"2012-10-08",
+    "gn:name":"Ban Mai Lampang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e43\u0e2b\u0e21\u0e48\u0e25\u0e33\u0e1b\u0e32\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678689,
+        890465633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8396370
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"b4f82c819c67e56091d7cf6b7f2df767",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465633,
+            "locality_id":1343744725,
+            "region_id":85678689
+        }
+    ],
+    "wof:id":1343744725,
+    "wof:lastmodified":1537705567,
+    "wof:name":"Ban Mai Lampang",
+    "wof:parent_id":890465633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.49806,
+    15.17642,
+    99.49806,
+    15.17642
+],
+  "geometry": {"coordinates":[99.49806,15.17642],"type":"Point"}
+}

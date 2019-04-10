@@ -1,0 +1,73 @@
+{
+  "id": 1276899383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.48808,12.60536,102.48808,12.60536",
+    "geom:latitude":12.60536,
+    "geom:longitude":102.48808,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"Ban Khlong Khwang",
+    "gn:country_code":"TH",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1618274,
+    "gn:latitude":12.60536,
+    "gn:longitude":102.48808,
+    "gn:modification_date":"2013-01-09",
+    "gn:name":"Ban Khlong Khwang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e04\u0e25\u0e2d\u0e07\u0e02\u0e27\u0e32\u0e07"
+    ],
+    "name:und_x_variant":[
+        "Ban Khlong Khwang Nok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678813,
+        1108731191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1618274
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"44fe6311dfd3c8d8ff02362ac290eb07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731191,
+            "locality_id":1276899383,
+            "region_id":85678813
+        }
+    ],
+    "wof:id":1276899383,
+    "wof:lastmodified":1537704111,
+    "wof:name":"Ban Khlong Khwang",
+    "wof:parent_id":1108731191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.48808,
+    12.60536,
+    102.48808,
+    12.60536
+],
+  "geometry": {"coordinates":[102.48808,12.60536],"type":"Point"}
+}

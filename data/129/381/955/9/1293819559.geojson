@@ -1,0 +1,70 @@
+{
+  "id": 1293819559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.13936,12.61631,102.13936,12.61631",
+    "geom:latitude":12.61631,
+    "geom:longitude":102.13936,
+    "gn:admin1_code":"48.0",
+    "gn:asciiname":"Ban Ko Rong",
+    "gn:country_code":"TH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7913540,
+    "gn:latitude":12.61631,
+    "gn:longitude":102.13936,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Ko Rong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e01\u0e32\u0e30\u0e23\u0e07\u0e04\u0e4c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678799,
+        1108802663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7913540
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"f60cb5a9c4cf27df6dc939bc0f2c9654",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802663,
+            "locality_id":1293819559,
+            "region_id":85678799
+        }
+    ],
+    "wof:id":1293819559,
+    "wof:lastmodified":1537704864,
+    "wof:name":"Ban Ko Rong",
+    "wof:parent_id":1108802663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.13936,
+    12.61631,
+    102.13936,
+    12.61631
+],
+  "geometry": {"coordinates":[102.13936,12.61631],"type":"Point"}
+}

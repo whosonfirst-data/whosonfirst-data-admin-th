@@ -1,0 +1,73 @@
+{
+  "id": 1225969223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.08206,9.69869,99.08206,9.69869",
+    "geom:latitude":9.69869,
+    "geom:longitude":99.08206,
+    "gn:admin1_code":"60.0",
+    "gn:asciiname":"Ban Khao Ta Kun",
+    "gn:country_code":"TH",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8233695,
+    "gn:latitude":9.69869,
+    "gn:longitude":99.08206,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Ban Khao Ta Kun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e02\u0e32\u0e15\u0e32\u0e01\u0e38\u0e19"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e02\u0e32\u0e15\u0e32\u0e01\u0e39\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678581,
+        1108731973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8233695
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"11e3667fb47f12b7c6eaa1e046023790",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731973,
+            "locality_id":1225969223,
+            "region_id":85678581
+        }
+    ],
+    "wof:id":1225969223,
+    "wof:lastmodified":1537705190,
+    "wof:name":"Ban Khao Ta Kun",
+    "wof:parent_id":1108731973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.08206,
+    9.69869,
+    99.08206,
+    9.69869
+],
+  "geometry": {"coordinates":[99.08206,9.69869],"type":"Point"}
+}

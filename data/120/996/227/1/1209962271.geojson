@@ -1,0 +1,75 @@
+{
+  "id": 1209962271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.19217,15.12761,104.19217,15.12761",
+    "geom:latitude":15.12761,
+    "geom:longitude":104.19217,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Ban Katam",
+    "gn:country_code":"TH",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1618602,
+    "gn:latitude":15.12761,
+    "gn:longitude":104.19217,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Katam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e01\u0e30\u0e15\u0e33"
+    ],
+    "name:und_x_variant":[
+        "Ban Nong Katham",
+        "Ban Non",
+        "Ban Katam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678779,
+        1108732039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1618602
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"58cd4693639b3ac832d3189b271faf91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108732039,
+            "locality_id":1209962271,
+            "region_id":85678779
+        }
+    ],
+    "wof:id":1209962271,
+    "wof:lastmodified":1537704136,
+    "wof:name":"Ban Katam",
+    "wof:parent_id":1108732039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.19217,
+    15.12761,
+    104.19217,
+    15.12761
+],
+  "geometry": {"coordinates":[104.19217,15.12761],"type":"Point"}
+}

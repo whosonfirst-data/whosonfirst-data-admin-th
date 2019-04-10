@@ -1,0 +1,73 @@
+{
+  "id": 1225840051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.36267,17.83358,100.36267,17.83358",
+    "geom:latitude":17.83358,
+    "geom:longitude":100.36267,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Ban Ngun Ngam",
+    "gn:country_code":"TH",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8136173,
+    "gn:latitude":17.83358,
+    "gn:longitude":100.36267,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Ban Ngun Ngam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "Ban Ngun Ngam"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e07\u0e38\u0e49\u0e19\u0e07\u0e32\u0e21"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678657,
+        1108731981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8136173
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"8224977330305dcdfe99c94fbabd7899",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731981,
+            "locality_id":1225840051,
+            "region_id":85678657
+        }
+    ],
+    "wof:id":1225840051,
+    "wof:lastmodified":1537704985,
+    "wof:name":"Ban Ngun Ngam",
+    "wof:parent_id":1108731981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.36267,
+    17.83357999999999,
+    100.36267,
+    17.83357999999999
+],
+  "geometry": {"coordinates":[100.36266999999999,17.83357999999999],"type":"Point"}
+}

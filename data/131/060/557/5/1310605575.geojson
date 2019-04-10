@@ -1,0 +1,67 @@
+{
+  "id": 1310605575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.01622,18.783,99.01622,18.783",
+    "geom:latitude":18.783,
+    "geom:longitude":99.01622,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"fhsha",
+    "gn:country_code":"TH",
+    "gn:dem":308,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6696029,
+    "gn:latitude":18.783,
+    "gn:longitude":99.01622,
+    "gn:modification_date":"2008-08-18",
+    "gn:name":"fhsha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678619,
+        890467179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6696029
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"75d6bfe4499ec10e90f4f7d81fdac442",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890467179,
+            "locality_id":1310605575,
+            "region_id":85678619
+        }
+    ],
+    "wof:id":1310605575,
+    "wof:lastmodified":1536773166,
+    "wof:name":"fhsha",
+    "wof:parent_id":890467179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.01622,
+    18.783,
+    99.01622,
+    18.783
+],
+  "geometry": {"coordinates":[99.01622,18.783],"type":"Point"}
+}

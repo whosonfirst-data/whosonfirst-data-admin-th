@@ -1,0 +1,70 @@
+{
+  "id": 1259555159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.68286,15.97231,100.68286,15.97231",
+    "geom:latitude":15.97231,
+    "geom:longitude":100.68286,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ban Sa Ta Yom",
+    "gn:country_code":"TH",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8345638,
+    "gn:latitude":15.97231,
+    "gn:longitude":100.68286,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Ban Sa Ta Yom",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2a\u0e23\u0e30\u0e15\u0e32\u0e22\u0e21"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678715,
+        1108802701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8345638
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"aa8a76dc3820ff1af2d362e1b9c7716f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802701,
+            "locality_id":1259555159,
+            "region_id":85678715
+        }
+    ],
+    "wof:id":1259555159,
+    "wof:lastmodified":1537705479,
+    "wof:name":"Ban Sa Ta Yom",
+    "wof:parent_id":1108802701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.68286,
+    15.97231,
+    100.68286,
+    15.97231
+],
+  "geometry": {"coordinates":[100.68286000000001,15.97231],"type":"Point"}
+}

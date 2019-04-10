@@ -1,0 +1,70 @@
+{
+  "id": 1259484187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.04447,20.232,100.04447,20.232",
+    "geom:latitude":20.232,
+    "geom:longitude":100.04447,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ban Thung Fa Ham",
+    "gn:country_code":"TH",
+    "gn:dem":380,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1950227,
+    "gn:latitude":20.232,
+    "gn:longitude":100.04447,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ban Thung Fa Ham",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e17\u0e38\u0e48\u0e07\u0e1f\u0e49\u0e32\u0e2e\u0e48\u0e32\u0e21"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678617,
+        890465683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1950227
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"65fa86b61bd8f1e4d1351c2be10022f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465683,
+            "locality_id":1259484187,
+            "region_id":85678617
+        }
+    ],
+    "wof:id":1259484187,
+    "wof:lastmodified":1537704302,
+    "wof:name":"Ban Thung Fa Ham",
+    "wof:parent_id":890465683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.04447,
+    20.232,
+    100.04447,
+    20.232
+],
+  "geometry": {"coordinates":[100.04447,20.232],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1210052149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.49167,6.81267,101.49167,6.81267",
+    "geom:latitude":6.81267,
+    "geom:longitude":101.49167,
+    "gn:admin1_code":"69.0",
+    "gn:asciiname":"Ban Thung Kra Di",
+    "gn:country_code":"TH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7881230,
+    "gn:latitude":6.81267,
+    "gn:longitude":101.49167,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Thung Kra Di",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e17\u0e38\u0e48\u0e07\u0e01\u0e23\u0e30\u0e14\u0e35"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678889,
+        1108731685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7881230
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"c6df57bbc7ceb564b5f658c80d8aa3f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731685,
+            "locality_id":1210052149,
+            "region_id":85678889
+        }
+    ],
+    "wof:id":1210052149,
+    "wof:lastmodified":1537704809,
+    "wof:name":"Ban Thung Kra Di",
+    "wof:parent_id":1108731685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.49167,
+    6.81267,
+    101.49167,
+    6.81267
+],
+  "geometry": {"coordinates":[101.49167,6.81267],"type":"Point"}
+}

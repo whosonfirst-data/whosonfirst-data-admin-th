@@ -1,0 +1,70 @@
+{
+  "id": 1293606041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.83022,17.15881,102.83022,17.15881",
+    "geom:latitude":17.15881,
+    "geom:longitude":102.83022,
+    "gn:admin1_code":"76.0",
+    "gn:asciiname":"Ban Dong Samran Chai",
+    "gn:country_code":"TH",
+    "gn:dem":219,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7747780,
+    "gn:latitude":17.15881,
+    "gn:longitude":102.83022,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Dong Samran Chai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e14\u0e07\u0e2a\u0e33\u0e23\u0e32\u0e0d\u0e0a\u0e31\u0e22"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678869,
+        890467129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7747780
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"47f8406b86b3d03b448547f7dabb3413",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890467129,
+            "locality_id":1293606041,
+            "region_id":85678869
+        }
+    ],
+    "wof:id":1293606041,
+    "wof:lastmodified":1537704650,
+    "wof:name":"Ban Dong Samran Chai",
+    "wof:parent_id":890467129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.83022,
+    17.15881,
+    102.83022,
+    17.15881
+],
+  "geometry": {"coordinates":[102.83022,17.15881],"type":"Point"}
+}

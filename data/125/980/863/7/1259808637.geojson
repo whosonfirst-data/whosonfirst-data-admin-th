@@ -1,0 +1,70 @@
+{
+  "id": 1259808637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.28911,15.50625,105.28911,15.50625",
+    "geom:latitude":15.50625,
+    "geom:longitude":105.28911,
+    "gn:admin1_code":"75.0",
+    "gn:asciiname":"Ban Thung Bun",
+    "gn:country_code":"TH",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8320485,
+    "gn:latitude":15.50625,
+    "gn:longitude":105.28911,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Ban Thung Bun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e17\u0e38\u0e48\u0e07\u0e1a\u0e38\u0e0d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678783,
+        1108731889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8320485
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"31eeb18002b9f7c12b096cf07d98c0aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731889,
+            "locality_id":1259808637,
+            "region_id":85678783
+        }
+    ],
+    "wof:id":1259808637,
+    "wof:lastmodified":1537705358,
+    "wof:name":"Ban Thung Bun",
+    "wof:parent_id":1108731889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.28911,
+    15.50625,
+    105.28911,
+    15.50625
+],
+  "geometry": {"coordinates":[105.28910999999999,15.50625],"type":"Point"}
+}

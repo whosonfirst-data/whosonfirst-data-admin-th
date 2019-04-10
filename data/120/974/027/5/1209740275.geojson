@@ -1,0 +1,70 @@
+{
+  "id": 1209740275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.38592,7.27333,100.38592,7.27333",
+    "geom:latitude":7.27333,
+    "geom:longitude":100.38592,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Ban Tha Pa Ba",
+    "gn:country_code":"TH",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7886902,
+    "gn:latitude":7.27333,
+    "gn:longitude":100.38592,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Tha Pa Ba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e17\u0e48\u0e32\u0e1b\u0e30\u0e1a\u0e48\u0e32"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678603,
+        1108731405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7886902
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"75886e6ab62ff137ccf31c0c6944e97e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731405,
+            "locality_id":1209740275,
+            "region_id":85678603
+        }
+    ],
+    "wof:id":1209740275,
+    "wof:lastmodified":1537704847,
+    "wof:name":"Ban Tha Pa Ba",
+    "wof:parent_id":1108731405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.38592,
+    7.27333,
+    100.38592,
+    7.27333
+],
+  "geometry": {"coordinates":[100.38592,7.27333],"type":"Point"}
+}

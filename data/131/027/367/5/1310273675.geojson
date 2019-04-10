@@ -1,0 +1,70 @@
+{
+  "id": 1310273675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.30147,16.07667,102.30147,16.07667",
+    "geom:latitude":16.07667,
+    "geom:longitude":102.30147,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Ban Sap Sombun",
+    "gn:country_code":"TH",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9001633,
+    "gn:latitude":16.07667,
+    "gn:longitude":102.30147,
+    "gn:modification_date":"2014-05-01",
+    "gn:name":"Ban Sap Sombun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e0b\u0e31\u0e1a\u0e2a\u0e21\u0e1a\u0e39\u0e23\u0e13\u0e4c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678827,
+        1108731521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9001633
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"7022b131ee0d1985a9f4fa84c3c41a3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731521,
+            "locality_id":1310273675,
+            "region_id":85678827
+        }
+    ],
+    "wof:id":1310273675,
+    "wof:lastmodified":1537706079,
+    "wof:name":"Ban Sap Sombun",
+    "wof:parent_id":1108731521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.30147,
+    16.07667,
+    102.30147,
+    16.07667
+],
+  "geometry": {"coordinates":[102.30146999999999,16.07667],"type":"Point"}
+}

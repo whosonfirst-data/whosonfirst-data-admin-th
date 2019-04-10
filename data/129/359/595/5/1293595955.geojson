@@ -1,0 +1,70 @@
+{
+  "id": 1293595955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.491,19.86914,99.491,19.86914",
+    "geom:latitude":19.86914,
+    "geom:longitude":99.491,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ban Huai Hok Kao",
+    "gn:country_code":"TH",
+    "gn:dem":631,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7505572,
+    "gn:latitude":19.86914,
+    "gn:longitude":99.491,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Huai Hok Kao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e49\u0e27\u0e22\u0e2b\u0e01\u0e40\u0e01\u0e48\u0e32"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678617,
+        1108731507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7505572
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"72f81f7644f6960e9938b54fb2f8e70a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731507,
+            "locality_id":1293595955,
+            "region_id":85678617
+        }
+    ],
+    "wof:id":1293595955,
+    "wof:lastmodified":1537704525,
+    "wof:name":"Ban Huai Hok Kao",
+    "wof:parent_id":1108731507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.491,
+    19.86914,
+    99.491,
+    19.86914
+],
+  "geometry": {"coordinates":[99.491,19.86914],"type":"Point"}
+}

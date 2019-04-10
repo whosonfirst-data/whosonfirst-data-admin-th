@@ -1,0 +1,70 @@
+{
+  "id": 1343691239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.72975,6.37178,101.72975,6.37178",
+    "geom:latitude":6.37178,
+    "geom:longitude":101.72975,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Ban Lo Bo Pa Chu",
+    "gn:country_code":"TH",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7463422,
+    "gn:latitude":6.37178,
+    "gn:longitude":101.72975,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Lo Bo Pa Chu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e25\u0e39\u0e42\u0e1a\u0e30\u0e1b\u0e32\u0e0a\u0e39"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678885,
+        1108732091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7463422
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"222f7cd94d43ef8d6ec94375d5a1adf2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108732091,
+            "locality_id":1343691239,
+            "region_id":85678885
+        }
+    ],
+    "wof:id":1343691239,
+    "wof:lastmodified":1537704505,
+    "wof:name":"Ban Lo Bo Pa Chu",
+    "wof:parent_id":1108732091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.72975,
+    6.37178,
+    101.72975,
+    6.37178
+],
+  "geometry": {"coordinates":[101.72975,6.37178],"type":"Point"}
+}

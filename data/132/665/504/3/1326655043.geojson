@@ -1,0 +1,70 @@
+{
+  "id": 1326655043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.89853,12.05842,99.89853,12.05842",
+    "geom:latitude":12.05842,
+    "geom:longitude":99.89853,
+    "gn:admin1_code":"57.0",
+    "gn:asciiname":"Ban Khlong Bot",
+    "gn:country_code":"TH",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1157115,
+    "gn:latitude":12.05842,
+    "gn:longitude":99.89853,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Ban Khlong Bot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e04\u0e25\u0e2d\u0e07\u0e42\u0e1a\u0e2a\u0e16\u0e4c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678757,
+        1108802639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1157115
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"ec830e43f40db44848a5b92c529bb50b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802639,
+            "locality_id":1326655043,
+            "region_id":85678757
+        }
+    ],
+    "wof:id":1326655043,
+    "wof:lastmodified":1537703239,
+    "wof:name":"Ban Khlong Bot",
+    "wof:parent_id":1108802639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.89853,
+    12.05842,
+    99.89853,
+    12.05842
+],
+  "geometry": {"coordinates":[99.89852999999999,12.05842],"type":"Point"}
+}

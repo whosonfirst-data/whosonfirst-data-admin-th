@@ -1,0 +1,73 @@
+{
+  "id": 1225861877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.73931,16.65414,104.73931,16.65414",
+    "geom:latitude":16.65414,
+    "geom:longitude":104.73931,
+    "gn:admin1_code":"78.0",
+    "gn:asciiname":"Ban Sai Thong",
+    "gn:country_code":"TH",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8037141,
+    "gn:latitude":16.65414,
+    "gn:longitude":104.73931,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Sai Thong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "Ban Sai Thong"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e17\u0e23\u0e32\u0e22\u0e17\u0e2d\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678881,
+        1108732047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8037141
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"6ade8deb3f13ba86de90cc4eb6fb151a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108732047,
+            "locality_id":1225861877,
+            "region_id":85678881
+        }
+    ],
+    "wof:id":1225861877,
+    "wof:lastmodified":1537704940,
+    "wof:name":"Ban Sai Thong",
+    "wof:parent_id":1108732047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.73931,
+    16.65414,
+    104.73931,
+    16.65414
+],
+  "geometry": {"coordinates":[104.73931,16.65414],"type":"Point"}
+}

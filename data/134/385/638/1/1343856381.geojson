@@ -1,0 +1,70 @@
+{
+  "id": 1343856381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.77144,17.64256,98.77144,17.64256",
+    "geom:latitude":17.64256,
+    "geom:longitude":98.77144,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ban Ko Chok",
+    "gn:country_code":"TH",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1156843,
+    "gn:latitude":17.64256,
+    "gn:longitude":98.77144,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Ban Ko Chok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e01\u0e49\u0e2d\u0e08\u0e2d\u0e01"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678629,
+        1108802647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1156843
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"d0d5e0a0c4a49d21bbc2774f103cd3be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802647,
+            "locality_id":1343856381,
+            "region_id":85678629
+        }
+    ],
+    "wof:id":1343856381,
+    "wof:lastmodified":1537703222,
+    "wof:name":"Ban Ko Chok",
+    "wof:parent_id":1108802647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.77144,
+    17.64256,
+    98.77144,
+    17.64256
+],
+  "geometry": {"coordinates":[98.77144,17.64256],"type":"Point"}
+}

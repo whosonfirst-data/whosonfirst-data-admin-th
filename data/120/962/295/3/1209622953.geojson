@@ -1,0 +1,61 @@
+{
+  "id": 1209622953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.88639,18.58667,98.88639,18.58667",
+    "geom:latitude":18.58667,
+    "geom:longitude":98.88639,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Nong Pla Siu",
+    "gn:country_code":"TH",
+    "gn:dem":301,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1118517,
+    "gn:latitude":18.58667,
+    "gn:longitude":98.88639,
+    "gn:modification_date":"1999-10-14",
+    "gn:name":"Ban Nong Pla Siu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1118517
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"0a6d2e581e58a62f2a543b170d516c16",
+    "wof:hierarchy":[
+        {
+            "country_id":85632293,
+            "locality_id":1209622953
+        }
+    ],
+    "wof:id":1209622953,
+    "wof:lastmodified":1536281453,
+    "wof:name":"Ban Nong Pla Siu",
+    "wof:parent_id":85632293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.88639,
+    18.58667,
+    98.88639,
+    18.58667
+],
+  "geometry": {"coordinates":[98.88639000000001,18.58667],"type":"Point"}
+}

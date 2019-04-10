@@ -1,0 +1,75 @@
+{
+  "id": 1327358603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.50778,14.96214,99.50778,14.96214",
+    "geom:latitude":14.96214,
+    "geom:longitude":99.50778,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Ban Pa Khi",
+    "gn:country_code":"TH",
+    "gn:dem":192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1155458,
+    "gn:latitude":14.96214,
+    "gn:longitude":99.50778,
+    "gn:modification_date":"2014-01-08",
+    "gn:name":"Ban Pa Khi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1b\u0e48\u0e32\u0e02\u0e35"
+    ],
+    "name:und_x_variant":[
+        "Pa Khi",
+        "Ban Paki",
+        "Ban Pa Khi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678679,
+        1108731265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1155458
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"bd1071ea3e3a52b6762a7cc36c8e82b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731265,
+            "locality_id":1327358603,
+            "region_id":85678679
+        }
+    ],
+    "wof:id":1327358603,
+    "wof:lastmodified":1537703120,
+    "wof:name":"Ban Pa Khi",
+    "wof:parent_id":1108731265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.50778,
+    14.96214,
+    99.50778,
+    14.96214
+],
+  "geometry": {"coordinates":[99.50778,14.96214],"type":"Point"}
+}

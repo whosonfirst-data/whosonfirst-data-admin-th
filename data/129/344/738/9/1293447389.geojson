@@ -1,0 +1,70 @@
+{
+  "id": 1293447389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.22708,16.33625,103.22708,16.33625",
+    "geom:latitude":16.33625,
+    "geom:longitude":103.22708,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Ban Than",
+    "gn:country_code":"TH",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8731792,
+    "gn:latitude":16.33625,
+    "gn:longitude":103.22708,
+    "gn:modification_date":"2014-03-12",
+    "gn:name":"Ban Than",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e17\u0e31\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678835,
+        1108731331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8731792
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"06a3ea23f32a8407153caa00d73f26dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731331,
+            "locality_id":1293447389,
+            "region_id":85678835
+        }
+    ],
+    "wof:id":1293447389,
+    "wof:lastmodified":1537705989,
+    "wof:name":"Ban Than",
+    "wof:parent_id":1108731331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.22708,
+    16.33625,
+    103.22708,
+    16.33625
+],
+  "geometry": {"coordinates":[103.22708,16.33625],"type":"Point"}
+}

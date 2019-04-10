@@ -1,0 +1,70 @@
+{
+  "id": 1209092089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.2432,18.30361,100.2432,18.30361",
+    "geom:latitude":18.30361,
+    "geom:longitude":100.2432,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ban Mae Yang Tan",
+    "gn:country_code":"TH",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1616862,
+    "gn:latitude":18.30361,
+    "gn:longitude":100.2432,
+    "gn:modification_date":"2012-09-05",
+    "gn:name":"Ban Mae Yang Tan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e41\u0e21\u0e48\u0e22\u0e32\u0e07\u0e15\u0e32\u0e25"
+    ],
+    "name:und_x_variant":[
+        "Ban Mae",
+        "B\u0101n Mea Y\u0101ng Ton T\u0101n",
+        "Ban Mae Yang Ton Tan",
+        "Ban Mae Yang Tan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1616862
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"64bc1bb99f5ebffd8297cc0a07612d34",
+    "wof:hierarchy":[
+        {
+            "country_id":85632293,
+            "locality_id":1209092089
+        }
+    ],
+    "wof:id":1209092089,
+    "wof:lastmodified":1537704009,
+    "wof:name":"Ban Mae Yang Tan",
+    "wof:parent_id":85632293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.2432,
+    18.30361,
+    100.2432,
+    18.30361
+],
+  "geometry": {"coordinates":[100.2432,18.30361],"type":"Point"}
+}

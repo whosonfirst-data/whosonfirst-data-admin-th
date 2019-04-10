@@ -1,0 +1,112 @@
+{
+  "id": 102025369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000262,
+    "geom:area_square_m":3135253.105908,
+    "geom:bbox":"104.509141601,14.7499061545,104.527723646,14.7679883486",
+    "geom:latitude":14.758947,
+    "geom:longitude":104.518433,
+    "gn:latitude":14.64056,
+    "gn:longitude":104.64992,
+    "gn:population":36621,
+    "iso:country":"TH",
+    "lbl:latitude":14.758947,
+    "lbl:longitude":104.518433,
+    "mps:latitude":14.758947,
+    "mps:longitude":104.518433,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u041a\u0430\u043d\u0442\u0445\u0430\u0440\u0430\u043b\u0430\u043a"
+    ],
+    "name:eng_x_preferred":[
+        "Kantharalak"
+    ],
+    "name:eng_x_variant":[
+        "Ban Nam Om",
+        "Kanthanalak",
+        "Kantoralak",
+        "Muong Utumpar",
+        "Nam Aum"
+    ],
+    "name:ger_x_preferred":[
+        "Kantharalak"
+    ],
+    "name:nob_x_preferred":[
+        "Katharalak"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043d\u0442\u0445\u0430\u0440\u0430\u043b\u0430\u043a"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e01\u0e31\u0e19\u0e17\u0e23\u0e25\u0e31\u0e01\u0e29\u0e13\u0e4c"
+    ],
+    "name:unk_x_variant":[
+        "Muang Uthumpa"
+    ],
+    "qs:a0":"Thailand",
+    "qs:a1":"*Sisaket",
+    "qs:a1r":"*",
+    "qs:a2":"Kantharalak",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Kantharalak",
+    "qs:loc_alt":"Kantharalak",
+    "qs:loc_lc":"1610227",
+    "qs:pop":0,
+    "qs:source":"Aquattroshapes",
+    "qs:type":"County",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"07cf8150-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":1610227,
+        "gp:id":28341252,
+        "qs:id":1113790,
+        "wd:id":"Q11980393"
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"20226baf49695e77c90691f7a2d47904",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "locality_id":102025369,
+            "region_id":85678779
+        }
+    ],
+    "wof:id":102025369,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1514506131,
+    "wof:name":"Kantharalak",
+    "wof:parent_id":85678779,
+    "wof:placetype":"locality",
+    "wof:population":36621,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.50914160148342,
+    14.74990615448753,
+    104.52772364607661,
+    14.76798834862484
+],
+  "geometry": {"coordinates":[[[104.52026463785414,14.75008364406941],[104.51845250447106,14.74990615448753],[104.51663960759517,14.7500760952601],[104.5148956074275,14.75058693618087],[104.51328751766845,14.75141904794711],[104.51187713132227,14.75254045619444],[104.51071864678364,14.75390806976377],[104.50985658532444,14.75546933607325],[104.5093240799594,14.75716426006925],[104.50914160148342,14.75892770926471],[104.50931617073856,14.76069191636397],[104.50984108754513,14.76238908335873],[104.51069618690248,14.7639539870451],[104.5118486128146,14.76532648582337],[104.51325408016415,14.76645383139724],[104.51485857626535,14.76729269646096],[104.51660043674859,14.76781084036075],[104.51841271596932,14.76798834862484],[104.52022576074729,14.7678183986455],[104.52196988836472,14.76730752203053],[104.52357806571787,14.76647535351688],[104.52498848646748,14.76535387610825],[104.52614694698106,14.76398619149273],[104.52700892964425,14.7624248630685],[104.52754131343828,14.76072989534543],[104.52772364607661,14.75896642746784],[104.52754892891942,14.75720222957536],[104.52702388466334,14.7555050982748],[104.52616869771153,14.75394025133575],[104.52501623739614,14.75256782171886],[104.52361079407176,14.75144054719109],[104.52200637676644,14.75060174424222],[104.52026463785414,14.75008364406941]]],"type":"Polygon"}
+}

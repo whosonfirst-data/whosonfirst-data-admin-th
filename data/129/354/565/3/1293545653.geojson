@@ -1,0 +1,79 @@
+{
+  "id": 1293545653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.65182,16.3293,102.65182,16.3293",
+    "geom:latitude":16.3293,
+    "geom:longitude":102.65182,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"4003.0",
+    "gn:asciiname":"Phra Yuen",
+    "gn:country_code":"TH",
+    "gn:dem":178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1607479,
+    "gn:latitude":16.3293,
+    "gn:longitude":102.65182,
+    "gn:modification_date":"2017-03-22",
+    "gn:name":"Phra Yuen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1e\u0e23\u0e30\u0e22\u0e37\u0e19"
+    ],
+    "name:und_x_variant":[
+        "Ban Phra Yun",
+        "Phra Yun",
+        "Phra Yuen",
+        "\u0e1e\u0e23\u0e30\u0e22\u0e37\u0e19",
+        "King Amphoe Phra Yuen",
+        "Amphoe Phra Yuen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678827,
+        890465863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1607479
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"d9af37af8e28ef7933236ee887662fcf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465863,
+            "locality_id":1293545653,
+            "region_id":85678827
+        }
+    ],
+    "wof:id":1293545653,
+    "wof:lastmodified":1537703626,
+    "wof:name":"Phra Yuen",
+    "wof:parent_id":890465863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.65182,
+    16.3293,
+    102.65182,
+    16.3293
+],
+  "geometry": {"coordinates":[102.65182,16.3293],"type":"Point"}
+}

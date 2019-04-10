@@ -1,0 +1,70 @@
+{
+  "id": 1226128483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.13819,16.46397,100.13819,16.46397",
+    "geom:latitude":16.46397,
+    "geom:longitude":100.13819,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Ban Nong Sadao",
+    "gn:country_code":"TH",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1599907,
+    "gn:latitude":16.46397,
+    "gn:longitude":100.13819,
+    "gn:modification_date":"2013-02-07",
+    "gn:name":"Ban Nong Sadao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e19\u0e2d\u0e07\u0e2a\u0e30\u0e40\u0e14\u0e32"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678669,
+        1108731831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1599907
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"71553f5a547ffd18b511fa79bdc3d807",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731831,
+            "locality_id":1226128483,
+            "region_id":85678669
+        }
+    ],
+    "wof:id":1226128483,
+    "wof:lastmodified":1537703454,
+    "wof:name":"Ban Nong Sadao",
+    "wof:parent_id":1108731831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.13819,
+    16.46397,
+    100.13819,
+    16.46397
+],
+  "geometry": {"coordinates":[100.13818999999999,16.46397],"type":"Point"}
+}

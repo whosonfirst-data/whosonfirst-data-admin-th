@@ -1,0 +1,64 @@
+{
+  "id": 1209331573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.88081,15.24475,104.88081,15.24475",
+    "geom:latitude":15.24475,
+    "geom:longitude":104.88081,
+    "gn:admin1_code":"75.0",
+    "gn:asciiname":"Ban Pathum",
+    "gn:country_code":"TH",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8317625,
+    "gn:latitude":15.24475,
+    "gn:longitude":104.88081,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Ban Pathum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1b\u0e17\u0e38\u0e21"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8317625
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"d4e0943927640de4e650738c7a5cf497",
+    "wof:hierarchy":[
+        {
+            "country_id":85632293,
+            "locality_id":1209331573
+        }
+    ],
+    "wof:id":1209331573,
+    "wof:lastmodified":1537705328,
+    "wof:name":"Ban Pathum",
+    "wof:parent_id":85632293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.88081,
+    15.24475,
+    104.88081,
+    15.24475
+],
+  "geometry": {"coordinates":[104.88081,15.24475],"type":"Point"}
+}

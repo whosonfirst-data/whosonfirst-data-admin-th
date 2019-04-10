@@ -1,0 +1,70 @@
+{
+  "id": 1226459401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.97458,12.97706,99.97458,12.97706",
+    "geom:latitude":12.97706,
+    "geom:longitude":99.97458,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"Ban Bo Phan Ngu",
+    "gn:country_code":"TH",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8278696,
+    "gn:latitude":12.97706,
+    "gn:longitude":99.97458,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Ban Bo Phan Ngu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1a\u0e48\u0e2d\u0e1e\u0e31\u0e19\u0e07\u0e39"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678753,
+        890466851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8278696
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"c5947f91926a6eed650985d83d007cee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466851,
+            "locality_id":1226459401,
+            "region_id":85678753
+        }
+    ],
+    "wof:id":1226459401,
+    "wof:lastmodified":1537705306,
+    "wof:name":"Ban Bo Phan Ngu",
+    "wof:parent_id":890466851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.97458,
+    12.97706,
+    99.97458,
+    12.97706
+],
+  "geometry": {"coordinates":[99.97458,12.97706],"type":"Point"}
+}

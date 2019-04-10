@@ -1,0 +1,70 @@
+{
+  "id": 1260176053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.19172,18.23322,100.19172,18.23322",
+    "geom:latitude":18.23322,
+    "geom:longitude":100.19172,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ban San Pa Sak",
+    "gn:country_code":"TH",
+    "gn:dem":167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8380661,
+    "gn:latitude":18.23322,
+    "gn:longitude":100.19172,
+    "gn:modification_date":"2012-09-08",
+    "gn:name":"Ban San Pa Sak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2a\u0e31\u0e19\u0e1b\u0e48\u0e32\u0e2a\u0e31\u0e01"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678643,
+        890466801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8380661
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"4f36ae4b0201c6129af3f481eb644951",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466801,
+            "locality_id":1260176053,
+            "region_id":85678643
+        }
+    ],
+    "wof:id":1260176053,
+    "wof:lastmodified":1537705534,
+    "wof:name":"Ban San Pa Sak",
+    "wof:parent_id":890466801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.19172,
+    18.23322000000001,
+    100.19172,
+    18.23322000000001
+],
+  "geometry": {"coordinates":[100.19172,18.23322000000001],"type":"Point"}
+}

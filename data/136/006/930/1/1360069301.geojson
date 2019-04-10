@@ -1,0 +1,70 @@
+{
+  "id": 1360069301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.49342,17.64525,99.49342,17.64525",
+    "geom:latitude":17.64525,
+    "geom:longitude":99.49342,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ban Mae San",
+    "gn:country_code":"TH",
+    "gn:dem":254,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8413827,
+    "gn:latitude":17.64525,
+    "gn:longitude":99.49342,
+    "gn:modification_date":"2012-11-10",
+    "gn:name":"Ban Mae San",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e41\u0e21\u0e48\u0e2a\u0e32\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678651,
+        890466181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8413827
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"a5ce2d5f6af967612f08d9215bb27b8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466181,
+            "locality_id":1360069301,
+            "region_id":85678651
+        }
+    ],
+    "wof:id":1360069301,
+    "wof:lastmodified":1537705584,
+    "wof:name":"Ban Mae San",
+    "wof:parent_id":890466181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.49342,
+    17.64525,
+    99.49342,
+    17.64525
+],
+  "geometry": {"coordinates":[99.49342,17.64525],"type":"Point"}
+}

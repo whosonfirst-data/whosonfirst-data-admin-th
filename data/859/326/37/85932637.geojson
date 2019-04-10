@@ -1,0 +1,106 @@
+{
+  "id": 85932637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000128,
+    "geom:area_square_m":1534945.174463,
+    "geom:bbox":"100.468620758,13.7679228143,100.483703613,13.7807754012",
+    "geom:latitude":13.774813,
+    "geom:longitude":100.476395,
+    "gn:id":"",
+    "iso:country":"TH",
+    "lbl:latitude":13.776481,
+    "lbl:longitude":100.47745,
+    "mps:latitude":13.774902,
+    "mps:longitude":100.476252,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":5,
+    "name:eng_x_preferred":[
+        "Arun Ammarin"
+    ],
+    "name:unk_x_variant":[
+        "Arun Ammarin"
+    ],
+    "qs:gn_adm0_cc":"TH",
+    "qs:gn_id":0,
+    "qs:gn_local":1609350,
+    "qs:gn_nam_loc":"Bangkok, Bangkok, TH",
+    "qs:gn_namadm1":"40",
+    "qs:local_max":21510,
+    "qs:local_sum":280580,
+    "qs:localhoods":117,
+    "qs:name":"Arun Ammarin",
+    "qs:name_adm0":"Thailand",
+    "qs:name_adm1":"Bangkok",
+    "qs:name_adm2":"Bangkok Noi",
+    "qs:name_local":"Bangkok",
+    "qs:photo_max":116,
+    "qs:photo_sum":234,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":9,
+    "qs:woe_adm0":23424960,
+    "qs:woe_adm1":2347165,
+    "qs:woe_adm2":28341383,
+    "qs:woe_lau":0,
+    "qs:woe_local":1225448,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85678739,
+        102191569,
+        85632293,
+        102025263,
+        890466393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55948119,
+        "qs:id":1091944,
+        "qs_pg:id":1091944
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"ee19de56a8fcb4b94d51db26e9902374",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466393,
+            "locality_id":102025263,
+            "neighbourhood_id":85932637,
+            "region_id":85678739
+        }
+    ],
+    "wof:id":85932637,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527269353,
+    "wof:name":"Arun Ammarin",
+    "wof:parent_id":102025263,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.46862075797912,
+    13.76792281426444,
+    100.48370361299999,
+    13.78077540120752
+],
+  "geometry": {"coordinates":[[[100.48095703100012,13.78077540120752],[100.48229134521586,13.77940153960002],[100.48233032200022,13.77936140759289],[100.48233032200022,13.77814795087467],[100.48370361299999,13.77673398465215],[100.48370361299999,13.77406640333463],[100.48095703100012,13.77406640365224],[100.48095703100012,13.76873115470009],[100.47962265268376,13.76873115470009],[100.47944313033946,13.76817664422585],[100.47821044900024,13.76792281426444],[100.4774265742742,13.76808422734423],[100.47679824039568,13.76873115470009],[100.47546386700009,13.76873115470009],[100.47546386700009,13.77006496044994],[100.47401277031719,13.77006496044994],[100.47271728500004,13.77139879216675],[100.46997070300006,13.77139879220503],[100.46949996925918,13.77139878900013],[100.46863631976282,13.77406640810005],[100.46862075797912,13.77411447495057],[100.46900326393546,13.77490213835723],[100.46997070300006,13.77540018335021],[100.46997070300006,13.77940153664451],[100.47546386927905,13.77940153738668],[100.47646461248382,13.78043193243481],[100.47821044900024,13.77983273879752],[100.48095703100012,13.78077540120752]]],"type":"Polygon"}
+}

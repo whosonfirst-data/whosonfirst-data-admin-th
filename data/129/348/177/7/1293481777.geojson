@@ -1,0 +1,76 @@
+{
+  "id": 1293481777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.50286,18.10975,99.50286,18.10975",
+    "geom:latitude":18.10975,
+    "geom:longitude":99.50286,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Ban Na Kwao",
+    "gn:country_code":"TH",
+    "gn:dem":245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1156208,
+    "gn:latitude":18.10975,
+    "gn:longitude":99.50286,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Ban Na Kwao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e19\u0e32\u0e01\u0e27\u0e49\u0e32\u0e27"
+    ],
+    "name:und_x_variant":[
+        "Ban Na Khot",
+        "Ban Na Kot",
+        "Ban Na Kao",
+        "Ban Na Kwao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678625,
+        1108802657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1156208
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"cdf6769f9f291417e4925eb13c995d7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802657,
+            "locality_id":1293481777,
+            "region_id":85678625
+        }
+    ],
+    "wof:id":1293481777,
+    "wof:lastmodified":1537703173,
+    "wof:name":"Ban Na Kwao",
+    "wof:parent_id":1108802657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.50286,
+    18.10975,
+    99.50286,
+    18.10975
+],
+  "geometry": {"coordinates":[99.50286,18.10975],"type":"Point"}
+}

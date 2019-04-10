@@ -1,0 +1,70 @@
+{
+  "id": 1259865535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.57417,16.04814,100.57417,16.04814",
+    "geom:latitude":16.04814,
+    "geom:longitude":100.57417,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Ban Takrut Rai",
+    "gn:country_code":"TH",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8452233,
+    "gn:latitude":16.04814,
+    "gn:longitude":100.57417,
+    "gn:modification_date":"2013-02-10",
+    "gn:name":"Ban Takrut Rai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e15\u0e30\u0e01\u0e23\u0e38\u0e14\u0e44\u0e23"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678669,
+        890465835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8452233
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"bd9a358c0a1d42bac0bc30e15f04a33c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465835,
+            "locality_id":1259865535,
+            "region_id":85678669
+        }
+    ],
+    "wof:id":1259865535,
+    "wof:lastmodified":1537705616,
+    "wof:name":"Ban Takrut Rai",
+    "wof:parent_id":890465835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.57417,
+    16.04814,
+    100.57417,
+    16.04814
+],
+  "geometry": {"coordinates":[100.57417,16.04814],"type":"Point"}
+}

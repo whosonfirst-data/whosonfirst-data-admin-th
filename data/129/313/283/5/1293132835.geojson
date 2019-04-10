@@ -1,0 +1,70 @@
+{
+  "id": 1293132835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.88578,19.32044,100.88578,19.32044",
+    "geom:latitude":19.32044,
+    "geom:longitude":100.88578,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Ban Soi Phrao",
+    "gn:country_code":"TH",
+    "gn:dem":301,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8231266,
+    "gn:latitude":19.32044,
+    "gn:longitude":100.88578,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Ban Soi Phrao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2a\u0e23\u0e49\u0e2d\u0e22\u0e1e\u0e23\u0e49\u0e32\u0e27"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678633,
+        890466499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8231266
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"486ba23ff857df25e601b704f6f3a824",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466499,
+            "locality_id":1293132835,
+            "region_id":85678633
+        }
+    ],
+    "wof:id":1293132835,
+    "wof:lastmodified":1537705181,
+    "wof:name":"Ban Soi Phrao",
+    "wof:parent_id":890466499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.88578,
+    19.32044,
+    100.88578,
+    19.32044
+],
+  "geometry": {"coordinates":[100.88578,19.32044],"type":"Point"}
+}

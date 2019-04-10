@@ -1,0 +1,70 @@
+{
+  "id": 1243385119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.20694,18.05878,99.20694,18.05878",
+    "geom:latitude":18.05878,
+    "geom:longitude":99.20694,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Ban Pong Phan",
+    "gn:country_code":"TH",
+    "gn:dem":269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8539832,
+    "gn:latitude":18.05878,
+    "gn:longitude":99.20694,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Ban Pong Phan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e42\u0e1b\u0e48\u0e07\u0e1e\u0e32\u0e19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678625,
+        1108731925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8539832
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"8e8ab28d282f158c0d8142308512acf2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731925,
+            "locality_id":1243385119,
+            "region_id":85678625
+        }
+    ],
+    "wof:id":1243385119,
+    "wof:lastmodified":1537705690,
+    "wof:name":"Ban Pong Phan",
+    "wof:parent_id":1108731925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.20694,
+    18.05878,
+    99.20694,
+    18.05878
+],
+  "geometry": {"coordinates":[99.20694,18.05878],"type":"Point"}
+}

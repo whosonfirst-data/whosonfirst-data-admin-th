@@ -1,0 +1,70 @@
+{
+  "id": 1243084449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.48108,11.81614,102.48108,11.81614",
+    "geom:latitude":11.81614,
+    "geom:longitude":102.48108,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"Ban Ao Phai",
+    "gn:country_code":"TH",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7930505,
+    "gn:latitude":11.81614,
+    "gn:longitude":102.48108,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Ao Phai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2d\u0e48\u0e32\u0e27\u0e44\u0e1c\u0e48"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678813,
+        1108731419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7930505
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"ea860e00e00f01cdb73e277d8ea81ae4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731419,
+            "locality_id":1243084449,
+            "region_id":85678813
+        }
+    ],
+    "wof:id":1243084449,
+    "wof:lastmodified":1537704903,
+    "wof:name":"Ban Ao Phai",
+    "wof:parent_id":1108731419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.48108,
+    11.81614,
+    102.48108,
+    11.81614
+],
+  "geometry": {"coordinates":[102.48108000000001,11.81614],"type":"Point"}
+}

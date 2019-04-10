@@ -1,0 +1,70 @@
+{
+  "id": 1243189133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.36926,17.78568,104.36926,17.78568",
+    "geom:latitude":17.78568,
+    "geom:longitude":104.36926,
+    "gn:admin1_code":"73.0",
+    "gn:asciiname":"Ban Hat Sai Phe",
+    "gn:country_code":"TH",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1603601,
+    "gn:latitude":17.78568,
+    "gn:longitude":104.36926,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Hat Sai Phe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e32\u0e14\u0e17\u0e23\u0e32\u0e22\u0e40\u0e1e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678879,
+        1108731993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1603601
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"cd763cd381f63335ad6e166f237461bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731993,
+            "locality_id":1243189133,
+            "region_id":85678879
+        }
+    ],
+    "wof:id":1243189133,
+    "wof:lastmodified":1537703589,
+    "wof:name":"Ban Hat Sai Phe",
+    "wof:parent_id":1108731993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.36926,
+    17.78568,
+    104.36926,
+    17.78568
+],
+  "geometry": {"coordinates":[104.36926,17.78568],"type":"Point"}
+}

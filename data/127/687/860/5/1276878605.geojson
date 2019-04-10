@@ -1,0 +1,70 @@
+{
+  "id": 1276878605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.44669,18.84883,100.44669,18.84883",
+    "geom:latitude":18.84883,
+    "geom:longitude":100.44669,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Ban Charoen Rat",
+    "gn:country_code":"TH",
+    "gn:dem":383,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8229954,
+    "gn:latitude":18.84883,
+    "gn:longitude":100.44669,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Ban Charoen Rat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e08\u0e23\u0e34\u0e0d\u0e23\u0e32\u0e29\u0e0e\u0e23\u0e4c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678633,
+        1108731127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8229954
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"15bc8e835bfadd4df71169442a12408a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731127,
+            "locality_id":1276878605,
+            "region_id":85678633
+        }
+    ],
+    "wof:id":1276878605,
+    "wof:lastmodified":1537705170,
+    "wof:name":"Ban Charoen Rat",
+    "wof:parent_id":1108731127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.44669,
+    18.84883,
+    100.44669,
+    18.84883
+],
+  "geometry": {"coordinates":[100.44669,18.84883],"type":"Point"}
+}

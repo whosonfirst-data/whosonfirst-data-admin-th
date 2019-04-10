@@ -1,0 +1,70 @@
+{
+  "id": 1226645353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.90353,19.15375,100.90353,19.15375",
+    "geom:latitude":19.15375,
+    "geom:longitude":100.90353,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Ban Rai Ruang Thong",
+    "gn:country_code":"TH",
+    "gn:dem":360,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8230203,
+    "gn:latitude":19.15375,
+    "gn:longitude":100.90353,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Ban Rai Ruang Thong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e44\u0e23\u0e48\u0e23\u0e27\u0e07\u0e17\u0e2d\u0e07"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678633,
+        890466167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8230203
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"6b24b63607fdeec07b315e97d1762c6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466167,
+            "locality_id":1226645353,
+            "region_id":85678633
+        }
+    ],
+    "wof:id":1226645353,
+    "wof:lastmodified":1537705172,
+    "wof:name":"Ban Rai Ruang Thong",
+    "wof:parent_id":890466167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.90353,
+    19.15375,
+    100.90353,
+    19.15375
+],
+  "geometry": {"coordinates":[100.90353,19.15375],"type":"Point"}
+}

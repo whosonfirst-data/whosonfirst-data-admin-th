@@ -1,0 +1,70 @@
+{
+  "id": 1193161901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.35744,19.32819,100.35744,19.32819",
+    "geom:latitude":19.32819,
+    "geom:longitude":100.35744,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Ban Nam Hak",
+    "gn:country_code":"TH",
+    "gn:dem":399,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1601109,
+    "gn:latitude":19.32819,
+    "gn:longitude":100.35744,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Ban Nam Hak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e19\u0e49\u0e33\u0e2e\u0e32\u0e01"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678637,
+        890466243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1601109
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"b0039f2c5f29fe579df11982c60fd061",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466243,
+            "locality_id":1193161901,
+            "region_id":85678637
+        }
+    ],
+    "wof:id":1193161901,
+    "wof:lastmodified":1537703499,
+    "wof:name":"Ban Nam Hak",
+    "wof:parent_id":890466243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.35744,
+    19.32819,
+    100.35744,
+    19.32819
+],
+  "geometry": {"coordinates":[100.35744,19.32819],"type":"Point"}
+}

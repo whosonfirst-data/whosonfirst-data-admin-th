@@ -1,0 +1,70 @@
+{
+  "id": 1309820709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.28831,13.13458,102.28831,13.13458",
+    "geom:latitude":13.13458,
+    "geom:longitude":102.28831,
+    "gn:admin1_code":"48.0",
+    "gn:asciiname":"Ban Pa Khaophot",
+    "gn:country_code":"TH",
+    "gn:dem":244,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7922063,
+    "gn:latitude":13.13458,
+    "gn:longitude":102.28831,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Pa Khaophot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1b\u0e48\u0e32\u0e02\u0e49\u0e32\u0e27\u0e42\u0e1e\u0e14"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678799,
+        1108731929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7922063
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"edca68496d236e281aba0987d072a4d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731929,
+            "locality_id":1309820709,
+            "region_id":85678799
+        }
+    ],
+    "wof:id":1309820709,
+    "wof:lastmodified":1537704889,
+    "wof:name":"Ban Pa Khaophot",
+    "wof:parent_id":1108731929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.28831,
+    13.13458,
+    102.28831,
+    13.13458
+],
+  "geometry": {"coordinates":[102.28831,13.13458],"type":"Point"}
+}

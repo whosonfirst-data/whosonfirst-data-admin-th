@@ -1,0 +1,70 @@
+{
+  "id": 1243471351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.58733,6.43306,101.58733,6.43306",
+    "geom:latitude":6.43306,
+    "geom:longitude":101.58733,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Ban Ba Ngo Chue Nga",
+    "gn:country_code":"TH",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7463221,
+    "gn:latitude":6.43306,
+    "gn:longitude":101.58733,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ban Ba Ngo Chue Nga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1a\u0e32\u0e42\u0e07\u0e08\u0e37\u0e2d\u0e07\u0e32"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678885,
+        890465725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7463221
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"2555367eeb66c601e7b13cecb47625e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890465725,
+            "locality_id":1243471351,
+            "region_id":85678885
+        }
+    ],
+    "wof:id":1243471351,
+    "wof:lastmodified":1537704504,
+    "wof:name":"Ban Ba Ngo Chue Nga",
+    "wof:parent_id":890465725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.58733,
+    6.43306,
+    101.58733,
+    6.43306
+],
+  "geometry": {"coordinates":[101.58732999999999,6.43306],"type":"Point"}
+}
