@@ -12,6 +12,12 @@
     "gn:country":"TH",
     "gp:adm0":23424960,
     "iso:country":"TH",
+    "label:eng_x_preferred_longname":[
+        "Muang Ranong District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":9.933336,
     "lbl:longitude":98.664285,
     "meso:admin1_en":"RANONG",
@@ -95,10 +101,11 @@
         }
     ],
     "wof:id":890467201,
-    "wof:lastmodified":1536617428,
+    "wof:lastmodified":1554489108,
     "wof:name":"Muang Ranong",
     "wof:parent_id":85678577,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-th",
     "wof:shortcode":"RA",
     "wof:superseded_by":[],

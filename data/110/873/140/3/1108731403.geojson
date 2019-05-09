@@ -10,6 +10,12 @@
     "geom:latitude":7.780603,
     "geom:longitude":99.977374,
     "iso:country":"TH",
+    "label:eng_x_preferred_longname":[
+        "Khuan Khanun District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":7.766585,
     "lbl:longitude":100.022461,
     "meso:admin1_en":"PHATTHALUNG",
@@ -83,10 +89,11 @@
         }
     ],
     "wof:id":1108731403,
-    "wof:lastmodified":1536615642,
+    "wof:lastmodified":1554489421,
     "wof:name":"Khuan Khanun",
     "wof:parent_id":85678591,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-th",
     "wof:shortcode":"KK",
     "wof:superseded_by":[],

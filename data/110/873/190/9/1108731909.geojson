@@ -10,6 +10,12 @@
     "geom:latitude":18.153225,
     "geom:longitude":103.781984,
     "iso:country":"TH",
+    "label:eng_x_preferred_longname":[
+        "Si Wichai District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":18.152706,
     "lbl:longitude":103.77294,
     "meso:admin1_en":"NONGKHAI",
@@ -81,10 +87,11 @@
         }
     ],
     "wof:id":1108731909,
-    "wof:lastmodified":1536615651,
+    "wof:lastmodified":1554489435,
     "wof:name":"Si Wichai",
     "wof:parent_id":85678895,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-th",
     "wof:shortcode":"SW",
     "wof:superseded_by":[],

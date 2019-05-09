@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":0,
     "iso:country":"TH",
+    "label:eng_x_preferred_longname":[
+        "Tha Bo District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":17.778692,
     "lbl:longitude":102.588961,
     "meso:admin1_en":"NONGKHAI",
@@ -104,10 +110,11 @@
         }
     ],
     "wof:id":890465741,
-    "wof:lastmodified":1536617417,
+    "wof:lastmodified":1554489101,
     "wof:name":"Tha Bo",
     "wof:parent_id":85678859,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:population":0,
     "wof:repo":"whosonfirst-data-admin-th",
     "wof:shortcode":"TB",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.071261,
-    "geom:area_square_m":829653846.975825,
+    "geom:area_square_m":829653846.975871,
     "geom:bbox":"99.9521095767,19.5069616826,100.44883,19.8732816594",
     "geom:latitude":19.685133,
     "geom:longitude":100.192554,
@@ -14,6 +14,12 @@
     "gn:pop":0,
     "gp:adm0":23424960,
     "iso:country":"TH",
+    "label:eng_x_preferred_longname":[
+        "Thoeng District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":19.631587,
     "lbl:longitude":100.085478,
     "meso:admin1_en":"CHIANG RAI",
@@ -73,6 +79,7 @@
     "qs:photos_sr":2,
     "qs:placetype":"County",
     "qs:pop_sr":"0",
+    "src:geom":"unknown",
     "src:geom_alt":[
         "quattroshapes"
     ],
@@ -116,7 +123,7 @@
         }
     ],
     "wof:id":890466587,
-    "wof:lastmodified":1553816409,
+    "wof:lastmodified":1555036992,
     "wof:name":"Thoeng",
     "wof:parent_id":85678617,
     "wof:placetype":"county",

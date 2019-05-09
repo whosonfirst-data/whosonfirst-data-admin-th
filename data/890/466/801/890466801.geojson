@@ -5,12 +5,18 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.065137,
-    "geom:area_square_m":765529215.116663,
+    "geom:area_square_m":765529215.116634,
     "geom:bbox":"100.043130245,17.8874367565,100.424639963,18.2714962443",
     "geom:latitude":18.109857,
     "geom:longitude":100.24974,
     "gp:adm0":23424960,
     "iso:country":"TH",
+    "label:eng_x_preferred_longname":[
+        "Muang Phrae District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":18.125872,
     "lbl:longitude":100.252608,
     "meso:admin1_en":"PHRAE",
@@ -72,6 +78,7 @@
     "qs:photos_sr":1,
     "qs:placetype":"County",
     "qs:pop_sr":"0",
+    "src:geom":"unknown",
     "src:geom_alt":[
         "quattroshapes"
     ],
@@ -114,7 +121,7 @@
         }
     ],
     "wof:id":890466801,
-    "wof:lastmodified":1553816409,
+    "wof:lastmodified":1555036992,
     "wof:name":"Muang Phrae",
     "wof:parent_id":85678643,
     "wof:placetype":"county",

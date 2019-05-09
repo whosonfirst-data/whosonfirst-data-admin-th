@@ -10,6 +10,12 @@
     "geom:latitude":18.399179,
     "geom:longitude":98.635603,
     "iso:country":"TH",
+    "label:eng_x_preferred_longname":[
+        "Chom Thong District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":18.432354,
     "lbl:longitude":98.59799,
     "meso:admin1_en":"CHANG MAI",
@@ -76,10 +82,11 @@
         }
     ],
     "wof:id":1108802597,
-    "wof:lastmodified":1536615834,
+    "wof:lastmodified":1554489526,
     "wof:name":"Chom Thong",
     "wof:parent_id":85678619,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-th",
     "wof:shortcode":"CT",
     "wof:superseded_by":[],

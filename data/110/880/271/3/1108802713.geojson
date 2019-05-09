@@ -10,6 +10,12 @@
     "geom:latitude":18.282356,
     "geom:longitude":103.332396,
     "iso:country":"TH",
+    "label:eng_x_preferred_longname":[
+        "Pak Khat District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":18.260403,
     "lbl:longitude":103.345138,
     "meso:admin1_en":"NONGKHAI",
@@ -73,10 +79,11 @@
         }
     ],
     "wof:id":1108802713,
-    "wof:lastmodified":1536615837,
+    "wof:lastmodified":1554489525,
     "wof:name":"Pak Khat",
     "wof:parent_id":85678895,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-th",
     "wof:shortcode":"PK",
     "wof:superseded_by":[],

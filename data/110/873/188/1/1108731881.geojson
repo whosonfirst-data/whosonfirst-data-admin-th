@@ -10,6 +10,12 @@
     "geom:latitude":17.913584,
     "geom:longitude":102.472364,
     "iso:country":"TH",
+    "label:eng_x_preferred_longname":[
+        "Si Chiang Mai District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":17.910389,
     "lbl:longitude":102.463682,
     "meso:admin1_en":"NONGKHAI",
@@ -80,10 +86,11 @@
         }
     ],
     "wof:id":1108731881,
-    "wof:lastmodified":1536615651,
+    "wof:lastmodified":1554489432,
     "wof:name":"Si Chiang Mai",
     "wof:parent_id":85678859,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-th",
     "wof:shortcode":"SC",
     "wof:superseded_by":[],

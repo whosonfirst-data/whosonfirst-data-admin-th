@@ -13,6 +13,12 @@
     "gn:fcode":"PPLA2",
     "gn:pop":0,
     "iso:country":"TH",
+    "label:eng_x_preferred_longname":[
+        "Pho Chai District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":16.35745,
     "lbl:longitude":103.789769,
     "meso:admin1_en":"ROIET",
@@ -82,10 +88,11 @@
         }
     ],
     "wof:id":1108802719,
-    "wof:lastmodified":1536615837,
+    "wof:lastmodified":1554489525,
     "wof:name":"Pho Chai",
     "wof:parent_id":85678845,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:population":52889,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-th",

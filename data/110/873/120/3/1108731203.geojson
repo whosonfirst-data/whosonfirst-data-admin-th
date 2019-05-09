@@ -10,6 +10,12 @@
     "geom:latitude":18.302526,
     "geom:longitude":103.634108,
     "iso:country":"TH",
+    "label:eng_x_preferred_longname":[
+        "Bung Kan District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":18.289955,
     "lbl:longitude":103.628966,
     "meso:admin1_en":"NONGKHAI",
@@ -58,10 +64,11 @@
         }
     ],
     "wof:id":1108731203,
-    "wof:lastmodified":1536615638,
+    "wof:lastmodified":1554489416,
     "wof:name":"Bung Kan",
     "wof:parent_id":85678895,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-th",
     "wof:shortcode":"KA",
     "wof:superseded_by":[],

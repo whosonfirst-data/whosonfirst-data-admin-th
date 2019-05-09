@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.186875,
-    "geom:area_square_m":2190508395.899926,
+    "geom:area_square_m":2190508395.899825,
     "geom:bbox":"100.351936512,18.3335098721,101.107219647,18.8346746214",
     "geom:latitude":18.564633,
     "geom:longitude":100.714326,
@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":0,
     "iso:country":"TH",
+    "label:eng_x_preferred_longname":[
+        "Wiang Sa District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":18.560915,
     "lbl:longitude":100.688728,
     "meso:admin1_en":"NAN",
@@ -65,6 +71,7 @@
     "qs:photos_9r":0,
     "qs:photos_sr":0,
     "qs:pop_sr":"0",
+    "src:geom":"unknown",
     "src:geom_alt":[
         "quattroshapes"
     ],
@@ -105,7 +112,7 @@
         }
     ],
     "wof:id":890465705,
-    "wof:lastmodified":1553816409,
+    "wof:lastmodified":1555036995,
     "wof:name":"Wiang Sa",
     "wof:parent_id":85678633,
     "wof:placetype":"county",

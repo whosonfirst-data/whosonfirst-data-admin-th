@@ -10,6 +10,12 @@
     "geom:latitude":15.249817,
     "geom:longitude":102.012427,
     "iso:country":"TH",
+    "label:eng_x_preferred_longname":[
+        "Non Thai District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":15.220744,
     "lbl:longitude":102.025067,
     "meso:admin1_en":"NAKHON RATCHASIMA",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":1108731607,
-    "wof:lastmodified":1536615646,
+    "wof:lastmodified":1554489419,
     "wof:name":"Non Thai",
     "wof:parent_id":85678841,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024813,
-    "geom:area_square_m":304129254.858234,
+    "geom:area_square_m":304129254.858273,
     "geom:bbox":"100.221564633,7.46415438071,100.385817216,7.69993774042",
     "geom:latitude":7.596931,
     "geom:longitude":100.295102,
     "iso:country":"TH",
+    "label:eng_x_preferred_longname":[
+        "Krasae Sin District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":7.60549,
     "lbl:longitude":100.288474,
     "meso:admin1_en":"SONGKHLA",
@@ -85,10 +91,11 @@
         }
     ],
     "wof:id":1108731433,
-    "wof:lastmodified":1514506157,
+    "wof:lastmodified":1554489422,
     "wof:name":"Krasae Sin",
     "wof:parent_id":-1,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-th",
     "wof:superseded_by":[],
     "wof:supersedes":[],

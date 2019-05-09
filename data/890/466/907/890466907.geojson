@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010652,
-    "geom:area_square_m":130418361.648371,
+    "geom:area_square_m":130418361.648516,
     "geom:bbox":"98.527053833,7.886194229,98.642059326,8.185360909",
     "geom:latitude":8.042094,
     "geom:longitude":98.591567,
@@ -14,6 +14,12 @@
     "gn:pop":0,
     "gp:adm0":23424960,
     "iso:country":"TH",
+    "label:eng_x_preferred_longname":[
+        "Ko Yao District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":7.955392,
     "lbl:longitude":98.592858,
     "meso:admin1_en":"PHANG NGA",
@@ -137,7 +143,7 @@
         }
     ],
     "wof:id":890466907,
-    "wof:lastmodified":1553816409,
+    "wof:lastmodified":1555036991,
     "wof:name":"Ko Yao",
     "wof:parent_id":85678573,
     "wof:placetype":"county",

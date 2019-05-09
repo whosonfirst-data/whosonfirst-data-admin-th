@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":0,
     "iso:country":"TH",
+    "label:eng_x_preferred_longname":[
+        "Mae Chaem District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":18.769548,
     "lbl:longitude":98.311276,
     "meso:admin1_en":"CHANG MAI",
@@ -108,10 +114,11 @@
         }
     ],
     "wof:id":890466281,
-    "wof:lastmodified":1536617422,
+    "wof:lastmodified":1554489106,
     "wof:name":"Mae Chaem",
     "wof:parent_id":85678619,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:population":0,
     "wof:repo":"whosonfirst-data-admin-th",
     "wof:shortcode":"MC",

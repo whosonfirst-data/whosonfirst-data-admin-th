@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003828,
-    "geom:area_square_m":45773152.161305,
+    "geom:area_square_m":45773152.161329,
     "geom:bbox":"100.341084487,14.7419303411,100.42785584,14.8208286263",
     "geom:latitude":14.779897,
     "geom:longitude":100.391778,
@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":0,
     "iso:country":"TH",
+    "label:eng_x_preferred_longname":[
+        "Tha Chang District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":14.779672,
     "lbl:longitude":100.396038,
     "meso:admin1_en":"SING BURI",
@@ -65,6 +71,7 @@
     "qs:photos_9r":0,
     "qs:photos_sr":0,
     "qs:pop_sr":"0",
+    "src:geom":"unknown",
     "src:geom_alt":[
         "quattroshapes"
     ],
@@ -105,7 +112,7 @@
         }
     ],
     "wof:id":890466157,
-    "wof:lastmodified":1553816409,
+    "wof:lastmodified":1555036994,
     "wof:name":"Tha Chang",
     "wof:parent_id":85678729,
     "wof:placetype":"county",

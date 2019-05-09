@@ -11,6 +11,12 @@
     "geom:longitude":99.926187,
     "gp:adm0":23424960,
     "iso:country":"TH",
+    "label:eng_x_preferred_longname":[
+        "Muang Satun District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":6.635874,
     "lbl:longitude":100.088385,
     "meso:admin1_en":"SATUN",
@@ -104,10 +110,11 @@
         }
     ],
     "wof:id":890466653,
-    "wof:lastmodified":1536617424,
+    "wof:lastmodified":1554489104,
     "wof:name":"Muang Satun",
     "wof:parent_id":85678595,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-th",
     "wof:shortcode":"SA",
     "wof:superseded_by":[],

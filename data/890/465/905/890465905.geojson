@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":0,
     "iso:country":"TH",
+    "label:eng_x_preferred_longname":[
+        "Phon Phisai District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":17.992638,
     "lbl:longitude":103.194012,
     "meso:admin1_en":"NONGKHAI",
@@ -97,10 +103,11 @@
         }
     ],
     "wof:id":890465905,
-    "wof:lastmodified":1536617418,
+    "wof:lastmodified":1554489104,
     "wof:name":"Phon Phisai",
     "wof:parent_id":85678859,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:population":0,
     "wof:repo":"whosonfirst-data-admin-th",
     "wof:shortcode":"PP",
