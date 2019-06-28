@@ -44,11 +44,8 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u0995\u09cb \u0995\u09c1\u09a4"
     ],
-    "name:chi_x_preferred":[
-        "\u9601\u9aa8\u5c9b"
-    ],
-    "name:dut_x_preferred":[
-        "Ko Kut"
+    "name:deu_x_preferred":[
+        "Amphoe Ko Kut"
     ],
     "name:eng_x_preferred":[
         "Ko Kut"
@@ -57,11 +54,8 @@
         "Ko Kut",
         "K. Ko Kut"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Ko Kut"
-    ],
-    "name:ger_x_preferred":[
-        "Amphoe Ko Kut"
     ],
     "name:ita_x_preferred":[
         "Ko Kut"
@@ -75,7 +69,10 @@
     "name:nan_x_preferred":[
         "Ko Kut K\u016bn"
     ],
-    "name:rum_x_preferred":[
+    "name:nld_x_preferred":[
+        "Ko Kut"
+    ],
+    "name:ron_x_preferred":[
         "Districtul Ko Kut"
     ],
     "name:spa_x_preferred":[
@@ -86,6 +83,9 @@
     ],
     "name:vie_x_preferred":[
         "C\u1ed5 C\u1ed1t"
+    ],
+    "name:zho_x_preferred":[
+        "\u9601\u9aa8\u5c9b"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -123,7 +123,7 @@
         }
     ],
     "wof:id":1108731419,
-    "wof:lastmodified":1554489420,
+    "wof:lastmodified":1561758760,
     "wof:name":"Ko Kut",
     "wof:parent_id":85678813,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004497,
-    "geom:area_square_m":54022653.862485,
+    "geom:area_square_m":54022653.862435,
     "geom:bbox":"102.454749208,13.6529665722,102.561118538,13.7670939422",
     "geom:latitude":13.699065,
     "geom:longitude":102.504591,
@@ -26,14 +26,8 @@
     "name:bul_x_preferred":[
         "\u0410\u0440\u0430\u043d\u044f\u043f\u0440\u0430\u0442\u0445\u0435\u0442"
     ],
-    "name:chi_x_preferred":[
-        "\u4e9e\u862d"
-    ],
     "name:deu_x_preferred":[
         "Aranyaprathet"
-    ],
-    "name:dut_x_preferred":[
-        "Aranya Prathet"
     ],
     "name:eng_x_preferred":[
         "Aranyaprathet"
@@ -51,9 +45,6 @@
     ],
     "name:fra_x_preferred":[
         "Amphoe Aranyaprathet"
-    ],
-    "name:ger_x_preferred":[
-        "Aranyaprathet"
     ],
     "name:heb_x_preferred":[
         "\u05d0\u05e8\u05d0\u05e0\u05d9\u05d0\u05e4\u05e8\u05d0\u05d8\u05d4\u05d8"
@@ -86,6 +77,9 @@
     ],
     "name:unk_x_variant":[
         "Muang Aran Pratet"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e9e\u862d"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Thailand",
@@ -230,7 +224,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636686,
+    "wof:lastmodified":1561758391,
     "wof:name":"Aranyaprathet",
     "wof:parent_id":890466787,
     "wof:placetype":"locality",

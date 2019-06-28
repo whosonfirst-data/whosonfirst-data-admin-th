@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001922,
-    "geom:area_square_m":23404308.265829,
+    "geom:area_square_m":23404308.265827,
     "geom:bbox":"99.0491044001,9.91111026256,99.1003096535,9.97248487554",
     "geom:latitude":9.944612,
     "geom:longitude":99.071213,
@@ -17,6 +17,9 @@
     "mps:longitude":99.070725,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Lang Suan"
+    ],
     "name:eng_x_colloquial":[
         "Moeang Hlang Soan",
         "Moeang Hlang Soean",
@@ -31,9 +34,6 @@
         "Khan Ngden",
         "Khan Ngoen",
         "Moeang Hlang S\u00f8an"
-    ],
-    "name:ger_x_preferred":[
-        "Lang Suan"
     ],
     "name:tha_x_preferred":[
         "\u0e2b\u0e25\u0e31\u0e07\u0e2a\u0e27\u0e19"
@@ -86,7 +86,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636433,
+    "wof:lastmodified":1561758376,
     "wof:name":"Lang Suan",
     "wof:parent_id":85678559,
     "wof:placetype":"locality",

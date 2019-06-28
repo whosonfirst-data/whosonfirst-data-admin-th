@@ -19,29 +19,20 @@
     "name:bod_x_preferred":[
         "\u0f45\u0f74\u0f58\u0f0b\u0f55\u0f71\u0f7c\u0f53\u0f0d"
     ],
-    "name:chi_x_preferred":[
-        "\u6625\u84ec\u5e02"
-    ],
     "name:dan_x_preferred":[
         "Chumphon"
     ],
     "name:deu_x_preferred":[
         "Chumphon"
     ],
-    "name:dut_x_preferred":[
-        "Chumphon"
-    ],
     "name:eng_x_preferred":[
         "Chumphon"
     ],
+    "name:fas_x_preferred":[
+        "\u0686\u0648\u0645\u067e\u0641\u0648\u0646"
+    ],
     "name:fra_x_preferred":[
         "Chumpon"
-    ],
-    "name:fre_x_preferred":[
-        "Chumpon"
-    ],
-    "name:ger_x_preferred":[
-        "Chumphon"
     ],
     "name:hun_x_preferred":[
         "Csumphon"
@@ -64,9 +55,6 @@
     "name:nor_x_preferred":[
         "Chumphon"
     ],
-    "name:per_x_preferred":[
-        "\u0686\u0648\u0645\u067e\u0641\u0648\u0646"
-    ],
     "name:pnb_x_preferred":[
         "\u0686\u0645\u067e\u06be\u0648\u0646"
     ],
@@ -85,9 +73,6 @@
     "name:tha_x_variant":[
         "\u0e40\u0e17\u0e28\u0e1a\u0e32\u0e25\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e0a\u0e38\u0e21\u0e1e\u0e23"
     ],
-    "name:tib_x_preferred":[
-        "\u0f45\u0f74\u0f58\u0f0b\u0f55\u0f71\u0f7c\u0f53\u0f0d"
-    ],
     "name:unk_x_variant":[
         "P\u0101k Nam"
     ],
@@ -96,6 +81,9 @@
     ],
     "name:war_x_preferred":[
         "Chumphon"
+    ],
+    "name:zho_x_preferred":[
+        "\u6625\u84ec\u5e02"
     ],
     "qs:name":"Ban Pak Nam Chumphon",
     "qs:name_adm0":"Thailand",
@@ -137,7 +125,7 @@
         }
     ],
     "wof:id":890466737,
-    "wof:lastmodified":1514506005,
+    "wof:lastmodified":1561758888,
     "wof:name":"Ban Pak Nam Chumphon",
     "wof:parent_id":890466037,
     "wof:placetype":"locality",

@@ -34,17 +34,14 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u099a\u09bf\u09af\u09bc\u09be\u0982 \u09a6\u09be\u0993"
     ],
-    "name:chi_x_preferred":[
-        "\u6e05\u9053"
+    "name:deu_x_preferred":[
+        "Amphoe Chiang Dao"
     ],
     "name:eng_x_preferred":[
         "Chiang Dao"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Chiang Dao"
-    ],
-    "name:ger_x_preferred":[
-        "Amphoe Chiang Dao"
     ],
     "name:jpn_x_preferred":[
         "\u30c1\u30a8\u30f3\u30c0\u30fc\u30aa\u90e1"
@@ -52,7 +49,7 @@
     "name:nan_x_preferred":[
         "Chiang Dao K\u016bn"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Districtul Chiang Dao"
     ],
     "name:tha_x_preferred":[
@@ -60,6 +57,9 @@
     ],
     "name:vie_x_preferred":[
         "Chiang Dao"
+    ],
+    "name:zho_x_preferred":[
+        "\u6e05\u9053"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -97,7 +97,7 @@
         }
     ],
     "wof:id":1108802591,
-    "wof:lastmodified":1554489526,
+    "wof:lastmodified":1561758728,
     "wof:name":"Chiang Dao",
     "wof:parent_id":85678619,
     "wof:placetype":"county",

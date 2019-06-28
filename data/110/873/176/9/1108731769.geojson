@@ -38,17 +38,14 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09b0\u09b2\u09be\u0987 \u09ab\u09b0\u09be\u09af\u09bc\u09be"
     ],
-    "name:chi_x_preferred":[
-        "\u62dc\u62cd\u8036\u53bf"
+    "name:deu_x_preferred":[
+        "Amphoe Plai Phraya"
     ],
     "name:eng_x_preferred":[
         "Plai Phraya"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Plai Phraya"
-    ],
-    "name:ger_x_preferred":[
-        "Amphoe Plai Phraya"
     ],
     "name:jpn_x_preferred":[
         "\u30d7\u30e9\u30fc\u30a4\u30d7\u30e9\u30e4\u30fc\u90e1"
@@ -59,7 +56,7 @@
     "name:por_x_preferred":[
         "Plai Phraya"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Districtul Plai Phraya"
     ],
     "name:tha_x_preferred":[
@@ -67,6 +64,9 @@
     ],
     "name:vie_x_preferred":[
         "Plai Phraya"
+    ],
+    "name:zho_x_preferred":[
+        "\u62dc\u62cd\u8036\u53bf"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -104,7 +104,7 @@
         }
     ],
     "wof:id":1108731769,
-    "wof:lastmodified":1554489430,
+    "wof:lastmodified":1561758763,
     "wof:name":"Plai Phraya",
     "wof:parent_id":85678585,
     "wof:placetype":"county",

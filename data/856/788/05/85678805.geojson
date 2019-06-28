@@ -47,14 +47,14 @@
     "name:bul_x_preferred":[
         "\u0421\u0430 \u041a\u0430\u0435\u043e"
     ],
-    "name:chi_x_preferred":[
-        "\u6c99\u7e73\u5e9c"
-    ],
     "name:dan_x_preferred":[
         "Sa Kaeo"
     ],
-    "name:dut_x_preferred":[
-        "Changwat Sa Kaew"
+    "name:deu_x_preferred":[
+        "Sa Kaeo"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1 \u039a\u03b1\u03ad\u03bf"
     ],
     "name:eng_x_preferred":[
         "Sa Kaeo"
@@ -62,23 +62,17 @@
     "name:eng_x_variant":[
         "Changwat Sa Kaeo"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627 \u06a9\u0627\u06cc\u0648"
+    ],
     "name:fin_x_preferred":[
         "Sa Kaeo"
     ],
-    "name:fre_x_preferred":[
-        "Sa Kaeo"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10d0\u10d9\u10d4\u10dd\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Sa Kaeo"
     ],
     "name:glg_x_preferred":[
         "Provincia Sa Kaeo"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03b1 \u039a\u03b1\u03ad\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0abe \u0a95\u0ac7\u0a93"
@@ -97,6 +91,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0cb8 \u0c95\u0cc7\u0c93"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10d9\u10d4\u10dd\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
     ],
     "name:kor_x_preferred":[
         "\uc0ac\uae68\uc624 \uc8fc"
@@ -119,20 +116,20 @@
     "name:mar_x_preferred":[
         "\u090f\u0938\u090f \u0915\u0947\u0913"
     ],
-    "name:may_x_preferred":[
-        "Sa Kaeo"
-    ],
     "name:mlg_x_preferred":[
         "Faritanin'i Sa Kaeo"
+    ],
+    "name:msa_x_preferred":[
+        "Sa Kaeo"
     ],
     "name:nan_x_preferred":[
         "Sa Kaeo H\u00fa"
     ],
+    "name:nld_x_preferred":[
+        "Changwat Sa Kaew"
+    ],
     "name:nob_x_preferred":[
         "Sa Kaeo"
-    ],
-    "name:per_x_preferred":[
-        "\u0633\u0627 \u06a9\u0627\u06cc\u0648"
     ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0633\u0627\u06a9\u0627\u0626\u06cc\u0624"
@@ -143,7 +140,7 @@
     "name:por_x_preferred":[
         "Sa Kaeo"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Provincia Sa Kaeo"
     ],
     "name:rus_x_preferred":[
@@ -190,6 +187,9 @@
     ],
     "name:war_x_preferred":[
         "Sa Kaeo"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c99\u7e73\u5e9c"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"THA",
@@ -314,7 +314,7 @@
     "wof:lang_x_spoken":[
         "tha"
     ],
-    "wof:lastmodified":1554156333,
+    "wof:lastmodified":1561758454,
     "wof:name":"Sa Kaeo",
     "wof:parent_id":85632293,
     "wof:placetype":"region",

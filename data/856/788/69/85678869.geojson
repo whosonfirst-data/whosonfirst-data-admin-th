@@ -40,6 +40,9 @@
     "name:ben_x_preferred":[
         "\u0989\u09a6\u09a8 \u09a5\u09be\u0987"
     ],
+    "name:bod_x_preferred":[
+        "\u0f68\u0f74\u0f0b\u0f4c\u0f7c\u0f53\u0f0b\u0f50\u0f0b\u0f53\u0f72\u0f0b\u0f5e\u0f72\u0f44\u0f0b\u0f46\u0f7a\u0f53\u0f0d"
+    ],
     "name:bpy_x_preferred":[
         "\u099a\u09be\u0982\u09f1\u09be\u09a4 \u0989\u09a6\u09cb\u09a8 \u09a5\u09be\u09a8\u09bf"
     ],
@@ -49,14 +52,14 @@
     "name:cat_x_preferred":[
         "Udon Thani"
     ],
-    "name:chi_x_preferred":[
-        "\u70cf\u9686\u5e9c"
-    ],
     "name:dan_x_preferred":[
         "Udon Thani"
     ],
-    "name:dut_x_preferred":[
-        "Changwat Udon Thani"
+    "name:deu_x_preferred":[
+        "Udon Thani"
+    ],
+    "name:ell_x_preferred":[
+        "\u039f\u03cd\u03bd\u03c4\u03bf\u03bd \u0398\u03ac\u03bd\u03b9"
     ],
     "name:eng_x_preferred":[
         "Udon Thani"
@@ -64,20 +67,17 @@
     "name:eng_x_variant":[
         "Changwat Udon Thani"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u062f\u0648\u0646 \u062a\u0627\u0646\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Udon Thani"
     ],
-    "name:fre_x_preferred":[
-        "Udon Thani"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Udon Thani"
     ],
     "name:glg_x_preferred":[
         "Provincia Udon Thani"
-    ],
-    "name:gre_x_preferred":[
-        "\u039f\u03cd\u03bd\u03c4\u03bf\u03bd \u0398\u03ac\u03bd\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0a89\u0aa1\u0acb\u0aa8 \u0aa5\u0abe\u0aa8\u0ac0"
@@ -115,23 +115,23 @@
     "name:mar_x_preferred":[
         "\u0909\u0926\u094b\u0928 \u0925\u093e\u0928\u0940"
     ],
-    "name:may_x_preferred":[
-        "Udon Thani"
-    ],
     "name:mlg_x_preferred":[
         "Faritanin'i Udon Thani"
     ],
+    "name:msa_x_preferred":[
+        "Udon Thani"
+    ],
     "name:nan_x_preferred":[
         "Udon Thani H\u00fa"
+    ],
+    "name:nld_x_preferred":[
+        "Changwat Udon Thani"
     ],
     "name:nno_x_preferred":[
         "Udon Thani"
     ],
     "name:nob_x_preferred":[
         "Udon Thani"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0648\u062f\u0648\u0646 \u062a\u0627\u0646\u06cc"
     ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0627\u0648\u062f\u0648\u0646 \u062a\u06be\u0627\u0646\u06cc"
@@ -142,7 +142,7 @@
     "name:por_x_preferred":[
         "Udon Thani"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Provincia Udon Thani"
     ],
     "name:rus_x_preferred":[
@@ -172,9 +172,6 @@
     "name:tha_x_variant":[
         "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e2d\u0e38\u0e14\u0e23\u0e18\u0e32\u0e19\u0e35"
     ],
-    "name:tib_x_preferred":[
-        "\u0f68\u0f74\u0f0b\u0f4c\u0f7c\u0f53\u0f0b\u0f50\u0f0b\u0f53\u0f72\u0f0b\u0f5e\u0f72\u0f44\u0f0b\u0f46\u0f7a\u0f53\u0f0d"
-    ],
     "name:tur_x_preferred":[
         "Udon Thani"
     ],
@@ -192,6 +189,9 @@
     ],
     "name:war_x_preferred":[
         "Udon Thani"
+    ],
+    "name:zho_x_preferred":[
+        "\u70cf\u9686\u5e9c"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"THA",
@@ -312,7 +312,7 @@
     "wof:lang_x_spoken":[
         "tha"
     ],
-    "wof:lastmodified":1554156334,
+    "wof:lastmodified":1561758454,
     "wof:name":"Udon Thani",
     "wof:parent_id":85632293,
     "wof:placetype":"region",

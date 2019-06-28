@@ -40,8 +40,8 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ae\u09c1\u09af\u09bc\u09c7\u0982 \u099a\u09b9\u09c1\u09ae\u09ab\u09cb\u09a8"
     ],
-    "name:chi_x_preferred":[
-        "\u6625\u84ec\u5e9c\u6cbb\u53bf"
+    "name:deu_x_preferred":[
+        "Amphoe Mueang Chumphon"
     ],
     "name:eng_x_preferred":[
         "Chumphon"
@@ -50,11 +50,8 @@
         "Muang Chumphon",
         "Mueang Chumphon"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Mueang Chumphon"
-    ],
-    "name:ger_x_preferred":[
-        "Amphoe Mueang Chumphon"
     ],
     "name:jpn_x_preferred":[
         "\u30e0\u30a2\u30f3\u30c1\u30e5\u30e0\u30dd\u30fc\u30f3\u90e1"
@@ -62,7 +59,7 @@
     "name:nan_x_preferred":[
         "Mueang Chumphon K\u016bn"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Districtul Mueang Chumphon"
     ],
     "name:tha_x_preferred":[
@@ -70,6 +67,9 @@
     ],
     "name:vie_x_preferred":[
         "Mueang Chumphon"
+    ],
+    "name:zho_x_preferred":[
+        "\u6625\u84ec\u5e9c\u6cbb\u53bf"
     ],
     "qs:name":"Mueang Chumphon",
     "qs:name_adm0":"Thailand",
@@ -120,7 +120,7 @@
         }
     ],
     "wof:id":890466037,
-    "wof:lastmodified":1554489100,
+    "wof:lastmodified":1561758892,
     "wof:name":"Muang Chumphon",
     "wof:parent_id":-1,
     "wof:placetype":"county",

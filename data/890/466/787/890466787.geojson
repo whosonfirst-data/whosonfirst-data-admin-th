@@ -39,20 +39,14 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u0985\u09b0\u09a8\u09cd\u09af\u09aa\u09cd\u09b0\u09be\u09a5\u09c7\u09a4"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u862d\u96c5\u666e\u62c9\u63d0\u7279"
-    ],
-    "name:dut_x_preferred":[
-        "Amphoe Aranya Prathet"
+    "name:deu_x_preferred":[
+        "Amphoe Aranyaprathet"
     ],
     "name:eng_x_preferred":[
         "Aranyaprathet"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Aranyaprathet"
-    ],
-    "name:ger_x_preferred":[
-        "Amphoe Aranyaprathet"
     ],
     "name:jpn_x_preferred":[
         "\u30a2\u30e9\u30f3\u30e4\u30d7\u30e9\u30c6\u30fc\u30c8\u90e1"
@@ -60,7 +54,10 @@
     "name:nan_x_preferred":[
         "Aranyaprathet K\u016bn"
     ],
-    "name:rum_x_preferred":[
+    "name:nld_x_preferred":[
+        "Amphoe Aranya Prathet"
+    ],
+    "name:ron_x_preferred":[
         "Districtul Aranyaprathet"
     ],
     "name:tha_x_preferred":[
@@ -68,6 +65,9 @@
     ],
     "name:vie_x_preferred":[
         "Aranyaprathet"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u862d\u96c5\u666e\u62c9\u63d0\u7279"
     ],
     "qs:name":"Aranyaprathet",
     "qs:name_adm0":"Thailand",
@@ -122,7 +122,7 @@
         }
     ],
     "wof:id":890466787,
-    "wof:lastmodified":1554489106,
+    "wof:lastmodified":1561758898,
     "wof:name":"Aranyaprathet",
     "wof:parent_id":85678805,
     "wof:placetype":"county",

@@ -41,20 +41,23 @@
     "name:ben_x_preferred":[
         "\u09ab\u09c7\u09ce\u099a\u09be\u09ac\u09c1\u09b0\u09bf"
     ],
+    "name:bod_x_preferred":[
+        "\u0f55\u0f7a\u0f0b\u0f4a\u0f72\u0f0b\u0f45\u0f0b\u0f56\u0f74\u0f0b\u0f62\u0f72\u0f0b\u0f5e\u0f72\u0f44\u0f0b\u0f46\u0f7a\u0f53\u0f0d"
+    ],
     "name:bpy_x_preferred":[
         "\u099a\u09be\u0982\u09f1\u09be\u09a4 \u09ab\u09c7\u09a4\u099a\u09be\u09ac\u09c1\u09b0\u09bf"
     ],
     "name:bul_x_preferred":[
         "\u041f\u0435\u0442\u0447\u0430\u0431\u0443\u0440\u0438"
     ],
-    "name:chi_x_preferred":[
-        "\u4f5b\u4e15\u5e9c"
-    ],
     "name:dan_x_preferred":[
         "Phetchaburi"
     ],
-    "name:dut_x_preferred":[
-        "Changwat Phetchaburi"
+    "name:deu_x_preferred":[
+        "Phetchaburi"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03ad\u03c4\u03c3\u03b1\u03bc\u03c0\u03bf\u03c5\u03c1\u03b9"
     ],
     "name:eng_x_preferred":[
         "Phetchaburi"
@@ -65,23 +68,17 @@
     "name:est_x_preferred":[
         "Phetchaburi provints"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u062a\u0686\u0627\u0628\u0648\u0631\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Phetchaburi"
     ],
-    "name:fre_x_preferred":[
-        "Phetchaburi"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e4\u10d4\u10e2\u10e9\u10d0\u10d1\u10e3\u10e0\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Phetchaburi"
     ],
     "name:glg_x_preferred":[
         "Provincia Phetchaburi"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03ad\u03c4\u03c3\u03b1\u03bc\u03c0\u03bf\u03c5\u03c1\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0aab\u0ac7\u0a9f\u0a9a\u0abe\u0aac\u0ac1\u0ab0\u0ac0"
@@ -101,6 +98,9 @@
     "name:kan_x_preferred":[
         "\u0caa\u0cc6\u0c9a\u0cc6\u0c9a\u0cac\u0cb0\u0cbf"
     ],
+    "name:kat_x_preferred":[
+        "\u10e4\u10d4\u10e2\u10e9\u10d0\u10d1\u10e3\u10e0\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\ud3ab\ucc28\ubd80\ub9ac \uc8fc"
     ],
@@ -119,20 +119,20 @@
     "name:mar_x_preferred":[
         "\u092b\u0947\u091f\u091a\u092c\u0941\u0930\u0940"
     ],
-    "name:may_x_preferred":[
-        "Phetchaburi"
-    ],
     "name:mlg_x_preferred":[
         "Faritanin'i Phetchaburi"
+    ],
+    "name:msa_x_preferred":[
+        "Phetchaburi"
     ],
     "name:nan_x_preferred":[
         "Phetchaburi H\u00fa"
     ],
+    "name:nld_x_preferred":[
+        "Changwat Phetchaburi"
+    ],
     "name:nob_x_preferred":[
         "Phetchaburi"
-    ],
-    "name:per_x_preferred":[
-        "\u067e\u062a\u0686\u0627\u0628\u0648\u0631\u06cc"
     ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u067e\u06be\u0679\u0686\u0627\u0628\u0648\u0631\u06cc"
@@ -143,7 +143,7 @@
     "name:por_x_preferred":[
         "Phetchaburi"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Provincia Phetchaburi"
     ],
     "name:rus_x_preferred":[
@@ -176,9 +176,6 @@
     "name:tha_x_variant":[
         "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e40\u0e1e\u0e0a\u0e23\u0e1a\u0e38\u0e23\u0e35"
     ],
-    "name:tib_x_preferred":[
-        "\u0f55\u0f7a\u0f0b\u0f4a\u0f72\u0f0b\u0f45\u0f0b\u0f56\u0f74\u0f0b\u0f62\u0f72\u0f0b\u0f5e\u0f72\u0f44\u0f0b\u0f46\u0f7a\u0f53\u0f0d"
-    ],
     "name:tur_x_preferred":[
         "Phetchaburi"
     ],
@@ -196,6 +193,9 @@
     ],
     "name:war_x_preferred":[
         "Phetchaburi"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f5b\u4e15\u5e9c"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"THA",
@@ -320,7 +320,7 @@
     "wof:lang_x_spoken":[
         "tha"
     ],
-    "wof:lastmodified":1554156332,
+    "wof:lastmodified":1561758458,
     "wof:name":"Phetchaburi",
     "wof:parent_id":85632293,
     "wof:placetype":"region",

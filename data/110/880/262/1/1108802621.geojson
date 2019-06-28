@@ -34,17 +34,14 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u0996\u09b2\u09cb\u0982 \u09a5\u09cb\u09ae"
     ],
-    "name:chi_x_preferred":[
-        "\u7a7a\u7edf\u53bf"
+    "name:deu_x_preferred":[
+        "Amphoe Khlong Thom"
     ],
     "name:eng_x_preferred":[
         "Khlong Thom"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Khlong Thom"
-    ],
-    "name:ger_x_preferred":[
-        "Amphoe Khlong Thom"
     ],
     "name:jpn_x_preferred":[
         "\u30af\u30ed\u30fc\u30f3\u30c8\u30e0\u90e1"
@@ -55,7 +52,7 @@
     "name:por_x_preferred":[
         "Khlong Thom"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Districtul Khlong Thom"
     ],
     "name:tha_x_preferred":[
@@ -63,6 +60,9 @@
     ],
     "name:vie_x_preferred":[
         "Khlong Thom"
+    ],
+    "name:zho_x_preferred":[
+        "\u7a7a\u7edf\u53bf"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -100,7 +100,7 @@
         }
     ],
     "wof:id":1108802621,
-    "wof:lastmodified":1554489523,
+    "wof:lastmodified":1561758732,
     "wof:name":"Khlong Thom",
     "wof:parent_id":85678585,
     "wof:placetype":"county",

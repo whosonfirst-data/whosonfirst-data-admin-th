@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000251,
-    "geom:area_square_m":2966921.973124,
+    "geom:area_square_m":2966921.97312,
     "geom:bbox":"99.0708045266,17.0109805817,99.0895552894,17.0293168273",
     "geom:latitude":17.019718,
     "geom:longitude":99.079864,
@@ -23,13 +23,13 @@
     "name:cat_x_preferred":[
         "Tak"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Tak"
     ],
     "name:deu_x_preferred":[
         "Amphoe Ban Tak"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_variant":[
         "Tak"
     ],
     "name:eng_x_preferred":[
@@ -38,10 +38,7 @@
     "name:eng_x_variant":[
         "Tak"
     ],
-    "name:fre_x_preferred":[
-        "Tak"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Tak"
     ],
     "name:ita_x_preferred":[
@@ -55,6 +52,9 @@
     ],
     "name:lit_x_preferred":[
         "Takas"
+    ],
+    "name:nld_x_preferred":[
+        "Tak"
     ],
     "name:nob_x_preferred":[
         "Tak"
@@ -144,7 +144,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1553815721,
+    "wof:lastmodified":1561758380,
     "wof:name":"Ban Tak",
     "wof:parent_id":85678683,
     "wof:placetype":"locality",

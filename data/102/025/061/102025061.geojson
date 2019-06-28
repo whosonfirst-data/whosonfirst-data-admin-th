@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005621,
-    "geom:area_square_m":69018152.7557,
+    "geom:area_square_m":69018152.75568,
     "geom:bbox":"101.191521428,6.53006446999,101.631200553,6.90819960549",
     "geom:latitude":6.788208,
     "geom:longitude":101.312477,
@@ -28,25 +28,13 @@
     "name:bod_x_preferred":[
         "\u0f54\u0f0b\u0f4a\u0f0b\u0f53\u0f72\u0f0d"
     ],
-    "name:chi_x_preferred":[
-        "\u5317\u5927\u5e74\u5e02"
-    ],
     "name:deu_x_preferred":[
-        "Pattani"
-    ],
-    "name:dut_x_preferred":[
         "Pattani"
     ],
     "name:eng_x_preferred":[
         "Pattani"
     ],
     "name:fra_x_preferred":[
-        "Pattani"
-    ],
-    "name:fre_x_preferred":[
-        "Pattani"
-    ],
-    "name:ger_x_preferred":[
         "Pattani"
     ],
     "name:ita_x_preferred":[
@@ -94,9 +82,6 @@
     "name:tha_x_variant":[
         "\u0e1b\u0e31\u0e15\u0e15\u0e32\u0e19\u0e35"
     ],
-    "name:tib_x_preferred":[
-        "\u0f54\u0f0b\u0f4a\u0f0b\u0f53\u0f72\u0f0d"
-    ],
     "name:tur_x_preferred":[
         "Pattani"
     ],
@@ -108,6 +93,9 @@
     ],
     "name:war_x_preferred":[
         "Pattani"
+    ],
+    "name:zho_x_preferred":[
+        "\u5317\u5927\u5e74\u5e02"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Thailand",
@@ -259,7 +247,7 @@
         }
     ],
     "wof:id":102025061,
-    "wof:lastmodified":1527636687,
+    "wof:lastmodified":1561758392,
     "wof:name":"Pattani",
     "wof:parent_id":890466133,
     "wof:placetype":"locality",

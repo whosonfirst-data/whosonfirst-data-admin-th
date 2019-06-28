@@ -46,14 +46,14 @@
     "name:bul_x_preferred":[
         "\u0421\u0443\u0444\u0430\u043d\u0430\u0431\u0443\u0440\u0438"
     ],
-    "name:chi_x_preferred":[
-        "\u7d20\u6500\u6b66\u91cc\u5e9c"
-    ],
     "name:dan_x_preferred":[
         "Suphanburi"
     ],
-    "name:dut_x_preferred":[
-        "Changwat Suphanburi"
+    "name:deu_x_preferred":[
+        "Suphanburi"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03bf\u03cd\u03c0\u03b1\u03bd \u039c\u03c0\u03bf\u03c5\u03c1\u03af"
     ],
     "name:eng_x_preferred":[
         "Suphan Buri"
@@ -62,20 +62,17 @@
         "Changwat Suphan Buri",
         "Suphanburi"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0648\u067e\u0627\u0646 \u0628\u0648\u0631\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Suphanburi"
     ],
-    "name:fre_x_preferred":[
-        "Suphanburi"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Suphanburi"
     ],
     "name:glg_x_preferred":[
         "Provincia Suphan Buri"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03bf\u03cd\u03c0\u03b1\u03bd \u039c\u03c0\u03bf\u03c5\u03c1\u03af"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ac1\u0aab\u0a82\u0aac\u0ac1\u0ab0\u0ac0"
@@ -113,20 +110,20 @@
     "name:mar_x_preferred":[
         "\u0938\u0941\u092d\u093e\u0928\u092c\u0941\u0930\u0940"
     ],
-    "name:may_x_preferred":[
-        "Suphan Buri"
-    ],
     "name:mlg_x_preferred":[
         "Faritanin'i Suphan Buri"
+    ],
+    "name:msa_x_preferred":[
+        "Suphan Buri"
     ],
     "name:nan_x_preferred":[
         "Suphanburi H\u00fa"
     ],
+    "name:nld_x_preferred":[
+        "Changwat Suphanburi"
+    ],
     "name:nob_x_preferred":[
         "Suphan Buri"
-    ],
-    "name:per_x_preferred":[
-        "\u0633\u0648\u067e\u0627\u0646 \u0628\u0648\u0631\u06cc"
     ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0633\u0648\u067e\u06be\u0627\u0646\u0628\u0648\u0631\u06cc"
@@ -137,7 +134,7 @@
     "name:por_x_preferred":[
         "Suphan Buri"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Provincia Suphanburi"
     ],
     "name:rus_x_preferred":[
@@ -187,6 +184,9 @@
     ],
     "name:war_x_preferred":[
         "Suphan Buri"
+    ],
+    "name:zho_x_preferred":[
+        "\u7d20\u6500\u6b66\u91cc\u5e9c"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"THA",
@@ -310,7 +310,7 @@
     "wof:lang_x_spoken":[
         "tha"
     ],
-    "wof:lastmodified":1554156333,
+    "wof:lastmodified":1561758457,
     "wof:name":"Suphan Buri",
     "wof:parent_id":85632293,
     "wof:placetype":"region",

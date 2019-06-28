@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006831,
-    "geom:area_square_m":79987715.50523,
+    "geom:area_square_m":79987715.505354,
     "geom:bbox":"99.0850421506,18.6944506003,99.2132818626,18.8165558184",
     "geom:latitude":18.747717,
     "geom:longitude":99.14732,
@@ -23,6 +23,9 @@
     "name:deu_x_preferred":[
         "Amphoe San Kamphaeng"
     ],
+    "name:deu_x_variant":[
+        "San Kamphaeng"
+    ],
     "name:eng_x_colloquial":[
         "Baan San Gampheang",
         "Ban San Gampheang",
@@ -38,10 +41,7 @@
         "S. Kamphaeng",
         "Sankambh\u0113ng"
     ],
-    "name:fre_x_preferred":[
-        "San Kamphaeng"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "San Kamphaeng"
     ],
     "name:jpn_x_preferred":[
@@ -114,7 +114,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636451,
+    "wof:lastmodified":1561758384,
     "wof:name":"San Kamphaeng",
     "wof:parent_id":85678619,
     "wof:placetype":"locality",

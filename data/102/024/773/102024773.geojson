@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016931,
-    "geom:area_square_m":207718146.753312,
+    "geom:area_square_m":207718146.75354,
     "geom:bbox":"100.290614761,6.9446487541,100.649311741,7.81256412066",
     "geom:latitude":7.156438,
     "geom:longitude":100.573125,
@@ -24,28 +24,16 @@
     "name:bod_x_preferred":[
         "\u0f66\u0f7c\u0f44\u0f0b\u0f41\u0f0b\u0f63\u0f0d"
     ],
-    "name:chi_x_preferred":[
-        "\u5b8b\u5361"
-    ],
     "name:dan_x_preferred":[
         "Songkhla"
     ],
     "name:deu_x_preferred":[
         "Songkhla"
     ],
-    "name:dut_x_preferred":[
-        "Songkhla"
-    ],
     "name:eng_x_preferred":[
         "Songkhla"
     ],
     "name:fra_x_preferred":[
-        "Songkhla"
-    ],
-    "name:fre_x_preferred":[
-        "Songkhla"
-    ],
-    "name:ger_x_preferred":[
         "Songkhla"
     ],
     "name:ind_x_preferred":[
@@ -63,14 +51,14 @@
     "name:lit_x_preferred":[
         "Songkhla"
     ],
-    "name:may_x_preferred":[
-        "Songkhla"
-    ],
     "name:mfa_x_preferred":[
         "Singgora"
     ],
     "name:msa_x_preferred":[
         "Singgora"
+    ],
+    "name:msa_x_variant":[
+        "Songkhla"
     ],
     "name:mya_x_preferred":[
         "Singgora"
@@ -107,9 +95,6 @@
     ],
     "name:tha_x_variant":[
         "\u0e2a\u0e07\u0e02\u0e25\u0e32"
-    ],
-    "name:tib_x_preferred":[
-        "\u0f66\u0f7c\u0f44\u0f0b\u0f41\u0f0b\u0f63\u0f0d"
     ],
     "name:ukr_x_preferred":[
         "\u0421\u043e\u043d\u0433\u043a\u0445\u043b\u0430"
@@ -271,7 +256,7 @@
         }
     ],
     "wof:id":102024773,
-    "wof:lastmodified":1527636450,
+    "wof:lastmodified":1561758383,
     "wof:name":"Songkhla",
     "wof:parent_id":890467221,
     "wof:placetype":"locality",

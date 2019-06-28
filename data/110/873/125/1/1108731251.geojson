@@ -38,8 +38,8 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u099a\u09cb-\u0986\u0987\u09b0\u09cb\u0982"
     ],
-    "name:chi_x_preferred":[
-        "\u671d\u7231\u8363\u53bf"
+    "name:deu_x_preferred":[
+        "Amphoe Cho-airong"
     ],
     "name:eng_x_preferred":[
         "Cho-airong"
@@ -48,11 +48,8 @@
         "Cho Irong",
         "Cho-I-rong"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Cho-airong"
-    ],
-    "name:ger_x_preferred":[
-        "Amphoe Cho-airong"
     ],
     "name:jpn_x_preferred":[
         "\u30c1\u30e7\u30a2\u30a4\u30ed\u30fc\u30f3\u90e1"
@@ -63,7 +60,7 @@
     "name:por_x_preferred":[
         "Cho-airong"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Districtul Cho-airong"
     ],
     "name:tha_x_preferred":[
@@ -71,6 +68,9 @@
     ],
     "name:vie_x_preferred":[
         "Cho-airong"
+    ],
+    "name:zho_x_preferred":[
+        "\u671d\u7231\u8363\u53bf"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -108,7 +108,7 @@
         }
     ],
     "wof:id":1108731251,
-    "wof:lastmodified":1554489422,
+    "wof:lastmodified":1561758761,
     "wof:name":"Cho Irong",
     "wof:parent_id":85678885,
     "wof:placetype":"county",

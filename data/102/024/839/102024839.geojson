@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001143,
-    "geom:area_square_m":13683822.109452,
+    "geom:area_square_m":13683822.109457,
     "geom:bbox":"100.776548747,14.5585769583,100.836304883,14.5873390008",
     "geom:latitude":14.571882,
     "geom:longitude":100.806424,
@@ -22,6 +22,9 @@
     "name:deu_x_preferred":[
         "Amphoe Sao Hai"
     ],
+    "name:deu_x_variant":[
+        "Sao Hai"
+    ],
     "name:eng_x_preferred":[
         "Sao Hai"
     ],
@@ -29,9 +32,6 @@
         "Amphu Sao-hai",
         "Ban Sa Kaeo",
         "Bau Sao Hai"
-    ],
-    "name:ger_x_preferred":[
-        "Sao Hai"
     ],
     "name:jpn_x_preferred":[
         "\u30b5\u30aa\u30cf\u30a4\u90e1"
@@ -101,7 +101,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636448,
+    "wof:lastmodified":1561758382,
     "wof:name":"Sao Hai",
     "wof:parent_id":1108802743,
     "wof:placetype":"locality",

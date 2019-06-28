@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006351,
-    "geom:area_square_m":74946498.137497,
+    "geom:area_square_m":74946498.137549,
     "geom:bbox":"104.530995098,17.1999777596,104.802504992,17.553573047",
     "geom:latitude":17.377995,
     "geom:longitude":104.727342,
@@ -26,13 +26,7 @@
     "name:bod_x_preferred":[
         "\u0f53\u0f0b\u0f41\u0f71\u0f7c\u0f53\u0f0b\u0f55\u0f0b\u0f53\u0f7c\u0f58\u0f0d"
     ],
-    "name:chi_x_preferred":[
-        "\u90a3\u7a7a\u62cd\u5102"
-    ],
     "name:deu_x_preferred":[
-        "Nakhon Phanom"
-    ],
-    "name:dut_x_preferred":[
         "Nakhon Phanom"
     ],
     "name:eng_x_preferred":[
@@ -50,13 +44,10 @@
         "Naung Bua",
         "Nong Buk"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u062e\u0648\u0646 \u067e\u0627\u0646\u0648\u0645"
+    ],
     "name:fra_x_preferred":[
-        "Nakhon Phanom"
-    ],
-    "name:fre_x_preferred":[
-        "Nakhon Phanom"
-    ],
-    "name:ger_x_preferred":[
         "Nakhon Phanom"
     ],
     "name:heb_x_preferred":[
@@ -77,9 +68,6 @@
     "name:nor_x_preferred":[
         "Nakhon Phanom"
     ],
-    "name:per_x_preferred":[
-        "\u0646\u0627\u062e\u0648\u0646 \u067e\u0627\u0646\u0648\u0645"
-    ],
     "name:pnb_x_preferred":[
         "\u0646\u06a9\u06be\u0648\u0646 \u067e\u06be\u0627\u0646\u0648\u0645"
     ],
@@ -98,9 +86,6 @@
     "name:tha_x_variant":[
         "\u0e19\u0e04\u0e23\u0e1e\u0e19\u0e21"
     ],
-    "name:tib_x_preferred":[
-        "\u0f53\u0f0b\u0f41\u0f71\u0f7c\u0f53\u0f0b\u0f55\u0f0b\u0f53\u0f7c\u0f58\u0f0d"
-    ],
     "name:unk_x_variant":[
         "Ban Nakhon Phnom"
     ],
@@ -109,6 +94,9 @@
     ],
     "name:war_x_preferred":[
         "Nakhon Phanom"
+    ],
+    "name:zho_x_preferred":[
+        "\u90a3\u7a7a\u62cd\u5102"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Thailand",
@@ -250,7 +238,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636689,
+    "wof:lastmodified":1561758393,
     "wof:name":"Nakhon Phanom",
     "wof:parent_id":1108802675,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018871,
-    "geom:area_square_m":221553792.499402,
+    "geom:area_square_m":221553792.499431,
     "geom:bbox":"99.3673735925,18.1939997249,99.617010691,18.4000553098",
     "geom:latitude":18.289061,
     "geom:longitude":99.481685,
@@ -28,17 +28,14 @@
     "name:bod_x_preferred":[
         "\u0f63\u0f58\u0f0b\u0f54\u0f44\u0f0b\u0f0d"
     ],
-    "name:chi_x_preferred":[
-        "\u6797\u90a6"
-    ],
     "name:dan_x_preferred":[
         "Lampang"
     ],
     "name:deu_x_preferred":[
         "Lampang"
     ],
-    "name:dut_x_preferred":[
-        "Lampang"
+    "name:ell_x_preferred":[
+        "\u039b\u03b1\u03bc\u03c0\u03ac\u03bd\u03b3\u03ba"
     ],
     "name:eng_x_preferred":[
         "Lampang"
@@ -48,15 +45,6 @@
     ],
     "name:fra_x_preferred":[
         "Lampang"
-    ],
-    "name:fre_x_preferred":[
-        "Lampang"
-    ],
-    "name:ger_x_preferred":[
-        "Lampang"
-    ],
-    "name:gre_x_preferred":[
-        "\u039b\u03b1\u03bc\u03c0\u03ac\u03bd\u03b3\u03ba"
     ],
     "name:guj_x_preferred":[
         "\u0ab2\u0ac7\u0aae\u0acd\u0aaa\u0abe\u0a82\u0a97"
@@ -88,7 +76,7 @@
     "name:mar_x_preferred":[
         "\u0932\u0902\u092a\u093e\u0902\u0917"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lampang"
     ],
     "name:nld_x_preferred":[
@@ -130,9 +118,6 @@
     "name:tha_x_variant":[
         "\u0e25\u0e33\u0e1b\u0e32\u0e07"
     ],
-    "name:tib_x_preferred":[
-        "\u0f63\u0f58\u0f0b\u0f54\u0f44\u0f0b\u0f0d"
-    ],
     "name:tur_x_preferred":[
         "Lampang"
     ],
@@ -150,6 +135,9 @@
     ],
     "name:war_x_preferred":[
         "Lampang"
+    ],
+    "name:zho_x_preferred":[
+        "\u6797\u90a6"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Thailand",
@@ -301,7 +289,7 @@
         }
     ],
     "wof:id":102024285,
-    "wof:lastmodified":1527636446,
+    "wof:lastmodified":1561758381,
     "wof:name":"Lampang",
     "wof:parent_id":1108802669,
     "wof:placetype":"locality",

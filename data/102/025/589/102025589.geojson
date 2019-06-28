@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000263,
-    "geom:area_square_m":3127441.485449,
+    "geom:area_square_m":3127441.485447,
     "geom:bbox":"102.059157557,15.7673667066,102.077805417,15.785424106",
     "geom:latitude":15.776395,
     "geom:longitude":102.068481,
@@ -21,22 +21,19 @@
     "name:ara_x_preferred":[
         "\u062a\u0634\u0627\u064a\u0627\u0641\u0648\u0645"
     ],
+    "name:bod_x_preferred":[
+        "\u0f45\u0f60\u0f72\u0f0b\u0f61\u0f0b\u0f55\u0f74\u0f58\u0f0d"
+    ],
     "name:dan_x_preferred":[
         "Chaiyaphum"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Chaiyaphum"
     ],
     "name:eng_x_preferred":[
         "Chaiyaphum"
     ],
-    "name:fre_x_preferred":[
-        "Chaiyaphum"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e9\u10d0\u10d8\u10d8\u10d0\u10e4\u10e3\u10db\u10d8"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Chaiyaphum"
     ],
     "name:glg_x_preferred":[
@@ -45,11 +42,17 @@
     "name:ita_x_preferred":[
         "Chaiyaphum"
     ],
+    "name:kat_x_preferred":[
+        "\u10e9\u10d0\u10d8\u10d8\u10d0\u10e4\u10e3\u10db\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ucc28\uc774\uc57c\ud488"
     ],
     "name:lit_x_preferred":[
         "\u010caijaphumas"
+    ],
+    "name:nld_x_preferred":[
+        "Chaiyaphum"
     ],
     "name:nob_x_preferred":[
         "Chaiyaphum"
@@ -68,9 +71,6 @@
     ],
     "name:tha_x_preferred":[
         "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e19\u0e2d\u0e07\u0e21\u0e48\u0e27\u0e07"
-    ],
-    "name:tib_x_preferred":[
-        "\u0f45\u0f60\u0f72\u0f0b\u0f61\u0f0b\u0f55\u0f74\u0f58\u0f0d"
     ],
     "name:unk_x_variant":[
         "Chaiyaphum"
@@ -122,7 +122,7 @@
         }
     ],
     "wof:id":102025589,
-    "wof:lastmodified":1514506004,
+    "wof:lastmodified":1561758389,
     "wof:name":"Ban Nong Muang",
     "wof:parent_id":890466029,
     "wof:placetype":"locality",

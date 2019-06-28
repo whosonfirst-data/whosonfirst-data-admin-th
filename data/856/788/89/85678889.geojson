@@ -40,6 +40,9 @@
     "name:ben_x_preferred":[
         "\u09aa\u09be\u09a4\u09cd\u09a4\u09be\u09a8\u09bf"
     ],
+    "name:bod_x_preferred":[
+        "\u0f54\u0f0b\u0f4a\u0f0b\u0f53\u0f72\u0f0b\u0f5e\u0f72\u0f44\u0f0b\u0f46\u0f7a\u0f53\u0f0d"
+    ],
     "name:bpy_x_preferred":[
         "\u099a\u09be\u0982\u09f1\u09be\u09a4 \u09aa\u09be\u09a4\u09cd\u09a4\u09be\u09a8\u09bf"
     ],
@@ -49,14 +52,14 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia de Pattani"
     ],
-    "name:chi_x_preferred":[
-        "\u5317\u5927\u5e74\u5e9c"
-    ],
     "name:dan_x_preferred":[
         "Pattani"
     ],
-    "name:dut_x_preferred":[
-        "Changwat Pattani"
+    "name:deu_x_preferred":[
+        "Pattani"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03b1\u03c4\u03ac\u03bd\u03b9"
     ],
     "name:eng_x_preferred":[
         "Pattani"
@@ -64,20 +67,17 @@
     "name:eng_x_variant":[
         "Changwat Pattani"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u062a\u0627\u0646\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Pattani"
     ],
-    "name:fre_x_preferred":[
-        "Pattani"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Pattani"
     ],
     "name:glg_x_preferred":[
         "Provincia Pattani"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03b1\u03c4\u03ac\u03bd\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0aaa\u0a9f\u0acd\u0a9f\u0abe\u0aa8\u0ac0"
@@ -115,20 +115,20 @@
     "name:mar_x_preferred":[
         "\u092a\u091f\u094d\u091f\u093e\u0923\u0940"
     ],
-    "name:may_x_preferred":[
-        "Pattani"
-    ],
     "name:mlg_x_preferred":[
         "Faritanin'i Pattani"
+    ],
+    "name:msa_x_preferred":[
+        "Pattani"
     ],
     "name:nan_x_preferred":[
         "Pattani H\u00fa"
     ],
+    "name:nld_x_preferred":[
+        "Changwat Pattani"
+    ],
     "name:nob_x_preferred":[
         "Pattani"
-    ],
-    "name:per_x_preferred":[
-        "\u067e\u0627\u062a\u0627\u0646\u06cc"
     ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u067e\u0679\u0627\u0646\u06cc"
@@ -139,7 +139,7 @@
     "name:por_x_preferred":[
         "Pattani"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Provincia Pattani"
     ],
     "name:rus_x_preferred":[
@@ -175,9 +175,6 @@
     "name:tha_x_variant":[
         "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e1b\u0e31\u0e15\u0e15\u0e32\u0e19\u0e35"
     ],
-    "name:tib_x_preferred":[
-        "\u0f54\u0f0b\u0f4a\u0f0b\u0f53\u0f72\u0f0b\u0f5e\u0f72\u0f44\u0f0b\u0f46\u0f7a\u0f53\u0f0d"
-    ],
     "name:tur_x_preferred":[
         "Pattani ili"
     ],
@@ -195,6 +192,9 @@
     ],
     "name:war_x_preferred":[
         "Pattani"
+    ],
+    "name:zho_x_preferred":[
+        "\u5317\u5927\u5e74\u5e9c"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"THA",
@@ -318,7 +318,7 @@
     "wof:lang_x_spoken":[
         "tha"
     ],
-    "wof:lastmodified":1554156332,
+    "wof:lastmodified":1561758454,
     "wof:name":"Pattani",
     "wof:parent_id":85632293,
     "wof:placetype":"region",

@@ -38,17 +38,14 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09b2\u09be\u09ae \u09a5\u09be\u09b0"
     ],
-    "name:chi_x_preferred":[
-        "\u5170\u5b83\u53bf"
+    "name:deu_x_preferred":[
+        "Amphoe Lam Thap"
     ],
     "name:eng_x_preferred":[
         "Lam Thap"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Lam Thap"
-    ],
-    "name:ger_x_preferred":[
-        "Amphoe Lam Thap"
     ],
     "name:jpn_x_preferred":[
         "\u30e9\u30e0\u30bf\u30c3\u30d7\u90e1"
@@ -59,7 +56,7 @@
     "name:por_x_preferred":[
         "Lam Thap"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Districtul Lam Thap"
     ],
     "name:spa_x_preferred":[
@@ -73,6 +70,9 @@
     ],
     "name:vie_x_preferred":[
         "Lam Thap"
+    ],
+    "name:zho_x_preferred":[
+        "\u5170\u5b83\u53bf"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -110,7 +110,7 @@
         }
     ],
     "wof:id":1108731459,
-    "wof:lastmodified":1554489426,
+    "wof:lastmodified":1561758745,
     "wof:name":"Lam Thap",
     "wof:parent_id":85678565,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015877,
-    "geom:area_square_m":193066391.435292,
+    "geom:area_square_m":193066391.435236,
     "geom:bbox":"99.0820529852,10.2247986044,99.2541323432,10.7182333194",
     "geom:latitude":10.455849,
     "geom:longitude":99.161459,
@@ -21,16 +21,10 @@
     "name:bod_x_preferred":[
         "\u0f45\u0f74\u0f58\u0f0b\u0f55\u0f71\u0f7c\u0f53\u0f0d"
     ],
-    "name:chi_x_preferred":[
-        "\u6625\u84ec\u5e02"
-    ],
     "name:dan_x_preferred":[
         "Chumphon"
     ],
     "name:deu_x_preferred":[
-        "Chumphon"
-    ],
-    "name:dut_x_preferred":[
         "Chumphon"
     ],
     "name:eng_x_preferred":[
@@ -46,14 +40,11 @@
         "Jumbor",
         "Mueang Chumphon"
     ],
+    "name:fas_x_preferred":[
+        "\u0686\u0648\u0645\u067e\u0641\u0648\u0646"
+    ],
     "name:fra_x_preferred":[
         "Chumpon"
-    ],
-    "name:fre_x_preferred":[
-        "Chumpon"
-    ],
-    "name:ger_x_preferred":[
-        "Chumphon"
     ],
     "name:hun_x_preferred":[
         "Csumphon"
@@ -76,9 +67,6 @@
     "name:nor_x_preferred":[
         "Chumphon"
     ],
-    "name:per_x_preferred":[
-        "\u0686\u0648\u0645\u067e\u0641\u0648\u0646"
-    ],
     "name:pnb_x_preferred":[
         "\u0686\u0645\u067e\u06be\u0648\u0646"
     ],
@@ -97,9 +85,6 @@
     "name:tha_x_variant":[
         "\u0e0a\u0e38\u0e21\u0e1e\u0e23"
     ],
-    "name:tib_x_preferred":[
-        "\u0f45\u0f74\u0f58\u0f0b\u0f55\u0f71\u0f7c\u0f53\u0f0d"
-    ],
     "name:unk_x_variant":[
         "Amphoe Muang Chumphon"
     ],
@@ -108,6 +93,9 @@
     ],
     "name:war_x_preferred":[
         "Chumphon"
+    ],
+    "name:zho_x_preferred":[
+        "\u6625\u84ec\u5e02"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Thailand",
@@ -245,7 +233,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636450,
+    "wof:lastmodified":1561758383,
     "wof:name":"Chumphon",
     "wof:parent_id":890466037,
     "wof:placetype":"locality",

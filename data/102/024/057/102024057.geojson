@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00539,
-    "geom:area_square_m":64565481.89315,
+    "geom:area_square_m":64565481.893164,
     "geom:bbox":"99.8509569486,14.3245411195,99.9683808991,14.4277609044",
     "geom:latitude":14.378522,
     "geom:longitude":99.90473,
@@ -20,6 +20,9 @@
     "name:deu_x_preferred":[
         "Ramathibodi I."
     ],
+    "name:deu_x_variant":[
+        "U Thong"
+    ],
     "name:eng_x_preferred":[
         "U Thong"
     ],
@@ -32,9 +35,6 @@
     ],
     "name:fra_x_preferred":[
         "Ramathibodi Ier"
-    ],
-    "name:ger_x_preferred":[
-        "U Thong"
     ],
     "name:ind_x_preferred":[
         "Ramathibodi I"
@@ -132,7 +132,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636448,
+    "wof:lastmodified":1561758382,
     "wof:name":"U Thong",
     "wof:parent_id":85678679,
     "wof:placetype":"locality",

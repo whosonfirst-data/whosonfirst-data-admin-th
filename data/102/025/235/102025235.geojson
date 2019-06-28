@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00903,
-    "geom:area_square_m":106492095.152468,
+    "geom:area_square_m":106492095.15236,
     "geom:bbox":"101.608632769,17.35733842,101.770272294,17.6190217295",
     "geom:latitude":17.496319,
     "geom:longitude":101.717633,
@@ -23,13 +23,7 @@
     "name:bod_x_preferred":[
         "\u0f63\u0f7c\u0f60\u0f72\u0f0d"
     ],
-    "name:chi_x_preferred":[
-        "\u9ece\u5e02"
-    ],
     "name:deu_x_preferred":[
-        "Loei"
-    ],
-    "name:dut_x_preferred":[
         "Loei"
     ],
     "name:eng_x_preferred":[
@@ -42,12 +36,6 @@
         "Mueang Loei"
     ],
     "name:fra_x_preferred":[
-        "Loei"
-    ],
-    "name:fre_x_preferred":[
-        "Loei"
-    ],
-    "name:ger_x_preferred":[
         "Loei"
     ],
     "name:glg_x_preferred":[
@@ -92,14 +80,14 @@
     "name:tha_x_variant":[
         "\u0e40\u0e25\u0e22"
     ],
-    "name:tib_x_preferred":[
-        "\u0f63\u0f7c\u0f60\u0f72\u0f0d"
-    ],
     "name:unk_x_variant":[
         "Changwat Muang Lai"
     ],
     "name:war_x_preferred":[
         "Loei"
+    ],
+    "name:zho_x_preferred":[
+        "\u9ece\u5e02"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Thailand",
@@ -244,7 +232,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636683,
+    "wof:lastmodified":1561758387,
     "wof:name":"Loei",
     "wof:parent_id":890467393,
     "wof:placetype":"locality",

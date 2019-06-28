@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018847,
-    "geom:area_square_m":222381553.472379,
+    "geom:area_square_m":222381553.472753,
     "geom:bbox":"102.696282939,17.2839209602,102.923839923,17.5430910081",
     "geom:latitude":17.400667,
     "geom:longitude":102.804168,
@@ -36,20 +36,14 @@
     "name:ces_x_preferred":[
         "Udon Thani"
     ],
-    "name:chi_x_preferred":[
-        "\u4e4c\u9686\u4ed6\u5c3c"
-    ],
-    "name:cze_x_preferred":[
-        "Udon Thani"
-    ],
     "name:dan_x_preferred":[
         "Udon Thani"
     ],
     "name:deu_x_preferred":[
         "Udon Thani"
     ],
-    "name:dut_x_preferred":[
-        "Udon Thani"
+    "name:ell_x_preferred":[
+        "\u039f\u03cd\u03bd\u03c4\u03bf\u03bd \u03a4\u03ac\u03bd\u03b9"
     ],
     "name:eng_x_preferred":[
         "Udon Thani"
@@ -68,20 +62,14 @@
         "Udorndhani",
         "Udornthani"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u062f\u0648\u0646 \u062a\u0627\u0646\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Udon Thani"
     ],
     "name:fra_x_preferred":[
         "Udon Thani"
-    ],
-    "name:fre_x_preferred":[
-        "Udon Thani"
-    ],
-    "name:ger_x_preferred":[
-        "Udon Thani"
-    ],
-    "name:gre_x_preferred":[
-        "\u039f\u03cd\u03bd\u03c4\u03bf\u03bd \u03a4\u03ac\u03bd\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0a89\u0aa1\u0acb\u0aa8 \u0aa5\u0abe\u0aa8\u0ac0"
@@ -122,7 +110,7 @@
     "name:mar_x_preferred":[
         "\u0909\u0926\u094b\u0928 \u0925\u093e\u0928\u0940"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Udon Thani"
     ],
     "name:nld_x_preferred":[
@@ -133,9 +121,6 @@
     ],
     "name:nor_x_preferred":[
         "Udon Thani"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0648\u062f\u0648\u0646 \u062a\u0627\u0646\u06cc"
     ],
     "name:pnb_x_preferred":[
         "\u0627\u0648\u062f\u0648\u0646 \u062a\u06be\u0627\u0646\u06cc"
@@ -172,9 +157,6 @@
     ],
     "name:tha_x_variant":[
         "\u0e2d\u0e38\u0e14\u0e23\u0e18\u0e32\u0e19\u0e35"
-    ],
-    "name:tib_x_preferred":[
-        "\u0f68\u0f74\u0f0b\u0f4c\u0f7c\u0f53\u0f0b\u0f50\u0f0b\u0f53\u0f72\u0f0d"
     ],
     "name:tur_x_preferred":[
         "Udon Thani"
@@ -340,7 +322,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636436,
+    "wof:lastmodified":1561758377,
     "wof:name":"Udon Thani",
     "wof:parent_id":890466845,
     "wof:placetype":"locality",

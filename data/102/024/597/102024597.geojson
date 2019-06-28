@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005736,
-    "geom:area_square_m":68254554.047155,
+    "geom:area_square_m":68254554.047147,
     "geom:bbox":"104.036683668,15.6192868247,104.341004508,15.8805646553",
     "geom:latitude":15.771658,
     "geom:longitude":104.19879,
@@ -21,13 +21,7 @@
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u064a\u0627\u0633\u0648\u062b\u0648\u0646"
     ],
-    "name:chi_x_preferred":[
-        "\u76ca\u68ad\u901a"
-    ],
     "name:deu_x_preferred":[
-        "Yasothon"
-    ],
-    "name:dut_x_preferred":[
         "Yasothon"
     ],
     "name:eng_x_preferred":[
@@ -40,13 +34,10 @@
         "Yasotawn",
         "Yasotorn"
     ],
+    "name:fas_x_preferred":[
+        "\u06cc\u0627\u0633\u0648\u062a\u0648\u0646"
+    ],
     "name:fra_x_preferred":[
-        "Yasothon"
-    ],
-    "name:fre_x_preferred":[
-        "Yasothon"
-    ],
-    "name:ger_x_preferred":[
         "Yasothon"
     ],
     "name:kor_x_preferred":[
@@ -60,9 +51,6 @@
     ],
     "name:nor_x_preferred":[
         "Yasothon"
-    ],
-    "name:per_x_preferred":[
-        "\u06cc\u0627\u0633\u0648\u062a\u0648\u0646"
     ],
     "name:pnb_x_preferred":[
         "\u06cc\u0627\u0633\u0648\u062a\u06be\u0648\u0646"
@@ -90,6 +78,9 @@
     ],
     "name:war_x_preferred":[
         "Yasothon"
+    ],
+    "name:zho_x_preferred":[
+        "\u76ca\u68ad\u901a"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Thailand",
@@ -230,7 +221,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636443,
+    "wof:lastmodified":1561758379,
     "wof:name":"Yasothon",
     "wof:parent_id":890465707,
     "wof:placetype":"locality",

@@ -38,17 +38,14 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09a5\u09c1\u0982 \u09af\u09bc\u09be\u0982 \u09a6\u09be\u09af\u09bc\u09c7\u0982"
     ],
-    "name:chi_x_preferred":[
-        "\u901a\u592e\u83b2\u53bf"
+    "name:deu_x_preferred":[
+        "Amphoe Thung Yang Daeng"
     ],
     "name:eng_x_preferred":[
         "Thung Yang Daeng"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Thung Yang Daeng"
-    ],
-    "name:ger_x_preferred":[
-        "Amphoe Thung Yang Daeng"
     ],
     "name:jpn_x_preferred":[
         "\u30c8\u30a5\u30f3\u30e4\u30fc\u30f3\u30c7\u30fc\u30f3\u90e1"
@@ -59,7 +56,7 @@
     "name:por_x_preferred":[
         "Thung Yang Daeng"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Districtul Thung Yang Daeng"
     ],
     "name:tha_x_preferred":[
@@ -67,6 +64,9 @@
     ],
     "name:vie_x_preferred":[
         "Thung Yang Daeng"
+    ],
+    "name:zho_x_preferred":[
+        "\u901a\u592e\u83b2\u53bf"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -104,7 +104,7 @@
         }
     ],
     "wof:id":1108732031,
-    "wof:lastmodified":1554489435,
+    "wof:lastmodified":1561758743,
     "wof:name":"Thung Yang Daeng",
     "wof:parent_id":85678889,
     "wof:placetype":"county",

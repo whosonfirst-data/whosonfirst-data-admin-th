@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000736,
-    "geom:area_square_m":8843939.103016,
+    "geom:area_square_m":8843939.103006,
     "geom:bbox":"99.8593385993,13.6501721827,99.8914485618,13.6925115402",
     "geom:latitude":13.670545,
     "geom:longitude":99.877011,
@@ -26,6 +26,9 @@
     "name:deu_x_preferred":[
         "Amphoe Photharam"
     ],
+    "name:deu_x_variant":[
+        "Photharam"
+    ],
     "name:eng_x_colloquial":[
         "Bhddhaaraam",
         "Bhddharam",
@@ -38,9 +41,6 @@
         "Amphu Po Ta-ram",
         "Ban Photharam",
         "Bh\u00f0dh\u00e5r\u00e5m"
-    ],
-    "name:ger_x_preferred":[
-        "Photharam"
     ],
     "name:nob_x_preferred":[
         "Photharam"
@@ -117,7 +117,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636451,
+    "wof:lastmodified":1561758384,
     "wof:name":"Photharam",
     "wof:parent_id":890467103,
     "wof:placetype":"locality",

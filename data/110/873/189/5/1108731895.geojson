@@ -38,17 +38,14 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09b8\u09bf \u09b8\u09be\u0996\u09cb\u09a8"
     ],
-    "name:chi_x_preferred":[
-        "\u897f\u8272\u7a7a\u53bf"
+    "name:deu_x_preferred":[
+        "Amphoe Si Sakhon"
     ],
     "name:eng_x_preferred":[
         "Si Sakhon"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Si Sakhon"
-    ],
-    "name:ger_x_preferred":[
-        "Amphoe Si Sakhon"
     ],
     "name:jpn_x_preferred":[
         "\u30b7\u30fc\u30b5\u30fc\u30b3\u30fc\u30f3\u90e1"
@@ -59,7 +56,7 @@
     "name:por_x_preferred":[
         "Si Sakhon"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Districtul Si Sakhon"
     ],
     "name:tha_x_preferred":[
@@ -67,6 +64,9 @@
     ],
     "name:vie_x_preferred":[
         "Si Sakhon"
+    ],
+    "name:zho_x_preferred":[
+        "\u897f\u8272\u7a7a\u53bf"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -104,7 +104,7 @@
         }
     ],
     "wof:id":1108731895,
-    "wof:lastmodified":1554489435,
+    "wof:lastmodified":1561758746,
     "wof:name":"Si Sakhon",
     "wof:parent_id":85678885,
     "wof:placetype":"county",

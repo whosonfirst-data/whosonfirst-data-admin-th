@@ -34,17 +34,14 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u0995\u09be\u09a8\u09a4\u09be\u0982"
     ],
-    "name:chi_x_preferred":[
-        "\u5e72\u6771\u7e23"
+    "name:deu_x_preferred":[
+        "Amphoe Kantang"
     ],
     "name:eng_x_preferred":[
         "Kantang"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Kantang"
-    ],
-    "name:ger_x_preferred":[
-        "Amphoe Kantang"
     ],
     "name:jpn_x_preferred":[
         "\u30ab\u30f3\u30bf\u30f3\u90e1"
@@ -55,7 +52,7 @@
     "name:por_x_preferred":[
         "Kantang"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Districtul Kantang"
     ],
     "name:rus_x_preferred":[
@@ -66,6 +63,9 @@
     ],
     "name:vie_x_preferred":[
         "Kantang"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e72\u6771\u7e23"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -103,7 +103,7 @@
         }
     ],
     "wof:id":1108802613,
-    "wof:lastmodified":1554489523,
+    "wof:lastmodified":1561758729,
     "wof:name":"Kantang",
     "wof:parent_id":85678609,
     "wof:placetype":"county",

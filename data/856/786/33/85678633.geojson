@@ -40,20 +40,23 @@
     "name:ben_x_preferred":[
         "\u09a8\u09be\u09a8"
     ],
+    "name:bod_x_preferred":[
+        "\u0f53\u0f71\u0f53\u0f0b\u0f5e\u0f72\u0f44\u0f0b\u0f46\u0f7a\u0f53\u0f0d"
+    ],
     "name:bpy_x_preferred":[
         "\u099a\u09be\u0982\u09f1\u09be\u09a4 \u09a8\u09be\u09a8"
     ],
     "name:bul_x_preferred":[
         "\u041d\u0430\u043d"
     ],
-    "name:chi_x_preferred":[
-        "\u6960\u5e9c"
-    ],
     "name:dan_x_preferred":[
         "Nan"
     ],
-    "name:dut_x_preferred":[
-        "Changwat Nan"
+    "name:deu_x_preferred":[
+        "Nan"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03b1\u03bd"
     ],
     "name:eng_x_preferred":[
         "Nan"
@@ -61,23 +64,17 @@
     "name:eng_x_variant":[
         "Changwat Nan"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u0646"
+    ],
     "name:fin_x_preferred":[
         "Nan"
     ],
-    "name:fre_x_preferred":[
-        "Nan"
-    ],
-    "name:geo_x_preferred":[
-        "\u10dc\u10d0\u10dc\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Nan"
     ],
     "name:glg_x_preferred":[
         "Provincia Nan"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03b1\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0aa8\u0abe\u0aa8"
@@ -97,6 +94,9 @@
     "name:kan_x_preferred":[
         "\u0ca8\u0cbe\u0ca8\u0ccd"
     ],
+    "name:kat_x_preferred":[
+        "\u10dc\u10d0\u10dc\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\ub09c \uc8fc"
     ],
@@ -115,20 +115,20 @@
     "name:mar_x_preferred":[
         "\u0928\u093e\u0928"
     ],
-    "name:may_x_preferred":[
-        "Nan"
-    ],
     "name:mlg_x_preferred":[
         "Faritanin'i Nan"
+    ],
+    "name:msa_x_preferred":[
+        "Nan"
     ],
     "name:nan_x_preferred":[
         "Nan H\u00fa"
     ],
+    "name:nld_x_preferred":[
+        "Changwat Nan"
+    ],
     "name:nob_x_preferred":[
         "Nan"
-    ],
-    "name:per_x_preferred":[
-        "\u0646\u0627\u0646"
     ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0646\u0627\u0646"
@@ -139,7 +139,7 @@
     "name:por_x_preferred":[
         "Nan"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Provincia Nan"
     ],
     "name:rus_x_preferred":[
@@ -175,9 +175,6 @@
     "name:tha_x_variant":[
         "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e19\u0e48\u0e32\u0e19"
     ],
-    "name:tib_x_preferred":[
-        "\u0f53\u0f71\u0f53\u0f0b\u0f5e\u0f72\u0f44\u0f0b\u0f46\u0f7a\u0f53\u0f0d"
-    ],
     "name:tur_x_preferred":[
         "Nan"
     ],
@@ -195,6 +192,9 @@
     ],
     "name:war_x_preferred":[
         "Nan"
+    ],
+    "name:zho_x_preferred":[
+        "\u6960\u5e9c"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"THA",
@@ -318,7 +318,7 @@
     "wof:lang_x_spoken":[
         "tha"
     ],
-    "wof:lastmodified":1554156332,
+    "wof:lastmodified":1561758456,
     "wof:name":"Nan",
     "wof:parent_id":85632293,
     "wof:placetype":"region",

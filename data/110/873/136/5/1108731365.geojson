@@ -38,17 +38,14 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u0996\u09be\u0993\u09ab\u09be\u09a8\u09cb\u09ae"
     ],
-    "name:chi_x_preferred":[
-        "\u8003\u5e15\u519c\u53bf"
+    "name:deu_x_preferred":[
+        "Amphoe Khao Phanom"
     ],
     "name:eng_x_preferred":[
         "Khao Phanom"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Khao Phanom"
-    ],
-    "name:ger_x_preferred":[
-        "Amphoe Khao Phanom"
     ],
     "name:jpn_x_preferred":[
         "\u30ab\u30aa\u30d1\u30ce\u30e0\u90e1"
@@ -59,7 +56,7 @@
     "name:por_x_preferred":[
         "Khao Phanom"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Districtul Khao Phanom"
     ],
     "name:tha_x_preferred":[
@@ -67,6 +64,9 @@
     ],
     "name:vie_x_preferred":[
         "Khao Phanom"
+    ],
+    "name:zho_x_preferred":[
+        "\u8003\u5e15\u519c\u53bf"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -104,7 +104,7 @@
         }
     ],
     "wof:id":1108731365,
-    "wof:lastmodified":1554489423,
+    "wof:lastmodified":1561758754,
     "wof:name":"Khao Phanom",
     "wof:parent_id":85678585,
     "wof:placetype":"county",

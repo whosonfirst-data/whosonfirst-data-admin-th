@@ -40,20 +40,23 @@
     "name:ben_x_preferred":[
         "\u09ab\u09bf\u099f\u09b8\u09be\u09a8\u09c1\u09b2\u09cb\u0995"
     ],
+    "name:bod_x_preferred":[
+        "\u0f55\u0f72\u0f0b\u0f4a\u0f72\u0f0b\u0f59\u0f0b\u0f53\u0f74\u0f0b\u0f63\u0f7c\u0f40\u0f0b\u0f5e\u0f72\u0f44\u0f0b\u0f46\u0f7a\u0f53\u0f0d"
+    ],
     "name:bpy_x_preferred":[
         "\u099a\u09be\u0982\u09f1\u09be\u09a4 \u09ab\u09bf\u09a4\u09b8\u09be\u09a8\u09c1\u09b2\u09cb\u0995"
     ],
     "name:bul_x_preferred":[
         "\u0424\u0438\u0442\u0441\u0430\u043d\u0443\u043b\u043e\u043a"
     ],
-    "name:chi_x_preferred":[
-        "\u5f6d\u4e16\u6d1b\u5e9c"
-    ],
     "name:dan_x_preferred":[
         "Phitsanulok"
     ],
-    "name:dut_x_preferred":[
-        "Changwat Phitsanulok"
+    "name:deu_x_preferred":[
+        "Phitsanulok"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03af\u03c4\u03c3\u03b1\u03bd\u03bf\u03c5\u03bb\u03bf\u03ba"
     ],
     "name:eng_x_preferred":[
         "Phitsanulok"
@@ -62,23 +65,17 @@
         "Changwat Phitsanulok",
         "Phitsanoluk"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0641\u06cc\u062a\u0633\u0627\u0646\u0648\u0644\u0648\u06a9"
+    ],
     "name:fin_x_preferred":[
         "Phitsanulok"
     ],
-    "name:fre_x_preferred":[
-        "Phitsanulok"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e4\u10d8\u10e2\u10e1\u10d0\u10dc\u10e3\u10da\u10dd\u10d9\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Phitsanulok"
     ],
     "name:glg_x_preferred":[
         "Provincia Phitsanulok"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03af\u03c4\u03c3\u03b1\u03bd\u03bf\u03c5\u03bb\u03bf\u03ba"
     ],
     "name:guj_x_preferred":[
         "\u0aab\u0abf\u0a9f\u0ab8\u0aa8\u0ac1\u0ab2\u0acb\u0a95"
@@ -98,6 +95,9 @@
     "name:kan_x_preferred":[
         "\u0cab\u0cbf\u0c9f\u0ccd\u0cb8\u0cbe\u0ca8\u0cc1\u0cb2\u0ccb\u0c95\u0ccd"
     ],
+    "name:kat_x_preferred":[
+        "\u10e4\u10d8\u10e2\u10e1\u10d0\u10dc\u10e3\u10da\u10dd\u10d9\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\ud54f\uc0ac\ub20c\ub85d \uc8fc"
     ],
@@ -116,20 +116,20 @@
     "name:mar_x_preferred":[
         "\u092b\u093f\u0924\u094d\u0938\u0928\u0941\u0932\u094b\u0915"
     ],
-    "name:may_x_preferred":[
-        "Phitsanulok"
-    ],
     "name:mlg_x_preferred":[
         "Faritanin'i Phitsanulok"
+    ],
+    "name:msa_x_preferred":[
+        "Phitsanulok"
     ],
     "name:nan_x_preferred":[
         "Phitsanulok H\u00fa"
     ],
+    "name:nld_x_preferred":[
+        "Changwat Phitsanulok"
+    ],
     "name:nob_x_preferred":[
         "Phitsanulok"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0641\u06cc\u062a\u0633\u0627\u0646\u0648\u0644\u0648\u06a9"
     ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u067e\u06be\u0679\u0633\u0627\u0646\u0648\u0644\u0648\u06a9"
@@ -140,7 +140,7 @@
     "name:por_x_preferred":[
         "Phitsanulok"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Provincia Phitsanulok"
     ],
     "name:rus_x_preferred":[
@@ -176,9 +176,6 @@
     "name:tha_x_variant":[
         "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e1e\u0e34\u0e29\u0e13\u0e38\u0e42\u0e25\u0e01"
     ],
-    "name:tib_x_preferred":[
-        "\u0f55\u0f72\u0f0b\u0f4a\u0f72\u0f0b\u0f59\u0f0b\u0f53\u0f74\u0f0b\u0f63\u0f7c\u0f40\u0f0b\u0f5e\u0f72\u0f44\u0f0b\u0f46\u0f7a\u0f53\u0f0d"
-    ],
     "name:tur_x_preferred":[
         "Phitsanulok"
     ],
@@ -196,6 +193,9 @@
     ],
     "name:war_x_preferred":[
         "Phitsanulok"
+    ],
+    "name:zho_x_preferred":[
+        "\u5f6d\u4e16\u6d1b\u5e9c"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"THA",
@@ -319,7 +319,7 @@
     "wof:lang_x_spoken":[
         "tha"
     ],
-    "wof:lastmodified":1554156332,
+    "wof:lastmodified":1561758457,
     "wof:name":"Phitsanulok",
     "wof:parent_id":85632293,
     "wof:placetype":"region",

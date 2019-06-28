@@ -40,20 +40,23 @@
     "name:ben_x_preferred":[
         "\u09a8\u0982 \u0996\u09be\u0987"
     ],
+    "name:bod_x_preferred":[
+        "\u0f53\u0f7c\u0f44\u0f0b\u0f41\u0f60\u0f72\u0f0b\u0f5e\u0f72\u0f44\u0f0b\u0f46\u0f7a\u0f53\u0f0d"
+    ],
     "name:bpy_x_preferred":[
         "\u099a\u09be\u0982\u09f1\u09be\u09a4 \u09a8\u09cb\u0982 \u0996\u09be\u0987"
     ],
     "name:bul_x_preferred":[
         "\u041d\u043e\u043d\u0433 \u041a\u0430\u0438"
     ],
-    "name:chi_x_preferred":[
-        "\u5eca\u958b\u5e9c"
-    ],
     "name:dan_x_preferred":[
         "Nong Khai"
     ],
-    "name:dut_x_preferred":[
-        "Changwat Nong Khai"
+    "name:deu_x_preferred":[
+        "Nong Khai"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03bf\u03bd\u03b3\u03ba \u03a7\u03ac\u03b9"
     ],
     "name:eng_x_preferred":[
         "Nong Khai"
@@ -61,20 +64,17 @@
     "name:eng_x_variant":[
         "Changwat Nong Khai"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u0648\u0646\u06af \u062e\u0627\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Nong Khai"
     ],
-    "name:fre_x_preferred":[
-        "Nong Khai"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Nong Khai"
     ],
     "name:glg_x_preferred":[
         "Provincia Nong Khai"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03bf\u03bd\u03b3\u03ba \u03a7\u03ac\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0aa8\u0acb\u0a82\u0a97 \u0a96\u0abe\u0a87"
@@ -112,20 +112,20 @@
     "name:mar_x_preferred":[
         "\u0928\u0949\u0928 \u0916\u093e\u0908"
     ],
-    "name:may_x_preferred":[
-        "Nong Khai"
-    ],
     "name:mlg_x_preferred":[
         "Faritanin'i Nong Khai"
+    ],
+    "name:msa_x_preferred":[
+        "Nong Khai"
     ],
     "name:nan_x_preferred":[
         "Nong Khai H\u00fa"
     ],
+    "name:nld_x_preferred":[
+        "Changwat Nong Khai"
+    ],
     "name:nob_x_preferred":[
         "Nong Khai"
-    ],
-    "name:per_x_preferred":[
-        "\u0646\u0648\u0646\u06af \u062e\u0627\u06cc"
     ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0646\u0648\u0646\u06af \u06a9\u06be\u0627\u0626\u06cc"
@@ -136,7 +136,7 @@
     "name:por_x_preferred":[
         "Nong Khai"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Provincia Nong Khai"
     ],
     "name:rus_x_preferred":[
@@ -166,9 +166,6 @@
     "name:tha_x_variant":[
         "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e2b\u0e19\u0e2d\u0e07\u0e04\u0e32\u0e22"
     ],
-    "name:tib_x_preferred":[
-        "\u0f53\u0f7c\u0f44\u0f0b\u0f41\u0f60\u0f72\u0f0b\u0f5e\u0f72\u0f44\u0f0b\u0f46\u0f7a\u0f53\u0f0d"
-    ],
     "name:tur_x_preferred":[
         "Nong Khai"
     ],
@@ -189,6 +186,9 @@
     ],
     "name:wuu_x_preferred":[
         "\u5eca\u5f00\u5e9c"
+    ],
+    "name:zho_x_preferred":[
+        "\u5eca\u958b\u5e9c"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"THA",
@@ -310,7 +310,7 @@
     "wof:lang_x_spoken":[
         "tha"
     ],
-    "wof:lastmodified":1554156332,
+    "wof:lastmodified":1561758454,
     "wof:name":"Nong Khai",
     "wof:parent_id":85632293,
     "wof:placetype":"region",

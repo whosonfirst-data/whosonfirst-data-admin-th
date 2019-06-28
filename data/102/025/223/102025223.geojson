@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022325,
-    "geom:area_square_m":266857682.234444,
+    "geom:area_square_m":266857682.234456,
     "geom:bbox":"100.54033148,14.6967835579,101.176908732,15.2667235258",
     "geom:latitude":14.830658,
     "geom:longitude":100.660825,
@@ -23,8 +23,8 @@
     "name:deu_x_preferred":[
         "Lopburi"
     ],
-    "name:dut_x_preferred":[
-        "Lopburi"
+    "name:deu_x_variant":[
+        "Lop Buri"
     ],
     "name:eng_x_preferred":[
         "Lop Buri"
@@ -36,14 +36,11 @@
         "Tha Hin",
         "Lopburi"
     ],
+    "name:fas_x_preferred":[
+        "\u0644\u0648\u067e\u0628\u0648\u0631\u06cc"
+    ],
     "name:fra_x_preferred":[
         "Lopburi"
-    ],
-    "name:fre_x_preferred":[
-        "Lopburi"
-    ],
-    "name:ger_x_preferred":[
-        "Lop Buri"
     ],
     "name:heb_x_preferred":[
         "\u05dc\u05d5\u05e4 \u05d1\u05d5\u05e8\u05d9"
@@ -65,9 +62,6 @@
     ],
     "name:nor_x_preferred":[
         "Lopburi"
-    ],
-    "name:per_x_preferred":[
-        "\u0644\u0648\u067e\u0628\u0648\u0631\u06cc"
     ],
     "name:pnb_x_preferred":[
         "\u0644\u0648\u067e\u0628\u0648\u0631\u06cc"
@@ -242,7 +236,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636687,
+    "wof:lastmodified":1561758391,
     "wof:name":"Lop Buri",
     "wof:parent_id":890466931,
     "wof:placetype":"locality",

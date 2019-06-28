@@ -38,8 +38,8 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09b8\u09bf\u0982\u09b9\u09be\u09a8\u09be\u0996\u09cb\u09a8"
     ],
-    "name:chi_x_preferred":[
-        "\u4fe1\u90a3\u7a7a\u7e23"
+    "name:deu_x_preferred":[
+        "Amphoe Singhanakhon"
     ],
     "name:eng_x_preferred":[
         "Singhanakhon"
@@ -47,11 +47,8 @@
     "name:eng_x_variant":[
         "Singha Nakhon"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Singhanakhon"
-    ],
-    "name:ger_x_preferred":[
-        "Amphoe Singhanakhon"
     ],
     "name:ind_x_preferred":[
         "Distrik Singhanakhon"
@@ -65,7 +62,7 @@
     "name:por_x_preferred":[
         "Singhanakhon"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Districtul Singhanakhon"
     ],
     "name:tha_x_preferred":[
@@ -73,6 +70,9 @@
     ],
     "name:vie_x_preferred":[
         "Singhanakhon"
+    ],
+    "name:zho_x_preferred":[
+        "\u4fe1\u90a3\u7a7a\u7e23"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -110,7 +110,7 @@
         }
     ],
     "wof:id":1108731919,
-    "wof:lastmodified":1554489432,
+    "wof:lastmodified":1561758753,
     "wof:name":"Singha Nakhon",
     "wof:parent_id":85678603,
     "wof:placetype":"county",

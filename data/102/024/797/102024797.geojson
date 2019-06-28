@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009868,
-    "geom:area_square_m":117930541.459855,
+    "geom:area_square_m":117930541.459765,
     "geom:bbox":"100.3343305,14.7392847338,100.484751649,15.0122401635",
     "geom:latitude":14.873051,
     "geom:longitude":100.407333,
@@ -25,7 +25,7 @@
     "name:deu_x_preferred":[
         "Sing Buri"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_variant":[
         "Singburi"
     ],
     "name:eng_x_preferred":[
@@ -34,13 +34,10 @@
     "name:eng_x_variant":[
         "Mueang Sing Buri"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u06cc\u0646\u06af \u0628\u0648\u0631\u06cc"
+    ],
     "name:fra_x_preferred":[
-        "Singburi"
-    ],
-    "name:fre_x_preferred":[
-        "Singburi"
-    ],
-    "name:ger_x_preferred":[
         "Singburi"
     ],
     "name:kor_x_preferred":[
@@ -54,9 +51,6 @@
     ],
     "name:nor_x_preferred":[
         "Singburi"
-    ],
-    "name:per_x_preferred":[
-        "\u0633\u06cc\u0646\u06af \u0628\u0648\u0631\u06cc"
     ],
     "name:pnb_x_preferred":[
         "\u0633\u0646\u06af\u0628\u0648\u0631\u06cc"
@@ -236,7 +230,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636419,
+    "wof:lastmodified":1561758373,
     "wof:name":"Sing Buri",
     "wof:parent_id":890465647,
     "wof:placetype":"locality",
