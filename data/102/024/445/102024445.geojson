@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001055,
-    "geom:area_square_m":12705040.417778,
+    "geom:area_square_m":12705040.417779,
     "geom:bbox":"101.202325222,13.204172415,101.242744145,13.2543281648",
     "geom:latitude":13.225859,
     "geom:longitude":101.226663,
@@ -22,6 +22,9 @@
     "name:deu_x_preferred":[
         "Amphoe Nong Prue"
     ],
+    "name:deu_x_variant":[
+        "Nong Prue"
+    ],
     "name:eng_x_preferred":[
         "Ban Nong Pru"
     ],
@@ -33,9 +36,6 @@
     ],
     "name:fra_x_preferred":[
         "Amphoe Nong Prue"
-    ],
-    "name:ger_x_preferred":[
-        "Nong Prue"
     ],
     "name:ron_x_preferred":[
         "Districtul Nong Prue"
@@ -101,7 +101,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636447,
+    "wof:lastmodified":1561758381,
     "wof:name":"Nong Prue",
     "wof:parent_id":1108802559,
     "wof:placetype":"locality",

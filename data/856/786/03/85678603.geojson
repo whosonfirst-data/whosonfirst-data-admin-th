@@ -41,20 +41,23 @@
     "name:ben_x_preferred":[
         "\u09b8\u0982\u0996\u09be\u09b2\u09be"
     ],
+    "name:bod_x_preferred":[
+        "\u0f66\u0f7c\u0f44\u0f0b\u0f41\u0f0b\u0f63\u0f0b\u0f5e\u0f72\u0f44\u0f0b\u0f46\u0f7a\u0f53\u0f0d"
+    ],
     "name:bpy_x_preferred":[
         "\u099a\u09be\u0982\u09f1\u09be\u09a4 \u09b8\u09cb\u0982\u0996\u09b2\u09be"
     ],
     "name:bul_x_preferred":[
         "\u0421\u043e\u043d\u0433\u043a\u043b\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u5b8b\u5361\u5e9c"
-    ],
     "name:dan_x_preferred":[
         "Songkhla"
     ],
-    "name:dut_x_preferred":[
-        "Changwat Songkhla"
+    "name:deu_x_preferred":[
+        "Songkhla"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03cc\u03bd\u03b3\u03ba\u03bb\u03b1"
     ],
     "name:eng_x_preferred":[
         "Songkhla"
@@ -62,20 +65,17 @@
     "name:eng_x_variant":[
         "Changwat Songkhla"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0648\u0646\u06af\u062e\u0644\u0627"
+    ],
     "name:fin_x_preferred":[
         "Songkhla"
     ],
-    "name:fre_x_preferred":[
-        "Songkhla"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Songkhla"
     ],
     "name:glg_x_preferred":[
         "Provincia Songkhla"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03cc\u03bd\u03b3\u03ba\u03bb\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0acb\u0a82\u0a97\u0a96\u0acd\u0ab2\u0abe"
@@ -116,23 +116,23 @@
     "name:mar_x_preferred":[
         "\u0938\u094b\u0902\u0917\u0932\u093e"
     ],
-    "name:may_x_preferred":[
-        "Songkhla"
-    ],
     "name:mfa_x_preferred":[
         "Singgora"
     ],
     "name:mlg_x_preferred":[
         "Faritanin'i Songkhla"
     ],
+    "name:msa_x_preferred":[
+        "Songkhla"
+    ],
     "name:nan_x_preferred":[
         "Songkhla H\u00fa"
     ],
+    "name:nld_x_preferred":[
+        "Changwat Songkhla"
+    ],
     "name:nob_x_preferred":[
         "Songkhla"
-    ],
-    "name:per_x_preferred":[
-        "\u0633\u0648\u0646\u06af\u062e\u0644\u0627"
     ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0633\u0648\u0646\u06af\u06a9\u06be\u0644\u0627"
@@ -143,7 +143,7 @@
     "name:por_x_preferred":[
         "Songkhla"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Provincia Songkhla"
     ],
     "name:rus_x_preferred":[
@@ -176,9 +176,6 @@
     "name:tha_x_variant":[
         "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e2a\u0e07\u0e02\u0e25\u0e32"
     ],
-    "name:tib_x_preferred":[
-        "\u0f66\u0f7c\u0f44\u0f0b\u0f41\u0f0b\u0f63\u0f0b\u0f5e\u0f72\u0f44\u0f0b\u0f46\u0f7a\u0f53\u0f0d"
-    ],
     "name:tur_x_preferred":[
         "Songkhla"
     ],
@@ -201,6 +198,9 @@
         "\u5b8b\u5361\u5e9c"
     ],
     "name:yue_x_preferred":[
+        "\u5b8b\u5361\u5e9c"
+    ],
+    "name:zho_x_preferred":[
         "\u5b8b\u5361\u5e9c"
     ],
     "ne:abbrev":"",
@@ -326,7 +326,7 @@
     "wof:lang_x_spoken":[
         "tha"
     ],
-    "wof:lastmodified":1554156333,
+    "wof:lastmodified":1561758455,
     "wof:name":"Songkhla",
     "wof:parent_id":85632293,
     "wof:placetype":"region",

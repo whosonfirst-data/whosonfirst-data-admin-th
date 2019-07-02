@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017617,
-    "geom:area_square_m":212514723.169441,
+    "geom:area_square_m":212514723.169562,
     "geom:bbox":"100.817822366,12.593777582,101.012012925,12.7833415444",
     "geom:latitude":12.690852,
     "geom:longitude":100.921623,
@@ -26,6 +26,9 @@
     "name:deu_x_preferred":[
         "Amphoe Sattahip"
     ],
+    "name:deu_x_variant":[
+        "Sattahip"
+    ],
     "name:eng_x_preferred":[
         "Sattahip"
     ],
@@ -40,9 +43,6 @@
         "Sattahiep"
     ],
     "name:fra_x_preferred":[
-        "Sattahip"
-    ],
-    "name:ger_x_preferred":[
         "Sattahip"
     ],
     "name:ind_x_preferred":[
@@ -124,7 +124,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636447,
+    "wof:lastmodified":1561758382,
     "wof:name":"Sattahip",
     "wof:parent_id":85678795,
     "wof:placetype":"locality",

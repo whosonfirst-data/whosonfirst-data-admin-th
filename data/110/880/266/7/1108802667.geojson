@@ -34,17 +34,14 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ae\u09c1\u09af\u09bc\u09c7\u0982 \u0995\u09be\u09a8\u099a\u09be\u09a8\u09be\u09ac\u09c1\u09b0\u09bf"
     ],
-    "name:chi_x_preferred":[
-        "\u9813\u65af\u79d1\u4f0a\u4fee\u9053\u9662"
+    "name:deu_x_preferred":[
+        "Amphoe Mueang Kanchanaburi"
     ],
     "name:eng_x_preferred":[
         "Kanchanaburi"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Mueang Kanchanaburi"
-    ],
-    "name:ger_x_preferred":[
-        "Amphoe Mueang Kanchanaburi"
     ],
     "name:jpn_x_preferred":[
         "\u30e0\u30a2\u30f3\u30ab\u30fc\u30f3\u30c1\u30e3\u30ca\u30d6\u30ea\u30fc\u90e1"
@@ -52,7 +49,7 @@
     "name:nan_x_preferred":[
         "Mueang Kanchanaburi K\u016bn"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Districtul Mueang Kanchanaburi"
     ],
     "name:tha_x_preferred":[
@@ -60,6 +57,9 @@
     ],
     "name:vie_x_preferred":[
         "Mueang Kanchanaburi"
+    ],
+    "name:zho_x_preferred":[
+        "\u9813\u65af\u79d1\u4f0a\u4fee\u9053\u9662"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -97,7 +97,7 @@
         }
     ],
     "wof:id":1108802667,
-    "wof:lastmodified":1554489527,
+    "wof:lastmodified":1561758728,
     "wof:name":"Muang Kanchanaburi",
     "wof:parent_id":85678663,
     "wof:placetype":"county",

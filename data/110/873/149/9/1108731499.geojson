@@ -38,17 +38,14 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ae\u09be\u09af\u09bc\u09c7 \u09ae\u09cb"
     ],
-    "name:chi_x_preferred":[
-        "\u6e44\u83ab"
+    "name:deu_x_preferred":[
+        "Amphoe Mae Mo"
     ],
     "name:eng_x_preferred":[
         "Mae Mo"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Mae Mo"
-    ],
-    "name:ger_x_preferred":[
-        "Amphoe Mae Mo"
     ],
     "name:jpn_x_preferred":[
         "\u30e1\u30fc\u30e2\u90e1"
@@ -56,7 +53,7 @@
     "name:nan_x_preferred":[
         "Mae Mo K\u016bn"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Districtul Mae Mo"
     ],
     "name:tha_x_preferred":[
@@ -67,6 +64,9 @@
     ],
     "name:vie_x_preferred":[
         "Mae Mo"
+    ],
+    "name:zho_x_preferred":[
+        "\u6e44\u83ab"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -104,7 +104,7 @@
         }
     ],
     "wof:id":1108731499,
-    "wof:lastmodified":1554489424,
+    "wof:lastmodified":1561758763,
     "wof:name":"Mae Mo",
     "wof:parent_id":85678625,
     "wof:placetype":"county",

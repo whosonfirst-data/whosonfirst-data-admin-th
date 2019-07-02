@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014958,
-    "geom:area_square_m":174754705.790225,
+    "geom:area_square_m":174754705.790169,
     "geom:bbox":"99.8287516359,19.0063471588,100.078474257,19.2320263133",
     "geom:latitude":19.123383,
     "geom:longitude":99.929841,
@@ -21,13 +21,7 @@
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0641\u0627\u064a\u0627\u0648"
     ],
-    "name:chi_x_preferred":[
-        "\u5e15\u592d"
-    ],
     "name:deu_x_preferred":[
-        "Phayao"
-    ],
-    "name:dut_x_preferred":[
         "Phayao"
     ],
     "name:eng_x_preferred":[
@@ -44,12 +38,6 @@
         "Phayao"
     ],
     "name:fra_x_preferred":[
-        "Phayao"
-    ],
-    "name:fre_x_preferred":[
-        "Phayao"
-    ],
-    "name:ger_x_preferred":[
         "Phayao"
     ],
     "name:ind_x_preferred":[
@@ -103,6 +91,9 @@
     ],
     "name:war_x_preferred":[
         "Phayao"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e15\u592d"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Thailand",
@@ -247,7 +238,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636426,
+    "wof:lastmodified":1561758375,
     "wof:name":"Phayao",
     "wof:parent_id":890467463,
     "wof:placetype":"locality",

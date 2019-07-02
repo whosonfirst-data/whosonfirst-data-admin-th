@@ -38,17 +38,14 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09a5\u09c1\u0982 \u09a4\u09be\u0995\u09cb"
     ],
-    "name:chi_x_preferred":[
-        "\u5f64\u8fbe\u53e3\u53bf"
+    "name:deu_x_preferred":[
+        "Amphoe Thung Tako"
     ],
     "name:eng_x_preferred":[
         "Thung Tako"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Thung Tako"
-    ],
-    "name:ger_x_preferred":[
-        "Amphoe Thung Tako"
     ],
     "name:jpn_x_preferred":[
         "\u30c8\u30a5\u30f3\u30bf\u30b3\u30fc\u90e1"
@@ -56,7 +53,7 @@
     "name:nan_x_preferred":[
         "Thung Tako K\u016bn"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Districtul Thung Tako"
     ],
     "name:tha_x_preferred":[
@@ -64,6 +61,9 @@
     ],
     "name:vie_x_preferred":[
         "Thung Tako"
+    ],
+    "name:zho_x_preferred":[
+        "\u5f64\u8fbe\u53e3\u53bf"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -101,7 +101,7 @@
         }
     ],
     "wof:id":1108732027,
-    "wof:lastmodified":1554489433,
+    "wof:lastmodified":1561758743,
     "wof:name":"Thung Tako",
     "wof:parent_id":85678559,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00507,
-    "geom:area_square_m":62279358.692025,
+    "geom:area_square_m":62279358.692052,
     "geom:bbox":"101.243708142,6.47275757806,101.330448638,6.5808851166",
     "geom:latitude":6.536874,
     "geom:longitude":101.288195,
@@ -24,17 +24,14 @@
     "name:ben_x_preferred":[
         "\u0987\u09af\u09bc\u09be\u09b2\u09be"
     ],
-    "name:chi_x_preferred":[
-        "\u60f9\u62c9"
-    ],
     "name:dan_x_preferred":[
         "Yala"
     ],
     "name:deu_x_preferred":[
         "Yala"
     ],
-    "name:dut_x_preferred":[
-        "Yala"
+    "name:ell_x_preferred":[
+        "\u0393\u03b9\u03ac\u03bb\u03b1"
     ],
     "name:eng_x_preferred":[
         "Yala"
@@ -43,20 +40,14 @@
         "Ban Yala",
         "Mueang Yala"
     ],
+    "name:fas_x_preferred":[
+        "\u06cc\u0627\u0644\u0627\u060c \u062a\u0627\u06cc\u0644\u0646\u062f"
+    ],
     "name:fin_x_preferred":[
         "Yala"
     ],
     "name:fra_x_preferred":[
         "Yala"
-    ],
-    "name:fre_x_preferred":[
-        "Yala"
-    ],
-    "name:ger_x_preferred":[
-        "Yala"
-    ],
-    "name:gre_x_preferred":[
-        "\u0393\u03b9\u03ac\u03bb\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aaf\u0ab2\u0abe"
@@ -91,7 +82,7 @@
     "name:mar_x_preferred":[
         "\u092f\u0932\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Yala"
     ],
     "name:nld_x_preferred":[
@@ -102,9 +93,6 @@
     ],
     "name:nor_x_preferred":[
         "Yala"
-    ],
-    "name:per_x_preferred":[
-        "\u06cc\u0627\u0644\u0627\u060c \u062a\u0627\u06cc\u0644\u0646\u062f"
     ],
     "name:pol_x_preferred":[
         "Yala"
@@ -153,6 +141,9 @@
     ],
     "name:war_x_preferred":[
         "Yala"
+    ],
+    "name:zho_x_preferred":[
+        "\u60f9\u62c9"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Thailand",
@@ -297,7 +288,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636449,
+    "wof:lastmodified":1561758383,
     "wof:name":"Yala",
     "wof:parent_id":890466087,
     "wof:placetype":"locality",

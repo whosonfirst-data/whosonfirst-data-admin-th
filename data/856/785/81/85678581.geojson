@@ -41,20 +41,23 @@
     "name:ben_x_preferred":[
         "\u09b8\u09c1\u09b0\u09be\u099f \u09a5\u09be\u09a8\u09bf"
     ],
+    "name:bod_x_preferred":[
+        "\u0f66\u0f74\u0f0b\u0f62\u0f0b\u0f4a\u0f72\u0f0b\u0f50\u0f0b\u0f53\u0f72\u0f0b\u0f5e\u0f72\u0f44\u0f0b\u0f46\u0f7a\u0f53\u0f0d"
+    ],
     "name:bpy_x_preferred":[
         "\u099a\u09be\u0982\u09f1\u09be\u09a4 \u09b8\u09c1\u09b0\u09be\u09a4 \u09a5\u09be\u09a8\u09bf"
     ],
     "name:bul_x_preferred":[
         "\u0421\u0443\u0440\u0430\u0442 \u0422\u0430\u043d\u0438"
     ],
-    "name:chi_x_preferred":[
-        "\u7d20\u53fb\u5e9c"
-    ],
     "name:dan_x_preferred":[
         "Surat Thani"
     ],
-    "name:dut_x_preferred":[
-        "Changwat Surat Thani"
+    "name:deu_x_preferred":[
+        "Surat Thani"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03bf\u03cd\u03c1\u03b1\u03c4 \u03a4\u03b1\u03bd\u03af"
     ],
     "name:eng_x_preferred":[
         "Surat Thani"
@@ -65,20 +68,17 @@
     "name:est_x_preferred":[
         "Surat Thani provints"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0648\u0631\u0627\u062a \u062a\u0627\u0646\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Surat Thani"
     ],
-    "name:fre_x_preferred":[
-        "Surat Thani"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Surat Thani"
     ],
     "name:glg_x_preferred":[
         "Provincia Surat Thani"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03bf\u03cd\u03c1\u03b1\u03c4 \u03a4\u03b1\u03bd\u03af"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ac1\u0ab0\u0aa4 \u0aa5\u0abe\u0aa8\u0ac0"
@@ -122,23 +122,23 @@
     "name:mar_x_preferred":[
         "\u0938\u0941\u0930\u0924 \u0925\u093e\u0928\u0940"
     ],
-    "name:may_x_preferred":[
-        "Surat Thani"
-    ],
     "name:mlg_x_preferred":[
         "Faritanin'i Surat Thani"
     ],
+    "name:msa_x_preferred":[
+        "Surat Thani"
+    ],
     "name:nan_x_preferred":[
         "Surat Thani H\u00fa"
+    ],
+    "name:nld_x_preferred":[
+        "Changwat Surat Thani"
     ],
     "name:nob_x_preferred":[
         "Surat Thani"
     ],
     "name:pan_x_preferred":[
         "\u0a38\u0a42\u0a30\u0a24 \u0a25\u0a3e\u0a28\u0a40"
-    ],
-    "name:per_x_preferred":[
-        "\u0633\u0648\u0631\u0627\u062a \u062a\u0627\u0646\u06cc"
     ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0633\u0648\u0631\u062a \u062a\u06be\u0627\u0646\u06cc"
@@ -149,7 +149,7 @@
     "name:por_x_preferred":[
         "Surat Thani"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Provincia Surat Thani"
     ],
     "name:rus_x_preferred":[
@@ -182,9 +182,6 @@
     "name:tha_x_variant":[
         "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e2a\u0e38\u0e23\u0e32\u0e29\u0e0e\u0e23\u0e4c\u0e18\u0e32\u0e19\u0e35"
     ],
-    "name:tib_x_preferred":[
-        "\u0f66\u0f74\u0f0b\u0f62\u0f0b\u0f4a\u0f72\u0f0b\u0f50\u0f0b\u0f53\u0f72\u0f0b\u0f5e\u0f72\u0f44\u0f0b\u0f46\u0f7a\u0f53\u0f0d"
-    ],
     "name:tur_x_preferred":[
         "Surat Thani"
     ],
@@ -202,6 +199,9 @@
     ],
     "name:war_x_preferred":[
         "Surat Thani"
+    ],
+    "name:zho_x_preferred":[
+        "\u7d20\u53fb\u5e9c"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"THA",
@@ -326,7 +326,7 @@
     "wof:lang_x_spoken":[
         "tha"
     ],
-    "wof:lastmodified":1554156333,
+    "wof:lastmodified":1561758449,
     "wof:name":"Surat Thani",
     "wof:parent_id":85632293,
     "wof:placetype":"region",

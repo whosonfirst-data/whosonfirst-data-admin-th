@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016074,
-    "geom:area_square_m":192965335.124264,
+    "geom:area_square_m":192965335.124282,
     "geom:bbox":"100.349121094,13.7900714372,100.557861328,13.9500611864",
     "geom:latitude":13.861046,
     "geom:longitude":100.452132,
@@ -26,20 +26,17 @@
     "name:ara_x_preferred":[
         "\u0646\u0648\u0646\u062b\u0627\u0628\u0648\u0631\u064a"
     ],
-    "name:baq_x_preferred":[
-        "Nonthaburi"
-    ],
     "name:ben_x_preferred":[
         "\u09a8\u09cb\u09a8\u09a4\u09be\u09ac\u09c1\u09a1\u09bc\u09bf"
-    ],
-    "name:chi_x_preferred":[
-        "\u6696\u6b66\u91cc"
     ],
     "name:dan_x_preferred":[
         "Nonthaburi"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Nonthaburi"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03bf\u03bd\u03c4\u03ac\u03bc\u03c0\u03bf\u03c5\u03c1\u03b9"
     ],
     "name:eng_x_preferred":[
         "Mueang Nonthaburi"
@@ -47,17 +44,14 @@
     "name:eng_x_variant":[
         "Nonthaburi"
     ],
+    "name:eus_x_preferred":[
+        "Nonthaburi"
+    ],
     "name:fin_x_preferred":[
         "Nonthaburi"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Nonthaburi"
-    ],
-    "name:ger_x_preferred":[
-        "Nonthaburi"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03bf\u03bd\u03c4\u03ac\u03bc\u03c0\u03bf\u03c5\u03c1\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0aa8\u0acb\u0aa8\u0aa5\u0aac\u0ac2\u0ab0\u0ac0"
@@ -95,13 +89,16 @@
     "name:lit_x_preferred":[
         "Nontaburis"
     ],
-    "name:mac_x_preferred":[
-        "\u041d\u043e\u043d\u0442\u0430\u0431\u0443\u0440\u0438"
-    ],
     "name:mar_x_preferred":[
         "\u0928\u094b\u0928\u0925\u092c\u0941\u0930\u0940"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u041d\u043e\u043d\u0442\u0430\u0431\u0443\u0440\u0438"
+    ],
+    "name:msa_x_preferred":[
+        "Nonthaburi"
+    ],
+    "name:nld_x_preferred":[
         "Nonthaburi"
     ],
     "name:nob_x_preferred":[
@@ -160,6 +157,9 @@
     ],
     "name:wuu_x_preferred":[
         "\u6696\u6b66\u91cc\u5e02"
+    ],
+    "name:zho_x_preferred":[
+        "\u6696\u6b66\u91cc"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Thailand",
@@ -303,7 +303,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1514506215,
+    "wof:lastmodified":1561758393,
     "wof:name":"Mueang Nonthaburi",
     "wof:parent_id":890466143,
     "wof:placetype":"locality",

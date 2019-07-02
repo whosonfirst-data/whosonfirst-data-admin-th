@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01143,
-    "geom:area_square_m":135009557.430403,
+    "geom:area_square_m":135009557.430422,
     "geom:bbox":"103.926754766,17.105504197,104.220226099,17.343946374",
     "geom:latitude":17.20999,
     "geom:longitude":104.110916,
@@ -21,14 +21,8 @@
     "name:bod_x_preferred":[
         "\u0f66\u0f0b\u0f40\u0f71\u0f7c\u0f53\u0f0b\u0f53\u0f0b\u0f41\u0f71\u0f7c\u0f53\u0f0d"
     ],
-    "name:chi_x_preferred":[
-        "\u8272\u8ecd"
-    ],
     "name:deu_x_preferred":[
         "Sakon Nakhon"
-    ],
-    "name:dut_x_preferred":[
-        "Sakhon Nakhon"
     ],
     "name:eng_x_preferred":[
         "Sakon Nakorn"
@@ -37,14 +31,11 @@
         "Mueang Sakon Nakorn",
         "Sakon Nakhon"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u06a9\u0648\u0646 \u0646\u0627\u062e\u0648\u0646"
+    ],
     "name:fra_x_preferred":[
         "Sakhon Nakhon"
-    ],
-    "name:fre_x_preferred":[
-        "Sakhon Nakhon"
-    ],
-    "name:ger_x_preferred":[
-        "Sakon Nakhon"
     ],
     "name:jpn_x_preferred":[
         "\u30b5\u30b3\u30f3\u30fb\u30ca\u30b3\u30fc\u30f3"
@@ -70,9 +61,6 @@
     "name:nor_x_variant":[
         "Sakhon Nakhon"
     ],
-    "name:per_x_preferred":[
-        "\u0633\u0627\u06a9\u0648\u0646 \u0646\u0627\u062e\u0648\u0646"
-    ],
     "name:pnb_x_preferred":[
         "\u0633\u0627\u06a9\u0648\u0646 \u0646\u06a9\u06be\u0648\u0646"
     ],
@@ -91,9 +79,6 @@
     "name:tha_x_variant":[
         "\u0e2a\u0e01\u0e25\u0e19\u0e04\u0e23"
     ],
-    "name:tib_x_preferred":[
-        "\u0f66\u0f0b\u0f40\u0f71\u0f7c\u0f53\u0f0b\u0f53\u0f0b\u0f41\u0f71\u0f7c\u0f53\u0f0d"
-    ],
     "name:unk_x_variant":[
         "Ban That Choeng Chum"
     ],
@@ -105,6 +90,9 @@
     ],
     "name:war_x_preferred":[
         "Sakon Nakhon"
+    ],
+    "name:zho_x_preferred":[
+        "\u8272\u8ecd"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Thailand",
@@ -249,7 +237,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1553815721,
+    "wof:lastmodified":1561758376,
     "wof:name":"Sakon Nakhon",
     "wof:parent_id":1108802681,
     "wof:placetype":"locality",

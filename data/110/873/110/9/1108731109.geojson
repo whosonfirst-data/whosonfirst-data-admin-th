@@ -38,17 +38,14 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ac\u09be\u099a\u09cb"
     ],
-    "name:chi_x_preferred":[
-        "\u5df4\u57ce\u53bf"
+    "name:deu_x_preferred":[
+        "Amphoe Bacho"
     ],
     "name:eng_x_preferred":[
         "Bacho"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Bacho"
-    ],
-    "name:ger_x_preferred":[
-        "Amphoe Bacho"
     ],
     "name:jpn_x_preferred":[
         "\u30d0\u30fc\u30c1\u30e7\u90e1"
@@ -59,7 +56,7 @@
     "name:por_x_preferred":[
         "Bacho"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Districtul Bacho"
     ],
     "name:tha_x_preferred":[
@@ -67,6 +64,9 @@
     ],
     "name:vie_x_preferred":[
         "Bacho"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u57ce\u53bf"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -104,7 +104,7 @@
         }
     ],
     "wof:id":1108731109,
-    "wof:lastmodified":1554489415,
+    "wof:lastmodified":1561758751,
     "wof:name":"Bacho",
     "wof:parent_id":85678885,
     "wof:placetype":"county",

@@ -38,17 +38,14 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ae\u09be\u09af\u09bc\u09cb"
     ],
-    "name:chi_x_preferred":[
-        "\u739b\u88d5\u53bf"
+    "name:deu_x_preferred":[
+        "Amphoe Mayo"
     ],
     "name:eng_x_preferred":[
         "Mayo"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Mayo"
-    ],
-    "name:ger_x_preferred":[
-        "Amphoe Mayo"
     ],
     "name:jpn_x_preferred":[
         "\u30de\u30fc\u30e8\u30fc\u90e1"
@@ -59,7 +56,7 @@
     "name:por_x_preferred":[
         "Mayo"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Districtul Mayo"
     ],
     "name:tha_x_preferred":[
@@ -67,6 +64,9 @@
     ],
     "name:vie_x_preferred":[
         "Mayo"
+    ],
+    "name:zho_x_preferred":[
+        "\u739b\u88d5\u53bf"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -104,7 +104,7 @@
         }
     ],
     "wof:id":1108731525,
-    "wof:lastmodified":1554489419,
+    "wof:lastmodified":1561758756,
     "wof:name":"Mayo",
     "wof:parent_id":85678889,
     "wof:placetype":"county",

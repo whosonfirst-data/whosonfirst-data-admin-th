@@ -28,14 +28,14 @@
     "name:ast_x_preferred":[
         "Rayong"
     ],
-    "name:baq_x_preferred":[
-        "Rayong"
-    ],
     "name:bar_x_preferred":[
         "Rayong"
     ],
     "name:ben_x_preferred":[
         "\u09b0\u09be\u09af\u09bc\u0982"
+    ],
+    "name:bod_x_preferred":[
+        "\u0f62\u0f7a\u0f0b\u0f61\u0f7c\u0f44\u0f0b\u0f0d"
     ],
     "name:bre_x_preferred":[
         "Rayong"
@@ -43,20 +43,23 @@
     "name:cat_x_preferred":[
         "Rayong"
     ],
-    "name:chi_x_preferred":[
-        "\u7f85\u52c7\u5e02"
+    "name:ces_x_preferred":[
+        "Rayong"
     ],
     "name:cos_x_preferred":[
         "Rayong"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Rayong"
     ],
     "name:dan_x_preferred":[
         "Rayong"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Rayong"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a1\u03ac\u03b3\u03b9\u03bf\u03bd\u03b3\u03ba"
     ],
     "name:eng_x_preferred":[
         "Rayong"
@@ -67,19 +70,19 @@
     "name:est_x_preferred":[
         "Rayong"
     ],
+    "name:eus_x_preferred":[
+        "Rayong"
+    ],
     "name:fin_x_preferred":[
         "Rayong"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Rayong"
     ],
     "name:frp_x_preferred":[
         "Rayong"
     ],
     "name:fur_x_preferred":[
-        "Rayong"
-    ],
-    "name:ger_x_preferred":[
         "Rayong"
     ],
     "name:gla_x_preferred":[
@@ -90,9 +93,6 @@
     ],
     "name:glg_x_preferred":[
         "Rayong"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a1\u03ac\u03b3\u03b9\u03bf\u03bd\u03b3\u03ba"
     ],
     "name:gsw_x_preferred":[
         "Rayong"
@@ -109,9 +109,6 @@
     "name:hun_x_preferred":[
         "Rayong"
     ],
-    "name:ice_x_preferred":[
-        "Rayong"
-    ],
     "name:ido_x_preferred":[
         "Rayong"
     ],
@@ -122,6 +119,9 @@
         "Rayong"
     ],
     "name:ind_x_preferred":[
+        "Rayong"
+    ],
+    "name:isl_x_preferred":[
         "Rayong"
     ],
     "name:ita_x_preferred":[
@@ -163,19 +163,22 @@
     "name:mar_x_preferred":[
         "\u0930\u0945\u092f\u094b\u0902\u0917"
     ],
-    "name:may_x_preferred":[
-        "Rayong"
-    ],
     "name:min_x_preferred":[
         "Rayong"
     ],
     "name:mlg_x_preferred":[
         "Rayong"
     ],
+    "name:msa_x_preferred":[
+        "Rayong"
+    ],
     "name:nap_x_preferred":[
         "Rayong"
     ],
     "name:nds_x_preferred":[
+        "Rayong"
+    ],
+    "name:nld_x_preferred":[
         "Rayong"
     ],
     "name:nno_x_preferred":[
@@ -208,7 +211,7 @@
     "name:roh_x_preferred":[
         "Rayong"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Rayong"
     ],
     "name:rus_x_preferred":[
@@ -223,7 +226,7 @@
     "name:sin_x_preferred":[
         "\u0dbb\u0dba\u0ddd\u0db1\u0dca\u0d9c\u0dca"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Rayong"
     ],
     "name:slv_x_preferred":[
@@ -253,9 +256,6 @@
     "name:tha_x_preferred":[
         "\u0e40\u0e17\u0e28\u0e1a\u0e32\u0e25\u0e19\u0e04\u0e23\u0e23\u0e30\u0e22\u0e2d\u0e07"
     ],
-    "name:tib_x_preferred":[
-        "\u0f62\u0f7a\u0f0b\u0f61\u0f7c\u0f44\u0f0b\u0f0d"
-    ],
     "name:tur_x_preferred":[
         "Rayong"
     ],
@@ -280,14 +280,14 @@
     "name:war_x_preferred":[
         "Rayong"
     ],
-    "name:wel_x_preferred":[
-        "Rayong"
-    ],
     "name:wln_x_preferred":[
         "Rayong"
     ],
     "name:wol_x_preferred":[
         "Rayong"
+    ],
+    "name:zho_x_preferred":[
+        "\u7f85\u52c7\u5e02"
     ],
     "name:zul_x_preferred":[
         "Rayong"
@@ -330,7 +330,7 @@
         }
     ],
     "wof:id":890466821,
-    "wof:lastmodified":1527793008,
+    "wof:lastmodified":1561758890,
     "wof:name":"Rayong",
     "wof:parent_id":1108802679,
     "wof:placetype":"locality",

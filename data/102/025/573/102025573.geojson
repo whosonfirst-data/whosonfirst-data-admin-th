@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0204,
-    "geom:area_square_m":245895047.051839,
+    "geom:area_square_m":245895047.051989,
     "geom:bbox":"100.806825887,12.7544652021,100.990045438,12.9938529618",
     "geom:latitude":12.887726,
     "geom:longitude":100.914671,
@@ -25,9 +25,6 @@
     "name:ara_x_preferred":[
         "\u0628\u0627\u062a\u0627\u064a\u0627"
     ],
-    "name:baq_x_preferred":[
-        "Pattaya"
-    ],
     "name:ben_x_preferred":[
         "\u09aa\u09be\u09a4\u09be\u09af\u09bc\u09be"
     ],
@@ -43,13 +40,7 @@
     "name:ces_x_preferred":[
         "Pattaya"
     ],
-    "name:chi_x_preferred":[
-        "\u82ad\u9054\u4e9e"
-    ],
     "name:cym_x_preferred":[
-        "Pattaya"
-    ],
-    "name:cze_x_preferred":[
         "Pattaya"
     ],
     "name:dan_x_preferred":[
@@ -58,8 +49,8 @@
     "name:deu_x_preferred":[
         "Pattaya"
     ],
-    "name:dut_x_preferred":[
-        "Pattaya"
+    "name:ell_x_preferred":[
+        "\u03a0\u03b1\u03c4\u03ac\u03b3\u03b9\u03b1"
     ],
     "name:eng_x_preferred":[
         "Pattaya"
@@ -85,15 +76,6 @@
     "name:fra_x_preferred":[
         "Pattaya"
     ],
-    "name:fre_x_preferred":[
-        "Pattaya"
-    ],
-    "name:ger_x_preferred":[
-        "Pattaya"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03b1\u03c4\u03ac\u03b3\u03b9\u03b1"
-    ],
     "name:guj_x_preferred":[
         "\u0aaa\u0a9f\u0abe\u0aaf\u0abe"
     ],
@@ -109,13 +91,13 @@
     "name:hun_x_preferred":[
         "Pattaja"
     ],
-    "name:ice_x_preferred":[
-        "Pattaya"
-    ],
     "name:ile_x_preferred":[
         "Pattaya"
     ],
     "name:ind_x_preferred":[
+        "Pattaya"
+    ],
+    "name:isl_x_preferred":[
         "Pattaya"
     ],
     "name:ita_x_preferred":[
@@ -151,20 +133,17 @@
     "name:lit_x_preferred":[
         "Pataja"
     ],
-    "name:mac_x_preferred":[
-        "\u041f\u0430\u0442\u0430\u0458\u0430"
-    ],
     "name:mal_x_preferred":[
         "\u0d2a\u0d1f\u0d4d\u0d1f\u0d3e\u0d2f"
     ],
     "name:mar_x_preferred":[
         "\u092a\u091f\u094d\u091f\u093e\u092f\u093e"
     ],
-    "name:may_x_preferred":[
-        "Pattaya"
-    ],
     "name:min_x_preferred":[
         "Pattaya"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041f\u0430\u0442\u0430\u0458\u0430"
     ],
     "name:msa_x_preferred":[
         "Pattaya"
@@ -186,9 +165,6 @@
     ],
     "name:nor_x_preferred":[
         "Pattaya"
-    ],
-    "name:per_x_preferred":[
-        "\u067e\u0627\u062a\u0627\u06cc\u0627"
     ],
     "name:pnb_x_preferred":[
         "\u067e\u062a\u0627\u06cc\u0627"
@@ -214,7 +190,7 @@
     "name:slk_x_preferred":[
         "Phatthaj\u00e1"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_variant":[
         "Pattaya"
     ],
     "name:spa_x_preferred":[
@@ -254,9 +230,6 @@
         "Pattaya"
     ],
     "name:war_x_preferred":[
-        "Pattaya"
-    ],
-    "name:wel_x_preferred":[
         "Pattaya"
     ],
     "name:yue_x_preferred":[
@@ -343,7 +316,7 @@
         }
     ],
     "wof:id":102025573,
-    "wof:lastmodified":1553807410,
+    "wof:lastmodified":1561758390,
     "wof:name":"Pattaya",
     "wof:parent_id":890466015,
     "wof:placetype":"locality",

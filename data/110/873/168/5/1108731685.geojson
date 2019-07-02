@@ -38,17 +38,14 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09aa\u09be\u09a8\u09af\u09bc\u09be\u09b0\u09c7"
     ],
-    "name:chi_x_preferred":[
-        "\u5df4\u90a3\u5386\u53bf"
+    "name:deu_x_preferred":[
+        "Amphoe Panare"
     ],
     "name:eng_x_preferred":[
         "Panare"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Panare"
-    ],
-    "name:ger_x_preferred":[
-        "Amphoe Panare"
     ],
     "name:jpn_x_preferred":[
         "\u30d1\u30ca\u30fc\u30ec\u90e1"
@@ -59,7 +56,7 @@
     "name:por_x_preferred":[
         "Panare"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Districtul Panare"
     ],
     "name:tha_x_preferred":[
@@ -67,6 +64,9 @@
     ],
     "name:vie_x_preferred":[
         "Panare"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u90a3\u5386\u53bf"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -104,7 +104,7 @@
         }
     ],
     "wof:id":1108731685,
-    "wof:lastmodified":1554489427,
+    "wof:lastmodified":1561758736,
     "wof:name":"Panare",
     "wof:parent_id":85678889,
     "wof:placetype":"county",

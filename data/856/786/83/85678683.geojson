@@ -47,14 +47,14 @@
     "name:bul_x_preferred":[
         "\u0422\u0430\u043a"
     ],
-    "name:chi_x_preferred":[
-        "\u4f86\u8208\u5e9c"
-    ],
     "name:dan_x_preferred":[
         "Tak"
     ],
-    "name:dut_x_preferred":[
-        "Changwat Tak"
+    "name:deu_x_preferred":[
+        "Tak"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03b1\u03ba"
     ],
     "name:eng_x_preferred":[
         "Tak"
@@ -62,23 +62,17 @@
     "name:eng_x_variant":[
         "Changwat Tak"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u062a\u0627\u06a9"
+    ],
     "name:fin_x_preferred":[
         "Tak"
     ],
-    "name:fre_x_preferred":[
-        "Tak"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e2\u10d0\u10d9\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Tak"
     ],
     "name:glg_x_preferred":[
         "Provincia Tak"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03b1\u03ba"
     ],
     "name:guj_x_preferred":[
         "\u0aa4\u0abe\u0a95"
@@ -98,6 +92,9 @@
     "name:kan_x_preferred":[
         "\u0ca4\u0c95\u0ccd"
     ],
+    "name:kat_x_preferred":[
+        "\u10e2\u10d0\u10d9\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\ub531 \uc8fc"
     ],
@@ -116,20 +113,20 @@
     "name:mar_x_preferred":[
         "\u0924\u093e\u0915"
     ],
-    "name:may_x_preferred":[
-        "Tak"
-    ],
     "name:mlg_x_preferred":[
         "Faritanin'i Tak"
+    ],
+    "name:msa_x_preferred":[
+        "Tak"
     ],
     "name:nan_x_preferred":[
         "Tak H\u00fa"
     ],
+    "name:nld_x_preferred":[
+        "Changwat Tak"
+    ],
     "name:nob_x_preferred":[
         "Tak"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u062a\u0627\u06a9"
     ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0679\u0627\u06a9"
@@ -140,7 +137,7 @@
     "name:por_x_preferred":[
         "Tak"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Provincia Tak"
     ],
     "name:rus_x_preferred":[
@@ -193,6 +190,9 @@
     ],
     "name:war_x_preferred":[
         "Tak"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f86\u8208\u5e9c"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"THA",
@@ -317,7 +317,7 @@
     "wof:lang_x_spoken":[
         "tha"
     ],
-    "wof:lastmodified":1554156334,
+    "wof:lastmodified":1561758457,
     "wof:name":"Tak",
     "wof:parent_id":85632293,
     "wof:placetype":"region",

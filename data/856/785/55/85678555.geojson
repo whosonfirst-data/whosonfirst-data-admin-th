@@ -46,14 +46,14 @@
     "name:bul_x_preferred":[
         "\u041c\u0430\u0435 \u0425\u043e\u043d\u0433 \u0421\u043e\u043d"
     ],
-    "name:chi_x_preferred":[
-        "\u6e44\u5b8f\u9806\u5e9c"
-    ],
     "name:dan_x_preferred":[
         "Mae Hong Son"
     ],
-    "name:dut_x_preferred":[
-        "Changwat Mae Hong Son"
+    "name:deu_x_preferred":[
+        "Mae Hong Son"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03ac\u03b9 \u03a7\u03bf\u03bd\u03b3\u03ba \u03a3\u03bf\u03bd"
     ],
     "name:eng_x_preferred":[
         "Mae Hong Son"
@@ -62,23 +62,17 @@
         "Changwat Mae Hong Son",
         "Maehongson"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u06cc \u0647\u0648\u0646\u06af \u0633\u0648\u0646"
+    ],
     "name:fin_x_preferred":[
         "Mae Hong Son"
     ],
-    "name:fre_x_preferred":[
-        "Mae Hong Son"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10d4\u10f0\u10dd\u10dc\u10d2\u10e1\u10dd\u10dc\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Mae Hong Son"
     ],
     "name:glg_x_preferred":[
         "Provincia Mae Hong Son"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03ac\u03b9 \u03a7\u03bf\u03bd\u03b3\u03ba \u03a3\u03bf\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0ac7 \u0ab9\u0acb\u0a82\u0a97 \u0ab8\u0aa8"
@@ -98,6 +92,9 @@
     "name:kan_x_preferred":[
         "\u0cae\u0cc7 \u0cb9\u0cbe\u0c82\u0c97\u0ccd \u0cb8\u0ca8\u0ccd"
     ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d4\u10f0\u10dd\u10dc\u10d2\u10e1\u10dd\u10dc\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\ub9e4\ud64d\uc190 \uc8fc"
     ],
@@ -113,20 +110,20 @@
     "name:mar_x_preferred":[
         "\u092e\u0947 \u0939\u0949\u0901\u0917 \u0938\u094b\u0928"
     ],
-    "name:may_x_preferred":[
-        "Mae Hong Son"
-    ],
     "name:mlg_x_preferred":[
         "Faritanin'i Mae Hong Son"
+    ],
+    "name:msa_x_preferred":[
+        "Mae Hong Son"
     ],
     "name:nan_x_preferred":[
         "Mae Hong Son H\u00fa"
     ],
+    "name:nld_x_preferred":[
+        "Changwat Mae Hong Son"
+    ],
     "name:nob_x_preferred":[
         "Mae Hong Son"
-    ],
-    "name:per_x_preferred":[
-        "\u0645\u0627\u06cc \u0647\u0648\u0646\u06af \u0633\u0648\u0646"
     ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0645\u0627\u0626\u06d2 \u06c1\u0627\u0646\u06af \u0633\u0646"
@@ -137,7 +134,7 @@
     "name:por_x_preferred":[
         "Mae Hong Son"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Provincia Mae Hong Son"
     ],
     "name:rus_x_preferred":[
@@ -190,6 +187,9 @@
     ],
     "name:war_x_preferred":[
         "Mae Hong Son"
+    ],
+    "name:zho_x_preferred":[
+        "\u6e44\u5b8f\u9806\u5e9c"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"THA",
@@ -313,7 +313,7 @@
     "wof:lang_x_spoken":[
         "tha"
     ],
-    "wof:lastmodified":1554156331,
+    "wof:lastmodified":1561758449,
     "wof:name":"Mae Hong Son",
     "wof:parent_id":85632293,
     "wof:placetype":"region",

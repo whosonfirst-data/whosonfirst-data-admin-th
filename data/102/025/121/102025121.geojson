@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007829,
-    "geom:area_square_m":92151978.786811,
+    "geom:area_square_m":92151978.786787,
     "geom:bbox":"102.597378923,17.7344227181,102.813992803,17.9093734802",
     "geom:latitude":17.835761,
     "geom:longitude":102.73861,
@@ -23,13 +23,7 @@
     "name:bod_x_preferred":[
         "\u0f53\u0f7c\u0f44\u0f0b\u0f41\u0f60\u0f72\u0f0d"
     ],
-    "name:chi_x_preferred":[
-        "\u5eca\u958b\u5e02"
-    ],
     "name:deu_x_preferred":[
-        "Nong Khai"
-    ],
-    "name:dut_x_preferred":[
         "Nong Khai"
     ],
     "name:eng_x_preferred":[
@@ -44,13 +38,10 @@
         "Nong Kai",
         "QJX"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u0648\u0646\u06af \u062e\u0627\u06cc"
+    ],
     "name:fra_x_preferred":[
-        "Nong Khai"
-    ],
-    "name:fre_x_preferred":[
-        "Nong Khai"
-    ],
-    "name:ger_x_preferred":[
         "Nong Khai"
     ],
     "name:ita_x_preferred":[
@@ -71,9 +62,6 @@
     "name:nor_x_preferred":[
         "Nong Khai"
     ],
-    "name:per_x_preferred":[
-        "\u0646\u0648\u0646\u06af \u062e\u0627\u06cc"
-    ],
     "name:pnb_x_preferred":[
         "\u0646\u0648\u0646\u06af \u06a9\u06be\u0627\u0626\u06cc"
     ],
@@ -89,9 +77,6 @@
     "name:tha_x_variant":[
         "\u0e2b\u0e19\u0e2d\u0e07\u0e04\u0e32\u0e22"
     ],
-    "name:tib_x_preferred":[
-        "\u0f53\u0f7c\u0f44\u0f0b\u0f41\u0f60\u0f72\u0f0d"
-    ],
     "name:unk_x_variant":[
         "Nong Hai"
     ],
@@ -100,6 +85,9 @@
     ],
     "name:war_x_preferred":[
         "Nong Khai"
+    ],
+    "name:zho_x_preferred":[
+        "\u5eca\u958b\u5e02"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Thailand",
@@ -244,7 +232,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636685,
+    "wof:lastmodified":1561758389,
     "wof:name":"Nong Khai",
     "wof:parent_id":890465657,
     "wof:placetype":"locality",

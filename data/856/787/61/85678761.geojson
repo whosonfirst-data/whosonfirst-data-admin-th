@@ -47,14 +47,14 @@
     "name:bul_x_preferred":[
         "\u0420\u0430\u0442\u0447\u0430\u0431\u0443\u0440\u0438"
     ],
-    "name:chi_x_preferred":[
-        "\u53fb\u4e15\u5e9c"
-    ],
     "name:dan_x_preferred":[
         "Ratchaburi"
     ],
-    "name:dut_x_preferred":[
-        "Changwat Ratchaburi"
+    "name:deu_x_preferred":[
+        "Ratchaburi"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a1\u03ac\u03c4\u03c3\u03b1\u03bc\u03c0\u03bf\u03c5\u03c1\u03b9"
     ],
     "name:eng_x_preferred":[
         "Ratchaburi"
@@ -62,23 +62,17 @@
     "name:eng_x_variant":[
         "Changwat Ratchaburi"
     ],
+    "name:fas_x_preferred":[
+        "\u0631\u0627\u062a\u0686\u0627\u0628\u0648\u0631\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Ratchaburi"
     ],
-    "name:fre_x_preferred":[
-        "Ratchaburi"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e0\u10d0\u10e2\u10e9\u10d0\u10d1\u10e3\u10e0\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Ratchaburi"
     ],
     "name:glg_x_preferred":[
         "Provincia Ratchaburi"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a1\u03ac\u03c4\u03c3\u03b1\u03bc\u03c0\u03bf\u03c5\u03c1\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0ab0\u0ac5\u0a9a\u0aac\u0ac2\u0ab0\u0ac0"
@@ -98,6 +92,9 @@
     "name:kan_x_preferred":[
         "\u0cb0\u0cbe\u0c9a\u0ccd\u0cac\u0cbe\u0cb0\u0cbf"
     ],
+    "name:kat_x_preferred":[
+        "\u10e0\u10d0\u10e2\u10e9\u10d0\u10d1\u10e3\u10e0\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\ub78f\ucc28\ubd80\ub9ac \uc8fc"
     ],
@@ -116,20 +113,20 @@
     "name:mar_x_preferred":[
         "\u0930\u091a\u092c\u0941\u0930\u0940"
     ],
-    "name:may_x_preferred":[
-        "Ratchaburi"
-    ],
     "name:mlg_x_preferred":[
         "Faritanin'i Ratchaburi"
+    ],
+    "name:msa_x_preferred":[
+        "Ratchaburi"
     ],
     "name:nan_x_preferred":[
         "Ratchaburi H\u00fa"
     ],
+    "name:nld_x_preferred":[
+        "Changwat Ratchaburi"
+    ],
     "name:nob_x_preferred":[
         "Ratchaburi"
-    ],
-    "name:per_x_preferred":[
-        "\u0631\u0627\u062a\u0686\u0627\u0628\u0648\u0631\u06cc"
     ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0631\u0627\u0679\u0686\u0627\u0628\u0648\u0631\u06cc"
@@ -140,7 +137,7 @@
     "name:por_x_preferred":[
         "Ratchaburi"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Provincia Ratchaburi"
     ],
     "name:rus_x_preferred":[
@@ -190,6 +187,9 @@
     ],
     "name:war_x_preferred":[
         "Ratchaburi"
+    ],
+    "name:zho_x_preferred":[
+        "\u53fb\u4e15\u5e9c"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"THA",
@@ -314,7 +314,7 @@
     "wof:lang_x_spoken":[
         "tha"
     ],
-    "wof:lastmodified":1554156333,
+    "wof:lastmodified":1561758457,
     "wof:name":"Ratchaburi",
     "wof:parent_id":85632293,
     "wof:placetype":"region",

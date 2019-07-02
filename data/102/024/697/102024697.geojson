@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002387,
-    "geom:area_square_m":28131379.978794,
+    "geom:area_square_m":28131379.978805,
     "geom:bbox":"104.454073658,17.5459703406,104.615746962,17.6582951919",
     "geom:latitude":17.587068,
     "geom:longitude":104.564281,
@@ -22,6 +22,9 @@
     "name:deu_x_preferred":[
         "Amphoe Tha Uthen"
     ],
+    "name:deu_x_variant":[
+        "Tha Uthen"
+    ],
     "name:eng_x_preferred":[
         "Tha Uthen"
     ],
@@ -30,9 +33,6 @@
         "Houthene",
         "Tauten",
         "Uthen"
-    ],
-    "name:ger_x_preferred":[
-        "Tha Uthen"
     ],
     "name:ron_x_preferred":[
         "Districtul Tha Uthen"
@@ -99,7 +99,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636447,
+    "wof:lastmodified":1561758382,
     "wof:name":"Tha Uthen",
     "wof:parent_id":1108731993,
     "wof:placetype":"locality",

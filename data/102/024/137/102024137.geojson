@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00273,
-    "geom:area_square_m":32227831.016188,
+    "geom:area_square_m":32227831.016162,
     "geom:bbox":"99.7958882879,17.2629349939,99.8696367675,17.3439462634",
     "geom:latitude":17.307492,
     "geom:longitude":99.836169,
@@ -23,6 +23,9 @@
     "name:deu_x_preferred":[
         "Amphoe Sawankhalok"
     ],
+    "name:deu_x_variant":[
+        "Sawankhalok"
+    ],
     "name:eng_x_preferred":[
         "Sawankhalok"
     ],
@@ -36,9 +39,6 @@
         "Swankalauk",
         "Swankhalok",
         "Wang Mai Kuan"
-    ],
-    "name:ger_x_preferred":[
-        "Sawankhalok"
     ],
     "name:jpn_x_preferred":[
         "\u30b5\u30ef\u30f3\u30ab\u30ed\u30fc\u30af\u90e1"
@@ -107,7 +107,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636444,
+    "wof:lastmodified":1561758380,
     "wof:name":"Sawankhalok",
     "wof:parent_id":85678651,
     "wof:placetype":"locality",

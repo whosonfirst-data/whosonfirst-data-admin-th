@@ -47,14 +47,14 @@
     "name:bul_x_preferred":[
         "\u041f\u0430\u043d\u0433 \u041d\u0433\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u6500\u7259\u5e9c"
-    ],
     "name:dan_x_preferred":[
         "Phang Nga"
     ],
-    "name:dut_x_preferred":[
-        "Changwat Phang Nga"
+    "name:deu_x_preferred":[
+        "Phangnga"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03b1\u03bd\u03b3\u03ba \u039d\u03b3\u03ba\u03ac"
     ],
     "name:eng_x_preferred":[
         "Phang Nga"
@@ -64,20 +64,17 @@
         "Phang Nga",
         "Phangnga"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0647\u0627\u0646\u06af \u0646\u06af\u0627"
+    ],
     "name:fin_x_preferred":[
         "Phang Nga"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Phang Nga"
-    ],
-    "name:ger_x_preferred":[
-        "Phangnga"
     ],
     "name:glg_x_preferred":[
         "Provincia Phangnga"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03b1\u03bd\u03b3\u03ba \u039d\u03b3\u03ba\u03ac"
     ],
     "name:guj_x_preferred":[
         "\u0aab\u0abe\u0a82\u0a97 \u0aa8\u0a97\u0abe"
@@ -115,20 +112,20 @@
     "name:mar_x_preferred":[
         "\u092b\u093e\u0902\u0917 \u0928\u0917\u093e"
     ],
-    "name:may_x_preferred":[
-        "Phang Nga"
-    ],
     "name:mlg_x_preferred":[
         "Faritanin'i Phang Nga"
+    ],
+    "name:msa_x_preferred":[
+        "Phang Nga"
     ],
     "name:nan_x_preferred":[
         "Phang Nga H\u00fa"
     ],
+    "name:nld_x_preferred":[
+        "Changwat Phang Nga"
+    ],
     "name:nob_x_preferred":[
         "Phang Nga"
-    ],
-    "name:per_x_preferred":[
-        "\u067e\u0647\u0627\u0646\u06af \u0646\u06af\u0627"
     ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u067e\u06be\u0646\u06af \u0646\u06af\u0627"
@@ -139,7 +136,7 @@
     "name:por_x_preferred":[
         "Phangnga"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Provincia Phang Nga"
     ],
     "name:rus_x_preferred":[
@@ -191,6 +188,9 @@
         "Phang Nga"
     ],
     "name:wuu_x_preferred":[
+        "\u6500\u7259\u5e9c"
+    ],
+    "name:zho_x_preferred":[
         "\u6500\u7259\u5e9c"
     ],
     "ne:abbrev":"",
@@ -316,7 +316,7 @@
     "wof:lang_x_spoken":[
         "tha"
     ],
-    "wof:lastmodified":1554156332,
+    "wof:lastmodified":1561758449,
     "wof:name":"Phang Nga",
     "wof:parent_id":85632293,
     "wof:placetype":"region",

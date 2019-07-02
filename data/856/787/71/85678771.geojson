@@ -46,14 +46,14 @@
     "name:bul_x_preferred":[
         "\u0421\u0430\u043c\u0443\u0442 \u0421\u0430\u043a\u043e\u043d"
     ],
-    "name:chi_x_preferred":[
-        "\u9f8d\u4ed4\u539d\u5e9c"
-    ],
     "name:dan_x_preferred":[
         "Samut Sakhon"
     ],
-    "name:dut_x_preferred":[
-        "Changwat Samut Sakhon"
+    "name:deu_x_preferred":[
+        "Samut Sakhon"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03ac\u03bc\u03bf\u03c5\u03c4 \u03a3\u03ac\u03ba\u03bf\u03bd"
     ],
     "name:eng_x_preferred":[
         "Samut Sakhon"
@@ -64,17 +64,11 @@
     "name:fin_x_preferred":[
         "Samut Sakhon"
     ],
-    "name:fre_x_preferred":[
-        "Samut Sakhon"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Samut Sakhon"
     ],
     "name:glg_x_preferred":[
         "Provincia Samut Sakhon"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03ac\u03bc\u03bf\u03c5\u03c4 \u03a3\u03ac\u03ba\u03bf\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0aae\u0ac1\u0a9f \u0ab8\u0abe\u0a96\u0acb\u0aa8"
@@ -109,14 +103,17 @@
     "name:mar_x_preferred":[
         "\u0938\u0945\u092e\u094d\u092f\u0941\u091f \u0938\u0916\u094b\u0928"
     ],
-    "name:may_x_preferred":[
-        "Samut Sakhon"
-    ],
     "name:mlg_x_preferred":[
         "Faritanin'i Samut Sakhon"
     ],
+    "name:msa_x_preferred":[
+        "Samut Sakhon"
+    ],
     "name:nan_x_preferred":[
         "Samut Sakhon H\u00fa"
+    ],
+    "name:nld_x_preferred":[
+        "Changwat Samut Sakhon"
     ],
     "name:nob_x_preferred":[
         "Samut Sakhon"
@@ -130,7 +127,7 @@
     "name:por_x_preferred":[
         "Samut Sakhon"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Provincia Samut Sakhon"
     ],
     "name:rus_x_preferred":[
@@ -184,6 +181,9 @@
     ],
     "name:wuu_x_preferred":[
         "\u9f99\u4ed4\u539d\u5e9c"
+    ],
+    "name:zho_x_preferred":[
+        "\u9f8d\u4ed4\u539d\u5e9c"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"THA",
@@ -307,7 +307,7 @@
     "wof:lang_x_spoken":[
         "tha"
     ],
-    "wof:lastmodified":1554156333,
+    "wof:lastmodified":1561758458,
     "wof:name":"Samut Sakhon",
     "wof:parent_id":85632293,
     "wof:placetype":"region",

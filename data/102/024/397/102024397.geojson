@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012604,
-    "geom:area_square_m":151988165.272022,
+    "geom:area_square_m":151988165.272173,
     "geom:bbox":"99.8949583381,12.6366564742,100.012266368,12.9012670068",
     "geom:latitude":12.780418,
     "geom:longitude":99.953702,
@@ -20,16 +20,13 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u099a\u09be-\u0985\u09ae"
     ],
-    "name:bur_x_preferred":[
-        "\u1001\u103b\u102c\u1021\u1019\u103a\u1038 \u1015\u103c\u100a\u103a\u1014\u101a\u103a"
-    ],
     "name:dan_x_preferred":[
         "Cha am"
     ],
     "name:deu_x_preferred":[
         "Amphoe Cha-am"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_variant":[
         "Cha-am"
     ],
     "name:eng_x_preferred":[
@@ -42,10 +39,7 @@
     "name:fin_x_preferred":[
         "Cha Am"
     ],
-    "name:fre_x_preferred":[
-        "Cha-am"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Cha-am"
     ],
     "name:ind_x_preferred":[
@@ -54,8 +48,14 @@
     "name:jpn_x_preferred":[
         "\u30c1\u30e3\u30a2\u30e0\u90e1"
     ],
+    "name:mya_x_preferred":[
+        "\u1001\u103b\u102c\u1021\u1019\u103a\u1038 \u1015\u103c\u100a\u103a\u1014\u101a\u103a"
+    ],
     "name:nld_x_preferred":[
         "Amphoe Cha-am"
+    ],
+    "name:nld_x_variant":[
+        "Cha-am"
     ],
     "name:nno_x_preferred":[
         "Cha-am"
@@ -144,7 +144,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636427,
+    "wof:lastmodified":1561758375,
     "wof:name":"Cha-am",
     "wof:parent_id":890466433,
     "wof:placetype":"locality",

@@ -41,8 +41,11 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09aa\u09be\u09a5\u09bf\u0993"
     ],
-    "name:chi_x_preferred":[
-        "\u8dcb\u9e92\u53bf"
+    "name:deu_x_preferred":[
+        "Amphoe Pathio"
+    ],
+    "name:ell_x_preferred":[
+        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u03a0\u03ac\u03c4\u03b9\u03bf"
     ],
     "name:eng_x_preferred":[
         "Pathio"
@@ -50,19 +53,13 @@
     "name:eng_x_variant":[
         "Pathiu"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Pathio"
-    ],
-    "name:ger_x_preferred":[
-        "Amphoe Pathio"
-    ],
-    "name:gre_x_preferred":[
-        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u03a0\u03ac\u03c4\u03b9\u03bf"
     ],
     "name:nan_x_preferred":[
         "Pathio K\u016bn"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Districtul Pathio"
     ],
     "name:tha_x_preferred":[
@@ -76,6 +73,9 @@
     ],
     "name:vie_x_preferred":[
         "Pathio"
+    ],
+    "name:zho_x_preferred":[
+        "\u8dcb\u9e92\u53bf"
     ],
     "qs:name":"Amphoe Pathio",
     "qs:photos_9r":0,
@@ -125,7 +125,7 @@
         }
     ],
     "wof:id":890466197,
-    "wof:lastmodified":1554489105,
+    "wof:lastmodified":1561758894,
     "wof:name":"Pathiu",
     "wof:parent_id":85678559,
     "wof:placetype":"county",

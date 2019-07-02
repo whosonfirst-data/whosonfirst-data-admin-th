@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032954,
-    "geom:area_square_m":396050287.170786,
+    "geom:area_square_m":396050287.170947,
     "geom:bbox":"99.6532311648,13.4393531438,99.9865722657,13.7884425029",
     "geom:latitude":13.606755,
     "geom:longitude":99.84313,
@@ -21,16 +21,7 @@
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0631\u0627\u062a\u0634\u0627\u0628\u0648\u0631\u064a"
     ],
-    "name:arm_x_preferred":[
-        "\u054c\u0561\u0569\u0579\u0561\u0562\u0578\u0582\u0580\u056b"
-    ],
-    "name:chi_x_preferred":[
-        "\u53fb\u6b66\u91cc"
-    ],
     "name:deu_x_preferred":[
-        "Ratchaburi"
-    ],
-    "name:dut_x_preferred":[
         "Ratchaburi"
     ],
     "name:eng_x_preferred":[
@@ -42,17 +33,17 @@
         "Rajburi",
         "Rat Buri"
     ],
+    "name:fas_x_preferred":[
+        "\u0631\u0627\u062a\u0686\u0627\u0628\u0648\u0631\u06cc"
+    ],
     "name:fra_x_preferred":[
-        "Ratchaburi"
-    ],
-    "name:fre_x_preferred":[
-        "Ratchaburi"
-    ],
-    "name:ger_x_preferred":[
         "Ratchaburi"
     ],
     "name:heb_x_preferred":[
         "\u05e8\u05d8\u05d1\u05d5\u05e8\u05d9"
+    ],
+    "name:hye_x_preferred":[
+        "\u054c\u0561\u0569\u0579\u0561\u0562\u0578\u0582\u0580\u056b"
     ],
     "name:ita_x_preferred":[
         "Ratchaburi"
@@ -71,9 +62,6 @@
     ],
     "name:nor_x_preferred":[
         "Ratchaburi"
-    ],
-    "name:per_x_preferred":[
-        "\u0631\u0627\u062a\u0686\u0627\u0628\u0648\u0631\u06cc"
     ],
     "name:pnb_x_preferred":[
         "\u0631\u0627\u0679\u0686\u0627\u0628\u0648\u0631\u06cc"
@@ -101,6 +89,9 @@
     ],
     "name:war_x_preferred":[
         "Ratchaburi"
+    ],
+    "name:zho_x_preferred":[
+        "\u53fb\u6b66\u91cc"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Thailand",
@@ -245,7 +236,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636443,
+    "wof:lastmodified":1561758380,
     "wof:name":"Ratchaburi",
     "wof:parent_id":890466987,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009002,
-    "geom:area_square_m":107163188.105986,
+    "geom:area_square_m":107163188.10614,
     "geom:bbox":"100.026682302,15.6298675654,100.221121274,15.7854342563",
     "geom:latitude":15.700676,
     "geom:longitude":100.119443,
@@ -29,17 +29,14 @@
     "name:bod_x_preferred":[
         "\u0f53\u0f0b\u0f41\u0f71\u0f7c\u0f53\u0f0b\u0f66\u0f0b\u0f5d\u0f53\u0f0d"
     ],
-    "name:chi_x_preferred":[
-        "\u5317\u6b16\u5761"
-    ],
     "name:dan_x_preferred":[
         "Nakhon Sawan"
     ],
     "name:deu_x_preferred":[
         "Nakhon Sawan"
     ],
-    "name:dut_x_preferred":[
-        "Nakhon Sawan"
+    "name:ell_x_preferred":[
+        "\u039d\u03b1\u03ba\u03cc\u03bd \u03a3\u03b1\u03b2\u03ac\u03bd"
     ],
     "name:eng_x_preferred":[
         "Nakhon Sawan"
@@ -62,15 +59,6 @@
     ],
     "name:fra_x_preferred":[
         "Nakhon Sawan"
-    ],
-    "name:fre_x_preferred":[
-        "Nakhon Sawan"
-    ],
-    "name:ger_x_preferred":[
-        "Nakhon Sawan"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03b1\u03ba\u03cc\u03bd \u03a3\u03b1\u03b2\u03ac\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0aa8\u0abe\u0a96\u0acb\u0aa8 \u0ab8\u0abe\u0ab5\u0aa8"
@@ -102,13 +90,13 @@
     "name:lit_x_preferred":[
         "Nakhonsavanas"
     ],
-    "name:mac_x_preferred":[
-        "\u041d\u0430\u043a\u043e\u043d \u0421\u0430\u0432\u0430\u043d"
-    ],
     "name:mar_x_preferred":[
         "\u0928\u093e\u0916\u094b\u0928 \u0938\u093e\u0935\u0928"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u041d\u0430\u043a\u043e\u043d \u0421\u0430\u0432\u0430\u043d"
+    ],
+    "name:msa_x_preferred":[
         "Nakhon Sawan"
     ],
     "name:nld_x_preferred":[
@@ -152,9 +140,6 @@
     ],
     "name:tha_x_variant":[
         "\u0e19\u0e04\u0e23\u0e2a\u0e27\u0e23\u0e23\u0e04\u0e4c"
-    ],
-    "name:tib_x_preferred":[
-        "\u0f53\u0f0b\u0f41\u0f71\u0f7c\u0f53\u0f0b\u0f66\u0f0b\u0f5d\u0f53\u0f0d"
     ],
     "name:tur_x_preferred":[
         "Nakhon Sawan"
@@ -320,7 +305,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636688,
+    "wof:lastmodified":1561758393,
     "wof:name":"Nakhon Sawan",
     "wof:parent_id":890466923,
     "wof:placetype":"locality",

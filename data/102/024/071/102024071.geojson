@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001648,
-    "geom:area_square_m":19448742.388706,
+    "geom:area_square_m":19448742.38871,
     "geom:bbox":"99.5102432153,17.3048932485,99.5730097213,17.3439468301",
     "geom:latitude":17.323974,
     "geom:longitude":99.543046,
@@ -22,6 +22,9 @@
     "name:deu_x_preferred":[
         "Amphoe Thung Saliam"
     ],
+    "name:deu_x_variant":[
+        "Thung Saliam"
+    ],
     "name:eng_x_colloquial":[
         "Baan Thung Saliyan",
         "Ban Thung Saliyan",
@@ -36,9 +39,6 @@
         "B\u00e5n Thung Saliyan",
         "Dhungsali\u0113m",
         "Thung Salian"
-    ],
-    "name:ger_x_preferred":[
-        "Thung Saliam"
     ],
     "name:ron_x_preferred":[
         "Districtul Thung Saliam"
@@ -106,7 +106,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636432,
+    "wof:lastmodified":1561758376,
     "wof:name":"Thung Saliam",
     "wof:parent_id":85678651,
     "wof:placetype":"locality",

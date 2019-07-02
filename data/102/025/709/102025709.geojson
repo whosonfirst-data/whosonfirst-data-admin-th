@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009012,
-    "geom:area_square_m":108152645.564933,
+    "geom:area_square_m":108152645.564826,
     "geom:bbox":"100.334373692,13.8674135122,100.453491211,14.0017530363",
     "geom:latitude":13.938703,
     "geom:longitude":100.394352,
@@ -28,16 +28,13 @@
     "name:deu_x_preferred":[
         "Amphoe Bang Bua Thong"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_variant":[
         "Bang Bua Thong"
     ],
     "name:eng_x_preferred":[
         "Bang Bua Thong"
     ],
-    "name:fre_x_preferred":[
-        "Bang Bua Thong"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Bang Bua Thong"
     ],
     "name:ita_x_preferred":[
@@ -45,6 +42,9 @@
     ],
     "name:nld_x_preferred":[
         "Amphoe Bang Bua Thong"
+    ],
+    "name:nld_x_variant":[
+        "Bang Bua Thong"
     ],
     "name:nob_x_preferred":[
         "Bang Bua Thong"
@@ -126,7 +126,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636681,
+    "wof:lastmodified":1561758385,
     "wof:name":"Bang Bua Thong",
     "wof:parent_id":890467237,
     "wof:placetype":"locality",

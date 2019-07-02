@@ -38,17 +38,14 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09af\u09bc\u09bf-\u0999\u09cb"
     ],
-    "name:chi_x_preferred":[
-        "\u6021\u5a25\u53bf"
+    "name:deu_x_preferred":[
+        "Amphoe Yi-ngo"
     ],
     "name:eng_x_preferred":[
         "Yi-ngo"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Yi-ngo"
-    ],
-    "name:ger_x_preferred":[
-        "Amphoe Yi-ngo"
     ],
     "name:jpn_x_preferred":[
         "\u30a4\u30fc\u30b4\u30fc\u90e1"
@@ -59,7 +56,7 @@
     "name:por_x_preferred":[
         "Yi-ngo"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Districtul Yi-ngo"
     ],
     "name:tha_x_preferred":[
@@ -70,6 +67,9 @@
     ],
     "name:vie_x_preferred":[
         "Yi-ngo"
+    ],
+    "name:zho_x_preferred":[
+        "\u6021\u5a25\u53bf"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -107,7 +107,7 @@
         }
     ],
     "wof:id":1108732091,
-    "wof:lastmodified":1554489432,
+    "wof:lastmodified":1561758757,
     "wof:name":"Yi-ngo",
     "wof:parent_id":85678885,
     "wof:placetype":"county",

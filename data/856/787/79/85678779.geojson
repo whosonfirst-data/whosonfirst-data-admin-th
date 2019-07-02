@@ -46,14 +46,14 @@
     "name:bul_x_preferred":[
         "\u0421\u0438\u0441\u0430\u043a\u0435\u0442"
     ],
-    "name:chi_x_preferred":[
-        "\u56db\u8272\u83ca\u5e9c"
-    ],
     "name:dan_x_preferred":[
         "Si Sa Ket"
     ],
-    "name:dut_x_preferred":[
-        "Changwat Sisaket"
+    "name:deu_x_preferred":[
+        "Si Sa Ket"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b9 \u03a3\u03b1 \u039a\u03b5\u03c4"
     ],
     "name:eng_x_preferred":[
         "Sisaket"
@@ -67,20 +67,17 @@
     "name:epo_x_preferred":[
         "Provinco de Sisaketo"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u06cc \u0633\u0627 \u06a9\u062a"
+    ],
     "name:fin_x_preferred":[
         "Si Sa Ket"
     ],
-    "name:fre_x_preferred":[
-        "Si Sa Ket"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Si Sa Ket"
     ],
     "name:glg_x_preferred":[
         "Provincia Si Sa Ket"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03b9 \u03a3\u03b1 \u039a\u03b5\u03c4"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ac0 \u0ab8\u0abe \u0a95\u0ac7\u0a9f"
@@ -118,20 +115,20 @@
     "name:mar_x_preferred":[
         "\u0938\u0940 \u0938\u093e \u0915\u0947\u091f"
     ],
-    "name:may_x_preferred":[
-        "Sisaket"
-    ],
     "name:mlg_x_preferred":[
         "Faritanin'i Sisaket"
+    ],
+    "name:msa_x_preferred":[
+        "Sisaket"
     ],
     "name:nan_x_preferred":[
         "Sisaket H\u00fa"
     ],
+    "name:nld_x_preferred":[
+        "Changwat Sisaket"
+    ],
     "name:nob_x_preferred":[
         "Sisaket"
-    ],
-    "name:per_x_preferred":[
-        "\u0633\u06cc \u0633\u0627 \u06a9\u062a"
     ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0633\u06cc\u0633\u0627\u06a9\u0679"
@@ -142,7 +139,7 @@
     "name:por_x_preferred":[
         "Si Sa Ket"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Provincia Sisaket"
     ],
     "name:rus_x_preferred":[
@@ -189,6 +186,9 @@
     ],
     "name:war_x_preferred":[
         "Sisaket"
+    ],
+    "name:zho_x_preferred":[
+        "\u56db\u8272\u83ca\u5e9c"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"THA",
@@ -312,7 +312,7 @@
     "wof:lang_x_spoken":[
         "tha"
     ],
-    "wof:lastmodified":1554156333,
+    "wof:lastmodified":1561758458,
     "wof:name":"Sisaket",
     "wof:parent_id":85632293,
     "wof:placetype":"region",

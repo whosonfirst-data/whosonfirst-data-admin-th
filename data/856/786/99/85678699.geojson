@@ -46,14 +46,14 @@
     "name:bul_x_preferred":[
         "\u0427\u0430\u0439\u043d\u0430\u0442"
     ],
-    "name:chi_x_preferred":[
-        "\u731c\u7d0d\u5e9c"
-    ],
     "name:dan_x_preferred":[
         "Chai Nat"
     ],
-    "name:dut_x_preferred":[
-        "Changwat Chainat"
+    "name:deu_x_preferred":[
+        "Chainat"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03c3\u03ac\u03b9 \u039d\u03b1\u03c4"
     ],
     "name:eng_x_preferred":[
         "Chai Nat"
@@ -62,20 +62,17 @@
         "Chainat",
         "Changwat Chai Nat"
     ],
+    "name:fas_x_preferred":[
+        "\u0686\u0627\u06cc\u0646\u0627\u062a"
+    ],
     "name:fin_x_preferred":[
         "Chai Nat"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Chai Nat"
-    ],
-    "name:ger_x_preferred":[
-        "Chainat"
     ],
     "name:glg_x_preferred":[
         "Provincia Chai Nat"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03c3\u03ac\u03b9 \u039d\u03b1\u03c4"
     ],
     "name:guj_x_preferred":[
         "\u0a9a\u0abe\u0a88 \u0aa8\u0ac7\u0a9f"
@@ -113,20 +110,20 @@
     "name:mar_x_preferred":[
         "\u091a\u093e\u0908 \u0928\u0947\u091f"
     ],
-    "name:may_x_preferred":[
-        "Chainat"
-    ],
     "name:mlg_x_preferred":[
         "Faritanin'i Chainat"
+    ],
+    "name:msa_x_preferred":[
+        "Chainat"
     ],
     "name:nan_x_preferred":[
         "Chainat H\u00fa"
     ],
+    "name:nld_x_preferred":[
+        "Changwat Chainat"
+    ],
     "name:nob_x_preferred":[
         "Chainat"
-    ],
-    "name:per_x_preferred":[
-        "\u0686\u0627\u06cc\u0646\u0627\u062a"
     ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0686\u0627\u0626\u06cc \u0646\u0627\u0679"
@@ -137,7 +134,7 @@
     "name:por_x_preferred":[
         "Chai Nat"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Provincia Chainat"
     ],
     "name:rus_x_preferred":[
@@ -187,6 +184,9 @@
     ],
     "name:war_x_preferred":[
         "Chainat"
+    ],
+    "name:zho_x_preferred":[
+        "\u731c\u7d0d\u5e9c"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"THA",
@@ -310,7 +310,7 @@
     "wof:lang_x_spoken":[
         "tha"
     ],
-    "wof:lastmodified":1554156330,
+    "wof:lastmodified":1561758456,
     "wof:name":"Chai Nat",
     "wof:parent_id":85632293,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009535,
-    "geom:area_square_m":111631456.088087,
+    "geom:area_square_m":111631456.088044,
     "geom:bbox":"100.696690041,18.6215960417,101.166119177,19.159388472",
     "geom:latitude":18.766608,
     "geom:longitude":100.793617,
@@ -23,16 +23,10 @@
     "name:bod_x_preferred":[
         "\u0f53\u0f71\u0f53\u0f0b\u0f42\u0fb2\u0f7c\u0f44\u0f0b\u0f41\u0fb1\u0f7a\u0f62\u0f0d"
     ],
-    "name:chi_x_preferred":[
-        "\u6960\u5e02"
-    ],
     "name:dan_x_preferred":[
         "Nan"
     ],
     "name:deu_x_preferred":[
-        "Nan"
-    ],
-    "name:dut_x_preferred":[
         "Nan"
     ],
     "name:eng_x_preferred":[
@@ -45,15 +39,6 @@
         "Nagor Nan"
     ],
     "name:fra_x_preferred":[
-        "Nan"
-    ],
-    "name:fre_x_preferred":[
-        "Nan"
-    ],
-    "name:geo_x_preferred":[
-        "\u10dc\u10d0\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
         "Nan"
     ],
     "name:ita_x_preferred":[
@@ -89,9 +74,6 @@
     "name:tha_x_variant":[
         "\u0e19\u0e48\u0e32\u0e19"
     ],
-    "name:tib_x_preferred":[
-        "\u0f53\u0f71\u0f53\u0f0b\u0f42\u0fb2\u0f7c\u0f44\u0f0b\u0f41\u0fb1\u0f7a\u0f62\u0f0d"
-    ],
     "name:unk_x_variant":[
         "Amphoe Muang Nam"
     ],
@@ -103,6 +85,9 @@
     ],
     "name:war_x_preferred":[
         "Nan"
+    ],
+    "name:zho_x_preferred":[
+        "\u6960\u5e02"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Thailand",
@@ -247,7 +232,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636686,
+    "wof:lastmodified":1561758390,
     "wof:name":"Nan",
     "wof:parent_id":890466613,
     "wof:placetype":"locality",

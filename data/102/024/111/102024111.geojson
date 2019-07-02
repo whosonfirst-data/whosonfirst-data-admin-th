@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013043,
-    "geom:area_square_m":159237920.999786,
+    "geom:area_square_m":159237920.999846,
     "geom:bbox":"99.2029362882,9.01168267056,99.4079055864,9.20333758956",
     "geom:latitude":9.123196,
     "geom:longitude":99.31998,
@@ -31,17 +31,14 @@
     "name:bod_x_preferred":[
         "\u0f66\u0f74\u0f0b\u0f62\u0f0b\u0f4a\u0f72\u0f0b\u0f50\u0f0b\u0f53\u0f72\u0f0d"
     ],
-    "name:chi_x_preferred":[
-        "\u7d20\u53fb\u4ed6\u5c3c"
-    ],
     "name:dan_x_preferred":[
         "Surat Thani"
     ],
     "name:deu_x_preferred":[
         "Surat Thani"
     ],
-    "name:dut_x_preferred":[
-        "Surat Thani"
+    "name:ell_x_preferred":[
+        "\u03a3\u03bf\u03cd\u03c1\u03b1\u03c4 \u03a4\u03b1\u03bd\u03af"
     ],
     "name:eng_x_preferred":[
         "Surat Thani"
@@ -63,15 +60,6 @@
     ],
     "name:fra_x_preferred":[
         "Surat Thani"
-    ],
-    "name:fre_x_preferred":[
-        "Surat Thani"
-    ],
-    "name:ger_x_preferred":[
-        "Surat Thani"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03bf\u03cd\u03c1\u03b1\u03c4 \u03a4\u03b1\u03bd\u03af"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ac1\u0ab0\u0aa4 \u0aa5\u0abe\u0aa8\u0ac0"
@@ -112,7 +100,7 @@
     "name:mar_x_preferred":[
         "\u0938\u0941\u0930\u0924 \u0925\u093e\u0928\u0940"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Surat Thani"
     ],
     "name:nld_x_preferred":[
@@ -159,9 +147,6 @@
     ],
     "name:tha_x_variant":[
         "\u0e2a\u0e38\u0e23\u0e32\u0e29\u0e0e\u0e23\u0e4c\u0e18\u0e32\u0e19\u0e35"
-    ],
-    "name:tib_x_preferred":[
-        "\u0f66\u0f74\u0f0b\u0f62\u0f0b\u0f4a\u0f72\u0f0b\u0f50\u0f0b\u0f53\u0f72\u0f0d"
     ],
     "name:tur_x_preferred":[
         "Surat Thani"
@@ -338,7 +323,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636441,
+    "wof:lastmodified":1561758378,
     "wof:name":"Surat Thani",
     "wof:parent_id":890467241,
     "wof:placetype":"locality",

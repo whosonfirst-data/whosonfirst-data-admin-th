@@ -41,20 +41,23 @@
     "name:ben_x_preferred":[
         "\u099a\u09be\u0981\u09a8 \u09ac\u09c1\u09a1\u09bc\u09bf"
     ],
+    "name:bod_x_preferred":[
+        "\u0f45\u0f71\u0f7c\u0f53\u0f0b\u0f56\u0f74\u0f0b\u0f62\u0f72\u0f0b\u0f5e\u0f72\u0f44\u0f0b\u0f46\u0f7a\u0f53\u0f0d"
+    ],
     "name:bpy_x_preferred":[
         "\u099a\u09be\u0982\u09f1\u09be\u09a4 \u099a\u09cb\u09a8\u09ac\u09c1\u09b0\u09bf"
     ],
     "name:bul_x_preferred":[
         "\u0427\u043e\u043d\u0431\u0443\u0440\u0438"
     ],
-    "name:chi_x_preferred":[
-        "\u6625\u6b66\u91cc\u5e9c"
-    ],
     "name:dan_x_preferred":[
         "Chon Buri"
     ],
-    "name:dut_x_preferred":[
-        "Changwat Chonburi"
+    "name:deu_x_preferred":[
+        "Chonburi"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03c3\u03cc\u03bd\u03bc\u03c0\u03bf\u03c5\u03c1\u03b9"
     ],
     "name:eng_x_preferred":[
         "Chonburi"
@@ -64,23 +67,17 @@
         "Chonburi",
         "Chon Buri"
     ],
+    "name:fas_x_preferred":[
+        "\u0686\u0648\u0646\u0628\u0648\u0631\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Chon Buri"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Chon Buri"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e9\u10dd\u10dc\u10d1\u10e3\u10e0\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Chonburi"
     ],
     "name:glg_x_preferred":[
         "Provincia Chon Buri"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03c3\u03cc\u03bd\u03bc\u03c0\u03bf\u03c5\u03c1\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0a9a\u0ac9\u0aa8 \u0aac\u0ac1\u0ab0\u0ac0"
@@ -99,6 +96,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0c9a\u0cca\u0ca8\u0ccd \u0cac\u0cc1\u0cb0\u0cbf"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e9\u10dd\u10dc\u10d1\u10e3\u10e0\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
     ],
     "name:kor_x_preferred":[
         "\ucd0c\ubd80\ub9ac \uc8fc"
@@ -121,23 +121,23 @@
     "name:mar_x_preferred":[
         "\u091a\u094b\u0928 \u092c\u0941\u0930\u0940"
     ],
-    "name:may_x_preferred":[
-        "Chonburi"
-    ],
     "name:mlg_x_preferred":[
         "Faritanin'i Chonburi"
     ],
+    "name:msa_x_preferred":[
+        "Chonburi"
+    ],
     "name:nan_x_preferred":[
         "Chonburi H\u00fa"
+    ],
+    "name:nld_x_preferred":[
+        "Changwat Chonburi"
     ],
     "name:nno_x_preferred":[
         "Chonburi fylke"
     ],
     "name:nob_x_preferred":[
         "Chonburi"
-    ],
-    "name:per_x_preferred":[
-        "\u0686\u0648\u0646\u0628\u0648\u0631\u06cc"
     ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0686\u0648\u0646\u0628\u0648\u0631\u06cc"
@@ -148,7 +148,7 @@
     "name:por_x_preferred":[
         "Chon Buri"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Provincia Chonburi"
     ],
     "name:rus_x_preferred":[
@@ -178,9 +178,6 @@
     "name:tha_x_variant":[
         "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e0a\u0e25\u0e1a\u0e38\u0e23\u0e35"
     ],
-    "name:tib_x_preferred":[
-        "\u0f45\u0f71\u0f7c\u0f53\u0f0b\u0f56\u0f74\u0f0b\u0f62\u0f72\u0f0b\u0f5e\u0f72\u0f44\u0f0b\u0f46\u0f7a\u0f53\u0f0d"
-    ],
     "name:tur_x_preferred":[
         "Chonburi"
     ],
@@ -203,6 +200,9 @@
         "\u6625\u6b66\u91cc\u5e9c"
     ],
     "name:yue_x_preferred":[
+        "\u6625\u6b66\u91cc\u5e9c"
+    ],
+    "name:zho_x_preferred":[
         "\u6625\u6b66\u91cc\u5e9c"
     ],
     "ne:abbrev":"",
@@ -328,7 +328,7 @@
     "wof:lang_x_spoken":[
         "tha"
     ],
-    "wof:lastmodified":1554156330,
+    "wof:lastmodified":1561758457,
     "wof:name":"Chonburi",
     "wof:parent_id":85632293,
     "wof:placetype":"region",

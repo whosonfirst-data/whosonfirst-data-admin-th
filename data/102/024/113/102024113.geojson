@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009512,
-    "geom:area_square_m":112441730.275042,
+    "geom:area_square_m":112441730.275027,
     "geom:bbox":"99.7299849819,16.9794633762,99.9135703405,17.2180555997",
     "geom:latitude":17.067455,
     "geom:longitude":99.833137,
@@ -24,7 +24,7 @@
     "name:ces_x_preferred":[
         "Sukhothaj"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_variant":[
         "Sukhotaj Thani"
     ],
     "name:dan_x_preferred":[
@@ -33,7 +33,7 @@
     "name:deu_x_preferred":[
         "Sukhothai"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_variant":[
         "Sukhothai Thani"
     ],
     "name:eng_x_preferred":[
@@ -45,11 +45,8 @@
     "name:fra_x_preferred":[
         "Sukhotha\u00ef"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Sukhotha\u00ef Thani"
-    ],
-    "name:ger_x_preferred":[
-        "Sukhothai Thani"
     ],
     "name:glg_x_preferred":[
         "Sukhothai"
@@ -72,6 +69,9 @@
     "name:nld_x_preferred":[
         "Sukhothai"
     ],
+    "name:nld_x_variant":[
+        "Sukhothai Thani"
+    ],
     "name:nob_x_preferred":[
         "Sukhothai Thani"
     ],
@@ -87,7 +87,7 @@
     "name:ron_x_preferred":[
         "Sukhothai"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_variant":[
         "Sukhothai Thani"
     ],
     "name:rus_x_preferred":[
@@ -256,7 +256,7 @@
         }
     ],
     "wof:id":102024113,
-    "wof:lastmodified":1527636451,
+    "wof:lastmodified":1561758384,
     "wof:name":"Sukhothai",
     "wof:parent_id":890466803,
     "wof:placetype":"locality",

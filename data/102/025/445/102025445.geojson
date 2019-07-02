@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029584,
-    "geom:area_square_m":355927614.65919,
+    "geom:area_square_m":355927614.659079,
     "geom:bbox":"100.883713797,13.1719828839,101.286694032,13.5108506049",
     "geom:latitude":13.349229,
     "geom:longitude":101.011685,
@@ -20,17 +20,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
+    "name:bod_x_preferred":[
+        "\u0f45\u0f71\u0f7c\u0f53\u0f0b\u0f56\u0f74\u0f0b\u0f62\u0f72\u0f0d"
+    ],
     "name:cat_x_preferred":[
         "Chonburi"
-    ],
-    "name:chi_x_preferred":[
-        "\u6625\u6b66\u91cc\u5e02"
     ],
     "name:dan_x_preferred":[
         "Chonburi"
     ],
-    "name:dut_x_preferred":[
-        "Chonburi"
+    "name:deu_x_preferred":[
+        "Chon Buri"
     ],
     "name:eng_x_colloquial":[
         "Jilburi"
@@ -50,11 +50,11 @@
         "J\u012blburi",
         "QHI"
     ],
-    "name:fre_x_preferred":[
-        "Chonburi"
+    "name:fas_x_preferred":[
+        "\u0686\u0648\u0646\u0628\u0648\u0631\u06cc"
     ],
-    "name:ger_x_preferred":[
-        "Chon Buri"
+    "name:fra_x_preferred":[
+        "Chonburi"
     ],
     "name:hun_x_preferred":[
         "Csonburi"
@@ -71,14 +71,14 @@
     "name:lit_x_preferred":[
         "\u010conburis"
     ],
+    "name:nld_x_preferred":[
+        "Chonburi"
+    ],
     "name:nob_x_preferred":[
         "Chonburi"
     ],
     "name:oci_x_preferred":[
         "Chonburi"
-    ],
-    "name:per_x_preferred":[
-        "\u0686\u0648\u0646\u0628\u0648\u0631\u06cc"
     ],
     "name:pol_x_preferred":[
         "Chon Buri"
@@ -92,9 +92,6 @@
     "name:tha_x_preferred":[
         "\u0e0a\u0e25\u0e1a\u0e38\u0e23\u0e35"
     ],
-    "name:tib_x_preferred":[
-        "\u0f45\u0f71\u0f7c\u0f53\u0f0b\u0f56\u0f74\u0f0b\u0f62\u0f72\u0f0d"
-    ],
     "name:ukr_x_preferred":[
         "\u0427\u043e\u043d\u0431\u0443\u0440\u0456"
     ],
@@ -106,6 +103,9 @@
     ],
     "name:war_x_preferred":[
         "Chonburi"
+    ],
+    "name:zho_x_preferred":[
+        "\u6625\u6b66\u91cc\u5e02"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Thailand",
@@ -249,7 +249,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1514506098,
+    "wof:lastmodified":1561758392,
     "wof:name":"Chon Buri",
     "wof:parent_id":1108802665,
     "wof:placetype":"locality",

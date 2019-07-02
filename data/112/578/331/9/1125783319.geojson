@@ -22,25 +22,19 @@
     "name:ace_x_preferred":[
         "Propinsi Nakhon Phanom"
     ],
-    "name:chi_x_preferred":[
-        "\u90a3\u7a7a\u62cd\u5102"
+    "name:bod_x_preferred":[
+        "\u0f53\u0f0b\u0f41\u0f71\u0f7c\u0f53\u0f0b\u0f55\u0f0b\u0f53\u0f7c\u0f58\u0f0d"
     ],
     "name:deu_x_preferred":[
-        "Nakhon Phanom"
-    ],
-    "name:dut_x_preferred":[
         "Nakhon Phanom"
     ],
     "name:eng_x_preferred":[
         "Nakhon Phanom"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u062e\u0648\u0646 \u067e\u0627\u0646\u0648\u0645"
+    ],
     "name:fra_x_preferred":[
-        "Nakhon Phanom"
-    ],
-    "name:fre_x_preferred":[
-        "Nakhon Phanom"
-    ],
-    "name:ger_x_preferred":[
         "Nakhon Phanom"
     ],
     "name:heb_x_preferred":[
@@ -61,9 +55,6 @@
     "name:nor_x_preferred":[
         "Nakhon Phanom"
     ],
-    "name:per_x_preferred":[
-        "\u0646\u0627\u062e\u0648\u0646 \u067e\u0627\u0646\u0648\u0645"
-    ],
     "name:pnb_x_preferred":[
         "\u0646\u06a9\u06be\u0648\u0646 \u067e\u06be\u0627\u0646\u0648\u0645"
     ],
@@ -79,9 +70,6 @@
     "name:tha_x_preferred":[
         "\u0e19\u0e04\u0e23\u0e1e\u0e19\u0e21"
     ],
-    "name:tib_x_preferred":[
-        "\u0f53\u0f0b\u0f41\u0f71\u0f7c\u0f53\u0f0b\u0f55\u0f0b\u0f53\u0f7c\u0f58\u0f0d"
-    ],
     "name:unk_x_variant":[
         "Ban Nakhon Phnom"
     ],
@@ -90,6 +78,9 @@
     ],
     "name:war_x_preferred":[
         "Nakhon Phanom"
+    ],
+    "name:zho_x_preferred":[
+        "\u90a3\u7a7a\u62cd\u5102"
     ],
     "qs_pg:aaroncc":"TH",
     "qs_pg:gn_country":"TH",
@@ -142,7 +133,7 @@
         }
     ],
     "wof:id":1125783319,
-    "wof:lastmodified":1514506233,
+    "wof:lastmodified":1561758899,
     "wof:name":"Nakhon Phanom",
     "wof:parent_id":1108802675,
     "wof:placetype":"locality",
