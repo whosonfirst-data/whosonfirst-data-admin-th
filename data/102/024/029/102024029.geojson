@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000754,
+    "geom:area_square_m":9234442.018105,
     "geom:bbox":"99.2798646291,8.05290365836,99.3199891031,8.08459138153",
     "geom:latitude":8.068237,
     "geom:longitude":99.300201,
@@ -18,6 +19,9 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09b2\u09be\u09ae \u09a5\u09be\u09b0"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Lam Thap"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Lam Thap"
     ],
@@ -27,8 +31,14 @@
     "name:eng_x_variant":[
         "Lam Thap"
     ],
+    "name:fra_x_preferred":[
+        "Lam Thap"
+    ],
     "name:jpn_x_preferred":[
         "\u30e9\u30e0\u30bf\u30c3\u30d7\u90e1"
+    ],
+    "name:nan_x_preferred":[
+        "Lam Thap K\u016bn"
     ],
     "name:por_x_preferred":[
         "Lam Thap"
@@ -101,7 +111,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636446,
+    "wof:lastmodified":1563290279,
     "wof:name":"Lam Thap",
     "wof:parent_id":85678565,
     "wof:placetype":"locality",

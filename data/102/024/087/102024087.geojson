@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003451,
-    "geom:area_square_m":41814918.462634,
+    "geom:area_square_m":41814918.462682,
     "geom:bbox":"99.5764029476,11.4548310765,99.6716479696,11.6128555411",
     "geom:latitude":11.532418,
     "geom:longitude":99.622216,
@@ -19,6 +19,9 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09a5\u09be\u09b0 \u09b8\u09be\u0995\u09be\u09af\u09bc\u09c7"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Thap Sakae"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Thap Sakae"
     ],
@@ -28,6 +31,12 @@
     "name:eng_x_variant":[
         "Ban Thap Sakae",
         "Dhab Sake"
+    ],
+    "name:fra_x_preferred":[
+        "Thap Sakae"
+    ],
+    "name:nan_x_preferred":[
+        "Thap Sakae K\u016bn"
     ],
     "name:ron_x_preferred":[
         "Districtul Thap Sakae"
@@ -46,6 +55,9 @@
     ],
     "name:zho_min_nan_x_preferred":[
         "Thap Sakae K\u016bn"
+    ],
+    "name:zho_x_preferred":[
+        "\u584c\u6c99\u5bb6\u7e23"
     ],
     "qs:a0":"Thailand",
     "qs:a1":"*Prachuap Khiri Khan",
@@ -93,7 +105,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636445,
+    "wof:lastmodified":1563290273,
     "wof:name":"Thap Sakae",
     "wof:parent_id":890467409,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008592,
-    "geom:area_square_m":102909047.733291,
+    "geom:area_square_m":102909047.733317,
     "geom:bbox":"101.729626887,14.345839178,101.901963163,14.4596696115",
     "geom:latitude":14.398038,
     "geom:longitude":101.8286,
@@ -21,8 +21,23 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09f1\u09be\u0982 \u09a8\u09be\u09ae \u0996\u09bf\u09af\u09bc\u09be\u0993"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Wang Nam Khiao"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Wang Nam Khiao"
+    ],
+    "name:eng_x_preferred":[
+        "Wang Nam Khiao"
+    ],
+    "name:fra_x_preferred":[
+        "Wang Nam Khiao"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ef\u30f3\u30ca\u30e0\u30ad\u30a2\u30aa\u90e1"
+    ],
+    "name:nan_x_preferred":[
+        "Wang Nam Khiao K\u016bn"
     ],
     "name:ron_x_preferred":[
         "Districtul Wang Nam Khiao"
@@ -35,6 +50,9 @@
     ],
     "name:unk_x_variant":[
         "King Amphoe Wang Nam Khiao"
+    ],
+    "name:urd_x_preferred":[
+        "\u0648\u0627\u0646\u06af \u0646\u0627\u0645 \u06a9\u06be\u06cc\u0627\u0648 \u0636\u0644\u0639"
     ],
     "name:vie_x_preferred":[
         "Wang Nam Khiao"
@@ -85,7 +103,7 @@
         }
     ],
     "wof:id":102026011,
-    "wof:lastmodified":1527637812,
+    "wof:lastmodified":1563290474,
     "wof:name":"Wang Nam Khiao",
     "wof:parent_id":1108802771,
     "wof:placetype":"locality",

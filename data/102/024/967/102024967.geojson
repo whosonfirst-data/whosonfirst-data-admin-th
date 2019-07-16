@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001854,
-    "geom:area_square_m":21905583.395036,
+    "geom:area_square_m":21905583.395041,
     "geom:bbox":"100.092526867,17.0950048088,100.188233509,17.1970643856",
     "geom:latitude":17.162216,
     "geom:longitude":100.136775,
@@ -19,6 +19,9 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ab\u09b0\u09cb\u09ae \u09ab\u09bf\u09b0\u09be\u09ae"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Phrom Phiram"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Phrom Phiram"
     ],
@@ -27,6 +30,15 @@
     ],
     "name:eng_x_variant":[
         "Ban Grap Phuang"
+    ],
+    "name:fra_x_preferred":[
+        "Phrom Phiram"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d7\u30ed\u30e0\u30d4\u30e9\u30fc\u30f3\u90e1"
+    ],
+    "name:nan_x_preferred":[
+        "Phrom Phiram K\u016bn"
     ],
     "name:ron_x_preferred":[
         "Districtul Phrom Phiram"
@@ -92,7 +104,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636443,
+    "wof:lastmodified":1563290260,
     "wof:name":"Phrom Phiram",
     "wof:parent_id":1108802729,
     "wof:placetype":"locality",

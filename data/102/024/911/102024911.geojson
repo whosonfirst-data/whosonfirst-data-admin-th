@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002002,
+    "geom:area_square_m":23873345.379825,
     "geom:bbox":"103.827966485,15.2989895074,104.055335426,15.3515036763",
     "geom:latitude":15.321362,
     "geom:longitude":103.887784,
@@ -17,6 +18,9 @@
     "mz:is_current":-1,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09b0\u09be\u09a4\u09cd\u09a4\u09be\u09a8\u09be\u09ac\u09c1\u09b0\u09bf"
+    ],
+    "name:ceb_x_preferred":[
+        "Amphoe Rattanaburi"
     ],
     "name:deu_x_preferred":[
         "Amphoe Rattanaburi"
@@ -34,6 +38,12 @@
         "M\u00f6ng Ratana Buri",
         "Ratanaburi",
         "Rattana Buri"
+    ],
+    "name:fra_x_preferred":[
+        "Rattanaburi"
+    ],
+    "name:nan_x_preferred":[
+        "Rattanaburi K\u016bn"
     ],
     "name:ron_x_preferred":[
         "Districtul Rattanaburi"
@@ -96,7 +106,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636449,
+    "wof:lastmodified":1563290307,
     "wof:name":"Rattanaburi",
     "wof:parent_id":85678849,
     "wof:placetype":"locality",

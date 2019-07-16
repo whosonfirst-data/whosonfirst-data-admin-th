@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003161,
-    "geom:area_square_m":37788568.504856,
+    "geom:area_square_m":37788568.504876,
     "geom:bbox":"100.905629026,14.7499110292,101.001110583,14.8954318969",
     "geom:latitude":14.826205,
     "geom:longitude":100.953351,
@@ -19,8 +19,20 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ab\u09af\u09bc\u09be\u09a4\u09a5\u09be\u09a8\u09be \u09a8\u09bf\u0996\u09cb\u09ae"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Phatthana Nikhom"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Phatthana Nikhom"
+    ],
+    "name:eng_x_preferred":[
+        "Phatthana Nikhom"
+    ],
+    "name:fra_x_preferred":[
+        "Phatthana Nikhom"
+    ],
+    "name:nan_x_preferred":[
+        "Phatthana Nikhom K\u016bn"
     ],
     "name:ron_x_preferred":[
         "Districtul Phatthana Nikhom"
@@ -33,6 +45,9 @@
     ],
     "name:unk_x_variant":[
         "\u0e1e\u0e31\u0e12\u0e19\u0e32\u0e19\u0e34\u0e04\u0e21"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u06be\u0627\u062a\u06be\u0627\u0646\u0627 \u0646\u06cc\u06a9\u06c1\u0648\u0645 \u0636\u0644\u0639"
     ],
     "name:vie_x_preferred":[
         "Phatthana Nikhom"
@@ -82,7 +97,7 @@
         }
     ],
     "wof:id":102024517,
-    "wof:lastmodified":1527636440,
+    "wof:lastmodified":1563290231,
     "wof:name":"Phatthana Nikhom",
     "wof:parent_id":890466161,
     "wof:placetype":"locality",

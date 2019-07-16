@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00154,
+    "geom:area_square_m":18409969.077303,
     "geom:bbox":"104.57230872,14.8348802317,104.637590678,14.8848192204",
     "geom:latitude":14.861452,
     "geom:longitude":104.601008,
@@ -20,11 +21,20 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09a8\u09be\u09ae \u0995\u09b2\u09bf\u09af\u09bc\u09be\u0982"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Nam Kliang"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Nam Kliang"
     ],
     "name:eng_x_preferred":[
         "Nam Kliang"
+    ],
+    "name:fra_x_preferred":[
+        "Nam Kliang"
+    ],
+    "name:nan_x_preferred":[
+        "Nam Kliang K\u016bn"
     ],
     "name:ron_x_preferred":[
         "Districtul Nam Kliang"
@@ -88,7 +98,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636684,
+    "wof:lastmodified":1563290381,
     "wof:name":"Nam Kliang",
     "wof:parent_id":85678779,
     "wof:placetype":"locality",

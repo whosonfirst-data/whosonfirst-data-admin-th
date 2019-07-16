@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002422,
-    "geom:area_square_m":29041395.144962,
+    "geom:area_square_m":29041395.145016,
     "geom:bbox":"100.740861922,14.0689357055,100.836287367,14.150939601",
     "geom:latitude":14.110796,
     "geom:longitude":100.805124,
@@ -24,6 +24,9 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09a8\u09cb\u0982 \u09b8\u09c1\u09af\u09bc\u09af\u09bc\u09be"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Nong Suea"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Nong Suea"
     ],
@@ -34,6 +37,12 @@
         "Ban Bung Ba",
         "Ban Bung Pa",
         "Nong Suea"
+    ],
+    "name:fra_x_preferred":[
+        "Nong Suea"
+    ],
+    "name:nan_x_preferred":[
+        "Nong Suea K\u016bn"
     ],
     "name:ron_x_preferred":[
         "Districtul Nong Suea"
@@ -99,7 +108,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636681,
+    "wof:lastmodified":1563290335,
     "wof:name":"Nong Suea",
     "wof:parent_id":1108731647,
     "wof:placetype":"locality",

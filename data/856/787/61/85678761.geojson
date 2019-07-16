@@ -47,6 +47,9 @@
     "name:bul_x_preferred":[
         "\u0420\u0430\u0442\u0447\u0430\u0431\u0443\u0440\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Changwat Ratchaburi"
+    ],
     "name:dan_x_preferred":[
         "Ratchaburi"
     ],
@@ -98,6 +101,9 @@
     "name:kor_x_preferred":[
         "\ub78f\ucc28\ubd80\ub9ac \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\ub78f\ucc28\ubd80\ub9ac\uc8fc"
+    ],
     "name:lao_x_preferred":[
         "\u0e88\u0eb1\u0e87\u0eab\u0ea7\u0eb1\u0e94\u0ea5\u0eb2\u0e8a\u0eb0\u0e9a\u0eb8\u0ea5\u0eb5"
     ],
@@ -124,6 +130,9 @@
     ],
     "name:nld_x_preferred":[
         "Changwat Ratchaburi"
+    ],
+    "name:nno_x_preferred":[
+        "Ratchaburi-fylket"
     ],
     "name:nob_x_preferred":[
         "Ratchaburi"
@@ -188,8 +197,14 @@
     "name:war_x_preferred":[
         "Ratchaburi"
     ],
+    "name:yue_x_preferred":[
+        "\u53fb\u4e15\u5e9c"
+    ],
     "name:zho_x_preferred":[
         "\u53fb\u4e15\u5e9c"
+    ],
+    "name:zho_x_variant":[
+        "\u53fb\u6b66\u91cc\u5e9c"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"THA",
@@ -314,7 +329,7 @@
     "wof:lang_x_spoken":[
         "tha"
     ],
-    "wof:lastmodified":1561758457,
+    "wof:lastmodified":1563291841,
     "wof:name":"Ratchaburi",
     "wof:parent_id":85632293,
     "wof:placetype":"region",

@@ -38,6 +38,9 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09a6\u09be\u09a8 \u099a\u09be\u0982"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Dan Chang"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Dan Chang"
     ],
@@ -59,11 +62,17 @@
     "name:tha_x_preferred":[
         "\u0e14\u0e48\u0e32\u0e19\u0e0a\u0e49\u0e32\u0e07"
     ],
+    "name:tha_x_variant":[
+        "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e14\u0e48\u0e32\u0e19\u0e0a\u0e49\u0e32\u0e07"
+    ],
     "name:vie_x_preferred":[
         "Dan Chang"
     ],
     "name:zho_x_preferred":[
         "\u96e3\u5009\u7e23"
+    ],
+    "name:zho_x_variant":[
+        "\u96be\u4ed3\u53bf"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -101,7 +110,7 @@
         }
     ],
     "wof:id":1108731265,
-    "wof:lastmodified":1561758751,
+    "wof:lastmodified":1563296513,
     "wof:name":"Dan Chang",
     "wof:parent_id":85678679,
     "wof:placetype":"county",

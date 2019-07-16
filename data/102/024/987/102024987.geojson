@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000527,
-    "geom:area_square_m":6269921.395349,
+    "geom:area_square_m":6269921.395339,
     "geom:bbox":"105.289122911,15.7462089713,105.417660202,15.8488607407",
     "geom:latitude":15.797544,
     "geom:longitude":105.353382,
@@ -19,6 +19,9 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ab\u09cb \u09b8\u09be\u0987"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Pho Sai"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Pho Sai"
     ],
@@ -29,6 +32,15 @@
         "Ban Pho Chai",
         "Ban Pho Sai",
         "Po Sai"
+    ],
+    "name:fra_x_preferred":[
+        "Pho Sai"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30dd\u30fc\u30b5\u30a4\u90e1"
+    ],
+    "name:nan_x_preferred":[
+        "Pho Sai K\u016bn"
     ],
     "name:ron_x_preferred":[
         "Districtul Pho Sai"
@@ -94,7 +106,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636450,
+    "wof:lastmodified":1563290313,
     "wof:name":"Pho Sai",
     "wof:parent_id":1108802721,
     "wof:placetype":"locality",

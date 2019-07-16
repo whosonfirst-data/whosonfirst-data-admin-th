@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001869,
-    "geom:area_square_m":22450650.36607,
+    "geom:area_square_m":22450650.366051,
     "geom:bbox":"102.169102234,13.6316165131,102.352379299,13.852444623",
     "geom:latitude":13.74173,
     "geom:longitude":102.297025,
@@ -18,6 +18,9 @@
     "mz:is_current":-1,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09f1\u09be\u09a4\u09a5\u09be\u09a8\u09be \u09a8\u09be\u0996\u09cb\u09a8"
+    ],
+    "name:ceb_x_preferred":[
+        "Amphoe Watthana Nakhon"
     ],
     "name:deu_x_preferred":[
         "Amphoe Watthana Nakhon"
@@ -33,6 +36,15 @@
         "Watana Nakhaun",
         "Wattana Nakhon",
         "Whatthana Na Khom"
+    ],
+    "name:fra_x_preferred":[
+        "Watthana Nakhon"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ef\u30c3\u30bf\u30ca\u30fc\u30ca\u30b3\u30fc\u30f3\u90e1"
+    ],
+    "name:nan_x_preferred":[
+        "Watthana Nakhon K\u016bn"
     ],
     "name:ron_x_preferred":[
         "Districtul Watthana Nakhon"
@@ -96,7 +108,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636432,
+    "wof:lastmodified":1563290206,
     "wof:name":"Watthana Nakhon",
     "wof:parent_id":85678805,
     "wof:placetype":"locality",

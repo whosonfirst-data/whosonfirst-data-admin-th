@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000767,
-    "geom:area_square_m":9409739.455054,
+    "geom:area_square_m":9409739.455053,
     "geom:bbox":"99.9390596194,7.3697657023,100.001128476,7.54036293195",
     "geom:latitude":7.436919,
     "geom:longitude":99.977418,
@@ -19,11 +19,20 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u0995\u09cb\u0982 \u09b0\u09be"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Kong Ra"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Kong Ra"
     ],
     "name:eng_x_preferred":[
         "Kong Ra"
+    ],
+    "name:fra_x_preferred":[
+        "Kong Ra"
+    ],
+    "name:nan_x_preferred":[
+        "Kong Ra K\u016bn"
     ],
     "name:por_x_preferred":[
         "Kong Ra"
@@ -92,7 +101,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636434,
+    "wof:lastmodified":1563290215,
     "wof:name":"Kong Ra",
     "wof:parent_id":890467449,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00221,
-    "geom:area_square_m":27048452.14088,
+    "geom:area_square_m":27048452.140843,
     "geom:bbox":"99.8072069871,8.13176047018,99.8802931078,8.19606821698",
     "geom:latitude":8.164292,
     "geom:longitude":99.843297,
@@ -20,6 +20,9 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09b0\u09cb\u09a8 \u09ab\u09bf\u09ac\u09c1\u09a8"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Ron Phibun"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Ron Phibun"
     ],
@@ -31,6 +34,12 @@
         "Ban Ron Phibun",
         "Raun Phibun",
         "Ronipibon"
+    ],
+    "name:fra_x_preferred":[
+        "Ron Phibun"
+    ],
+    "name:nan_x_preferred":[
+        "Ron Phibun K\u016bn"
     ],
     "name:por_x_preferred":[
         "Ron Phibun"
@@ -46,6 +55,9 @@
     ],
     "name:unk_x_variant":[
         "Ban Ron Phibun"
+    ],
+    "name:urd_x_preferred":[
+        "\u0631\u0648\u0646 \u067e\u06be\u06cc\u0628\u0648\u0646 \u0636\u0644\u0639"
     ],
     "name:vie_x_preferred":[
         "Ron Phibun"
@@ -98,7 +110,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636422,
+    "wof:lastmodified":1563290181,
     "wof:name":"Ron Phibun",
     "wof:parent_id":85678565,
     "wof:placetype":"locality",

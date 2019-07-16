@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002712,
+    "geom:area_square_m":33161726.15799,
     "geom:bbox":"98.6096892523,8.46876023984,98.6718067358,8.57377093751",
     "geom:latitude":8.51561,
     "geom:longitude":98.640563,
@@ -17,6 +18,9 @@
     "mz:is_current":-1,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09a5\u09be\u09b0 \u09b0\u09c1\u09a4"
+    ],
+    "name:ceb_x_preferred":[
+        "Amphoe Thap Put"
     ],
     "name:deu_x_preferred":[
         "Amphoe Thap Put"
@@ -31,8 +35,17 @@
         "Dhab Pud",
         "Ma-rui"
     ],
+    "name:fra_x_preferred":[
+        "Thap Put"
+    ],
     "name:jpn_x_preferred":[
         "\u30bf\u30c3\u30d7\u30d7\u30c3\u30c8\u90e1"
+    ],
+    "name:nan_x_preferred":[
+        "Thap Put K\u016bn"
+    ],
+    "name:nob_x_preferred":[
+        "Thap Put"
     ],
     "name:nor_x_preferred":[
         "Thap Put"
@@ -105,7 +118,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636445,
+    "wof:lastmodified":1563290270,
     "wof:name":"Thap Put",
     "wof:parent_id":85678573,
     "wof:placetype":"locality",

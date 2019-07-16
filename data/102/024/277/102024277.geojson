@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002398,
+    "geom:area_square_m":29442333.567594,
     "geom:bbox":"99.774273557,6.85739415589,99.8802659932,6.94092499574",
     "geom:latitude":6.891103,
     "geom:longitude":99.821056,
@@ -17,6 +18,9 @@
     "mz:is_current":-1,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09b2\u09be-\u0999\u09c1"
+    ],
+    "name:ceb_x_preferred":[
+        "Amphoe La-Ngu"
     ],
     "name:deu_x_preferred":[
         "Amphoe La-ngu"
@@ -31,16 +35,29 @@
     "name:eng_x_variant":[
         "Ban P\u00e5k Langu",
         "La Ngu",
-        "Pak Langu"
+        "Pak Langu",
+        "La-ngu"
+    ],
+    "name:fra_x_preferred":[
+        "La-ngu"
     ],
     "name:jpn_x_preferred":[
         "\u30e9\u30b0\u30fc\u90e1"
+    ],
+    "name:nan_x_preferred":[
+        "La-ngu K\u016bn"
     ],
     "name:por_x_preferred":[
         "La-ngu"
     ],
     "name:ron_x_preferred":[
         "Districtul La-ngu"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430\u043d\u0433\u0443"
+    ],
+    "name:spa_x_preferred":[
+        "La-ngu"
     ],
     "name:tha_x_preferred":[
         "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e25\u0e30\u0e07\u0e39"
@@ -104,7 +121,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636445,
+    "wof:lastmodified":1563290273,
     "wof:name":"La-ngu",
     "wof:parent_id":85678595,
     "wof:placetype":"locality",

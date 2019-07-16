@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000789,
-    "geom:area_square_m":9405311.633003,
+    "geom:area_square_m":9405311.633005,
     "geom:bbox":"105.256179744,15.3546123535,105.439615195,15.52095288",
     "geom:latitude":15.455456,
     "geom:longitude":105.327736,
@@ -16,17 +16,44 @@
     "mps:longitude":105.287476,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bpy_x_preferred":[
+        "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09b8\u09bf \u09ae\u09c1\u09af\u09bc\u09c7\u0982 \u09ae\u09be\u0987"
+    ],
+    "name:ceb_x_preferred":[
+        "Amphoe Si Mueang Mai"
+    ],
+    "name:deu_x_preferred":[
+        "Amphoe Si Mueang Mai"
+    ],
     "name:eng_x_preferred":[
         "Si Muang Mai"
     ],
     "name:eng_x_variant":[
         "Si Mueang Mai"
     ],
+    "name:fra_x_preferred":[
+        "Si Mueang Mai"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b7\u30fc\u30e0\u30a2\u30f3\u30de\u30a4\u90e1"
+    ],
+    "name:nan_x_preferred":[
+        "Si Mueang Mai K\u016bn"
+    ],
+    "name:ron_x_preferred":[
+        "Districtul Si Mueang Mai"
+    ],
     "name:tha_x_preferred":[
         "\u0e28\u0e23\u0e35\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e43\u0e2b\u0e21\u0e48"
     ],
+    "name:tha_x_variant":[
+        "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e28\u0e23\u0e35\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e43\u0e2b\u0e21\u0e48"
+    ],
     "name:unk_x_variant":[
         "\u0e28\u0e23\u0e35\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e43\u0e2b\u0e21\u0e48"
+    ],
+    "name:vie_x_preferred":[
+        "Amphoe Si Mueang Mai"
     ],
     "qs:a0":"Thailand",
     "qs:a1":"*Ubon Ratchathani",
@@ -77,7 +104,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636420,
+    "wof:lastmodified":1563290175,
     "wof:name":"Si Mueang Mai",
     "wof:parent_id":1108731889,
     "wof:placetype":"locality",

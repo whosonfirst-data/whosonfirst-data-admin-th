@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001056,
-    "geom:area_square_m":12538840.203762,
+    "geom:area_square_m":12538840.203758,
     "geom:bbox":"99.4993139985,16.0948356546,99.5509769258,16.1551319724",
     "geom:latitude":16.119709,
     "geom:longitude":99.519653,
@@ -21,11 +21,20 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09aa\u09be\u0982 \u09b8\u09bf\u09b2\u09be \u09a5\u09cb\u0982"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Pang Sila Thong"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Pang Sila Thong"
     ],
     "name:eng_x_preferred":[
         "Pang Sila Thong"
+    ],
+    "name:fra_x_preferred":[
+        "Pang Sila Thong"
+    ],
+    "name:nan_x_preferred":[
+        "Pang Sila Thong K\u016bn"
     ],
     "name:ron_x_preferred":[
         "Districtul Pang Sila Thong"
@@ -38,6 +47,9 @@
     ],
     "name:unk_x_variant":[
         "King Amphoe Pang Sila Thong"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u0627\u0646\u06af \u0633\u06cc\u0644\u0627 \u062a\u06be\u0648\u0646\u06af \u0636\u0644\u0639"
     ],
     "name:vie_x_preferred":[
         "Pang Sila Thong"
@@ -90,7 +102,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636685,
+    "wof:lastmodified":1563290392,
     "wof:name":"Pang Sila Thong",
     "wof:parent_id":85678665,
     "wof:placetype":"locality",

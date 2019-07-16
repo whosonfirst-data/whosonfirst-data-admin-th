@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004457,
-    "geom:area_square_m":52774891.192912,
+    "geom:area_square_m":52774891.192858,
     "geom:bbox":"101.147239666,16.7166126636,101.27585579,16.8083150904",
     "geom:latitude":16.764506,
     "geom:longitude":101.215379,
@@ -22,6 +22,9 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09b2\u09cb\u09ae \u09b8\u09be\u0995"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Lom Sak"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Lom Sak"
     ],
@@ -31,6 +34,15 @@
     "name:eng_x_variant":[
         "Ban Lom Sak",
         "Hlomsak"
+    ],
+    "name:fra_x_preferred":[
+        "Lom Sak"
+    ],
+    "name:nan_x_preferred":[
+        "Lom Sak K\u016bn"
+    ],
+    "name:nob_x_preferred":[
+        "Lom Sak"
     ],
     "name:nor_x_preferred":[
         "Lom Sak"
@@ -52,6 +64,9 @@
     ],
     "name:zho_min_nan_x_preferred":[
         "Lom Sak K\u016bn"
+    ],
+    "name:zho_x_preferred":[
+        "\u9686\u585e\u7e23"
     ],
     "qs:a0":"Thailand",
     "qs:a1":"*Phetchabun",
@@ -100,7 +115,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636687,
+    "wof:lastmodified":1563290423,
     "wof:name":"Lom Sak",
     "wof:parent_id":890466361,
     "wof:placetype":"locality",

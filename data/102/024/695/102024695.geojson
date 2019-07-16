@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000804,
-    "geom:area_square_m":9392544.722332,
+    "geom:area_square_m":9392544.722327,
     "geom:bbox":"100.740611368,19.0686601969,100.891458442,19.2527692983",
     "geom:latitude":19.157293,
     "geom:longitude":100.812354,
@@ -19,6 +19,9 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09a5\u09be \u09f1\u09be\u0982 \u09ab\u09be"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Tha Wang Pha"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Tha Wang Pha"
     ],
@@ -28,6 +31,15 @@
     "name:eng_x_variant":[
         "Ban Tha Wang Pha",
         "Ban Wang Pha"
+    ],
+    "name:fra_x_preferred":[
+        "Tha Wang Pha"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bf\u30fc\u30ef\u30f3\u30d1\u30fc\u90e1"
+    ],
+    "name:nan_x_preferred":[
+        "Tha Wang Pha K\u016bn"
     ],
     "name:ron_x_preferred":[
         "Districtul Tha Wang Pha"
@@ -40,6 +52,9 @@
     ],
     "name:unk_x_variant":[
         "Ban Tha Wang Pha"
+    ],
+    "name:urd_x_preferred":[
+        "\u062a\u06be\u0627 \u0648\u0627\u0646\u06af \u067e\u06be\u0627 \u0636\u0644\u0639"
     ],
     "name:vie_x_preferred":[
         "Tha Wang Pha"
@@ -91,7 +106,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636439,
+    "wof:lastmodified":1563290227,
     "wof:name":"Tha Wang Pha",
     "wof:parent_id":85678633,
     "wof:placetype":"locality",

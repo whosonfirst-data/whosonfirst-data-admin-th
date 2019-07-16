@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000511,
+    "geom:area_square_m":6273956.765563,
     "geom:bbox":"99.6644038812,7.23900154003,99.836328637,7.27888823896",
     "geom:latitude":7.258945,
     "geom:longitude":99.750365,
@@ -18,6 +19,9 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09aa\u09be\u09b2\u09bf\u09af\u09bc\u09be\u09a8"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Palian"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Palian"
     ],
@@ -28,8 +32,14 @@
         "Ban Tha Kham",
         "Tha Kham"
     ],
+    "name:fra_x_preferred":[
+        "Palian"
+    ],
     "name:jpn_x_preferred":[
         "\u30d1\u30ea\u30a8\u30f3\u90e1"
+    ],
+    "name:nan_x_preferred":[
+        "Palian K\u016bn"
     ],
     "name:por_x_preferred":[
         "Palian"
@@ -96,7 +106,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636434,
+    "wof:lastmodified":1563290213,
     "wof:name":"Ban Palian",
     "wof:parent_id":85678609,
     "wof:placetype":"locality",

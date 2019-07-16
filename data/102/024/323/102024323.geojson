@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000513,
+    "geom:area_square_m":6274381.593832,
     "geom:bbox":"99.1809737699,8.65344229548,99.2321129272,8.70411426509",
     "geom:latitude":8.678779,
     "geom:longitude":99.206544,
@@ -18,6 +19,9 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u0996\u09bf\u09af\u09bc\u09be\u09a8 \u09b8\u09be"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Khian Sa"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Khian Sa"
     ],
@@ -27,8 +31,14 @@
     "name:eng_x_variant":[
         "Ban Khian Sa"
     ],
+    "name:fra_x_preferred":[
+        "Khian Sa"
+    ],
     "name:jpn_x_preferred":[
         "\u30ad\u30a8\u30f3\u30b5\u30fc\u90e1"
+    ],
+    "name:nan_x_preferred":[
+        "Khian Sa K\u016bn"
     ],
     "name:por_x_preferred":[
         "Khian Sa"
@@ -94,7 +104,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636441,
+    "wof:lastmodified":1563290236,
     "wof:name":"Khian Sa",
     "wof:parent_id":85678581,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000619,
-    "geom:area_square_m":7600556.322938,
+    "geom:area_square_m":7600556.322943,
     "geom:bbox":"101.35631294,6.84649328115,101.385386145,6.87547745367",
     "geom:latitude":6.862628,
     "geom:longitude":101.369204,
@@ -17,6 +17,15 @@
     "mps:longitude":101.367474,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bpy_x_preferred":[
+        "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09af\u09bc\u09be\u09b0\u09bf\u0982"
+    ],
+    "name:ceb_x_preferred":[
+        "Amphoe Yaring"
+    ],
+    "name:deu_x_preferred":[
+        "Amphoe Yaring"
+    ],
     "name:eng_x_preferred":[
         "Yaring"
     ],
@@ -25,17 +34,41 @@
         "Jaring",
         "Yamu"
     ],
+    "name:fra_x_preferred":[
+        "Yaring"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e4\u30ea\u30f3\u90e1"
+    ],
     "name:mfa_x_preferred":[
         "Jaring"
     ],
     "name:mya_x_preferred":[
         "Jaring"
     ],
+    "name:nan_x_preferred":[
+        "Yaring K\u016bn"
+    ],
+    "name:por_x_preferred":[
+        "Yaring"
+    ],
+    "name:ron_x_preferred":[
+        "Districtul Yaring"
+    ],
     "name:tha_x_preferred":[
         "\u0e22\u0e30\u0e2b\u0e23\u0e34\u0e48\u0e07"
     ],
+    "name:tha_x_variant":[
+        "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e22\u0e30\u0e2b\u0e23\u0e34\u0e48\u0e07"
+    ],
     "name:unk_x_variant":[
         "Ban Yamu"
+    ],
+    "name:vie_x_preferred":[
+        "Yaring"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e5f\u90bb\u53bf"
     ],
     "qs:a1":"*",
     "qs:a1r":"*",
@@ -81,7 +114,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636443,
+    "wof:lastmodified":1563290256,
     "wof:name":"Yaring",
     "wof:parent_id":85678889,
     "wof:placetype":"locality",

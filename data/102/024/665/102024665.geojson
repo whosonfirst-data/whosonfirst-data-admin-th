@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001114,
-    "geom:area_square_m":13342459.680933,
+    "geom:area_square_m":13342459.680939,
     "geom:bbox":"100.607299805,14.3442259869,100.671504148,14.4171178298",
     "geom:latitude":14.405375,
     "geom:longitude":100.63918,
@@ -19,6 +19,9 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u0989\u09a5\u09bf"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Uthai"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Uthai"
     ],
@@ -30,8 +33,14 @@
         "Ban Uthai",
         "Udhai"
     ],
+    "name:fra_x_preferred":[
+        "Uthai"
+    ],
     "name:jpn_x_preferred":[
         "\u30a6\u30bf\u30a4\u90e1"
+    ],
+    "name:nan_x_preferred":[
+        "Uthai K\u016bn"
     ],
     "name:ron_x_preferred":[
         "Districtul Uthai"
@@ -44,6 +53,9 @@
     ],
     "name:unk_x_variant":[
         "Amphoe U Thai"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0648\u062a\u06be\u0627\u0626\u06cc \u0636\u0644\u0639"
     ],
     "name:vie_x_preferred":[
         "Uthai"
@@ -97,7 +109,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636448,
+    "wof:lastmodified":1563290299,
     "wof:name":"Uthai",
     "wof:parent_id":890466185,
     "wof:placetype":"locality",

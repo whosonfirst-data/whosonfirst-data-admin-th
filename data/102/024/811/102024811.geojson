@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001845,
-    "geom:area_square_m":21701172.932661,
+    "geom:area_square_m":21701172.932663,
     "geom:bbox":"102.542444347,17.9226715276,102.616246962,17.9720881014",
     "geom:latitude":17.952699,
     "geom:longitude":102.584275,
@@ -20,6 +20,9 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09b8\u09bf \u099a\u09bf\u09af\u09bc\u09be\u0982 \u09ae\u09be\u0987"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Si Chiang Mai"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Si Chiang Mai"
     ],
@@ -30,6 +33,15 @@
         "Ban Chiang Mai",
         "Ban Si Chiang Mai",
         "Sri Chiang Mai"
+    ],
+    "name:fra_x_preferred":[
+        "Si Chiang Mai"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30e0\u30d7\u30fc\u30fb\u30b7\u30c1\u30a7\u30f3\u30de\u30a4"
+    ],
+    "name:nan_x_preferred":[
+        "Si Chiang Mai K\u016bn"
     ],
     "name:ron_x_preferred":[
         "Districtul Si Chiang Mai"
@@ -42,6 +54,9 @@
     ],
     "name:unk_x_variant":[
         "Sri Chiang Mai"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u06cc \u0686\u06cc\u0627\u0646\u06af \u0645\u0627\u0626\u06cc \u0636\u0644\u0639"
     ],
     "name:vie_x_preferred":[
         "Si Chiang Mai"
@@ -96,7 +111,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636429,
+    "wof:lastmodified":1563290197,
     "wof:name":"Si Chiang Mai",
     "wof:parent_id":1108731881,
     "wof:placetype":"locality",

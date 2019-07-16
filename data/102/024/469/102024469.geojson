@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000261,
+    "geom:area_square_m":3135782.908048,
     "geom:bbox":"99.3675924006,13.4500373163,99.3860696984,13.468121708",
     "geom:latitude":13.45908,
     "geom:longitude":99.376831,
@@ -15,6 +16,9 @@
     "mps:longitude":99.376831,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Ban Kha"
+    ],
     "name:eng_x_preferred":[
         "Ban Kha"
     ],
@@ -23,8 +27,14 @@
         "Ban Ponghoh",
         "Pong Hau"
     ],
+    "name:fra_x_preferred":[
+        "Ban Kha"
+    ],
     "name:tha_x_preferred":[
         "\u0e1a\u0e49\u0e32\u0e19\u0e04\u0e32"
+    ],
+    "name:tha_x_variant":[
+        "\u0e15\u0e33\u0e1a\u0e25\u0e1a\u0e49\u0e32\u0e19\u0e04\u0e48\u0e32"
     ],
     "name:unk_x_variant":[
         "Pong Hau"
@@ -76,7 +86,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636447,
+    "wof:lastmodified":1563290291,
     "wof:name":"Ban Kha",
     "wof:parent_id":85678761,
     "wof:placetype":"locality",

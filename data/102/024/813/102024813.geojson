@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001163,
-    "geom:area_square_m":13754479.017814,
+    "geom:area_square_m":13754479.017811,
     "geom:bbox":"102.245865273,16.958457734,102.297591574,17.008037736",
     "geom:latitude":16.982774,
     "geom:longitude":102.272225,
@@ -20,11 +20,23 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09b8\u09bf \u09ac\u09c1\u09a8 \u09b0\u09c1\u09af\u09bc\u09c7\u09af\u09bc\u09be\u0982"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Si Bun Rueang"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Si Bun Rueang"
     ],
+    "name:eng_x_preferred":[
+        "Si Bun Rueang"
+    ],
     "name:fra_x_preferred":[
         "Amphoe Si Bun Rueang"
+    ],
+    "name:fra_x_variant":[
+        "Si Bun Rueang"
+    ],
+    "name:nan_x_preferred":[
+        "Si Bun Rueang K\u016bn"
     ],
     "name:ron_x_preferred":[
         "Districtul Si Bun Rueang"
@@ -37,6 +49,9 @@
     ],
     "name:unk_x_variant":[
         "Amphoe Si Bun Ruang"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u06cc \u0628\u0648\u0646 \u0631\u06cc\u0626\u0627\u0646\u06af \u0636\u0644\u0639"
     ],
     "name:vie_x_preferred":[
         "Si Bun Rueang"
@@ -85,7 +100,7 @@
         }
     ],
     "wof:id":102024813,
-    "wof:lastmodified":1527636446,
+    "wof:lastmodified":1563290285,
     "wof:name":"Si Bun Rueang",
     "wof:parent_id":85678871,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001523,
-    "geom:area_square_m":3134204.099461,
+    "geom:area_square_m":18040840.95341,
     "geom:bbox":"99.7959222516,16.5481880723,99.8696049366,16.6399674742",
     "geom:latitude":16.615081,
     "geom:longitude":99.827993,
@@ -17,6 +17,15 @@
     "mps:longitude":99.805298,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bpy_x_preferred":[
+        "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09b2\u09be\u09a8 \u0995\u09cd\u09b0\u09be\u09ac\u09c1\u09af\u09bc\u09c7"
+    ],
+    "name:ceb_x_preferred":[
+        "Amphoe Lan Krabue"
+    ],
+    "name:deu_x_preferred":[
+        "Amphoe Lan Krabue"
+    ],
     "name:eng_x_preferred":[
         "Lan Krabu"
     ],
@@ -25,11 +34,32 @@
         "Ban Lan Krabu",
         "Lan Krabue"
     ],
+    "name:fra_x_preferred":[
+        "Lan Krabue"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30fc\u30f3\u30af\u30e9\u30d6\u30fc\u90e1"
+    ],
+    "name:nan_x_preferred":[
+        "Lan Krabue K\u016bn"
+    ],
+    "name:ron_x_preferred":[
+        "Districtul Lan Krabue"
+    ],
     "name:tha_x_preferred":[
         "\u0e25\u0e32\u0e19\u0e01\u0e23\u0e30\u0e1a\u0e37\u0e2d"
     ],
+    "name:tha_x_variant":[
+        "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e25\u0e32\u0e19\u0e01\u0e23\u0e30\u0e1a\u0e37\u0e2d"
+    ],
     "name:unk_x_variant":[
         "\u0e25\u0e32\u0e19\u0e01\u0e23\u0e30\u0e1a\u0e37\u0e2d"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u0646 \u06a9\u0631\u0627\u0628\u0648\u0626\u06cc \u0636\u0644\u0639"
+    ],
+    "name:vie_x_preferred":[
+        "Lan Krabue"
     ],
     "qs:a1":"*",
     "qs:a1r":"*",
@@ -75,7 +105,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1534985987,
+    "wof:lastmodified":1563296595,
     "wof:name":"Lan Krabue",
     "wof:parent_id":85678665,
     "wof:placetype":"locality",

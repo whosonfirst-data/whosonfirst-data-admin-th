@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000521,
+    "geom:area_square_m":6263418.72496,
     "geom:bbox":"101.114419794,13.5782242729,101.165853799,13.6069747905",
     "geom:latitude":13.5926,
     "geom:longitude":101.140137,
@@ -16,6 +17,31 @@
     "mps:latitude":13.58726,
     "mps:longitude":101.123657,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bpy_x_preferred":[
+        "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ac\u09be\u09a8 \u09ab\u09cb"
+    ],
+    "name:ceb_x_preferred":[
+        "Amphoe Ban Pho"
+    ],
+    "name:deu_x_preferred":[
+        "Amphoe Ban Pho"
+    ],
+    "name:eng_x_preferred":[
+        "Ban Pho"
+    ],
+    "name:fra_x_preferred":[
+        "Ban Pho"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30fc\u30f3\u30dd\u30fc\u90e1"
+    ],
+    "name:nan_x_preferred":[
+        "Ban Pho K\u016bn"
+    ],
+    "name:ron_x_preferred":[
+        "Districtul Ban Pho"
+    ],
     "name:tha_x_preferred":[
         "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e1a\u0e49\u0e32\u0e19\u0e42\u0e1e\u0e18\u0e34\u0e4c"
     ],
@@ -24,6 +50,12 @@
     ],
     "name:unk_x_variant":[
         "Amphoe Sanam Chan"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0627\u0646 \u067e\u06be\u0648 \u0636\u0644\u0639"
+    ],
+    "name:vie_x_preferred":[
+        "Ban Pho"
     ],
     "qs:a1":"*",
     "qs:a1r":"*",
@@ -60,7 +92,7 @@
         }
     ],
     "wof:id":102025569,
-    "wof:lastmodified":1501221067,
+    "wof:lastmodified":1563290334,
     "wof:name":"Amphoe Ban Pho",
     "wof:parent_id":85678797,
     "wof:placetype":"locality",

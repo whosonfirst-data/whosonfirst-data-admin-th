@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001404,
-    "geom:area_square_m":16690435.925733,
+    "geom:area_square_m":16690435.925732,
     "geom:bbox":"99.2246604466,15.9153157003,99.4850507006,16.1340251089",
     "geom:latitude":16.039503,
     "geom:longitude":99.356284,
@@ -22,8 +22,20 @@
     "name:eng_x_preferred":[
         "Khlong Lan"
     ],
+    "name:eng_x_variant":[
+        "Khlong Lan National Park"
+    ],
+    "name:hin_x_preferred":[
+        "\u0916\u094d\u0932\u094b\u0928\u094d\u0917\u094d\u0917 \u0932\u0928 \u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u0909\u0926\u094d\u092f\u093e\u0928"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30af\u30ed\u30f3\u30fb\u30e9\u30f3\u56fd\u7acb\u516c\u5712"
+    ],
     "name:lit_x_preferred":[
         "Khlonglano nacionalinis parkas"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d16\u0d4d\u0d32\u0d4b\u0d19\u0d4d \u0d32\u0d3e\u0d7b \u0d26\u0d47\u0d36\u0d40\u0d2f\u0d4b\u0d26\u0d4d\u0d2f\u0d3e\u0d28\u0d02"
     ],
     "name:spa_x_preferred":[
         "Parque nacional de Khlong Lan"
@@ -33,6 +45,9 @@
     ],
     "name:tha_x_variant":[
         "\u0e04\u0e25\u0e2d\u0e07\u0e25\u0e32\u0e19"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0438\u0439 \u043f\u0430\u0440\u043a \u0425\u043b\u043e\u043d\u0433-\u041b\u0430\u043d"
     ],
     "name:unk_x_variant":[
         "\u0e04\u0e25\u0e2d\u0e07\u0e25\u0e32\u0e19"
@@ -81,7 +96,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636442,
+    "wof:lastmodified":1563290245,
     "wof:name":"Khlong Lan",
     "wof:parent_id":85678665,
     "wof:placetype":"locality",

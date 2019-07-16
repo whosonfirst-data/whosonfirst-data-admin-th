@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000513,
-    "geom:area_square_m":6005911.783719,
+    "geom:area_square_m":6005911.783721,
     "geom:bbox":"99.1135439618,18.8387139769,99.1446244812,18.8953569008",
     "geom:latitude":18.85946,
     "geom:longitude":99.127982,
@@ -19,6 +19,9 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09a6\u09cb\u0987 \u09b8\u09be\u0995\u09c7\u09a4"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Doi Saket"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Doi Saket"
     ],
@@ -31,8 +34,14 @@
         "Jaeung Doi",
         "Maung Ken"
     ],
+    "name:fra_x_preferred":[
+        "Doi Saket"
+    ],
     "name:jpn_x_preferred":[
         "\u30c9\u30fc\u30a4\u30b5\u30b1\u30c3\u30c8\u90e1"
+    ],
+    "name:nan_x_preferred":[
+        "Doi Saket K\u016bn"
     ],
     "name:ron_x_preferred":[
         "Districtul Doi Saket"
@@ -43,11 +52,17 @@
     "name:unk_x_variant":[
         "Jaeung Doi"
     ],
+    "name:urd_x_preferred":[
+        "\u062f\u0648\u0626\u06cc \u0633\u0627\u06a9\u06cc\u062a \u0636\u0644\u0639"
+    ],
     "name:vie_x_preferred":[
         "Doi Saket"
     ],
     "name:zho_min_nan_x_preferred":[
         "Doi Saket K\u016bn"
+    ],
+    "name:zho_x_preferred":[
+        "\u96f7\u6c99\u9769\u53bf"
     ],
     "qs:a0":"Thailand",
     "qs:a1":"*Chiang Mai",
@@ -100,7 +115,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636421,
+    "wof:lastmodified":1563290178,
     "wof:name":"Doi Saket",
     "wof:parent_id":890467381,
     "wof:placetype":"locality",

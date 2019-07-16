@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00053,
+    "geom:area_square_m":6268379.170942,
     "geom:bbox":"104.289311096,16.9794630269,104.352044861,17.0290589542",
     "geom:latitude":17.004262,
     "geom:longitude":104.320677,
@@ -17,11 +18,38 @@
     "mps:longitude":104.298706,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bpy_x_preferred":[
+        "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u0996\u09cb\u0995 \u09b8\u09bf \u09b8\u09c1\u09ab\u09be\u09a8"
+    ],
+    "name:ceb_x_preferred":[
+        "Amphoe Khok Si Suphan"
+    ],
+    "name:deu_x_preferred":[
+        "Amphoe Khok Si Suphan"
+    ],
+    "name:eng_x_preferred":[
+        "Khok Si Suphan"
+    ],
+    "name:fra_x_preferred":[
+        "Khok Si Suphan"
+    ],
+    "name:nan_x_preferred":[
+        "Khok Si Suphan K\u016bn"
+    ],
+    "name:ron_x_preferred":[
+        "Districtul Khok Si Suphan"
+    ],
     "name:tha_x_preferred":[
         "\u0e42\u0e04\u0e01\u0e28\u0e23\u0e35\u0e2a\u0e38\u0e1e\u0e23\u0e23\u0e13"
     ],
+    "name:tha_x_variant":[
+        "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e42\u0e04\u0e01\u0e28\u0e23\u0e35\u0e2a\u0e38\u0e1e\u0e23\u0e23\u0e13"
+    ],
     "name:unk_x_variant":[
         "\u0e42\u0e04\u0e01\u0e28\u0e23\u0e35\u0e2a\u0e38\u0e1e\u0e23\u0e23\u0e13"
+    ],
+    "name:vie_x_preferred":[
+        "Khok Si Suphan"
     ],
     "qs:a1":"*",
     "qs:a1r":"*",
@@ -62,7 +90,7 @@
         }
     ],
     "wof:id":102025319,
-    "wof:lastmodified":1527636689,
+    "wof:lastmodified":1563290455,
     "wof:name":"Khok Si Suphan",
     "wof:parent_id":85678863,
     "wof:placetype":"locality",

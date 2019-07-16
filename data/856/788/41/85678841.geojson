@@ -49,6 +49,9 @@
     "name:bul_x_preferred":[
         "\u041d\u0430\u043a\u043e\u043d \u0420\u0430\u0442\u0447\u0430\u0441\u0438\u043c\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Changwat Nakhon Ratchasima"
+    ],
     "name:dan_x_preferred":[
         "Nakhon Ratchasima"
     ],
@@ -97,6 +100,9 @@
     "name:kor_x_preferred":[
         "\ub098\ucf58\ub78f\ucc28\uc2dc\ub9c8 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\ub098\ucf58\ub78f\ucc28\uc2dc\ub9c8\uc8fc"
+    ],
     "name:lao_x_preferred":[
         "\u0e88\u0eb1\u0e87\u0eab\u0ea7\u0eb1\u0e94\u0e99\u0eb0\u0e84\u0ead\u0e99\u0ea5\u0eb2\u0e8a\u0eb0\u0eaa\u0eb5\u0ea1\u0eb2"
     ],
@@ -123,6 +129,9 @@
     ],
     "name:nld_x_preferred":[
         "Changwat Nakhon Ratchasima"
+    ],
+    "name:nno_x_preferred":[
+        "Nakhon Ratchasima-fylket"
     ],
     "name:nob_x_preferred":[
         "Nakhon Ratchasima"
@@ -193,8 +202,14 @@
     "name:wuu_x_preferred":[
         "\u5475\u53fb\u5e9c"
     ],
+    "name:yue_x_preferred":[
+        "\u5475\u53fb\u5e9c"
+    ],
     "name:zho_x_preferred":[
         "\u5475\u53fb\u5e9c"
+    ],
+    "name:zho_x_variant":[
+        "\u90a3\u7a7a\u53fb\u5dee\u662f\u746a\u5e9c"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"THA",
@@ -319,7 +334,7 @@
     "wof:lang_x_spoken":[
         "tha"
     ],
-    "wof:lastmodified":1561758455,
+    "wof:lastmodified":1563291815,
     "wof:name":"Nakhon Ratchasima",
     "wof:parent_id":85632293,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001805,
-    "geom:area_square_m":21535104.220444,
+    "geom:area_square_m":21535104.220426,
     "geom:bbox":"100.60897505,15.214201984,100.781403615,15.3091184181",
     "geom:latitude":15.260052,
     "geom:longitude":100.684656,
@@ -19,11 +19,20 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09a8\u09cb\u0982 \u09ae\u09c1\u09af\u09bc\u09be\u0982"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Nong Muang"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Nong Muang"
     ],
     "name:eng_x_preferred":[
         "Nong Muang"
+    ],
+    "name:fra_x_preferred":[
+        "Nong Muang"
+    ],
+    "name:nan_x_preferred":[
+        "Nong Muang K\u016bn"
     ],
     "name:ron_x_preferred":[
         "Districtul Nong Muang"
@@ -36,6 +45,9 @@
     ],
     "name:unk_x_variant":[
         "\u0e2b\u0e19\u0e2d\u0e07\u0e21\u0e48\u0e27\u0e07"
+    ],
+    "name:urd_x_preferred":[
+        "\u0646\u0648\u0646\u06af \u0645\u0648\u0627\u0646\u06af \u0636\u0644\u0639"
     ],
     "name:vie_x_preferred":[
         "Nong Muang"
@@ -87,7 +99,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636443,
+    "wof:lastmodified":1563290255,
     "wof:name":"Nong Muang",
     "wof:parent_id":85678701,
     "wof:placetype":"locality",

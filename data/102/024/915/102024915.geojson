@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000986,
+    "geom:area_square_m":11755738.783191,
     "geom:bbox":"104.135581374,15.3228294867,104.176185811,15.3620989813",
     "geom:latitude":15.342509,
     "geom:longitude":104.153846,
@@ -18,6 +19,9 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09b0\u09be\u09b8\u09bf \u09b8\u09be\u09b2\u09be\u0987"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Rasi Salai"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Rasi Salai"
     ],
@@ -28,6 +32,12 @@
         "Ban Muang Khong",
         "Rasi Saila",
         "Sisalai"
+    ],
+    "name:fra_x_preferred":[
+        "Rasi Salai"
+    ],
+    "name:nan_x_preferred":[
+        "Rasi Salai K\u016bn"
     ],
     "name:ron_x_preferred":[
         "Districtul Rasi Salai"
@@ -90,7 +100,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636441,
+    "wof:lastmodified":1563290235,
     "wof:name":"Rasi Salai",
     "wof:parent_id":85678779,
     "wof:placetype":"locality",

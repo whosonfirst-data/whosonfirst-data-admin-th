@@ -61,6 +61,9 @@
     "name:ben_x_preferred":[
         "\u09ac\u09cd\u09af\u09be\u0982\u0995\u0995"
     ],
+    "name:bho_x_preferred":[
+        "\u092c\u0948\u0902\u0915\u093e\u0915"
+    ],
     "name:bis_x_preferred":[
         "Bangkok"
     ],
@@ -90,6 +93,9 @@
     ],
     "name:cdo_x_preferred":[
         "M\u00e0ng-g\u00f3k"
+    ],
+    "name:ceb_x_preferred":[
+        "Bangkok"
     ],
     "name:ces_x_preferred":[
         "Bangkok"
@@ -193,6 +199,9 @@
     "name:hat_x_preferred":[
         "Bangkok"
     ],
+    "name:hau_x_preferred":[
+        "Bangkok"
+    ],
     "name:heb_x_preferred":[
         "\u05d1\u05e0\u05d2\u05e7\u05d5\u05e7"
     ],
@@ -214,6 +223,9 @@
     "name:hye_x_preferred":[
         "\u0532\u0561\u0576\u0563\u056f\u0578\u056f"
     ],
+    "name:hyw_x_preferred":[
+        "\u054a\u0561\u0576\u056f\u0584\u0578\u0584"
+    ],
     "name:ido_x_preferred":[
         "Bangkok"
     ],
@@ -223,8 +235,14 @@
     "name:ilo_x_preferred":[
         "Bangkok"
     ],
+    "name:ina_x_preferred":[
+        "Bangkok"
+    ],
     "name:ind_x_preferred":[
         "Bangkok"
+    ],
+    "name:inh_x_preferred":[
+        "\u0411\u0430\u043d\u0433\u043a\u043e\u043a"
     ],
     "name:isl_x_preferred":[
         "Bangkok"
@@ -265,10 +283,16 @@
     "name:koi_x_preferred":[
         "\u0411\u0430\u043d\u0433\u043a\u043e\u043a"
     ],
+    "name:kom_x_preferred":[
+        "\u0411\u0430\u043d\u0433\u043a\u043e\u043a"
+    ],
     "name:kor_x_preferred":[
         "\ubc29\ucf55"
     ],
     "name:kur_x_preferred":[
+        "Bangkok"
+    ],
+    "name:lad_x_preferred":[
         "Bangkok"
     ],
     "name:lao_x_preferred":[
@@ -282,6 +306,9 @@
     ],
     "name:lez_x_preferred":[
         "\u0411\u0430\u043d\u0433\u043a\u043e\u043a"
+    ],
+    "name:lij_x_preferred":[
+        "Bangk\u00f2k"
     ],
     "name:lim_x_preferred":[
         "Bangkok"
@@ -333,6 +360,9 @@
     ],
     "name:mya_x_preferred":[
         "\u1018\u1014\u103a\u1000\u1031\u102c\u1000\u103a\u1019\u103c\u102d\u102f\u1037"
+    ],
+    "name:myv_x_preferred":[
+        "\u0411\u0430\u043d\u0433\u043a\u043e\u043a"
     ],
     "name:mzn_x_preferred":[
         "\u0628\u0627\u0646\u06a9\u0648\u06a9"
@@ -481,6 +511,9 @@
     "name:tha_x_preferred":[
         "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e01\u0e32\u0e30"
     ],
+    "name:tha_x_variant":[
+        "\u0e01\u0e23\u0e38\u0e07\u0e40\u0e17\u0e1e\u0e21\u0e2b\u0e32\u0e19\u0e04\u0e23"
+    ],
     "name:tuk_x_preferred":[
         "Bangkok"
     ],
@@ -591,7 +624,7 @@
         }
     ],
     "wof:id":890467041,
-    "wof:lastmodified":1561758882,
+    "wof:lastmodified":1563298293,
     "wof:name":"Ban Ko",
     "wof:parent_id":890467239,
     "wof:placetype":"locality",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000987,
+    "geom:area_square_m":11704893.109843,
     "geom:bbox":"99.8728343654,16.4533878272,99.9135425054,16.492536423",
     "geom:latitude":16.472917,
     "geom:longitude":99.891153,
@@ -18,11 +19,20 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09b8\u09be\u0987 \u0999\u09be\u09ae"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Sai Ngam"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Sai Ngam"
     ],
     "name:eng_x_preferred":[
         "Sai Ngam"
+    ],
+    "name:fra_x_preferred":[
+        "Sai Ngam"
+    ],
+    "name:nan_x_preferred":[
+        "Sai Ngam K\u016bn"
     ],
     "name:ron_x_preferred":[
         "Districtul Sai Ngam"
@@ -89,7 +99,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636421,
+    "wof:lastmodified":1563290179,
     "wof:name":"Sai Ngam",
     "wof:parent_id":85678665,
     "wof:placetype":"locality",

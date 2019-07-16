@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001114,
+    "geom:area_square_m":13220420.432419,
     "geom:bbox":"98.6753276821,16.3690808958,98.705044438,16.418779794",
     "geom:latitude":16.391067,
     "geom:longitude":98.69202,
@@ -18,6 +19,9 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ab\u09cb\u09b0 \u09ab\u09b0\u09be"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Phop Phra"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Phop Phra"
     ],
@@ -26,6 +30,18 @@
     ],
     "name:eng_x_variant":[
         "Phob Phra"
+    ],
+    "name:fra_x_preferred":[
+        "Phop Phra"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30dd\u30c3\u30d7\u30d7\u30e9\u90e1"
+    ],
+    "name:nan_x_preferred":[
+        "Phop Phra K\u016bn"
+    ],
+    "name:nob_x_preferred":[
+        "Phop Phra"
     ],
     "name:nor_x_preferred":[
         "Phop Phra"
@@ -92,7 +108,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636440,
+    "wof:lastmodified":1563290230,
     "wof:name":"Phop Phra",
     "wof:parent_id":85678683,
     "wof:placetype":"locality",

@@ -40,6 +40,9 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ae\u09c1\u09af\u09bc\u09c7\u0982 \u09ab\u09c1\u0995\u09c7\u09a4"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Mueang Phuket"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Mueang Phuket"
     ],
@@ -49,6 +52,9 @@
     "name:eng_x_variant":[
         "Muang Phuket",
         "Mueang Phuket"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0645\u06cc\u0646\u06af \u067e\u0648\u06a9\u062a"
     ],
     "name:fra_x_preferred":[
         "Mueang Phuket"
@@ -65,8 +71,14 @@
     "name:ron_x_preferred":[
         "Districtul Mueang Phuket"
     ],
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u043e\u043b\u0438\u0447\u043d\u044b\u0439 \u0430\u043c\u043f\u0445\u0435 \u041f\u0445\u0443\u043a\u0435\u0442"
+    ],
     "name:tha_x_preferred":[
         "\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e20\u0e39\u0e40\u0e01\u0e47\u0e15"
+    ],
+    "name:tha_x_variant":[
+        "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e20\u0e39\u0e40\u0e01\u0e47\u0e15"
     ],
     "qs:name":"Mueang Phuket",
     "qs:name_adm0":"Thailand",
@@ -117,7 +129,7 @@
         }
     ],
     "wof:id":890467203,
-    "wof:lastmodified":1561758883,
+    "wof:lastmodified":1563298301,
     "wof:name":"Muang Phuket",
     "wof:parent_id":-1,
     "wof:placetype":"county",

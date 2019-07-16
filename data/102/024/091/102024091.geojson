@@ -25,11 +25,20 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09a5\u09be \u09ab\u09be\u09af\u09bc\u09c7"
     ],
+    "name:ceb_x_preferred":[
+        "Warin Chamrap"
+    ],
+    "name:ceb_x_variant":[
+        "Satun"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Tha Phae"
     ],
     "name:deu_x_variant":[
         "Satun"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03c4\u03bf\u03cd\u03bd"
     ],
     "name:eng_x_preferred":[
         "Satun"
@@ -40,8 +49,14 @@
     "name:fra_x_preferred":[
         "Satun"
     ],
+    "name:ita_x_preferred":[
+        "Satun"
+    ],
     "name:jpn_x_preferred":[
         "\u30bf\u30fc\u30da\u30fc\u90e1"
+    ],
+    "name:jpn_x_variant":[
+        "\u30b5\u30c8\u30a5\u30f3"
     ],
     "name:kor_x_preferred":[
         "\uc0ac\ub6a0"
@@ -54,6 +69,9 @@
     ],
     "name:por_x_preferred":[
         "Tha Phae"
+    ],
+    "name:por_x_variant":[
+        "Satun"
     ],
     "name:ron_x_preferred":[
         "Districtul Tha Phae"
@@ -124,7 +142,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561758377,
+    "wof:lastmodified":1563290212,
     "wof:name":"Tha Phae",
     "wof:parent_id":85678595,
     "wof:placetype":"locality",

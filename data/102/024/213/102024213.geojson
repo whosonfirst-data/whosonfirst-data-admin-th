@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002865,
-    "geom:area_square_m":34464160.305107,
+    "geom:area_square_m":34464160.305119,
     "geom:bbox":"99.6971872313,13.3324783121,99.8804511318,13.4040047047",
     "geom:latitude":13.367176,
     "geom:longitude":99.807571,
@@ -19,6 +19,9 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09aa\u09be\u0995 \u09a5\u09cb"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Pak Tho"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Pak Tho"
     ],
@@ -28,6 +31,12 @@
     "name:eng_x_variant":[
         "Ban Pak Tho",
         "Pak Thau"
+    ],
+    "name:fra_x_preferred":[
+        "Pak Tho"
+    ],
+    "name:nan_x_preferred":[
+        "Pak Tho K\u016bn"
     ],
     "name:ron_x_preferred":[
         "Districtul Pak Tho"
@@ -96,7 +105,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636447,
+    "wof:lastmodified":1563290288,
     "wof:name":"Pak Tho",
     "wof:parent_id":890467423,
     "wof:placetype":"locality",

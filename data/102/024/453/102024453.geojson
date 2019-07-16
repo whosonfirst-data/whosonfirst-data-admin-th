@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000257,
+    "geom:area_square_m":3137093.533143,
     "geom:bbox":"99.3018179122,8.88145381789,99.3200082516,8.8995438376",
     "geom:latitude":8.890499,
     "geom:longitude":99.310913,
@@ -18,14 +19,23 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ac\u09be\u09a8 \u09a8\u09be \u09a6\u09cb\u09af\u09bc\u09c7\u09ae"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Ban Na Doem"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Ban Na Doem"
     ],
     "name:eng_x_preferred":[
         "Ban Na Doem"
     ],
+    "name:fra_x_preferred":[
+        "Ban Na Doem"
+    ],
     "name:jpn_x_preferred":[
         "\u30d0\u30fc\u30f3\u30ca\u30fc\u30c9\u30a5\u30fc\u30e0\u90e1"
+    ],
+    "name:nan_x_preferred":[
+        "Ban Na Doem K\u016bn"
     ],
     "name:por_x_preferred":[
         "Ban Na Doem"
@@ -91,7 +101,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636438,
+    "wof:lastmodified":1563290226,
     "wof:name":"Ban Na Doem",
     "wof:parent_id":85678581,
     "wof:placetype":"locality",

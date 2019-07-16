@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003102,
+    "geom:area_square_m":37297214.030377,
     "geom:bbox":"99.2577273792,13.4714054874,99.3641007662,13.5642637416",
     "geom:latitude":13.523498,
     "geom:longitude":99.306131,
@@ -18,6 +19,9 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09b8\u09c1\u09af\u09bc\u09be\u09a8 \u09ab\u09c1\u09af\u09bc\u09c7\u0982"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Suan Phueng"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Suan Phueng"
     ],
@@ -29,6 +33,15 @@
         "Suan Phoeng",
         "Suan Phueng",
         "Suan Pung"
+    ],
+    "name:fra_x_preferred":[
+        "Suan Phueng"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b9\u30ef\u30f3\u30d7\u30f3\u90e1"
+    ],
+    "name:nan_x_preferred":[
+        "Suan Phueng K\u016bn"
     ],
     "name:ron_x_preferred":[
         "Districtul Suan Phueng"
@@ -92,7 +105,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636449,
+    "wof:lastmodified":1563290309,
     "wof:name":"Suan Phueng",
     "wof:parent_id":85678761,
     "wof:placetype":"locality",

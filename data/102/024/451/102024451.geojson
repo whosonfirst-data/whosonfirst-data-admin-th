@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001721,
-    "geom:area_square_m":21032284.375023,
+    "geom:area_square_m":21032284.375019,
     "geom:bbox":"99.3457653963,8.7728944576,99.3859240249,8.85612390618",
     "geom:latitude":8.807082,
     "geom:longitude":99.363887,
@@ -20,6 +20,9 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ac\u09be\u09a8 \u09a8\u09be \u09b8\u09be\u09a8"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Ban Na San"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Ban Na San"
     ],
@@ -30,8 +33,14 @@
         "Na Sau",
         "Nasan"
     ],
+    "name:fra_x_preferred":[
+        "Ban Na San"
+    ],
     "name:jpn_x_preferred":[
         "\u30d0\u30fc\u30f3\u30ca\u30fc\u30b5\u30fc\u30f3\u90e1"
+    ],
+    "name:nan_x_preferred":[
+        "Ban Na San K\u016bn"
     ],
     "name:por_x_preferred":[
         "Ban Na San"
@@ -98,7 +107,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636447,
+    "wof:lastmodified":1563290292,
     "wof:name":"Ban Na San",
     "wof:parent_id":85678581,
     "wof:placetype":"locality",

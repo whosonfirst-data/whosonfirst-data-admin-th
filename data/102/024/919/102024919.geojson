@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001176,
-    "geom:area_square_m":14458766.210921,
+    "geom:area_square_m":14458766.210911,
     "geom:bbox":"101.707888363,6.24620099475,101.756161303,6.30795466222",
     "geom:latitude":6.274169,
     "geom:longitude":101.731665,
@@ -20,11 +20,26 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09b0\u09be-\u0999\u09be\u09af\u09bc\u09c7"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Ra-ngae"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Ra-ngae"
     ],
     "name:eng_x_preferred":[
         "Ra-Ngae"
+    ],
+    "name:eng_x_variant":[
+        "Ra-ngae"
+    ],
+    "name:fra_x_preferred":[
+        "Ra-ngae"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30b2\u90e1"
+    ],
+    "name:nan_x_preferred":[
+        "Ra-ngae K\u016bn"
     ],
     "name:por_x_preferred":[
         "Ra-ngae"
@@ -40,6 +55,9 @@
     ],
     "name:unk_x_variant":[
         "Ban Tanyong Mat"
+    ],
+    "name:urd_x_preferred":[
+        "\u0631\u0627-\u0646\u06af\u0627\u06d2 \u0636\u0644\u0639"
     ],
     "name:vie_x_preferred":[
         "Ra-ngae"
@@ -94,7 +112,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636450,
+    "wof:lastmodified":1563290320,
     "wof:name":"Ra-ngae",
     "wof:parent_id":85678885,
     "wof:placetype":"locality",

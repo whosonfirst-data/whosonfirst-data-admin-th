@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003062,
+    "geom:area_square_m":36169348.863365,
     "geom:bbox":"98.9829028117,17.1894829079,99.0896048211,17.2600295811",
     "geom:latitude":17.224666,
     "geom:longitude":99.041229,
@@ -18,11 +19,20 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09b8\u09be\u09ae \u0999\u09be\u0993"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Sam Ngao"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Sam Ngao"
     ],
     "name:eng_x_preferred":[
         "Sam Ngao"
+    ],
+    "name:fra_x_preferred":[
+        "Sam Ngao"
+    ],
+    "name:nan_x_preferred":[
+        "Sam Ngao K\u016bn"
     ],
     "name:ron_x_preferred":[
         "Districtul Sam Ngao"
@@ -85,7 +95,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636444,
+    "wof:lastmodified":1563290263,
     "wof:name":"Sam Ngao",
     "wof:parent_id":85678683,
     "wof:placetype":"locality",

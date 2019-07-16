@@ -38,11 +38,17 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ae\u09be\u09af\u09bc\u09c7 \u09b2\u09be\u09a8"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Mae Lan"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Mae Lan"
     ],
     "name:eng_x_preferred":[
         "Mae Lan"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u062e\u0634 \u0645\u06cc \u0644\u0646"
     ],
     "name:fra_x_preferred":[
         "Mae Lan"
@@ -61,6 +67,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e01\u0e34\u0e48\u0e07\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e41\u0e21\u0e48\u0e25\u0e32\u0e19"
+    ],
+    "name:tha_x_variant":[
+        "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e41\u0e21\u0e48\u0e25\u0e32\u0e19"
     ],
     "name:urd_x_preferred":[
         "\u0645\u0627\u0626\u06d2 \u0644\u0627\u0646 \u0636\u0644\u0639"
@@ -107,7 +116,7 @@
         }
     ],
     "wof:id":1108731497,
-    "wof:lastmodified":1561758763,
+    "wof:lastmodified":1563296589,
     "wof:name":"Mae Lan",
     "wof:parent_id":85678889,
     "wof:placetype":"county",

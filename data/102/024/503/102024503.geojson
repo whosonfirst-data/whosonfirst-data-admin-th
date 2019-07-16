@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002924,
-    "geom:area_square_m":35768006.789445,
+    "geom:area_square_m":35768006.789426,
     "geom:bbox":"98.7305410349,8.27311760309,98.8036386942,8.3890418241",
     "geom:latitude":8.340123,
     "geom:longitude":98.773241,
@@ -19,6 +19,9 @@
     "mz:is_current":-1,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u0985\u0993 \u09b2\u09c1\u09af\u09bc\u09c7\u0995"
+    ],
+    "name:ceb_x_preferred":[
+        "Amphoe Ao Luek"
     ],
     "name:deu_x_preferred":[
         "Amphoe Ao Luek"
@@ -34,8 +37,14 @@
         "Ban Ao Luk Tai",
         "Ban Auluek"
     ],
+    "name:fra_x_preferred":[
+        "Ao Luek"
+    ],
     "name:jpn_x_preferred":[
         "\u30a2\u30fc\u30aa\u30eb\u30c3\u30af\u90e1"
+    ],
+    "name:nan_x_preferred":[
+        "Ao Luek K\u016bn"
     ],
     "name:por_x_preferred":[
         "Ao Luek"
@@ -51,6 +60,9 @@
     ],
     "name:unk_x_variant":[
         "Ban Ao Luk Tai"
+    ],
+    "name:urd_x_preferred":[
+        "\u0622\u0648 \u0644\u0648\u0626\u06a9 \u0636\u0644\u0639"
     ],
     "name:vie_x_preferred":[
         "Ao Luek"
@@ -109,7 +121,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636426,
+    "wof:lastmodified":1563290189,
     "wof:name":"Ao Luek",
     "wof:parent_id":85678585,
     "wof:placetype":"locality",

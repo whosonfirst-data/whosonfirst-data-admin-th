@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00131,
+    "geom:area_square_m":15389353.170849,
     "geom:bbox":"103.728948545,18.0898292562,103.769830869,18.2122982595",
     "geom:latitude":18.160415,
     "geom:longitude":103.745015,
@@ -17,8 +18,20 @@
     "mps:longitude":103.738689,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Si Wilai"
+    ],
+    "name:eng_x_preferred":[
+        "Si Wilai"
+    ],
+    "name:fra_x_preferred":[
+        "Si Wilai"
+    ],
     "name:tha_x_preferred":[
         "\u0e28\u0e23\u0e35\u0e27\u0e34\u0e44\u0e25"
+    ],
+    "name:tha_x_variant":[
+        "\u0e15\u0e33\u0e1a\u0e25\u0e28\u0e23\u0e35\u0e27\u0e34\u0e44\u0e25"
     ],
     "qs:a0":"Thailand",
     "qs:a1":"*Nong Khai",
@@ -61,7 +74,7 @@
         }
     ],
     "wof:id":102026091,
-    "wof:lastmodified":1527637807,
+    "wof:lastmodified":1563290465,
     "wof:name":"Si Wilai",
     "wof:parent_id":85678895,
     "wof:placetype":"locality",

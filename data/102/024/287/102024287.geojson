@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00622,
-    "geom:area_square_m":75792742.507477,
+    "geom:area_square_m":75792742.507474,
     "geom:bbox":"99.0271365046,9.7162553817,99.1552368071,9.84531782021",
     "geom:latitude":9.784233,
     "geom:longitude":99.092639,
@@ -19,6 +19,9 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09b2\u09be\u09ae\u09be\u09af\u09bc\u09c7"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Lamae"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Lamae"
     ],
@@ -27,6 +30,12 @@
     ],
     "name:fra_x_preferred":[
         "Amphoe Lamae"
+    ],
+    "name:fra_x_variant":[
+        "Lamae"
+    ],
+    "name:nan_x_preferred":[
+        "Lamae K\u016bn"
     ],
     "name:ron_x_preferred":[
         "Districtul Lamae"
@@ -98,7 +107,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636430,
+    "wof:lastmodified":1563290199,
     "wof:name":"Lamae",
     "wof:parent_id":890466753,
     "wof:placetype":"locality",

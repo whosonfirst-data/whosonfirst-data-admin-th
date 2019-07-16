@@ -38,6 +38,9 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ab\u09c1 \u09b2\u09c1\u09f1\u09be\u0982"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Phu Luang"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Phu Luang"
     ],
@@ -55,6 +58,12 @@
     ],
     "name:tha_x_preferred":[
         "\u0e20\u0e39\u0e2b\u0e25\u0e27\u0e07"
+    ],
+    "name:tha_x_variant":[
+        "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e20\u0e39\u0e2b\u0e25\u0e27\u0e07"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u06be\u0648 \u0644\u0648\u0627\u0646\u06af \u0636\u0644\u0639"
     ],
     "name:vie_x_preferred":[
         "Phu Luang"
@@ -95,7 +104,7 @@
         }
     ],
     "wof:id":1108731747,
-    "wof:lastmodified":1561758744,
+    "wof:lastmodified":1563296477,
     "wof:name":"Phu Luang",
     "wof:parent_id":85678853,
     "wof:placetype":"county",

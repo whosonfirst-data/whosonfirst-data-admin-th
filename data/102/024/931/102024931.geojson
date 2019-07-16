@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000262,
+    "geom:area_square_m":3133655.945854,
     "geom:bbox":"103.553339958,14.6011240188,103.571904223,14.6192013631",
     "geom:latitude":14.610163,
     "geom:longitude":103.562622,
@@ -14,11 +15,36 @@
     "mps:latitude":14.610163,
     "mps:longitude":103.562622,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bpy_x_preferred":[
+        "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09aa\u09cd\u09b0\u09be\u09b8\u09be\u09a4"
+    ],
+    "name:ceb_x_preferred":[
+        "Amphoe Prasat"
+    ],
+    "name:deu_x_preferred":[
+        "Amphoe Prasat"
+    ],
+    "name:eng_x_preferred":[
+        "Prasat"
+    ],
+    "name:fra_x_preferred":[
+        "Prasat"
+    ],
+    "name:nan_x_preferred":[
+        "Prasat K\u016bn"
+    ],
+    "name:ron_x_preferred":[
+        "Districtul Prasat"
+    ],
     "name:tha_x_preferred":[
         "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e1b\u0e23\u0e32\u0e2a\u0e32\u0e17"
     ],
     "name:tha_x_variant":[
         "\u0e1b\u0e23\u0e32\u0e2a\u0e32\u0e17"
+    ],
+    "name:vie_x_preferred":[
+        "Prasat"
     ],
     "qs:a1":"*",
     "qs:a1r":"*",
@@ -55,7 +81,7 @@
         }
     ],
     "wof:id":102024931,
-    "wof:lastmodified":1501221015,
+    "wof:lastmodified":1563290174,
     "wof:name":"Amphoe Prasat",
     "wof:parent_id":85678849,
     "wof:placetype":"locality",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003502,
+    "geom:area_square_m":42967157.279445,
     "geom:bbox":"100.125835944,6.97736261866,100.308737178,7.16989362175",
     "geom:latitude":7.082287,
     "geom:longitude":100.216045,
@@ -18,11 +19,23 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09b0\u09be\u09a4\u09cd\u09a4\u09be\u09ab\u09c1\u09ae"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Rattaphum"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Rattaphum"
     ],
+    "name:eng_x_preferred":[
+        "Rattaphum"
+    ],
+    "name:fra_x_preferred":[
+        "Rattaphum"
+    ],
     "name:jpn_x_preferred":[
         "\u30e9\u30c3\u30bf\u30d7\u30fc\u30e0\u90e1"
+    ],
+    "name:nan_x_preferred":[
+        "Rattaphum K\u016bn"
     ],
     "name:por_x_preferred":[
         "Rattaphum"
@@ -88,7 +101,7 @@
         }
     ],
     "wof:id":102024907,
-    "wof:lastmodified":1527636420,
+    "wof:lastmodified":1563290175,
     "wof:name":"Rattaphum",
     "wof:parent_id":85678603,
     "wof:placetype":"locality",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002474,
+    "geom:area_square_m":29499542.927198,
     "geom:bbox":"101.056664036,15.3440243479,101.143955575,15.4494783319",
     "geom:latitude":15.395053,
     "geom:longitude":101.106726,
@@ -18,11 +19,20 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09b8\u09bf \u09a5\u09c7\u09aa"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Si Thep"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Si Thep"
     ],
     "name:eng_x_preferred":[
         "Si Thep"
+    ],
+    "name:fra_x_preferred":[
+        "Si Thep"
+    ],
+    "name:nan_x_preferred":[
+        "Si Thep K\u016bn"
     ],
     "name:ron_x_preferred":[
         "Districtul Si Thep"
@@ -86,7 +96,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636449,
+    "wof:lastmodified":1563290313,
     "wof:name":"Si Thep",
     "wof:parent_id":85678701,
     "wof:placetype":"locality",

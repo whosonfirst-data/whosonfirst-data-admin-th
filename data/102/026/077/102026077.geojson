@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000713,
+    "geom:area_square_m":8476877.925088,
     "geom:bbox":"103.8499059,15.9575715199,103.923527878,16.060131033",
     "geom:latitude":15.997851,
     "geom:longitude":103.89041,
@@ -20,6 +21,9 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09a5\u09c1\u0982 \u0996\u09be\u0993\u09b2\u09c1\u09af\u09bc\u09be\u0982"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Thung Khao Luang"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Thung Khao Luang"
     ],
@@ -28,6 +32,12 @@
     ],
     "name:eng_x_variant":[
         "Thung Khao Luang(king)"
+    ],
+    "name:fra_x_preferred":[
+        "Thung Khao Luang"
+    ],
+    "name:nan_x_preferred":[
+        "Thung Khao Luang K\u016bn"
     ],
     "name:ron_x_preferred":[
         "Districtul Thung Khao Luang"
@@ -92,7 +102,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527637807,
+    "wof:lastmodified":1563290463,
     "wof:name":"Thung Khao Luang",
     "wof:parent_id":85678845,
     "wof:placetype":"locality",

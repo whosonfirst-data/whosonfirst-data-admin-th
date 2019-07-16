@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001621,
-    "geom:area_square_m":19277599.894015,
+    "geom:area_square_m":19277599.894011,
     "geom:bbox":"99.9607505942,15.9258811604,100.081061223,16.0099743791",
     "geom:latitude":15.955222,
     "geom:longitude":99.999084,
@@ -18,6 +18,9 @@
     "mz:is_current":-1,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ac\u09be\u09a8\u09ab\u09cb\u09a4 \u09ab\u09bf\u09b8\u09be\u0987"
+    ],
+    "name:ceb_x_preferred":[
+        "Amphoe Banphot Phisai"
     ],
     "name:deu_x_preferred":[
         "Amphoe Banphot Phisai"
@@ -34,8 +37,20 @@
         "Barnbhotbhisai",
         "Hu Khwang"
     ],
+    "name:fra_x_preferred":[
+        "Banphot Phisai"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30f3\u30dd\u30c3\u30c8\u30d4\u30b5\u30a4\u90e1"
+    ],
+    "name:nan_x_preferred":[
+        "Banphot Phisai K\u016bn"
+    ],
     "name:ron_x_preferred":[
         "Districtul Banphot Phisai"
+    ],
+    "name:spa_x_preferred":[
+        "Banphot Phisai"
     ],
     "name:tha_x_preferred":[
         "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e1a\u0e23\u0e23\u0e1e\u0e15\u0e1e\u0e34\u0e2a\u0e31\u0e22"
@@ -46,6 +61,9 @@
     ],
     "name:unk_x_variant":[
         "Barnbhotbhisai"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0627\u0646\u067e\u06be\u0648\u062a \u067e\u06be\u06cc\u0633\u0627\u0626\u06cc \u0636\u0644\u0639"
     ],
     "name:vie_x_preferred":[
         "Banphot Phisai"
@@ -102,7 +120,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636434,
+    "wof:lastmodified":1563290214,
     "wof:name":"Banphot Phisai",
     "wof:parent_id":890466389,
     "wof:placetype":"locality",

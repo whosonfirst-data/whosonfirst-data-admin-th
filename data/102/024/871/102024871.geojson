@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001187,
-    "geom:area_square_m":14192537.057359,
+    "geom:area_square_m":14192537.057351,
     "geom:bbox":"99.9608004879,14.7459235644,100.108471633,14.8211000657",
     "geom:latitude":14.78704,
     "geom:longitude":100.033484,
@@ -18,6 +18,9 @@
     "mz:is_current":-1,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09b8\u09be\u09ae \u099a\u09c1\u0995"
+    ],
+    "name:ceb_x_preferred":[
+        "Amphoe Sam Chuk"
     ],
     "name:deu_x_preferred":[
         "Amphoe Sam Chuk"
@@ -39,6 +42,12 @@
         "Nang Buaj",
         "Nang Buat",
         "N\u00e5ng B\u00f8ai"
+    ],
+    "name:fra_x_preferred":[
+        "Sam Chuk"
+    ],
+    "name:nan_x_preferred":[
+        "Sam Chuk K\u016bn"
     ],
     "name:ron_x_preferred":[
         "Districtul Sam Chuk"
@@ -104,7 +113,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636446,
+    "wof:lastmodified":1563290281,
     "wof:name":"Sam Chuk",
     "wof:parent_id":890466315,
     "wof:placetype":"locality",

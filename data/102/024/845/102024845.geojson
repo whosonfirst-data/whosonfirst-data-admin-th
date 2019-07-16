@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000263,
+    "geom:area_square_m":3134169.002998,
     "geom:bbox":"100.136570842,15.0683882565,100.155177171,15.0864669535",
     "geom:latitude":15.077428,
     "geom:longitude":100.145874,
@@ -17,6 +18,9 @@
     "mz:is_current":-1,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09b8\u09be\u09a8\u0996\u09be\u09ac\u09c1\u09b0\u09bf"
+    ],
+    "name:ceb_x_preferred":[
+        "Amphoe Sankhaburi"
     ],
     "name:deu_x_preferred":[
         "Amphoe Sankhaburi"
@@ -32,6 +36,12 @@
     ],
     "name:fra_x_preferred":[
         "Amphoe Sankhaburi"
+    ],
+    "name:fra_x_variant":[
+        "Sankhaburi"
+    ],
+    "name:nan_x_preferred":[
+        "Sankhaburi K\u016bn"
     ],
     "name:ron_x_preferred":[
         "Districtul Sankhaburi"
@@ -101,7 +111,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636430,
+    "wof:lastmodified":1563290197,
     "wof:name":"Sankhaburi",
     "wof:parent_id":85678699,
     "wof:placetype":"locality",

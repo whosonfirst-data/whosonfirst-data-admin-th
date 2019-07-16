@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001352,
-    "geom:area_square_m":15840935.032109,
+    "geom:area_square_m":15840935.032119,
     "geom:bbox":"99.4662318861,18.5382866961,99.5291409287,18.8165554994",
     "geom:latitude":18.701052,
     "geom:longitude":99.499445,
@@ -16,11 +16,44 @@
     "mps:longitude":99.511052,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bpy_x_preferred":[
+        "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ae\u09c1\u09af\u09bc\u09c7\u0982 \u09aa\u09be\u09a8"
+    ],
+    "name:ceb_x_preferred":[
+        "Amphoe Mueang Pan"
+    ],
+    "name:deu_x_preferred":[
+        "Amphoe Mueang Pan"
+    ],
+    "name:eng_x_preferred":[
+        "Mueang Pan"
+    ],
+    "name:fra_x_preferred":[
+        "Mueang Pan"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e0\u30a2\u30f3\u30d1\u30fc\u30f3\u90e1"
+    ],
+    "name:nan_x_preferred":[
+        "Mueang Pan K\u016bn"
+    ],
+    "name:ron_x_preferred":[
+        "Districtul Mueang Pan"
+    ],
     "name:tha_x_preferred":[
         "\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e1b\u0e32\u0e19"
     ],
+    "name:tha_x_variant":[
+        "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e1b\u0e32\u0e19"
+    ],
     "name:unk_x_variant":[
         "Muang Pan"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0648\u0626\u0627\u0646\u06af \u067e\u0627\u0646 \u0636\u0644\u0639"
+    ],
+    "name:vie_x_preferred":[
+        "Mueang Pan"
     ],
     "qs:a0":"Thailand",
     "qs:a1":"*Lampang",
@@ -64,7 +97,7 @@
         }
     ],
     "wof:id":102024233,
-    "wof:lastmodified":1527636439,
+    "wof:lastmodified":1563290228,
     "wof:name":"Mueang Pan",
     "wof:parent_id":890465907,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000713,
-    "geom:area_square_m":8457007.052794,
+    "geom:area_square_m":8457007.052785,
     "geom:bbox":"100.521026409,16.4849954871,100.583707647,16.5557327401",
     "geom:latitude":16.516859,
     "geom:longitude":100.55806,
@@ -19,6 +19,9 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09b8\u09be\u0995 \u09b2\u09af\u09bc\u09c7\u0995"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Sak Lek"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Sak Lek"
     ],
@@ -26,6 +29,18 @@
         "Ban Sak Lek"
     ],
     "name:eng_x_variant":[
+        "Sak Lek"
+    ],
+    "name:fra_x_preferred":[
+        "Sak Lek"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30fc\u30af\u30ec\u30c3\u30af\u90e1"
+    ],
+    "name:nan_x_preferred":[
+        "Sak Lek K\u016bn"
+    ],
+    "name:por_x_preferred":[
         "Sak Lek"
     ],
     "name:ron_x_preferred":[
@@ -92,7 +107,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636441,
+    "wof:lastmodified":1563290237,
     "wof:name":"Sak Lek",
     "wof:parent_id":890466725,
     "wof:placetype":"locality",

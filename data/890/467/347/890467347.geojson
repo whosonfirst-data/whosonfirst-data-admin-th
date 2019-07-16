@@ -16,11 +16,36 @@
     "iso:country":"TH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bpy_x_preferred":[
+        "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ae\u09c1\u09af\u09bc\u09c7\u0982 \u09aa\u09be\u09a5\u09c1\u09ae \u09a5\u09be\u09a8\u09bf"
+    ],
+    "name:ceb_x_preferred":[
+        "Amphoe Mueang Pathum Thani"
+    ],
+    "name:deu_x_preferred":[
+        "Amphoe Mueang Pathum Thani"
+    ],
+    "name:eng_x_preferred":[
+        "Mueang Pathum Thani"
+    ],
+    "name:fra_x_preferred":[
+        "Mueang Pathum Thani"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e0\u30a2\u30f3\u30d1\u30c8\u30a5\u30e0\u30bf\u30fc\u30cb\u30fc\u90e1"
+    ],
+    "name:ron_x_preferred":[
+        "Districtul Mueang Pathum Thani"
+    ],
     "name:tha_x_preferred":[
         "Ban Suan Phrik Thai"
     ],
     "name:tha_x_variant":[
-        "\u0e1a\u0e49\u0e32\u0e19\u0e2a\u0e27\u0e19\u0e1e\u0e23\u0e34\u0e01\u0e44\u0e17\u0e22"
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2a\u0e27\u0e19\u0e1e\u0e23\u0e34\u0e01\u0e44\u0e17\u0e22",
+        "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e1b\u0e17\u0e38\u0e21\u0e18\u0e32\u0e19\u0e35"
+    ],
+    "name:vie_x_preferred":[
+        "Mueang Pathum Thani"
     ],
     "qs:name":"Suan Phrik Thai",
     "qs:name_adm0":"Thailand",
@@ -60,7 +85,7 @@
         }
     ],
     "wof:id":890467347,
-    "wof:lastmodified":1527792897,
+    "wof:lastmodified":1563298311,
     "wof:name":"Suan Phrik Thai",
     "wof:parent_id":85678725,
     "wof:placetype":"locality",

@@ -49,6 +49,9 @@
     "name:bul_x_preferred":[
         "\u041d\u0430\u043a\u043e\u043d \u0441\u0438 \u0422\u0430\u043c\u043c\u0430\u0440\u0430\u0442"
     ],
+    "name:ceb_x_preferred":[
+        "Changwat Nakhon Si Thammarat"
+    ],
     "name:dan_x_preferred":[
         "Nakhon Si Thammarat"
     ],
@@ -82,11 +85,17 @@
     "name:glg_x_preferred":[
         "Provincia de Nakhon Si Thammarat"
     ],
+    "name:glg_x_variant":[
+        "Provincia Nakhon Si Thammarat"
+    ],
     "name:guj_x_preferred":[
         "\u0aa8\u0abe\u0a96\u0acb\u0aa8\u0a82 \u0ab8\u0ac0 \u0aa5\u0aae\u0abe\u0ab0\u0aa4"
     ],
     "name:hin_x_preferred":[
         "\u0928\u0916\u094b\u0928 \u0938\u0940 \u0925\u092e\u094d\u092e\u093e\u0930\u093e\u0924 \u092a\u094d\u0930\u093e\u0928\u094d\u0924"
+    ],
+    "name:hun_x_preferred":[
+        "Nakhonszithammarat tartom\u00e1ny"
     ],
     "name:ind_x_preferred":[
         "Provinsi Nakhon Si Thammarat"
@@ -102,6 +111,9 @@
     ],
     "name:kor_x_preferred":[
         "\ub098\ucf58\uc2dc\ud0d0\ub9c8\ub78f \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ub098\ucf58\uc2dc\ud0d0\ub9c8\ub78f\uc8fc"
     ],
     "name:lao_x_preferred":[
         "\u0e88\u0eb1\u0e87\u0eab\u0ea7\u0eb1\u0e94\u0e99\u0eb0\u0e84\u0ead\u0e99\u0eaa\u0eb5\u0e97\u0eb3\u0ea1\u0eb0\u0ea5\u0eb2\u0e94"
@@ -172,6 +184,9 @@
     "name:swe_x_preferred":[
         "Nakhon Si Thammarat"
     ],
+    "name:swe_x_variant":[
+        "Provins Nakhon Si Thammarat"
+    ],
     "name:tam_x_preferred":[
         "\u0ba8\u0b95\u0bcd\u0bb9\u0bcb\u0ba9\u0bcd  \u0b9a\u0bbf  \u0ba4\u0bae\u0bcd\u0bae\u0bb0\u0bc6\u0b9f\u0bcd"
     ],
@@ -205,11 +220,17 @@
     "name:war_x_preferred":[
         "Nakhon Si Thammarat"
     ],
+    "name:yue_x_preferred":[
+        "\u6d1b\u5764\u5e9c"
+    ],
     "name:zho_min_nan_x_preferred":[
         "Nakhon Si Thammarat H\u00fa"
     ],
     "name:zho_x_preferred":[
         "\u6d1b\u5764\u5e9c"
+    ],
+    "name:zho_x_variant":[
+        "\u90a3\u7a7a\u662f\u8caa\u746a\u53fb\u5e9c"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"THA",
@@ -334,7 +355,7 @@
     "wof:lang_x_spoken":[
         "tha"
     ],
-    "wof:lastmodified":1561758449,
+    "wof:lastmodified":1563291789,
     "wof:name":"Nakhon Si Thammarat",
     "wof:parent_id":85632293,
     "wof:placetype":"region",

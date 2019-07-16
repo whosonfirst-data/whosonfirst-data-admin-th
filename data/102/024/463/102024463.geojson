@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001089,
+    "geom:area_square_m":13110462.881236,
     "geom:bbox":"99.9608641731,13.2051864545,100.001293942,13.2650275708",
     "geom:latitude":13.229256,
     "geom:longitude":99.981291,
@@ -18,6 +19,9 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ac\u09be\u09a8 \u09b2\u09be\u09af\u09bc\u09af\u09bc\u09c7\u09ae"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Ban Laem"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Ban Laem"
     ],
@@ -27,6 +31,12 @@
     "name:eng_x_variant":[
         "Banhlem",
         "Laem"
+    ],
+    "name:fra_x_preferred":[
+        "Ban Laem"
+    ],
+    "name:nan_x_preferred":[
+        "Ban Laem K\u016bn"
     ],
     "name:ron_x_preferred":[
         "Districtul Ban Laem"
@@ -90,7 +100,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636435,
+    "wof:lastmodified":1563290216,
     "wof:name":"Ban Laem",
     "wof:parent_id":85678753,
     "wof:placetype":"locality",

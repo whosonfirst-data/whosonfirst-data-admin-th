@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000261,
+    "geom:area_square_m":3128759.279582,
     "geom:bbox":"101.762598268,14.0689418338,101.781102827,14.0870044276",
     "geom:latitude":14.077973,
     "geom:longitude":101.771851,
@@ -16,6 +17,28 @@
     "mps:latitude":14.077973,
     "mps:longitude":101.771851,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bpy_x_preferred":[
+        "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09a8\u09be \u09a6\u09bf"
+    ],
+    "name:ceb_x_preferred":[
+        "Amphoe Na Di"
+    ],
+    "name:deu_x_preferred":[
+        "Amphoe Na Di"
+    ],
+    "name:eng_x_preferred":[
+        "Na Di"
+    ],
+    "name:fra_x_preferred":[
+        "Na Di"
+    ],
+    "name:nan_x_preferred":[
+        "Na Di K\u016bn"
+    ],
+    "name:ron_x_preferred":[
+        "Districtul Na Di"
+    ],
     "name:tha_x_preferred":[
         "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e19\u0e32\u0e14\u0e35"
     ],
@@ -24,6 +47,9 @@
     ],
     "name:unk_x_variant":[
         "King Amphoe Na Di"
+    ],
+    "name:vie_x_preferred":[
+        "Na Di"
     ],
     "qs:a1":"*",
     "qs:a1r":"*",
@@ -61,7 +87,7 @@
         }
     ],
     "wof:id":102025893,
-    "wof:lastmodified":1501273221,
+    "wof:lastmodified":1563290374,
     "wof:name":"Amphoe Na Di",
     "wof:parent_id":85678711,
     "wof:placetype":"locality",

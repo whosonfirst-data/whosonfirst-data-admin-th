@@ -47,6 +47,9 @@
     "name:bul_x_preferred":[
         "\u041d\u0430\u0440\u0430\u0442\u0445\u0438\u0443\u0430\u0442"
     ],
+    "name:ceb_x_preferred":[
+        "Changwat Narathiwat"
+    ],
     "name:dan_x_preferred":[
         "Narathiwat"
     ],
@@ -98,6 +101,9 @@
     "name:kor_x_preferred":[
         "\ub098\ub77c\ud2f0\uc653 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\ub098\ub77c\ud2f0\uc653\uc8fc"
+    ],
     "name:lao_x_preferred":[
         "\u0e88\u0eb1\u0e87\u0eab\u0ea7\u0eb1\u0e94\u0e99\u0eb0\u0ea5\u0eb2\u0e97\u0eb4\u0ea7\u0eb2\u0e94"
     ],
@@ -109,6 +115,9 @@
     ],
     "name:lrc_x_preferred":[
         "\u0646\u0627\u0631\u0627\u062a\u06cc\u0648\u0627\u062a"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d28\u0d3e\u0d30\u0d24\u0d3f\u0d35\u0d3e\u0d1f\u0d4d\u0d1f\u0d4d \u0d2a\u0d4d\u0d30\u0d35\u0d3f\u0d36\u0d4d\u0d2f"
     ],
     "name:mar_x_preferred":[
         "\u0928\u093e\u0930\u0925\u0940\u0935\u093e\u091f"
@@ -188,8 +197,14 @@
     "name:war_x_preferred":[
         "Narathiwat"
     ],
+    "name:yue_x_preferred":[
+        "\u9676\u516c\u5e9c"
+    ],
     "name:zho_x_preferred":[
         "\u9676\u516c\u5e9c"
+    ],
+    "name:zho_x_variant":[
+        "\u90a3\u62c9\u63d0\u74e6\u5e9c"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"THA",
@@ -314,7 +329,7 @@
     "wof:lang_x_spoken":[
         "tha"
     ],
-    "wof:lastmodified":1561758455,
+    "wof:lastmodified":1563291816,
     "wof:name":"Narathiwat",
     "wof:parent_id":85632293,
     "wof:placetype":"region",

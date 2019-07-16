@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001532,
-    "geom:area_square_m":17830401.730101,
+    "geom:area_square_m":17830401.73009,
     "geom:bbox":"100.070415354,19.6697625609,100.166400767,19.7292065352",
     "geom:latitude":19.700046,
     "geom:longitude":100.122416,
@@ -19,11 +19,23 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09a5\u09cb\u09af\u09bc\u09c7\u0982"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Thoeng"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Thoeng"
     ],
+    "name:eng_x_preferred":[
+        "Thoeng"
+    ],
+    "name:fra_x_preferred":[
+        "Thoeng"
+    ],
     "name:jpn_x_preferred":[
         "\u30c8\u30a5\u30fc\u30f3\u90e1"
+    ],
+    "name:nan_x_preferred":[
+        "Thoeng K\u016bn"
     ],
     "name:ron_x_preferred":[
         "Districtul Thoeng"
@@ -39,6 +51,9 @@
     ],
     "name:unk_x_variant":[
         "Ban Nai Wiang"
+    ],
+    "name:urd_x_preferred":[
+        "\u062a\u06be\u0648\u0626\u0646\u06af \u0636\u0644\u0639"
     ],
     "name:vie_x_preferred":[
         "Thoeng"
@@ -91,7 +106,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527636447,
+    "wof:lastmodified":1563290286,
     "wof:name":"Thoeng",
     "wof:parent_id":890466587,
     "wof:placetype":"locality",

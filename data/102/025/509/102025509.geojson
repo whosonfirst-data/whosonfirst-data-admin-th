@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000631,
+    "geom:area_square_m":7421855.957481,
     "geom:bbox":"104.036577598,17.9435689333,104.066449249,17.9720949152",
     "geom:latitude":17.95627,
     "geom:longitude":104.04988,
@@ -17,8 +18,20 @@
     "mps:longitude":104.048103,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Bueng Khong Long"
+    ],
+    "name:eng_x_preferred":[
+        "Bueng Khong Long"
+    ],
+    "name:fra_x_preferred":[
+        "Bueng Khong Long"
+    ],
     "name:tha_x_preferred":[
         "\u0e1a\u0e36\u0e07\u0e42\u0e02\u0e07\u0e2b\u0e25\u0e07"
+    ],
+    "name:tha_x_variant":[
+        "\u0e15\u0e33\u0e1a\u0e25\u0e1a\u0e36\u0e07\u0e42\u0e02\u0e07\u0e2b\u0e25\u0e07"
     ],
     "name:unk_x_variant":[
         "\u0e1a\u0e36\u0e07\u0e42\u0e02\u0e07\u0e2b\u0e25\u0e07"
@@ -62,7 +75,7 @@
         }
     ],
     "wof:id":102025509,
-    "wof:lastmodified":1527636686,
+    "wof:lastmodified":1563290408,
     "wof:name":"Bueng Khong Long",
     "wof:parent_id":85678895,
     "wof:placetype":"locality",

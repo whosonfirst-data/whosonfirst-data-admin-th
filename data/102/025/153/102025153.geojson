@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001681,
-    "geom:area_square_m":20648921.844661,
+    "geom:area_square_m":20648921.844671,
     "geom:bbox":"100.672412481,6.59554520417,100.715221486,6.75821097547",
     "geom:latitude":6.712259,
     "geom:longitude":100.690872,
@@ -21,6 +21,9 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09a8\u09be \u09a5\u09be\u09f1\u09bf"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Na Thawi"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Na Thawi"
     ],
@@ -29,7 +32,11 @@
     ],
     "name:eng_x_variant":[
         "Ban Chana",
-        "Jana"
+        "Jana",
+        "Na Thawi"
+    ],
+    "name:fra_x_preferred":[
+        "Na Thawi"
     ],
     "name:jpn_x_preferred":[
         "\u30ca\u30fc\u30bf\u30a6\u30a3\u30fc\u90e1"
@@ -39,6 +46,9 @@
     ],
     "name:mya_x_preferred":[
         "Nawi"
+    ],
+    "name:nan_x_preferred":[
+        "Na Thawi K\u016bn"
     ],
     "name:por_x_preferred":[
         "Na Thawi"
@@ -107,7 +117,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636685,
+    "wof:lastmodified":1563290397,
     "wof:name":"Na Thawi",
     "wof:parent_id":890467431,
     "wof:placetype":"locality",

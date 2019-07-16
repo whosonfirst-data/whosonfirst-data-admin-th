@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004883,
-    "geom:area_square_m":57197254.669405,
+    "geom:area_square_m":57197254.669281,
     "geom:bbox":"98.8399987493,18.6007692718,98.9807577756,18.7853537651",
     "geom:latitude":18.675928,
     "geom:longitude":98.926941,
@@ -21,7 +21,11 @@
         "Hang Dong"
     ],
     "name:eng_x_variant":[
-        "Ban Hang Dong"
+        "Ban Hang Dong",
+        "Hang-dong"
+    ],
+    "name:kor_x_preferred":[
+        "\ud56d\ub3d9"
     ],
     "name:msa_x_preferred":[
         "Hang-dong"
@@ -88,7 +92,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636442,
+    "wof:lastmodified":1563290253,
     "wof:name":"Hang Dong",
     "wof:parent_id":1108802611,
     "wof:placetype":"locality",

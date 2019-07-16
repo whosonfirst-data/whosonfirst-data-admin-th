@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000265,
+    "geom:area_square_m":3133079.573656,
     "geom:bbox":"103.707029479,17.1684938051,103.725831887,17.1865680248",
     "geom:latitude":17.177531,
     "geom:longitude":103.716431,
@@ -20,6 +21,9 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09a8\u09bf\u0996\u09cb\u09ae \u09a8\u09be\u09ae \u0989\u09a8"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Nikhom Nam Un"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Nikhom Nam Un"
     ],
@@ -28,6 +32,12 @@
     ],
     "name:eng_x_variant":[
         "Nikhom Nam Oon"
+    ],
+    "name:fra_x_preferred":[
+        "Nikhom Nam Un"
+    ],
+    "name:nan_x_preferred":[
+        "Nikhom Nam Un K\u016bn"
     ],
     "name:ron_x_preferred":[
         "Districtul Nikhom Nam Un"
@@ -91,7 +101,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636689,
+    "wof:lastmodified":1563290456,
     "wof:name":"Nikhom Nam Un",
     "wof:parent_id":85678863,
     "wof:placetype":"locality",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000788,
+    "geom:area_square_m":9401869.204225,
     "geom:bbox":"103.729095943,15.1638400484,103.846587562,15.2455286503",
     "geom:latitude":15.19762,
     "geom:longitude":103.775023,
@@ -18,6 +19,9 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09b8\u09be\u09a8\u09cb\u09ae"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Sanom"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Sanom"
     ],
@@ -28,6 +32,12 @@
         "Ban Sanam",
         "Ban Sanom",
         "Sanam"
+    ],
+    "name:fra_x_preferred":[
+        "Sanom"
+    ],
+    "name:nan_x_preferred":[
+        "Sanom K\u016bn"
     ],
     "name:ron_x_preferred":[
         "Districtul Sanom"
@@ -91,7 +101,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636433,
+    "wof:lastmodified":1563290208,
     "wof:name":"Sanom",
     "wof:parent_id":85678849,
     "wof:placetype":"locality",

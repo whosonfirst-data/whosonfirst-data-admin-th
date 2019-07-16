@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001057,
-    "geom:area_square_m":12537378.431772,
+    "geom:area_square_m":12537378.431766,
     "geom:bbox":"104.322296296,16.4533873085,104.373991834,16.4925369492",
     "geom:latitude":16.476361,
     "geom:longitude":104.349706,
@@ -21,11 +21,23 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09a8\u09cb\u0982 \u09b8\u09c1\u0982"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Nong Sung"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Nong Sung"
     ],
     "name:eng_x_preferred":[
         "Nong Sung Tai"
+    ],
+    "name:eng_x_variant":[
+        "Nong Sung"
+    ],
+    "name:fra_x_preferred":[
+        "Nong Sung"
+    ],
+    "name:nan_x_preferred":[
+        "Nong Sung K\u016bn"
     ],
     "name:ron_x_preferred":[
         "Districtul Nong Sung"
@@ -38,6 +50,9 @@
     ],
     "name:unk_x_variant":[
         "Ban Nong Sung"
+    ],
+    "name:urd_x_preferred":[
+        "\u0646\u0648\u0646\u06af \u0633\u0648\u0646\u06af \u0636\u0644\u0639"
     ],
     "name:vie_x_preferred":[
         "Nong Sung"
@@ -91,7 +106,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636686,
+    "wof:lastmodified":1563290410,
     "wof:name":"Nong Sung",
     "wof:parent_id":1108802707,
     "wof:placetype":"locality",

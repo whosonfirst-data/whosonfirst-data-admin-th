@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000632,
+    "geom:area_square_m":7548981.601762,
     "geom:bbox":"100.356308704,14.8030211988,100.374892429,14.8423402238",
     "geom:latitude":14.822681,
     "geom:longitude":100.365601,
@@ -26,8 +27,14 @@
     "name:eng_x_preferred":[
         "Khai Bang Rachan"
     ],
+    "name:fra_x_preferred":[
+        "Khai Bang Rachan"
+    ],
     "name:jpn_x_preferred":[
         "\u30ab\u30fc\u30a4\u30d0\u30fc\u30f3\u30e9\u30c1\u30e3\u30f3\u90e1"
+    ],
+    "name:nan_x_preferred":[
+        "Khai Bang Rachan K\u016bn"
     ],
     "name:ron_x_preferred":[
         "Districtul Khai Bang Rachan"
@@ -89,7 +96,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636685,
+    "wof:lastmodified":1563290399,
     "wof:name":"Khai Bang Rachan",
     "wof:parent_id":85678729,
     "wof:placetype":"locality",

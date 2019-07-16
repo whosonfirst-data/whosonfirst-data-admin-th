@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001817,
-    "geom:area_square_m":21645765.789759,
+    "geom:area_square_m":21645765.789726,
     "geom:bbox":"103.157795799,15.4817026116,103.220378782,15.5632887252",
     "geom:latitude":15.517643,
     "geom:longitude":103.188961,
@@ -22,8 +22,20 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ab\u09be\u09af\u09bc\u09be\u0995\u0996\u09be\u09ab\u09c1\u09ae \u09ab\u09bf\u09b8\u09be\u0987"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Phayakkhaphum Phisai"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Phayakkhaphum Phisai"
+    ],
+    "name:eng_x_preferred":[
+        "Phayakkhaphum Phisai"
+    ],
+    "name:fra_x_preferred":[
+        "Phayakkhaphum Phisai"
+    ],
+    "name:nan_x_preferred":[
+        "Phayakkhaphum Phisai K\u016bn"
     ],
     "name:ron_x_preferred":[
         "Districtul Phayakkhaphum Phisai"
@@ -34,8 +46,14 @@
     "name:tha_x_variant":[
         "\u0e1e\u0e22\u0e31\u0e04\u0e06\u0e20\u0e39\u0e21\u0e34\u0e1e\u0e34\u0e2a\u0e31\u0e22"
     ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0445\u0430\u044f\u043a\u0445\u0430\u043f\u0445\u0442\u0443\u043c \u041f\u0445\u0456\u0441\u0430\u0457"
+    ],
     "name:unk_x_variant":[
         "Amphoe Phayakkhaphum Phisai"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u06be\u0627\u06cc\u0627\u06a9\u06a9\u06be\u0627\u067e\u06be\u0648\u0645 \u067e\u06be\u06cc\u0633\u0627\u0626\u06cc \u0636\u0644\u0639"
     ],
     "name:vie_x_preferred":[
         "Phayakkhaphum Phisai"
@@ -84,7 +102,7 @@
         }
     ],
     "wof:id":102025025,
-    "wof:lastmodified":1527636682,
+    "wof:lastmodified":1563290357,
     "wof:name":"Phayakkhaphum Phisai",
     "wof:parent_id":85678835,
     "wof:placetype":"locality",

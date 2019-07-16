@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000416,
+    "geom:area_square_m":4911470.850792,
     "geom:bbox":"99.1037417423,17.4385729516,99.1308162224,17.4592713469",
     "geom:latitude":17.448922,
     "geom:longitude":99.117279,
@@ -17,6 +18,9 @@
     "mz:is_current":-1,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ae\u09be\u09af\u09bc\u09c7 \u09ab\u09b0\u09bf\u0995"
+    ],
+    "name:ceb_x_preferred":[
+        "Amphoe Mae Phrik"
     ],
     "name:deu_x_preferred":[
         "Amphoe Mae Phrik"
@@ -36,6 +40,12 @@
         "B\u00e5n Mea Phlik",
         "Mae Phlik",
         "M\u0113bhlik"
+    ],
+    "name:fra_x_preferred":[
+        "Mae Phrik"
+    ],
+    "name:nan_x_preferred":[
+        "Mae Phrik K\u016bn"
     ],
     "name:ron_x_preferred":[
         "Districtul Mae Phrik"
@@ -102,7 +112,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636438,
+    "wof:lastmodified":1563290223,
     "wof:name":"Mae Phrik",
     "wof:parent_id":85678625,
     "wof:placetype":"locality",

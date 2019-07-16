@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000258,
+    "geom:area_square_m":3136869.329409,
     "geom:bbox":"99.1369902003,10.1166647582,99.155246124,10.1347537106",
     "geom:latitude":10.125709,
     "geom:longitude":99.146118,
@@ -18,6 +19,9 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09a5\u09c1\u0982 \u09a4\u09be\u0995\u09cb"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Thung Tako"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Thung Tako"
     ],
@@ -26,6 +30,15 @@
     ],
     "name:fra_x_preferred":[
         "Amphoe Thung Tako"
+    ],
+    "name:fra_x_variant":[
+        "Thung Tako"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c8\u30a5\u30f3\u30bf\u30b3\u30fc\u90e1"
+    ],
+    "name:nan_x_preferred":[
+        "Thung Tako K\u016bn"
     ],
     "name:ron_x_preferred":[
         "Districtul Thung Tako"
@@ -38,6 +51,9 @@
     ],
     "name:unk_x_variant":[
         "\u0e17\u0e38\u0e48\u0e07\u0e15\u0e30\u0e42\u0e01"
+    ],
+    "name:urd_x_preferred":[
+        "\u062a\u06be\u0648\u0646\u06af \u062a\u0627\u06a9\u0648 \u0636\u0644\u0639"
     ],
     "name:vie_x_preferred":[
         "Thung Tako"
@@ -92,7 +108,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636449,
+    "wof:lastmodified":1563290305,
     "wof:name":"Thung Tako",
     "wof:parent_id":85678559,
     "wof:placetype":"locality",

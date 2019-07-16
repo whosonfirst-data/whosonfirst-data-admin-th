@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001322,
-    "geom:area_square_m":15575861.403816,
+    "geom:area_square_m":15637196.063807,
     "geom:bbox":"99.9607015748,16.9374312999,100.034416993,16.9975400921",
     "geom:latitude":16.966465,
     "geom:longitude":99.997062,
@@ -20,6 +20,9 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u0995\u09cb\u0982 \u0995\u09cd\u09b0\u09be\u0987\u09b2\u09af\u09bc\u09be\u09a4"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Kong Krailat"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Kong Krailat"
     ],
@@ -31,6 +34,12 @@
         "Ban Krai",
         "Ban Krong",
         "Krai"
+    ],
+    "name:fra_x_preferred":[
+        "Kong Krailat"
+    ],
+    "name:nan_x_preferred":[
+        "Kong Krailat K\u016bn"
     ],
     "name:ron_x_preferred":[
         "Districtul Kong Krailat"
@@ -106,7 +115,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636449,
+    "wof:lastmodified":1563290307,
     "wof:name":"Kong Krailat",
     "wof:parent_id":85678651,
     "wof:placetype":"locality",

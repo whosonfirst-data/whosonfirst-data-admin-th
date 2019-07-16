@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001583,
+    "geom:area_square_m":19442852.531999,
     "geom:bbox":"101.639219225,6.46730196301,101.679261212,6.54813886608",
     "geom:latitude":6.510681,
     "geom:longitude":101.658693,
@@ -16,6 +17,13 @@
     "mps:latitude":6.51727,
     "mps:longitude":101.652262,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bpy_x_preferred":[
+        "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ac\u09be\u099a\u09cb"
+    ],
+    "name:deu_x_preferred":[
+        "Amphoe Bacho"
+    ],
     "name:eng_x_colloquial":[
         "Ban Ba Jaao",
         "Ban Ba Jao"
@@ -34,6 +42,21 @@
         "Barchoh",
         "Bacho District"
     ],
+    "name:fra_x_preferred":[
+        "Bacho"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30fc\u30c1\u30e7\u90e1"
+    ],
+    "name:nan_x_preferred":[
+        "Bacho K\u016bn"
+    ],
+    "name:por_x_preferred":[
+        "Bacho"
+    ],
+    "name:ron_x_preferred":[
+        "Districtul Bacho"
+    ],
     "name:tha_x_preferred":[
         "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e1a\u0e32\u0e40\u0e08\u0e32\u0e30"
     ],
@@ -42,6 +65,15 @@
     ],
     "name:unk_x_variant":[
         "Ba Re Nua"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0627\u0686\u0648 \u0636\u0644\u0639"
+    ],
+    "name:vie_x_preferred":[
+        "Bacho"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u57ce\u53bf"
     ],
     "qs:a0":"Thailand",
     "qs:a1":"*Narathiwat",
@@ -87,7 +119,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1501221074,
+    "wof:lastmodified":1563290409,
     "wof:name":"Bacho",
     "wof:parent_id":85678885,
     "wof:placetype":"locality",

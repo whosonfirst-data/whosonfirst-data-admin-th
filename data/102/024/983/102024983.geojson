@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001539,
-    "geom:area_square_m":18407592.885453,
+    "geom:area_square_m":18407592.885473,
     "geom:bbox":"100.378288207,14.6521019533,100.418831703,14.7042335991",
     "geom:latitude":14.678455,
     "geom:longitude":100.399656,
@@ -20,6 +20,9 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ab\u09cb \u09a5\u09cb\u0982"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Pho Thong"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Pho Thong"
     ],
@@ -30,6 +33,12 @@
         "Ban Khlong Sarai",
         "Bho Dhohng",
         "Khlaung Sarai"
+    ],
+    "name:fra_x_preferred":[
+        "Pho Thong"
+    ],
+    "name:nan_x_preferred":[
+        "Pho Thong K\u016bn"
     ],
     "name:ron_x_preferred":[
         "Districtul Pho Thong"
@@ -42,6 +51,9 @@
     ],
     "name:unk_x_variant":[
         "Khlaung Sarai"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u06be\u0648 \u062a\u06be\u0648\u0646\u06af \u0636\u0644\u0639"
     ],
     "name:vie_x_preferred":[
         "Pho Thong"
@@ -96,7 +108,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636440,
+    "wof:lastmodified":1563290230,
     "wof:name":"Pho Thong",
     "wof:parent_id":1108802723,
     "wof:placetype":"locality",

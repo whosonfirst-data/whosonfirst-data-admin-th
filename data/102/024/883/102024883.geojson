@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000255,
-    "geom:area_square_m":3131231.565625,
+    "geom:area_square_m":3131231.565606,
     "geom:bbox":"101.587031468,6.63920237371,101.605107138,6.6572758755",
     "geom:latitude":6.648239,
     "geom:longitude":101.596069,
@@ -20,6 +20,9 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09b8\u09be\u0987 \u09ac\u09c1\u09b0\u09bf"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Sai Buri"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Sai Buri"
     ],
@@ -28,6 +31,18 @@
     ],
     "name:eng_x_variant":[
         "Telupin"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0633\u0627\u06cc \u0628\u0648\u0631\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Sai Buri"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30fc\u30a4\u30d6\u30ea\u30fc\u90e1"
+    ],
+    "name:nan_x_preferred":[
+        "Sai Buri K\u016bn"
     ],
     "name:por_x_preferred":[
         "Sai Buri"
@@ -100,7 +115,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636445,
+    "wof:lastmodified":1563290275,
     "wof:name":"Sai Buri",
     "wof:parent_id":85678889,
     "wof:placetype":"locality",

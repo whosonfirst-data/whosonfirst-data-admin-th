@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001926,
+    "geom:area_square_m":23285700.715858,
     "geom:bbox":"102.355930376,11.9711844094,102.40725206,12.1718894782",
     "geom:latitude":12.089232,
     "geom:longitude":102.377095,
@@ -15,8 +16,29 @@
     "mps:longitude":102.376013,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Amphoe Ko Chang"
+    ],
+    "name:eng_x_preferred":[
+        "Ko Chang"
+    ],
+    "name:fra_x_preferred":[
+        "Ko Chang"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d5 \u05e6'\u05d0\u05e0\u05d2"
+    ],
+    "name:nan_x_preferred":[
+        "Ko Chang K\u016bn"
+    ],
+    "name:ron_x_preferred":[
+        "Districtul Ko Chang"
+    ],
     "name:tha_x_preferred":[
         "\u0e40\u0e01\u0e32\u0e30\u0e0a\u0e49\u0e32\u0e07"
+    ],
+    "name:tha_x_variant":[
+        "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e40\u0e01\u0e32\u0e30\u0e0a\u0e49\u0e32\u0e07"
     ],
     "name:unk_x_variant":[
         "Saddle Island"
@@ -52,7 +74,7 @@
         }
     ],
     "wof:id":102024389,
-    "wof:lastmodified":1527636450,
+    "wof:lastmodified":1563290314,
     "wof:name":"Ko Chang",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

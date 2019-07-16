@@ -39,21 +39,48 @@
     "mps:longitude":104.920921,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bpy_x_preferred":[
+        "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09a6\u09cb\u09a8 \u09ae\u09cb\u09a4 \u09a6\u09be\u09af\u09bc\u09c7\u0982"
+    ],
+    "name:ceb_x_preferred":[
+        "Amphoe Don Mot Daeng"
+    ],
+    "name:deu_x_preferred":[
+        "Amphoe Don Mot Daeng"
+    ],
     "name:eng_x_preferred":[
         "Thung Si Udom"
     ],
     "name:eng_x_variant":[
-        "Don Mot Daeng",
-        "Thung Si Udom"
+        "Don Mot Daeng"
+    ],
+    "name:fra_x_preferred":[
+        "Don Mot Daeng"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c9\u30fc\u30f3\u30e2\u30c3\u30c8\u30c7\u30fc\u30f3\u90e1"
+    ],
+    "name:nan_x_preferred":[
+        "Don Mot Daeng K\u016bn"
+    ],
+    "name:ron_x_preferred":[
+        "Districtul Don Mot Daeng"
     ],
     "name:tha_x_preferred":[
         "\u0e14\u0e2d\u0e19\u0e21\u0e14\u0e41\u0e14\u0e07"
     ],
     "name:tha_x_variant":[
-        "\u0e01\u0e34\u0e48\u0e07\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e14\u0e2d\u0e19\u0e21\u0e14\u0e41\u0e14\u0e07"
+        "\u0e01\u0e34\u0e48\u0e07\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e14\u0e2d\u0e19\u0e21\u0e14\u0e41\u0e14\u0e07",
+        "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e14\u0e2d\u0e19\u0e21\u0e14\u0e41\u0e14\u0e07"
     ],
     "name:unk_x_variant":[
         "King Amphoe Don Mot Daeng"
+    ],
+    "name:vie_x_preferred":[
+        "Don Mot Daeng"
+    ],
+    "name:zho_x_preferred":[
+        "\u6771\u83ab\u767b\u7e23"
     ],
     "qs:name":"Don Mot Daeng",
     "qs:name_adm0":"Thailand",
@@ -108,7 +135,7 @@
         }
     ],
     "wof:id":890467043,
-    "wof:lastmodified":1554489107,
+    "wof:lastmodified":1563298324,
     "wof:name":"Don Mot Daeng",
     "wof:parent_id":85678783,
     "wof:placetype":"county",

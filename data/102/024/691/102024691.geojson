@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000264,
+    "geom:area_square_m":3133592.650148,
     "geom:bbox":"103.740043488,16.0314959419,103.758735844,16.0495723665",
     "geom:latitude":16.040534,
     "geom:longitude":103.74939,
@@ -17,6 +18,9 @@
     "mz:is_current":-1,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09a5\u09be\u09f1\u09be\u09a4 \u09ac\u09c1\u09b0\u09bf"
+    ],
+    "name:ceb_x_preferred":[
+        "Amphoe Thawatchaburi"
     ],
     "name:deu_x_preferred":[
         "Amphoe Thawat Buri"
@@ -31,6 +35,12 @@
         "Phonthaung",
         "Thawat Buri",
         "Thawatburi"
+    ],
+    "name:fra_x_preferred":[
+        "Thawat Buri"
+    ],
+    "name:nan_x_preferred":[
+        "Thawat Buri K\u016bn"
     ],
     "name:ron_x_preferred":[
         "Districtul Thawat Buri"
@@ -94,7 +104,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636448,
+    "wof:lastmodified":1563290298,
     "wof:name":"Thawat Buri",
     "wof:parent_id":85678845,
     "wof:placetype":"locality",

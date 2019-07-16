@@ -38,6 +38,9 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u0996\u09b2\u09cb\u0982 \u09b2\u09be\u09a8"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Khlong Lan"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Khlong Lan"
     ],
@@ -45,7 +48,6 @@
         "Khlong Lan"
     ],
     "name:eng_x_variant":[
-        "Khlong Lan",
         "Klong Lan"
     ],
     "name:fra_x_preferred":[
@@ -59,6 +61,12 @@
     ],
     "name:tha_x_preferred":[
         "\u0e04\u0e25\u0e2d\u0e07\u0e25\u0e32\u0e19"
+    ],
+    "name:tha_x_variant":[
+        "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e04\u0e25\u0e2d\u0e07\u0e25\u0e32\u0e19"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u06be\u0644\u0648\u0646\u06af \u0644\u0627\u0646 \u0636\u0644\u0639"
     ],
     "name:vie_x_preferred":[
         "Khlong Lan"
@@ -99,7 +107,7 @@
         }
     ],
     "wof:id":1108731381,
-    "wof:lastmodified":1561758754,
+    "wof:lastmodified":1563296533,
     "wof:name":"Khlong Lan",
     "wof:parent_id":85678665,
     "wof:placetype":"county",

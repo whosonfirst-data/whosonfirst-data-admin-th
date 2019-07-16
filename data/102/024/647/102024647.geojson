@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000451,
+    "geom:area_square_m":5331328.569853,
     "geom:bbox":"103.421397682,16.9374333585,103.451161008,16.9555058278",
     "geom:latitude":16.94647,
     "geom:longitude":103.436279,
@@ -18,8 +19,23 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09f1\u09be\u0982 \u09b8\u09be\u09ae \u09ae\u09cb"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Wang Sam Mo"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Wang Sam Mo"
+    ],
+    "name:eng_x_preferred":[
+        "Wang Sam Mo"
+    ],
+    "name:fra_x_preferred":[
+        "Wang Sam Mo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ef\u30f3\u30b5\u30fc\u30e0\u30e2\u30fc\u90e1"
+    ],
+    "name:nan_x_preferred":[
+        "Wang Sam Mo K\u016bn"
     ],
     "name:ron_x_preferred":[
         "Districtul Wang Sam Mo"
@@ -86,7 +102,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527636446,
+    "wof:lastmodified":1563290278,
     "wof:name":"Wang Sam Mo",
     "wof:parent_id":85678869,
     "wof:placetype":"locality",

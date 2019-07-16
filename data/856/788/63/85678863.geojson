@@ -50,6 +50,9 @@
     "name:bul_x_preferred":[
         "\u0421\u0430\u043a\u043e\u043d \u041d\u0430\u043a\u043e\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Changwat Sakon Nakhon"
+    ],
     "name:dan_x_preferred":[
         "Sakon Nakhon"
     ],
@@ -80,6 +83,9 @@
     "name:guj_x_preferred":[
         "\u0ab8\u0abe\u0a95\u0acb\u0aa8 \u0aa8\u0abe\u0a96\u0acb\u0aa8"
     ],
+    "name:hak_x_preferred":[
+        "Sakon Nakhon F\u00fa"
+    ],
     "name:hin_x_preferred":[
         "\u0938\u0915\u094b\u0928 \u0928\u0916\u094b\u0928 \u092a\u094d\u0930\u093e\u0928\u094d\u0924"
     ],
@@ -97,6 +103,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc0ac\uaf30\ub098\ucf58 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc0ac\uaf30\ub098\ucf58\uc8fc"
     ],
     "name:lao_x_preferred":[
         "\u0e88\u0eb1\u0e87\u0eab\u0ea7\u0eb1\u0e94\u0eaa\u0eb0\u0e81\u0ebb\u0e99\u0e99\u0eb0\u0e84\u0ead\u0e99"
@@ -185,8 +194,14 @@
     "name:war_x_preferred":[
         "Sakon Nakhon"
     ],
+    "name:yue_x_preferred":[
+        "\u8272\u8ecd\u5e9c"
+    ],
     "name:zho_x_preferred":[
         "\u8272\u8ecd\u5e9c"
+    ],
+    "name:zho_x_variant":[
+        "\u6c99\u529f\u90a3\u7a7a\u5e9c"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"THA",
@@ -311,7 +326,7 @@
     "wof:lang_x_spoken":[
         "tha"
     ],
-    "wof:lastmodified":1561758455,
+    "wof:lastmodified":1563291813,
     "wof:name":"Sakon Nakhon",
     "wof:parent_id":85632293,
     "wof:placetype":"region",

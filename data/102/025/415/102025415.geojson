@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001655,
-    "geom:area_square_m":19461776.308124,
+    "geom:area_square_m":19461776.308144,
     "geom:bbox":"100.817589697,17.9017616512,100.92436035,18.0556776641",
     "geom:latitude":17.996088,
     "geom:longitude":100.879656,
@@ -18,14 +18,23 @@
     "mps:longitude":100.881759,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Fak Tha"
+    ],
     "name:eng_x_preferred":[
         "Fak Tha"
     ],
     "name:eng_x_variant":[
         "Ban Bung"
     ],
+    "name:fra_x_preferred":[
+        "Fak Tha"
+    ],
     "name:tha_x_preferred":[
         "\u0e1f\u0e32\u0e01\u0e17\u0e48\u0e32"
+    ],
+    "name:tha_x_variant":[
+        "\u0e15\u0e33\u0e1a\u0e25\u0e1f\u0e32\u0e01\u0e17\u0e48\u0e32"
     ],
     "name:unk_x_variant":[
         "Ban Bung"
@@ -83,7 +92,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636682,
+    "wof:lastmodified":1563290359,
     "wof:name":"Fak Tha",
     "wof:parent_id":1108802609,
     "wof:placetype":"locality",

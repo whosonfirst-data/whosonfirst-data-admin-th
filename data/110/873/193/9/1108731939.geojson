@@ -38,6 +38,9 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09b8\u09cb\u09b0 \u09b0\u09b0\u09be\u09b0"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Sop Prap"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Sop Prap"
     ],
@@ -55,6 +58,12 @@
     ],
     "name:tha_x_preferred":[
         "\u0e2a\u0e1a\u0e1b\u0e23\u0e32\u0e1a"
+    ],
+    "name:tha_x_variant":[
+        "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e2a\u0e1a\u0e1b\u0e23\u0e32\u0e1a"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0648\u067e \u067e\u0631\u0627\u067e \u0636\u0644\u0639"
     ],
     "name:vie_x_preferred":[
         "Sop Prap"
@@ -95,7 +104,7 @@
         }
     ],
     "wof:id":1108731939,
-    "wof:lastmodified":1561758740,
+    "wof:lastmodified":1563296463,
     "wof:name":"Sop Prap",
     "wof:parent_id":85678625,
     "wof:placetype":"county",

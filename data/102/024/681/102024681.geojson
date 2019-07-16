@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00006,
-    "geom:area_square_m":720939.295852,
+    "geom:area_square_m":720939.295851,
     "geom:bbox":"100.475463867,13.7287128771,100.49331665,13.7547255308",
     "geom:latitude":13.742036,
     "geom:longitude":100.484266,
@@ -16,8 +16,20 @@
     "mps:longitude":100.48997,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:dan_x_preferred":[
+        "Thonburi"
+    ],
+    "name:deu_x_preferred":[
+        "Bangkok/Thonburi"
+    ],
+    "name:eng_x_preferred":[
+        "Thonburi"
+    ],
     "name:fra_x_preferred":[
         "Thonburi"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05e0\u05d2\u05e7\u05d5\u05e7/\u05ea\u05d5\u05e0\u05d1\u05d5\u05e8\u05d9"
     ],
     "name:ind_x_preferred":[
         "Thonburi"
@@ -31,6 +43,12 @@
     "name:kor_x_preferred":[
         "\ud1a4\ubd80\ub9ac"
     ],
+    "name:nan_x_preferred":[
+        "Thonburi"
+    ],
+    "name:nld_x_preferred":[
+        "Bangkok/Thonburi"
+    ],
     "name:pol_x_preferred":[
         "Thonburi"
     ],
@@ -42,6 +60,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e18\u0e19\u0e1a\u0e38\u0e23\u0e35"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1d\u0e31\u0e48\u0e07\u0e18\u0e19\u0e1a\u0e38\u0e23\u0e35"
     ],
     "name:unk_x_variant":[
         "Dhonburi"
@@ -93,7 +114,7 @@
         }
     ],
     "wof:id":102024681,
-    "wof:lastmodified":1527636429,
+    "wof:lastmodified":1563290195,
     "wof:name":"Thon Buri",
     "wof:parent_id":890466225,
     "wof:placetype":"locality",

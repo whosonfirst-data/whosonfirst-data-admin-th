@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000767,
-    "geom:area_square_m":9160755.17157,
+    "geom:area_square_m":9160755.171572,
     "geom:bbox":"104.355326451,14.8985893351,104.439841064,14.9591329159",
     "geom:latitude":14.925655,
     "geom:longitude":104.390799,
@@ -19,6 +19,9 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ab\u09be\u09af\u09bc\u09c1"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Phayu"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Phayu"
     ],
@@ -26,7 +29,14 @@
         "Ban Phayu"
     ],
     "name:eng_x_variant":[
-        "Pha Yu"
+        "Pha Yu",
+        "Phayu"
+    ],
+    "name:fra_x_preferred":[
+        "Phayu"
+    ],
+    "name:nan_x_preferred":[
+        "Phayu K\u016bn"
     ],
     "name:ron_x_preferred":[
         "Districtul Phayu"
@@ -92,7 +102,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636442,
+    "wof:lastmodified":1563290245,
     "wof:name":"Phayu",
     "wof:parent_id":890466887,
     "wof:placetype":"locality",

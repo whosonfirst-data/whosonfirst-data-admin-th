@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003181,
-    "geom:area_square_m":38915210.457908,
+    "geom:area_square_m":38915210.45791,
     "geom:bbox":"100.136793756,8.29486241248,100.242844844,8.37817063255",
     "geom:latitude":8.339365,
     "geom:longitude":100.197752,
@@ -22,6 +22,9 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09aa\u09be\u0995 \u09ab\u09be\u09a8\u09be\u0982"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Pak Phanang"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Pak Phanang"
     ],
@@ -36,6 +39,12 @@
         "Ban Pak Phanang",
         "Ban Pakpenang",
         "P\u00e5kpenang"
+    ],
+    "name:fra_x_preferred":[
+        "Pak Phanang"
+    ],
+    "name:nan_x_preferred":[
+        "Pak Phanang K\u016bn"
     ],
     "name:por_x_preferred":[
         "Pak Phanang"
@@ -52,11 +61,17 @@
     "name:unk_x_variant":[
         "Ban Pakpenang"
     ],
+    "name:urd_x_preferred":[
+        "\u067e\u0627\u06a9 \u067e\u06be\u0627\u0646\u0627\u0646\u06af \u0636\u0644\u0639"
+    ],
     "name:vie_x_preferred":[
         "Pak Phanang"
     ],
     "name:zho_min_nan_x_preferred":[
         "Pak Phanang K\u016bn"
+    ],
+    "name:zho_x_preferred":[
+        "\u82ad\u56ca\u6cb3\u53e3\u5340"
     ],
     "qs:a0":"Thailand",
     "qs:a1":"*Nakhon Si Thammarat",
@@ -103,7 +118,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636681,
+    "wof:lastmodified":1563290350,
     "wof:name":"Pak Phanang",
     "wof:parent_id":85678565,
     "wof:placetype":"locality",

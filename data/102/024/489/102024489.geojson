@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001467,
-    "geom:area_square_m":17628342.876347,
+    "geom:area_square_m":17628342.876345,
     "geom:bbox":"99.9059143616,13.6636347334,99.9573659422,13.7137396216",
     "geom:latitude":13.68811,
     "geom:longitude":99.930158,
@@ -20,8 +20,20 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ac\u09cd\u09af\u09be\u0982 \u09ab\u09be\u09af\u09bc\u09c7"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Bang Phae"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Bang Phae"
+    ],
+    "name:eng_x_preferred":[
+        "Bang Phae"
+    ],
+    "name:fra_x_preferred":[
+        "Bang Phae"
+    ],
+    "name:nan_x_preferred":[
+        "Bang Phae K\u016bn"
     ],
     "name:ron_x_preferred":[
         "Districtul Bang Phae"
@@ -82,7 +94,7 @@
         }
     ],
     "wof:id":102024489,
-    "wof:lastmodified":1527636447,
+    "wof:lastmodified":1563290286,
     "wof:name":"Bang Phae",
     "wof:parent_id":85678761,
     "wof:placetype":"locality",

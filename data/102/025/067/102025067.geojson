@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001884,
+    "geom:area_square_m":23136403.204534,
     "geom:bbox":"101.455190554,6.77013359445,101.50898114,6.8754767916",
     "geom:latitude":6.837028,
     "geom:longitude":101.484501,
@@ -17,8 +18,14 @@
     "mps:longitude":101.486829,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ast_x_preferred":[
+        "Idioma panare"
+    ],
     "name:bre_x_preferred":[
         "Panareg"
+    ],
+    "name:bre_x_variant":[
+        "panareg"
     ],
     "name:eng_x_preferred":[
         "Panare"
@@ -26,13 +33,20 @@
     "name:eng_x_variant":[
         "Ban Panare",
         "Pa Na Le",
-        "Pak Narek"
+        "Pak Narek",
+        "Panare language"
     ],
     "name:epo_x_preferred":[
         "Panara lingvo"
     ],
+    "name:est_x_preferred":[
+        "enjapa keel"
+    ],
     "name:fra_x_preferred":[
         "E'\u00f1epa"
+    ],
+    "name:fra_x_variant":[
+        "e'\u00f1epa"
     ],
     "name:hrv_x_preferred":[
         "E\u00f1epa jezik"
@@ -48,6 +62,9 @@
     ],
     "name:spa_x_preferred":[
         "Idioma panare"
+    ],
+    "name:tgl_x_preferred":[
+        "Wikang Panare"
     ],
     "name:tha_x_preferred":[
         "\u0e1b\u0e30\u0e19\u0e32\u0e40\u0e23\u0e30"
@@ -98,7 +115,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636688,
+    "wof:lastmodified":1563290444,
     "wof:name":"Panare",
     "wof:parent_id":85678889,
     "wof:placetype":"locality",

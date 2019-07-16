@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000786,
-    "geom:area_square_m":9382887.036987,
+    "geom:area_square_m":9382887.036978,
     "geom:bbox":"101.872413212,15.2168606602,102.099755461,15.277317116",
     "geom:latitude":15.247091,
     "geom:longitude":101.995239,
@@ -22,11 +22,20 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09a8\u09cb\u09a8 \u09a5\u09bf"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Non Thai"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Non Thai"
     ],
     "name:eng_x_preferred":[
         "Non Thai"
+    ],
+    "name:fra_x_preferred":[
+        "Non Thai"
+    ],
+    "name:nan_x_preferred":[
+        "Non Thai K\u016bn"
     ],
     "name:ron_x_preferred":[
         "Districtul Non Thai"
@@ -36,6 +45,9 @@
     ],
     "name:unk_x_variant":[
         "Amphoe Non Thai"
+    ],
+    "name:urd_x_preferred":[
+        "\u0646\u0648\u0646 \u062a\u06be\u0627\u0626\u06cc \u0636\u0644\u0639"
     ],
     "name:vie_x_preferred":[
         "Non Thai"
@@ -90,7 +102,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636682,
+    "wof:lastmodified":1563290363,
     "wof:name":"Non Thai",
     "wof:parent_id":890466375,
     "wof:placetype":"locality",

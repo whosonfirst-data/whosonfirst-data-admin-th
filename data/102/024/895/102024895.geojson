@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001439,
-    "geom:area_square_m":16888247.670217,
+    "geom:area_square_m":16888247.670204,
     "geom:bbox":"100.268254081,18.2046619537,100.353090877,18.3687749171",
     "geom:latitude":18.296164,
     "geom:longitude":100.308968,
@@ -19,6 +19,9 @@
     "mz:is_current":-1,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09b0\u09cb\u0982 \u0995\u09f1\u09be\u0982"
+    ],
+    "name:ceb_x_preferred":[
+        "Amphoe Rong Kwang"
     ],
     "name:deu_x_preferred":[
         "Amphoe Rong Kwang"
@@ -39,6 +42,15 @@
         "B\u00e5n Raung Gwang",
         "Raung Kwang",
         "R\u00f0hngkw\u00e5ng"
+    ],
+    "name:fra_x_preferred":[
+        "Rong Kwang"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ed\u30fc\u30f3\u30af\u30ef\u30fc\u30f3\u90e1"
+    ],
+    "name:nan_x_preferred":[
+        "Rong Kwang K\u016bn"
     ],
     "name:ron_x_preferred":[
         "Districtul Rong Kwang"
@@ -103,7 +115,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636433,
+    "wof:lastmodified":1563290212,
     "wof:name":"Rong Kwang",
     "wof:parent_id":85678643,
     "wof:placetype":"locality",

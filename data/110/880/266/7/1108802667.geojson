@@ -34,11 +34,20 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ae\u09c1\u09af\u09bc\u09c7\u0982 \u0995\u09be\u09a8\u099a\u09be\u09a8\u09be\u09ac\u09c1\u09b0\u09bf"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Mueang Kanchanaburi"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Mueang Kanchanaburi"
     ],
     "name:eng_x_preferred":[
         "Kanchanaburi"
+    ],
+    "name:eng_x_variant":[
+        "Mueang Kanchanaburi"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0645\u06cc\u0646\u06af \u06a9\u0627\u0646\u062a\u0686\u0627\u0646\u0627\u0628\u0648\u0631\u06cc"
     ],
     "name:fra_x_preferred":[
         "Mueang Kanchanaburi"
@@ -54,6 +63,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e01\u0e32\u0e0d\u0e08\u0e19\u0e1a\u0e38\u0e23\u0e35"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0648\u0626\u0627\u0646\u06af \u06a9\u0627\u0646\u0686\u0627\u0646\u0627 \u0628\u0648\u0631\u06cc \u0636\u0644\u0639"
     ],
     "name:vie_x_preferred":[
         "Mueang Kanchanaburi"
@@ -97,7 +109,7 @@
         }
     ],
     "wof:id":1108802667,
-    "wof:lastmodified":1561758728,
+    "wof:lastmodified":1563296417,
     "wof:name":"Muang Kanchanaburi",
     "wof:parent_id":85678663,
     "wof:placetype":"county",

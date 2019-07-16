@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000026,
-    "geom:area_square_m":310604.780247,
+    "geom:area_square_m":310604.780243,
     "geom:bbox":"100.51940918,13.7224899059,100.524902344,13.7293998073",
     "geom:latitude":13.726446,
     "geom:longitude":100.521808,
@@ -26,6 +26,12 @@
     "mz:tier_locality":5,
     "name:eng_x_preferred":[
         "Si Phraya"
+    ],
+    "name:eng_x_variant":[
+        "Si Phraya Pier"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e17\u0e48\u0e32\u0e2a\u0e35\u0e48\u0e1e\u0e23\u0e30\u0e22\u0e32"
     ],
     "name:unk_x_variant":[
         "Si Phraya"
@@ -89,7 +95,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527269352,
+    "wof:lastmodified":1563291779,
     "wof:name":"Si Phraya",
     "wof:parent_id":102025263,
     "wof:placetype":"neighbourhood",

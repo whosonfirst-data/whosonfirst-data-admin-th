@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002825,
+    "geom:area_square_m":33089364.321644,
     "geom:bbox":"99.5321441859,18.6528212275,99.5950553066,18.7853533351",
     "geom:latitude":18.709615,
     "geom:longitude":99.56547,
@@ -17,6 +18,9 @@
     "mz:is_current":-1,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u099a\u09be\u09af\u09bc\u09c7 \u09b9\u09cb\u09ae"
+    ],
+    "name:ceb_x_preferred":[
+        "Amphoe Chae Hom"
     ],
     "name:deu_x_preferred":[
         "Amphoe Chae Hom"
@@ -31,6 +35,12 @@
         "Chai Hom Tai",
         "Che Hom Tai"
     ],
+    "name:fra_x_preferred":[
+        "Chae Hom"
+    ],
+    "name:nan_x_preferred":[
+        "Chae Hom K\u016bn"
+    ],
     "name:ron_x_preferred":[
         "Districtul Chae Hom"
     ],
@@ -42,6 +52,9 @@
     ],
     "name:unk_x_variant":[
         "Ban Jea Hom Dai"
+    ],
+    "name:urd_x_preferred":[
+        "\u0686\u0627\u06d2 \u06c1\u0648\u0645 \u0636\u0644\u0639"
     ],
     "name:vie_x_preferred":[
         "Chae Hom"
@@ -93,7 +106,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636442,
+    "wof:lastmodified":1563290250,
     "wof:name":"Chae Hom",
     "wof:parent_id":85678625,
     "wof:placetype":"locality",

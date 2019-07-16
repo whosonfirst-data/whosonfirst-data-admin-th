@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000883,
+    "geom:area_square_m":10788651.461581,
     "geom:bbox":"98.4009441339,8.67516411805,98.4410974564,8.72583336853",
     "geom:latitude":8.70323,
     "geom:longitude":98.418284,
@@ -18,6 +19,9 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u0995\u09be\u09aa\u09cb\u0982"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Kapong"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Kapong"
     ],
@@ -27,8 +31,17 @@
     "name:eng_x_variant":[
         "Pong"
     ],
+    "name:fra_x_preferred":[
+        "Kapong"
+    ],
     "name:jpn_x_preferred":[
         "\u30ab\u30dd\u30f3\u90e1"
+    ],
+    "name:nan_x_preferred":[
+        "Kapong K\u016bn"
+    ],
+    "name:nob_x_preferred":[
+        "Kapong"
     ],
     "name:nor_x_preferred":[
         "Kapong"
@@ -98,7 +111,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636443,
+    "wof:lastmodified":1563290258,
     "wof:name":"Kapong",
     "wof:parent_id":85678573,
     "wof:placetype":"locality",

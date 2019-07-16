@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000626,
+    "geom:area_square_m":7493923.15308,
     "geom:bbox":"102.850226518,14.39904436,102.879754076,14.427755701",
     "geom:latitude":14.414996,
     "geom:longitude":102.866628,
@@ -18,6 +19,9 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09b2\u09be\u09b9\u09be\u09a8 \u09b8\u09be\u0987"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Lahan Sai"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Lahan Sai"
     ],
@@ -27,6 +31,12 @@
     "name:eng_x_variant":[
         "Ban Lahan Sai",
         "Ban Laharn Sai"
+    ],
+    "name:fra_x_preferred":[
+        "Lahan Sai"
+    ],
+    "name:nan_x_preferred":[
+        "Lahan Sai K\u016bn"
     ],
     "name:ron_x_preferred":[
         "Districtul Lahan Sai"
@@ -87,7 +97,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636442,
+    "wof:lastmodified":1563290247,
     "wof:name":"Lahan Sai",
     "wof:parent_id":85678817,
     "wof:placetype":"locality",

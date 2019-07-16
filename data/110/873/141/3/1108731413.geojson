@@ -38,6 +38,9 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u0996\u09be\u09ae\u099a\u09be-\u0987"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Khamcha-i"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Khamcha-i"
     ],
@@ -45,8 +48,7 @@
         "Khamcha-i"
     ],
     "name:eng_x_variant":[
-        "Khumcha-i",
-        "Khamcha-i"
+        "Khumcha-i"
     ],
     "name:fra_x_preferred":[
         "Khamcha-i"
@@ -59,6 +61,12 @@
     ],
     "name:tha_x_preferred":[
         "\u0e04\u0e33\u0e0a\u0e30\u0e2d\u0e35"
+    ],
+    "name:tha_x_variant":[
+        "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e04\u0e33\u0e0a\u0e30\u0e2d\u0e35"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u06be\u0627\u0645\u0686\u0627-\u06cc \u0636\u0644\u0639"
     ],
     "name:vie_x_preferred":[
         "Khamcha-i"
@@ -99,7 +107,7 @@
         }
     ],
     "wof:id":1108731413,
-    "wof:lastmodified":1561758760,
+    "wof:lastmodified":1563296570,
     "wof:name":"Khumcha-i",
     "wof:parent_id":85678881,
     "wof:placetype":"county",

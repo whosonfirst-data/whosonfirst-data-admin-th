@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003403,
-    "geom:area_square_m":40555480.757222,
+    "geom:area_square_m":40722842.071077,
     "geom:bbox":"100.122857514,14.5585945169,100.177130241,14.6617225373",
     "geom:latitude":14.610982,
     "geom:longitude":100.149051,
@@ -20,6 +20,9 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09b8\u09bf \u09aa\u09cd\u09b0\u09be\u099a\u09be\u09a8"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Si Prachan"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Si Prachan"
     ],
@@ -30,6 +33,12 @@
         "Ban Si Prachan",
         "Ban Sri Prachan",
         "Sri Pra Chan"
+    ],
+    "name:fra_x_preferred":[
+        "Si Prachan"
+    ],
+    "name:nan_x_preferred":[
+        "Si Prachan K\u016bn"
     ],
     "name:ron_x_preferred":[
         "Districtul Si Prachan"
@@ -105,7 +114,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636444,
+    "wof:lastmodified":1563290269,
     "wof:name":"Si Prachan",
     "wof:parent_id":85678679,
     "wof:placetype":"locality",

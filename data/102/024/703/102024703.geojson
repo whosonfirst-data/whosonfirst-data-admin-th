@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001344,
+    "geom:area_square_m":16004738.269751,
     "geom:bbox":"100.378246015,15.6192891112,100.495776975,15.6505894125",
     "geom:latitude":15.635448,
     "geom:longitude":100.454282,
@@ -18,11 +19,23 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09a5\u09be \u09a4\u09be\u0995\u09cb"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Tha Tako"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Tha Tako"
     ],
     "name:eng_x_preferred":[
         "Tha Tako"
+    ],
+    "name:fra_x_preferred":[
+        "Tha Tako"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bf\u30fc\u30bf\u30b3\u30fc\u90e1"
+    ],
+    "name:nan_x_preferred":[
+        "Tha Tako K\u016bn"
     ],
     "name:ron_x_preferred":[
         "Districtul Tha Tako"
@@ -35,6 +48,9 @@
     ],
     "name:unk_x_variant":[
         "Amphoe Tha Tako"
+    ],
+    "name:urd_x_preferred":[
+        "\u062a\u06be\u0627 \u062a\u0627\u06a9\u0648 \u0636\u0644\u0639"
     ],
     "name:vie_x_preferred":[
         "Tha Tako"
@@ -86,7 +102,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636444,
+    "wof:lastmodified":1563290262,
     "wof:name":"Tha Tako",
     "wof:parent_id":85678715,
     "wof:placetype":"locality",

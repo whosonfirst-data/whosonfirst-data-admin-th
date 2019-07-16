@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000045,
-    "geom:area_square_m":548643.138034,
+    "geom:area_square_m":548643.138032,
     "geom:bbox":"98.3386230469,7.85521945643,98.3441162109,7.86338180531",
     "geom:latitude":7.859297,
     "geom:longitude":98.341372,
@@ -19,14 +19,24 @@
     "mps:longitude":98.341372,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Tham Chalong"
+    ],
     "name:eng_x_preferred":[
         "Chalong"
+    ],
+    "name:eng_x_variant":[
+        "Tham Chalong"
+    ],
+    "name:fra_x_preferred":[
+        "Tham Chalong"
     ],
     "name:tha_x_preferred":[
         "\u0e1a\u0e49\u0e32\u0e19\u0e09\u0e25\u0e2d\u0e07"
     ],
     "name:tha_x_variant":[
-        "\u0e15\u0e33\u0e1a\u0e25\u0e09\u0e25\u0e2d\u0e07"
+        "\u0e15\u0e33\u0e1a\u0e25\u0e09\u0e25\u0e2d\u0e07",
+        "\u0e15\u0e33\u0e1a\u0e25\u0e16\u0e49\u0e33\u0e09\u0e25\u0e2d\u0e07"
     ],
     "qs:a1":"*",
     "qs:a1r":"*",
@@ -66,7 +76,7 @@
         }
     ],
     "wof:id":102025867,
-    "wof:lastmodified":1527636683,
+    "wof:lastmodified":1563290375,
     "wof:name":"Ban Chalong",
     "wof:parent_id":890467203,
     "wof:placetype":"locality",

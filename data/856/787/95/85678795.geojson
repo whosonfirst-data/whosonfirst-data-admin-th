@@ -64,7 +64,6 @@
     ],
     "name:eng_x_variant":[
         "Changwat Chon Buri",
-        "Chonburi",
         "Chon Buri"
     ],
     "name:fas_x_preferred":[
@@ -100,8 +99,14 @@
     "name:kat_x_preferred":[
         "\u10e9\u10dd\u10dc\u10d1\u10e3\u10e0\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
     ],
+    "name:khm_x_preferred":[
+        "\u1781\u17c1\u178f\u17d2\u178f\u1792\u1793\u1794\u17bb\u179a\u17b8"
+    ],
     "name:kor_x_preferred":[
         "\ucd0c\ubd80\ub9ac \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ucd0c\ubd80\ub9ac\uc8fc"
     ],
     "name:lao_x_preferred":[
         "\u0e88\u0eb1\u0e87\u0eab\u0ea7\u0eb1\u0e94\u0e8a\u0ebb\u0e99\u0e9a\u0eb8\u0ea5\u0eb5"
@@ -127,6 +132,9 @@
     "name:msa_x_preferred":[
         "Chonburi"
     ],
+    "name:mya_x_preferred":[
+        "\u1007\u101c\u1015\u102f\u101b\u102e"
+    ],
     "name:nan_x_preferred":[
         "Chonburi H\u00fa"
     ],
@@ -135,6 +143,9 @@
     ],
     "name:nno_x_preferred":[
         "Chonburi fylke"
+    ],
+    "name:nno_x_variant":[
+        "Chonburi-fylket"
     ],
     "name:nob_x_preferred":[
         "Chonburi"
@@ -328,7 +339,7 @@
     "wof:lang_x_spoken":[
         "tha"
     ],
-    "wof:lastmodified":1561758457,
+    "wof:lastmodified":1563291842,
     "wof:name":"Chonburi",
     "wof:parent_id":85632293,
     "wof:placetype":"region",

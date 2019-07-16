@@ -38,6 +38,9 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09b8\u09bf \u09f1\u09bf\u09b2\u09be\u0987"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Si Wilai"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Si Wilai"
     ],
@@ -45,8 +48,7 @@
         "Si Wilai"
     ],
     "name:eng_x_variant":[
-        "Si Wichai",
-        "Si Wilai"
+        "Si Wichai"
     ],
     "name:fra_x_preferred":[
         "Si Wilai"
@@ -59,6 +61,12 @@
     ],
     "name:tha_x_preferred":[
         "\u0e01\u0e34\u0e48\u0e07\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e28\u0e23\u0e35\u0e27\u0e34\u0e44\u0e25"
+    ],
+    "name:tha_x_variant":[
+        "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e28\u0e23\u0e35\u0e27\u0e34\u0e44\u0e25"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u06cc \u0648\u06cc\u0644\u0627\u06cc \u0636\u0644\u0639"
     ],
     "name:vie_x_preferred":[
         "Si Wilai"
@@ -87,7 +95,7 @@
         }
     ],
     "wof:id":1108731909,
-    "wof:lastmodified":1561758755,
+    "wof:lastmodified":1563296533,
     "wof:name":"Si Wichai",
     "wof:parent_id":85678895,
     "wof:placetype":"county",

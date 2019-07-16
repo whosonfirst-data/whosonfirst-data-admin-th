@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000505,
+    "geom:area_square_m":6016449.438445,
     "geom:bbox":"103.432448863,15.56638189,103.462082957,15.5950393466",
     "geom:latitude":15.580711,
     "geom:longitude":103.447266,
@@ -20,11 +21,20 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09aa\u09be\u09a5\u09c1\u09ae \u09b0\u09be\u09a4"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Pathum Rat"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Pathum Rat"
     ],
     "name:eng_x_preferred":[
         "Pathum Rat"
+    ],
+    "name:fra_x_preferred":[
+        "Pathum Rat"
+    ],
+    "name:nan_x_preferred":[
+        "Pathum Rat K\u016bn"
     ],
     "name:ron_x_preferred":[
         "Districtul Pathum Rat"
@@ -88,7 +98,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636682,
+    "wof:lastmodified":1563290362,
     "wof:name":"Pathum Rat",
     "wof:parent_id":85678845,
     "wof:placetype":"locality",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002274,
+    "geom:area_square_m":27393955.036699,
     "geom:bbox":"101.188601079,12.9473465557,101.23174832,13.0189459035",
     "geom:latitude":12.98367,
     "geom:longitude":101.209777,
@@ -18,6 +19,9 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09aa\u09cd\u09b2\u09c1\u09af\u09bc\u09be\u0995 \u09a6\u09be\u09af\u09bc\u09c7\u0982"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Pluak Daeng"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Pluak Daeng"
     ],
@@ -26,6 +30,12 @@
     ],
     "name:eng_x_variant":[
         "Ban Pluak Daeng"
+    ],
+    "name:fra_x_preferred":[
+        "Pluak Daeng"
+    ],
+    "name:nan_x_preferred":[
+        "Pluak Daeng K\u016bn"
     ],
     "name:ron_x_preferred":[
         "Districtul Pluak Daeng"
@@ -89,7 +99,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636441,
+    "wof:lastmodified":1563290241,
     "wof:name":"Pluak Daeng",
     "wof:parent_id":85678809,
     "wof:placetype":"locality",

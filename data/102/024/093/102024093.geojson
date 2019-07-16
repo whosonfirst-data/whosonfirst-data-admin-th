@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005434,
-    "geom:area_square_m":65200547.05015,
+    "geom:area_square_m":65200547.050252,
     "geom:bbox":"99.5543401702,13.9303571212,99.693707326,14.012407818",
     "geom:latitude":13.970039,
     "geom:longitude":99.629472,
@@ -20,14 +20,29 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09a5\u09be \u09ae\u09c1\u09af\u09bc\u09be\u0982"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Tha Muang"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Tha Muang"
     ],
     "name:eng_x_preferred":[
         "Wang Khanai"
     ],
+    "name:eng_x_variant":[
+        "Tha Muang"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u062a\u0627 \u0645\u0648\u0627\u0646\u06af"
+    ],
     "name:fra_x_preferred":[
         "Amphoe Tha Muang"
+    ],
+    "name:fra_x_variant":[
+        "Tha Muang"
+    ],
+    "name:nan_x_preferred":[
+        "Tha Muang K\u016bn"
     ],
     "name:ron_x_preferred":[
         "Districtul Tha Muang"
@@ -40,6 +55,9 @@
     ],
     "name:unk_x_variant":[
         "Ban Tha Muang"
+    ],
+    "name:urd_x_preferred":[
+        "\u062a\u06be\u0627 \u0645\u0648\u0627\u0646\u06af \u0636\u0644\u0639"
     ],
     "name:vie_x_preferred":[
         "Tha Muang"
@@ -97,7 +115,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636449,
+    "wof:lastmodified":1563290304,
     "wof:name":"Tha Muang",
     "wof:parent_id":890466893,
     "wof:placetype":"locality",

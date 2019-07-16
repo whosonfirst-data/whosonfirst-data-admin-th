@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00105,
-    "geom:area_square_m":12519785.43724,
+    "geom:area_square_m":12519785.437238,
     "geom:bbox":"101.367034594,15.3228363198,101.492769778,15.4785959049",
     "geom:latitude":15.411987,
     "geom:longitude":101.43059,
@@ -19,6 +19,9 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09a5\u09c7\u09aa \u09b8\u09be\u09a5\u09bf\u09a4"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Thep Sathit"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Thep Sathit"
     ],
@@ -27,6 +30,12 @@
     ],
     "name:eng_x_variant":[
         "Thep Satthit"
+    ],
+    "name:fra_x_preferred":[
+        "Thep Sathit"
+    ],
+    "name:nan_x_preferred":[
+        "Thep Sathit K\u016bn"
     ],
     "name:ron_x_preferred":[
         "Districtul Thep Sathit"
@@ -39,6 +48,9 @@
     ],
     "name:unk_x_variant":[
         "\u0e40\u0e17\u0e1e\u0e2a\u0e16\u0e34\u0e15"
+    ],
+    "name:urd_x_preferred":[
+        "\u062a\u06be\u06cc\u067e \u0633\u0627\u062a\u06be\u06cc\u062a \u0636\u0644\u0639"
     ],
     "name:vie_x_preferred":[
         "Thep Sathit"
@@ -92,7 +104,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636445,
+    "wof:lastmodified":1563290277,
     "wof:name":"Thep Sathit",
     "wof:parent_id":1108732015,
     "wof:placetype":"locality",

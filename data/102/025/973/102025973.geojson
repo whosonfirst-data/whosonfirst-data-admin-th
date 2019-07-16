@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000774,
+    "geom:area_square_m":9129607.432242,
     "geom:bbox":"100.312240319,17.4411954923,100.44093843,17.5640453767",
     "geom:latitude":17.515626,
     "geom:longitude":100.390223,
@@ -20,8 +21,20 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09a5\u09cb\u0982 \u09b8\u09be\u09af\u09bc\u09c7\u09a8 \u0996\u09be\u09a8"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Thong Saen Khan"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Thong Saen Khan"
+    ],
+    "name:eng_x_preferred":[
+        "Thong Saen Khan"
+    ],
+    "name:fra_x_preferred":[
+        "Thong Saen Khan"
+    ],
+    "name:nan_x_preferred":[
+        "Thong Saen Khan K\u016bn"
     ],
     "name:ron_x_preferred":[
         "Districtul Thong Saen Khan"
@@ -82,7 +95,7 @@
         }
     ],
     "wof:id":102025973,
-    "wof:lastmodified":1527636688,
+    "wof:lastmodified":1563290450,
     "wof:name":"Thong Saen Khan",
     "wof:parent_id":85678657,
     "wof:placetype":"locality",

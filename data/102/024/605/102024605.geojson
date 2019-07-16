@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00159,
-    "geom:area_square_m":18858996.857339,
+    "geom:area_square_m":18858996.857322,
     "geom:bbox":"103.234658155,16.3769898232,103.365989542,16.4082370831",
     "geom:latitude":16.389991,
     "geom:longitude":103.317417,
@@ -20,6 +20,9 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09af\u09bc\u09be\u0982 \u09a4\u09be\u09b2\u09af\u09bc\u09be\u09a4"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Yang Talat"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Yang Talat"
     ],
@@ -31,6 +34,12 @@
         "Ban Yang Talat",
         "Bang Talat",
         "Koulan Tiane"
+    ],
+    "name:fra_x_preferred":[
+        "Yang Talat"
+    ],
+    "name:nan_x_preferred":[
+        "Yang Talat K\u016bn"
     ],
     "name:ron_x_preferred":[
         "Districtul Yang Talat"
@@ -98,7 +107,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636434,
+    "wof:lastmodified":1563290214,
     "wof:name":"Yang Talat",
     "wof:parent_id":85678831,
     "wof:placetype":"locality",

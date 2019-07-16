@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001956,
-    "geom:area_square_m":23817718.809664,
+    "geom:area_square_m":23817718.80968,
     "geom:bbox":"99.807158025,10.0409502848,99.8473823093,10.1158256554",
     "geom:latitude":10.079651,
     "geom:longitude":99.830065,
@@ -19,11 +19,26 @@
     "mps:longitude":99.828056,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Tau adas\u0131"
+    ],
+    "name:bul_x_preferred":[
+        "\u041a\u043e \u0422\u0430\u043e"
+    ],
+    "name:ceb_x_preferred":[
+        "Ko Tao"
+    ],
+    "name:dan_x_preferred":[
+        "Koh Tao"
+    ],
     "name:deu_x_preferred":[
         "Ko Tao"
     ],
     "name:eng_x_preferred":[
         "Koh Tao"
+    ],
+    "name:eng_x_variant":[
+        "Ko Tao"
     ],
     "name:epo_x_preferred":[
         "Ko Tao"
@@ -37,6 +52,9 @@
     "name:heb_x_preferred":[
         "\u05e7\u05d5 \u05d8\u05d0\u05d5"
     ],
+    "name:hun_x_preferred":[
+        "Ko Tau"
+    ],
     "name:ita_x_preferred":[
         "Ko Tao"
     ],
@@ -49,7 +67,16 @@
     "name:kor_x_preferred":[
         "\ub530\uc624 \uc12c"
     ],
+    "name:kor_x_variant":[
+        "\ub530\uc624\uc12c"
+    ],
     "name:nld_x_preferred":[
+        "Ko Tao"
+    ],
+    "name:pol_x_preferred":[
+        "Ko tao"
+    ],
+    "name:por_x_preferred":[
         "Ko Tao"
     ],
     "name:rus_x_preferred":[
@@ -72,6 +99,9 @@
     ],
     "name:vie_x_preferred":[
         "Ko Tao"
+    ],
+    "name:zho_x_preferred":[
+        "\u6fe4\u5cf6"
     ],
     "qs:a1":"*",
     "qs:a1r":"*",
@@ -113,7 +143,7 @@
         }
     ],
     "wof:id":102025803,
-    "wof:lastmodified":1527636683,
+    "wof:lastmodified":1563290368,
     "wof:name":"Koh Tao",
     "wof:parent_id":85681389,
     "wof:placetype":"locality",

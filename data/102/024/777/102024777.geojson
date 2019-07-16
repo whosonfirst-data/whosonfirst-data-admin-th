@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001222,
+    "geom:area_square_m":14474322.074424,
     "geom:bbox":"103.696069731,16.6324174173,103.802714023,16.8083199376",
     "geom:latitude":16.720051,
     "geom:longitude":103.744977,
@@ -18,11 +19,23 @@
     "name:eng_x_preferred":[
         "Somdet"
     ],
+    "name:eng_x_variant":[
+        "Si Somdet"
+    ],
+    "name:fra_x_preferred":[
+        "Si Somdet"
+    ],
     "name:tha_x_preferred":[
         "\u0e2a\u0e21\u0e40\u0e14\u0e47\u0e08"
     ],
+    "name:tha_x_variant":[
+        "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e28\u0e23\u0e35\u0e2a\u0e21\u0e40\u0e14\u0e47\u0e08"
+    ],
     "name:unk_x_variant":[
         "King Amphoe Somdet"
+    ],
+    "name:vie_x_preferred":[
+        "Si Somdet"
     ],
     "qs:a0":"Thailand",
     "qs:a1":"*Kalasin",
@@ -68,7 +81,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636442,
+    "wof:lastmodified":1563290246,
     "wof:name":"Somdet",
     "wof:parent_id":85678831,
     "wof:placetype":"locality",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00045,
+    "geom:area_square_m":5319907.503341,
     "geom:bbox":"104.520015164,17.1684918308,104.538822739,17.1970659673",
     "geom:latitude":17.182779,
     "geom:longitude":104.529419,
@@ -18,11 +19,20 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09b0\u09b2\u09be \u09aa\u09be\u0995"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Pla Pak"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Pla Pak"
     ],
     "name:eng_x_preferred":[
         "Pla Pak"
+    ],
+    "name:fra_x_preferred":[
+        "Pla Pak"
+    ],
+    "name:nan_x_preferred":[
+        "Pla Pak K\u016bn"
     ],
     "name:ron_x_preferred":[
         "Districtul Pla Pak"
@@ -35,6 +45,9 @@
     ],
     "name:unk_x_variant":[
         "\u0e1b\u0e25\u0e32\u0e1b\u0e32\u0e01"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u0644\u0627 \u067e\u0627\u06a9 \u0636\u0644\u0639"
     ],
     "name:vie_x_preferred":[
         "Pla Pak"
@@ -86,7 +99,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636441,
+    "wof:lastmodified":1563290243,
     "wof:name":"Pla Pak",
     "wof:parent_id":85678879,
     "wof:placetype":"locality",

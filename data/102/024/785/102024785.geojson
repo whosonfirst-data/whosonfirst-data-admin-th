@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000451,
+    "geom:area_square_m":5330085.397187,
     "geom:bbox":"103.201670617,16.9689595791,103.231434959,16.9870299631",
     "geom:latitude":16.977995,
     "geom:longitude":103.216553,
@@ -18,11 +19,23 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09b8\u09bf \u09a5\u09be\u09a4"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Si That"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Si That"
     ],
     "name:eng_x_preferred":[
         "Si That"
+    ],
+    "name:fra_x_preferred":[
+        "Si That"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b7\u30fc\u30bf\u30fc\u30c8\u90e1"
+    ],
+    "name:nan_x_preferred":[
+        "Si That K\u016bn"
     ],
     "name:ron_x_preferred":[
         "Districtul Si That"
@@ -89,7 +102,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636441,
+    "wof:lastmodified":1563290237,
     "wof:name":"Si That",
     "wof:parent_id":85678869,
     "wof:placetype":"locality",

@@ -46,6 +46,9 @@
     "name:bul_x_preferred":[
         "\u0424\u0430\u044f\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Changwat Phayao"
+    ],
     "name:dan_x_preferred":[
         "Phayao"
     ],
@@ -97,6 +100,9 @@
     "name:kor_x_preferred":[
         "\ud30c\uc57c\uc624 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\ud30c\uc57c\uc624\uc8fc"
+    ],
     "name:lao_x_preferred":[
         "\u0e88\u0eb1\u0e87\u0eab\u0ea7\u0eb1\u0e94\u0e9e\u0eb0\u0ec0\u0e8d\u0ebb\u0eb2"
     ],
@@ -123,6 +129,9 @@
     ],
     "name:nld_x_preferred":[
         "Changwat Phayao"
+    ],
+    "name:nno_x_preferred":[
+        "Phayao-fylket"
     ],
     "name:nob_x_preferred":[
         "Phayao"
@@ -190,8 +199,14 @@
     "name:war_x_preferred":[
         "Phayao"
     ],
+    "name:yue_x_preferred":[
+        "\u62cd\u5929\u5e9c"
+    ],
     "name:zho_x_preferred":[
         "\u5e15\u592d\u5e9c"
+    ],
+    "name:zho_x_variant":[
+        "\u5e15\u5c27\u5e9c"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"THA",
@@ -315,7 +330,7 @@
     "wof:lang_x_spoken":[
         "tha"
     ],
-    "wof:lastmodified":1561758456,
+    "wof:lastmodified":1563291834,
     "wof:name":"Phayao",
     "wof:parent_id":85632293,
     "wof:placetype":"region",

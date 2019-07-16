@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002419,
-    "geom:area_square_m":28381634.749728,
+    "geom:area_square_m":28381634.749726,
     "geom:bbox":"98.7301545557,18.4132521335,98.8040251759,18.459990227",
     "geom:latitude":18.434399,
     "geom:longitude":98.766087,
@@ -21,6 +21,9 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09f1\u09bf\u09af\u09bc\u09be\u0982 \u09a8\u09cb\u0982 \u09b2\u09cb\u0982"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Wiang Nong Long"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Wiang Nong Long"
     ],
@@ -30,8 +33,14 @@
     "name:eng_x_variant":[
         "Wiang Nong Long(king)"
     ],
+    "name:fra_x_preferred":[
+        "Wiang Nong Long"
+    ],
     "name:jpn_x_preferred":[
         "\u30a6\u30a3\u30a8\u30f3\u30ce\u30fc\u30f3\u30ed\u30f3\u90e1"
+    ],
+    "name:nan_x_preferred":[
+        "Wiang Nong Long K\u016bn"
     ],
     "name:ron_x_preferred":[
         "Districtul Wiang Nong Long"
@@ -44,6 +53,9 @@
     ],
     "name:unk_x_variant":[
         "King Amphoe Wiang Nong Long"
+    ],
+    "name:urd_x_preferred":[
+        "\u0648\u06cc\u0627\u0646\u06af \u0646\u0648\u0646\u06af \u0644\u0648\u0646\u06af \u0636\u0644\u0639"
     ],
     "name:vie_x_preferred":[
         "Wiang Nong Long"
@@ -97,7 +109,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636689,
+    "wof:lastmodified":1563290454,
     "wof:name":"Wiang Nong Long",
     "wof:parent_id":1108802597,
     "wof:placetype":"locality",

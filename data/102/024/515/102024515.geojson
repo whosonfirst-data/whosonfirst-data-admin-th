@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000525,
+    "geom:area_square_m":6264865.294688,
     "geom:bbox":"100.773773572,15.1850482861,100.803372897,15.2455264131",
     "geom:latitude":15.21529,
     "geom:longitude":100.788574,
@@ -18,6 +19,9 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09b8\u09be \u09ac\u09cb\u09a4"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Sa Bot"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Sa Bot"
     ],
@@ -28,6 +32,12 @@
         "Sa Bot",
         "Sabos",
         "Sabost"
+    ],
+    "name:fra_x_preferred":[
+        "Sa Bot"
+    ],
+    "name:nan_x_preferred":[
+        "Sa Bot K\u016bn"
     ],
     "name:ron_x_preferred":[
         "Districtul Sa Bot"
@@ -94,7 +104,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636451,
+    "wof:lastmodified":1563290330,
     "wof:name":"Sa Bot",
     "wof:parent_id":85678701,
     "wof:placetype":"locality",

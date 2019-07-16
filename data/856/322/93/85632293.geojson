@@ -55,6 +55,9 @@
     "name:ast_x_preferred":[
         "Thailandia"
     ],
+    "name:ast_x_variant":[
+        "Tailandia"
+    ],
     "name:azb_x_preferred":[
         "\u062a\u0627\u06cc\u0644\u0646\u062f"
     ],
@@ -79,6 +82,12 @@
     "name:ben_x_preferred":[
         "\u09a5\u09be\u0987\u09b2\u09cd\u09af\u09be\u09a8\u09cd\u09a1"
     ],
+    "name:bho_x_preferred":[
+        "\u0925\u093e\u0907\u0932\u0948\u0902\u0921"
+    ],
+    "name:bis_x_preferred":[
+        "Thailand"
+    ],
     "name:bjn_x_preferred":[
         "Thailand"
     ],
@@ -94,6 +103,9 @@
     "name:bre_x_preferred":[
         "Thailand"
     ],
+    "name:brh_x_preferred":[
+        "T\u00e1\u00edlaen\u0111"
+    ],
     "name:bug_x_preferred":[
         "Thailand"
     ],
@@ -102,6 +114,9 @@
     ],
     "name:bxr_x_preferred":[
         "\u0422\u0430\u0439\u043b\u0430\u043d\u0434"
+    ],
+    "name:bxr_x_variant":[
+        "\u0422\u0430\u0438\u043b\u0430\u043d\u0434"
     ],
     "name:cat_x_preferred":[
         "Tail\u00e0ndia"
@@ -112,6 +127,9 @@
     "name:ceb_x_preferred":[
         "Tayland"
     ],
+    "name:ceb_x_variant":[
+        "Thailand"
+    ],
     "name:ces_x_preferred":[
         "Thajsko"
     ],
@@ -121,8 +139,14 @@
     "name:chr_x_preferred":[
         "\u13d4\u13ef\u13b4\u13c2"
     ],
+    "name:chr_x_variant":[
+        "\u13d4\u13f1\u13a6\u13d9\u13af"
+    ],
     "name:chv_x_preferred":[
         "\u0422\u0430\u0438\u043b\u0430\u043d\u0434"
+    ],
+    "name:chy_x_preferred":[
+        "Thailand"
     ],
     "name:ckb_x_preferred":[
         "\u062a\u0627\u06cc\u0644\u06d5\u0646\u062f"
@@ -148,11 +172,17 @@
     "name:diq_x_preferred":[
         "Taylanda"
     ],
+    "name:diq_x_variant":[
+        "Tayland"
+    ],
     "name:div_x_preferred":[
         "\u0790\u07a8\u0794\u07a7\u0789\u07aa"
     ],
     "name:dsb_x_preferred":[
         "Thailandska"
+    ],
+    "name:dty_x_preferred":[
+        "\u0925\u093e\u0907\u0932\u094d\u092f\u093e\u0923\u094d\u0921"
     ],
     "name:dzo_x_preferred":[
         "\u0f50\u0f71\u0f60\u0f72\u0f0b\u0f63\u0f7a\u0f53\u0f4c"
@@ -181,11 +211,17 @@
     "name:eus_x_preferred":[
         "Thailandia"
     ],
+    "name:ewe_x_preferred":[
+        "Thailand"
+    ],
     "name:ext_x_preferred":[
         "Tail\u00e1ndia"
     ],
     "name:fao_x_preferred":[
         "Tailand"
+    ],
+    "name:fao_x_variant":[
+        "Teiland"
     ],
     "name:fas_x_preferred":[
         "\u062a\u0627\u06cc\u0644\u0646\u062f"
@@ -213,6 +249,9 @@
     ],
     "name:fry_x_preferred":[
         "Tail\u00e2n"
+    ],
+    "name:ful_x_preferred":[
+        "Tailannde"
     ],
     "name:fur_x_preferred":[
         "Tailandie"
@@ -247,6 +286,9 @@
     ],
     "name:grn_x_preferred":[
         "Tailandia"
+    ],
+    "name:gsw_x_preferred":[
+        "Thailand"
     ],
     "name:guj_x_preferred":[
         "\u0aa5\u0abe\u0a87\u0ab2\u0ac7\u0aa8\u0acd\u0aa1"
@@ -302,14 +344,17 @@
     "name:ind_x_preferred":[
         "Thailand"
     ],
+    "name:inh_x_preferred":[
+        "\u0422\u0430\u0438\u043b\u0430\u043d\u0434"
+    ],
+    "name:ipk_x_preferred":[
+        "Thailand"
+    ],
     "name:isl_x_preferred":[
         "Ta\u00edland"
     ],
     "name:ita_x_preferred":[
         "Tailandia",
-        "Thailandia"
-    ],
-    "name:ita_x_variant":[
         "Thailandia"
     ],
     "name:jam_x_preferred":[
@@ -325,10 +370,13 @@
         "\u30bf\u30a4",
         "\u30bf\u30a4\u738b\u56fd"
     ],
-    "name:jpn_x_variant":[
-        "\u30bf\u30a4\u738b\u56fd"
-    ],
     "name:kaa_x_preferred":[
+        "Tayland"
+    ],
+    "name:kaa_x_variant":[
+        "Tailand"
+    ],
+    "name:kab_x_preferred":[
         "Tayland"
     ],
     "name:kal_x_preferred":[
@@ -346,6 +394,9 @@
     "name:kbd_x_preferred":[
         "\u0422\u0430\u0439\u043b\u044d\u043d\u0434"
     ],
+    "name:kbp_x_preferred":[
+        "Tayiland\u0269"
+    ],
     "name:khm_x_preferred":[
         "\u1790\u17c3"
     ],
@@ -361,15 +412,21 @@
     "name:kom_x_preferred":[
         "\u0422\u0430\u0438\u043b\u0430\u043d\u0434"
     ],
+    "name:kon_x_preferred":[
+        "Thailand"
+    ],
     "name:kor_x_preferred":[
         "\ud0dc\uad6d",
         "\ud0c0\uc774"
     ],
     "name:kor_x_variant":[
-        "\ud0c0\uc774"
+        "\ud0dc\uad6d"
     ],
     "name:kur_x_preferred":[
         "Taylenda"
+    ],
+    "name:kur_x_variant":[
+        "Tayland"
     ],
     "name:lao_x_preferred":[
         "\u0e9b\u0eb0\u0ec0\u0e97\u0e94\u0ec4\u0e97"
@@ -383,6 +440,9 @@
     "name:lez_x_preferred":[
         "\u0422\u0430\u0438\u043b\u0430\u043d\u0434"
     ],
+    "name:lfn_x_preferred":[
+        "Tai"
+    ],
     "name:lij_x_preferred":[
         "Thailandia"
     ],
@@ -391,6 +451,9 @@
     ],
     "name:lin_x_preferred":[
         "Thailandi"
+    ],
+    "name:lin_x_variant":[
+        "Tha\u00eflande"
     ],
     "name:lit_x_preferred":[
         "Tailandas"
@@ -404,11 +467,17 @@
     "name:ltz_x_preferred":[
         "Thailand"
     ],
+    "name:lzh_x_preferred":[
+        "\u6cf0\u570b"
+    ],
     "name:mai_x_preferred":[
         "\u0925\u093e\u0907\u0932\u094d\u092f\u093e\u0923\u094d\u0921"
     ],
     "name:mal_x_preferred":[
         "\u0d24\u0d3e\u0d2f\u0d4d\u200c\u0d32\u0d3e\u0d28\u0d4d\u0d31\u0d4d"
+    ],
+    "name:mal_x_variant":[
+        "\u0d24\u0d3e\u0d2f\u0d4d \u0d32\u0d3e\u0d28\u0d4d\u0d31\u0d4d"
     ],
     "name:mar_x_preferred":[
         "\u0925\u093e\u092f\u0932\u0902\u0921"
@@ -425,17 +494,32 @@
     "name:mlg_x_preferred":[
         "Tailandy"
     ],
+    "name:mlt_x_preferred":[
+        "Tajlandja"
+    ],
     "name:mon_x_preferred":[
         "\u0422\u0430\u0439\u043b\u0430\u043d\u0434"
     ],
     "name:msa_x_preferred":[
         "Thailand"
     ],
+    "name:mwl_x_preferred":[
+        "Tail\u00e1ndia"
+    ],
     "name:mya_x_preferred":[
         "\u1011\u102d\u102f\u1004\u103a\u1038\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
     ],
+    "name:myv_x_preferred":[
+        "\u0422\u0430\u0439\u043b\u0430\u043d\u0434 \u041c\u0430\u0441\u0442\u043e\u0440"
+    ],
     "name:mzn_x_preferred":[
         "\u062a\u0627\u06cc\u0644\u0646\u062f"
+    ],
+    "name:nah_x_preferred":[
+        "Taitl\u0101lpan"
+    ],
+    "name:nan_x_preferred":[
+        "Th\u00e0i-kok"
     ],
     "name:nau_x_preferred":[
         "Thailand"
@@ -455,10 +539,16 @@
     "name:new_x_preferred":[
         "\u0925\u093e\u0907\u0932\u094d\u092f\u093e\u0928\u094d\u0926"
     ],
+    "name:new_x_variant":[
+        "\u0925\u093e\u0907\u0932\u094d\u092f\u093e\u0923\u094d\u0921"
+    ],
     "name:nld_x_preferred":[
         "Thailand"
     ],
     "name:nno_x_preferred":[
+        "Thailand"
+    ],
+    "name:nob_x_preferred":[
         "Thailand"
     ],
     "name:nor_x_preferred":[
@@ -467,11 +557,20 @@
     "name:nov_x_preferred":[
         "Tailande"
     ],
+    "name:nya_x_preferred":[
+        "Thailand"
+    ],
     "name:oci_x_preferred":[
         "Tail\u00e0ndia"
     ],
+    "name:olo_x_preferred":[
+        "Thaimua"
+    ],
     "name:ori_x_preferred":[
         "\u0b25\u0b3e\u0b07\u0b32\u0b4d\u0b5f\u0b3e\u0b23\u0b4d\u0b21"
+    ],
+    "name:ori_x_variant":[
+        "\u0b25\u0b3e\u0b07\u0b32\u0b3e\u0b23\u0b4d\u0b21"
     ],
     "name:orm_x_preferred":[
         "Taayilaand"
@@ -481,6 +580,9 @@
     ],
     "name:pam_x_preferred":[
         "Tailandya"
+    ],
+    "name:pam_x_variant":[
+        "Thailand"
     ],
     "name:pan_x_preferred":[
         "\u0a25\u0a3e\u0a08\u0a32\u0a48\u0a02\u0a21"
@@ -493,6 +595,9 @@
     ],
     "name:pih_x_preferred":[
         "Tailan"
+    ],
+    "name:pli_x_preferred":[
+        "\u0925\u093e\u0907\u0932\u0948\u0902\u0921"
     ],
     "name:pms_x_preferred":[
         "Thailandia"
@@ -533,11 +638,23 @@
     "name:san_x_preferred":[
         "\u0925\u0948\u0932\u0947\u0923\u094d\u0921\u094d"
     ],
+    "name:san_x_variant":[
+        "\u0925\u093e\u0907\u0932\u0948\u0902\u0921"
+    ],
+    "name:sat_x_preferred":[
+        "\u1c5b\u1c77\u1c5f\u1c6d\u1c5e\u1c6e\u1c71\u1c70"
+    ],
     "name:scn_x_preferred":[
         "Thailandia"
     ],
     "name:sco_x_preferred":[
         "Thailand"
+    ],
+    "name:sgs_x_preferred":[
+        "Tailands"
+    ],
+    "name:shn_x_preferred":[
+        "\u1019\u102d\u1030\u1004\u103a\u1038\u1011\u1086\u1038"
     ],
     "name:sin_x_preferred":[
         "\u0dad\u0dcf\u0dba\u0dd2\u0dbd\u0db1\u0dca\u0dad\u0dba"
@@ -557,6 +674,9 @@
     "name:sna_x_preferred":[
         "Thailand"
     ],
+    "name:snd_x_preferred":[
+        "\u067f\u0627\u0626\u064a\u0644\u064a\u0646\u068a"
+    ],
     "name:som_x_preferred":[
         "Tayland"
     ],
@@ -568,6 +688,9 @@
     ],
     "name:sqi_x_preferred":[
         "Tajlanda"
+    ],
+    "name:srd_x_preferred":[
+        "Tail\u00e0ndia"
     ],
     "name:srn_x_preferred":[
         "Taikondre"
@@ -616,6 +739,9 @@
     ],
     "name:tpi_x_preferred":[
         "Tailan"
+    ],
+    "name:tso_x_preferred":[
+        "Thailand"
     ],
     "name:tuk_x_preferred":[
         "Ta\u00fdland"
@@ -672,8 +798,17 @@
     "name:vol_x_preferred":[
         "Tay\u00e4n"
     ],
+    "name:vro_x_preferred":[
+        "Tai"
+    ],
     "name:war_x_preferred":[
         "Thailand"
+    ],
+    "name:war_x_variant":[
+        "Taylandya"
+    ],
+    "name:wln_x_preferred":[
+        "Taylande"
     ],
     "name:wol_x_preferred":[
         "Taaylaand"
@@ -692,6 +827,9 @@
     ],
     "name:yor_x_preferred":[
         "Th\u00e1\u00edl\u00e0nd\u00ec"
+    ],
+    "name:yue_x_preferred":[
+        "\u6cf0\u570b"
     ],
     "name:zea_x_preferred":[
         "Thailand"
@@ -846,7 +984,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561758450,
+    "wof:lastmodified":1563291797,
     "wof:name":"Thailand",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

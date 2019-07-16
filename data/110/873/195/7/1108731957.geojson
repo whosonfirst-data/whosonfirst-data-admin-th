@@ -38,6 +38,9 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09b8\u09c1\u09f1\u09be\u09a8\u09a8\u09be\u09ab\u09c1\u09ae"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Suwannaphum"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Suwannaphum"
     ],
@@ -56,8 +59,14 @@
     "name:tha_x_preferred":[
         "\u0e2a\u0e38\u0e27\u0e23\u0e23\u0e13\u0e20\u0e39\u0e21\u0e34"
     ],
+    "name:tha_x_variant":[
+        "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e2a\u0e38\u0e27\u0e23\u0e23\u0e13\u0e20\u0e39\u0e21\u0e34"
+    ],
     "name:vie_x_preferred":[
         "Suwannaphum"
+    ],
+    "name:zho_x_preferred":[
+        "\u7d20\u65fa\u90a3\u9022\u7e23"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -95,7 +104,7 @@
         }
     ],
     "wof:id":1108731957,
-    "wof:lastmodified":1561758738,
+    "wof:lastmodified":1563296452,
     "wof:name":"Suwannaphum",
     "wof:parent_id":85678845,
     "wof:placetype":"county",

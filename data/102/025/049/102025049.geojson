@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000262,
-    "geom:area_square_m":3133822.353779,
+    "geom:area_square_m":3133822.353783,
     "geom:bbox":"100.378295777,14.4841508315,100.396850668,14.5022287458",
     "geom:latitude":14.49319,
     "geom:longitude":100.387573,
@@ -22,6 +22,9 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ab\u09be\u0995 \u09b9\u09be\u0987"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Phak Hai"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Phak Hai"
     ],
@@ -33,8 +36,14 @@
         "Ban Phakhai",
         "Pak Hai"
     ],
+    "name:fra_x_preferred":[
+        "Phak Hai"
+    ],
     "name:jpn_x_preferred":[
         "\u30d1\u30c3\u30af\u30cf\u30a4\u90e1"
+    ],
+    "name:nan_x_preferred":[
+        "Phak Hai K\u016bn"
     ],
     "name:ron_x_preferred":[
         "Districtul Phak Hai"
@@ -47,6 +56,9 @@
     ],
     "name:unk_x_variant":[
         "Ban Phakhai"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u06be\u0627\u06a9 \u06c1\u0627\u0626\u06cc \u0636\u0644\u0639"
     ],
     "name:vie_x_preferred":[
         "Phak Hai"
@@ -101,7 +113,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636682,
+    "wof:lastmodified":1563290359,
     "wof:name":"Phak Hai",
     "wof:parent_id":890466739,
     "wof:placetype":"locality",
