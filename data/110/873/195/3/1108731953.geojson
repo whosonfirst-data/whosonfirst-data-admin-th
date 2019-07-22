@@ -38,6 +38,9 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09b8\u09c1-\u0999\u09be\u0987 \u09aa\u09be\u09a6\u09bf"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Su-ngai Padi"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Su-ngai Padi"
     ],
@@ -65,8 +68,17 @@
     "name:tha_x_preferred":[
         "\u0e2a\u0e38\u0e44\u0e2b\u0e07\u0e1b\u0e32\u0e14\u0e35"
     ],
+    "name:tha_x_variant":[
+        "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e2a\u0e38\u0e44\u0e2b\u0e07\u0e1b\u0e32\u0e14\u0e35"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0648\u0646\u06af\u0627\u0626\u06cc \u067e\u0627\u062f\u06cc \u0636\u0644\u0639"
+    ],
     "name:vie_x_preferred":[
         "Su-ngai Padi"
+    ],
+    "name:zho_x_preferred":[
+        "\u7d20\u827e\u5df4\u8fea\u53bf"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -104,7 +116,7 @@
         }
     ],
     "wof:id":1108731953,
-    "wof:lastmodified":1561758738,
+    "wof:lastmodified":1563296452,
     "wof:name":"Sungai Padi",
     "wof:parent_id":85678885,
     "wof:placetype":"county",

@@ -41,6 +41,9 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ae\u09c1\u09af\u09bc\u09c7\u0982 \u09aa\u09be\u09a8"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Mueang Pan"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Mueang Pan"
     ],
@@ -48,11 +51,13 @@
         "Mueang Pan"
     ],
     "name:eng_x_variant":[
-        "Muang Pan",
-        "Mueang Pan"
+        "Muang Pan"
     ],
     "name:fra_x_preferred":[
         "Mueang Pan"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e0\u30a2\u30f3\u30d1\u30fc\u30f3\u90e1"
     ],
     "name:nan_x_preferred":[
         "Mueang Pan K\u016bn"
@@ -68,6 +73,9 @@
     ],
     "name:unk_x_variant":[
         "Amphoe Mueang Pan"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0648\u0626\u0627\u0646\u06af \u067e\u0627\u0646 \u0636\u0644\u0639"
     ],
     "name:vie_x_preferred":[
         "Mueang Pan"
@@ -120,7 +128,7 @@
         }
     ],
     "wof:id":890465907,
-    "wof:lastmodified":1561758874,
+    "wof:lastmodified":1563298243,
     "wof:name":"Muang Pan",
     "wof:parent_id":85678625,
     "wof:placetype":"county",

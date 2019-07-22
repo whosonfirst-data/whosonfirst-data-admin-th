@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00218,
-    "geom:area_square_m":26295790.978668,
+    "geom:area_square_m":26295790.978664,
     "geom:bbox":"102.169146545,12.6554250304,102.253464557,12.7726212829",
     "geom:latitude":12.707914,
     "geom:longitude":102.216054,
@@ -21,6 +21,9 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ae\u09be\u0996\u09be\u09ae"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Makham"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Makham"
     ],
@@ -29,6 +32,12 @@
     ],
     "name:eng_x_variant":[
         "Ban Makham"
+    ],
+    "name:fra_x_preferred":[
+        "Makham"
+    ],
+    "name:nan_x_preferred":[
+        "Makham K\u016bn"
     ],
     "name:ron_x_preferred":[
         "Districtul Makham"
@@ -41,6 +50,9 @@
     ],
     "name:unk_x_variant":[
         "Amphoe Makham"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0627\u06a9\u06c1\u0627\u0645 \u0636\u0644\u0639"
     ],
     "name:vie_x_preferred":[
         "Makham"
@@ -97,7 +109,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636682,
+    "wof:lastmodified":1563290357,
     "wof:name":"Makham",
     "wof:parent_id":1108802661,
     "wof:placetype":"locality",

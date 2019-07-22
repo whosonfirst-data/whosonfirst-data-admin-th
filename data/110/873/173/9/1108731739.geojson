@@ -38,6 +38,9 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ab\u09b0\u09be \u09aa\u09cd\u09b0\u09be\u09a6\u09be\u09af\u09bc\u09c7\u0982"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Phra Pradaeng"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Phra Pradaeng"
     ],
@@ -45,7 +48,6 @@
         "Phra Pradaeng"
     ],
     "name:eng_x_variant":[
-        "Phra Pradaeng",
         "Phra Pra Daeng"
     ],
     "name:fra_x_preferred":[
@@ -72,8 +74,14 @@
     "name:tha_x_preferred":[
         "\u0e1e\u0e23\u0e30\u0e1b\u0e23\u0e30\u0e41\u0e14\u0e07"
     ],
+    "name:tha_x_variant":[
+        "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e1e\u0e23\u0e30\u0e1b\u0e23\u0e30\u0e41\u0e14\u0e07"
+    ],
     "name:vie_x_preferred":[
         "Phra Pradaeng"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e15\u5df4\u767b\u7e23"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -111,7 +119,7 @@
         }
     ],
     "wof:id":1108731739,
-    "wof:lastmodified":1561758745,
+    "wof:lastmodified":1563296482,
     "wof:name":"Phra Pradaeng",
     "wof:parent_id":85678765,
     "wof:placetype":"county",

@@ -30,6 +30,12 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":8.0,
+    "name:ceb_x_preferred":[
+        "Bueng Kan"
+    ],
+    "name:deu_x_preferred":[
+        "Bueng Kan"
+    ],
     "name:eng_x_preferred":[
         "Nong Khai"
     ],
@@ -37,11 +43,36 @@
         "Changwat Nong Khai",
         "Bueng Kan"
     ],
+    "name:glg_x_preferred":[
+        "Bueng Kan"
+    ],
+    "name:ita_x_preferred":[
+        "Bueng Kan"
+    ],
+    "name:kor_x_preferred":[
+        "\ube21\uae50"
+    ],
+    "name:msa_x_preferred":[
+        "Bueng Kan"
+    ],
+    "name:mya_x_preferred":[
+        "\u1018\u1031\u102c\u1004\u103a\u1038\u1000\u1036\u1019\u103c\u102d\u102f\u1037\u1014\u101a\u103a"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0628\u0648\u0626\u0646\u06af \u06a9\u0627\u0646"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u044b\u043d\u0433\u043a\u0430\u043d"
+    ],
     "name:tha_x_preferred":[
         "\u0e1a\u0e36\u0e07\u0e01\u0e32\u0e2c"
     ],
     "name:tha_x_variant":[
-        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e1a\u0e36\u0e07\u0e01\u0e32\u0e2c"
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e1a\u0e36\u0e07\u0e01\u0e32\u0e2c",
+        "\u0e40\u0e17\u0e28\u0e1a\u0e32\u0e25\u0e15\u0e33\u0e1a\u0e25\u0e1a\u0e36\u0e07\u0e01\u0e32\u0e2c"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0648\u0626\u0646\u06af \u06a9\u0627\u0646"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"THA",
@@ -162,7 +193,7 @@
     "wof:lang_x_spoken":[
         "tha"
     ],
-    "wof:lastmodified":1554156330,
+    "wof:lastmodified":1563291802,
     "wof:name":"Bueng Kan",
     "wof:parent_id":85632293,
     "wof:placetype":"region",

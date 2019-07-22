@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001302,
-    "geom:area_square_m":15408766.116875,
+    "geom:area_square_m":15408766.116865,
     "geom:bbox":"99.7849261205,16.7060850626,99.8146837239,16.8503863275",
     "geom:latitude":16.796523,
     "geom:longitude":99.796453,
@@ -20,11 +20,20 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u0996\u09bf\u09b0\u09bf \u09ae\u09af\u09bc\u09be\u09a4"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Khiri Mat"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Khiri Mat"
     ],
     "name:eng_x_preferred":[
         "Khiri Mat"
+    ],
+    "name:fra_x_preferred":[
+        "Khiri Mat"
+    ],
+    "name:nan_x_preferred":[
+        "Khiri Mat K\u016bn"
     ],
     "name:ron_x_preferred":[
         "Districtul Khiri Mat"
@@ -92,7 +101,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636451,
+    "wof:lastmodified":1563290323,
     "wof:name":"Khiri Mat",
     "wof:parent_id":85678651,
     "wof:placetype":"locality",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001414,
+    "geom:area_square_m":17350434.86567,
     "geom:bbox":"99.7852578116,7.0318823162,100.001120116,7.12628999247",
     "geom:latitude":7.090052,
     "geom:longitude":99.947315,
@@ -18,20 +19,35 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09a5\u09c1\u0982 \u09f1\u09be"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Thung Wa"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Thung Wa"
     ],
     "name:eng_x_preferred":[
         "Thung Wa"
     ],
+    "name:fra_x_preferred":[
+        "Thung Wa"
+    ],
     "name:jpn_x_preferred":[
         "\u30c8\u30a5\u30f3\u30ef\u30fc\u90e1"
+    ],
+    "name:nan_x_preferred":[
+        "Thung Wa K\u016bn"
     ],
     "name:por_x_preferred":[
         "Thung Wa"
     ],
     "name:ron_x_preferred":[
         "Districtul Thung Wa"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0445\u0443\u043d\u0433\u0432\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Distrito Thung Wa"
     ],
     "name:tha_x_preferred":[
         "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e17\u0e38\u0e48\u0e07\u0e2b\u0e27\u0e49\u0e32"
@@ -95,7 +111,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636437,
+    "wof:lastmodified":1563290220,
     "wof:name":"Thung Wa",
     "wof:parent_id":85678595,
     "wof:placetype":"locality",

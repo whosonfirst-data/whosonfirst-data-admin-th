@@ -35,6 +35,9 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ae\u09c1\u09af\u09bc\u09c7\u0982 \u09b2\u09be\u09ae\u09ab\u09c1\u09a8"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Mueang Lamphun"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Mueang Lamphun"
     ],
@@ -59,6 +62,12 @@
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e25\u0e33\u0e1e\u0e39\u0e19"
+    ],
+    "name:tha_x_variant":[
+        "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e25\u0e33\u0e1e\u0e39\u0e19"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0648\u0626\u0627\u0646\u06af \u0644\u0627\u0645\u067e\u06be\u0648\u0646 \u0636\u0644\u0639"
     ],
     "name:vie_x_preferred":[
         "Mueang Lamphun"
@@ -116,7 +125,7 @@
         }
     ],
     "wof:id":890466981,
-    "wof:lastmodified":1561758898,
+    "wof:lastmodified":1563298460,
     "wof:name":"Muang Lamphun",
     "wof:parent_id":85678629,
     "wof:placetype":"county",

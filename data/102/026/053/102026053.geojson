@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000262,
+    "geom:area_square_m":3132403.395702,
     "geom:bbox":"103.146840992,14.760534138,103.16541492,14.7786075398",
     "geom:latitude":14.769571,
     "geom:longitude":103.156128,
@@ -20,11 +21,20 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ab\u09b2\u09af\u09bc\u09be\u09b0\u09ab\u09b2\u09be \u099a\u09bf"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Phlapphla Chai"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Phlapphla Chai"
     ],
     "name:eng_x_preferred":[
         "Phlapphla Chai"
+    ],
+    "name:fra_x_preferred":[
+        "Phlapphla Chai"
+    ],
+    "name:nan_x_preferred":[
+        "Phlapphla Chai K\u016bn"
     ],
     "name:ron_x_preferred":[
         "Districtul Phlapphla Chai"
@@ -37,6 +47,9 @@
     ],
     "name:unk_x_variant":[
         "King Amphoe Phlapphla Chai"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u06be\u0644\u0627\u067e\u06c1\u0644\u0627 \u0686\u0627\u0626\u06cc \u0636\u0644\u0639"
     ],
     "name:vie_x_preferred":[
         "Phlapphla Chai"
@@ -91,7 +104,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527637808,
+    "wof:lastmodified":1563290466,
     "wof:name":"Phlapphla Chai",
     "wof:parent_id":85678817,
     "wof:placetype":"locality",

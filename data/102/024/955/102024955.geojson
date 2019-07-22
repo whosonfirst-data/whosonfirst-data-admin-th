@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001417,
+    "geom:area_square_m":16874692.492968,
     "geom:bbox":"102.938068084,15.5346329181,103.011639323,15.5632876243",
     "geom:latitude":15.548672,
     "geom:longitude":102.975291,
@@ -18,11 +19,20 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ab\u09c1\u09a4\u09a5\u09bf\u09b8\u09cb\u0982"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Phutthaisong"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Phutthaisong"
     ],
     "name:eng_x_preferred":[
         "Phutthaisong"
+    ],
+    "name:fra_x_preferred":[
+        "Phutthaisong"
+    ],
+    "name:nan_x_preferred":[
+        "Phutthaisong K\u016bn"
     ],
     "name:ron_x_preferred":[
         "Districtul Phutthaisong"
@@ -35,6 +45,9 @@
     ],
     "name:unk_x_variant":[
         "Amphoe Phutthaisong"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u06be\u0648\u062a\u06be\u0627\u06cc\u0633\u0648\u0646\u06af \u0636\u0644\u0639"
     ],
     "name:vie_x_preferred":[
         "Phutthaisong"
@@ -89,7 +102,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636428,
+    "wof:lastmodified":1563290192,
     "wof:name":"Phutthaisong",
     "wof:parent_id":85678817,
     "wof:placetype":"locality",

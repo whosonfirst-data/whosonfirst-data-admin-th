@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000266,
-    "geom:area_square_m":3131077.016288,
+    "geom:area_square_m":3131077.016294,
     "geom:bbox":"103.080778207,17.8181111668,103.099641771,17.83617867",
     "geom:latitude":17.827145,
     "geom:longitude":103.09021,
@@ -19,6 +19,9 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09b8\u09be\u0982 \u0996\u09cb\u09ae"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Sang Khom"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Sang Khom"
     ],
@@ -27,6 +30,15 @@
     ],
     "name:eng_x_variant":[
         "Sang Khom"
+    ],
+    "name:fra_x_preferred":[
+        "Sang Khom"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30fc\u30f3\u30b3\u30fc\u30e0\u90e1"
+    ],
+    "name:nan_x_preferred":[
+        "Sang Khom K\u016bn"
     ],
     "name:ron_x_preferred":[
         "Districtul Sang Khom"
@@ -92,7 +104,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636446,
+    "wof:lastmodified":1563290282,
     "wof:name":"Sang Khom",
     "wof:parent_id":1108802739,
     "wof:placetype":"locality",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001662,
+    "geom:area_square_m":19707112.23948,
     "geom:bbox":"102.399697894,16.4428595609,102.550255827,16.5241309664",
     "geom:latitude":16.483789,
     "geom:longitude":102.442003,
@@ -20,8 +21,20 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09a8\u09cb\u0982 \u09b0\u09c1\u09af\u09bc\u09be"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Nong Ruea"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Nong Ruea"
+    ],
+    "name:eng_x_preferred":[
+        "Nong Ruea"
+    ],
+    "name:fra_x_preferred":[
+        "Nong Ruea"
+    ],
+    "name:nan_x_preferred":[
+        "Nong Ruea K\u016bn"
     ],
     "name:ron_x_preferred":[
         "Districtul Nong Ruea"
@@ -34,6 +47,9 @@
     ],
     "name:unk_x_variant":[
         "Ban Nong Rua"
+    ],
+    "name:urd_x_preferred":[
+        "\u0646\u0648\u0646\u06af \u0631\u0648\u0626\u06cc\u0627 \u0636\u0644\u0639"
     ],
     "name:vie_x_preferred":[
         "Nong Ruea"
@@ -81,7 +97,7 @@
         }
     ],
     "wof:id":102025109,
-    "wof:lastmodified":1527636685,
+    "wof:lastmodified":1563290402,
     "wof:name":"Nong Ruea",
     "wof:parent_id":85678827,
     "wof:placetype":"locality",

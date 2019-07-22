@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000034,
-    "geom:area_square_m":412338.308127,
+    "geom:area_square_m":412338.30813,
     "geom:bbox":"100.506549105,13.7380510868,100.514416466,13.7480758561",
     "geom:latitude":13.74281,
     "geom:longitude":100.510064,
@@ -24,14 +24,54 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":5,
+    "name:ara_x_preferred":[
+        "\u0645\u0646\u0637\u0642\u0629 \u0633\u0627\u0645\u0641\u0627\u0646\u062b\u0627\u0648\u0646\u062c"
+    ],
+    "name:bpy_x_preferred":[
+        "\u0996\u09c7\u09a4 \u09b8\u09be\u09ae\u09ab\u09be\u09a8\u09a5\u09be\u09f1\u09cb\u0982"
+    ],
+    "name:ceb_x_preferred":[
+        "Khet Samphanthawong"
+    ],
+    "name:deu_x_preferred":[
+        "Samphanthawong"
+    ],
     "name:eng_x_preferred":[
         "Samphanthawong Khwaeng"
     ],
     "name:eng_x_variant":[
-        "Samphanthawong Khwang"
+        "Samphanthawong Khwang",
+        "Samphanthawong"
+    ],
+    "name:ita_x_preferred":[
+        "Samphanthawong"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30e0\u30d1\u30c3\u30bf\u30a6\u30a9\u30f3\u533a"
+    ],
+    "name:lao_x_preferred":[
+        "\u0ec0\u0e82\u0e94\u0eaa\u0eb1\u0ea1\u0e9e\u0eb1\u0e99\u0e97\u0eb0\u0ea7\u0ebb\u0e87"
+    ],
+    "name:nob_x_preferred":[
+        "Samphan Thawong"
+    ],
+    "name:sme_x_preferred":[
+        "Samphan Thawong"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e02\u0e15\u0e2a\u0e31\u0e21\u0e1e\u0e31\u0e19\u0e18\u0e27\u0e07\u0e28\u0e4c"
     ],
     "name:unk_x_variant":[
         "Samphanthawong Khwaeng"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u0645\u067e\u06be\u0627\u0646\u062a\u06be\u0627\u0648\u0648\u0646\u06af \u0636\u0644\u0639"
+    ],
+    "name:vie_x_preferred":[
+        "Samphanthawong"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e09\u6500\u4ed6\u65fa\u53bf"
     ],
     "qs:gn_adm0_cc":"TH",
     "qs:gn_id":0,
@@ -92,7 +132,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527269214,
+    "wof:lastmodified":1563291765,
     "wof:name":"Samphanthawong Khwaeng",
     "wof:parent_id":102025263,
     "wof:placetype":"neighbourhood",

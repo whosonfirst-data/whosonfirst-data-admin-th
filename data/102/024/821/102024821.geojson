@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001561,
+    "geom:area_square_m":18550078.062966,
     "geom:bbox":"103.882864777,15.9364452287,104.132275587,16.1234698195",
     "geom:latitude":16.044182,
     "geom:longitude":103.96795,
@@ -18,11 +19,23 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09b8\u09c7\u09b2\u09be\u09ab\u09c1\u09ae"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Selaphum"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Selaphum"
     ],
     "name:eng_x_preferred":[
         "Klang"
+    ],
+    "name:eng_x_variant":[
+        "Selaphum"
+    ],
+    "name:fra_x_preferred":[
+        "Selaphum"
+    ],
+    "name:nan_x_preferred":[
+        "Selaphum K\u016bn"
     ],
     "name:ron_x_preferred":[
         "Districtul Selaphum"
@@ -86,7 +99,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636431,
+    "wof:lastmodified":1563290204,
     "wof:name":"Selaphum",
     "wof:parent_id":85678845,
     "wof:placetype":"locality",

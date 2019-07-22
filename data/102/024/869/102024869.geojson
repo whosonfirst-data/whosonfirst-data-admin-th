@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000011,
+    "geom:area_square_m":138387.380366,
     "geom:bbox":"101.467112471,12.6148769159,101.482441455,12.6215759908",
     "geom:latitude":12.618139,
     "geom:longitude":101.472908,
@@ -18,8 +19,20 @@
     "name:ara_x_preferred":[
         "\u062c\u0632\u064a\u0631\u0629 \u0643\u0648\u0647 \u0633\u0645\u064a\u062a"
     ],
+    "name:aze_x_preferred":[
+        "Samet adas\u0131"
+    ],
+    "name:ceb_x_preferred":[
+        "Ko Samet"
+    ],
     "name:deu_x_preferred":[
         "Ko Samet"
+    ],
+    "name:eng_x_preferred":[
+        "Ko Samet"
+    ],
+    "name:fin_x_preferred":[
+        "Ko samet"
     ],
     "name:fra_x_preferred":[
         "Ko Samet"
@@ -36,10 +49,16 @@
     "name:kor_x_preferred":[
         "\uc0ac\uba67 \uc12c"
     ],
+    "name:kor_x_variant":[
+        "\uc0ac\uba67\uc12c"
+    ],
     "name:nld_x_preferred":[
         "Ko Samet"
     ],
     "name:pol_x_preferred":[
+        "Ko Samet"
+    ],
+    "name:por_x_preferred":[
         "Ko Samet"
     ],
     "name:rus_x_preferred":[
@@ -57,8 +76,14 @@
     "name:tur_x_preferred":[
         "Ko Samet"
     ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043c\u0435\u0442"
+    ],
     "name:unk_x_variant":[
         "Ko Samet Island"
+    ],
+    "name:yue_x_preferred":[
+        "\u6c99\u7f8e\u5cf6"
     ],
     "name:zho_x_preferred":[
         "\u6c99\u7f8e\u5c9b"
@@ -100,7 +125,7 @@
         }
     ],
     "wof:id":102024869,
-    "wof:lastmodified":1527636437,
+    "wof:lastmodified":1563290221,
     "wof:name":"Ko Samet",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

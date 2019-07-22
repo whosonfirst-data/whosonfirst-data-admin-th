@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000524,
+    "geom:area_square_m":6270128.417744,
     "geom:bbox":"99.6861474936,14.5054213234,99.7376738587,14.6829807124",
     "geom:latitude":14.59423,
     "geom:longitude":99.711908,
@@ -18,14 +19,26 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09b2\u09be\u0993\u0996\u09f1\u09be\u09a8"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Lao Khwan"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Lao Khwan"
     ],
     "name:eng_x_preferred":[
         "Lao Khwan"
     ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0644\u0622\u0648 \u06a9\u0648\u0622\u0646"
+    ],
     "name:fra_x_preferred":[
         "Amphoe Lao Khwan"
+    ],
+    "name:fra_x_variant":[
+        "Lao Khwan"
+    ],
+    "name:nan_x_preferred":[
+        "Lao Khwan K\u016bn"
     ],
     "name:ron_x_preferred":[
         "Districtul Lao Khwan"
@@ -92,7 +105,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636446,
+    "wof:lastmodified":1563290283,
     "wof:name":"Lao Khwan",
     "wof:parent_id":85678663,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001981,
-    "geom:area_square_m":24264684.113611,
+    "geom:area_square_m":24264684.113613,
     "geom:bbox":"99.5765015709,7.77270598077,99.6495723041,7.81528708205",
     "geom:latitude":7.796298,
     "geom:longitude":99.618422,
@@ -20,14 +20,26 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09b9\u09c1\u09af\u09bc\u09be\u0987 \u09af\u09bc\u09cb\u09a4"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Huai Yot"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Huai Yot"
     ],
     "name:eng_x_preferred":[
         "Khao Khao"
     ],
+    "name:eng_x_variant":[
+        "Huai Yot"
+    ],
+    "name:fra_x_preferred":[
+        "Huai Yot"
+    ],
     "name:jpn_x_preferred":[
         "\u30d5\u30ef\u30a4\u30e8\u30fc\u30c8\u90e1"
+    ],
+    "name:nan_x_preferred":[
+        "Huai Yot K\u016bn"
     ],
     "name:por_x_preferred":[
         "Huai Yot"
@@ -98,7 +110,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636441,
+    "wof:lastmodified":1563290244,
     "wof:name":"Huai Yot",
     "wof:parent_id":890466209,
     "wof:placetype":"locality",

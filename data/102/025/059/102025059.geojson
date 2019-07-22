@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000721,
-    "geom:area_square_m":8383088.106029,
+    "geom:area_square_m":8383088.106038,
     "geom:bbox":"100.144563916,19.8455256075,100.177396296,19.8765117047",
     "geom:latitude":19.862553,
     "geom:longitude":100.159739,
@@ -21,6 +21,9 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ab\u09be\u09af\u09bc\u09be \u09ae\u09af\u09bc\u09c7\u0982\u09b0\u09be\u0987"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Phaya Mengrai"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Phaya Mengrai"
     ],
@@ -31,8 +34,14 @@
         "Phaya Meng Rai",
         "Phaya Mengrai"
     ],
+    "name:fra_x_preferred":[
+        "Phaya Mengrai"
+    ],
     "name:jpn_x_preferred":[
         "\u30d1\u30e4\u30fc\u30e1\u30f3\u30e9\u30fc\u30a4\u90e1"
+    ],
+    "name:nan_x_preferred":[
+        "Phaya Mengrai K\u016bn"
     ],
     "name:ron_x_preferred":[
         "Districtul Phaya Mengrai"
@@ -45,6 +54,9 @@
     ],
     "name:unk_x_variant":[
         "Paya Meng Rai"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u06be\u0627\u06cc\u0627 \u0645\u06cc\u0646\u06af\u0631\u0627\u0626\u06cc \u0636\u0644\u0639"
     ],
     "name:vie_x_preferred":[
         "Phaya Mengrai(huy\u1ec7n)"
@@ -98,7 +110,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636687,
+    "wof:lastmodified":1563290432,
     "wof:name":"Phaya Mengrai",
     "wof:parent_id":1108802717,
     "wof:placetype":"locality",

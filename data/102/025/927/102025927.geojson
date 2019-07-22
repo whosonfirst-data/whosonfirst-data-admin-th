@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000603,
-    "geom:area_square_m":7061624.516585,
+    "geom:area_square_m":7061624.516555,
     "geom:bbox":"99.1009305498,18.6320021316,99.1226407897,18.6682946974",
     "geom:latitude":18.650245,
     "geom:longitude":99.112208,
@@ -18,11 +18,20 @@
     "mps:longitude":99.113087,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Ban Thi"
+    ],
     "name:eng_x_preferred":[
+        "Ban Thi"
+    ],
+    "name:fra_x_preferred":[
         "Ban Thi"
     ],
     "name:tha_x_preferred":[
         "\u0e1a\u0e49\u0e32\u0e19\u0e18\u0e34"
+    ],
+    "name:tha_x_variant":[
+        "\u0e15\u0e33\u0e1a\u0e25\u0e1a\u0e49\u0e32\u0e19\u0e18\u0e34"
     ],
     "name:unk_x_variant":[
         "King Amphoe Ban Thi"
@@ -73,7 +82,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636688,
+    "wof:lastmodified":1563290449,
     "wof:name":"Ban Thi",
     "wof:parent_id":1108731161,
     "wof:placetype":"locality",

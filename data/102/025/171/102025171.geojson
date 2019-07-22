@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001013,
-    "geom:area_square_m":11995671.6977,
+    "geom:area_square_m":11995671.697702,
     "geom:bbox":"101.652613736,16.7166163278,101.737275679,16.7872761763",
     "geom:latitude":16.751949,
     "geom:longitude":101.694943,
@@ -24,8 +24,20 @@
     "name:eng_x_preferred":[
         "Nam Nao"
     ],
+    "name:eng_x_variant":[
+        "Nam Nao National Park"
+    ],
+    "name:hin_x_preferred":[
+        "\u0928\u093e\u092e \u0928\u093e\u0913 \u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u0909\u0926\u094d\u092f\u093e\u0928"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ca\u30e0\u30fb\u30ca\u30aa\u56fd\u7acb\u516c\u5712"
+    ],
     "name:lit_x_preferred":[
         "Namnao nacionalinis parkas"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d28\u0d02 \u0d28\u0d2f\u0d4b \u0d26\u0d47\u0d36\u0d40\u0d2f\u0d4b\u0d26\u0d4d\u0d2f\u0d3e\u0d28\u0d02"
     ],
     "name:ron_x_preferred":[
         "Parcul Na\u021bional Nam Nao"
@@ -88,7 +100,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636689,
+    "wof:lastmodified":1563290459,
     "wof:name":"Nam Nao",
     "wof:parent_id":1108802687,
     "wof:placetype":"locality",

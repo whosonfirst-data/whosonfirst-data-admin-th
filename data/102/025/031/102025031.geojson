@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00195,
-    "geom:area_square_m":23455117.965077,
+    "geom:area_square_m":23455117.965138,
     "geom:bbox":"101.093668706,13.3752393591,101.132887213,13.5001674265",
     "geom:latitude":13.433452,
     "geom:longitude":101.109998,
@@ -22,6 +22,9 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ab\u09be\u09a8 \u09a5\u09cb\u0982"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Phan Thong"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Phan Thong"
     ],
@@ -31,8 +34,14 @@
     "name:fra_x_preferred":[
         "Amphoe Phan Thong"
     ],
+    "name:fra_x_variant":[
+        "Phan Thong"
+    ],
     "name:jpn_x_preferred":[
         "\u30d1\u30fc\u30f3\u30c8\u30fc\u30f3\u90e1"
+    ],
+    "name:nan_x_preferred":[
+        "Phan Thong K\u016bn"
     ],
     "name:ron_x_preferred":[
         "Districtul Phan Thong"
@@ -45,6 +54,9 @@
     ],
     "name:unk_x_variant":[
         "Amphoe Phan Thong"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u06be\u0627\u0646 \u062a\u06be\u0648\u0646\u06af \u0636\u0644\u0639"
     ],
     "name:vie_x_preferred":[
         "Phan Thong"
@@ -102,7 +114,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636683,
+    "wof:lastmodified":1563290369,
     "wof:name":"Phan Thong",
     "wof:parent_id":85678795,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002267,
-    "geom:area_square_m":27001117.753681,
+    "geom:area_square_m":27001117.753683,
     "geom:bbox":"101.026446834,15.5240483927,101.165943335,15.7325603557",
     "geom:latitude":15.606527,
     "geom:longitude":101.074839,
@@ -19,6 +19,9 @@
     "mz:is_current":-1,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09f1\u09bf\u099a\u09bf\u09af\u09bc\u09be\u09a8 \u09ac\u09c1\u09b0\u09bf"
+    ],
+    "name:ceb_x_preferred":[
+        "Amphoe Wichian Buri"
     ],
     "name:deu_x_preferred":[
         "Amphoe Wichian Buri"
@@ -34,8 +37,20 @@
         "Wi-ji\u0113rn",
         "Wichian"
     ],
+    "name:fra_x_preferred":[
+        "Wichian Buri"
+    ],
     "name:glg_x_preferred":[
         "Distrito Wichian Buri"
+    ],
+    "name:glg_x_variant":[
+        "Wichian Buri -\u0e27\u0e34\u0e40\u0e0a\u0e35\u0e22\u0e23\u0e1a\u0e38\u0e23\u0e35"
+    ],
+    "name:nan_x_preferred":[
+        "Wichian Buri K\u016bn"
+    ],
+    "name:nob_x_preferred":[
+        "Wichian Buri"
     ],
     "name:ron_x_preferred":[
         "Districtul Wichian Buri"
@@ -108,7 +123,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636446,
+    "wof:lastmodified":1563290279,
     "wof:name":"Wichian Buri",
     "wof:parent_id":890467495,
     "wof:placetype":"locality",

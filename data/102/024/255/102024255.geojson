@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001092,
+    "geom:area_square_m":12817107.325694,
     "geom:bbox":"97.9254100014,18.368948858,97.969060463,18.4104791538",
     "geom:latitude":18.389905,
     "geom:longitude":97.945485,
@@ -15,19 +16,27 @@
     "mps:longitude":97.938521,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Mae La Noi"
+    ],
     "name:eng_x_preferred":[
         "Mae la Noi"
     ],
     "name:eng_x_variant":[
         "Ban Mae Na Loi",
         "Ban Melanoy",
-        "Melanoi"
+        "Melanoi",
+        "Mae La Noi"
+    ],
+    "name:fra_x_preferred":[
+        "Mae La Noi"
     ],
     "name:tha_x_preferred":[
         "\u0e1a\u0e49\u0e32\u0e19\u0e41\u0e21\u0e48\u0e25\u0e32\u0e19\u0e49\u0e2d\u0e22"
     ],
     "name:tha_x_variant":[
-        "\u0e41\u0e21\u0e48\u0e25\u0e32\u0e19\u0e49\u0e2d\u0e22"
+        "\u0e41\u0e21\u0e48\u0e25\u0e32\u0e19\u0e49\u0e2d\u0e22",
+        "\u0e15\u0e33\u0e1a\u0e25\u0e41\u0e21\u0e48\u0e25\u0e32\u0e19\u0e49\u0e2d\u0e22"
     ],
     "name:unk_x_variant":[
         "King Amphoe Mae La Noi"
@@ -83,7 +92,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636449,
+    "wof:lastmodified":1563290304,
     "wof:name":"Mae La Noi",
     "wof:parent_id":85678555,
     "wof:placetype":"locality",

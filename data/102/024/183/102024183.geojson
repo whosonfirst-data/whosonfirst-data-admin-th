@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000451,
-    "geom:area_square_m":5336434.104744,
+    "geom:area_square_m":5336434.104743,
     "geom:bbox":"99.4443545045,16.7166063114,99.4741024989,16.734685322",
     "geom:latitude":16.725646,
     "geom:longitude":99.459228,
@@ -18,6 +18,9 @@
     "mz:is_current":-1,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ab\u09cd\u09b0\u09be\u09a8 \u0995\u09cd\u09b0\u09be\u09a4\u09bf"
+    ],
+    "name:ceb_x_preferred":[
+        "Amphoe Phran Kratai"
     ],
     "name:deu_x_preferred":[
         "Amphoe Phran Kratai"
@@ -36,6 +39,15 @@
         "Bhr\u00e5nkratai",
         "Phran Katai"
     ],
+    "name:fra_x_preferred":[
+        "Phran Kratai"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d7\u30e9\u30fc\u30f3\u30af\u30e9\u30bf\u30fc\u30a4\u90e1"
+    ],
+    "name:nan_x_preferred":[
+        "Phran Kratai K\u016bn"
+    ],
     "name:ron_x_preferred":[
         "Districtul Phran Kratai"
     ],
@@ -47,6 +59,9 @@
     ],
     "name:unk_x_variant":[
         "Amphoe Phran Kratai"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u06be\u0631\u0627\u0646 \u06a9\u0631\u0627\u062a\u0627\u0626\u06cc \u0636\u0644\u0639"
     ],
     "name:vie_x_preferred":[
         "Phran Kratai"
@@ -100,7 +115,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636450,
+    "wof:lastmodified":1563290316,
     "wof:name":"Phran Kratai",
     "wof:parent_id":890465763,
     "wof:placetype":"locality",

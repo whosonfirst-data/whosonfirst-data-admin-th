@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001404,
-    "geom:area_square_m":16569745.516451,
+    "geom:area_square_m":16569745.516441,
     "geom:bbox":"99.9606820264,17.3363570729,100.001478763,17.4173424004",
     "geom:latitude":17.373878,
     "geom:longitude":99.981337,
@@ -19,6 +19,9 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09b8\u09bf \u09a8\u09be\u0996\u09cb\u09a8"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Si Nakhon"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Si Nakhon"
     ],
@@ -27,6 +30,12 @@
     ],
     "name:eng_x_variant":[
         "Si Nakorn"
+    ],
+    "name:fra_x_preferred":[
+        "Si Nakhon"
+    ],
+    "name:nan_x_preferred":[
+        "Si Nakhon K\u016bn"
     ],
     "name:ron_x_preferred":[
         "Districtul Si Nakhon"
@@ -92,7 +101,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636440,
+    "wof:lastmodified":1563290235,
     "wof:name":"Si Nakhon",
     "wof:parent_id":1108802749,
     "wof:placetype":"locality",

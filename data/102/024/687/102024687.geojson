@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002417,
-    "geom:area_square_m":29133426.46211,
+    "geom:area_square_m":29133426.462097,
     "geom:bbox":"99.8180530699,12.8938019371,99.9793117906,12.9761303596",
     "geom:latitude":12.929067,
     "geom:longitude":99.894953,
@@ -20,11 +20,23 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09a5\u09be \u09af\u09bc\u09be\u0982"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Tha Yang"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Tha Yang"
     ],
     "name:eng_x_preferred":[
         "Tha Yang"
+    ],
+    "name:fra_x_preferred":[
+        "Tha Yang"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bf\u30fc\u30e4\u30fc\u30f3\u90e1"
+    ],
+    "name:nan_x_preferred":[
+        "Tha Yang K\u016bn"
     ],
     "name:ron_x_preferred":[
         "Districtul Tha Yang"
@@ -40,6 +52,9 @@
     ],
     "name:zho_min_nan_x_preferred":[
         "Tha Yang K\u016bn"
+    ],
+    "name:zho_x_preferred":[
+        "\u4ed6\u592e\u7e23"
     ],
     "qs:a0":"Thailand",
     "qs:a1":"*Phetchaburi",
@@ -91,7 +106,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636432,
+    "wof:lastmodified":1563290205,
     "wof:name":"Tha Yang",
     "wof:parent_id":890466431,
     "wof:placetype":"locality",

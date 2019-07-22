@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000266,
+    "geom:area_square_m":3130426.157282,
     "geom:bbox":"102.894011713,17.8181122023,102.912873115,17.8361776343",
     "geom:latitude":17.827145,
     "geom:longitude":102.903442,
@@ -16,6 +17,31 @@
     "mps:latitude":17.827145,
     "mps:longitude":102.903442,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bpy_x_preferred":[
+        "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ab\u09af\u09bc\u09c7\u09a8"
+    ],
+    "name:ceb_x_preferred":[
+        "Amphoe Phen"
+    ],
+    "name:deu_x_preferred":[
+        "Amphoe Phen"
+    ],
+    "name:eng_x_preferred":[
+        "Phen"
+    ],
+    "name:fra_x_preferred":[
+        "Phen"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30da\u30f3\u90e1"
+    ],
+    "name:nan_x_preferred":[
+        "Phen K\u016bn"
+    ],
+    "name:ron_x_preferred":[
+        "Districtul Phen"
+    ],
     "name:tha_x_preferred":[
         "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e40\u0e1e\u0e47\u0e0d"
     ],
@@ -24,6 +50,9 @@
     ],
     "name:unk_x_variant":[
         "Mueang Phen"
+    ],
+    "name:vie_x_preferred":[
+        "Phen"
     ],
     "qs:a1":"*",
     "qs:a1r":"*",
@@ -61,7 +90,7 @@
         }
     ],
     "wof:id":102025019,
-    "wof:lastmodified":1501221020,
+    "wof:lastmodified":1563290424,
     "wof:name":"Amphoe Phen",
     "wof:parent_id":85678869,
     "wof:placetype":"locality",

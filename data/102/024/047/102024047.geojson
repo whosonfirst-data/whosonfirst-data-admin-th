@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003687,
+    "geom:area_square_m":43040763.952288,
     "geom:bbox":"99.4881592843,19.1828284245,99.5511400804,19.387559593",
     "geom:latitude":19.271711,
     "geom:longitude":99.518565,
@@ -18,14 +19,23 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09f1\u09bf\u09af\u09bc\u09be\u0982 \u09aa\u09be \u09aa\u09af\u09bc\u09be\u0993"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Wiang Pa Pao"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Wiang Pa Pao"
     ],
     "name:eng_x_preferred":[
         "Wiang Pa Pao"
     ],
+    "name:fra_x_preferred":[
+        "Wiang Pa Pao"
+    ],
     "name:jpn_x_preferred":[
         "\u30a6\u30a3\u30a8\u30f3\u30d1\u30fc\u30d1\u30aa\u90e1"
+    ],
+    "name:nan_x_preferred":[
+        "Wiang Pa Pao K\u016bn"
     ],
     "name:ron_x_preferred":[
         "Districtul Wiang Pa Pao"
@@ -38,6 +48,9 @@
     ],
     "name:unk_x_variant":[
         "Ma"
+    ],
+    "name:urd_x_preferred":[
+        "\u0648\u06cc\u0627\u0646\u06af \u067e\u0627 \u067e\u0627\u0648 \u0636\u0644\u0639"
     ],
     "name:vie_x_preferred":[
         "Wiang Pa Pao"
@@ -89,7 +102,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636433,
+    "wof:lastmodified":1563290209,
     "wof:name":"Wiang Pa Pao",
     "wof:parent_id":85678617,
     "wof:placetype":"locality",

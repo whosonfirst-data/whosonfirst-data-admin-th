@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000263,
+    "geom:area_square_m":3134843.644532,
     "geom:bbox":"104.388257399,15.5452121506,104.406908634,15.5632927093",
     "geom:latitude":15.554252,
     "geom:longitude":104.397583,
@@ -18,11 +19,20 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u0996\u09be\u09ae \u0996\u09c1\u09af\u09bc\u09be\u09a8 \u0995\u09be\u09af\u09bc\u09c7\u0993"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Kham Khuan Kaeo"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Kham Khuean Kaeo"
     ],
     "name:eng_x_preferred":[
         "Kham Khuean Kaeo"
+    ],
+    "name:fra_x_preferred":[
+        "Kham Khuean Kaeo"
+    ],
+    "name:nan_x_preferred":[
+        "Kham Khuean Kaeo K\u016bn"
     ],
     "name:ron_x_preferred":[
         "Districtul Kham Khuean Kaeo"
@@ -81,7 +91,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527637808,
+    "wof:lastmodified":1563290466,
     "wof:name":"Kham Khuean Kaeo",
     "wof:parent_id":85678791,
     "wof:placetype":"locality",

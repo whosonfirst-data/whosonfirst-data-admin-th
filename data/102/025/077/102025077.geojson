@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000256,
-    "geom:area_square_m":3135900.663062,
+    "geom:area_square_m":3135900.663065,
     "geom:bbox":"100.290624099,7.34797544037,100.308741102,7.36606240379",
     "geom:latitude":7.357019,
     "geom:longitude":100.299683,
@@ -21,6 +21,9 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09aa\u09be\u0995 \u09ab\u09be\u09af\u09bc\u09c1\u09a8"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Pak Phayun"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Pak Phayun"
     ],
@@ -33,6 +36,15 @@
         "Pak Pa Yun",
         "Pak Phayoon",
         "Pak Phayum"
+    ],
+    "name:fra_x_preferred":[
+        "Pak Phayun"
+    ],
+    "name:nan_x_preferred":[
+        "Pak Phayun K\u016bn"
+    ],
+    "name:por_x_preferred":[
+        "Pak Phayun"
     ],
     "name:ron_x_preferred":[
         "Districtul Pak Phayun"
@@ -106,7 +118,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636682,
+    "wof:lastmodified":1563290351,
     "wof:name":"Pak Phayun",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

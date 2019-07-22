@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002663,
-    "geom:area_square_m":32343207.68441,
+    "geom:area_square_m":32343207.684399,
     "geom:bbox":"99.2688085711,10.7001451858,99.3749950729,10.9016918477",
     "geom:latitude":10.805846,
     "geom:longitude":99.338742,
@@ -19,8 +19,14 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09aa\u09be\u09a5\u09bf\u0993"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Pathio"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Pathio"
+    ],
+    "name:ell_x_preferred":[
+        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u03a0\u03ac\u03c4\u03b9\u03bf"
     ],
     "name:eng_x_preferred":[
         "Pathiu"
@@ -31,10 +37,17 @@
         "Bang San",
         "Bang Son",
         "Banson",
-        "Patiyu"
+        "Patiyu",
+        "Pathio"
     ],
     "name:fra_x_preferred":[
         "Amphoe Pathio"
+    ],
+    "name:fra_x_variant":[
+        "Pathio"
+    ],
+    "name:nan_x_preferred":[
+        "Pathio K\u016bn"
     ],
     "name:ron_x_preferred":[
         "Districtul Pathio"
@@ -48,8 +61,14 @@
     "name:unk_x_variant":[
         "Bang Son"
     ],
+    "name:urd_x_preferred":[
+        "\u067e\u0627\u062a\u06be\u06cc\u0648 \u0636\u0644\u0639"
+    ],
     "name:vie_x_preferred":[
         "Pathio"
+    ],
+    "name:war_x_preferred":[
+        "Phetchaburi"
     ],
     "name:zho_min_nan_x_preferred":[
         "Pathio K\u016bn"
@@ -103,7 +122,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636439,
+    "wof:lastmodified":1563290227,
     "wof:name":"Pathio",
     "wof:parent_id":890466197,
     "wof:placetype":"locality",

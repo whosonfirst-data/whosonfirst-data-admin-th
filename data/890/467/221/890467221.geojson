@@ -36,8 +36,17 @@
     "mps:longitude":100.616005,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0648\u064a\u0646\u062c \u0633\u0648\u0646\u063a\u0643\u0644\u0627"
+    ],
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ae\u09c1\u09af\u09bc\u09c7\u0982 \u09b8\u09cb\u0982\u0996\u09b2\u09be"
+    ],
+    "name:cat_x_preferred":[
+        "Mueang Songkhla"
+    ],
+    "name:ceb_x_preferred":[
+        "Amphoe Mueang Songkhla"
     ],
     "name:deu_x_preferred":[
         "Amphoe Mueang Songkhla"
@@ -64,11 +73,20 @@
     "name:ron_x_preferred":[
         "Districtul Mueang Songkhla"
     ],
+    "name:spa_x_preferred":[
+        "Mueang Songkhla"
+    ],
     "name:tha_x_preferred":[
         "\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e2a\u0e07\u0e02\u0e25\u0e32"
     ],
+    "name:tha_x_variant":[
+        "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e2a\u0e07\u0e02\u0e25\u0e32"
+    ],
     "name:vie_x_preferred":[
         "Mueang Songkhla"
+    ],
+    "name:zho_x_preferred":[
+        "\u5b8b\u5361\u5e9c\u6cbb\u7e23"
     ],
     "qs:name":"Mueang Songkhla",
     "qs:name_adm0":"Thailand",
@@ -123,7 +141,7 @@
         }
     ],
     "wof:id":890467221,
-    "wof:lastmodified":1561758882,
+    "wof:lastmodified":1563298294,
     "wof:name":"Muang Songkhla",
     "wof:parent_id":85678603,
     "wof:placetype":"county",

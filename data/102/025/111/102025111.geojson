@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001664,
+    "geom:area_square_m":19740869.558776,
     "geom:bbox":"104.124554887,16.2214586737,104.308070208,16.3977004968",
     "geom:latitude":16.318569,
     "geom:longitude":104.202605,
@@ -20,6 +21,9 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09a8\u09cb\u0982 \u09ab\u09cb\u0995"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Nong Phok"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Nong Phok"
     ],
@@ -28,6 +32,12 @@
     ],
     "name:fra_x_preferred":[
         "Amphoe Nong Phok"
+    ],
+    "name:fra_x_variant":[
+        "Nong Phok"
+    ],
+    "name:nan_x_preferred":[
+        "Nong Phok K\u016bn"
     ],
     "name:ron_x_preferred":[
         "Districtul Nong Phok"
@@ -91,7 +101,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636684,
+    "wof:lastmodified":1563290384,
     "wof:name":"Nong Phok",
     "wof:parent_id":85678845,
     "wof:placetype":"locality",

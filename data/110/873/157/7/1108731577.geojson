@@ -38,6 +38,9 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09a8\u09be\u0996\u09cb\u09a8 \u099a\u09bf \u09b8\u09bf"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Nakhon Chai Si"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Nakhon Chai Si"
     ],
@@ -50,6 +53,9 @@
     "name:fra_x_preferred":[
         "Nakhon Chai Si"
     ],
+    "name:ita_x_preferred":[
+        "Amphoe Nakhon Chai Si"
+    ],
     "name:jpn_x_preferred":[
         "\u30ca\u30b3\u30fc\u30f3\u30c1\u30e3\u30a4\u30b7\u30fc\u90e1"
     ],
@@ -61,6 +67,12 @@
     ],
     "name:tha_x_preferred":[
         "\u0e19\u0e04\u0e23\u0e0a\u0e31\u0e22\u0e28\u0e23\u0e35"
+    ],
+    "name:tha_x_variant":[
+        "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e19\u0e04\u0e23\u0e0a\u0e31\u0e22\u0e28\u0e23\u0e35"
+    ],
+    "name:urd_x_preferred":[
+        "\u0646\u0627\u06a9\u06be\u0648\u0646 \u0686\u0627\u0626\u06cc \u0633\u06cc \u0636\u0644\u0639"
     ],
     "name:vie_x_preferred":[
         "Nakhon Chai Si"
@@ -101,7 +113,7 @@
         }
     ],
     "wof:id":1108731577,
-    "wof:lastmodified":1561758736,
+    "wof:lastmodified":1563296445,
     "wof:name":"Nakhon Chaisi",
     "wof:parent_id":85678747,
     "wof:placetype":"county",

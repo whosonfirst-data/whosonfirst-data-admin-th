@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00216,
-    "geom:area_square_m":25625173.647769,
+    "geom:area_square_m":25625173.647744,
     "geom:bbox":"102.103075418,16.3480098479,102.154737939,16.418768553",
     "geom:latitude":16.375634,
     "geom:longitude":102.130917,
@@ -20,11 +20,20 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ab\u09c1 \u0996\u09bf\u09af\u09bc\u09be\u0993"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Phu Khiao"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Phu Khiao"
     ],
     "name:eng_x_preferred":[
         "Phu Khiao"
+    ],
+    "name:fra_x_preferred":[
+        "Phu Khiao"
+    ],
+    "name:nan_x_preferred":[
+        "Phu Khiao K\u016bn"
     ],
     "name:ron_x_preferred":[
         "Districtul Phu Khiao"
@@ -37,6 +46,9 @@
     ],
     "name:unk_x_variant":[
         "Amphoe Phu Khieo"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u06be\u0648 \u06a9\u06be\u06cc\u0627\u0648 \u0636\u0644\u0639"
     ],
     "name:vie_x_preferred":[
         "Phu Khiao"
@@ -89,7 +101,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636422,
+    "wof:lastmodified":1563290179,
     "wof:name":"Phu Khiao",
     "wof:parent_id":85678825,
     "wof:placetype":"locality",

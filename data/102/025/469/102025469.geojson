@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00075,
+    "geom:area_square_m":8922527.452116,
     "geom:bbox":"103.542299151,15.8307826328,103.571958747,15.8594268784",
     "geom:latitude":15.845105,
     "geom:longitude":103.557129,
@@ -20,11 +21,23 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u099a\u09be\u09a4\u09c1\u09b0\u09be\u09ab\u09be\u0995 \u09ab\u09bf\u09ae\u09be\u09a8"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Chaturaphak Phiman"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Chaturaphak Phiman"
     ],
     "name:eng_x_preferred":[
         "Hua Chang"
+    ],
+    "name:eng_x_variant":[
+        "Chaturaphak Phiman"
+    ],
+    "name:fra_x_preferred":[
+        "Chaturaphak Phiman"
+    ],
+    "name:nan_x_preferred":[
+        "Chaturaphak Phiman K\u016bn"
     ],
     "name:ron_x_preferred":[
         "Districtul Chaturaphak Phiman"
@@ -88,7 +101,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636687,
+    "wof:lastmodified":1563290429,
     "wof:name":"Chaturaphak Phiman",
     "wof:parent_id":85678845,
     "wof:placetype":"locality",

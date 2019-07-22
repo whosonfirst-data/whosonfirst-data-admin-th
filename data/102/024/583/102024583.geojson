@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001068,
-    "geom:area_square_m":12774022.004064,
+    "geom:area_square_m":12774022.004073,
     "geom:bbox":"103.05895846,14.5798631233,103.110476259,14.6298299866",
     "geom:latitude":14.607092,
     "geom:longitude":103.084823,
@@ -23,8 +23,23 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09aa\u09cd\u09b0\u09be\u0996\u09cb\u09a8 \u099a\u09bf"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Prakhon Chai"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Prakhon Chai"
+    ],
+    "name:eng_x_preferred":[
+        "Prakhon Chai"
+    ],
+    "name:fra_x_preferred":[
+        "Prakhon Chai"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d7\u30e9\u30b3\u30fc\u30f3\u30c1\u30e3\u30a4\u90e1"
+    ],
+    "name:nan_x_preferred":[
+        "Prakhon Chai K\u016bn"
     ],
     "name:ron_x_preferred":[
         "Districtul Prakhon Chai"
@@ -34,6 +49,9 @@
     ],
     "name:unk_x_variant":[
         "Makong Xai"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u0631\u0627\u06a9\u06be\u0648\u0646 \u0686\u0627\u0626\u06cc \u0636\u0644\u0639"
     ],
     "name:vie_x_preferred":[
         "Prakhon Chai"
@@ -92,7 +110,7 @@
         }
     ],
     "wof:id":102024583,
-    "wof:lastmodified":1527636451,
+    "wof:lastmodified":1563290325,
     "wof:name":"Prakhon Chai",
     "wof:parent_id":85678817,
     "wof:placetype":"locality",

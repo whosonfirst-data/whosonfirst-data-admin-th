@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00053,
-    "geom:area_square_m":6268834.966414,
+    "geom:area_square_m":6268834.966429,
     "geom:bbox":"98.4775421373,16.8743639855,98.5842177402,17.0500683819",
     "geom:latitude":16.962248,
     "geom:longitude":98.530866,
@@ -20,6 +20,9 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ae\u09be\u09af\u09bc\u09c7 \u09b0\u09be\u09ae\u09af\u09bc\u09be\u09a4"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Mae Ramat"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Mae Ramat"
     ],
@@ -30,6 +33,12 @@
         "Ban Mae Ramat",
         "Meramas",
         "Meramat"
+    ],
+    "name:fra_x_preferred":[
+        "Mae Ramat"
+    ],
+    "name:nan_x_preferred":[
+        "Mae Ramat K\u016bn"
     ],
     "name:ron_x_preferred":[
         "Districtul Mae Ramat"
@@ -97,7 +106,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636446,
+    "wof:lastmodified":1563290282,
     "wof:name":"Mae Ramat",
     "wof:parent_id":85678683,
     "wof:placetype":"locality",

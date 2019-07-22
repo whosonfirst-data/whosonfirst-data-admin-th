@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001827,
-    "geom:area_square_m":22398772.396752,
+    "geom:area_square_m":22398772.396766,
     "geom:bbox":"100.026940857,7.43513453378,100.462550884,7.86698434692",
     "geom:latitude":7.578508,
     "geom:longitude":100.365139,
@@ -18,6 +18,9 @@
     "mz:is_current":-1,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09b8\u09be\u09a5\u09bf\u0982 \u09ab\u09b0\u09be"
+    ],
+    "name:ceb_x_preferred":[
+        "Amphoe Sathing Phra"
     ],
     "name:deu_x_preferred":[
         "Amphoe Sathing Phra"
@@ -33,8 +36,14 @@
         "King Cha Thing Phra",
         "Sating Phra"
     ],
+    "name:fra_x_preferred":[
+        "Sathing Phra"
+    ],
     "name:jpn_x_preferred":[
         "\u30b5\u30c6\u30a3\u30f3\u30d7\u30e9\u90e1"
+    ],
+    "name:nan_x_preferred":[
+        "Sathing Phra K\u016bn"
     ],
     "name:por_x_preferred":[
         "Sathing Phra"
@@ -106,7 +115,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636438,
+    "wof:lastmodified":1563290225,
     "wof:name":"Sathing Phra",
     "wof:parent_id":890466337,
     "wof:placetype":"locality",

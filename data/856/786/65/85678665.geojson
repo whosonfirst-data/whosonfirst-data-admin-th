@@ -41,11 +41,17 @@
     "name:ben_x_preferred":[
         "\u0995\u09be\u09ae\u09ab\u09be\u0982 \u09ab\u09c7\u099f"
     ],
+    "name:bjn_x_preferred":[
+        "Parupinsi Kamphaeng Phet"
+    ],
     "name:bpy_x_preferred":[
         "\u099a\u09be\u0982\u09f1\u09be\u09a4 \u0995\u09be\u09ae\u09ab\u09be\u09af\u09bc\u09c7\u0982 \u09ab\u09c7\u09a4"
     ],
     "name:bul_x_preferred":[
         "\u041a\u0430\u043c\u043f\u0430\u0435\u043d\u0433 \u041f\u0435\u0442"
+    ],
+    "name:ceb_x_preferred":[
+        "Changwat Kamphaeng Phet"
     ],
     "name:dan_x_preferred":[
         "Kamphaeng Phet"
@@ -77,6 +83,9 @@
     "name:glg_x_preferred":[
         "Provincia de Kamphaeng Phet"
     ],
+    "name:glg_x_variant":[
+        "Provincia Kamphaeng Phet"
+    ],
     "name:guj_x_preferred":[
         "\u0a95\u0aae\u0aab\u0abe\u0a82\u0a97 \u0aab\u0ac7\u0a9f"
     ],
@@ -97,6 +106,9 @@
     ],
     "name:kor_x_preferred":[
         "\uae5c\ud33d\ud3ab \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uae5c\ud33d\ud3ab\uc8fc"
     ],
     "name:lao_x_preferred":[
         "\u0e88\u0eb1\u0e87\u0eab\u0ea7\u0eb1\u0e94\u0e81\u0eb3\u0ec1\u0e9e\u0e87\u0ec0\u0e9e\u0eb1\u0e94"
@@ -193,6 +205,9 @@
     ],
     "name:war_x_preferred":[
         "Kamphaeng Phet"
+    ],
+    "name:yue_x_preferred":[
+        "\u7518\u70f9\u78a7\u5e9c"
     ],
     "name:zho_min_nan_x_preferred":[
         "Kamphaeng Phet H\u00fa"
@@ -324,7 +339,7 @@
     "wof:lang_x_spoken":[
         "tha"
     ],
-    "wof:lastmodified":1561758456,
+    "wof:lastmodified":1563291833,
     "wof:name":"Kamphaeng Phet",
     "wof:parent_id":85632293,
     "wof:placetype":"region",

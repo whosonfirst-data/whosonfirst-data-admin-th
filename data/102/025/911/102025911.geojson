@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000263,
-    "geom:area_square_m":3134781.983362,
+    "geom:area_square_m":3134781.983355,
     "geom:bbox":"104.421204793,15.7990702237,104.439879207,15.8171504706",
     "geom:latitude":15.80811,
     "geom:longitude":104.430542,
@@ -19,6 +19,27 @@
     "mps:longitude":104.430542,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bpy_x_preferred":[
+        "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09aa\u09be \u09a4\u09bf\u0993"
+    ],
+    "name:ceb_x_preferred":[
+        "Amphoe Pa Tio"
+    ],
+    "name:deu_x_preferred":[
+        "Amphoe Pa Tio"
+    ],
+    "name:eng_x_preferred":[
+        "Pa Tio"
+    ],
+    "name:fra_x_preferred":[
+        "Pa Tio"
+    ],
+    "name:nan_x_preferred":[
+        "Pa Tio K\u016bn"
+    ],
+    "name:ron_x_preferred":[
+        "Districtul Pa Tio"
+    ],
     "name:tha_x_preferred":[
         "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e1b\u0e48\u0e32\u0e15\u0e34\u0e49\u0e27"
     ],
@@ -27,6 +48,9 @@
     ],
     "name:unk_x_variant":[
         "King Amphoe Pa Tio"
+    ],
+    "name:vie_x_preferred":[
+        "Pa Tio"
     ],
     "qs:a1":"*",
     "qs:a1r":"*",
@@ -64,7 +88,7 @@
         }
     ],
     "wof:id":102025911,
-    "wof:lastmodified":1505338989,
+    "wof:lastmodified":1563290446,
     "wof:name":"Amphoe Pa Tio",
     "wof:parent_id":85678791,
     "wof:placetype":"locality",

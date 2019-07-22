@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001686,
-    "geom:area_square_m":20148831.752745,
+    "geom:area_square_m":20148831.752742,
     "geom:bbox":"100.004743656,14.8242617686,100.111221484,14.8741996281",
     "geom:latitude":14.852653,
     "geom:longitude":100.054879,
@@ -19,17 +19,32 @@
     "mps:longitude":100.051297,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Amphoe Doembang Nangbuat"
+    ],
     "name:eng_x_preferred":[
         "Doem Bang Nang Buat"
     ],
     "name:eng_x_variant":[
         "Doembang Nangbuat"
     ],
+    "name:fra_x_preferred":[
+        "Doem Bang Nang Buat"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c9\u30a5\u30fc\u30e0\u30d0\u30fc\u30f3\u30ca\u30fc\u30f3\u30d6\u30ef\u30c3\u30c8\u90e1"
+    ],
     "name:tha_x_preferred":[
         "\u0e40\u0e14\u0e34\u0e21\u0e1a\u0e32\u0e07\u0e19\u0e32\u0e07\u0e1a\u0e27\u0e0a"
     ],
+    "name:tha_x_variant":[
+        "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e40\u0e14\u0e34\u0e21\u0e1a\u0e32\u0e07\u0e19\u0e32\u0e07\u0e1a\u0e27\u0e0a"
+    ],
     "name:unk_x_variant":[
         "Tha Chang"
+    ],
+    "name:vie_x_preferred":[
+        "Doem Bang Nang Buat"
     ],
     "qs:a0":"Thailand",
     "qs:a1":"*Suphan Buri",
@@ -76,7 +91,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1505338987,
+    "wof:lastmodified":1563290360,
     "wof:name":"Doembang Nangbuat",
     "wof:parent_id":85678679,
     "wof:placetype":"locality",

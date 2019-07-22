@@ -36,14 +36,42 @@
     "mps:longitude":101.186004,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bpy_x_preferred":[
+        "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ae\u09c1\u09af\u09bc\u09c7\u0982 \u09ab\u09c7\u09a4\u099a\u09be\u09ac\u09c1\u09a8"
+    ],
+    "name:ceb_x_preferred":[
+        "Amphoe Mueang Phetchabun"
+    ],
+    "name:deu_x_preferred":[
+        "Amphoe Mueang Phetchabun"
+    ],
     "name:eng_x_preferred":[
         "Phetchabun"
     ],
     "name:eng_x_variant":[
-        "Muang Phetchabun"
+        "Muang Phetchabun",
+        "Mueang Phetchabun"
+    ],
+    "name:fra_x_preferred":[
+        "Mueang Phetchabun"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e0\u30a2\u30f3\u30da\u30c3\u30c1\u30e3\u30d6\u30fc\u30f3\u90e1"
+    ],
+    "name:nan_x_preferred":[
+        "Mueang Phetchabun K\u016bn"
+    ],
+    "name:ron_x_preferred":[
+        "Districtul Mueang Phetchabun"
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e40\u0e1e\u0e0a\u0e23\u0e1a\u0e39\u0e23\u0e13\u0e4c"
+    ],
+    "name:tha_x_variant":[
+        "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e40\u0e1e\u0e0a\u0e23\u0e1a\u0e39\u0e23\u0e13\u0e4c"
+    ],
+    "name:vie_x_preferred":[
+        "Mueang Phetchabun"
     ],
     "qs:name":"Mueang Phetchabun",
     "qs:name_adm0":"Thailand",
@@ -98,7 +126,7 @@
         }
     ],
     "wof:id":890466025,
-    "wof:lastmodified":1554489099,
+    "wof:lastmodified":1563298368,
     "wof:name":"Muang Phetchabun",
     "wof:parent_id":85678673,
     "wof:placetype":"county",

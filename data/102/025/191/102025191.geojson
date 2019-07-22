@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006987,
-    "geom:area_square_m":83904532.09263,
+    "geom:area_square_m":83904532.092601,
     "geom:bbox":"100.136624995,13.7383485308,100.254000477,13.8311182692",
     "geom:latitude":13.78182,
     "geom:longitude":100.192525,
@@ -22,11 +22,26 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09a8\u09be\u0996\u09cb\u09a8 \u099a\u09bf \u09b8\u09bf"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Nakhon Chai Si"
+    ],
     "name:deu_x_preferred":[
+        "Amphoe Nakhon Chai Si"
+    ],
+    "name:eng_x_preferred":[
+        "Nakhon Chai Si"
+    ],
+    "name:fra_x_preferred":[
+        "Nakhon Chai Si"
+    ],
+    "name:ita_x_preferred":[
         "Amphoe Nakhon Chai Si"
     ],
     "name:jpn_x_preferred":[
         "\u30ca\u30b3\u30fc\u30f3\u30c1\u30e3\u30a4\u30b7\u30fc\u90e1"
+    ],
+    "name:nan_x_preferred":[
+        "Nakhon Chai Si K\u016bn"
     ],
     "name:ron_x_preferred":[
         "Districtul Nakhon Chai Si"
@@ -39,6 +54,9 @@
     ],
     "name:unk_x_variant":[
         "Amphoe Nakhon Chai Si"
+    ],
+    "name:urd_x_preferred":[
+        "\u0646\u0627\u06a9\u06be\u0648\u0646 \u0686\u0627\u0626\u06cc \u0633\u06cc \u0636\u0644\u0639"
     ],
     "name:vie_x_preferred":[
         "Nakhon Chai Si"
@@ -98,7 +116,7 @@
         }
     ],
     "wof:id":102025191,
-    "wof:lastmodified":1527636685,
+    "wof:lastmodified":1563290400,
     "wof:name":"Nakhon Chai Si",
     "wof:parent_id":85678747,
     "wof:placetype":"locality",

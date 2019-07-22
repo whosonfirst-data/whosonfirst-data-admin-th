@@ -36,15 +36,46 @@
     "mps:longitude":99.137998,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bpy_x_preferred":[
+        "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ae\u09c1\u09af\u09bc\u09c7\u0982 \u09a4\u09be\u0995"
+    ],
+    "name:ceb_x_preferred":[
+        "Amphoe Mueang Tak"
+    ],
+    "name:deu_x_preferred":[
+        "Amphoe Mueang Tak"
+    ],
     "name:eng_x_preferred":[
         "Wang Chao"
     ],
     "name:eng_x_variant":[
         "Muang Tak",
-        "K. Wang Chao"
+        "K. Wang Chao",
+        "Mueang Tak"
+    ],
+    "name:fra_x_preferred":[
+        "Mueang Tak"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e0\u30a2\u30f3\u30bf\u30fc\u30af\u90e1"
+    ],
+    "name:nan_x_preferred":[
+        "Mueang Tak K\u016bn"
+    ],
+    "name:ron_x_preferred":[
+        "Districtul Mueang Tak"
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e15\u0e32\u0e01"
+    ],
+    "name:tha_x_variant":[
+        "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e15\u0e32\u0e01"
+    ],
+    "name:vie_x_preferred":[
+        "Mueang Tak"
+    ],
+    "name:zho_x_preferred":[
+        "\u9054\u514b\u57ce\u5340"
     ],
     "qs:name":"Mueang Tak",
     "qs:name_adm0":"Thailand",
@@ -99,7 +130,7 @@
         }
     ],
     "wof:id":890466081,
-    "wof:lastmodified":1554489105,
+    "wof:lastmodified":1563298427,
     "wof:name":"Muang Tak",
     "wof:parent_id":85678683,
     "wof:placetype":"county",

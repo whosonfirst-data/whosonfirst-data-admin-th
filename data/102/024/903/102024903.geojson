@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002365,
+    "geom:area_square_m":27961154.736795,
     "geom:bbox":"104.605166351,17.0214856009,104.692625175,17.0710753578",
     "geom:latitude":17.048202,
     "geom:longitude":104.654435,
@@ -18,8 +19,20 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09b0\u09c7\u09a8\u09c1 \u09a8\u09be\u0996\u09cb\u09a8"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Renu Nakhon"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Renu Nakhon"
+    ],
+    "name:eng_x_preferred":[
+        "Renu Nakhon"
+    ],
+    "name:fra_x_preferred":[
+        "Renu Nakhon"
+    ],
+    "name:nan_x_preferred":[
+        "Renu Nakhon K\u016bn"
     ],
     "name:ron_x_preferred":[
         "Districtul Renu Nakhon"
@@ -32,6 +45,9 @@
     ],
     "name:unk_x_variant":[
         "\u0e40\u0e23\u0e13\u0e39\u0e19\u0e04\u0e23"
+    ],
+    "name:urd_x_preferred":[
+        "\u0631\u0626\u0646\u0648 \u0646\u0627\u06a9\u06be\u0648\u0646 \u0636\u0644\u0639"
     ],
     "name:vie_x_preferred":[
         "Renu Nakhon"
@@ -79,7 +95,7 @@
         }
     ],
     "wof:id":102024903,
-    "wof:lastmodified":1527636443,
+    "wof:lastmodified":1563290257,
     "wof:name":"Renu Nakhon",
     "wof:parent_id":85678879,
     "wof:placetype":"locality",

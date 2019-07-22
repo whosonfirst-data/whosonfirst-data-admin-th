@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000524,
+    "geom:area_square_m":6269769.751971,
     "geom:bbox":"104.135615669,14.5479603133,104.176153767,14.6085719357",
     "geom:latitude":14.578268,
     "geom:longitude":104.155885,
@@ -16,6 +17,28 @@
     "mps:latitude":14.599531,
     "mps:longitude":104.16687,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bpy_x_preferred":[
+        "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ab\u09c1 \u09b8\u09bf\u0982"
+    ],
+    "name:ceb_x_preferred":[
+        "Amphoe Phu Sing"
+    ],
+    "name:deu_x_preferred":[
+        "Amphoe Phu Sing"
+    ],
+    "name:eng_x_preferred":[
+        "Phu Sing"
+    ],
+    "name:fra_x_preferred":[
+        "Phu Sing"
+    ],
+    "name:nan_x_preferred":[
+        "Phu Sing K\u016bn"
+    ],
+    "name:ron_x_preferred":[
+        "Districtul Phu Sing"
+    ],
     "name:tha_x_preferred":[
         "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e20\u0e39\u0e2a\u0e34\u0e07\u0e2b\u0e4c"
     ],
@@ -24,6 +47,9 @@
     ],
     "name:unk_x_variant":[
         "King Amphoe Phu Sing"
+    ],
+    "name:vie_x_preferred":[
+        "Phu Sing"
     ],
     "qs:a1":"*",
     "qs:a1r":"*",
@@ -60,7 +86,7 @@
         }
     ],
     "wof:id":102025909,
-    "wof:lastmodified":1501273222,
+    "wof:lastmodified":1563290332,
     "wof:name":"Amphoe Phu Sing",
     "wof:parent_id":85678779,
     "wof:placetype":"locality",

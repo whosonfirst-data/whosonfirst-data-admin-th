@@ -49,6 +49,9 @@
     "name:bul_x_preferred":[
         "\u041d\u0430\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Changwat Nan"
+    ],
     "name:dan_x_preferred":[
         "Nan"
     ],
@@ -100,6 +103,9 @@
     "name:kor_x_preferred":[
         "\ub09c \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\ub09c\uc8fc"
+    ],
     "name:lao_x_preferred":[
         "\u0e88\u0eb1\u0e87\u0eab\u0ea7\u0eb1\u0e94\u0e99\u0ec8\u0eb2\u0e99"
     ],
@@ -111,6 +117,9 @@
     ],
     "name:lrc_x_preferred":[
         "\u0646\u0627\u0646"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d28\u0d3e\u0d7b \u0d2a\u0d4d\u0d30\u0d35\u0d3f\u0d36\u0d4d\u0d2f"
     ],
     "name:mar_x_preferred":[
         "\u0928\u093e\u0928"
@@ -126,6 +135,9 @@
     ],
     "name:nld_x_preferred":[
         "Changwat Nan"
+    ],
+    "name:nno_x_preferred":[
+        "Nan-fylket"
     ],
     "name:nob_x_preferred":[
         "Nan"
@@ -178,6 +190,9 @@
     "name:tur_x_preferred":[
         "Nan"
     ],
+    "name:tur_x_variant":[
+        "Nan ili"
+    ],
     "name:ukr_x_preferred":[
         "\u041f\u0440\u043e\u0432\u0456\u043d\u0446\u0456\u044f \u041d\u0430\u043d"
     ],
@@ -193,8 +208,14 @@
     "name:war_x_preferred":[
         "Nan"
     ],
+    "name:yue_x_preferred":[
+        "\u6960\u5e9c"
+    ],
     "name:zho_x_preferred":[
         "\u6960\u5e9c"
+    ],
+    "name:zho_x_variant":[
+        "\u96be\u5e9c"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"THA",
@@ -318,7 +339,7 @@
     "wof:lang_x_spoken":[
         "tha"
     ],
-    "wof:lastmodified":1561758456,
+    "wof:lastmodified":1563291824,
     "wof:name":"Nan",
     "wof:parent_id":85632293,
     "wof:placetype":"region",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000259,
+    "geom:area_square_m":3130317.38316,
     "geom:bbox":"102.421855165,11.938940955,102.44020545,11.9570095058",
     "geom:latitude":11.947975,
     "geom:longitude":102.43103,
@@ -16,6 +17,10 @@
     "mps:latitude":11.947975,
     "mps:longitude":102.43103,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Amphoe Ko Chang"
+    ],
     "name:eng_x_preferred":[
         "Chang Island"
     ],
@@ -23,7 +28,23 @@
         "Chang",
         "Chang Ko Island",
         "Ko Chang Island",
-        "Koh Chang Island"
+        "Koh Chang Island",
+        "Ko Chang"
+    ],
+    "name:fra_x_preferred":[
+        "Ko Chang"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d5 \u05e6'\u05d0\u05e0\u05d2"
+    ],
+    "name:nan_x_preferred":[
+        "Ko Chang K\u016bn"
+    ],
+    "name:ron_x_preferred":[
+        "Districtul Ko Chang"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e40\u0e01\u0e32\u0e30\u0e0a\u0e49\u0e32\u0e07"
     ],
     "name:und_x_variant":[
         "Chang Ko",
@@ -69,7 +90,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1501221062,
+    "wof:lastmodified":1563290353,
     "wof:name":"Ko Chang",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

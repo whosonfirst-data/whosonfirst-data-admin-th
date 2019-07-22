@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001471,
-    "geom:area_square_m":17656868.629493,
+    "geom:area_square_m":17656868.629468,
     "geom:bbox":"99.2577089654,13.9196935854,99.3421449118,14.0017482691",
     "geom:latitude":13.966694,
     "geom:longitude":99.285833,
@@ -19,8 +19,17 @@
     "name:deu_x_preferred":[
         "Ban Kao"
     ],
+    "name:eng_x_preferred":[
+        "Ban Kao"
+    ],
+    "name:fra_x_preferred":[
+        "Ban Kao"
+    ],
     "name:tha_x_preferred":[
         "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e01\u0e48\u0e32"
+    ],
+    "name:tha_x_variant":[
+        "\u0e15\u0e33\u0e1a\u0e25\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e01\u0e48\u0e32"
     ],
     "qs:a0":"Thailand",
     "qs:a1":"*Kanchanaburi",
@@ -67,7 +76,7 @@
         }
     ],
     "wof:id":102024471,
-    "wof:lastmodified":1527636429,
+    "wof:lastmodified":1563290196,
     "wof:name":"Ban Kao",
     "wof:parent_id":1108731901,
     "wof:placetype":"locality",

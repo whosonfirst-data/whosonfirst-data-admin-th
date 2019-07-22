@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001798,
-    "geom:area_square_m":21348500.68516,
+    "geom:area_square_m":21348500.68515,
     "geom:bbox":"103.871869564,16.1476060282,104.0224265,16.4293170894",
     "geom:latitude":16.258914,
     "geom:longitude":103.94395,
@@ -25,6 +25,12 @@
     ],
     "name:eng_x_preferred":[
         "Waeng"
+    ],
+    "name:eng_x_variant":[
+        "Waeng Noi"
+    ],
+    "name:fra_x_preferred":[
+        "Waeng Noi"
     ],
     "name:ron_x_preferred":[
         "Districtul Waeng Noi"
@@ -93,7 +99,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636450,
+    "wof:lastmodified":1563290318,
     "wof:name":"Waeng",
     "wof:parent_id":85678845,
     "wof:placetype":"locality",

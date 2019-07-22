@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000588,
-    "geom:area_square_m":6906604.709703,
+    "geom:area_square_m":6906604.709699,
     "geom:bbox":"100.084242406,18.0245494497,100.111382348,18.1809863957",
     "geom:latitude":18.097384,
     "geom:longitude":100.09702,
@@ -19,6 +19,9 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09b8\u09c1\u0982 \u09ae\u09c7\u09a8"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Sung Men"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Sung Men"
     ],
@@ -28,6 +31,15 @@
     "name:eng_x_variant":[
         "Ban Sung Men",
         "Soong Men"
+    ],
+    "name:fra_x_preferred":[
+        "Sung Men"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b9\u30fc\u30f3\u30e1\u30fc\u30f3\u90e1"
+    ],
+    "name:nan_x_preferred":[
+        "Sung Men K\u016bn"
     ],
     "name:ron_x_preferred":[
         "Districtul Sung Men"
@@ -91,7 +103,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636444,
+    "wof:lastmodified":1563290268,
     "wof:name":"Sung Men",
     "wof:parent_id":85678643,
     "wof:placetype":"locality",

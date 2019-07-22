@@ -25,20 +25,54 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":12.0,
     "mz:tier_locality":5,
+    "name:dan_x_preferred":[
+        "Sukhumvit-vejen"
+    ],
     "name:deu_x_preferred":[
         "Sukhumvit"
+    ],
+    "name:deu_x_variant":[
+        "Thanon Sukhumvit"
     ],
     "name:eng_x_preferred":[
         "Sukhumwit"
     ],
     "name:eng_x_variant":[
-        "Sukhumvit"
+        "Sukhumvit",
+        "Sukhumvit Road"
+    ],
+    "name:epo_x_preferred":[
+        "Su\u0125umvit"
     ],
     "name:fra_x_preferred":[
         "Sukhumvit"
     ],
+    "name:fra_x_variant":[
+        "Thanon Sukhumvit"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05e0\u05d2\u05e7\u05d5\u05e7/\u05e1\u05d5\u05e7\u05d4\u05d5\u05de\u05d5\u05d5\u05d9\u05d8"
+    ],
+    "name:ita_x_preferred":[
+        "Sukhumvit"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b9\u30af\u30e0\u30a6\u30a3\u30c3\u30c8\u901a\u308a"
+    ],
+    "name:nld_x_preferred":[
+        "Sukhumvit"
+    ],
+    "name:por_x_preferred":[
+        "Bangkok/Sukhumvit"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e16\u0e19\u0e19\u0e2a\u0e38\u0e02\u0e38\u0e21\u0e27\u0e34\u0e17"
+    ],
     "name:unk_x_variant":[
         "Sukhumwit"
+    ],
+    "name:zho_x_preferred":[
+        "\u7d20\u5764\u9038\u8def"
     ],
     "qs:gn_adm0_cc":"TH",
     "qs:gn_fcode":"PPLX",
@@ -101,7 +135,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1497309386,
+    "wof:lastmodified":1563291772,
     "wof:name":"Sukhumwit",
     "wof:parent_id":102025263,
     "wof:placetype":"neighbourhood",

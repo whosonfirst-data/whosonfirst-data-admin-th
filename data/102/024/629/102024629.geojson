@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000263,
+    "geom:area_square_m":3134385.860569,
     "geom:bbox":"100.004729873,15.1744426926,100.02334627,15.192522009",
     "geom:latitude":15.183482,
     "geom:longitude":100.014038,
@@ -18,11 +19,23 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09f1\u09be\u09a4 \u09b8\u09bf\u0982"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Wat Sing"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Wat Sing"
     ],
+    "name:eng_x_preferred":[
+        "Wat Sing"
+    ],
     "name:fra_x_preferred":[
         "Amphoe Wat Sing"
+    ],
+    "name:fra_x_variant":[
+        "Wat Sing"
+    ],
+    "name:nan_x_preferred":[
+        "Wat Sing K\u016bn"
     ],
     "name:ron_x_preferred":[
         "Districtul Wat Sing"
@@ -35,6 +48,9 @@
     ],
     "name:unk_x_variant":[
         "Ban Wat Sing"
+    ],
+    "name:urd_x_preferred":[
+        "\u0648\u0627\u062a \u0633\u0646\u06af \u0636\u0644\u0639"
     ],
     "name:vie_x_preferred":[
         "Wat Sing"
@@ -82,7 +98,7 @@
         }
     ],
     "wof:id":102024629,
-    "wof:lastmodified":1527636433,
+    "wof:lastmodified":1563290208,
     "wof:name":"Wat Sing",
     "wof:parent_id":85678699,
     "wof:placetype":"locality",

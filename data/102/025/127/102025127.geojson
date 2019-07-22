@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003944,
-    "geom:area_square_m":47250436.976084,
+    "geom:area_square_m":47250436.976077,
     "geom:bbox":"100.817757938,14.2926094242,100.891227846,14.3772102678",
     "geom:latitude":14.339575,
     "geom:longitude":100.855819,
@@ -21,6 +21,9 @@
     "mz:is_current":-1,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09a8\u09cb\u0982 \u0996\u09be\u09af\u09bc\u09c7"
+    ],
+    "name:ceb_x_preferred":[
+        "Amphoe Nong Khae"
     ],
     "name:deu_x_preferred":[
         "Amphoe Nong Khae"
@@ -38,6 +41,15 @@
         "Hn\u00f0hng G\u00e5",
         "Na Roeng",
         "Naung Khae"
+    ],
+    "name:fra_x_preferred":[
+        "Nong Khae"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ce\u30fc\u30f3\u30b1\u30fc\u90e1"
+    ],
+    "name:nan_x_preferred":[
+        "Nong Khae K\u016bn"
     ],
     "name:ron_x_preferred":[
         "Districtul Nong Khae"
@@ -102,7 +114,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636685,
+    "wof:lastmodified":1563290386,
     "wof:name":"Nong Khae",
     "wof:parent_id":85678735,
     "wof:placetype":"locality",

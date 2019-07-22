@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000446,
-    "geom:area_square_m":5347868.586056,
+    "geom:area_square_m":5347868.586062,
     "geom:bbox":"99.5103801138,14.3138958754,99.5289265123,14.3426232126",
     "geom:latitude":14.32826,
     "geom:longitude":99.519653,
@@ -20,6 +20,9 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ac\u09cb \u09ab\u09cd\u09b2\u09cb\u0987"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Bo Phloi"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Bo Phloi"
     ],
@@ -31,8 +34,17 @@
         "King Bau Phloi",
         "King Bo Phloi"
     ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0628\u0648 \u0641\u0644\u0648\u06cc\u06cc"
+    ],
     "name:fra_x_preferred":[
         "Amphoe Bo Phloi"
+    ],
+    "name:fra_x_variant":[
+        "Bo Phloi"
+    ],
+    "name:nan_x_preferred":[
+        "Bo Phloi K\u016bn"
     ],
     "name:ron_x_preferred":[
         "Districtul Bo Phloi"
@@ -45,6 +57,9 @@
     ],
     "name:unk_x_variant":[
         "Amphoe Bo Phloi"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0648 \u067e\u06be\u0644\u0648\u06cc \u0636\u0644\u0639"
     ],
     "name:vie_x_preferred":[
         "Bo Phloi"
@@ -97,7 +112,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636426,
+    "wof:lastmodified":1563290188,
     "wof:name":"Bo Phloi",
     "wof:parent_id":85678663,
     "wof:placetype":"locality",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001192,
+    "geom:area_square_m":14617701.65711,
     "geom:bbox":"100.059910674,7.28259455596,100.143946518,7.36606299454",
     "geom:latitude":7.328237,
     "geom:longitude":100.096113,
@@ -18,8 +19,20 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09a4\u09be\u09ae\u09cb\u09a4"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Tamot"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Tamot"
+    ],
+    "name:eng_x_preferred":[
+        "Tamot"
+    ],
+    "name:fra_x_preferred":[
+        "Tamot"
+    ],
+    "name:nan_x_preferred":[
+        "Tamot K\u016bn"
     ],
     "name:por_x_preferred":[
         "Tamot"
@@ -82,7 +95,7 @@
         }
     ],
     "wof:id":102024735,
-    "wof:lastmodified":1527636444,
+    "wof:lastmodified":1563290262,
     "wof:name":"Tamot",
     "wof:parent_id":85678591,
     "wof:placetype":"locality",

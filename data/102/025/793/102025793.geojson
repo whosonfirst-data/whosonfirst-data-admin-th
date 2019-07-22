@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001073,
-    "geom:area_square_m":13148672.201283,
+    "geom:area_square_m":13148672.20131,
     "geom:bbox":"98.2691276115,7.83814085521,98.3202277041,7.87698531846",
     "geom:latitude":7.856606,
     "geom:longitude":98.293015,
@@ -18,11 +18,15 @@
     "mps:longitude":98.284139,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Karon"
+    ],
     "name:eng_x_preferred":[
         "Karon"
     ],
     "name:eng_x_variant":[
-        "Karon Beach"
+        "Karon Beach",
+        "Hat Karon"
     ],
     "name:rus_x_preferred":[
         "\u041a\u0430\u0440\u043e\u043d"
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":102025793,
-    "wof:lastmodified":1527636685,
+    "wof:lastmodified":1563290402,
     "wof:name":"Karon Beach",
     "wof:parent_id":85678567,
     "wof:placetype":"locality",

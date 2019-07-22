@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000264,
+    "geom:area_square_m":3134992.093841,
     "geom:bbox":"105.09136206,15.9786938029,105.110053953,15.9967746199",
     "geom:latitude":15.987734,
     "geom:longitude":105.100708,
@@ -16,11 +17,33 @@
     "mps:latitude":15.987735,
     "mps:longitude":105.100708,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bpy_x_preferred":[
+        "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u0996\u09c7\u09ae\u09be\u09b0\u09be\u09a4"
+    ],
+    "name:ceb_x_preferred":[
+        "Amphoe Khemmarat"
+    ],
+    "name:deu_x_preferred":[
+        "Amphoe Khemarat"
+    ],
     "name:eng_x_preferred":[
         "Khemarat"
     ],
     "name:eng_x_variant":[
         "Amphoe Khemarat"
+    ],
+    "name:fra_x_preferred":[
+        "Khemarat"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b1\u30fc\u30f3\u30de\u30e9\u30fc\u30c8\u90e1"
+    ],
+    "name:nan_x_preferred":[
+        "Khemarat K\u016bn"
+    ],
+    "name:ron_x_preferred":[
+        "Districtul Khemarat"
     ],
     "name:tha_x_preferred":[
         "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e40\u0e02\u0e21\u0e23\u0e32\u0e10"
@@ -29,6 +52,9 @@
         "\u0e40\u0e02\u0e21\u0e23\u0e32\u0e10"
     ],
     "name:unk_x_variant":[
+        "Khemarat"
+    ],
+    "name:vie_x_preferred":[
         "Khemarat"
     ],
     "qs:a0":"Thailand",
@@ -75,7 +101,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1501221056,
+    "wof:lastmodified":1563290341,
     "wof:name":"Amphoe Khemmarat",
     "wof:parent_id":85678783,
     "wof:placetype":"locality",

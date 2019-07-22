@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000567,
-    "geom:area_square_m":6885286.168026,
+    "geom:area_square_m":6885286.16802,
     "geom:bbox":"99.4033809183,11.0561681466,99.4299323005,11.0850374711",
     "geom:latitude":11.069974,
     "geom:longitude":99.418092,
@@ -19,14 +19,26 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ac\u09cd\u09af\u09be\u0982 \u09b8\u09be\u09ab\u09be\u09a8 \u09a8\u09cb\u0987"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Bang Saphan Noi"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Bang Saphan Noi"
     ],
     "name:eng_x_preferred":[
         "Ban Bang Saphan Noi"
     ],
+    "name:eng_x_variant":[
+        "Bang Saphan Noi"
+    ],
+    "name:fra_x_preferred":[
+        "Bang Saphan Noi"
+    ],
     "name:jpn_x_preferred":[
         "\u30d0\u30fc\u30f3\u30b5\u30d1\u30fc\u30f3\u30ce\u30fc\u30a4\u90e1"
+    ],
+    "name:nan_x_preferred":[
+        "Bang Saphan Noi K\u016bn"
     ],
     "name:ron_x_preferred":[
         "Districtul Bang Saphan Noi"
@@ -88,7 +100,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636429,
+    "wof:lastmodified":1563290196,
     "wof:name":"Bang Saphan Noi",
     "wof:parent_id":890467395,
     "wof:placetype":"locality",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002017,
+    "geom:area_square_m":24743188.660609,
     "geom:bbox":"99.6753906646,7.15180480976,99.8033675603,7.33337505685",
     "geom:latitude":7.209372,
     "geom:longitude":99.721142,
@@ -15,14 +16,45 @@
     "mps:longitude":99.717407,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bpy_x_preferred":[
+        "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09aa\u09be\u09b2\u09bf\u09af\u09bc\u09be\u09a8"
+    ],
+    "name:ceb_x_preferred":[
+        "Amphoe Palian"
+    ],
+    "name:deu_x_preferred":[
+        "Amphoe Palian"
+    ],
+    "name:eng_x_preferred":[
+        "Palian"
+    ],
+    "name:fra_x_preferred":[
+        "Palian"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d1\u30ea\u30a8\u30f3\u90e1"
+    ],
+    "name:nan_x_preferred":[
+        "Palian K\u016bn"
+    ],
+    "name:por_x_preferred":[
+        "Palian"
+    ],
+    "name:ron_x_preferred":[
+        "Districtul Palian"
+    ],
     "name:tha_x_preferred":[
         "\u0e1b\u0e30\u0e40\u0e2b\u0e25\u0e35\u0e22\u0e19"
     ],
     "name:tha_x_variant":[
-        "\u0e1a\u0e49\u0e32\u0e19\u0e17\u0e48\u0e32\u0e02\u0e49\u0e32\u0e21"
+        "\u0e1a\u0e49\u0e32\u0e19\u0e17\u0e48\u0e32\u0e02\u0e49\u0e32\u0e21",
+        "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e1b\u0e30\u0e40\u0e2b\u0e25\u0e35\u0e22\u0e19"
     ],
     "name:unk_x_variant":[
         "Amphoe Palian"
+    ],
+    "name:vie_x_preferred":[
+        "Palian"
     ],
     "qs:a0":"Thailand",
     "qs:a1":"*Trang",
@@ -64,7 +96,7 @@
         }
     ],
     "wof:id":102024211,
-    "wof:lastmodified":1527636429,
+    "wof:lastmodified":1563290194,
     "wof:name":"Palian",
     "wof:parent_id":85678609,
     "wof:placetype":"locality",

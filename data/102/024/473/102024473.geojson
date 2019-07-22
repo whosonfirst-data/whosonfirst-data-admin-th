@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001086,
+    "geom:area_square_m":13027091.027713,
     "geom:bbox":"99.9620323126,13.9916608542,100.003396357,14.0340097141",
     "geom:latitude":14.011685,
     "geom:longitude":99.982953,
@@ -15,11 +16,47 @@
     "mps:longitude":99.988266,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bpy_x_preferred":[
+        "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u0995\u09be\u09ae\u09ab\u09be\u09af\u09bc\u09c7\u0982 \u09b8\u09be\u09af\u09bc\u09c7\u09a8"
+    ],
+    "name:ceb_x_preferred":[
+        "Kamphaeng Saen District"
+    ],
+    "name:deu_x_preferred":[
+        "Amphoe Kamphaeng Saen"
+    ],
+    "name:eng_x_preferred":[
+        "Kamphaeng Saen"
+    ],
+    "name:fra_x_preferred":[
+        "Kamphaeng Saen"
+    ],
+    "name:ita_x_preferred":[
+        "Amphoe Kamphaeng Saen"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30e0\u30da\u30fc\u30f3\u30bb\u30fc\u30f3\u90e1"
+    ],
+    "name:nan_x_preferred":[
+        "Kamphaeng Saen K\u016bn"
+    ],
+    "name:ron_x_preferred":[
+        "Districtul Kamphaeng Saen"
+    ],
     "name:tha_x_preferred":[
         "\u0e1a\u0e49\u0e32\u0e19\u0e01\u0e33\u0e41\u0e1e\u0e07\u0e41\u0e2a\u0e19"
     ],
+    "name:tha_x_variant":[
+        "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e01\u0e33\u0e41\u0e1e\u0e07\u0e41\u0e2a\u0e19"
+    ],
     "name:unk_x_variant":[
         "Muang Kamphaeng Saen"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u0627\u0645\u067e\u06be\u0627\u0626\u0646\u06af \u0633\u0627\u0626\u0646 \u0636\u0644\u0639"
+    ],
+    "name:vie_x_preferred":[
+        "Kamphaeng Saen"
     ],
     "qs:a1":"*",
     "qs:a1r":"*",
@@ -55,7 +92,7 @@
         }
     ],
     "wof:id":102024473,
-    "wof:lastmodified":1527636446,
+    "wof:lastmodified":1563290284,
     "wof:name":"Ban Kamphaeng Saen",
     "wof:parent_id":85678747,
     "wof:placetype":"locality",

@@ -46,6 +46,9 @@
     "name:bul_x_preferred":[
         "\u041c\u0430\u0445\u0430 \u0421\u0430\u0440\u0430\u043a\u0430\u043c"
     ],
+    "name:ceb_x_preferred":[
+        "Changwat Maha Sarakham"
+    ],
     "name:dan_x_preferred":[
         "Maha Sarakham"
     ],
@@ -96,6 +99,9 @@
     ],
     "name:kor_x_preferred":[
         "\ub9c8\ud558\uc0ac\ub77c\uce84 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ub9c8\ud558\uc0ac\ub77c\uce84\uc8fc"
     ],
     "name:lao_x_preferred":[
         "\u0e88\u0eb1\u0e87\u0eab\u0ea7\u0eb1\u0e94\u0ea1\u0eb0\u0eab\u0eb2\u0eaa\u0eb2\u0ea5\u0eb0\u0e84\u0eb2\u0ea1"
@@ -169,6 +175,9 @@
     "name:ukr_x_preferred":[
         "\u041f\u0440\u043e\u0432\u0456\u043d\u0446\u0456\u044f \u041c\u0430\u0445\u0430\u0441\u0430\u0440\u0430\u043a\u0445\u0430\u043c"
     ],
+    "name:ukr_x_variant":[
+        "\u041c\u0430\u0445\u0430\u0441\u0430\u0440\u0430\u043a\u0445\u0430\u043c"
+    ],
     "name:unk_x_variant":[
         "Maha Sarakam"
     ],
@@ -181,8 +190,14 @@
     "name:war_x_preferred":[
         "Maha Sarakham"
     ],
+    "name:yue_x_preferred":[
+        "\u55ce\u54c8\u6c99\u62c9\u582a\u5e9c"
+    ],
     "name:zho_x_preferred":[
         "\u746a\u54c8\u6c99\u62c9\u582a\u5e9c"
+    ],
+    "name:zho_x_variant":[
+        "\u9a6c\u54c8\u6c99\u62c9\u582a\u5e9c"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"THA",
@@ -306,7 +321,7 @@
     "wof:lang_x_spoken":[
         "tha"
     ],
-    "wof:lastmodified":1561758454,
+    "wof:lastmodified":1563291804,
     "wof:name":"Maha Sarakham",
     "wof:parent_id":85632293,
     "wof:placetype":"region",

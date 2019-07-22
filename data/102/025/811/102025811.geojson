@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0009,
-    "geom:area_square_m":10800458.019062,
+    "geom:area_square_m":10800458.019055,
     "geom:bbox":"100.558180279,13.896743534,100.604553223,13.9553922746",
     "geom:latitude":13.932604,
     "geom:longitude":100.580721,
@@ -17,8 +17,57 @@
     "mps:latitude":13.938988,
     "mps:longitude":100.577532,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0646\u0637\u0642\u0629 \u062f\u0648\u0646 \u0645\u0648\u064a\u0646\u063a"
+    ],
+    "name:bpy_x_preferred":[
+        "\u0996\u09c7\u09a4 \u09a6\u09cb\u09a8 \u09ae\u09c1\u09af\u09bc\u09c7\u0982"
+    ],
+    "name:ceb_x_preferred":[
+        "Khet Don Mueang"
+    ],
+    "name:deu_x_preferred":[
+        "Don Mueang"
+    ],
+    "name:eng_x_preferred":[
+        "Don Mueang"
+    ],
+    "name:ita_x_preferred":[
+        "Don Mueang"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c9\u30fc\u30f3\u30e0\u30a2\u30f3\u533a"
+    ],
+    "name:lao_x_preferred":[
+        "\u0ec0\u0e82\u0e94\u0e94\u0ead\u0e99\u0ec0\u0ea1\u0eb7\u0ead\u0e87"
+    ],
+    "name:nob_x_preferred":[
+        "Don Mueang"
+    ],
+    "name:sme_x_preferred":[
+        "Don Mueang"
+    ],
     "name:tha_x_preferred":[
         "\u0e14\u0e2d\u0e19\u0e40\u0e21\u0e37\u0e2d\u0e07"
+    ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e02\u0e15\u0e14\u0e2d\u0e19\u0e40\u0e21\u0e37\u0e2d\u0e07"
+    ],
+    "name:urd_x_preferred":[
+        "\u062f\u0648\u0646 \u0645\u0648\u0626\u0627\u0646\u06af \u0636\u0644\u0639"
+    ],
+    "name:vie_x_preferred":[
+        "Don Mueang"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5eca\u66fc\u533a"
+    ],
+    "name:yue_x_preferred":[
+        "\u5eca\u66fc"
+    ],
+    "name:zho_x_preferred":[
+        "\u5eca\u66fc\u5340"
     ],
     "qs:a0":"Thailand",
     "qs:a1":"*Bangkok",
@@ -62,7 +111,7 @@
         }
     ],
     "wof:id":102025811,
-    "wof:lastmodified":1501273119,
+    "wof:lastmodified":1563290349,
     "wof:name":"Don Mueang",
     "wof:parent_id":890465959,
     "wof:placetype":"locality",

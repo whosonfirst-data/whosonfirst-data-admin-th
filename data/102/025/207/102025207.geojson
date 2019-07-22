@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000402,
-    "geom:area_square_m":4832831.725966,
+    "geom:area_square_m":4832831.725964,
     "geom:bbox":"100.700683594,13.784888205,100.726776123,13.8220782026",
     "geom:latitude":13.804135,
     "geom:longitude":100.713439,
@@ -27,11 +27,29 @@
     "name:bpy_x_preferred":[
         "\u0996\u09c7\u09a4 \u09ae\u09bf\u09a8 \u09ac\u09c1\u09b0\u09bf"
     ],
+    "name:ceb_x_preferred":[
+        "Khet Min Buri"
+    ],
     "name:deu_x_preferred":[
+        "Min Buri"
+    ],
+    "name:eng_x_preferred":[
+        "Min Buri"
+    ],
+    "name:ita_x_preferred":[
         "Min Buri"
     ],
     "name:jpn_x_preferred":[
         "\u30df\u30f3\u30d6\u30ea\u30fc\u533a"
+    ],
+    "name:lao_x_preferred":[
+        "\u0ec0\u0e82\u0e94\u0ea1\u0eb5\u0e99\u0e9a\u0eb8\u0ea5\u0eb5"
+    ],
+    "name:mya_x_preferred":[
+        "\u1019\u102e\u1014\u1015\u102f\u101b\u102e"
+    ],
+    "name:nob_x_preferred":[
+        "Min Buri"
     ],
     "name:nor_x_preferred":[
         "Min Buri"
@@ -51,8 +69,17 @@
     "name:unk_x_variant":[
         "Amphoe Min Buri"
     ],
+    "name:urd_x_preferred":[
+        "\u0645\u06cc\u0646 \u0628\u0648\u0631\u06cc \u0636\u0644\u0639"
+    ],
     "name:wuu_x_preferred":[
         "\u6c11\u6b66\u91cc\u533a"
+    ],
+    "name:yue_x_preferred":[
+        "\u6c11\u5e03\u91cc"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c11\u6b66\u91cc\u7e23"
     ],
     "qs:a0":"Thailand",
     "qs:a1":"*Bangkok",
@@ -96,7 +123,7 @@
         }
     ],
     "wof:id":102025207,
-    "wof:lastmodified":1527636687,
+    "wof:lastmodified":1563290430,
     "wof:name":"Min Buri",
     "wof:parent_id":890466367,
     "wof:placetype":"locality",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000634,
+    "geom:area_square_m":7512268.397779,
     "geom:bbox":"103.50929931,16.6850418116,103.528054249,16.7241607498",
     "geom:latitude":16.704602,
     "geom:longitude":103.518677,
@@ -18,8 +19,20 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09b8\u09be\u09b9\u09af\u09bc\u09be\u09a4\u09b8\u09be\u0996\u09be\u09a8"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Sahatsakhan"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Sahatsakhan"
+    ],
+    "name:eng_x_preferred":[
+        "Sahatsakhan"
+    ],
+    "name:fra_x_preferred":[
+        "Sahatsakhan"
+    ],
+    "name:nan_x_preferred":[
+        "Sahatsakhan K\u016bn"
     ],
     "name:ron_x_preferred":[
         "Districtul Sahatsakhan"
@@ -82,7 +95,7 @@
         }
     ],
     "wof:id":102024885,
-    "wof:lastmodified":1527636446,
+    "wof:lastmodified":1563290281,
     "wof:name":"Sahatsakhan",
     "wof:parent_id":85678831,
     "wof:placetype":"locality",

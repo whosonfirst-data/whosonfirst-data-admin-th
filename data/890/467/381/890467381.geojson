@@ -39,6 +39,9 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09a6\u09cb\u0987 \u09b8\u09be\u0995\u09c7\u09a4"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Doi Saket"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Doi Saket"
     ],
@@ -60,8 +63,17 @@
     "name:tha_x_preferred":[
         "\u0e14\u0e2d\u0e22\u0e2a\u0e30\u0e40\u0e01\u0e47\u0e14"
     ],
+    "name:tha_x_variant":[
+        "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e14\u0e2d\u0e22\u0e2a\u0e30\u0e40\u0e01\u0e47\u0e14"
+    ],
+    "name:urd_x_preferred":[
+        "\u062f\u0648\u0626\u06cc \u0633\u0627\u06a9\u06cc\u062a \u0636\u0644\u0639"
+    ],
     "name:vie_x_preferred":[
         "Doi Saket"
+    ],
+    "name:zho_x_preferred":[
+        "\u96f7\u6c99\u9769\u53bf"
     ],
     "qs:name":"Doi Saket",
     "qs:name_adm0":"Thailand",
@@ -116,7 +128,7 @@
         }
     ],
     "wof:id":890467381,
-    "wof:lastmodified":1561758887,
+    "wof:lastmodified":1563298339,
     "wof:name":"Doi Saket",
     "wof:parent_id":85678619,
     "wof:placetype":"county",

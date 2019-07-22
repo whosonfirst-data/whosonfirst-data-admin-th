@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000512,
+    "geom:area_square_m":6274299.989511,
     "geom:bbox":"99.4117006951,7.94683195861,99.5506990657,8.07371374402",
     "geom:latitude":8.010281,
     "geom:longitude":99.481192,
@@ -18,11 +19,20 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ac\u09cd\u09af\u09be\u0982 \u0996\u09be\u09a8"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Bang Khan"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Bang Khan"
     ],
     "name:eng_x_preferred":[
         "Bang Khan"
+    ],
+    "name:fra_x_preferred":[
+        "Bang Khan"
+    ],
+    "name:nan_x_preferred":[
+        "Bang Khan K\u016bn"
     ],
     "name:por_x_preferred":[
         "Bang Khan"
@@ -38,6 +48,9 @@
     ],
     "name:unk_x_variant":[
         "\u0e1a\u0e32\u0e07\u0e02\u0e31\u0e19"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0627\u0646\u06af \u06a9\u06be\u0627\u0646 \u0636\u0644\u0639"
     ],
     "name:vie_x_preferred":[
         "Bang Khan"
@@ -89,7 +102,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636447,
+    "wof:lastmodified":1563290288,
     "wof:name":"Bang Khan",
     "wof:parent_id":85678565,
     "wof:placetype":"locality",

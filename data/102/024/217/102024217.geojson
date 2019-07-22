@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001551,
-    "geom:area_square_m":18258117.993907,
+    "geom:area_square_m":18258117.993904,
     "geom:bbox":"98.3127088261,17.7344165487,98.3755242484,17.8152643271",
     "geom:latitude":17.782144,
     "geom:longitude":98.344568,
@@ -15,11 +15,45 @@
     "mps:latitude":17.800996,
     "mps:longitude":98.360596,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bpy_x_preferred":[
+        "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u0993\u09ae\u0995\u09cb\u0987"
+    ],
+    "name:ceb_x_preferred":[
+        "Amphoe Om Koi"
+    ],
+    "name:deu_x_preferred":[
+        "Amphoe Omkoi"
+    ],
+    "name:eng_x_preferred":[
+        "Omkoi"
+    ],
+    "name:fra_x_preferred":[
+        "Omkoi"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30aa\u30e0\u30b3\u30fc\u30a4\u90e1"
+    ],
+    "name:nan_x_preferred":[
+        "Omkoi K\u016bn"
+    ],
+    "name:ron_x_preferred":[
+        "Districtul Omkoi"
+    ],
     "name:tha_x_preferred":[
         "\u0e2d\u0e21\u0e01\u0e4b\u0e2d\u0e22"
     ],
+    "name:tha_x_variant":[
+        "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e2d\u0e21\u0e01\u0e4b\u0e2d\u0e22"
+    ],
     "name:unk_x_variant":[
         "Ban Lim"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0648\u0645\u06a9\u0648\u06cc \u0636\u0644\u0639"
+    ],
+    "name:vie_x_preferred":[
+        "Omkoi"
     ],
     "qs:a1":"*",
     "qs:a1r":"*",
@@ -61,7 +95,7 @@
         }
     ],
     "wof:id":102024217,
-    "wof:lastmodified":1497290428,
+    "wof:lastmodified":1563290204,
     "wof:name":"Om Koi",
     "wof:parent_id":890465947,
     "wof:placetype":"locality",

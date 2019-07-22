@@ -49,6 +49,9 @@
     "name:bul_x_preferred":[
         "\u041d\u0430\u043a\u043e\u043d \u0421\u0430\u0432\u0430\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Changwat Nakhon Sawan"
+    ],
     "name:dan_x_preferred":[
         "Nakhon Sawan"
     ],
@@ -97,6 +100,9 @@
     "name:kor_x_preferred":[
         "\ub098\ucf58\uc0ac\uc644 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\ub098\ucf58\uc0ac\uc644\uc8fc"
+    ],
     "name:lao_x_preferred":[
         "\u0e88\u0eb1\u0e87\u0eab\u0ea7\u0eb1\u0e94\u0e99\u0eb0\u0e84\u0ead\u0e99\u0eaa\u0eb0\u0eab\u0ea7\u0eb1\u0e99"
     ],
@@ -126,6 +132,9 @@
     ],
     "name:nld_x_preferred":[
         "Changwat Nakhon Sawan"
+    ],
+    "name:nno_x_preferred":[
+        "Nakhon Sawan-fylket"
     ],
     "name:nob_x_preferred":[
         "Nakhon Sawan"
@@ -196,8 +205,14 @@
     "name:wuu_x_preferred":[
         "\u5317\u6984\u5761\u5e9c"
     ],
+    "name:yue_x_preferred":[
+        "\u5317\u652c\u5761\u5e9c"
+    ],
     "name:zho_x_preferred":[
         "\u5317\u6b16\u5761\u5e9c"
+    ],
+    "name:zho_x_variant":[
+        "\u90a3\u7a7a\u6c99\u65fa\u5e9c"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"THA",
@@ -321,7 +336,7 @@
     "wof:lang_x_spoken":[
         "tha"
     ],
-    "wof:lastmodified":1561758458,
+    "wof:lastmodified":1563291860,
     "wof:name":"Nakhon Sawan",
     "wof:parent_id":85632293,
     "wof:placetype":"region",

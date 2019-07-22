@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0024,
-    "geom:area_square_m":28739341.962121,
+    "geom:area_square_m":28739341.962109,
     "geom:bbox":"102.696418016,14.3671205623,102.747916879,14.4915872991",
     "geom:latitude":14.430092,
     "geom:longitude":102.721302,
@@ -30,6 +30,12 @@
         "Pa Kham",
         "Pakham"
     ],
+    "name:fra_x_preferred":[
+        "Pakham"
+    ],
+    "name:nan_x_preferred":[
+        "Pakham K\u016bn"
+    ],
     "name:ron_x_preferred":[
         "Districtul Pakham"
     ],
@@ -41,6 +47,9 @@
     ],
     "name:unk_x_variant":[
         "Ban Prakham"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u0627\u06a9\u06be\u0627\u0645 \u0636\u0644\u0639"
     ],
     "name:vie_x_preferred":[
         "Pakham"
@@ -94,7 +103,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636425,
+    "wof:lastmodified":1563290187,
     "wof:name":"Pakham",
     "wof:parent_id":1108731661,
     "wof:placetype":"locality",

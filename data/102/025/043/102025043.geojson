@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00026,
+    "geom:area_square_m":3131743.779991,
     "geom:bbox":"101.136399563,13.3966144861,101.154860144,13.4146865918",
     "geom:latitude":13.405651,
     "geom:longitude":101.14563,
@@ -16,6 +17,31 @@
     "mps:latitude":13.40565,
     "mps:longitude":101.14563,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bpy_x_preferred":[
+        "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ab\u09be\u09a8\u09af\u09bc\u09be\u09a4 \u09a8\u09bf\u0996\u09cb\u09ae"
+    ],
+    "name:ceb_x_preferred":[
+        "Amphoe Phanat Nikhom"
+    ],
+    "name:deu_x_preferred":[
+        "Amphoe Phanat Nikhom"
+    ],
+    "name:eng_x_preferred":[
+        "Phanat Nikhom"
+    ],
+    "name:fra_x_preferred":[
+        "Phanat Nikhom"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d1\u30ca\u30c3\u30c8\u30cb\u30b3\u30e0\u90e1"
+    ],
+    "name:nan_x_preferred":[
+        "Phanat Nikhom K\u016bn"
+    ],
+    "name:ron_x_preferred":[
+        "Districtul Phanat Nikhom"
+    ],
     "name:tha_x_preferred":[
         "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e1e\u0e19\u0e31\u0e2a\u0e19\u0e34\u0e04\u0e21"
     ],
@@ -24,6 +50,12 @@
     ],
     "name:unk_x_variant":[
         "Mueang Phanat Nikhom"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u06be\u0627\u0646\u0627\u062a \u0646\u06cc\u06a9\u06c1\u0648\u0645 \u0636\u0644\u0639"
+    ],
+    "name:vie_x_preferred":[
+        "Phanat Nikhom"
     ],
     "qs:a1":"*",
     "qs:a1r":"*",
@@ -60,7 +92,7 @@
         }
     ],
     "wof:id":102025043,
-    "wof:lastmodified":1501221021,
+    "wof:lastmodified":1563290422,
     "wof:name":"Amphoe Phanat Nikhom",
     "wof:parent_id":85678795,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001807,
-    "geom:area_square_m":21372914.99035,
+    "geom:area_square_m":21372914.990345,
     "geom:bbox":"104.695808308,16.9242930941,104.739312263,16.9870342366",
     "geom:latitude":16.951185,
     "geom:longitude":104.721035,
@@ -26,7 +26,20 @@
     "name:eng_x_variant":[
         "Ban That Phanom",
         "Ban Thatphnom",
-        "Ban Thatuphanom"
+        "Ban Thatuphanom",
+        "Wat Phra That Phanom"
+    ],
+    "name:fra_x_preferred":[
+        "Wat Phra That Phanom"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05d0\u05d8 \u05e4\u05e8\u05d4 \u05d8\u05d0\u05d8 \u05e4\u05d0\u05e0\u05d5\u05dd"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ef\u30c3\u30c8\u30fb\u30d7\u30e9\u30bf\u30fc\u30c8\u30d1\u30ce"
+    ],
+    "name:nld_x_preferred":[
+        "Wat Phra That Phanom"
     ],
     "name:rus_x_preferred":[
         "\u0422\u0445\u0430\u0442 \u041f\u0445\u0430\u043d\u043e\u043c"
@@ -39,6 +52,9 @@
     ],
     "name:unk_x_variant":[
         "Amphoe That Phanom"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e15\u5854\u62cd\u5102\u5bfa"
     ],
     "qs:a0":"Thailand",
     "qs:a1":"*Nakhon Phanom",
@@ -90,7 +106,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636421,
+    "wof:lastmodified":1563290178,
     "wof:name":"That Phanom",
     "wof:parent_id":890466333,
     "wof:placetype":"locality",

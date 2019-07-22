@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000083,
-    "geom:area_square_m":998288.360461,
+    "geom:area_square_m":998288.360464,
     "geom:bbox":"100.496063232,13.7356866756,100.509796143,13.7487228708",
     "geom:latitude":13.742931,
     "geom:longitude":100.503383,
@@ -27,11 +27,23 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u062d\u064a \u0627\u0644\u0635\u064a\u0646\u064a"
     ],
+    "name:ast_x_preferred":[
+        "Barriu chinu"
+    ],
     "name:aze_x_preferred":[
         "\u00c7in q\u0259s\u0259b\u0259si"
     ],
+    "name:aze_x_variant":[
+        "\u00c7in m\u0259h\u0259ll\u0259si"
+    ],
     "name:cat_x_preferred":[
         "Barri xin\u00e8s"
+    ],
+    "name:cat_x_variant":[
+        "barri xin\u00e8s"
+    ],
+    "name:cdo_x_preferred":[
+        "D\u00f2ng-\u00ecng-g\u0103\u0324"
     ],
     "name:dan_x_preferred":[
         "Chinatown"
@@ -41,6 +53,9 @@
     ],
     "name:eng_x_preferred":[
         "Chinatown"
+    ],
+    "name:epo_x_preferred":[
+        "\u0109ina kvartalo"
     ],
     "name:est_x_preferred":[
         "Hiinalinn"
@@ -57,6 +72,9 @@
     "name:fra_x_preferred":[
         "Quartier asiatique"
     ],
+    "name:fra_x_variant":[
+        "quartier chinois"
+    ],
     "name:fry_x_preferred":[
         "Chinatown"
     ],
@@ -65,6 +83,9 @@
     ],
     "name:hun_x_preferred":[
         "K\u00ednai negyed"
+    ],
+    "name:hun_x_variant":[
+        "k\u00ednai negyed"
     ],
     "name:ind_x_preferred":[
         "Pecinan"
@@ -90,10 +111,16 @@
     "name:msa_x_preferred":[
         "Pekan Cina"
     ],
+    "name:nan_x_preferred":[
+        "Tn\u0302g-l\u00e2ng-ke"
+    ],
     "name:nld_x_preferred":[
         "Chinatown"
     ],
     "name:nno_x_preferred":[
+        "Chinatown"
+    ],
+    "name:nob_x_preferred":[
         "Chinatown"
     ],
     "name:nor_x_preferred":[
@@ -111,6 +138,9 @@
     "name:rus_x_preferred":[
         "\u041a\u0438\u0442\u0430\u0439\u0441\u043a\u0438\u0439 \u043a\u0432\u0430\u0440\u0442\u0430\u043b"
     ],
+    "name:rus_x_variant":[
+        "\u043a\u0438\u0442\u0430\u0439\u0441\u043a\u0438\u0439 \u043a\u0432\u0430\u0440\u0442\u0430\u043b"
+    ],
     "name:sah_x_preferred":[
         "\u0427\u0430\u0439\u043d\u0430\u0442\u0430\u0443\u043d"
     ],
@@ -119,6 +149,9 @@
     ],
     "name:spa_x_preferred":[
         "Barrio chino"
+    ],
+    "name:spa_x_variant":[
+        "barrio chino"
     ],
     "name:swe_x_preferred":[
         "Chinatown"
@@ -140,6 +173,9 @@
     ],
     "name:vie_x_preferred":[
         "Ph\u1ed1 ng\u01b0\u1eddi Hoa"
+    ],
+    "name:yue_x_preferred":[
+        "\u5510\u4eba\u8857"
     ],
     "name:zho_x_preferred":[
         "\u5510\u4eba\u8857"
@@ -206,7 +242,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527269266,
+    "wof:lastmodified":1563291773,
     "wof:name":"Chinatown",
     "wof:parent_id":102025263,
     "wof:placetype":"neighbourhood",

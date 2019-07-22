@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001174,
+    "geom:area_square_m":13973967.072225,
     "geom:bbox":"101.740552968,15.7250711091,101.792160571,15.7748527939",
     "geom:latitude":15.750799,
     "geom:longitude":101.767391,
@@ -19,6 +20,9 @@
     "mz:is_current":-1,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09a8\u09cb\u0982 \u09ac\u09c1\u09af\u09bc\u09be \u09b0\u09be\u09f1\u09c7"
+    ],
+    "name:ceb_x_preferred":[
+        "Amphoe Nong Bua Rawe"
     ],
     "name:deu_x_preferred":[
         "Amphoe Nong Bua Rawe"
@@ -37,6 +41,12 @@
         "Non Rawiang",
         "Nong Bua Rawe"
     ],
+    "name:fra_x_preferred":[
+        "Nong Bua Rawe"
+    ],
+    "name:nan_x_preferred":[
+        "Nong Bua Rawe K\u016bn"
+    ],
     "name:ron_x_preferred":[
         "Districtul Nong Bua Rawe"
     ],
@@ -48,6 +58,9 @@
     ],
     "name:unk_x_variant":[
         "Ban Non Rawiang"
+    ],
+    "name:urd_x_preferred":[
+        "\u0646\u0648\u0646\u06af \u0628\u0648\u0627 \u0631\u0627\u0648\u06d2 \u0636\u0644\u0639"
     ],
     "name:vie_x_preferred":[
         "Nong Bua Rawe"
@@ -99,7 +112,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636680,
+    "wof:lastmodified":1563290332,
     "wof:name":"Nong Bua Rawe",
     "wof:parent_id":85678825,
     "wof:placetype":"locality",

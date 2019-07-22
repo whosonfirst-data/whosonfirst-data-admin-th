@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002175,
-    "geom:area_square_m":26111971.970762,
+    "geom:area_square_m":26111971.970788,
     "geom:bbox":"100.938627511,13.7917040737,101.066987467,13.8631168067",
     "geom:latitude":13.83343,
     "geom:longitude":101.009776,
@@ -19,17 +19,32 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ac\u09cd\u09af\u09be\u0982 \u09a8\u09be\u09ae \u09aa\u09cd\u09b0\u09bf\u09af\u09bc\u09be\u0993"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Bang Nam Priao"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Bang Nam Priao"
     ],
+    "name:eng_x_preferred":[
+        "Bang Nam Priao"
+    ],
+    "name:fra_x_preferred":[
+        "Bang Nam Priao"
+    ],
     "name:jpn_x_preferred":[
         "\u30d0\u30fc\u30f3\u30ca\u30e0\u30d7\u30ea\u30a2\u30aa\u90e1"
+    ],
+    "name:nan_x_preferred":[
+        "Bang Nam Priao K\u016bn"
     ],
     "name:ron_x_preferred":[
         "Districtul Bang Nam Priao"
     ],
     "name:tha_x_preferred":[
         "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e1a\u0e32\u0e07\u0e19\u0e49\u0e33\u0e40\u0e1b\u0e23\u0e35\u0e49\u0e22\u0e27"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0627\u0646\u06af \u0646\u0627\u0645 \u067e\u0631\u06cc\u0627\u0648 \u0636\u0644\u0639"
     ],
     "name:vie_x_preferred":[
         "Bang Nam Priao"
@@ -77,7 +92,7 @@
         }
     ],
     "wof:id":102025993,
-    "wof:lastmodified":1527636685,
+    "wof:lastmodified":1563290404,
     "wof:name":"Bang Nam Priao",
     "wof:parent_id":1108802585,
     "wof:placetype":"locality",

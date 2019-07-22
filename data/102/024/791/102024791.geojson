@@ -18,6 +18,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
+    "name:ceb_x_preferred":[
+        "Si Sa Ket"
+    ],
     "name:deu_x_preferred":[
         "Sisaket"
     ],
@@ -30,8 +33,14 @@
     "name:eng_x_variant":[
         "Si Sa Ket"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u06cc\u0633\u0627\u06a9\u062a"
+    ],
     "name:fra_x_preferred":[
         "Si Saket"
+    ],
+    "name:ita_x_preferred":[
+        "Sisaket"
     ],
     "name:kor_x_preferred":[
         "\uc2dc\uc0ac\uaeeb"
@@ -54,8 +63,14 @@
     "name:rus_x_preferred":[
         "\u0421\u0438 \u0421\u0430 \u041a\u0435\u0442"
     ],
+    "name:rus_x_variant":[
+        "\u0421\u0438\u0441\u0430\u043a\u0435\u0442"
+    ],
     "name:tha_x_preferred":[
         "\u0e28\u0e23\u0e35\u0e2a\u0e30\u0e40\u0e01\u0e29"
+    ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e17\u0e28\u0e1a\u0e32\u0e25\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e28\u0e23\u0e35\u0e2a\u0e30\u0e40\u0e01\u0e29"
     ],
     "name:unk_x_variant":[
         "Khukhan"
@@ -205,7 +220,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561758375,
+    "wof:lastmodified":1563290186,
     "wof:name":"Si Sa Ket",
     "wof:parent_id":890466887,
     "wof:placetype":"locality",

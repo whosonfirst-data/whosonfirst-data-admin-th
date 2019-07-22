@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001354,
-    "geom:area_square_m":16184080.107633,
+    "geom:area_square_m":16184080.107634,
     "geom:bbox":"100.356310966,14.749908458,100.418834402,14.7892327257",
     "geom:latitude":14.766688,
     "geom:longitude":100.38601,
@@ -16,6 +16,15 @@
     "mps:longitude":100.385534,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bpy_x_preferred":[
+        "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09a5\u09be \u099a\u09be\u0982"
+    ],
+    "name:ceb_x_preferred":[
+        "Amphoe Tha Chang"
+    ],
+    "name:deu_x_preferred":[
+        "Amphoe Tha Chang"
+    ],
     "name:eng_x_preferred":[
         "Tha Chang"
     ],
@@ -23,11 +32,29 @@
         "Ban Thon Samo",
         "Thaun Samau"
     ],
+    "name:fra_x_preferred":[
+        "Tha Chang"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bf\u30fc\u30c1\u30e3\u30fc\u30f3\u90e1"
+    ],
+    "name:nan_x_preferred":[
+        "Tha Chang K\u016bn"
+    ],
+    "name:ron_x_preferred":[
+        "Districtul Tha Chang"
+    ],
     "name:tha_x_preferred":[
         "\u0e17\u0e48\u0e32\u0e0a\u0e49\u0e32\u0e07"
     ],
+    "name:tha_x_variant":[
+        "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e17\u0e48\u0e32\u0e0a\u0e49\u0e32\u0e07"
+    ],
     "name:unk_x_variant":[
         "Ban Thon Samo"
+    ],
+    "name:vie_x_preferred":[
+        "Tha Chang"
     ],
     "qs:a0":"Thailand",
     "qs:a1":"*Sing Buri",
@@ -78,7 +105,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1497290751,
+    "wof:lastmodified":1563290316,
     "wof:name":"Tha Chang",
     "wof:parent_id":890466157,
     "wof:placetype":"locality",

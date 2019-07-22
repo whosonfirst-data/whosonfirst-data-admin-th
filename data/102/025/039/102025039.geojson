@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001832,
+    "geom:area_square_m":21620064.9313,
     "geom:bbox":"103.827870684,17.30489454,103.912607011,17.3649188975",
     "geom:latitude":17.335939,
     "geom:longitude":103.868732,
@@ -20,6 +21,9 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ab\u09be\u09a8\u09a8\u09be \u09a8\u09bf\u0996\u09cb\u09ae"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Phanna Nikhom"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Phanna Nikhom"
     ],
@@ -30,8 +34,17 @@
         "Bharnnani",
         "Pana Nagom"
     ],
+    "name:fra_x_preferred":[
+        "Phanna Nikhom"
+    ],
+    "name:nan_x_preferred":[
+        "Phanna Nikhom K\u016bn"
+    ],
     "name:ron_x_preferred":[
         "Districtul Phanna Nikhom"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u0430\u043d\u043d\u0430-\u041d\u0438\u043a\u043e\u043c"
     ],
     "name:tha_x_preferred":[
         "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e1e\u0e23\u0e23\u0e13\u0e32\u0e19\u0e34\u0e04\u0e21"
@@ -92,7 +105,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636684,
+    "wof:lastmodified":1563290379,
     "wof:name":"Phanna Nikhom",
     "wof:parent_id":85678863,
     "wof:placetype":"locality",

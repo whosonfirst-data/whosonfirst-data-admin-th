@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000688,
+    "geom:area_square_m":8241539.680064,
     "geom:bbox":"100.048710077,14.3351857651,100.078242109,14.3745527337",
     "geom:latitude":14.354429,
     "geom:longitude":100.062002,
@@ -15,11 +16,20 @@
     "mps:longitude":100.057853,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Wat Bot"
+    ],
     "name:eng_x_preferred":[
+        "Wat Bot"
+    ],
+    "name:fra_x_preferred":[
         "Wat Bot"
     ],
     "name:tha_x_preferred":[
         "\u0e27\u0e31\u0e14\u0e42\u0e1a\u0e2a\u0e16\u0e4c"
+    ],
+    "name:tha_x_variant":[
+        "\u0e15\u0e33\u0e1a\u0e25\u0e27\u0e31\u0e14\u0e42\u0e1a\u0e2a\u0e16\u0e4c"
     ],
     "name:unk_x_variant":[
         "Amphoe Wat Bot"
@@ -68,7 +78,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636449,
+    "wof:lastmodified":1563290305,
     "wof:name":"Wat Bot",
     "wof:parent_id":85678679,
     "wof:placetype":"locality",

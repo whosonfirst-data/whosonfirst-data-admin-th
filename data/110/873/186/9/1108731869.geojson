@@ -38,6 +38,9 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09b8\u09be\u09f1\u09be\u09a8\u0996\u09be\u09b2\u09cb\u0995"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Sawankhalok"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Sawankhalok"
     ],
@@ -49,6 +52,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30b5\u30ef\u30f3\u30ab\u30ed\u30fc\u30af\u90e1"
+    ],
+    "name:jpn_x_variant":[
+        "Pho Thale"
     ],
     "name:nan_x_preferred":[
         "Sawankhalok K\u016bn"
@@ -62,8 +68,14 @@
     "name:tha_x_preferred":[
         "\u0e2a\u0e27\u0e23\u0e23\u0e04\u0e42\u0e25\u0e01"
     ],
+    "name:tha_x_variant":[
+        "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e2a\u0e27\u0e23\u0e23\u0e04\u0e42\u0e25\u0e01"
+    ],
     "name:vie_x_preferred":[
         "Sawankhalok"
+    ],
+    "name:zho_x_preferred":[
+        "\u5b8b\u52a0\u6d1b\u7e23"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -101,7 +113,7 @@
         }
     ],
     "wof:id":1108731869,
-    "wof:lastmodified":1561758750,
+    "wof:lastmodified":1563296504,
     "wof:name":"Sawankhalok",
     "wof:parent_id":85678651,
     "wof:placetype":"county",

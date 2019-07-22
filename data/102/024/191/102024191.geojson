@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001489,
+    "geom:area_square_m":18211458.693052,
     "geom:bbox":"99.5545113891,8.52308819497,99.6276168958,8.58463431635",
     "geom:latitude":8.557423,
     "geom:longitude":99.598265,
@@ -18,11 +19,20 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ab\u09bf\u09b0\u09c1\u09a8"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Phipun"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Phipun"
     ],
     "name:eng_x_preferred":[
         "Phipun"
+    ],
+    "name:fra_x_preferred":[
+        "Phipun"
+    ],
+    "name:nan_x_preferred":[
+        "Phipun K\u016bn"
     ],
     "name:por_x_preferred":[
         "Phipun"
@@ -38,6 +48,9 @@
     ],
     "name:unk_x_variant":[
         "\u0e1e\u0e34\u0e1b\u0e39\u0e19"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u06be\u06cc\u067e\u0648\u0646 \u0636\u0644\u0639"
     ],
     "name:vie_x_preferred":[
         "Phipun"
@@ -92,7 +105,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636443,
+    "wof:lastmodified":1563290254,
     "wof:name":"Phipun",
     "wof:parent_id":85678565,
     "wof:placetype":"locality",

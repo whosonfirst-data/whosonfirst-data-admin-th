@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001205,
-    "geom:area_square_m":14486102.536183,
+    "geom:area_square_m":14486102.536205,
     "geom:bbox":"99.6092853583,13.6075836715,99.657987623,13.6496903005",
     "geom:latitude":13.629378,
     "geom:longitude":99.632019,
@@ -20,6 +20,9 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u099a\u09cb\u09ae \u09ac\u09c1\u09af\u09bc\u09c7\u0982"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Chom Bueng"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Chom Bueng"
     ],
@@ -32,6 +35,12 @@
         "Chohm Boeng",
         "Chom Bueng",
         "King Chom Bung"
+    ],
+    "name:fra_x_preferred":[
+        "Chom Bueng"
+    ],
+    "name:nan_x_preferred":[
+        "Chom Bueng K\u016bn"
     ],
     "name:ron_x_preferred":[
         "Districtul Chom Bueng"
@@ -99,7 +108,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636440,
+    "wof:lastmodified":1563290233,
     "wof:name":"Chom Bueng",
     "wof:parent_id":85678761,
     "wof:placetype":"locality",

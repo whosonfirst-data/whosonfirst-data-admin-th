@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002594,
+    "geom:area_square_m":31735724.72738,
     "geom:bbox":"98.2361564696,8.33834338868,98.2982667102,8.59549733021",
     "geom:latitude":8.408019,
     "geom:longitude":98.262865,
@@ -17,6 +18,9 @@
     "mz:is_current":-1,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09a5\u09bf \u09ae\u09c1\u09af\u09bc\u09c7\u0982"
+    ],
+    "name:ceb_x_preferred":[
+        "Amphoe Thai Mueang"
     ],
     "name:deu_x_preferred":[
         "Amphoe Thai Mueang"
@@ -31,8 +35,17 @@
         "Tai Muang",
         "Thai Mueang"
     ],
+    "name:fra_x_preferred":[
+        "Thai Mueang"
+    ],
     "name:jpn_x_preferred":[
         "\u30bf\u30fc\u30a4\u30e0\u30a2\u30f3\u90e1"
+    ],
+    "name:nan_x_preferred":[
+        "Thai Mueang K\u016bn"
+    ],
+    "name:nob_x_preferred":[
+        "Thai Mueang"
     ],
     "name:nor_x_preferred":[
         "Thai Mueang"
@@ -99,7 +112,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636444,
+    "wof:lastmodified":1563290267,
     "wof:name":"Thai Mueang",
     "wof:parent_id":85678573,
     "wof:placetype":"locality",

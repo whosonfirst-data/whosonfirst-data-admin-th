@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001133,
+    "geom:area_square_m":13812782.755534,
     "geom:bbox":"98.5657162371,9.56462309963,98.616901288,9.60437819361",
     "geom:latitude":9.585003,
     "geom:longitude":98.593061,
@@ -18,6 +19,9 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u0995\u09be\u09aa\u09cb\u09af\u09bc\u09c7"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Kapoe"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Kapoe"
     ],
@@ -27,8 +31,14 @@
     "name:eng_x_variant":[
         "Kapur"
     ],
+    "name:fra_x_preferred":[
+        "Kapoe"
+    ],
     "name:jpn_x_preferred":[
         "\u30ab\u30d7\u30fc\u90e1"
+    ],
+    "name:nan_x_preferred":[
+        "Kapoe K\u016bn"
     ],
     "name:ron_x_preferred":[
         "Districtul Kapoe"
@@ -95,7 +105,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636424,
+    "wof:lastmodified":1563290184,
     "wof:name":"Kapoe",
     "wof:parent_id":85678577,
     "wof:placetype":"locality",

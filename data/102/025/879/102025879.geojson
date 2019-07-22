@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001489,
+    "geom:area_square_m":17302373.775259,
     "geom:bbox":"100.015465612,19.9901251424,100.078528986,20.0288417639",
     "geom:latitude":20.007833,
     "geom:longitude":100.044725,
@@ -20,11 +21,23 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09f1\u09bf\u09af\u09bc\u09be\u0982 \u099a\u09bf\u09af\u09bc\u09be\u0982 \u09b0\u09c1\u0982"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Wiang Chiang Rung"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Wiang Chiang Rung"
     ],
+    "name:eng_x_preferred":[
+        "Wiang Chiang Rung"
+    ],
+    "name:fra_x_preferred":[
+        "Wiang Chiang Rung"
+    ],
     "name:jpn_x_preferred":[
         "\u30a6\u30a3\u30a8\u30f3\u30c1\u30a8\u30f3\u30eb\u30f3\u90e1"
+    ],
+    "name:nan_x_preferred":[
+        "Wiang Chiang Rung K\u016bn"
     ],
     "name:ron_x_preferred":[
         "Districtul Wiang Chiang Rung"
@@ -34,6 +47,9 @@
     ],
     "name:tha_x_variant":[
         "\u0e40\u0e27\u0e35\u0e22\u0e07\u0e40\u0e0a\u0e35\u0e22\u0e07\u0e23\u0e38\u0e49\u0e07"
+    ],
+    "name:urd_x_preferred":[
+        "\u0648\u06cc\u0627\u0646\u06af \u0686\u06cc\u0627\u0646\u06af \u0631\u0648\u0646\u06af \u0636\u0644\u0639"
     ],
     "name:vie_x_preferred":[
         "Wiang Chiang Rung"
@@ -81,7 +97,7 @@
         }
     ],
     "wof:id":102025879,
-    "wof:lastmodified":1527636686,
+    "wof:lastmodified":1563290413,
     "wof:name":"Wiang Chiang Rung",
     "wof:parent_id":85678617,
     "wof:placetype":"locality",

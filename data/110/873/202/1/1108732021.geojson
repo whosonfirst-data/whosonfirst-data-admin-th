@@ -38,6 +38,9 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09b8\u09be\u0987 \u09a5\u09cb\u0982 \u09f1\u09be\u09a4\u09a5\u09be\u09a8\u09be"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Sai Thong Watthana"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Sai Thong Watthana"
     ],
@@ -45,8 +48,7 @@
         "Sai Thong Watthana"
     ],
     "name:eng_x_variant":[
-        "Thung Sai",
-        "Sai Thong Watthana"
+        "Thung Sai"
     ],
     "name:fra_x_preferred":[
         "Sai Thong Watthana"
@@ -59,6 +61,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e01\u0e34\u0e48\u0e07\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e17\u0e38\u0e48\u0e07\u0e17\u0e23\u0e32\u0e22"
+    ],
+    "name:tha_x_variant":[
+        "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e17\u0e23\u0e32\u0e22\u0e17\u0e2d\u0e07\u0e27\u0e31\u0e12\u0e19\u0e32"
     ],
     "name:urd_x_preferred":[
         "\u0633\u06cc \u062a\u06be\u0648\u0646\u06af \u0648\u062a\u06be\u0627\u0646\u0627 \u0636\u0644\u0639"
@@ -102,7 +107,7 @@
         }
     ],
     "wof:id":1108732021,
-    "wof:lastmodified":1561758743,
+    "wof:lastmodified":1563296475,
     "wof:name":"Thung Sai",
     "wof:parent_id":85678665,
     "wof:placetype":"county",

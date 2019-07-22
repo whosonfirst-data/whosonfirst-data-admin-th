@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002311,
-    "geom:area_square_m":27287786.769415,
+    "geom:area_square_m":27287786.769377,
     "geom:bbox":"101.7404783,17.2734351429,101.803222439,17.3334490719",
     "geom:latitude":17.303845,
     "geom:longitude":101.770584,
@@ -20,6 +20,9 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09f1\u09be\u0982 \u09b8\u09be\u09ab\u09c1\u0982"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Wang Saphung"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Wang Saphung"
     ],
@@ -32,6 +35,12 @@
         "Ban Wang Saphung",
         "Wangsabhung"
     ],
+    "name:fra_x_preferred":[
+        "Wang Saphung"
+    ],
+    "name:nan_x_preferred":[
+        "Wang Saphung K\u016bn"
+    ],
     "name:ron_x_preferred":[
         "Districtul Wang Saphung"
     ],
@@ -43,6 +52,9 @@
     ],
     "name:unk_x_variant":[
         "Amphoe Wang Saphung"
+    ],
+    "name:urd_x_preferred":[
+        "\u0648\u0627\u0646\u06af \u0633\u0627\u067e\u06c1\u0648\u0646\u06af \u0636\u0644\u0639"
     ],
     "name:vie_x_preferred":[
         "Wang Saphung"
@@ -95,7 +107,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636431,
+    "wof:lastmodified":1563290202,
     "wof:name":"Wang Saphung",
     "wof:parent_id":85678853,
     "wof:placetype":"locality",

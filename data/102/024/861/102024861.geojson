@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000819,
+    "geom:area_square_m":9776055.00861,
     "geom:bbox":"103.915869825,15.0047296243,103.967430626,15.0334199785",
     "geom:latitude":15.017825,
     "geom:longitude":103.939935,
@@ -18,8 +19,20 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09b8\u09be\u09ae\u09b0\u09cb\u0982 \u09a5\u09be\u09b0"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Samrong Thap"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Samrong Thap"
+    ],
+    "name:eng_x_preferred":[
+        "Samrong Thap"
+    ],
+    "name:fra_x_preferred":[
+        "Samrong Thap"
+    ],
+    "name:nan_x_preferred":[
+        "Samrong Thap K\u016bn"
     ],
     "name:ron_x_preferred":[
         "Districtul Samrong Thap"
@@ -79,7 +92,7 @@
         }
     ],
     "wof:id":102024861,
-    "wof:lastmodified":1527636434,
+    "wof:lastmodified":1563290212,
     "wof:name":"Samrong Thap",
     "wof:parent_id":85678849,
     "wof:placetype":"locality",

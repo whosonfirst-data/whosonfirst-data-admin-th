@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004664,
-    "geom:area_square_m":56088801.537038,
+    "geom:area_square_m":56088801.537103,
     "geom:bbox":"99.9251502965,13.3859221248,99.9930622289,13.4894888392",
     "geom:latitude":13.436155,
     "geom:longitude":99.960459,
@@ -20,14 +20,26 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u0985\u09ae\u09ab\u09be\u09f1\u09be"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Amphawa"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Amphawa"
+    ],
+    "name:eng_x_preferred":[
+        "Amphawa"
     ],
     "name:fas_x_preferred":[
         "\u0628\u062e\u0634 \u0627\u0645\u067e\u0641\u0627\u0648\u0627"
     ],
+    "name:fra_x_preferred":[
+        "Amphawa"
+    ],
     "name:jpn_x_preferred":[
         "\u30a2\u30e0\u30d1\u30ef\u30fc\u90e1"
+    ],
+    "name:nan_x_preferred":[
+        "Amphawa K\u016bn"
     ],
     "name:ron_x_preferred":[
         "Districtul Amphawa"
@@ -98,7 +110,7 @@
         }
     ],
     "wof:id":102024505,
-    "wof:lastmodified":1527636422,
+    "wof:lastmodified":1563290181,
     "wof:name":"Amphawa",
     "wof:parent_id":85678775,
     "wof:placetype":"locality",

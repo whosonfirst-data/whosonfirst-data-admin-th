@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000629,
-    "geom:area_square_m":7430683.68712,
+    "geom:area_square_m":7430683.687115,
     "geom:bbox":"101.839365589,17.1160139136,101.869130858,17.1445691717",
     "geom:latitude":17.128721,
     "geom:longitude":101.855883,
@@ -19,6 +19,9 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09a8\u09cb\u0982 \u09b9\u09bf\u09a8"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Nong Hin"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Nong Hin"
     ],
@@ -27,6 +30,12 @@
     ],
     "name:eng_x_variant":[
         "Nong Hin"
+    ],
+    "name:fra_x_preferred":[
+        "Nong Hin"
+    ],
+    "name:nan_x_preferred":[
+        "Nong Hin K\u016bn"
     ],
     "name:ron_x_preferred":[
         "Districtul Nong Hin"
@@ -39,6 +48,9 @@
     ],
     "name:unk_x_variant":[
         "\u0e2b\u0e19\u0e2d\u0e07\u0e2b\u0e34\u0e19"
+    ],
+    "name:urd_x_preferred":[
+        "\u0646\u0648\u0646\u06af \u06c1\u0646 \u0636\u0644\u0639"
     ],
     "name:vie_x_preferred":[
         "Nong Hin"
@@ -92,7 +104,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636423,
+    "wof:lastmodified":1563290183,
     "wof:name":"Nong Hin",
     "wof:parent_id":890466061,
     "wof:placetype":"locality",

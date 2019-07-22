@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000766,
+    "geom:area_square_m":9402324.425172,
     "geom:bbox":"100.872915116,6.67193421644,100.956920084,6.77730214555",
     "geom:latitude":6.710073,
     "geom:longitude":100.922242,
@@ -18,8 +19,17 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09a5\u09c7\u09ab\u09be"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Thepha"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Thepha"
+    ],
+    "name:eng_x_preferred":[
+        "Thepha"
+    ],
+    "name:fra_x_preferred":[
+        "Thepha"
     ],
     "name:jpn_x_preferred":[
         "\u30c6\u30fc\u30d1\u30fc\u90e1"
@@ -29,6 +39,9 @@
     ],
     "name:mya_x_preferred":[
         "Tiba"
+    ],
+    "name:nan_x_preferred":[
+        "Thepha K\u016bn"
     ],
     "name:por_x_preferred":[
         "Thepha"
@@ -88,7 +101,7 @@
         }
     ],
     "wof:id":102024579,
-    "wof:lastmodified":1527636450,
+    "wof:lastmodified":1563290321,
     "wof:name":"Thepha",
     "wof:parent_id":85678603,
     "wof:placetype":"locality",

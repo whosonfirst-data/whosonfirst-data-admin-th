@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001899,
-    "geom:area_square_m":22173428.905847,
+    "geom:area_square_m":22173428.905854,
     "geom:bbox":"99.1475935643,19.1413198649,99.2105630881,19.2527734925",
     "geom:latitude":19.207624,
     "geom:longitude":99.179463,
@@ -16,8 +16,17 @@
     "mps:longitude":99.189979,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Wiang Phrao"
+    ],
+    "name:eng_x_preferred":[
+        "Wiang Phrao"
+    ],
     "name:tha_x_preferred":[
         "\u0e1e\u0e23\u0e49\u0e32\u0e27"
+    ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e17\u0e28\u0e1a\u0e32\u0e25\u0e15\u0e33\u0e1a\u0e25\u0e40\u0e27\u0e35\u0e22\u0e07\u0e1e\u0e23\u0e49\u0e32\u0e27"
     ],
     "qs:a0":"Thailand",
     "qs:a1":"*Chiang Mai",
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":102024031,
-    "wof:lastmodified":1527636436,
+    "wof:lastmodified":1563290218,
     "wof:name":"Phrao",
     "wof:parent_id":1108802725,
     "wof:placetype":"locality",

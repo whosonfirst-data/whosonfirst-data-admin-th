@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001124,
-    "geom:area_square_m":13404715.080507,
+    "geom:area_square_m":13404715.080482,
     "geom:bbox":"105.214991925,15.2274488118,105.255589341,15.2667299509",
     "geom:latitude":15.245756,
     "geom:longitude":105.237058,
@@ -22,6 +22,9 @@
     "mz:is_current":-1,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ab\u09bf\u09ac\u09c1\u09a8 \u09ae\u09be\u0982\u09b8\u09be\u09b9\u09be\u09a8"
+    ],
+    "name:ceb_x_preferred":[
+        "Amphoe Phibun Mangsahan"
     ],
     "name:deu_x_preferred":[
         "Amphoe Phibun Mangsahan"
@@ -40,6 +43,15 @@
         "Pimool",
         "Pimul",
         "Pimun"
+    ],
+    "name:fra_x_preferred":[
+        "Phibun Mangsahan"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d4\u30d6\u30fc\u30f3\u30de\u30f3\u30b5\u30fc\u30cf\u30fc\u30f3\u90e1"
+    ],
+    "name:nan_x_preferred":[
+        "Phibun Mangsahan K\u016bn"
     ],
     "name:ron_x_preferred":[
         "Districtul Phibun Mangsahan"
@@ -118,7 +130,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636687,
+    "wof:lastmodified":1563290418,
     "wof:name":"Phibun Mangsahan",
     "wof:parent_id":890466347,
     "wof:placetype":"locality",

@@ -38,6 +38,9 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09b0\u09cb\u0982 \u0996\u09be\u09ae"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Rong Kham"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Rong Kham"
     ],
@@ -45,8 +48,7 @@
         "Rong Kham"
     ],
     "name:eng_x_variant":[
-        "Rong Khum",
-        "Rong Kham"
+        "Rong Khum"
     ],
     "name:fra_x_preferred":[
         "Rong Kham"
@@ -59,6 +61,12 @@
     ],
     "name:tha_x_preferred":[
         "\u0e23\u0e48\u0e2d\u0e07\u0e04\u0e33"
+    ],
+    "name:tha_x_variant":[
+        "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e23\u0e48\u0e2d\u0e07\u0e04\u0e33"
+    ],
+    "name:urd_x_preferred":[
+        "\u0631\u0648\u0646\u06af \u06a9\u06be\u0627\u0645 \u0636\u0644\u0639"
     ],
     "name:vie_x_preferred":[
         "Rong Kham"
@@ -99,7 +107,7 @@
         }
     ],
     "wof:id":1108731815,
-    "wof:lastmodified":1561758750,
+    "wof:lastmodified":1563296507,
     "wof:name":"Rong Khum",
     "wof:parent_id":85678831,
     "wof:placetype":"county",

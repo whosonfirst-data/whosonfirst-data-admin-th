@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001251,
-    "geom:area_square_m":15029766.44607,
+    "geom:area_square_m":15029766.446061,
     "geom:bbox":"100.188926833,13.7063316592,100.34116288,13.7553924128",
     "geom:latitude":13.735397,
     "geom:longitude":100.233793,
@@ -21,14 +21,38 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09b8\u09be\u09ae \u09ab\u09b0\u09be\u09a8"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Sam Phran"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Sam Phran"
+    ],
+    "name:eng_x_preferred":[
+        "Sam Phran"
+    ],
+    "name:fra_x_preferred":[
+        "Sam Phran"
+    ],
+    "name:ita_x_preferred":[
+        "Sam Phran"
+    ],
+    "name:nan_x_preferred":[
+        "Sam Phran K\u016bn"
+    ],
+    "name:nob_x_preferred":[
+        "Sam Phran"
     ],
     "name:nor_x_preferred":[
         "Sam Phran"
     ],
     "name:ron_x_preferred":[
         "Districtul Sam Phran"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043c\u0444\u0440\u0430\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Sam Phran"
     ],
     "name:tha_x_preferred":[
         "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e2a\u0e32\u0e21\u0e1e\u0e23\u0e32\u0e19"
@@ -38,6 +62,9 @@
     ],
     "name:unk_x_variant":[
         "Ban Sam Phran"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u0645 \u067e\u06be\u0631\u0627\u0646 \u0636\u0644\u0639"
     ],
     "name:vie_x_preferred":[
         "Sam Phran"
@@ -100,7 +127,7 @@
         }
     ],
     "wof:id":102024863,
-    "wof:lastmodified":1527636449,
+    "wof:lastmodified":1563290306,
     "wof:name":"Sam Phran",
     "wof:parent_id":85678747,
     "wof:placetype":"locality",

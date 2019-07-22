@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003718,
-    "geom:area_square_m":45290023.449535,
+    "geom:area_square_m":45290023.449525,
     "geom:bbox":"98.8293802646,9.84617138919,98.9684710372,9.92919948299",
     "geom:latitude":9.887479,
     "geom:longitude":98.900409,
@@ -18,6 +18,9 @@
     "mz:is_current":-1,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ab\u09af\u09bc\u09be\u09a4\u09cb"
+    ],
+    "name:ceb_x_preferred":[
+        "Amphoe Phato"
     ],
     "name:deu_x_preferred":[
         "Amphoe Phato"
@@ -32,6 +35,12 @@
     "name:fra_x_preferred":[
         "Amphoe Phato"
     ],
+    "name:fra_x_variant":[
+        "Phato"
+    ],
+    "name:nan_x_preferred":[
+        "Phato K\u016bn"
+    ],
     "name:ron_x_preferred":[
         "Districtul Phato"
     ],
@@ -43,6 +52,9 @@
     ],
     "name:unk_x_variant":[
         "King Amphoe Phato"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u06be\u0627\u062a\u0648 \u0636\u0644\u0639"
     ],
     "name:vie_x_preferred":[
         "Phato"
@@ -99,7 +111,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636422,
+    "wof:lastmodified":1563290180,
     "wof:name":"Phato",
     "wof:parent_id":890466695,
     "wof:placetype":"locality",

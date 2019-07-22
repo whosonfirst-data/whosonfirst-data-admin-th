@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002123,
-    "geom:area_square_m":25401105.084285,
+    "geom:area_square_m":25401105.084298,
     "geom:bbox":"100.216242061,14.5479614847,100.27600685,14.6298328544",
     "geom:latitude":14.594742,
     "geom:longitude":100.250216,
@@ -19,8 +19,20 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09b8\u09be\u09ae\u0995\u09cb"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Sam Ko"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Samko"
+    ],
+    "name:eng_x_preferred":[
+        "Samko"
+    ],
+    "name:fra_x_preferred":[
+        "Samko"
+    ],
+    "name:nan_x_preferred":[
+        "Samko K\u016bn"
     ],
     "name:ron_x_preferred":[
         "Districtul Samko"
@@ -36,6 +48,9 @@
     ],
     "name:unk_x_variant":[
         "Ban Sam Ko"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u0645\u06a9\u0648 \u0636\u0644\u0639"
     ],
     "name:vie_x_preferred":[
         "Samko"
@@ -83,7 +98,7 @@
         }
     ],
     "wof:id":102024867,
-    "wof:lastmodified":1527636438,
+    "wof:lastmodified":1563290224,
     "wof:name":"Sam Ko",
     "wof:parent_id":85678691,
     "wof:placetype":"locality",

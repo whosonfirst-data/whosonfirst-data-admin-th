@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001759,
+    "geom:area_square_m":20647855.848539,
     "geom:bbox":"98.7850924148,18.285519168,98.8369784884,18.337493239",
     "geom:latitude":18.31169,
     "geom:longitude":98.811141,
@@ -15,8 +16,20 @@
     "mps:longitude":98.811634,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Ban Hong"
+    ],
+    "name:eng_x_preferred":[
+        "Ban Hong"
+    ],
+    "name:fra_x_preferred":[
+        "Ban Hong"
+    ],
     "name:tha_x_preferred":[
         "\u0e1a\u0e49\u0e32\u0e19\u0e42\u0e2e\u0e48\u0e07"
+    ],
+    "name:tha_x_variant":[
+        "\u0e15\u0e33\u0e1a\u0e25\u0e1a\u0e49\u0e32\u0e19\u0e42\u0e2e\u0e48\u0e07"
     ],
     "name:unk_x_variant":[
         "Amphoe Ban Hong"
@@ -61,7 +74,7 @@
         }
     ],
     "wof:id":102024483,
-    "wof:lastmodified":1527636431,
+    "wof:lastmodified":1563290202,
     "wof:name":"Ban Hong",
     "wof:parent_id":85678629,
     "wof:placetype":"locality",

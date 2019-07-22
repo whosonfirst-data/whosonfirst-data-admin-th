@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001078,
-    "geom:area_square_m":13180364.807018,
+    "geom:area_square_m":13180364.807033,
     "geom:bbox":"99.7962110657,8.51222379068,99.8693148427,8.59549717336",
     "geom:latitude":8.561423,
     "geom:longitude":99.822414,
@@ -19,6 +19,9 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ab\u09b0\u09cb\u09ae \u0996\u09bf\u09b0\u09bf"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Phrom Khiri"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Phrom Khiri"
     ],
@@ -26,7 +29,14 @@
         "Phrommakhiri"
     ],
     "name:eng_x_variant":[
-        "Phromkhiri"
+        "Phromkhiri",
+        "Phrom Khiri"
+    ],
+    "name:fra_x_preferred":[
+        "Phrom Khiri"
+    ],
+    "name:nan_x_preferred":[
+        "Phrom Khiri K\u016bn"
     ],
     "name:por_x_preferred":[
         "Phrom Khiri"
@@ -42,6 +52,9 @@
     ],
     "name:unk_x_variant":[
         "\u0e1e\u0e23\u0e2b\u0e21\u0e04\u0e35\u0e23\u0e35"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u06be\u0631\u0648\u0645 \u06a9\u06be\u06cc\u0631\u06cc \u0636\u0644\u0639"
     ],
     "name:vie_x_preferred":[
         "Phrom Khiri"
@@ -96,7 +109,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636450,
+    "wof:lastmodified":1563290318,
     "wof:name":"Phrom Khiri",
     "wof:parent_id":890466713,
     "wof:placetype":"locality",

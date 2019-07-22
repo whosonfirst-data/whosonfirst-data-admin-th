@@ -39,6 +39,9 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ae\u09c1\u09af\u09bc\u09c7\u0982 \u099a\u09bf\u09af\u09bc\u09be\u0982 \u09b0\u09be\u0987"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Mueang Chiang Rai"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Mueang Chiang Rai"
     ],
@@ -52,6 +55,9 @@
     "name:fra_x_preferred":[
         "Mueang Chiang Rai"
     ],
+    "name:ind_x_preferred":[
+        "Mueang Chiang Rai"
+    ],
     "name:jpn_x_preferred":[
         "\u30e0\u30a2\u30f3\u30c1\u30a8\u30f3\u30e9\u30fc\u30a4\u90e1"
     ],
@@ -63,6 +69,12 @@
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e40\u0e0a\u0e35\u0e22\u0e07\u0e23\u0e32\u0e22"
+    ],
+    "name:tha_x_variant":[
+        "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e40\u0e0a\u0e35\u0e22\u0e07\u0e23\u0e32\u0e22"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0648\u0626\u0627\u0646\u06af \u0686\u06cc\u0627\u0646\u06af \u0631\u0627\u0626\u06cc \u0636\u0644\u0639"
     ],
     "name:vie_x_preferred":[
         "Mueang Chiang Rai"
@@ -123,7 +135,7 @@
         }
     ],
     "wof:id":890466017,
-    "wof:lastmodified":1561758896,
+    "wof:lastmodified":1563298431,
     "wof:name":"Muang Chiang Rai",
     "wof:parent_id":85678617,
     "wof:placetype":"county",

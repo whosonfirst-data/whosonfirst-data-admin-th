@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000505,
+    "geom:area_square_m":6010843.877123,
     "geom:bbox":"102.729319071,15.7462157527,102.758961832,15.7748561834",
     "geom:latitude":15.760536,
     "geom:longitude":102.744141,
@@ -20,8 +21,20 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09a8\u09cb\u0982 \u09b8\u09cb\u0982 \u09b9\u09cb\u0982"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Nong Song Hong"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Nong Song Hong"
+    ],
+    "name:eng_x_preferred":[
+        "Nong Song Hong"
+    ],
+    "name:fra_x_preferred":[
+        "Nong Song Hong"
+    ],
+    "name:nan_x_preferred":[
+        "Nong Song Hong K\u016bn"
     ],
     "name:ron_x_preferred":[
         "Districtul Nong Song Hong"
@@ -31,6 +44,9 @@
     ],
     "name:tha_x_variant":[
         "\u0e2b\u0e19\u0e2d\u0e07\u0e2a\u0e2d\u0e07\u0e2b\u0e49\u0e2d\u0e07"
+    ],
+    "name:urd_x_preferred":[
+        "\u0646\u0648\u0646\u06af \u0633\u0648\u0646\u06af \u06c1\u0648\u0646\u06af \u0636\u0644\u0639"
     ],
     "name:vie_x_preferred":[
         "Nong Song Hong"
@@ -72,7 +88,7 @@
         }
     ],
     "wof:id":102026247,
-    "wof:lastmodified":1527637812,
+    "wof:lastmodified":1563290474,
     "wof:name":"Nong Song Hong",
     "wof:parent_id":85678827,
     "wof:placetype":"locality",

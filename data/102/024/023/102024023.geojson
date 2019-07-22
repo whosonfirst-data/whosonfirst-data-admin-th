@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001945,
-    "geom:area_square_m":23501649.063002,
+    "geom:area_square_m":23501649.062981,
     "geom:bbox":"99.8400502069,12.1860307721,99.9902724366,12.2792731153",
     "geom:latitude":12.232443,
     "geom:longitude":99.909345,
@@ -20,14 +20,23 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09b8\u09be\u09ae \u09b0\u09cb\u0987 \u09af\u09bc\u09cb\u09a4"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Sam Roi Yot"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Sam Roi Yot"
     ],
     "name:eng_x_preferred":[
         "Sam Roi Yot"
     ],
+    "name:fra_x_preferred":[
+        "Sam Roi Yot"
+    ],
     "name:jpn_x_preferred":[
         "\u30b5\u30fc\u30e0\u30ed\u30fc\u30a4\u30e8\u30fc\u30c8\u90e1"
+    ],
+    "name:nan_x_preferred":[
+        "Sam Roi Yot K\u016bn"
     ],
     "name:ron_x_preferred":[
         "Districtul Sam Roi Yot"
@@ -46,6 +55,9 @@
     ],
     "name:zho_min_nan_x_preferred":[
         "Sam Roi Yot K\u016bn"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e09\u767e\u5dba\u7e23"
     ],
     "qs:a0":"Thailand",
     "qs:a1":"*Prachuap Khiri Khan",
@@ -94,7 +106,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636429,
+    "wof:lastmodified":1563290194,
     "wof:name":"Sam Roi Yot",
     "wof:parent_id":890466945,
     "wof:placetype":"locality",

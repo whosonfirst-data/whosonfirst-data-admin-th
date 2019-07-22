@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001745,
-    "geom:area_square_m":20558632.484188,
+    "geom:area_square_m":20558632.484204,
     "geom:bbox":"101.410869853,17.5983441175,101.451680381,17.6687562258",
     "geom:latitude":17.633482,
     "geom:longitude":101.432756,
@@ -18,6 +18,9 @@
     "mz:is_current":-1,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09a5\u09be \u09b2\u09bf"
+    ],
+    "name:ceb_x_preferred":[
+        "Amphoe Tha Li"
     ],
     "name:deu_x_preferred":[
         "Amphoe Tha Li"
@@ -34,6 +37,12 @@
         "Ban Tha Li",
         "Dh\u00e5li"
     ],
+    "name:fra_x_preferred":[
+        "Tha Li"
+    ],
+    "name:nan_x_preferred":[
+        "Tha Li K\u016bn"
+    ],
     "name:ron_x_preferred":[
         "Districtul Tha Li"
     ],
@@ -45,6 +54,9 @@
     ],
     "name:unk_x_variant":[
         "Amphoe Tha Li"
+    ],
+    "name:urd_x_preferred":[
+        "\u062a\u06be\u0627 \u0644\u06cc \u0636\u0644\u0639"
     ],
     "name:vie_x_preferred":[
         "Tha Li"
@@ -98,7 +110,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636441,
+    "wof:lastmodified":1563290240,
     "wof:name":"Tha Li",
     "wof:parent_id":890465943,
     "wof:placetype":"locality",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00045,
+    "geom:area_square_m":5340106.58231,
     "geom:bbox":"104.465123867,16.3585403184,104.494837102,16.3766197858",
     "geom:latitude":16.36758,
     "geom:longitude":104.47998,
@@ -20,11 +21,20 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09a8\u09bf\u0996\u09cb\u09ae \u0996\u09be\u09ae \u09b8\u09c8"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Nikhom Kham Soi"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Nikhom Kham Soi"
     ],
     "name:eng_x_preferred":[
         "Nikhom Kham Soi"
+    ],
+    "name:fra_x_preferred":[
+        "Nikhom Kham Soi"
+    ],
+    "name:nan_x_preferred":[
+        "Nikhom Kham Soi K\u016bn"
     ],
     "name:ron_x_preferred":[
         "Districtul Nikhom Kham Soi"
@@ -37,6 +47,9 @@
     ],
     "name:unk_x_variant":[
         "\u0e19\u0e34\u0e04\u0e21\u0e04\u0e33\u0e2a\u0e23\u0e49\u0e2d\u0e22"
+    ],
+    "name:urd_x_preferred":[
+        "\u0646\u06cc\u06a9\u06c1\u0648\u0645 \u06a9\u06be\u0627\u0645 \u0633\u0648\u06cc\u0636\u0644\u0639"
     ],
     "name:vie_x_preferred":[
         "Nikhom Kham Soi"
@@ -91,7 +104,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636689,
+    "wof:lastmodified":1563290458,
     "wof:name":"Nikhom Kham Soi",
     "wof:parent_id":85678881,
     "wof:placetype":"locality",

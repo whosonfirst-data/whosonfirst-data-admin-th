@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00167,
-    "geom:area_square_m":20002558.03425,
+    "geom:area_square_m":20002558.034245,
     "geom:bbox":"102.443733771,14.4096872976,102.517203753,14.4596715996",
     "geom:latitude":14.435053,
     "geom:longitude":102.486661,
@@ -20,11 +20,23 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09b8\u09cb\u09af\u09bc\u09c7\u0982 \u09b8\u09be\u0982"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Soeng Sang"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Soeng Sang"
     ],
     "name:eng_x_preferred":[
         "Ban Soeng Sang"
+    ],
+    "name:eng_x_variant":[
+        "Soeng Sang"
+    ],
+    "name:fra_x_preferred":[
+        "Soeng Sang"
+    ],
+    "name:nan_x_preferred":[
+        "Soeng Sang K\u016bn"
     ],
     "name:ron_x_preferred":[
         "Districtul Soeng Sang"
@@ -37,6 +49,9 @@
     ],
     "name:unk_x_variant":[
         "Ban Soeng Sang"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0648\u0626\u0646\u06af \u0633\u0627\u0646\u06af \u0636\u0644\u0639"
     ],
     "name:vie_x_preferred":[
         "Soeng Sang"
@@ -92,7 +107,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636442,
+    "wof:lastmodified":1563290247,
     "wof:name":"Soeng Sang",
     "wof:parent_id":85678841,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000264,
-    "geom:area_square_m":3126914.178959,
+    "geom:area_square_m":3126914.178961,
     "geom:bbox":"101.971226503,16.632427395,101.989955051,16.6504825254",
     "geom:latitude":16.641455,
     "geom:longitude":101.980591,
@@ -18,11 +18,44 @@
     "mps:longitude":101.980591,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bpy_x_preferred":[
+        "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u099a\u09b9\u09c1\u09ae \u09ab\u09be\u09af\u09bc\u09c7"
+    ],
+    "name:ceb_x_preferred":[
+        "Amphoe Chum Phae"
+    ],
+    "name:dan_x_preferred":[
+        "Chum Phae"
+    ],
+    "name:deu_x_preferred":[
+        "Amphoe Chum Phae"
+    ],
+    "name:eng_x_preferred":[
+        "Chum Phae"
+    ],
+    "name:fra_x_preferred":[
+        "Chum Phae"
+    ],
+    "name:nan_x_preferred":[
+        "Chum Phae K\u016bn"
+    ],
+    "name:nob_x_preferred":[
+        "Chum Phae"
+    ],
+    "name:ron_x_preferred":[
+        "Districtul Chum Phae"
+    ],
     "name:tha_x_preferred":[
         "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e0a\u0e38\u0e21\u0e41\u0e1e"
     ],
     "name:tha_x_variant":[
         "\u0e0a\u0e38\u0e21\u0e41\u0e1e"
+    ],
+    "name:urd_x_preferred":[
+        "\u0686\u0648\u0645 \u067e\u06be\u0627\u06d2 \u0636\u0644\u0639"
+    ],
+    "name:vie_x_preferred":[
+        "Chum Phae"
     ],
     "qs:a1":"*",
     "qs:a1r":"*",
@@ -61,7 +94,7 @@
         }
     ],
     "wof:id":102025437,
-    "wof:lastmodified":1501221060,
+    "wof:lastmodified":1563290365,
     "wof:name":"Amphoe Chum Phae",
     "wof:parent_id":890467315,
     "wof:placetype":"locality",

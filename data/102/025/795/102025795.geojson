@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000504,
-    "geom:area_square_m":6170959.156862,
+    "geom:area_square_m":6170959.156855,
     "geom:bbox":"98.2869810956,7.80967029719,98.3221435547,7.84046006924",
     "geom:latitude":7.825023,
     "geom:longitude":98.305621,
@@ -17,14 +17,24 @@
     "mps:latitude":7.82646,
     "mps:longitude":98.307353,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Kata"
     ],
     "name:eng_x_variant":[
         "Kata Beach"
     ],
+    "name:fin_x_preferred":[
+        "Kata Noi"
+    ],
+    "name:swe_x_preferred":[
+        "Kata Beach"
+    ],
     "name:tha_x_preferred":[
         "\u0e01\u0e30\u0e15\u0e30"
+    ],
+    "name:tha_x_variant":[
+        "\u0e2b\u0e32\u0e14\u0e01\u0e30\u0e15\u0e30\u0e19\u0e49\u0e2d\u0e22"
     ],
     "qs:a1":"*",
     "qs:a1r":"*",
@@ -59,7 +69,7 @@
         }
     ],
     "wof:id":102025795,
-    "wof:lastmodified":1501273042,
+    "wof:lastmodified":1563290411,
     "wof:name":"Kata",
     "wof:parent_id":890467203,
     "wof:placetype":"locality",

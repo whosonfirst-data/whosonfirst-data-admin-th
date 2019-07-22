@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003143,
-    "geom:area_square_m":37636802.002331,
+    "geom:area_square_m":37636802.002335,
     "geom:bbox":"100.677677282,14.4096826523,100.781368654,14.5022271701",
     "geom:latitude":14.453812,
     "geom:longitude":100.731822,
@@ -20,6 +20,9 @@
     "mz:is_current":-1,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ab\u09be\u099a\u09bf"
+    ],
+    "name:ceb_x_preferred":[
+        "Amphoe Phachi"
     ],
     "name:deu_x_preferred":[
         "Amphoe Phachi"
@@ -40,8 +43,14 @@
         "Bh\u00e5ji",
         "Bon Phaji"
     ],
+    "name:fra_x_preferred":[
+        "Phachi"
+    ],
     "name:jpn_x_preferred":[
         "\u30d1\u30fc\u30c1\u30fc\u90e1"
+    ],
+    "name:nan_x_preferred":[
+        "Phachi K\u016bn"
     ],
     "name:ron_x_preferred":[
         "Districtul Phachi"
@@ -54,6 +63,9 @@
     ],
     "name:unk_x_variant":[
         "Banpaji"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u06be\u0627\u0686\u06cc \u0636\u0644\u0639"
     ],
     "name:vie_x_preferred":[
         "Phachi"
@@ -107,7 +119,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636683,
+    "wof:lastmodified":1563290372,
     "wof:name":"Phachi",
     "wof:parent_id":1108731693,
     "wof:placetype":"locality",

@@ -46,6 +46,9 @@
     "name:bul_x_preferred":[
         "\u0422\u0440\u0430\u0442"
     ],
+    "name:ceb_x_preferred":[
+        "Changwat Trat"
+    ],
     "name:dan_x_preferred":[
         "Trat"
     ],
@@ -97,6 +100,9 @@
     "name:kor_x_preferred":[
         "\ub728\ub78f \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\ub728\ub78f\uc8fc"
+    ],
     "name:lao_x_preferred":[
         "\u0e88\u0eb1\u0e87\u0eab\u0ea7\u0eb1\u0e94\u0e95\u0ea3\u0eb2\u0e94"
     ],
@@ -126,6 +132,9 @@
     ],
     "name:nld_x_preferred":[
         "Changwat Trat"
+    ],
+    "name:nno_x_preferred":[
+        "Trat-fylket"
     ],
     "name:nob_x_preferred":[
         "Trat"
@@ -187,8 +196,14 @@
     "name:war_x_preferred":[
         "Trat"
     ],
+    "name:yue_x_preferred":[
+        "\u6850\u827e"
+    ],
     "name:zho_x_preferred":[
         "\u6850\u827e\u5e9c"
+    ],
+    "name:zho_x_variant":[
+        "\u9054\u53fb\u5e9c"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"THA",
@@ -312,7 +327,7 @@
     "wof:lang_x_spoken":[
         "tha"
     ],
-    "wof:lastmodified":1561758455,
+    "wof:lastmodified":1563291818,
     "wof:name":"Trat",
     "wof:parent_id":85632293,
     "wof:placetype":"region",

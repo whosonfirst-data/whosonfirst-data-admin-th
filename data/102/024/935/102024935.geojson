@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000262,
+    "geom:area_square_m":3134512.972951,
     "geom:bbox":"103.981794905,14.8455008822,104.000382857,14.8635807492",
     "geom:latitude":14.854541,
     "geom:longitude":103.991089,
@@ -18,6 +19,9 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09aa\u09cd\u09b0\u09be\u0982 \u0995\u09c1"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Prang Ku"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Prang Ku"
     ],
@@ -27,6 +31,12 @@
     "name:eng_x_variant":[
         "Ban Tom",
         "Ban Tum"
+    ],
+    "name:fra_x_preferred":[
+        "Prang Ku"
+    ],
+    "name:nan_x_preferred":[
+        "Prang Ku K\u016bn"
     ],
     "name:ron_x_preferred":[
         "Districtul Prang Ku"
@@ -93,7 +103,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636443,
+    "wof:lastmodified":1563290256,
     "wof:name":"Prang Ku",
     "wof:parent_id":85678779,
     "wof:placetype":"locality",

@@ -49,6 +49,9 @@
     "name:bul_x_preferred":[
         "\u0427\u0438\u0430\u043d\u0433 \u041c\u0430\u0439"
     ],
+    "name:ceb_x_preferred":[
+        "Chiang Mai Province"
+    ],
     "name:dan_x_preferred":[
         "Chiang Mai"
     ],
@@ -98,6 +101,9 @@
     "name:jpn_x_preferred":[
         "\u30c1\u30a2\u30f3\u30de\u30a4"
     ],
+    "name:jpn_x_variant":[
+        "\u30c1\u30a8\u30f3\u30de\u30a4\u770c"
+    ],
     "name:kan_x_preferred":[
         "\u0c9a\u0cbf\u0caf\u0cbe\u0c82\u0c97\u0ccd \u0cae\u0cbe\u0caf\u0ccd"
     ],
@@ -106,6 +112,9 @@
     ],
     "name:kor_x_preferred":[
         "\uce58\uc559\ub9c8\uc774"
+    ],
+    "name:kor_x_variant":[
+        "\uce58\uc559\ub9c8\uc774\uc8fc"
     ],
     "name:lao_x_preferred":[
         "\u0e88\u0eb1\u0e87\u0eab\u0ea7\u0eb1\u0e94\u0e8a\u0ebd\u0e87\u0ec3\u0edd\u0ec8"
@@ -118,6 +127,9 @@
     ],
     "name:lrc_x_preferred":[
         "\u0686\u06cc\u0627\u0646\u06af \u0645\u0627\u06cc"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d1a\u0d3f\u0d2f\u0d3e\u0d19\u0d4d \u0d2e\u0d3e\u0d2f\u0d3f \u0d2a\u0d4d\u0d30\u0d35\u0d3f\u0d36\u0d4d\u0d2f"
     ],
     "name:mar_x_preferred":[
         "\u091a\u0902\u0917 \u092e\u093e\u0907"
@@ -133,6 +145,9 @@
     ],
     "name:nld_x_preferred":[
         "Changwat Chiang Mai"
+    ],
+    "name:nno_x_preferred":[
+        "Chiang Mai-fylket"
     ],
     "name:nob_x_preferred":[
         "Chiang Mai"
@@ -180,7 +195,6 @@
         "\u0e40\u0e0a\u0e35\u0e22\u0e07\u0e43\u0e2b\u0e21\u0e48"
     ],
     "name:tha_x_variant":[
-        "\u0e40\u0e0a\u0e35\u0e22\u0e07\u0e43\u0e2b\u0e21\u0e48",
         "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e40\u0e0a\u0e35\u0e22\u0e07\u0e43\u0e2b\u0e21\u0e48"
     ],
     "name:tur_x_preferred":[
@@ -203,6 +217,9 @@
     ],
     "name:wuu_x_preferred":[
         "\u6e05\u8fc8\u5e9c"
+    ],
+    "name:yue_x_preferred":[
+        "\u6e05\u9081\u5e9c"
     ],
     "name:zho_x_preferred":[
         "\u6e05\u8fc8"
@@ -332,7 +349,7 @@
     "wof:lang_x_spoken":[
         "tha"
     ],
-    "wof:lastmodified":1561758456,
+    "wof:lastmodified":1563291829,
     "wof:name":"Chiang Mai",
     "wof:parent_id":85632293,
     "wof:placetype":"region",

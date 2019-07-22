@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001322,
-    "geom:area_square_m":15665631.435156,
+    "geom:area_square_m":15665631.435171,
     "geom:bbox":"99.3674719231,16.2636472153,100.572730552,16.8608990417",
     "geom:latitude":16.662565,
     "geom:longitude":100.273635,
@@ -16,8 +16,20 @@
     "mps:longitude":100.475464,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Wang Thong"
+    ],
+    "name:eng_x_preferred":[
+        "Wang Thong"
+    ],
+    "name:fra_x_preferred":[
+        "Wang Thong"
+    ],
     "name:tha_x_preferred":[
         "\u0e27\u0e31\u0e07\u0e17\u0e2d\u0e07"
+    ],
+    "name:tha_x_variant":[
+        "\u0e15\u0e33\u0e1a\u0e25\u0e27\u0e31\u0e07\u0e17\u0e2d\u0e07"
     ],
     "name:unk_x_variant":[
         "Amphoe Wang Thong"
@@ -64,7 +76,7 @@
         }
     ],
     "wof:id":102024643,
-    "wof:lastmodified":1527636429,
+    "wof:lastmodified":1563290196,
     "wof:name":"Wang Thong",
     "wof:parent_id":890465723,
     "wof:placetype":"locality",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000527,
+    "geom:area_square_m":6269948.689772,
     "geom:bbox":"105.179255169,15.883618823,105.307803342,15.9439607415",
     "geom:latitude":15.913792,
     "geom:longitude":105.243524,
@@ -18,6 +19,9 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09a8\u09be \u09a4\u09be\u09a8"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Na Tan"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Na Tan"
     ],
@@ -26,6 +30,15 @@
     ],
     "name:eng_x_variant":[
         "Na Tan"
+    ],
+    "name:fra_x_preferred":[
+        "Na Tan"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ca\u30fc\u30bf\u30fc\u30f3\u90e1"
+    ],
+    "name:nan_x_preferred":[
+        "Na Tan K\u016bn"
     ],
     "name:ron_x_preferred":[
         "Districtul Na Tan"
@@ -89,7 +102,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636425,
+    "wof:lastmodified":1563290185,
     "wof:name":"Na Tan",
     "wof:parent_id":85678783,
     "wof:placetype":"locality",

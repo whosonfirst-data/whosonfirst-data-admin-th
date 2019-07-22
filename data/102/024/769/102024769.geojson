@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002144,
-    "geom:area_square_m":25698974.952382,
+    "geom:area_square_m":25698974.952379,
     "geom:bbox":"99.894910189,14.1328615756,99.9683721851,14.2255043367",
     "geom:latitude":14.179945,
     "geom:longitude":99.930245,
@@ -19,8 +19,20 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09b8\u09cb\u0982 \u09ab\u09bf \u09a8\u09cb\u0982"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Song Phi Nong"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Song Phi Nong"
+    ],
+    "name:eng_x_preferred":[
+        "Song Phi Nong"
+    ],
+    "name:fra_x_preferred":[
+        "Song Phi Nong"
+    ],
+    "name:nan_x_preferred":[
+        "Song Phi Nong K\u016bn"
     ],
     "name:ron_x_preferred":[
         "Districtul Song Phi Nong"
@@ -85,7 +97,7 @@
         }
     ],
     "wof:id":102024769,
-    "wof:lastmodified":1527636443,
+    "wof:lastmodified":1563290258,
     "wof:name":"Song Phi Nong",
     "wof:parent_id":890465739,
     "wof:placetype":"locality",

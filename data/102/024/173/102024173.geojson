@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000513,
+    "geom:area_square_m":6274491.081021,
     "geom:bbox":"98.7964574422,8.43615989603,98.8805468455,8.55204285027",
     "geom:latitude":8.494108,
     "geom:longitude":98.838505,
@@ -18,6 +19,9 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09b0\u09b2\u09be\u0987 \u09ab\u09b0\u09be\u09af\u09bc\u09be"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Plai Phraya"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Plai Phraya"
     ],
@@ -27,8 +31,14 @@
     "name:eng_x_variant":[
         "Phai Phraya"
     ],
+    "name:fra_x_preferred":[
+        "Plai Phraya"
+    ],
     "name:jpn_x_preferred":[
         "\u30d7\u30e9\u30fc\u30a4\u30d7\u30e9\u30e4\u30fc\u90e1"
+    ],
+    "name:nan_x_preferred":[
+        "Plai Phraya K\u016bn"
     ],
     "name:por_x_preferred":[
         "Plai Phraya"
@@ -44,6 +54,9 @@
     ],
     "name:unk_x_variant":[
         "\u0e1b\u0e25\u0e32\u0e22\u0e1e\u0e23\u0e30\u0e22\u0e32"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u0644\u0627\u06cc \u067e\u06be\u0631\u0627\u06cc\u0627 \u0636\u0644\u0639"
     ],
     "name:vie_x_preferred":[
         "Plai Phraya"
@@ -98,7 +111,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636440,
+    "wof:lastmodified":1563290231,
     "wof:name":"Plai Phraya",
     "wof:parent_id":85678585,
     "wof:placetype":"locality",

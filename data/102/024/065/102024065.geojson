@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000442,
-    "geom:area_square_m":5403370.51383,
+    "geom:area_square_m":5403370.513837,
     "geom:bbox":"99.4116970197,8.21875527918,99.4408420187,8.23684569447",
     "geom:latitude":8.227801,
     "geom:longitude":99.42627,
@@ -19,11 +19,23 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09a5\u09c1\u0982 \u09af\u09bc\u09be\u0987"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Thung Yai"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Thung Yai"
     ],
     "name:eng_x_preferred":[
         "Thung Sang"
+    ],
+    "name:eng_x_variant":[
+        "Thung Yai"
+    ],
+    "name:fra_x_preferred":[
+        "Thung Yai"
+    ],
+    "name:nan_x_preferred":[
+        "Thung Yai K\u016bn"
     ],
     "name:por_x_preferred":[
         "Thung Yai"
@@ -39,6 +51,9 @@
     ],
     "name:unk_x_variant":[
         "Ban Tha"
+    ],
+    "name:urd_x_preferred":[
+        "\u062a\u06be\u0648\u0646\u06af \u06cc\u0627\u0626\u06cc \u0636\u0644\u0639"
     ],
     "name:vie_x_preferred":[
         "Thung Yai"
@@ -95,7 +110,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636433,
+    "wof:lastmodified":1563290210,
     "wof:name":"Thung Yai",
     "wof:parent_id":890466189,
     "wof:placetype":"locality",

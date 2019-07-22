@@ -50,6 +50,9 @@
     "name:bul_x_preferred":[
         "\u0427\u0430\u043d\u0442\u0430\u0431\u0443\u0440\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Changwat Chanthaburi"
+    ],
     "name:dan_x_preferred":[
         "Chanthaburi"
     ],
@@ -101,8 +104,14 @@
     "name:kat_x_preferred":[
         "\u10e9\u10d0\u10dc\u10d7\u10d0\u10d1\u10e3\u10e0\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
     ],
+    "name:khm_x_preferred":[
+        "\u1781\u17c1\u178f\u17d2\u178f\u1785\u17d0\u1793\u17d2\u1791\u1794\u17bb\u179a\u17b8"
+    ],
     "name:kor_x_preferred":[
         "\uc9e0\ud0c0\ubd80\ub9ac \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc9e0\ud0c0\ubd80\ub9ac\uc8fc"
     ],
     "name:lao_x_preferred":[
         "\u0e88\u0eb1\u0e87\u0eab\u0ea7\u0eb1\u0e94\u0e88\u0eb1\u0e99\u0e97\u0eb0\u0e9a\u0eb8\u0ea5\u0eb5"
@@ -133,6 +142,9 @@
     ],
     "name:nld_x_preferred":[
         "Changwat Chantaburi"
+    ],
+    "name:nno_x_preferred":[
+        "Chanthaburi-fylket"
     ],
     "name:nob_x_preferred":[
         "Chanthaburi"
@@ -194,8 +206,14 @@
     "name:war_x_preferred":[
         "Chanthaburi"
     ],
+    "name:yue_x_preferred":[
+        "\u5c16\u7af9\u6c76\u5e9c"
+    ],
     "name:zho_x_preferred":[
         "\u5c16\u7af9\u6c76\u5e9c"
+    ],
+    "name:zho_x_variant":[
+        "\u5e84\u4ed6\u6b66\u91cc\u5e9c"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"THA",
@@ -320,7 +338,7 @@
     "wof:lang_x_spoken":[
         "tha"
     ],
-    "wof:lastmodified":1561758458,
+    "wof:lastmodified":1563291857,
     "wof:name":"Chanthaburi",
     "wof:parent_id":85632293,
     "wof:placetype":"region",

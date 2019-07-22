@@ -46,6 +46,9 @@
     "name:bul_x_preferred":[
         "\u0421\u0443\u0444\u0430\u043d\u0430\u0431\u0443\u0440\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Changwat Suphan Buri"
+    ],
     "name:dan_x_preferred":[
         "Suphanburi"
     ],
@@ -94,6 +97,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc218\ud310\ubd80\ub9ac \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc218\ud310\ubd80\ub9ac\uc8fc"
     ],
     "name:lao_x_preferred":[
         "\u0e88\u0eb1\u0e87\u0eab\u0ea7\u0eb1\u0e94\u0eaa\u0eb8\u0e9e\u0eb1\u0e99\u0e9a\u0eb8\u0ea5\u0eb5"
@@ -185,8 +191,14 @@
     "name:war_x_preferred":[
         "Suphan Buri"
     ],
+    "name:yue_x_preferred":[
+        "\u7d20\u6500\u6b66\u91cc\u5e9c"
+    ],
     "name:zho_x_preferred":[
         "\u7d20\u6500\u6b66\u91cc\u5e9c"
+    ],
+    "name:zho_x_variant":[
+        "\u7d20\u6500\u5e9c"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"THA",
@@ -310,7 +322,7 @@
     "wof:lang_x_spoken":[
         "tha"
     ],
-    "wof:lastmodified":1561758457,
+    "wof:lastmodified":1563291837,
     "wof:name":"Suphan Buri",
     "wof:parent_id":85632293,
     "wof:placetype":"region",

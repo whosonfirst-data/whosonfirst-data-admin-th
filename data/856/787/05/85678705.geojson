@@ -46,6 +46,9 @@
     "name:bul_x_preferred":[
         "\u041d\u0430\u043a\u043e\u043d \u041d\u0430\u0439\u043e\u043a"
     ],
+    "name:ceb_x_preferred":[
+        "Changwat Nakhon Nayok"
+    ],
     "name:dan_x_preferred":[
         "Nakhon Nayok"
     ],
@@ -93,6 +96,9 @@
     ],
     "name:kor_x_preferred":[
         "\ub098\ucf58\ub098\uc695 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ub098\ucf58\ub098\uc695\uc8fc"
     ],
     "name:lao_x_preferred":[
         "\u0e88\u0eb1\u0e87\u0eab\u0ea7\u0eb1\u0e94\u0e99\u0eb0\u0e84\u0ead\u0e99\u0e99\u0eb2\u0e8d\u0ebb\u0e81"
@@ -187,8 +193,14 @@
     "name:war_x_preferred":[
         "Nakhon Nayok"
     ],
+    "name:yue_x_preferred":[
+        "\u5764\u897f\u80b2\u5e9c"
+    ],
     "name:zho_x_preferred":[
         "\u5764\u897f\u80b2\u5e9c"
+    ],
+    "name:zho_x_variant":[
+        "\u90a3\u7a7a\u90a3\u80b2\u5e9c"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"THA",
@@ -312,7 +324,7 @@
     "wof:lang_x_spoken":[
         "tha"
     ],
-    "wof:lastmodified":1561758457,
+    "wof:lastmodified":1563291844,
     "wof:name":"Nakhon Nayok",
     "wof:parent_id":85632293,
     "wof:placetype":"region",

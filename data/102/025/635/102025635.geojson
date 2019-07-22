@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000624,
-    "geom:area_square_m":7523763.70626,
+    "geom:area_square_m":7523763.70627,
     "geom:bbox":"101.32319411,12.6902564038,101.352587003,12.719044444",
     "geom:latitude":12.70626,
     "geom:longitude":101.339531,
@@ -18,8 +18,20 @@
     "mps:longitude":101.34128,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Ban Laeng"
+    ],
+    "name:eng_x_preferred":[
+        "Ban Laeng"
+    ],
+    "name:fra_x_preferred":[
+        "Ban Laeng"
+    ],
     "name:tha_x_preferred":[
         "\u0e1a\u0e49\u0e32\u0e19\u0e41\u0e25\u0e07"
+    ],
+    "name:tha_x_variant":[
+        "\u0e15\u0e33\u0e1a\u0e25\u0e1a\u0e49\u0e32\u0e19\u0e41\u0e25\u0e07"
     ],
     "name:unk_x_variant":[
         "B\u0101n L\u0113ng"
@@ -60,7 +72,7 @@
         }
     ],
     "wof:id":102025635,
-    "wof:lastmodified":1527636683,
+    "wof:lastmodified":1563290373,
     "wof:name":"Ban Laeng",
     "wof:parent_id":1108802679,
     "wof:placetype":"locality",

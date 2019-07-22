@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001276,
+    "geom:area_square_m":15681853.743639,
     "geom:bbox":"101.663940631,6.38815316521,101.723204941,6.42806092539",
     "geom:latitude":6.408859,
     "geom:longitude":101.69372,
@@ -18,8 +19,23 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09af\u09bc\u09bf-\u0999\u09cb"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Yi-ngo"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Yi-ngo"
+    ],
+    "name:eng_x_preferred":[
+        "Yi-ngo"
+    ],
+    "name:fra_x_preferred":[
+        "Yi-ngo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a4\u30fc\u30b4\u30fc\u90e1"
+    ],
+    "name:nan_x_preferred":[
+        "Yi-ngo K\u016bn"
     ],
     "name:por_x_preferred":[
         "Yi-ngo"
@@ -89,7 +105,7 @@
         }
     ],
     "wof:id":102024593,
-    "wof:lastmodified":1527636420,
+    "wof:lastmodified":1563290176,
     "wof:name":"Yi-ngo",
     "wof:parent_id":85678885,
     "wof:placetype":"locality",

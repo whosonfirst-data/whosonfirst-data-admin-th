@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001161,
+    "geom:area_square_m":13936219.028102,
     "geom:bbox":"101.513671875,13.759698738,101.682214344,13.9447299749",
     "geom:latitude":13.839414,
     "geom:longitude":101.617269,
@@ -17,6 +18,9 @@
     "mz:is_current":-1,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09b8\u09bf \u09ae\u09be\u09b9\u09be \u09ab\u09cb\u09a4"
+    ],
+    "name:ceb_x_preferred":[
+        "Amphoe Si Maha Phot"
     ],
     "name:deu_x_preferred":[
         "Amphoe Si Maha Phot"
@@ -34,6 +38,12 @@
         "Srimahapho",
         "Srimah\u00e5bhot",
         "Tha Prachumchon"
+    ],
+    "name:fra_x_preferred":[
+        "Si Maha Phot"
+    ],
+    "name:nan_x_preferred":[
+        "Si Maha Phot K\u016bn"
     ],
     "name:ron_x_preferred":[
         "Districtul Si Maha Phot"
@@ -97,7 +107,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636435,
+    "wof:lastmodified":1563290217,
     "wof:name":"Si Maha Phot",
     "wof:parent_id":85678711,
     "wof:placetype":"locality",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000676,
+    "geom:area_square_m":8066244.37948,
     "geom:bbox":"104.124605793,15.1002094971,104.187164229,15.1713158139",
     "geom:latitude":15.13067,
     "geom:longitude":104.15351,
@@ -18,6 +19,9 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u0989\u09a5\u09c1\u09ae\u09ab\u09cb\u09a8 \u09ab\u09bf\u09b8\u09be\u0987"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Uthumphon Phisai"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Uthumphon Phisai"
     ],
@@ -30,6 +34,12 @@
         "Ban Tha Mai",
         "Samrong Yai",
         "Uthom Phon Phisai"
+    ],
+    "name:fra_x_preferred":[
+        "Uthumphon Phisai"
+    ],
+    "name:nan_x_preferred":[
+        "Uthumphon Phisai K\u016bn"
     ],
     "name:ron_x_preferred":[
         "Districtul Uthumphon Phisai"
@@ -93,7 +103,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636438,
+    "wof:lastmodified":1563290226,
     "wof:name":"Uthumphon Phisai",
     "wof:parent_id":85678779,
     "wof:placetype":"locality",

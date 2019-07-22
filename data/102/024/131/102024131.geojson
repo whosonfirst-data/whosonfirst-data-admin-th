@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001593,
-    "geom:area_square_m":19527330.848157,
+    "geom:area_square_m":19527330.848161,
     "geom:bbox":"99.3128310006,7.50048927233,99.3611761224,7.7363673067",
     "geom:latitude":7.565006,
     "geom:longitude":99.335719,
@@ -16,6 +16,12 @@
     "mps:longitude":99.334684,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bpy_x_preferred":[
+        "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09b8\u09bf\u0995\u09af\u09bc\u09be\u0993"
+    ],
+    "name:deu_x_preferred":[
+        "Amphoe Sikao"
+    ],
     "name:eng_x_preferred":[
         "Sikao"
     ],
@@ -23,11 +29,32 @@
         "Ban Sikao",
         "Ban Siko"
     ],
+    "name:fra_x_preferred":[
+        "Sikao"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b7\u30ab\u30aa\u90e1"
+    ],
+    "name:nan_x_preferred":[
+        "Sikao K\u016bn"
+    ],
+    "name:por_x_preferred":[
+        "Sikao"
+    ],
+    "name:ron_x_preferred":[
+        "Districtul Sikao"
+    ],
     "name:tha_x_preferred":[
         "\u0e2a\u0e34\u0e40\u0e01\u0e32"
     ],
+    "name:tha_x_variant":[
+        "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e2a\u0e34\u0e40\u0e01\u0e32"
+    ],
     "name:unk_x_variant":[
         "Ban Sikao"
+    ],
+    "name:vie_x_preferred":[
+        "Sikao"
     ],
     "qs:a0":"Thailand",
     "qs:a1":"*Trang",
@@ -75,7 +102,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1501216964,
+    "wof:lastmodified":1563290255,
     "wof:name":"Sikao",
     "wof:parent_id":1108731911,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002019,
-    "geom:area_square_m":24752884.705741,
+    "geom:area_square_m":24752884.705739,
     "geom:bbox":"99.4886190449,7.34797347253,99.5397012073,7.43143483021",
     "geom:latitude":7.397054,
     "geom:longitude":99.51654,
@@ -20,6 +20,9 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u0995\u09be\u09a8\u09a4\u09be\u0982"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Kantang"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Kantang"
     ],
@@ -31,8 +34,14 @@
         "Ban Kantang",
         "Gantam"
     ],
+    "name:fra_x_preferred":[
+        "Kantang"
+    ],
     "name:jpn_x_preferred":[
         "\u30ab\u30f3\u30bf\u30f3\u90e1"
+    ],
+    "name:nan_x_preferred":[
+        "Kantang K\u016bn"
     ],
     "name:por_x_preferred":[
         "Kantang"
@@ -108,7 +117,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636426,
+    "wof:lastmodified":1563290187,
     "wof:name":"Kantang",
     "wof:parent_id":1108802613,
     "wof:placetype":"locality",

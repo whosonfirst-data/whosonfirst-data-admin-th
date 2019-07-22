@@ -47,6 +47,9 @@
     "name:bpy_x_preferred":[
         "\u0996\u09c7\u09a4 \u09ac\u09cd\u09af\u09be\u0982\u0995\u0995 \u09a8\u09cb\u0987"
     ],
+    "name:ceb_x_preferred":[
+        "Khet Bangkok Noi"
+    ],
     "name:deu_x_preferred":[
         "Bangkok Noi"
     ],
@@ -54,8 +57,10 @@
         "Bangkok Yai"
     ],
     "name:eng_x_variant":[
-        "Bangkok Noi",
-        "Bangkok Yai"
+        "Bangkok Noi"
+    ],
+    "name:ita_x_preferred":[
+        "Bangkok Noi"
     ],
     "name:jpn_x_preferred":[
         "\u30d0\u30fc\u30f3\u30b3\u30fc\u30af\u30ce\u30fc\u30a4\u533a"
@@ -79,11 +84,16 @@
         "\u0e40\u0e02\u0e15\u0e1a\u0e32\u0e07\u0e01\u0e2d\u0e01\u0e19\u0e49\u0e2d\u0e22"
     ],
     "name:tha_x_variant":[
-        "\u0e1a\u0e32\u0e07\u0e01\u0e2d\u0e01\u0e19\u0e49\u0e2d\u0e22",
-        "\u0e40\u0e02\u0e15\u0e1a\u0e32\u0e07\u0e01\u0e2d\u0e01\u0e19\u0e49\u0e2d\u0e22"
+        "\u0e1a\u0e32\u0e07\u0e01\u0e2d\u0e01\u0e19\u0e49\u0e2d\u0e22"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u043d\u0433\u043a\u043e\u043a \u041d\u043e\u0439"
     ],
     "name:unk_x_variant":[
         "Amphoe Bang Kok Noi"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0646\u06a9\u0627\u06a9 \u0646\u0648\u06cc \u0636\u0644\u0639"
     ],
     "name:vie_x_preferred":[
         "Bangkok Noi"
@@ -135,7 +145,7 @@
         }
     ],
     "wof:id":890465803,
-    "wof:lastmodified":1561758876,
+    "wof:lastmodified":1563298255,
     "wof:name":"Bangkok Noi",
     "wof:parent_id":85678739,
     "wof:placetype":"county",

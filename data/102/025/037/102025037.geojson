@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000898,
+    "geom:area_square_m":10692750.53927,
     "geom:bbox":"104.069646914,15.6721812459,104.132255597,15.7325656217",
     "geom:latitude":15.693624,
     "geom:longitude":104.102276,
@@ -20,6 +21,9 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ab\u09be\u09a8\u09cb\u09ae \u09ab\u09b0\u09be\u0987"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Phanom Phrai"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Phanom Phrai"
     ],
@@ -29,6 +33,12 @@
     "name:eng_x_variant":[
         "Ban Phanom Phrai",
         "Ban Phnom Phrai"
+    ],
+    "name:fra_x_preferred":[
+        "Phanom Phrai"
+    ],
+    "name:nan_x_preferred":[
+        "Phanom Phrai K\u016bn"
     ],
     "name:ron_x_preferred":[
         "Districtul Phanom Phrai"
@@ -95,7 +105,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636683,
+    "wof:lastmodified":1563290376,
     "wof:name":"Phanom Phrai",
     "wof:parent_id":85678845,
     "wof:placetype":"locality",

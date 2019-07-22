@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000526,
+    "geom:area_square_m":6268525.961052,
     "geom:bbox":"103.959793986,15.4711118546,104.000410236,15.5103651101",
     "geom:latitude":15.490739,
     "geom:longitude":103.980102,
@@ -18,6 +19,9 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ab\u09cb\u09a8 \u09b8\u09be\u0987"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Phon Sai"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Phon Sai"
     ],
@@ -26,6 +30,12 @@
     ],
     "name:eng_x_variant":[
         "Phon Sai"
+    ],
+    "name:fra_x_preferred":[
+        "Phon Sai"
+    ],
+    "name:nan_x_preferred":[
+        "Phon Sai K\u016bn"
     ],
     "name:ron_x_preferred":[
         "Districtul Phon Sai"
@@ -89,7 +99,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636422,
+    "wof:lastmodified":1563290180,
     "wof:name":"Phon Sai",
     "wof:parent_id":85678845,
     "wof:placetype":"locality",

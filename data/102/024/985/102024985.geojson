@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00159,
+    "geom:area_square_m":18894058.606565,
     "geom:bbox":"100.213433992,15.9681342247,100.287055039,16.1023582613",
     "geom:latitude":16.026359,
     "geom:longitude":100.249378,
@@ -18,6 +19,9 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ab\u09cb \u09a5\u09be\u09b2\u09c7"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Pho Thale"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Pho Thale"
     ],
@@ -26,6 +30,15 @@
     ],
     "name:eng_x_variant":[
         "Pho Thala"
+    ],
+    "name:fra_x_preferred":[
+        "Pho Thale"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30dd\u30fc\u30bf\u30ec\u30fc\u90e1"
+    ],
+    "name:nan_x_preferred":[
+        "Pho Thale K\u016bn"
     ],
     "name:ron_x_preferred":[
         "Districtul Pho Thale"
@@ -89,7 +102,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636441,
+    "wof:lastmodified":1563290242,
     "wof:name":"Pho Thale",
     "wof:parent_id":85678669,
     "wof:placetype":"locality",

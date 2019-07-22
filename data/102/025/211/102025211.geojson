@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000587,
-    "geom:area_square_m":6997744.531188,
+    "geom:area_square_m":6997744.531191,
     "geom:bbox":"100.059656077,15.2910416833,100.089269641,15.3197768212",
     "geom:latitude":15.306234,
     "geom:longitude":100.076574,
@@ -21,6 +21,9 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ae\u09be\u09a8\u09cb\u09b0\u09cb\u09ae"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Manorom"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Manorom"
     ],
@@ -33,6 +36,12 @@
     "name:fra_x_preferred":[
         "Amphoe Manorom"
     ],
+    "name:fra_x_variant":[
+        "Manorom"
+    ],
+    "name:nan_x_preferred":[
+        "Manorom K\u016bn"
+    ],
     "name:ron_x_preferred":[
         "Districtul Manorom"
     ],
@@ -44,6 +53,9 @@
     ],
     "name:unk_x_variant":[
         "Khung Samphao"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0627\u0646\u0648\u0631\u0648\u0645 \u0636\u0644\u0639"
     ],
     "name:vie_x_preferred":[
         "Manorom"
@@ -97,7 +109,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636681,
+    "wof:lastmodified":1563290347,
     "wof:name":"Manorom",
     "wof:parent_id":890467099,
     "wof:placetype":"locality",

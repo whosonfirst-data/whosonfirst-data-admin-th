@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000011,
-    "geom:area_square_m":135173.892415,
+    "geom:area_square_m":135173.892418,
     "geom:bbox":"100.498476192,13.7487228696,100.502243042,13.7530681314",
     "geom:latitude":13.750977,
     "geom:longitude":100.500495,
@@ -30,6 +30,9 @@
     "name:eng_x_preferred":[
         "Wat Ratchabophit"
     ],
+    "name:jpn_x_preferred":[
+        "\u30ef\u30c3\u30c8\u30fb\u30e9\u30fc\u30c1\u30e3\u30dc\u30d4\u30c3\u30c8"
+    ],
     "name:rus_x_preferred":[
         "\u0420\u0430\u0442\u0447\u0430\u0431\u043e\u0444\u0438\u0442"
     ],
@@ -41,6 +44,9 @@
     ],
     "name:vie_x_preferred":[
         "Wat Rajbopit"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u5609\u5bf6\u78a7\u5bfa"
     ],
     "qs:gn_adm0_cc":"TH",
     "qs:gn_id":0,
@@ -101,7 +107,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527269310,
+    "wof:lastmodified":1563291775,
     "wof:name":"Wat Ratchabophit",
     "wof:parent_id":102025263,
     "wof:placetype":"neighbourhood",

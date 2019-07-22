@@ -46,6 +46,9 @@
     "name:bul_x_preferred":[
         "\u0421\u0430\u043c\u0443\u0442 \u0421\u0430\u043a\u043e\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Changwat Samut Sakhon"
+    ],
     "name:dan_x_preferred":[
         "Samut Sakhon"
     ],
@@ -60,6 +63,9 @@
     ],
     "name:eng_x_variant":[
         "Changwat Samut Sakhon"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0633\u0627\u0645\u0648\u062a \u0633\u0627\u06a9\u0648\u0646"
     ],
     "name:fin_x_preferred":[
         "Samut Sakhon"
@@ -90,6 +96,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc0ac\ubb47\uc0ac\ucf58 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc0ac\ubb47\uc0ac\ucf58\uc8fc"
     ],
     "name:lao_x_preferred":[
         "\u0e88\u0eb1\u0e87\u0eab\u0ea7\u0eb1\u0e94\u0eaa\u0eb0\u0edd\u0eb8\u0e94\u0eaa\u0eb2\u0e84\u0ead\u0e99"
@@ -158,7 +167,6 @@
         "\u0e2a\u0e21\u0e38\u0e17\u0e23\u0e2a\u0e32\u0e04\u0e23"
     ],
     "name:tha_x_variant":[
-        "\u0e2a\u0e21\u0e38\u0e17\u0e23\u0e2a\u0e32\u0e04\u0e23",
         "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e2a\u0e21\u0e38\u0e17\u0e23\u0e2a\u0e32\u0e04\u0e23"
     ],
     "name:tur_x_preferred":[
@@ -182,8 +190,14 @@
     "name:wuu_x_preferred":[
         "\u9f99\u4ed4\u539d\u5e9c"
     ],
+    "name:yue_x_preferred":[
+        "\u9f8d\u4ed4\u539d\u5e9c"
+    ],
     "name:zho_x_preferred":[
         "\u9f8d\u4ed4\u539d\u5e9c"
+    ],
+    "name:zho_x_variant":[
+        "\u6c99\u6ca1\u6c99\u7a7a\u5e9c"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"THA",
@@ -307,7 +321,7 @@
     "wof:lang_x_spoken":[
         "tha"
     ],
-    "wof:lastmodified":1561758458,
+    "wof:lastmodified":1563291861,
     "wof:name":"Samut Sakhon",
     "wof:parent_id":85632293,
     "wof:placetype":"region",

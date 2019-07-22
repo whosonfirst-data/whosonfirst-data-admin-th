@@ -21,6 +21,12 @@
     "name:cat_x_preferred":[
         "Sukhothai"
     ],
+    "name:cat_x_variant":[
+        "Sukhothai Thani"
+    ],
+    "name:ceb_x_preferred":[
+        "Sukhothai"
+    ],
     "name:ces_x_preferred":[
         "Sukhothaj"
     ],
@@ -51,11 +57,17 @@
     "name:glg_x_preferred":[
         "Sukhothai"
     ],
+    "name:glg_x_variant":[
+        "Sukhothai Thani"
+    ],
     "name:heb_x_preferred":[
         "\u05e1\u05d5\u05e7\u05d4\u05d5\u05d8\u05d4\u05d0\u05d9"
     ],
     "name:ita_x_preferred":[
         "Sukhothai"
+    ],
+    "name:ita_x_variant":[
+        "Sukhothai Thani"
     ],
     "name:jpn_x_preferred":[
         "\u30b9\u30b3\u30fc\u30bf\u30a4"
@@ -81,8 +93,14 @@
     "name:pol_x_preferred":[
         "Sukhothai"
     ],
+    "name:pol_x_variant":[
+        "Sukhothai Thani"
+    ],
     "name:por_x_preferred":[
         "Sukhothai"
+    ],
+    "name:por_x_variant":[
+        "Sukhothai Thani"
     ],
     "name:ron_x_preferred":[
         "Sukhothai"
@@ -98,6 +116,9 @@
     ],
     "name:spa_x_preferred":[
         "Sukhothai"
+    ],
+    "name:spa_x_variant":[
+        "Sukhothai Thani"
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e17\u0e28\u0e1a\u0e32\u0e25\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e2a\u0e38\u0e42\u0e02\u0e17\u0e31\u0e22\u0e18\u0e32\u0e19\u0e35"
@@ -116,6 +137,9 @@
     ],
     "name:war_x_preferred":[
         "Sukhothai"
+    ],
+    "name:war_x_variant":[
+        "Sukhothai Thani"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Thailand",
@@ -256,7 +280,7 @@
         }
     ],
     "wof:id":102024113,
-    "wof:lastmodified":1561758384,
+    "wof:lastmodified":1563290324,
     "wof:name":"Sukhothai",
     "wof:parent_id":890466803,
     "wof:placetype":"locality",

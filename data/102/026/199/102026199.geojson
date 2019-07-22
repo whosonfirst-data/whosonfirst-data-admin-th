@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000451,
+    "geom:area_square_m":5310279.642397,
     "geom:bbox":"97.9171931844,17.9435692971,97.9360783321,17.9720945802",
     "geom:latitude":17.957832,
     "geom:longitude":97.926636,
@@ -17,8 +18,23 @@
     "mps:longitude":97.926636,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Tambon Sop Moei"
+    ],
+    "name:deu_x_preferred":[
+        "Sop Moei"
+    ],
+    "name:eng_x_preferred":[
+        "Sop Moei"
+    ],
+    "name:fra_x_preferred":[
+        "Sop Moei"
+    ],
     "name:tha_x_preferred":[
         "\u0e2a\u0e1a\u0e40\u0e21\u0e22"
+    ],
+    "name:tha_x_variant":[
+        "\u0e15\u0e33\u0e1a\u0e25\u0e2a\u0e1a\u0e40\u0e21\u0e22"
     ],
     "name:unk_x_variant":[
         "King Amphoe Sop Moei"
@@ -63,7 +79,7 @@
         }
     ],
     "wof:id":102026199,
-    "wof:lastmodified":1527637811,
+    "wof:lastmodified":1563290471,
     "wof:name":"Sop Moei",
     "wof:parent_id":85678555,
     "wof:placetype":"locality",

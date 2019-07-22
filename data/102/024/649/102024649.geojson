@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002357,
-    "geom:area_square_m":28252801.404201,
+    "geom:area_square_m":28252801.404207,
     "geom:bbox":"100.623779297,14.1365755268,100.671493695,14.2148516854",
     "geom:latitude":14.174401,
     "geom:longitude":100.644941,
@@ -20,6 +20,9 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09f1\u09be\u0982 \u09a8\u09cb\u0987"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Wang Noi"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Wang Noi"
     ],
@@ -30,8 +33,14 @@
         "Ban Bang Pla Kot Noi",
         "Ban Wang Noi"
     ],
+    "name:fra_x_preferred":[
+        "Wang Noi"
+    ],
     "name:jpn_x_preferred":[
         "\u30ef\u30f3\u30ce\u30fc\u30a4\u90e1"
+    ],
+    "name:nan_x_preferred":[
+        "Wang Noi K\u016bn"
     ],
     "name:ron_x_preferred":[
         "Districtul Wang Noi"
@@ -44,6 +53,9 @@
     ],
     "name:unk_x_variant":[
         "Ban Bang Pla Kot Noi"
+    ],
+    "name:urd_x_preferred":[
+        "\u0648\u0627\u0646\u06af \u0646\u0648\u06cc \u0636\u0644\u0639"
     ],
     "name:vie_x_preferred":[
         "Wang Noi"
@@ -98,7 +110,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636445,
+    "wof:lastmodified":1563290276,
     "wof:name":"Wang Noi",
     "wof:parent_id":1108732053,
     "wof:placetype":"locality",

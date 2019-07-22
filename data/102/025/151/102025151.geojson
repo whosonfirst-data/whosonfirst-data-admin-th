@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000531,
-    "geom:area_square_m":6267407.404511,
+    "geom:area_square_m":6267407.404514,
     "geom:bbox":"104.091533718,17.4831122044,104.132343318,17.5011882887",
     "geom:latitude":17.49215,
     "geom:longitude":104.111939,
@@ -22,11 +22,20 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09a8\u09be \u09f1\u09be"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Na Wa"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Na Wa"
     ],
     "name:eng_x_preferred":[
         "Na Wa"
+    ],
+    "name:fra_x_preferred":[
+        "Na Wa"
+    ],
+    "name:nan_x_preferred":[
+        "Na Wa K\u016bn"
     ],
     "name:ron_x_preferred":[
         "Districtul Na Wa"
@@ -39,6 +48,9 @@
     ],
     "name:unk_x_variant":[
         "Ban Na Wa"
+    ],
+    "name:urd_x_preferred":[
+        "\u0646\u0627 \u0648\u0627 \u0636\u0644\u0639"
     ],
     "name:vie_x_preferred":[
         "Na Wa"
@@ -91,7 +103,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636681,
+    "wof:lastmodified":1563290345,
     "wof:name":"Na Wa",
     "wof:parent_id":85678879,
     "wof:placetype":"locality",

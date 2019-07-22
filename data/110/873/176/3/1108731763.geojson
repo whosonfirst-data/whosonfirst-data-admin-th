@@ -38,6 +38,9 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ab\u09be\u09af\u09bc\u09c1\u09b9\u09be \u0996\u09bf\u09b0\u09bf"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Phayuha Khiri"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Phayuha Khiri"
     ],
@@ -45,11 +48,13 @@
         "Phayuha Khiri"
     ],
     "name:eng_x_variant":[
-        "Phyuha Khiri",
-        "Phayuha Khiri"
+        "Phyuha Khiri"
     ],
     "name:fra_x_preferred":[
         "Phayuha Khiri"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d1\u30e6\u30cf\u30ad\u30fc\u30ea\u30fc\u90e1"
     ],
     "name:nan_x_preferred":[
         "Phayuha Khiri K\u016bn"
@@ -60,8 +65,17 @@
     "name:tha_x_preferred":[
         "\u0e1e\u0e22\u0e38\u0e2b\u0e30\u0e04\u0e35\u0e23\u0e35"
     ],
+    "name:tha_x_variant":[
+        "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e1e\u0e22\u0e38\u0e2b\u0e30\u0e04\u0e35\u0e23\u0e35"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u06be\u0627\u06cc\u0648\u06c1\u0627 \u06a9\u06be\u06cc\u0631\u06cc \u0636\u0644\u0639"
+    ],
     "name:vie_x_preferred":[
         "Phayuha Khiri"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e15\u80b2\u54c8\u5947\u91cc\u7e23"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -99,7 +113,7 @@
         }
     ],
     "wof:id":1108731763,
-    "wof:lastmodified":1561758763,
+    "wof:lastmodified":1563296588,
     "wof:name":"Phyuha Khiri",
     "wof:parent_id":85678715,
     "wof:placetype":"county",

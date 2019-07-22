@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002167,
-    "geom:area_square_m":26066207.087252,
+    "geom:area_square_m":26066207.087214,
     "geom:bbox":"99.850990858,13.4179822188,99.9134120753,13.4894891178",
     "geom:latitude":13.450723,
     "geom:longitude":99.880833,
@@ -19,6 +19,9 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09f1\u09be\u09a4 \u09ab\u09cd\u09b2\u09c7\u0982"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Wat Phleng"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Wat Phleng"
     ],
@@ -29,8 +32,20 @@
         "Ban Rong Wi",
         "Rong Wi"
     ],
+    "name:fra_x_preferred":[
+        "Wat Phleng"
+    ],
+    "name:ita_x_preferred":[
+        "Wat Phleng"
+    ],
+    "name:nan_x_preferred":[
+        "Wat Phleng K\u016bn"
+    ],
     "name:ron_x_preferred":[
         "Districtul Wat Phleng"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u0442 \u041f\u0445\u043b\u0435\u043d\u0433"
     ],
     "name:tha_x_preferred":[
         "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e27\u0e31\u0e14\u0e40\u0e1e\u0e25\u0e07"
@@ -96,7 +111,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636449,
+    "wof:lastmodified":1563290304,
     "wof:name":"Wat Phleng",
     "wof:parent_id":1108732069,
     "wof:placetype":"locality",

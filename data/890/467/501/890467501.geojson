@@ -15,8 +15,32 @@
     "iso:country":"TH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bpy_x_preferred":[
+        "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09a5\u09be \u09b8\u09cb\u0982 \u09af\u09bc\u09be\u0982"
+    ],
+    "name:ceb_x_preferred":[
+        "Amphoe Tha Song Yang"
+    ],
+    "name:deu_x_preferred":[
+        "Amphoe Tha Song Yang"
+    ],
     "name:eng_x_preferred":[
         "Sop Moei subdistrict"
+    ],
+    "name:eng_x_variant":[
+        "Tha Song Yang"
+    ],
+    "name:fra_x_preferred":[
+        "Tha Song Yang"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bf\u30fc\u30bd\u30fc\u30f3\u30e4\u30fc\u30f3\u90e1"
+    ],
+    "name:nan_x_preferred":[
+        "Tha Song Yang K\u016bn"
+    ],
+    "name:ron_x_preferred":[
+        "Districtul Tha Song Yang"
     ],
     "name:rus_x_preferred":[
         "\u0421\u043e\u043f-\u041c\u043e\u0438"
@@ -25,10 +49,14 @@
         "\u0e2a\u0e1a\u0e40\u0e21\u0e22"
     ],
     "name:tha_x_variant":[
-        "\u0e15\u0e33\u0e1a\u0e25\u0e2a\u0e1a\u0e40\u0e21\u0e22"
+        "\u0e15\u0e33\u0e1a\u0e25\u0e2a\u0e1a\u0e40\u0e21\u0e22",
+        "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e17\u0e48\u0e32\u0e2a\u0e2d\u0e07\u0e22\u0e32\u0e07"
     ],
     "name:unk_x_variant":[
         "Sop Moei"
+    ],
+    "name:vie_x_preferred":[
+        "Tha Song Yang"
     ],
     "qs:name":"Ban Sop Moei",
     "qs:photos_9r":0,
@@ -60,7 +88,7 @@
         }
     ],
     "wof:id":890467501,
-    "wof:lastmodified":1527792897,
+    "wof:lastmodified":1563298313,
     "wof:name":"Ban Sop Moei",
     "wof:parent_id":85678555,
     "wof:placetype":"localadmin",

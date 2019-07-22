@@ -34,11 +34,17 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ae\u09c1\u09af\u09bc\u09c7\u0982 \u09b2\u09be\u09ae\u09cd\u09aa\u09be\u0982"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Mueang Lampang"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Mueang Lampang"
     ],
     "name:eng_x_preferred":[
         "Lampang"
+    ],
+    "name:eng_x_variant":[
+        "Mueang Lampang"
     ],
     "name:fra_x_preferred":[
         "Mueang Lampang"
@@ -54,6 +60,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e25\u0e33\u0e1b\u0e32\u0e07"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0648\u0626\u0627\u0646\u06af \u0644\u0627\u0645\u067e\u0627\u0646\u06af \u0636\u0644\u0639"
     ],
     "name:vie_x_preferred":[
         "Mueang Lampang"
@@ -94,7 +103,7 @@
         }
     ],
     "wof:id":1108802669,
-    "wof:lastmodified":1561758728,
+    "wof:lastmodified":1563296416,
     "wof:name":"Muang Lampang",
     "wof:parent_id":85678625,
     "wof:placetype":"county",

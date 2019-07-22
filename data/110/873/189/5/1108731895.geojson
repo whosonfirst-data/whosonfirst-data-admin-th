@@ -38,6 +38,9 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09b8\u09bf \u09b8\u09be\u0996\u09cb\u09a8"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Si Sakhon"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Si Sakhon"
     ],
@@ -61,6 +64,12 @@
     ],
     "name:tha_x_preferred":[
         "\u0e28\u0e23\u0e35\u0e2a\u0e32\u0e04\u0e23"
+    ],
+    "name:tha_x_variant":[
+        "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e28\u0e23\u0e35\u0e2a\u0e32\u0e04\u0e23"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u06cc \u0633\u0627\u06a9\u06be\u0648\u0646 \u0636\u0644\u0639"
     ],
     "name:vie_x_preferred":[
         "Si Sakhon"
@@ -104,7 +113,7 @@
         }
     ],
     "wof:id":1108731895,
-    "wof:lastmodified":1561758746,
+    "wof:lastmodified":1563296487,
     "wof:name":"Si Sakhon",
     "wof:parent_id":85678885,
     "wof:placetype":"county",

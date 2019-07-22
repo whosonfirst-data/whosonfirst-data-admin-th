@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000526,
-    "geom:area_square_m":6220855.773245,
+    "geom:area_square_m":6220855.773248,
     "geom:bbox":"102.839130093,16.8323141905,102.868877331,16.8608956472",
     "geom:latitude":16.84485,
     "geom:longitude":102.852067,
@@ -20,8 +20,20 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u0996\u09be\u0993\u09b8\u09c1\u09af\u09bc\u09be\u09a8 \u0995\u09f1\u09be\u0982"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Khao Suan Kwang"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Khao Suan Kwang"
+    ],
+    "name:eng_x_preferred":[
+        "Khao Suan Kwang"
+    ],
+    "name:fra_x_preferred":[
+        "Khao Suan Kwang"
+    ],
+    "name:nan_x_preferred":[
+        "Khao Suan Kwang K\u016bn"
     ],
     "name:ron_x_preferred":[
         "Districtul Khao Suan Kwang"
@@ -31,6 +43,9 @@
     ],
     "name:tha_x_variant":[
         "\u0e40\u0e02\u0e32\u0e2a\u0e27\u0e19\u0e01\u0e27\u0e32\u0e07"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u06be\u0627\u0648 \u0633\u0648\u0627\u0646 \u06a9\u0648\u0627\u0646\u06af \u0636\u0644\u0639"
     ],
     "name:vie_x_preferred":[
         "Khao Suan Kwang"
@@ -74,7 +89,7 @@
         }
     ],
     "wof:id":102024511,
-    "wof:lastmodified":1527636442,
+    "wof:lastmodified":1563290244,
     "wof:name":"Khao Suan Kwang",
     "wof:parent_id":890465855,
     "wof:placetype":"locality",

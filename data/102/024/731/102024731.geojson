@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000895,
+    "geom:area_square_m":10579484.158931,
     "geom:bbox":"104.135504943,16.9584483247,104.187249068,16.9870334038",
     "geom:latitude":16.973191,
     "geom:longitude":104.165377,
@@ -18,6 +19,9 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09a4\u09be\u0993 \u0999\u09cb\u0987"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Tao Ngoi"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Tao Ngoi"
     ],
@@ -26,6 +30,12 @@
     ],
     "name:eng_x_variant":[
         "Tao Ngoy"
+    ],
+    "name:fra_x_preferred":[
+        "Tao Ngoi"
+    ],
+    "name:nan_x_preferred":[
+        "Tao Ngoi K\u016bn"
     ],
     "name:ron_x_preferred":[
         "Districtul Tao Ngoi"
@@ -89,7 +99,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636427,
+    "wof:lastmodified":1563290189,
     "wof:name":"Tao Ngoi",
     "wof:parent_id":85678863,
     "wof:placetype":"locality",

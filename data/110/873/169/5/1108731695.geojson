@@ -47,6 +47,9 @@
     "name:fra_x_preferred":[
         "Phaisali"
     ],
+    "name:jpn_x_preferred":[
+        "\u30d1\u30a4\u30b5\u30fc\u30ea\u30fc\u90e1"
+    ],
     "name:nan_x_preferred":[
         "Phaisali K\u016bn"
     ],
@@ -55,6 +58,12 @@
     ],
     "name:tha_x_preferred":[
         "\u0e44\u0e1e\u0e28\u0e32\u0e25\u0e35"
+    ],
+    "name:tha_x_variant":[
+        "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e44\u0e1e\u0e28\u0e32\u0e25\u0e35"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u06be\u0627\u06cc\u0633\u0627\u0644\u06cc \u0636\u0644\u0639"
     ],
     "name:vie_x_preferred":[
         "Phaisali"
@@ -95,7 +104,7 @@
         }
     ],
     "wof:id":1108731695,
-    "wof:lastmodified":1561758741,
+    "wof:lastmodified":1563296468,
     "wof:name":"Phaisali",
     "wof:parent_id":85678715,
     "wof:placetype":"county",

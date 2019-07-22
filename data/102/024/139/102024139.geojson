@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001668,
+    "geom:area_square_m":19872177.059315,
     "geom:bbox":"99.8289302612,15.5452126992,99.8805422901,15.6162052379",
     "geom:latitude":15.581252,
     "geom:longitude":99.858978,
@@ -18,6 +19,9 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09b8\u09be\u09f1\u09be\u0982 \u0985\u09b0\u09cb\u09ae"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Sawang Arom"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Sawang Arom"
     ],
@@ -27,6 +31,15 @@
     "name:eng_x_variant":[
         "Ban Noen Kao",
         "Sawang Aram"
+    ],
+    "name:fra_x_preferred":[
+        "Sawang Arom"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30ef\u30fc\u30f3\u30a2\u30fc\u30ed\u30e0\u90e1"
+    ],
+    "name:nan_x_preferred":[
+        "Sawang Arom K\u016bn"
     ],
     "name:ron_x_preferred":[
         "Districtul Sawang Arom"
@@ -93,7 +106,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636444,
+    "wof:lastmodified":1563290265,
     "wof:name":"Sawang Arom",
     "wof:parent_id":85678689,
     "wof:placetype":"locality",

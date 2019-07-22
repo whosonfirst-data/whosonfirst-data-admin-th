@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000859,
+    "geom:area_square_m":10570376.06788,
     "geom:bbox":"101.751839691,5.9266684379,101.791861242,5.95839892309",
     "geom:latitude":5.94396,
     "geom:longitude":101.7735,
@@ -18,11 +19,23 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09b8\u09c1\u0996\u09bf\u09b0\u09bf\u09a8"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Sukhirin"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Sukhirin"
     ],
     "name:eng_x_preferred":[
         "Sukhirin"
+    ],
+    "name:fra_x_preferred":[
+        "Sukhirin"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b9\u30ad\u30ea\u30f3\u90e1"
+    ],
+    "name:nan_x_preferred":[
+        "Sukhirin K\u016bn"
     ],
     "name:por_x_preferred":[
         "Sukhirin"
@@ -38,6 +51,9 @@
     ],
     "name:unk_x_variant":[
         "\u0e2a\u0e38\u0e04\u0e34\u0e23\u0e34\u0e19"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0648\u06a9\u06be\u06cc\u0631\u06cc\u0646 \u0636\u0644\u0639"
     ],
     "name:vie_x_preferred":[
         "Sukhirin"
@@ -92,7 +108,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636443,
+    "wof:lastmodified":1563290254,
     "wof:name":"Sukhirin",
     "wof:parent_id":85678885,
     "wof:placetype":"locality",

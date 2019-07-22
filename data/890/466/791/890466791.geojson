@@ -36,15 +36,43 @@
     "mps:longitude":100.937557,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bpy_x_preferred":[
+        "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ae\u09c1\u09af\u09bc\u09c7\u0982 \u09b8\u09be\u09b0\u09be\u09ac\u09c1\u09b0\u09bf"
+    ],
+    "name:ceb_x_preferred":[
+        "Amphoe Mueang Sara Buri"
+    ],
+    "name:deu_x_preferred":[
+        "Amphoe Mueang Saraburi"
+    ],
     "name:eng_x_preferred":[
         "Chaloem Phra Kiat"
     ],
     "name:eng_x_variant":[
         "Muang Saraburi",
-        "Chalermphrakiet"
+        "Chalermphrakiet",
+        "Mueang Saraburi"
+    ],
+    "name:fra_x_preferred":[
+        "Mueang Saraburi"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e0\u30a2\u30f3\u30b5\u30e9\u30d6\u30ea\u30fc\u90e1"
+    ],
+    "name:nan_x_preferred":[
+        "Mueang Saraburi K\u016bn"
+    ],
+    "name:ron_x_preferred":[
+        "Districtul Mueang Saraburi"
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e2a\u0e23\u0e30\u0e1a\u0e38\u0e23\u0e35"
+    ],
+    "name:tha_x_variant":[
+        "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e2a\u0e23\u0e30\u0e1a\u0e38\u0e23\u0e35"
+    ],
+    "name:vie_x_preferred":[
+        "Mueang Saraburi"
     ],
     "qs:name":"Mueang Saraburi",
     "qs:name_adm0":"Thailand",
@@ -99,7 +127,7 @@
         }
     ],
     "wof:id":890466791,
-    "wof:lastmodified":1554489105,
+    "wof:lastmodified":1563298351,
     "wof:name":"Muang Saraburi",
     "wof:parent_id":85678735,
     "wof:placetype":"county",

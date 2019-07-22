@@ -46,6 +46,9 @@
     "name:bul_x_preferred":[
         "\u0421\u0430\u043c\u0443\u0442 \u041f\u0440\u0430\u043a\u0430\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Changwat Samut Prakan"
+    ],
     "name:dan_x_preferred":[
         "Samut Prakan"
     ],
@@ -93,6 +96,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc0ac\ubb47\uc058\ub77c\uae50 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc0ac\ubb47\uc058\ub77c\uae50\uc8fc"
     ],
     "name:lao_x_preferred":[
         "\u0e88\u0eb1\u0e87\u0eab\u0ea7\u0eb1\u0e94\u0eaa\u0eb0\u0edd\u0eb8\u0e94\u0e9b\u0eb2\u0e81\u0eb2\u0e99"
@@ -187,8 +193,14 @@
     "name:wuu_x_preferred":[
         "\u6c99\u6ca1\u5df4\u5e72\u5e9c"
     ],
+    "name:yue_x_preferred":[
+        "\u5317\u6b16\u5e9c"
+    ],
     "name:zho_x_preferred":[
         "\u5317\u6b16\u5e9c"
+    ],
+    "name:zho_x_variant":[
+        "\u6c99\u6ca1\u5df4\u5e72\u5e9c"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"THA",
@@ -312,7 +324,7 @@
     "wof:lang_x_spoken":[
         "tha"
     ],
-    "wof:lastmodified":1561758458,
+    "wof:lastmodified":1563291851,
     "wof:name":"Samut Prakan",
     "wof:parent_id":85632293,
     "wof:placetype":"region",

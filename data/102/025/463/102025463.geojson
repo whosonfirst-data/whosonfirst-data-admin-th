@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003258,
-    "geom:area_square_m":38338231.29384,
+    "geom:area_square_m":38338231.29383,
     "geom:bbox":"101.638823993,17.6716327023,101.748322738,17.9302776675",
     "geom:latitude":17.862129,
     "geom:longitude":101.685884,
@@ -19,6 +19,15 @@
     "mps:longitude":101.695057,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bpy_x_preferred":[
+        "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u099a\u09bf\u09af\u09bc\u09be\u0982 \u0996\u09be\u09a8"
+    ],
+    "name:ceb_x_preferred":[
+        "Amphoe Chiang Khan"
+    ],
+    "name:deu_x_preferred":[
+        "Amphoe Chiang Khan"
+    ],
     "name:eng_x_colloquial":[
         "Chienggaan",
         "Chienggan"
@@ -31,11 +40,29 @@
         "Chiengg\u00e5n",
         "Xieng Khan"
     ],
+    "name:fra_x_preferred":[
+        "Chiang Khan"
+    ],
+    "name:nan_x_preferred":[
+        "Chiang Khan K\u016bn"
+    ],
+    "name:ron_x_preferred":[
+        "Districtul Chiang Khan"
+    ],
     "name:tha_x_preferred":[
         "\u0e40\u0e0a\u0e35\u0e22\u0e07\u0e04\u0e32\u0e19"
     ],
+    "name:tha_x_variant":[
+        "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e40\u0e0a\u0e35\u0e22\u0e07\u0e04\u0e32\u0e19"
+    ],
     "name:unk_x_variant":[
         "Muang Chieng Kan"
+    ],
+    "name:urd_x_preferred":[
+        "\u0686\u06cc\u0627\u0646\u06af \u06a9\u06be\u0627\u0646 \u0636\u0644\u0639"
+    ],
+    "name:vie_x_preferred":[
+        "Chiang Khan"
     ],
     "qs:a0":"Thailand",
     "qs:a1":"*Loei",
@@ -95,7 +122,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636683,
+    "wof:lastmodified":1563290366,
     "wof:name":"Chiang Khan",
     "wof:parent_id":1108802593,
     "wof:placetype":"locality",

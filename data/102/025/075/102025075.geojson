@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000436,
-    "geom:area_square_m":5223590.32894,
+    "geom:area_square_m":5223590.328947,
     "geom:bbox":"101.301162259,14.228707596,101.319687286,14.2574454576",
     "geom:latitude":14.243335,
     "geom:longitude":101.310563,
@@ -21,11 +21,23 @@
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09aa\u09be\u0995 \u09ab\u09b2\u09bf"
     ],
+    "name:ceb_x_preferred":[
+        "Amphoe Pak Phli"
+    ],
     "name:deu_x_preferred":[
         "Amphoe Pak Phli"
     ],
+    "name:eng_x_preferred":[
+        "Pak Phli"
+    ],
+    "name:fra_x_preferred":[
+        "Pak Phli"
+    ],
     "name:jpn_x_preferred":[
         "\u30d1\u30fc\u30af\u30d7\u30ea\u30fc\u90e1"
+    ],
+    "name:nan_x_preferred":[
+        "Pak Phli K\u016bn"
     ],
     "name:ron_x_preferred":[
         "Districtul Pak Phli"
@@ -39,11 +51,17 @@
     "name:unk_x_variant":[
         "Amphoe Pak Phli"
     ],
+    "name:urd_x_preferred":[
+        "\u067e\u0627\u06a9 \u067e\u06be\u0644\u06cc \u0636\u0644\u0639"
+    ],
     "name:vie_x_preferred":[
         "Pak Phli"
     ],
     "name:zho_min_nan_x_preferred":[
         "Pak Phli K\u016bn"
+    ],
+    "name:zho_x_preferred":[
+        "\u62f7\u827e"
     ],
     "qs:a0":"Thailand",
     "qs:a1":"*Nakhon Nayok",
@@ -90,7 +108,7 @@
         }
     ],
     "wof:id":102025075,
-    "wof:lastmodified":1527636687,
+    "wof:lastmodified":1563290420,
     "wof:name":"Pak Phli",
     "wof:parent_id":890466935,
     "wof:placetype":"locality",
