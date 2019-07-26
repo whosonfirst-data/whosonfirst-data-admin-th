@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001331,
+    "geom:area_square_m":15849158.769827,
     "geom:bbox":"99.4334178991,15.6404457535,99.4960244287,15.682328092",
     "geom:latitude":15.663007,
     "geom:longitude":99.464814,
@@ -16,11 +17,18 @@
     "mps:latitude":15.662722,
     "mps:longitude":99.465286,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Mae Poen"
     ],
+    "name:pol_x_preferred":[
+        "Siutkowo"
+    ],
     "name:tha_x_preferred":[
         "\u0e41\u0e21\u0e48\u0e40\u0e1b\u0e34\u0e19"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u044e\u0442\u043a\u043e\u0432\u043e"
     ],
     "qs:a0":"Thailand",
     "qs:a1":"*Nakhon Sawan",
@@ -65,7 +73,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1501273222,
+    "wof:lastmodified":1564101332,
     "wof:name":"Mae Poen",
     "wof:parent_id":85678715,
     "wof:placetype":"locality",
