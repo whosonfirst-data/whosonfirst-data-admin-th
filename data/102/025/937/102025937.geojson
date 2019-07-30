@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001265,
-    "geom:area_square_m":15482028.791839,
+    "geom:area_square_m":15482028.791826,
     "geom:bbox":"99.851154355,8.00123190462,99.9132502977,8.11722128165",
     "geom:latitude":8.075335,
     "geom:longitude":99.877537,
@@ -21,14 +21,41 @@
     "name:deu_x_preferred":[
         "Chulabhorn"
     ],
+    "name:deu_x_variant":[
+        "Chulabhorn Walailak"
+    ],
     "name:eng_x_preferred":[
         "Chulabhorn"
+    ],
+    "name:ind_x_preferred":[
+        "Chulabhorn Walailak"
+    ],
+    "name:ita_x_preferred":[
+        "Chulabhorn Walailak"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c1\u30e5\u30e9\u30dd\u30fc\u30f3"
+    ],
+    "name:kor_x_preferred":[
+        "\ucb50\ub77c\ud3f0 \uc648\ub77c\uc77c\ub77d"
+    ],
+    "name:msa_x_preferred":[
+        "Chulabhorn Walailak"
+    ],
+    "name:mya_x_preferred":[
+        "\u1005\u102f\u1020\u102c\u1018\u101b\u100f"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0443\u043b\u0430\u043f\u0445\u043e\u043d \u0412\u0430\u043b\u0430\u0439\u043b\u0430\u043a"
     ],
     "name:tha_x_preferred":[
         "\u0e08\u0e38\u0e2c\u0e32\u0e20\u0e23\u0e13\u0e4c"
     ],
     "name:unk_x_variant":[
         "Amphoe Chulaphon"
+    ],
+    "name:zho_x_preferred":[
+        "\u6731\u62c9\u84ec\u516c\u4e3b"
     ],
     "qs:a0":"Thailand",
     "qs:a1":"*Nakhon Si Thammarat",
@@ -76,7 +103,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636681,
+    "wof:lastmodified":1564101317,
     "wof:name":"Chulabhorn",
     "wof:parent_id":85678565,
     "wof:placetype":"locality",

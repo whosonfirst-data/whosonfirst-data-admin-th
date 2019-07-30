@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00044,
-    "geom:area_square_m":5395007.482215,
+    "geom:area_square_m":5395007.482245,
     "geom:bbox":"99.9280785028,7.1191022867,99.9461890515,7.14809296242",
     "geom:latitude":7.133598,
     "geom:longitude":99.937134,
@@ -48,6 +48,9 @@
     "name:pol_x_preferred":[
         "Manang"
     ],
+    "name:pol_x_variant":[
+        "Dobrzelewice"
+    ],
     "name:rus_x_preferred":[
         "\u041c\u0430\u043d\u0430\u043d\u0433"
     ],
@@ -56,6 +59,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u041c\u0430\u043d\u0430\u043d\u0491"
+    ],
+    "name:ukr_x_variant":[
+        "\u0414\u043e\u0431\u0436\u0435\u043b\u0435\u0432\u0456\u0446\u0435"
     ],
     "name:unk_x_variant":[
         "King Amphoe Manang"
@@ -107,7 +113,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636688,
+    "wof:lastmodified":1564101352,
     "wof:name":"Manang",
     "wof:parent_id":85678609,
     "wof:placetype":"locality",
