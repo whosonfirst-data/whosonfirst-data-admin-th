@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BK"
+    ],
     "label:tha_x_preferred_longname":[
         "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e1a\u0e36\u0e07\u0e01\u0e32\u0e2c"
     ],
@@ -193,15 +196,15 @@
     "wof:lang_x_spoken":[
         "tha"
     ],
-    "wof:lastmodified":1563291802,
+    "wof:lastmodified":1565890439,
     "wof:name":"Bueng Kan",
     "wof:parent_id":85632293,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":423032,
     "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-th",
+    "wof:shortcode":"BK",
     "wof:subdivision":"TH-38",
     "wof:superseded_by":[],
     "wof:supersedes":[],
