@@ -11,7 +11,7 @@
     "geom:longitude":103.07265,
     "gn:country":"TH",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"TH",
     "label:eng_x_preferred_longname":[
         "Borabu District"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":16.008349,
     "lbl:longitude":103.072648,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"MAHA SARAKHAM",
     "meso:diss_me":"BorabuMAHA SARAKHAM",
     "meso:gadm_admin":"Borabu",
@@ -38,6 +40,7 @@
     "mps:longitude":103.072648,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ac\u09cb\u09b0\u09be\u09ac\u09c1\u09af\u09bc\u09c7"
     ],
@@ -74,9 +77,6 @@
     "name:tha_x_variant":[
         "\u0e1a\u0e23\u0e1a\u0e37\u0e2d"
     ],
-    "name:unk_x_variant":[
-        "Amphoe Borabue"
-    ],
     "name:urd_x_preferred":[
         "\u0628\u0648\u0631\u0627\u0628\u0648\u06d2 \u0636\u0644\u0639"
     ],
@@ -91,9 +91,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"682",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -115,7 +115,7 @@
         "gn:id":1611579,
         "gp:id":28341126,
         "hasc:id":"TH.MS.BO",
-        "qs:id":1030591,
+        "qs_pg:id":1030591,
         "wd:id":"Q475285",
         "wk:page":"Borabue District"
     },
@@ -131,7 +131,7 @@
         }
     ],
     "wof:id":890466383,
-    "wof:lastmodified":1563298393,
+    "wof:lastmodified":1566663263,
     "wof:name":"Borabu",
     "wof:parent_id":85678835,
     "wof:placetype":"county",

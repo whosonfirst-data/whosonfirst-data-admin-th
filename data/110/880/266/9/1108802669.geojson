@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":18.38035,
     "lbl:longitude":99.549439,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"LAMPANG",
     "meso:diss_me":"Muang LampangLAMPANG",
     "meso:gadm_admin":"Muang Lampang",
@@ -31,6 +33,7 @@
     "meso:source":"AOTM",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ae\u09c1\u09af\u09bc\u09c7\u0982 \u09b2\u09be\u09ae\u09cd\u09aa\u09be\u0982"
     ],
@@ -68,9 +71,9 @@
         "Mueang Lampang"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"1157",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":1108802669,
-    "wof:lastmodified":1563296416,
+    "wof:lastmodified":1566661685,
     "wof:name":"Muang Lampang",
     "wof:parent_id":85678625,
     "wof:placetype":"county",

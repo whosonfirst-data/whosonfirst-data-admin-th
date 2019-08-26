@@ -13,10 +13,13 @@
     "iso:country":"TH",
     "lbl:latitude":17.302205,
     "lbl:longitude":101.76804,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":17.302205,
     "mps:longitude":101.76804,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09f1\u09be\u0982 \u09b8\u09be\u09ab\u09c1\u0982"
     ],
@@ -50,9 +53,6 @@
     "name:tha_x_variant":[
         "\u0e27\u0e31\u0e07\u0e2a\u0e30\u0e1e\u0e38\u0e07"
     ],
-    "name:unk_x_variant":[
-        "Amphoe Wang Saphung"
-    ],
     "name:urd_x_preferred":[
         "\u0648\u0627\u0646\u06af \u0633\u0627\u067e\u06c1\u0648\u0646\u06af \u0636\u0644\u0639"
     ],
@@ -77,7 +77,7 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":255,
     "wof:belongsto":[
@@ -90,7 +90,7 @@
         "fct:id":"07cf944c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1605102,
         "gp:id":28340997,
-        "qs:id":446823,
+        "qs_pg:id":446823,
         "wd:id":"Q477024"
     },
     "wof:country":"TH",
@@ -107,7 +107,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563290202,
+    "wof:lastmodified":1566656317,
     "wof:name":"Wang Saphung",
     "wof:parent_id":85678853,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":6.245336,
     "lbl:longitude":101.321305,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"YALA",
     "meso:diss_me":"Bannang SataYALA",
     "meso:gadm_admin":"Bannang Star",
@@ -35,6 +37,7 @@
     "mps:longitude":101.321305,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ac\u09be\u09a8\u09a8\u09be\u0982 \u09b8\u09be\u09a4\u09be"
     ],
@@ -72,9 +75,9 @@
         "Bannang Sata"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"629",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":1108731183,
-    "wof:lastmodified":1563296493,
+    "wof:lastmodified":1566661731,
     "wof:name":"Bannang Sata",
     "wof:parent_id":85678611,
     "wof:placetype":"county",

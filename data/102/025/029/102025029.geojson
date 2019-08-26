@@ -14,10 +14,13 @@
     "iso:country":"TH",
     "lbl:latitude":13.712703,
     "lbl:longitude":100.434097,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":13.712703,
     "mps:longitude":100.434097,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0646\u0637\u0642\u0629 \u0628\u0627\u0633\u064a \u062a\u0634\u0627\u0631\u0648\u064a\u0646"
     ],
@@ -57,7 +60,7 @@
     "name:tha_x_variant":[
         "\u0e40\u0e02\u0e15\u0e20\u0e32\u0e29\u0e35\u0e40\u0e08\u0e23\u0e34\u0e0d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Amphoe Phasi Charoen"
     ],
     "name:urd_x_preferred":[
@@ -81,7 +84,7 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":339,
     "wof:belongsto":[
         102191569,
@@ -93,7 +96,7 @@
     "wof:concordances":{
         "gn:id":1607782,
         "gp:id":28341416,
-        "qs:id":398020,
+        "qs_pg:id":398020,
         "wd:id":"Q1019590"
     },
     "wof:country":"TH",
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":102025029,
-    "wof:lastmodified":1563290419,
+    "wof:lastmodified":1566656467,
     "wof:name":"Phasi Charoen",
     "wof:parent_id":890466163,
     "wof:placetype":"locality",

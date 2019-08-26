@@ -13,10 +13,13 @@
     "iso:country":"TH",
     "lbl:latitude":13.281588,
     "lbl:longitude":99.822703,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":13.281588,
     "mps:longitude":99.822703,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u0996\u09be\u0993 \u09af\u09bc\u09cb\u0987"
     ],
@@ -44,9 +47,6 @@
     "name:tha_x_variant":[
         "\u0e40\u0e02\u0e32\u0e22\u0e49\u0e2d\u0e22"
     ],
-    "name:unk_x_variant":[
-        "Amphoe Khao Yoi"
-    ],
     "name:vie_x_preferred":[
         "Khao Yoi"
     ],
@@ -70,7 +70,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":215,
     "wof:belongsto":[
@@ -84,7 +84,6 @@
         "fct:id":"07cf2eda-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1152919,
         "gp:id":1225395,
-        "qs:id":1315385,
         "qs_pg:id":1315385,
         "wd:id":"Q475674"
     },
@@ -103,7 +102,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563290249,
+    "wof:lastmodified":1566656354,
     "wof:name":"Khao Yoi",
     "wof:parent_id":890466429,
     "wof:placetype":"locality",

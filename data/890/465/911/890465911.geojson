@@ -11,7 +11,7 @@
     "geom:longitude":100.131412,
     "gn:country":"TH",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"TH",
     "label:eng_x_preferred_longname":[
         "Phichai District"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":17.301882,
     "lbl:longitude":100.116655,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"UTTARADIT",
     "meso:diss_me":"PhichaiUTTARADIT",
     "meso:gadm_admin":"Phichai",
@@ -38,6 +40,7 @@
     "mps:longitude":100.116655,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ab\u09bf\u099a\u09bf"
     ],
@@ -68,9 +71,6 @@
     "name:tha_x_variant":[
         "\u0e1e\u0e34\u0e0a\u0e31\u0e22"
     ],
-    "name:unk_x_variant":[
-        "Amphoe Phichai"
-    ],
     "name:vie_x_preferred":[
         "Phichai"
     ],
@@ -85,9 +85,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"737",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -109,7 +109,7 @@
         "gn:id":1607727,
         "gp:id":28340926,
         "hasc:id":"TH.UD.PH",
-        "qs:id":1030539,
+        "qs_pg:id":1030539,
         "wd:id":"Q476401",
         "wk:page":"Phichai District"
     },
@@ -125,7 +125,7 @@
         }
     ],
     "wof:id":890465911,
-    "wof:lastmodified":1563298278,
+    "wof:lastmodified":1566663205,
     "wof:name":"Phichai",
     "wof:parent_id":85678657,
     "wof:placetype":"county",

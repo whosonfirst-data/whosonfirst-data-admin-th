@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001198,
-    "geom:area_square_m":14098084.61894,
+    "geom:area_square_m":14098084.618933,
     "geom:bbox":"103.739953221,17.828566687,103.791784112,17.8675552765",
     "geom:latitude":17.850627,
     "geom:longitude":103.763842,
@@ -14,10 +14,13 @@
     "iso:country":"TH",
     "lbl:latitude":17.853287,
     "lbl:longitude":103.757161,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":17.853287,
     "mps:longitude":103.757161,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kham Ta Kla"
     ],
@@ -26,9 +29,6 @@
     ],
     "name:tha_x_preferred":[
         "\u0e04\u0e33\u0e15\u0e32\u0e01\u0e25\u0e49\u0e32"
-    ],
-    "name:unk_x_variant":[
-        "Ban Kham Ta Kla"
     ],
     "qs:a0":"Thailand",
     "qs:a1":"*Sakon Nakhon",
@@ -47,7 +47,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -59,7 +59,6 @@
         "fct:id":"07cf2ca0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1610069,
         "gp:id":1225382,
-        "qs:id":1187805,
         "qs_pg:id":1187805
     },
     "wof:country":"TH",
@@ -77,7 +76,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1497299059,
+    "wof:lastmodified":1566656458,
     "wof:name":"Kham Ta Kla",
     "wof:parent_id":1108731351,
     "wof:placetype":"locality",

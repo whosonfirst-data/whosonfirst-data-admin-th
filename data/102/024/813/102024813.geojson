@@ -13,10 +13,13 @@
     "iso:country":"TH",
     "lbl:latitude":16.983248,
     "lbl:longitude":102.288208,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":16.983248,
     "mps:longitude":102.288208,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09b8\u09bf \u09ac\u09c1\u09a8 \u09b0\u09c1\u09af\u09bc\u09c7\u09af\u09bc\u09be\u0982"
     ],
@@ -47,7 +50,7 @@
     "name:tha_x_variant":[
         "\u0e28\u0e23\u0e35\u0e1a\u0e38\u0e0d\u0e40\u0e23\u0e37\u0e2d\u0e07"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Amphoe Si Bun Ruang"
     ],
     "name:urd_x_preferred":[
@@ -74,7 +77,7 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":211,
     "wof:belongsto":[
@@ -86,7 +89,7 @@
     "wof:concordances":{
         "gn:id":1606323,
         "gp:id":28341011,
-        "qs:id":245101,
+        "qs_pg:id":245101,
         "wd:id":"Q476686"
     },
     "wof:country":"TH",
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":102024813,
-    "wof:lastmodified":1563290285,
+    "wof:lastmodified":1566656379,
     "wof:name":"Si Bun Rueang",
     "wof:parent_id":85678871,
     "wof:placetype":"locality",

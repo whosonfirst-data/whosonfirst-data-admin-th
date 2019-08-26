@@ -11,7 +11,7 @@
     "geom:longitude":103.311875,
     "gn:country":"TH",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"TH",
     "label:eng_x_preferred_longname":[
         "Muang Maha Sarakham District"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":16.14403,
     "lbl:longitude":103.293023,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"MAHA SARAKHAM",
     "meso:diss_me":"Muang Maha SarakhamMAHA SARAKHAM",
     "meso:gadm_admin":"Muang Maha Sarakam",
@@ -38,6 +40,7 @@
     "mps:longitude":103.293023,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ae\u09c1\u09af\u09bc\u09c7\u0982 \u09ae\u09be\u09b9\u09be \u09b8\u09be\u09b0\u09be\u0996\u09be\u09ae"
     ],
@@ -73,7 +76,7 @@
     "name:tha_x_variant":[
         "\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e21\u0e2b\u0e32\u0e2a\u0e32\u0e23\u0e04\u0e32\u0e21"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Amphoe Muang Maha Sarakham"
     ],
     "name:urd_x_preferred":[
@@ -90,9 +93,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"557",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -114,7 +117,7 @@
         "gn:id":1608651,
         "gp:id":28341135,
         "hasc:id":"TH.MS.MS",
-        "qs:id":1151800,
+        "qs_pg:id":1151800,
         "wd:id":"Q476031",
         "wk:page":"Mueang Maha Sarakham District"
     },
@@ -130,7 +133,7 @@
         }
     ],
     "wof:id":890465665,
-    "wof:lastmodified":1563298276,
+    "wof:lastmodified":1566663204,
     "wof:name":"Muang Maha Sarakham",
     "wof:parent_id":85678835,
     "wof:placetype":"county",

@@ -11,12 +11,16 @@
     "geom:longitude":99.43971,
     "gn:country":"TH",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424960,
     "iso:country":"TH",
+    "lbl:bbox":"99.41971,15.21979,99.45971,15.25979",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Khauk Khwai"
     ],
     "qs:name":"Ban Rai",
@@ -40,7 +44,7 @@
     "wof:concordances":{
         "gn:id":1156994,
         "gp:id":1225896,
-        "qs:id":1096483
+        "qs_pg:id":1096483
     },
     "wof:country":"TH",
     "wof:created":1469053601,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":890466865,
-    "wof:lastmodified":1505343708,
+    "wof:lastmodified":1566663285,
     "wof:name":"Ban Rai",
     "wof:parent_id":85678689,
     "wof:placetype":"locality",

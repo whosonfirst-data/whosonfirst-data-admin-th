@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":8.128059,
     "lbl:longitude":100.146226,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"NAKHON SI THAMMARAT",
     "meso:diss_me":"Chian YaiNAKHON SI THAMMARAT",
     "meso:gadm_admin":"Chian Yai",
@@ -35,6 +37,7 @@
     "mps:longitude":100.146226,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u099a\u09bf\u09af\u09bc\u09be\u09a8 \u09af\u09bc\u09be\u0987"
     ],
@@ -72,9 +75,9 @@
         "Chian Yai"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"233",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":1108731241,
-    "wof:lastmodified":1563296561,
+    "wof:lastmodified":1566661767,
     "wof:name":"Chian Yai",
     "wof:parent_id":85678565,
     "wof:placetype":"county",

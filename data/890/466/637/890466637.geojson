@@ -11,7 +11,7 @@
     "geom:longitude":102.531442,
     "gn:country":"TH",
     "gn:fcode":"PPLA2",
-    "gn:pop":11819,
+    "gn:population":11819,
     "gp:adm0":23424960,
     "iso:country":"TH",
     "label:eng_x_preferred_longname":[
@@ -22,6 +22,8 @@
     ],
     "lbl:latitude":16.908809,
     "lbl:longitude":102.53437,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"NONG BUA LAMPHOO",
     "meso:diss_me":"Non SangNONG BUA LAMPHOO",
     "meso:gadm_admin":"Non Sang",
@@ -35,6 +37,7 @@
     "meso:source":"AOTM",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09a8\u09cb\u09a8 \u09b8\u09be\u0982"
     ],
@@ -62,9 +65,6 @@
     "name:tha_x_variant":[
         "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e42\u0e19\u0e19\u0e2a\u0e31\u0e07"
     ],
-    "name:unk_x_variant":[
-        "Amphoe Non Sang"
-    ],
     "name:urd_x_preferred":[
         "\u0646\u0648\u0646 \u0633\u0627\u0646\u06af \u0636\u0644\u0639"
     ],
@@ -83,9 +83,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"578",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -107,7 +107,7 @@
         "gn:id":1608139,
         "gp:id":28341015,
         "hasc:id":"TH.NB.NS",
-        "qs:id":956835,
+        "qs_pg:id":956835,
         "wd:id":"Q476229",
         "wk:page":"Non Sang District"
     },
@@ -123,7 +123,7 @@
         }
     ],
     "wof:id":890466637,
-    "wof:lastmodified":1563298438,
+    "wof:lastmodified":1566663285,
     "wof:name":"Non Sang",
     "wof:parent_id":85678871,
     "wof:placetype":"county",

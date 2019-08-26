@@ -11,11 +11,15 @@
     "geom:longitude":98.38557,
     "gn:country":"TH",
     "gn:fcode":"PPL",
-    "gn:pop":23381,
+    "gn:population":23381,
     "gp:adm0":23424960,
     "iso:country":"TH",
+    "lbl:bbox":"98.36557,7.86489,98.40557,7.90489",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:rus_x_preferred":[
         "\u0422\u0430\u043b\u0430\u0442-\u041d\u0443\u0430"
     ],
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":1117656,
         "gp:id":1221365,
-        "qs:id":428134
+        "qs_pg:id":428134
     },
     "wof:country":"TH",
     "wof:created":1469053619,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":890467193,
-    "wof:lastmodified":1505343709,
+    "wof:lastmodified":1566663211,
     "wof:name":"Ban Talat Nua",
     "wof:parent_id":85678567,
     "wof:placetype":"locality",

@@ -14,10 +14,13 @@
     "iso:country":"TH",
     "lbl:latitude":16.641455,
     "lbl:longitude":101.980591,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":16.641455,
     "mps:longitude":101.980591,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u099a\u09b9\u09c1\u09ae \u09ab\u09be\u09af\u09bc\u09c7"
     ],
@@ -68,7 +71,7 @@
     "qs:source":"Aquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -78,7 +81,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1611025,
-        "qs:id":1030586,
+        "qs_pg:id":1030586,
         "wd:id":"Q475426",
         "wk:page":"Chum Phae District"
     },
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":102025437,
-    "wof:lastmodified":1563290365,
+    "wof:lastmodified":1566656434,
     "wof:name":"Amphoe Chum Phae",
     "wof:parent_id":890467315,
     "wof:placetype":"locality",

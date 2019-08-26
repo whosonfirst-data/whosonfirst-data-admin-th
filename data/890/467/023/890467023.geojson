@@ -11,7 +11,7 @@
     "geom:longitude":103.076876,
     "gn:country":"TH",
     "gn:fcode":"PPLA2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424960,
     "iso:country":"TH",
     "label:eng_x_preferred_longname":[
@@ -22,6 +22,8 @@
     ],
     "lbl:latitude":17.528057,
     "lbl:longitude":103.075297,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"UDON THAN",
     "meso:diss_me":"PhibunrakUDON THAN",
     "meso:gadm_admin":"Phibun Rak",
@@ -39,6 +41,7 @@
     "mps:longitude":103.075297,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ab\u09bf\u09ac\u09c1\u09a8 \u09b0\u09be\u0995"
     ],
@@ -71,9 +74,6 @@
         "\u0e01\u0e34\u0e48\u0e07\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e1e\u0e34\u0e1a\u0e39\u0e25\u0e22\u0e4c\u0e23\u0e31\u0e01\u0e29\u0e4c",
         "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e1e\u0e34\u0e1a\u0e39\u0e25\u0e22\u0e4c\u0e23\u0e31\u0e01\u0e29\u0e4c"
     ],
-    "name:unk_x_variant":[
-        "Phibun Rak"
-    ],
     "name:vie_x_preferred":[
         "Phibun Rak"
     ],
@@ -90,9 +90,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"186",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -113,7 +113,7 @@
         "gn:id":7510982,
         "gp:id":28341019,
         "hasc:id":"TH.UN.PR",
-        "qs:id":1163688,
+        "qs_pg:id":1163688,
         "wd:id":"Q476399"
     },
     "wof:country":"TH",
@@ -128,7 +128,7 @@
         }
     ],
     "wof:id":890467023,
-    "wof:lastmodified":1561758882,
+    "wof:lastmodified":1566663212,
     "wof:name":"Phibunrak",
     "wof:parent_id":85678869,
     "wof:placetype":"county",

@@ -19,6 +19,8 @@
     ],
     "lbl:latitude":19.261584,
     "lbl:longitude":97.989266,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"MAE HONG SON",
     "meso:diss_me":"Muang Mae Hong SonMAE HONG SON",
     "meso:gadm_admin":"Muang Mae Hong Son",
@@ -36,6 +38,7 @@
     "mps:longitude":97.989266,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ae\u09c1\u09af\u09bc\u09c7\u0982 \u09ae\u09be\u09af\u09bc\u09c7 \u09b9\u09cb\u0982 \u09b8\u09cb\u09a8"
     ],
@@ -84,9 +87,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"2483",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -107,7 +110,7 @@
     "wof:concordances":{
         "gp:id":28340833,
         "hasc:id":"TH.MH.MH",
-        "qs:id":1154734,
+        "qs_pg:id":1154734,
         "wd:id":"Q476029",
         "wk:page":"Mueang Mae Hong Son District"
     },
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":890466979,
-    "wof:lastmodified":1563298393,
+    "wof:lastmodified":1566663263,
     "wof:name":"Muang Mae Hong Son",
     "wof:parent_id":85678555,
     "wof:placetype":"county",

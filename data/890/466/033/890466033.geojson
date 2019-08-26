@@ -19,6 +19,8 @@
     ],
     "lbl:latitude":15.314188,
     "lbl:longitude":104.846053,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"UBON RATCHATHANI",
     "meso:diss_me":"Muang Ubon RatchathaniUBON RATCHATHANI",
     "meso:gadm_admin":"Muang Ubon Ratchatani",
@@ -36,6 +38,7 @@
     "mps:longitude":104.846053,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ae\u09c1\u09af\u09bc\u09c7\u0982 \u0989\u09ac\u09cb\u09a8 \u09b0\u09be\u09a4\u099a\u09be\u09a5\u09be\u09a8\u09bf"
     ],
@@ -88,9 +91,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"406",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -111,7 +114,7 @@
     "wof:concordances":{
         "gp:id":28341238,
         "hasc:id":"TH.UR.UR",
-        "qs:id":1210747,
+        "qs_pg:id":1210747,
         "wd:id":"Q476105",
         "wk:page":"Mueang Ubon Ratchathani District"
     },
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":890466033,
-    "wof:lastmodified":1563298442,
+    "wof:lastmodified":1566663287,
     "wof:name":"Muang Ubon Ratchathani",
     "wof:parent_id":85678783,
     "wof:placetype":"county",

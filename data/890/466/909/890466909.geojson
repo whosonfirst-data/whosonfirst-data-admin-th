@@ -11,7 +11,7 @@
     "geom:longitude":98.314008,
     "gn:country":"TH",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424960,
     "iso:country":"TH",
     "label:eng_x_preferred_longname":[
@@ -22,6 +22,8 @@
     ],
     "lbl:latitude":7.9141,
     "lbl:longitude":98.326544,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"PHUKET",
     "meso:diss_me":"KathuPHUKET",
     "meso:gadm_admin":"Kathu",
@@ -39,6 +41,7 @@
     "mps:longitude":98.326544,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u0995\u09be\u09a5\u09c1"
     ],
@@ -75,9 +78,6 @@
     "name:tha_x_variant":[
         "\u0e01\u0e30\u0e17\u0e39\u0e49"
     ],
-    "name:unk_x_variant":[
-        "Amphoe Kathu"
-    ],
     "name:vie_x_preferred":[
         "Huy\u1ec7n Kathu"
     ],
@@ -99,9 +99,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"67",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -125,7 +125,7 @@
         "gn:id":1153034,
         "gp:id":28341617,
         "hasc:id":"TH.PU.KA",
-        "qs:id":1115396,
+        "qs_pg:id":1115396,
         "wd:id":"Q182516",
         "wk:page":"Kathu"
     },
@@ -141,7 +141,7 @@
         }
     ],
     "wof:id":890466909,
-    "wof:lastmodified":1563298341,
+    "wof:lastmodified":1566663238,
     "wof:name":"Kathu",
     "wof:parent_id":85678567,
     "wof:placetype":"county",

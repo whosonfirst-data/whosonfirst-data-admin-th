@@ -19,6 +19,8 @@
     ],
     "lbl:latitude":14.270152,
     "lbl:longitude":100.383773,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"PHRA NAKHON SI AYUTTHAYA",
     "meso:diss_me":"SenaPHRA NAKHON SI AYUTTHAYA",
     "meso:gadm_admin":"Sena",
@@ -32,6 +34,7 @@
     "meso:source":"AOTM",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09b8\u09c7\u09a8\u09be"
     ],
@@ -82,9 +85,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"206",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -104,7 +107,7 @@
     "wof:concordances":{
         "gp:id":28341530,
         "hasc:id":"TH.PA.SE",
-        "qs:id":1200895,
+        "qs_pg:id":1200895,
         "wd:id":"Q476680"
     },
     "wof:country":"TH",
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":890465935,
-    "wof:lastmodified":1563298269,
+    "wof:lastmodified":1566663199,
     "wof:name":"Sena",
     "wof:parent_id":85678721,
     "wof:placetype":"county",

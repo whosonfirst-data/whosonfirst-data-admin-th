@@ -11,10 +11,14 @@
     "geom:longitude":103.22472,
     "gn:country":"TH",
     "gn:fcode":"PPL",
-    "gn:pop":21722,
+    "gn:population":21722,
     "iso:country":"TH",
+    "lbl:bbox":"103.20472,17.2475,103.24472,17.2875",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "qs:name":"Ban Nong Wua So",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -28,7 +32,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1599640,
-        "qs:id":85375
+        "qs_pg:id":85375
     },
     "wof:country":"TH",
     "wof:created":1469053610,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":890467049,
-    "wof:lastmodified":1505343709,
+    "wof:lastmodified":1566663216,
     "wof:name":"Ban Nong Wua So",
     "wof:parent_id":85678869,
     "wof:placetype":"locality",

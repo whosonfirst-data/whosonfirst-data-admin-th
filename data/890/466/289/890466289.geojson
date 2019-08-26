@@ -11,7 +11,7 @@
     "geom:longitude":104.923963,
     "gn:country":"TH",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"TH",
     "label:eng_x_preferred_longname":[
         "Warin Chamrap District"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":15.135903,
     "lbl:longitude":104.902763,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"UBON RATCHATHANI",
     "meso:diss_me":"Warin ChamrapUBON RATCHATHANI",
     "meso:gadm_admin":"Warin Chamrap",
@@ -38,6 +40,7 @@
     "mps:longitude":104.902763,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09f1\u09be\u09b0\u09bf\u09a8 \u099a\u09be\u09ae\u09b0\u09be\u09b0"
     ],
@@ -68,9 +71,6 @@
     "name:tha_x_variant":[
         "\u0e27\u0e32\u0e23\u0e34\u0e19\u0e0a\u0e33\u0e23\u0e32\u0e1a"
     ],
-    "name:unk_x_variant":[
-        "Amphoe Warin Chamrap"
-    ],
     "name:vie_x_preferred":[
         "Warin Chamrap"
     ],
@@ -82,9 +82,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"691",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -106,7 +106,7 @@
         "gn:id":1605068,
         "gp:id":28341233,
         "hasc:id":"TH.UR.WC",
-        "qs:id":1026894,
+        "qs_pg:id":1026894,
         "wd:id":"Q477043",
         "wk:page":"Warin Chamrap District"
     },
@@ -122,7 +122,7 @@
         }
     ],
     "wof:id":890466289,
-    "wof:lastmodified":1563298364,
+    "wof:lastmodified":1566663250,
     "wof:name":"Warin Chamrap",
     "wof:parent_id":85678783,
     "wof:placetype":"county",

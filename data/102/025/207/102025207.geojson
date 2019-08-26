@@ -14,10 +14,13 @@
     "iso:country":"TH",
     "lbl:latitude":13.80074,
     "lbl:longitude":100.710371,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":13.80074,
     "mps:longitude":100.710371,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0646\u0637\u0642\u0629 \u0645\u064a\u0646 \u0628\u0648\u0631\u064a"
     ],
@@ -66,7 +69,7 @@
     "name:tha_x_variant":[
         "\u0e21\u0e35\u0e19\u0e1a\u0e38\u0e23\u0e35"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Amphoe Min Buri"
     ],
     "name:urd_x_preferred":[
@@ -96,7 +99,7 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":402,
     "wof:belongsto":[
         102191569,
@@ -108,7 +111,7 @@
     "wof:concordances":{
         "gn:id":1608718,
         "gp:id":28341406,
-        "qs:id":1277054,
+        "qs_pg:id":1277054,
         "wd:id":"Q1936178"
     },
     "wof:country":"TH",
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":102025207,
-    "wof:lastmodified":1563290430,
+    "wof:lastmodified":1566656475,
     "wof:name":"Min Buri",
     "wof:parent_id":890466367,
     "wof:placetype":"locality",

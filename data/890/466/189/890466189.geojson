@@ -11,7 +11,7 @@
     "geom:longitude":99.374344,
     "gn:country":"TH",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"TH",
     "label:eng_x_preferred_longname":[
         "Thung Yai District"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":8.298026,
     "lbl:longitude":99.404079,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"NAKHON SI THAMMARAT",
     "meso:diss_me":"Thung YaiNAKHON SI THAMMARAT",
     "meso:gadm_admin":"Thung Yai",
@@ -38,6 +40,7 @@
     "mps:longitude":99.404079,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09a5\u09c1\u0982 \u09af\u09bc\u09be\u0987"
     ],
@@ -68,7 +71,7 @@
     "name:tha_x_variant":[
         "\u0e17\u0e38\u0e48\u0e07\u0e43\u0e2b\u0e0d\u0e48"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Amphoe Tha Yang"
     ],
     "name:urd_x_preferred":[
@@ -85,9 +88,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"603",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -109,7 +112,7 @@
         "gn:id":1150075,
         "gp:id":28341640,
         "hasc:id":"TH.NT.TY",
-        "qs:id":370255,
+        "qs_pg:id":370255,
         "wd:id":"Q476958",
         "wk:page":"Thung Yai District"
     },
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":890466189,
-    "wof:lastmodified":1563298396,
+    "wof:lastmodified":1566663264,
     "wof:name":"Thung Yai",
     "wof:parent_id":85678565,
     "wof:placetype":"county",

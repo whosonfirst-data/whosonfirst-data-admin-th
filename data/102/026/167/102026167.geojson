@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000262,
-    "geom:area_square_m":3129698.623923,
+    "geom:area_square_m":3129698.623921,
     "geom:bbox":"101.49888076,15.1108234503,101.517476591,15.1288882924",
     "geom:latitude":15.119856,
     "geom:longitude":101.508179,
@@ -14,9 +14,13 @@
     "iso:country":"TH",
     "lbl:latitude":15.119856,
     "lbl:longitude":101.508179,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":15.119856,
     "mps:longitude":101.508179,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:tha_x_preferred":[
         "Huai Bong"
     ],
@@ -34,7 +38,7 @@
     "qs:source":"Aquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":102026167,
-    "wof:lastmodified":1501273418,
+    "wof:lastmodified":1566656494,
     "wof:name":"Huai Bong",
     "wof:parent_id":890466375,
     "wof:placetype":"locality",

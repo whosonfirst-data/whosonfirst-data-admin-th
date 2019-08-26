@@ -11,11 +11,15 @@
     "geom:longitude":97.97928,
     "gn:country":"TH",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424960,
     "iso:country":"TH",
+    "lbl:bbox":"97.95928,19.18931,97.99928,19.22931",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Pha Bong"
     ],
@@ -31,7 +35,7 @@
     "name:tha_x_variant":[
         "\u0e15\u0e33\u0e1a\u0e25\u0e1c\u0e32\u0e1a\u0e48\u0e2d\u0e07"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ban Pabong"
     ],
     "qs:name":"Pha Bong",
@@ -56,7 +60,7 @@
     "wof:concordances":{
         "gn:id":1155252,
         "gp:id":55946805,
-        "qs:id":266213,
+        "qs_pg:id":266213,
         "wd:id":"Q2084676",
         "wk:page":"Pha Bong"
     },
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":890465627,
-    "wof:lastmodified":1563298252,
+    "wof:lastmodified":1566663190,
     "wof:name":"Pha Bong",
     "wof:parent_id":85678555,
     "wof:placetype":"locality",

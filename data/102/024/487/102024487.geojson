@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003036,
-    "geom:area_square_m":36820594.454419,
+    "geom:area_square_m":36820594.454411,
     "geom:bbox":"99.4555637726,11.1208536103,99.5727625055,11.354454272",
     "geom:latitude":11.240315,
     "geom:longitude":99.525815,
@@ -13,10 +13,13 @@
     "iso:country":"TH",
     "lbl:latitude":11.216069,
     "lbl:longitude":99.508469,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":11.216069,
     "mps:longitude":99.508469,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:eng_x_preferred":[
         "Bang Saphan"
     ],
@@ -25,9 +28,6 @@
         "Ban Bang Saphan Yai",
         "Bang Saphan Yai",
         "Bangsabhan"
-    ],
-    "name:unk_x_variant":[
-        "Amphu Bangspan"
     ],
     "qs:a0":"Thailand",
     "qs:a1":"*Prachuap Khiri Khan",
@@ -46,7 +46,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +59,6 @@
         "fct:id":"07cec620-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1157662,
         "gp:id":55947296,
-        "qs:id":276010,
         "qs_pg:id":276010
     },
     "wof:country":"TH",
@@ -77,7 +76,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1505338981,
+    "wof:lastmodified":1566656378,
     "wof:name":"Bang Saphan",
     "wof:parent_id":890466329,
     "wof:placetype":"locality",

@@ -11,11 +11,15 @@
     "geom:longitude":100.02278,
     "gn:country":"TH",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424960,
     "iso:country":"TH",
+    "lbl:bbox":"100.00278,9.67989,100.04278,9.71989",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:tha_x_preferred":[
         "\u0e1a\u0e49\u0e32\u0e19\u0e43\u0e15\u0e49"
     ],
@@ -38,7 +42,7 @@
     "wof:concordances":{
         "gn:id":1598023,
         "gp:id":1221213,
-        "qs:id":1220538
+        "qs_pg:id":1220538
     },
     "wof:country":"TH",
     "wof:created":1469053563,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":890466049,
-    "wof:lastmodified":1505343706,
+    "wof:lastmodified":1566663253,
     "wof:name":"Ban Tai",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

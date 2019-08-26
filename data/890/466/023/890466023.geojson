@@ -19,6 +19,8 @@
     ],
     "lbl:latitude":16.433336,
     "lbl:longitude":99.497868,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"KAMPHAENG PHET",
     "meso:diss_me":"Muang Kamphaeng PhetKAMPHAENG PHET",
     "meso:gadm_admin":"Mueang Kamphaeng Phet",
@@ -36,6 +38,7 @@
     "mps:longitude":99.497868,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ae\u09c1\u09af\u09bc\u09c7\u0982 \u0995\u09be\u09ae\u09ab\u09be\u09af\u09bc\u09c7\u0982 \u09ab\u09c7\u09a4"
     ],
@@ -90,9 +93,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"1962",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -113,7 +116,7 @@
     "wof:concordances":{
         "gp:id":28340948,
         "hasc:id":"TH.KP.KP",
-        "qs:id":1210555,
+        "qs_pg:id":1210555,
         "wd:id":"Q476019",
         "wk:page":"Mueang Kamphaeng Phet District"
     },
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":890466023,
-    "wof:lastmodified":1563298358,
+    "wof:lastmodified":1566663247,
     "wof:name":"Muang Kamphaeng Phet",
     "wof:parent_id":85678665,
     "wof:placetype":"county",

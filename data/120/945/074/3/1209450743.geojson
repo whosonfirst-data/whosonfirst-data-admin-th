@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Bangkok",
     "iso:country":"TH",
+    "lbl:bbox":"101.46333,14.04667,101.50333,14.08667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632293
@@ -34,7 +38,7 @@
         "gn:id":1617399
     },
     "wof:country":"TH",
-    "wof:geomhash":"2e9f0c4d0c32e495b3d0b0bc381df9c8",
+    "wof:geomhash":"f52fffce6596fe22b48c9c9ea1dcbcb1",
     "wof:hierarchy":[
         {
             "country_id":85632293,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209450743,
-    "wof:lastmodified":1536286680,
+    "wof:lastmodified":1566660759,
     "wof:name":"Ban Ko Yai I",
     "wof:parent_id":85632293,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     101.48333,
-    14.066670000000002,
+    14.06667,
     101.48333,
-    14.066670000000002
+    14.06667
 ],
   "geometry": {"coordinates":[101.48333,14.06667],"type":"Point"}
 }

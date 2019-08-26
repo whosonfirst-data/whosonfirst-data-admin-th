@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000255,
+    "geom:area_square_m":3130099.495528,
     "geom:bbox":"101.817753239,6.23528071872,101.835811144,6.25335103656",
     "geom:latitude":6.244316,
     "geom:longitude":101.826782,
@@ -13,9 +14,13 @@
     "iso:country":"TH",
     "lbl:latitude":6.244316,
     "lbl:longitude":101.826782,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":6.244316,
     "mps:longitude":101.826782,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kampong Chaerong"
     ],
@@ -27,9 +32,6 @@
     ],
     "name:tha_x_variant":[
         "\u0e40\u0e08\u0e32\u0e30\u0e44\u0e2d\u0e23\u0e49\u0e2d\u0e07"
-    ],
-    "name:unk_x_variant":[
-        "Kampong Chae Raung"
     ],
     "qs:a0":"Thailand",
     "qs:a1":"*Narathiwat",
@@ -46,7 +48,7 @@
     "qs:type":"Town",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -57,7 +59,7 @@
         "fct:id":"07cf2b10-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1610393,
         "gp:id":28341719,
-        "qs:id":206858
+        "qs_pg:id":206858
     },
     "wof:country":"TH",
     "wof:geomhash":"edc208820a96d6e3985dbdecc0c23c16",
@@ -73,7 +75,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1501221057,
+    "wof:lastmodified":1566656490,
     "wof:name":"Cho-airong",
     "wof:parent_id":85678885,
     "wof:placetype":"locality",

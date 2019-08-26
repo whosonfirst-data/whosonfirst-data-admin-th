@@ -11,11 +11,15 @@
     "geom:longitude":99.93442,
     "gn:country":"TH",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424960,
     "iso:country":"TH",
+    "lbl:bbox":"99.91442,12.56208,99.95442,12.60208",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09a5\u09be \u09a4\u09be\u0995\u09cb"
     ],
@@ -35,7 +39,7 @@
         "\u0e40\u0e02\u0e32\u0e19\u0e49\u0e2d\u0e22",
         "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e17\u0e48\u0e32\u0e15\u0e30\u0e42\u0e01"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Khao Noi"
     ],
     "name:urd_x_preferred":[
@@ -64,7 +68,7 @@
     "wof:concordances":{
         "gn:id":1157169,
         "gp:id":1206171,
-        "qs:id":344191,
+        "qs_pg:id":344191,
         "wk:page":"Tha Tako District"
     },
     "wof:country":"TH",
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":890466137,
-    "wof:lastmodified":1564109683,
+    "wof:lastmodified":1566663275,
     "wof:name":"Ban Khao Noi",
     "wof:parent_id":85678757,
     "wof:placetype":"locality",

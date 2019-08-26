@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000265,
+    "geom:area_square_m":3133875.8598,
     "geom:bbox":"104.025652851,16.7481693431,104.044415537,16.7662462901",
     "geom:latitude":16.757208,
     "geom:longitude":104.035034,
@@ -13,9 +14,13 @@
     "iso:country":"TH",
     "lbl:latitude":16.757208,
     "lbl:longitude":104.035034,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":16.757208,
     "mps:longitude":104.035034,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ban Na Khu"
     ],
@@ -24,9 +29,6 @@
     ],
     "name:tha_x_preferred":[
         "\u0e19\u0e32\u0e04\u0e39"
-    ],
-    "name:unk_x_variant":[
-        "Ban Na Khu"
     ],
     "qs:a0":"Thailand",
     "qs:a1":"*Kalasin",
@@ -43,7 +45,7 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -54,7 +56,7 @@
         "fct:id":"07ced462-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1616379,
         "gp:id":28341145,
-        "qs:id":1187327
+        "qs_pg:id":1187327
     },
     "wof:country":"TH",
     "wof:geomhash":"7bbde618fe6c49b7d51d31bc812316a1",
@@ -70,7 +72,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1501221068,
+    "wof:lastmodified":1566656480,
     "wof:name":"Na Khu",
     "wof:parent_id":85678831,
     "wof:placetype":"locality",

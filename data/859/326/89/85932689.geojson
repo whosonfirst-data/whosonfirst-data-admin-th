@@ -13,6 +13,7 @@
     "iso:country":"TH",
     "lbl:latitude":13.738991,
     "lbl:longitude":100.504803,
+    "lbl:max_zoom":18.0,
     "mps:latitude":13.737708,
     "mps:longitude":100.504525,
     "mz:hierarchy_label":1,
@@ -25,9 +26,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":5,
     "name:eng_x_preferred":[
-        "Chakkaphat"
-    ],
-    "name:unk_x_variant":[
         "Chakkaphat"
     ],
     "qs:gn_adm0_cc":"TH",
@@ -57,7 +55,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85678739,
         102191569,
@@ -70,7 +68,6 @@
     ],
     "wof:concordances":{
         "gp:id":55948137,
-        "qs:id":1316636,
         "qs_pg:id":1316636
     },
     "wof:country":"TH",
@@ -89,7 +86,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527269352,
+    "wof:lastmodified":1566657696,
     "wof:name":"Chakkaphat",
     "wof:parent_id":102025263,
     "wof:placetype":"neighbourhood",

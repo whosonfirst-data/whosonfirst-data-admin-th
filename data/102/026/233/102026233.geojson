@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002549,
+    "geom:area_square_m":30877709.512167,
     "geom:bbox":"102.520740713,11.5840150272,102.583016956,11.690859735",
     "geom:latitude":11.630417,
     "geom:longitude":102.542841,
@@ -13,13 +14,17 @@
     "iso:country":"TH",
     "lbl:latitude":11.62589,
     "lbl:longitude":102.540721,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":11.62589,
     "mps:longitude":102.540721,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:tha_x_preferred":[
         "\u0e40\u0e01\u0e32\u0e30\u0e01\u0e39\u0e14"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "King Amphoe Ko Kut"
     ],
     "qs:a0":"Thailand",
@@ -37,8 +42,7 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85632293
     ],
@@ -46,7 +50,7 @@
     "wof:concordances":{
         "gn:id":8355831,
         "gp:id":28341378,
-        "qs:id":1113819
+        "qs_pg:id":1113819
     },
     "wof:country":"TH",
     "wof:geomhash":"88daedba46f0d7ee5c568e80d15c74bc",
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":102026233,
-    "wof:lastmodified":1501273472,
+    "wof:lastmodified":1566656500,
     "wof:name":"Ko Kut",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

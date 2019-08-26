@@ -11,8 +11,12 @@
     "geom:longitude":98.50811,
     "gp:adm0":23424960,
     "iso:country":"TH",
+    "lbl:bbox":"98.48811,8.373242,98.52811,8.413242",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Ban Ko Panyi"
     ],
@@ -56,7 +60,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55946950,
-        "qs:id":476689,
+        "qs_pg:id":476689,
         "wd:id":"Q6424164",
         "wk:page":"Ko Panyi"
     },
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":890466569,
-    "wof:lastmodified":1563298342,
+    "wof:lastmodified":1566663239,
     "wof:name":"Ko Panyi",
     "wof:parent_id":85678573,
     "wof:placetype":"locality",

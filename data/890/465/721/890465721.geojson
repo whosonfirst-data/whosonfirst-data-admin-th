@@ -11,10 +11,14 @@
     "geom:longitude":97.68665,
     "gn:country":"TH",
     "gn:fcode":"ADM3",
-    "gn:pop":2485,
+    "gn:population":2485,
     "iso:country":"TH",
+    "lbl:bbox":"97.58665,18.26137,97.78665,18.46137",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Sao Hin"
     ],
@@ -36,7 +40,7 @@
     "name:tha_x_variant":[
         "\u0e15\u0e33\u0e1a\u0e25\u0e40\u0e2a\u0e32\u0e2b\u0e34\u0e19"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tambon Sao Hin"
     ],
     "qs:name":"Sao Hin",
@@ -53,7 +57,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7302489,
-        "qs:id":107145,
+        "qs_pg:id":107145,
         "wd:id":"Q7420840",
         "wk:page":"Sao Hin"
     },
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":890465721,
-    "wof:lastmodified":1563298280,
+    "wof:lastmodified":1566663205,
     "wof:name":"Sao Hin",
     "wof:parent_id":85678555,
     "wof:placetype":"localadmin",

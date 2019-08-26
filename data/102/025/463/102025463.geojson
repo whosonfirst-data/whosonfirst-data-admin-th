@@ -15,10 +15,13 @@
     "iso:country":"TH",
     "lbl:latitude":17.910804,
     "lbl:longitude":101.695057,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":17.910804,
     "mps:longitude":101.695057,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u099a\u09bf\u09af\u09bc\u09be\u0982 \u0996\u09be\u09a8"
     ],
@@ -55,7 +58,7 @@
     "name:tha_x_variant":[
         "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e40\u0e0a\u0e35\u0e22\u0e07\u0e04\u0e32\u0e19"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Muang Chieng Kan"
     ],
     "name:urd_x_preferred":[
@@ -90,7 +93,7 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":109,
     "wof:belongsto":[
         102191569,
@@ -103,7 +106,7 @@
         "fct:id":"07cf25b6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1611200,
         "gp:id":1225130,
-        "qs:id":264060,
+        "qs_pg:id":264060,
         "wd:id":"Q475387",
         "wk:page":"Chiang Khan District"
     },
@@ -122,7 +125,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563290366,
+    "wof:lastmodified":1566656435,
     "wof:name":"Chiang Khan",
     "wof:parent_id":1108802593,
     "wof:placetype":"locality",

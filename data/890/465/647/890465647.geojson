@@ -19,6 +19,8 @@
     ],
     "lbl:latitude":14.908513,
     "lbl:longitude":100.383811,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"SING BURI",
     "meso:diss_me":"Muang Sing BuriSING BURI",
     "meso:gadm_admin":"Muang Sing Buri",
@@ -36,6 +38,7 @@
     "mps:longitude":100.383811,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ae\u09c1\u09af\u09bc\u09c7\u0982 \u09b8\u09bf\u0982 \u09ac\u09c1\u09b0\u09bf"
     ],
@@ -87,9 +90,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"112",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -110,7 +113,7 @@
     "wof:concordances":{
         "gp:id":28341480,
         "hasc:id":"TH.SB.SB",
-        "qs:id":268790,
+        "qs_pg:id":268790,
         "wd:id":"Q476089",
         "wk:page":"Mueang Sing Buri District"
     },
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":890465647,
-    "wof:lastmodified":1563298271,
+    "wof:lastmodified":1566663200,
     "wof:name":"Muang Sing Buri",
     "wof:parent_id":85678729,
     "wof:placetype":"county",

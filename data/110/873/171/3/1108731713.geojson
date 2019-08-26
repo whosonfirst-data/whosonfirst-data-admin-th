@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.751896,
     "lbl:longitude":101.403869,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"CHAOHOENGSAO",
     "meso:diss_me":"Phanom SarakhamCHAOHOENGSAO",
     "meso:gadm_admin":"Phanom Sarakham",
@@ -35,6 +37,7 @@
     "mps:longitude":101.403869,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bjn_x_preferred":[
         "Amphoe Phanom Sarakham"
     ],
@@ -78,9 +81,9 @@
         "\u5e15\u8fb2\u6c99\u62c9\u582a\u7e23"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"550",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":1108731713,
-    "wof:lastmodified":1563296591,
+    "wof:lastmodified":1566661783,
     "wof:name":"Phanom Sarakham",
     "wof:parent_id":85678797,
     "wof:placetype":"county",

@@ -13,10 +13,13 @@
     "iso:country":"TH",
     "lbl:latitude":16.557227,
     "lbl:longitude":99.805298,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":16.557227,
     "mps:longitude":99.805298,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09b2\u09be\u09a8 \u0995\u09cd\u09b0\u09be\u09ac\u09c1\u09af\u09bc\u09c7"
     ],
@@ -52,9 +55,6 @@
     "name:tha_x_variant":[
         "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e25\u0e32\u0e19\u0e01\u0e23\u0e30\u0e1a\u0e37\u0e2d"
     ],
-    "name:unk_x_variant":[
-        "\u0e25\u0e32\u0e19\u0e01\u0e23\u0e30\u0e1a\u0e37\u0e2d"
-    ],
     "name:urd_x_preferred":[
         "\u0644\u0627\u0646 \u06a9\u0631\u0627\u0628\u0648\u0626\u06cc \u0636\u0644\u0639"
     ],
@@ -72,7 +72,7 @@
     "qs:source":"Aquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":240,
     "wof:belongsto":[
@@ -86,7 +86,6 @@
         "fct:id":"07cfaaf4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1152423,
         "gp:id":1226329,
-        "qs:id":370289,
         "qs_pg:id":370289,
         "wd:id":"Q475886",
         "wk:page":"Srocko"
@@ -105,7 +104,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563296595,
+    "wof:lastmodified":1566661785,
     "wof:name":"Lan Krabue",
     "wof:parent_id":85678665,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000898,
-    "geom:area_square_m":10778488.747406,
+    "geom:area_square_m":10778488.747388,
     "geom:bbox":"100.581913529,13.8187241429,100.621032715,13.8603971989",
     "geom:latitude":13.840406,
     "geom:longitude":100.602378,
@@ -13,6 +13,7 @@
     "iso:country":"TH",
     "lbl:latitude":13.833407,
     "lbl:longitude":100.59599,
+    "lbl:max_zoom":18.0,
     "mps:latitude":13.839857,
     "mps:longitude":100.601049,
     "mz:hierarchy_label":1,
@@ -25,9 +26,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":5,
     "name:eng_x_preferred":[
-        "Charakhe Bua"
-    ],
-    "name:unk_x_variant":[
         "Charakhe Bua"
     ],
     "qs:gn_adm0_cc":"TH",
@@ -57,7 +55,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85678739,
         102191569,
@@ -68,7 +66,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55948142,
-        "qs:id":383485,
         "qs_pg:id":383485
     },
     "wof:country":"TH",
@@ -87,7 +84,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527269311,
+    "wof:lastmodified":1566657694,
     "wof:name":"Charakhe Bua",
     "wof:parent_id":102025263,
     "wof:placetype":"neighbourhood",

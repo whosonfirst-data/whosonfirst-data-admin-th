@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Bangkok",
     "iso:country":"TH",
+    "lbl:bbox":"101.51426,6.53968,101.55426,6.57968",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:tha_x_preferred":[
         "\u0e01\u0e30\u0e1e\u0e49\u0e2d"
     ],
@@ -40,7 +44,6 @@
         "Ban Kalabhoh",
         "Ban Kalapho",
         "Kapho",
-        "\u0e01\u0e30\u0e1e\u0e49\u0e2d",
         "King Amphoe Kapho"
     ],
     "src:geom":"geonames",
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":1343578161,
-    "wof:lastmodified":1537704141,
+    "wof:lastmodified":1566657179,
     "wof:name":"Kapho",
     "wof:parent_id":1108731301,
     "wof:placetype":"locality",

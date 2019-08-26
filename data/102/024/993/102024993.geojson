@@ -12,10 +12,13 @@
     "iso:country":"TH",
     "lbl:latitude":17.994407,
     "lbl:longitude":103.123169,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":17.994407,
     "mps:longitude":103.123169,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ab\u09cb\u09a8 \u09ab\u09bf\u09b8\u09be\u0987"
     ],
@@ -43,7 +46,7 @@
     "name:tha_x_variant":[
         "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e42\u0e1e\u0e19\u0e1e\u0e34\u0e2a\u0e31\u0e22"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chumphon"
     ],
     "name:urd_x_preferred":[
@@ -67,7 +70,7 @@
     "qs:type":"Town",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -79,7 +82,7 @@
         "fct:id":"07d2bbc2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1607606,
         "gp:id":28341047,
-        "qs:id":1204819,
+        "qs_pg:id":1204819,
         "wd:id":"Q476423",
         "wk:page":"Phon Phisai District"
     },
@@ -98,7 +101,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563290260,
+    "wof:lastmodified":1566656361,
     "wof:name":"Phon Phisai",
     "wof:parent_id":890465905,
     "wof:placetype":"locality",

@@ -11,7 +11,7 @@
     "geom:longitude":100.669586,
     "gn:country":"TH",
     "gn:fcode":"ADM2",
-    "gn:pop":135000,
+    "gn:population":135000,
     "gp:adm0":23424960,
     "iso:country":"TH",
     "label:eng_x_preferred_longname":[
@@ -22,6 +22,8 @@
     ],
     "lbl:latitude":13.703627,
     "lbl:longitude":100.675402,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"KRUNG THEP",
     "meso:diss_me":"PrawetKRUNG THEP",
     "meso:gadm_admin":"Prawet",
@@ -39,6 +41,7 @@
     "mps:longitude":100.675402,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0645\u0646\u0637\u0642\u0629 \u0628\u0631\u0648\u064a\u062a"
     ],
@@ -99,9 +102,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"53",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -123,7 +126,7 @@
         "gn:id":6908736,
         "gp:id":28341392,
         "hasc:id":"TH.BM.PR",
-        "qs:id":1151989,
+        "qs_pg:id":1151989,
         "wd:id":"Q1019626",
         "wk:page":"Prawet District"
     },
@@ -139,7 +142,7 @@
         }
     ],
     "wof:id":890466971,
-    "wof:lastmodified":1563298401,
+    "wof:lastmodified":1566663266,
     "wof:name":"Prawet",
     "wof:parent_id":85678739,
     "wof:placetype":"county",

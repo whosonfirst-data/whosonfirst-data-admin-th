@@ -16,6 +16,8 @@
     "iso:country":"TH",
     "lbl:latitude":6.422195,
     "lbl:longitude":101.819384,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":6.422195,
     "mps:longitude":101.819384,
     "mz:hierarchy_label":1,
@@ -72,7 +74,7 @@
     "name:tha_x_variant":[
         "\u0e19\u0e23\u0e32\u0e18\u0e34\u0e27\u0e32\u0e2a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bang Nara"
     ],
     "name:urd_x_preferred":[
@@ -204,7 +206,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":278,
     "wof:belongsto":[
@@ -217,10 +219,12 @@
     "wof:concordances":{
         "gn:id":1608409,
         "gp:id":1226064,
-        "qs:id":399786,
-        "qs_pg:id":1032043,
+        "qs_pg:id":399786,
         "wd:id":"Q535747",
         "wk:page":"Narathiwat"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1032043
     },
     "wof:country":"TH",
     "wof:geomhash":"09b5baa74b7e4b94cfcd2cfd9c3e1469",
@@ -234,7 +238,7 @@
         }
     ],
     "wof:id":102025155,
-    "wof:lastmodified":1563290407,
+    "wof:lastmodified":1566656459,
     "wof:name":"Narathiwat",
     "wof:parent_id":890465659,
     "wof:placetype":"locality",

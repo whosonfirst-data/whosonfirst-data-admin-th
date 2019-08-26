@@ -12,10 +12,13 @@
     "iso:country":"TH",
     "lbl:latitude":18.849112,
     "lbl:longitude":98.827515,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":18.849112,
     "mps:longitude":98.827515,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Pong Yaeng"
     ],
@@ -31,7 +34,7 @@
     "name:tha_x_variant":[
         "\u0e1a\u0e49\u0e32\u0e19\u0e42\u0e1b\u0e48\u0e07\u0e41\u0e22\u0e07\u0e43\u0e19"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "B\u0101n Paung Yeang"
     ],
     "qs:a0":"Thailand",
@@ -51,7 +54,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -62,7 +65,6 @@
     "wof:concordances":{
         "gn:id":1155089,
         "gp:id":1218711,
-        "qs:id":7305,
         "qs_pg:id":7305,
         "wd:id":"Q7227783",
         "wk:page":"Pong Yaeng"
@@ -79,7 +81,7 @@
         }
     ],
     "wof:id":102024433,
-    "wof:lastmodified":1563290297,
+    "wof:lastmodified":1566656388,
     "wof:name":"Ban Pong Yaeng Nai",
     "wof:parent_id":890467181,
     "wof:placetype":"locality",

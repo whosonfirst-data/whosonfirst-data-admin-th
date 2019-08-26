@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000439,
-    "geom:area_square_m":5287336.740315,
+    "geom:area_square_m":5287336.740319,
     "geom:bbox":"101.409010993,13.0864951245,101.429504888,13.1139271101",
     "geom:latitude":13.100251,
     "geom:longitude":101.419491,
@@ -14,10 +14,13 @@
     "iso:country":"TH",
     "lbl:latitude":13.100223,
     "lbl:longitude":101.419491,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":13.100223,
     "mps:longitude":101.419491,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:tha_x_preferred":[
         "\u0e04\u0e25\u0e2d\u0e07\u0e1e\u0e25\u0e39"
     ],
@@ -32,7 +35,7 @@
     "qs:source":"Aquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":102026207,
-    "wof:lastmodified":1501273462,
+    "wof:lastmodified":1566656507,
     "wof:name":"Khlong Phlu",
     "wof:parent_id":1108802711,
     "wof:placetype":"locality",

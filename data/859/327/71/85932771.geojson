@@ -5,13 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001544,
-    "geom:area_square_m":18542814.977271,
+    "geom:area_square_m":18542814.977272,
     "geom:bbox":"100.396799316,13.6706819152,100.447292114,13.7260445971",
     "geom:latitude":13.700557,
     "geom:longitude":100.421833,
     "iso:country":"TH",
     "lbl:latitude":13.7104,
     "lbl:longitude":100.438139,
+    "lbl:max_zoom":18.0,
     "mps:latitude":13.700321,
     "mps:longitude":100.419345,
     "mz:hierarchy_label":1,
@@ -24,9 +25,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":5,
     "name:eng_x_preferred":[
-        "Bang Wa"
-    ],
-    "name:unk_x_variant":[
         "Bang Wa"
     ],
     "qs:gn_adm0_cc":"TH",
@@ -55,7 +53,7 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85678739,
         102191569,
@@ -83,7 +81,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527269311,
+    "wof:lastmodified":1566657694,
     "wof:name":"Bang Wa",
     "wof:parent_id":102025029,
     "wof:placetype":"neighbourhood",

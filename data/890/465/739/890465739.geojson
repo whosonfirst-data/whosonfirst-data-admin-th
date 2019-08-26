@@ -11,7 +11,7 @@
     "geom:longitude":99.997204,
     "gn:country":"TH",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"TH",
     "label:eng_x_preferred_longname":[
         "Song Phi Nong District"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":14.219168,
     "lbl:longitude":100.041221,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"SUPHAN BURI",
     "meso:diss_me":"Song Phi NongSUPHAN BURI",
     "meso:gadm_admin":"Song Phi Nong",
@@ -38,6 +40,7 @@
     "mps:longitude":100.041221,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09b8\u09cb\u0982 \u09ab\u09bf \u09a8\u09cb\u0982"
     ],
@@ -65,9 +68,6 @@
     "name:tha_x_variant":[
         "\u0e2a\u0e2d\u0e07\u0e1e\u0e35\u0e48\u0e19\u0e49\u0e2d\u0e07"
     ],
-    "name:unk_x_variant":[
-        "Amphoe Song Phi Nong"
-    ],
     "name:vie_x_preferred":[
         "Song Phi Nong"
     ],
@@ -79,9 +79,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"750",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -103,7 +103,7 @@
         "gn:id":1606138,
         "gp:id":28341471,
         "hasc:id":"TH.SH.SN",
-        "qs:id":370801,
+        "qs_pg:id":370801,
         "wd:id":"Q476763",
         "wk:page":"Song Phi Nong District"
     },
@@ -119,7 +119,7 @@
         }
     ],
     "wof:id":890465739,
-    "wof:lastmodified":1563298244,
+    "wof:lastmodified":1566663186,
     "wof:name":"Song Phi Nong",
     "wof:parent_id":85678679,
     "wof:placetype":"county",

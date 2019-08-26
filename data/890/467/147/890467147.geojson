@@ -11,12 +11,16 @@
     "geom:longitude":100.70721,
     "gn:country":"TH",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424960,
     "iso:country":"TH",
+    "lbl:bbox":"100.68721,13.59129,100.72721,13.63129",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Bang Phli Yai"
     ],
     "qs:name":"Ban Bang Phli Yai",
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":1620702,
         "gp:id":1200892,
-        "qs:id":901842
+        "qs_pg:id":901842
     },
     "wof:country":"TH",
     "wof:created":1469053614,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":890467147,
-    "wof:lastmodified":1505343709,
+    "wof:lastmodified":1566663237,
     "wof:name":"Ban Bang Phli Yai",
     "wof:parent_id":890467329,
     "wof:placetype":"locality",

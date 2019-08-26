@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000263,
-    "geom:area_square_m":3131357.683841,
+    "geom:area_square_m":3131357.683843,
     "geom:bbox":"102.905117806,15.3440241259,102.923739676,15.3620939701",
     "geom:latitude":15.353059,
     "geom:longitude":102.914429,
@@ -14,14 +14,17 @@
     "iso:country":"TH",
     "lbl:latitude":15.353059,
     "lbl:longitude":102.914429,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":15.353059,
     "mps:longitude":102.914429,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:tha_x_preferred":[
         "\u0e25\u0e33\u0e17\u0e30\u0e40\u0e21\u0e19\u0e0a\u0e31\u0e22"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "King Amphoe Lam Thamen Chai"
     ],
     "qs:a1":"*",
@@ -37,7 +40,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -48,7 +51,6 @@
     "wof:concordances":{
         "gn:id":7510959,
         "gp:id":28349076,
-        "qs:id":1041713,
         "qs_pg:id":1041713
     },
     "wof:country":"TH",
@@ -63,7 +65,7 @@
         }
     ],
     "wof:id":102026039,
-    "wof:lastmodified":1497295481,
+    "wof:lastmodified":1566656500,
     "wof:name":"Lam Thamen Chai",
     "wof:parent_id":1108802599,
     "wof:placetype":"locality",

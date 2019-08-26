@@ -13,10 +13,13 @@
     "iso:country":"TH",
     "lbl:latitude":7.781749,
     "lbl:longitude":100.350974,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":7.781749,
     "mps:longitude":100.350974,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09b0\u09be\u09a8\u09cb\u09a4"
     ],
@@ -65,9 +68,6 @@
     "name:tha_x_variant":[
         "\u0e23\u0e30\u0e42\u0e19\u0e14"
     ],
-    "name:unk_x_variant":[
-        "Ban Ranok"
-    ],
     "name:vie_x_preferred":[
         "Ranot"
     ],
@@ -89,7 +89,7 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":174,
     "wof:belongsto":[
@@ -103,7 +103,7 @@
         "fct:id":"07cf8d44-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1607068,
         "gp:id":28341678,
-        "qs:id":210235,
+        "qs_pg:id":210235,
         "wd:id":"Q218963"
     },
     "wof:country":"TH",
@@ -121,7 +121,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563290323,
+    "wof:lastmodified":1566656403,
     "wof:name":"Ranot",
     "wof:parent_id":1108731795,
     "wof:placetype":"locality",

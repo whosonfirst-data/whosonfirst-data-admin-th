@@ -13,6 +13,7 @@
     "iso:country":"TH",
     "lbl:latitude":13.764841,
     "lbl:longitude":100.496276,
+    "lbl:max_zoom":18.0,
     "mps:latitude":13.765749,
     "mps:longitude":100.494425,
     "mz:hierarchy_label":1,
@@ -25,9 +26,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":5,
     "name:eng_x_preferred":[
-        "Chana Songkhram"
-    ],
-    "name:unk_x_variant":[
         "Chana Songkhram"
     ],
     "qs:gn_adm0_cc":"TH",
@@ -57,7 +55,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85678739,
         102191569,
@@ -68,7 +66,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55948152,
-        "qs:id":1346134,
         "qs_pg:id":1346134
     },
     "wof:country":"TH",
@@ -87,7 +84,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527269311,
+    "wof:lastmodified":1566657693,
     "wof:name":"Chana Songkhram",
     "wof:parent_id":102025263,
     "wof:placetype":"neighbourhood",

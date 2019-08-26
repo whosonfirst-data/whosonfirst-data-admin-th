@@ -11,7 +11,7 @@
     "geom:longitude":102.215409,
     "gn:country":"TH",
     "gn:fcode":"PPLA2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424960,
     "iso:country":"TH",
     "label:eng_x_preferred_longname":[
@@ -22,6 +22,8 @@
     ],
     "lbl:latitude":18.073112,
     "lbl:longitude":102.198162,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"NONGKHAI",
     "meso:diss_me":"SangkhomNONGKHAI",
     "meso:gadm_admin":"Sang Khom",
@@ -35,6 +37,7 @@
     "meso:source":"AOTM",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09b8\u09be\u0982\u0996\u09cb\u09ae"
     ],
@@ -85,9 +88,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"450",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -109,7 +112,7 @@
         "gn:id":7510955,
         "gp:id":28341035,
         "hasc:id":"TH.NH.SA",
-        "qs:id":772258,
+        "qs_pg:id":772258,
         "wd:id":"Q476637",
         "wk:page":"Sangkhom District"
     },
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":890465961,
-    "wof:lastmodified":1563298267,
+    "wof:lastmodified":1566663198,
     "wof:name":"Sangkhom",
     "wof:parent_id":85678859,
     "wof:placetype":"county",

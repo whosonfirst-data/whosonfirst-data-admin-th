@@ -11,11 +11,15 @@
     "geom:longitude":99.4255,
     "gn:country":"TH",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424960,
     "iso:country":"TH",
+    "lbl:bbox":"99.4055,19.16389,99.4455,19.20389",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ac\u09cd\u09af\u09be\u0982 \u09aa\u09be-\u0986\u0987\u09a8"
     ],
@@ -37,7 +41,7 @@
     "name:tha_x_variant":[
         "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e1a\u0e32\u0e07\u0e1b\u0e30\u0e2d\u0e34\u0e19"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ban Pang Chi"
     ],
     "name:urd_x_preferred":[
@@ -65,7 +69,7 @@
     "wof:concordances":{
         "gn:id":8195173,
         "gp:id":1200540,
-        "qs:id":235431,
+        "qs_pg:id":235431,
         "wk:page":"Bang Pa-in District"
     },
     "wof:country":"TH",
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":890467373,
-    "wof:lastmodified":1564109666,
+    "wof:lastmodified":1566663236,
     "wof:name":"Ban Bang Chik",
     "wof:parent_id":85678617,
     "wof:placetype":"locality",

@@ -14,10 +14,13 @@
     "iso:country":"TH",
     "lbl:latitude":16.988502,
     "lbl:longitude":103.95813,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":16.988502,
     "mps:longitude":103.95813,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Phu Phan"
     ],
@@ -30,7 +33,7 @@
     "name:tha_x_preferred":[
         "\u0e20\u0e39\u0e1e\u0e32\u0e19"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "King Amphoe Phu Phan"
     ],
     "qs:a0":"Thailand",
@@ -48,7 +51,7 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -59,7 +62,7 @@
         "fct:id":"07ce9dc6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":7510993,
         "gp:id":28341057,
-        "qs:id":1163029
+        "qs_pg:id":1163029
     },
     "wof:country":"TH",
     "wof:geomhash":"3b2085e40e33c271474bf76df6653be1",
@@ -75,7 +78,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564101368,
+    "wof:lastmodified":1566656504,
     "wof:name":"Phu Phan",
     "wof:parent_id":85678863,
     "wof:placetype":"locality",

@@ -13,6 +13,8 @@
     "iso:country":"TH",
     "lbl:latitude":15.257637,
     "lbl:longitude":104.851784,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":15.257637,
     "mps:longitude":104.851784,
     "mz:hierarchy_label":1,
@@ -123,7 +125,7 @@
     "name:ukr_x_preferred":[
         "\u0423\u0431\u043e\u043d \u0420\u0430\u0447\u0430\u0442\u0430\u043d\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Muang Ubon"
     ],
     "name:urd_x_preferred":[
@@ -244,7 +246,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1496,
     "wof:belongsto":[
@@ -258,10 +260,12 @@
         "fct:id":"07ce8e6c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1605245,
         "gp:id":1226203,
-        "qs:id":350314,
         "qs_pg:id":231959,
         "wd:id":"Q132179",
         "wk:page":"Ubon Ratchathani"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":350314
     },
     "wof:country":"TH",
     "wof:geomhash":"da5cf36d25b9907a97e978ffd0b50d9e",
@@ -278,7 +282,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563290217,
+    "wof:lastmodified":1566656333,
     "wof:name":"Ubon Ratchathani",
     "wof:parent_id":890466033,
     "wof:placetype":"locality",

@@ -11,15 +11,19 @@
     "geom:longitude":98.65494,
     "gn:country":"TH",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424960,
     "iso:country":"TH",
+    "lbl:bbox":"98.63494,8.26208,98.67494,8.30208",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:tha_x_preferred":[
         "\u0e1a\u0e49\u0e32\u0e19\u0e41\u0e2b\u0e25\u0e21\u0e2a\u0e31\u0e01"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Laem Sak"
     ],
     "qs:name":"Ban Laem Sak (2)",
@@ -41,7 +45,7 @@
     "wof:concordances":{
         "gn:id":1156719,
         "gp:id":1209196,
-        "qs:id":316618
+        "qs_pg:id":316618
     },
     "wof:country":"TH",
     "wof:created":1469053566,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":890466115,
-    "wof:lastmodified":1505343706,
+    "wof:lastmodified":1566663290,
     "wof:name":"Ban Laem Sak (2)",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

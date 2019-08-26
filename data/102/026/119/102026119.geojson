@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000528,
+    "geom:area_square_m":6256497.599287,
     "geom:bbox":"102.256867045,16.6640010555,102.31954888,16.6925845036",
     "geom:latitude":16.678293,
     "geom:longitude":102.288208,
@@ -13,13 +14,17 @@
     "iso:country":"TH",
     "lbl:latitude":16.673031,
     "lbl:longitude":102.310181,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":16.673031,
     "mps:longitude":102.310181,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:tha_x_preferred":[
         "\u0e40\u0e27\u0e35\u0e22\u0e07\u0e40\u0e01\u0e48\u0e32"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "King Amphoe Wiang Kao"
     ],
     "qs:a1":"*",
@@ -35,7 +40,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -45,7 +50,6 @@
     "wof:concordances":{
         "gn:id":7511027,
         "gp:id":55946319,
-        "qs:id":1154791,
         "qs_pg:id":1154791
     },
     "wof:country":"TH",
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":102026119,
-    "wof:lastmodified":1497295741,
+    "wof:lastmodified":1566656502,
     "wof:name":"Wiang Kao",
     "wof:parent_id":85678827,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Bangkok",
     "iso:country":"TH",
+    "lbl:bbox":"99.06333,7.74667,99.10333,7.78667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632293
@@ -34,7 +38,7 @@
         "gn:id":1119002
     },
     "wof:country":"TH",
-    "wof:geomhash":"8fe5d4c1bae89a5b767019afce72281b",
+    "wof:geomhash":"6af2112870df43f781a9603e88cc8f5f",
     "wof:hierarchy":[
         {
             "country_id":85632293,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209424659,
-    "wof:lastmodified":1536287418,
+    "wof:lastmodified":1566660747,
     "wof:name":"Ban Mai",
     "wof:parent_id":85632293,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     99.08333,
-    7.766669999999999,
+    7.76667,
     99.08333,
-    7.766669999999999
+    7.76667
 ],
   "geometry": {"coordinates":[99.08333,7.76667],"type":"Point"}
 }

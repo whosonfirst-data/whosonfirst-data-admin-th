@@ -14,10 +14,13 @@
     "iso:country":"TH",
     "lbl:latitude":13.135899,
     "lbl:longitude":102.209117,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":13.135899,
     "mps:longitude":102.209117,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Mount Chincogan"
     ],
@@ -30,7 +33,7 @@
     "name:tha_x_preferred":[
         "\u0e2a\u0e2d\u0e22\u0e14\u0e32\u0e27"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "King Amphoe Soi Dao"
     ],
     "qs:a0":"Thailand",
@@ -48,7 +51,7 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -59,7 +62,7 @@
         "fct:id":"07cfaf68-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":7510944,
         "gp:id":28341366,
-        "qs:id":271065,
+        "qs_pg:id":271065,
         "wk:page":"Mount Chincogan"
     },
     "wof:country":"TH",
@@ -76,7 +79,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564101360,
+    "wof:lastmodified":1566656495,
     "wof:name":"Soi Dao",
     "wof:parent_id":85678799,
     "wof:placetype":"locality",

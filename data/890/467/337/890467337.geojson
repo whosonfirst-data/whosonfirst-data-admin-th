@@ -11,11 +11,15 @@
     "geom:longitude":99.95,
     "gn:country":"TH",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424960,
     "iso:country":"TH",
+    "lbl:bbox":"99.93,13.63,99.97,13.67",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09b8\u09cb\u0982 \u09ab\u09bf \u09a8\u09cb\u0982"
     ],
@@ -40,7 +44,7 @@
     "name:tha_x_preferred":[
         "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e2a\u0e2d\u0e07\u0e1e\u0e35\u0e48\u0e19\u0e49\u0e2d\u0e07"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "H\u016babho"
     ],
     "name:vie_x_preferred":[
@@ -66,7 +70,7 @@
     "wof:concordances":{
         "gn:id":1157337,
         "gp:id":1204230,
-        "qs:id":29048,
+        "qs_pg:id":29048,
         "wd:id":"Q476763",
         "wk:page":"Song Phi Nong District"
     },
@@ -82,7 +86,7 @@
         }
     ],
     "wof:id":890467337,
-    "wof:lastmodified":1563298288,
+    "wof:lastmodified":1566663210,
     "wof:name":"Ban Hua Pho",
     "wof:parent_id":85678761,
     "wof:placetype":"locality",

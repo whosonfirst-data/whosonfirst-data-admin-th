@@ -12,10 +12,13 @@
     "iso:country":"TH",
     "lbl:latitude":18.828317,
     "lbl:longitude":99.94812,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":18.828317,
     "mps:longitude":99.94812,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ngao"
     ],
@@ -35,7 +38,7 @@
     "name:tha_x_preferred":[
         "\u0e07\u0e32\u0e27"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Muang Ngau"
     ],
     "qs:a0":"Thailand",
@@ -53,7 +56,7 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":49,
     "wof:belongsto":[
         102191569,
@@ -66,7 +69,7 @@
         "fct:id":"07cebc3e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1151848,
         "gp:id":28340848,
-        "qs:id":933435
+        "qs_pg:id":933435
     },
     "wof:country":"TH",
     "wof:geomhash":"7eedd92eaf0a113a79391e24854294a1",
@@ -83,7 +86,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564101299,
+    "wof:lastmodified":1566656312,
     "wof:name":"Ngao",
     "wof:parent_id":890466263,
     "wof:placetype":"locality",

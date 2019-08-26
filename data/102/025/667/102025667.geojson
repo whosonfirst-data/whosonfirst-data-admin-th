@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000794,
-    "geom:area_square_m":9401083.83332,
+    "geom:area_square_m":9401083.833337,
     "geom:bbox":"100.026625453,16.748169636,100.078350751,16.8503857393",
     "geom:latitude":16.813309,
     "geom:longitude":100.054319,
@@ -15,10 +15,13 @@
     "iso:country":"TH",
     "lbl:latitude":16.841347,
     "lbl:longitude":100.057983,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":16.841347,
     "mps:longitude":100.057983,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:eng_x_colloquial":[
         "Baan Baang Ragam",
         "Ban Bang Ragam"
@@ -35,9 +38,6 @@
     "name:tha_x_preferred":[
         "\u0e1a\u0e32\u0e07\u0e23\u0e30\u0e01\u0e33"
     ],
-    "name:unk_x_variant":[
-        "Rakam"
-    ],
     "qs:a0":"Thailand",
     "qs:a1":"*Phitsanulok",
     "qs:a1r":"*",
@@ -53,7 +53,7 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":11,
     "wof:belongsto":[
@@ -67,7 +67,7 @@
         "fct:id":"07ceb37e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1619276,
         "gp:id":28340932,
-        "qs:id":133583
+        "qs_pg:id":133583
     },
     "wof:country":"TH",
     "wof:geomhash":"5e872485ebececd07484fa89bf163176",
@@ -84,7 +84,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636683,
+    "wof:lastmodified":1566656437,
     "wof:name":"Bang Rakam",
     "wof:parent_id":890465827,
     "wof:placetype":"locality",

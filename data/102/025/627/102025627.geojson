@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000535,
-    "geom:area_square_m":6264027.744386,
+    "geom:area_square_m":6264027.744391,
     "geom:bbox":"100.433015212,18.7776822605,100.462977292,18.8581467299",
     "geom:latitude":18.81792,
     "geom:longitude":100.447997,
@@ -14,14 +14,17 @@
     "iso:country":"TH",
     "lbl:latitude":18.849112,
     "lbl:longitude":100.442505,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":18.849112,
     "mps:longitude":100.442505,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:tha_x_preferred":[
         "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e25\u0e27\u0e07"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ban Pa Kha Luang"
     ],
     "qs:a1":"*",
@@ -37,7 +40,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":32,
     "wof:belongsto":[
         102191569,
@@ -48,7 +51,6 @@
     "wof:concordances":{
         "gn:id":1616934,
         "gp:id":1225872,
-        "qs:id":370916,
         "qs_pg:id":370916
     },
     "wof:country":"TH",
@@ -62,7 +64,7 @@
         }
     ],
     "wof:id":102025627,
-    "wof:lastmodified":1527636682,
+    "wof:lastmodified":1566656430,
     "wof:name":"Ban Luang",
     "wof:parent_id":85678633,
     "wof:placetype":"locality",

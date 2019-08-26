@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00026,
-    "geom:area_square_m":3129287.396711,
+    "geom:area_square_m":3129287.396707,
     "geom:bbox":"102.289966257,13.439362374,102.30842249,13.4574269649",
     "geom:latitude":13.448395,
     "geom:longitude":102.299194,
@@ -14,9 +14,13 @@
     "iso:country":"TH",
     "lbl:latitude":13.448395,
     "lbl:longitude":102.299194,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":13.448395,
     "mps:longitude":102.299194,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Khlong Had"
     ],
@@ -24,9 +28,6 @@
         "Khlong Hat"
     ],
     "name:tha_x_preferred":[
-        "\u0e04\u0e25\u0e2d\u0e07\u0e2b\u0e32\u0e14"
-    ],
-    "name:unk_x_variant":[
         "\u0e04\u0e25\u0e2d\u0e07\u0e2b\u0e32\u0e14"
     ],
     "qs:a1":"*",
@@ -42,7 +43,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -54,7 +55,6 @@
         "fct:id":"07cf2f70-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1609907,
         "gp:id":1225402,
-        "qs:id":1026911,
         "qs_pg:id":1026911
     },
     "wof:country":"TH",
@@ -72,7 +72,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1497295686,
+    "wof:lastmodified":1566656456,
     "wof:name":"Khlong Hat",
     "wof:parent_id":890467295,
     "wof:placetype":"locality",

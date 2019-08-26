@@ -12,10 +12,13 @@
     "iso:country":"TH",
     "lbl:latitude":15.93492,
     "lbl:longitude":105.188598,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":15.93492,
     "mps:longitude":105.188598,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09a8\u09be \u09a4\u09be\u09a8"
     ],
@@ -49,9 +52,6 @@
     "name:tha_x_variant":[
         "\u0e19\u0e32\u0e15\u0e32\u0e25"
     ],
-    "name:unk_x_variant":[
-        "\u0e19\u0e32\u0e15\u0e32\u0e25"
-    ],
     "name:vie_x_preferred":[
         "Na Tan"
     ],
@@ -73,7 +73,7 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":183,
     "wof:belongsto":[
         102191569,
@@ -85,7 +85,7 @@
         "fct:id":"07ced494-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1600814,
         "gp:id":28341230,
-        "qs:id":1204831,
+        "qs_pg:id":1204831,
         "wd:id":"Q180037"
     },
     "wof:country":"TH",
@@ -102,7 +102,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563290185,
+    "wof:lastmodified":1566656306,
     "wof:name":"Na Tan",
     "wof:parent_id":85678783,
     "wof:placetype":"locality",

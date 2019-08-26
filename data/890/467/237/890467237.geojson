@@ -11,7 +11,7 @@
     "geom:longitude":100.395969,
     "gn:country":"TH",
     "gn:fcode":"PPLA2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424960,
     "iso:country":"TH",
     "label:eng_x_preferred_longname":[
@@ -22,6 +22,8 @@
     ],
     "lbl:latitude":13.938738,
     "lbl:longitude":100.402555,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"NONTHABURI",
     "meso:diss_me":"Bang Bua ThongNONTHABURI",
     "meso:gadm_admin":"Bang Bua Thong",
@@ -39,6 +41,7 @@
     "mps:longitude":100.402555,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ac\u09cd\u09af\u09be\u0982 \u09ac\u09c1\u09af\u09bc\u09be \u09a5\u09cb\u0982"
     ],
@@ -76,7 +79,7 @@
         "\u0e1a\u0e32\u0e07\u0e1a\u0e31\u0e27\u0e17\u0e2d\u0e07",
         "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e1a\u0e32\u0e07\u0e1a\u0e31\u0e27\u0e17\u0e2d\u0e07"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "B\u0101ng B\u016ba Dh\u014dhng"
     ],
     "name:urd_x_preferred":[
@@ -103,9 +106,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"116",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -127,7 +130,7 @@
         "gn:id":1620917,
         "gp:id":28341533,
         "hasc:id":"TH.NO.BB",
-        "qs:id":203827,
+        "qs_pg:id":203827,
         "wd:id":"Q475194",
         "wk:page":"Bang Bua Thong District"
     },
@@ -143,7 +146,7 @@
         }
     ],
     "wof:id":890467237,
-    "wof:lastmodified":1563298331,
+    "wof:lastmodified":1566663233,
     "wof:name":"Bang Bua Thong",
     "wof:parent_id":85678743,
     "wof:placetype":"county",

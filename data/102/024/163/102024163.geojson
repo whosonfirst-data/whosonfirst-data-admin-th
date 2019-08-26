@@ -13,6 +13,8 @@
     "iso:country":"TH",
     "lbl:latitude":13.532951,
     "lbl:longitude":99.812894,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":13.532951,
     "mps:longitude":99.812894,
     "mz:hierarchy_label":1,
@@ -93,7 +95,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u0430\u0442\u0431\u0443\u0440\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Amphoe Muang Rat Buri"
     ],
     "name:war_x_preferred":[
@@ -211,7 +213,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":202,
     "wof:belongsto":[
@@ -225,7 +227,6 @@
         "fct:id":"07ce8eda-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1150954,
         "gp:id":1225614,
-        "qs:id":239998,
         "qs_pg:id":239998,
         "wd:id":"Q1207138",
         "wk:page":"Ratchaburi"
@@ -245,7 +246,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563290261,
+    "wof:lastmodified":1566656361,
     "wof:name":"Ratchaburi",
     "wof:parent_id":890466987,
     "wof:placetype":"locality",

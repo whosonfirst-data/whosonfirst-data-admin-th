@@ -29,6 +29,7 @@
     ],
     "lbl:latitude":6.807692,
     "lbl:longitude":100.545067,
+    "lbl:min_zoom":8.0,
     "mps:latitude":6.807692,
     "mps:longitude":100.545067,
     "mz:hierarchy_label":1,
@@ -197,7 +198,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u043e\u043d\u0433\u043a\u0445\u043b\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Songkla"
     ],
     "name:urd_x_preferred":[
@@ -289,7 +290,7 @@
     "qs:type":"Province",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wikidata",
     "src:population_date":"2017",
     "statoids:area_km":"7,394",
@@ -317,7 +318,7 @@
         "gp:id":2347192,
         "hasc:id":"TH.SG",
         "iso:id":"TH-90",
-        "qs:id":900782,
+        "qs_pg:id":900782,
         "unlc:id":"TH-90",
         "wd:id":"Q235574",
         "wk:page":"Songkhla Province"
@@ -338,11 +339,10 @@
     "wof:lang_x_spoken":[
         "tha"
     ],
-    "wof:lastmodified":1565737055,
+    "wof:lastmodified":1566657712,
     "wof:name":"Songkhla",
     "wof:parent_id":85632293,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":1424230,
     "wof:population_rank":12,

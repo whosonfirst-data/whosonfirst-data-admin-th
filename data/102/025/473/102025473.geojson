@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000634,
+    "geom:area_square_m":7525298.25641,
     "geom:bbox":"104.992473223,16.2109088749,105.011188887,16.2500862464",
     "geom:latitude":16.230498,
     "geom:longitude":105.001831,
@@ -13,9 +14,13 @@
     "iso:country":"TH",
     "lbl:latitude":16.230498,
     "lbl:longitude":105.001831,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":16.230498,
     "mps:longitude":105.001831,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Chanuman"
     ],
@@ -27,9 +32,6 @@
     ],
     "name:tha_x_variant":[
         "\u0e1a\u0e49\u0e32\u0e19\u0e0a\u0e32\u0e19\u0e38\u0e21\u0e32\u0e19"
-    ],
-    "name:unk_x_variant":[
-        "Ban Chanuman"
     ],
     "qs:a0":"Thailand",
     "qs:a1":"*Amnat Charoen",
@@ -46,7 +48,7 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -57,7 +59,7 @@
         "fct:id":"07cedbec-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1611261,
         "gp:id":28341214,
-        "qs:id":352402
+        "qs_pg:id":352402
     },
     "wof:country":"TH",
     "wof:geomhash":"e0a96eb4d2d720bd8e499dbe720d180e",
@@ -73,7 +75,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1501221062,
+    "wof:lastmodified":1566656471,
     "wof:name":"Chanuman",
     "wof:parent_id":85678789,
     "wof:placetype":"locality",

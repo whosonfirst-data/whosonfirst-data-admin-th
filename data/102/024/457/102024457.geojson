@@ -5,22 +5,27 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004123,
+    "geom:area_square_m":49441692.114146,
     "geom:bbox":"99.0819186092,13.9836644617,99.2762282804,14.2042047873",
     "geom:latitude":14.09848,
     "geom:longitude":99.170241,
     "iso:country":"TH",
     "lbl:latitude":14.008197,
     "lbl:longitude":99.24983,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":14.008197,
     "mps:longitude":99.24983,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lum Sum"
     ],
     "name:tha_x_preferred":[
         "\u0e1a\u0e49\u0e32\u0e19\u0e25\u0e38\u0e48\u0e21\u0e2a\u0e38\u0e48\u0e21"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "King Sai Yok"
     ],
     "qs:a1":"*",
@@ -34,7 +39,7 @@
     "qs:source":"Aquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -60,7 +65,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1501216989,
+    "wof:lastmodified":1566656389,
     "wof:name":"Ban Lum Sum",
     "wof:parent_id":85678663,
     "wof:placetype":"locality",

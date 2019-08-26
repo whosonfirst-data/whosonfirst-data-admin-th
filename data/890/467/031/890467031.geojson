@@ -11,12 +11,16 @@
     "geom:longitude":98.58333,
     "gn:country":"TH",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424960,
     "iso:country":"TH",
+    "lbl:bbox":"98.56333,7.89667,98.60333,7.93667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Ban Tab Tai"
     ],
     "qs:name":"Ban Thap Tai (1)",
@@ -40,7 +44,7 @@
     "wof:concordances":{
         "gn:id":1154453,
         "gp:id":1222688,
-        "qs:id":1167932
+        "qs_pg:id":1167932
     },
     "wof:country":"TH",
     "wof:created":1469053609,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":890467031,
-    "wof:lastmodified":1505343709,
+    "wof:lastmodified":1566663218,
     "wof:name":"Ban Thap Tai (1)",
     "wof:parent_id":85678573,
     "wof:placetype":"locality",

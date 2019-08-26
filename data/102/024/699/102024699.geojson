@@ -12,10 +12,13 @@
     "iso:country":"TH",
     "lbl:latitude":15.319373,
     "lbl:longitude":103.67402,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":15.319373,
     "mps:longitude":103.67402,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Tha Tum"
     ],
@@ -36,9 +39,6 @@
     "name:tha_x_variant":[
         "\u0e15\u0e33\u0e1a\u0e25\u0e17\u0e48\u0e32\u0e15\u0e38\u0e49\u0e21"
     ],
-    "name:unk_x_variant":[
-        "Ban Tha Tum"
-    ],
     "qs:a0":"Thailand",
     "qs:a1":"*Surin",
     "qs:a1r":"*",
@@ -54,7 +54,7 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":74,
     "wof:belongsto":[
         102191569,
@@ -66,7 +66,7 @@
         "fct:id":"07cf9280-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1605481,
         "gp:id":28341274,
-        "qs:id":890505,
+        "qs_pg:id":890505,
         "wd:id":"Q7708789",
         "wk:page":"Tha Tum"
     },
@@ -84,7 +84,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563290290,
+    "wof:lastmodified":1566656383,
     "wof:name":"Tha Tum",
     "wof:parent_id":85678849,
     "wof:placetype":"locality",

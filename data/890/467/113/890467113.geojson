@@ -11,15 +11,19 @@
     "geom:longitude":100.6,
     "gn:country":"TH",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424960,
     "iso:country":"TH",
+    "lbl:bbox":"100.58,14.33,100.62,14.37",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:tha_x_preferred":[
         "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e31\u0e19\u0e15\u0e23\u0e32"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ban Han Tra"
     ],
     "qs:name":"Ban Han Tra Fang Nua",
@@ -43,7 +47,7 @@
     "wof:concordances":{
         "gn:id":1619157,
         "gp:id":1203650,
-        "qs:id":911437
+        "qs_pg:id":911437
     },
     "wof:country":"TH",
     "wof:created":1469053613,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":890467113,
-    "wof:lastmodified":1505343709,
+    "wof:lastmodified":1566663237,
     "wof:name":"Ban Han Tra Fang Nua",
     "wof:parent_id":85678721,
     "wof:placetype":"locality",

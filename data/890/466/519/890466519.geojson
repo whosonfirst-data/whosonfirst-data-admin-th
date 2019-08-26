@@ -11,11 +11,15 @@
     "geom:longitude":101.56667,
     "gn:country":"TH",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424960,
     "iso:country":"TH",
+    "lbl:bbox":"101.54667,13.93,101.58667,13.97",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09aa\u09be \u09b8\u09be\u0982"
     ],
@@ -65,7 +69,7 @@
     "wof:concordances":{
         "gn:id":1612359,
         "gp:id":1222405,
-        "qs:id":316627,
+        "qs_pg:id":316627,
         "wk:page":"Pa Sang District"
     },
     "wof:country":"TH",
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":890466519,
-    "wof:lastmodified":1564109678,
+    "wof:lastmodified":1566663264,
     "wof:name":"Ban Tha Tum",
     "wof:parent_id":85678711,
     "wof:placetype":"locality",

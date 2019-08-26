@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000051,
-    "geom:area_square_m":615907.294825,
+    "geom:area_square_m":615907.294823,
     "geom:bbox":"100.537261963,13.7767339891,100.549621582,13.7847365493",
     "geom:latitude":13.780497,
     "geom:longitude":100.543736,
@@ -14,9 +14,13 @@
     "iso:country":"TH",
     "lbl:latitude":13.780068,
     "lbl:longitude":100.544767,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":13.780068,
     "mps:longitude":100.544767,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:tha_x_preferred":[
         "\u0e1e\u0e0d\u0e32\u0e44\u0e17"
     ],
@@ -35,7 +39,7 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -46,7 +50,7 @@
     "wof:concordances":{
         "gn:id":7026870,
         "gp:id":28341420,
-        "qs:id":236847
+        "qs_pg:id":236847
     },
     "wof:country":"TH",
     "wof:geomhash":"c82c71666f7ce18b6d7e5b81d35980e7",
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":102025849,
-    "wof:lastmodified":1501273138,
+    "wof:lastmodified":1566656468,
     "wof:name":"Phaya Thai",
     "wof:parent_id":890465945,
     "wof:placetype":"locality",

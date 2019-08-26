@@ -11,8 +11,12 @@
     "geom:longitude":101.313924,
     "gp:adm0":23424960,
     "iso:country":"TH",
+    "lbl:bbox":"101.2939245,13.699182,101.3339245,13.739182",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kao"
     ],
@@ -57,7 +61,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55946060,
-        "qs:id":1178945,
+        "qs_pg:id":1178945,
         "wk:page":"Kao"
     },
     "wof:country":"TH",
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":890467089,
-    "wof:lastmodified":1564109660,
+    "wof:lastmodified":1566663226,
     "wof:name":"Kao",
     "wof:parent_id":85678797,
     "wof:placetype":"locality",

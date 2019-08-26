@@ -9,19 +9,23 @@
     "geom:bbox":"100.79375,19.07469,100.79375,19.07469",
     "geom:latitude":19.07469,
     "geom:longitude":100.79375,
-    "gn:gn_country":"TH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"TH",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"TH",
+    "lbl:bbox":"100.77375,19.05469,100.81375,19.09469",
     "lbl:latitude":19.07469,
     "lbl:longitude":100.79375,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:tha_x_preferred":[
         "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e19\u0e2d\u0e07\u0e21\u0e48\u0e27\u0e07"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chaiyaphum"
     ],
     "qs_pg:aaroncc":"TH",
@@ -43,7 +47,7 @@
     "qs_pg:woe_adm0":23424960,
     "qs_pg:woe_id":1214951,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424960,
     "woe:name_adm0":"Thailand",
     "woe:name_adm1":"Nan",
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1125877677,
-    "wof:lastmodified":1509397842,
+    "wof:lastmodified":1566663298,
     "wof:name":"Ban Nong Muang",
     "wof:parent_id":1108731995,
     "wof:placetype":"locality",

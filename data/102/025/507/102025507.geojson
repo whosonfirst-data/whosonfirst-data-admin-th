@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000448,
+    "geom:area_square_m":5356050.889898,
     "geom:bbox":"105.399034074,14.7499060642,105.428602619,14.7679884389",
     "geom:latitude":14.758947,
     "geom:longitude":105.413818,
@@ -13,16 +14,20 @@
     "iso:country":"TH",
     "lbl:latitude":14.758947,
     "lbl:longitude":105.413818,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":14.758947,
     "mps:longitude":105.413818,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Buntharik"
     ],
     "name:tha_x_preferred":[
         "\u0e1a\u0e38\u0e13\u0e11\u0e23\u0e34\u0e01"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Muang Pua"
     ],
     "qs:a0":"Thailand",
@@ -40,7 +45,7 @@
     "qs:type":"Town",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -51,7 +56,7 @@
         "fct:id":"07cf23b8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1611461,
         "gp:id":28341245,
-        "qs:id":270208
+        "qs_pg:id":270208
     },
     "wof:country":"TH",
     "wof:geomhash":"47998fc3614ff6982b2eea307e2e0882",
@@ -67,7 +72,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1501221065,
+    "wof:lastmodified":1566656458,
     "wof:name":"Buntharik",
     "wof:parent_id":85678783,
     "wof:placetype":"locality",

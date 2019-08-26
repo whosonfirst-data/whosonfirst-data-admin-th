@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001629,
-    "geom:area_square_m":19558043.118614,
+    "geom:area_square_m":19558043.118628,
     "geom:bbox":"100.622019043,13.825966042,100.674978027,13.8727465054",
     "geom:latitude":13.850005,
     "geom:longitude":100.649782,
@@ -14,6 +14,7 @@
     "iso:country":"TH",
     "lbl:latitude":13.851972,
     "lbl:longitude":100.642866,
+    "lbl:max_zoom":18.0,
     "mps:latitude":13.850803,
     "mps:longitude":100.650278,
     "mz:hierarchy_label":1,
@@ -26,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":5,
     "name:eng_x_preferred":[
-        "Ban Chorakhe Bua"
-    ],
-    "name:unk_x_variant":[
         "Ban Chorakhe Bua"
     ],
     "qs:gn_adm0_cc":"TH",
@@ -59,7 +57,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85678739,
         102191569,
@@ -71,7 +69,6 @@
     "wof:concordances":{
         "gn:id":1620108,
         "gp:id":1202277,
-        "qs:id":235433,
         "qs_pg:id":235433
     },
     "wof:country":"TH",
@@ -90,7 +87,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1497315860,
+    "wof:lastmodified":1566657685,
     "wof:name":"Ban Chorakhe Bua",
     "wof:parent_id":102025263,
     "wof:placetype":"neighbourhood",

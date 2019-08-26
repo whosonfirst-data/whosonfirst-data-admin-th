@@ -14,10 +14,13 @@
     "iso:country":"TH",
     "lbl:latitude":15.662722,
     "lbl:longitude":99.465286,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":15.662722,
     "mps:longitude":99.465286,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mae Poen"
     ],
@@ -45,7 +48,7 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -56,7 +59,7 @@
         "fct:id":"07ceacb2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":7510879,
         "gp:id":28340976,
-        "qs:id":1163025,
+        "qs_pg:id":1163025,
         "wk:page":"Siutkowo"
     },
     "wof:country":"TH",
@@ -73,7 +76,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564101332,
+    "wof:lastmodified":1566656447,
     "wof:name":"Mae Poen",
     "wof:parent_id":85678715,
     "wof:placetype":"locality",

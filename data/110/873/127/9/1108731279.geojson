@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.931886,
     "lbl:longitude":100.089359,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"NAKHON PATHOM",
     "meso:diss_me":"Don TumNAKHON PATHOM",
     "meso:gadm_admin":"Don Tum",
@@ -35,6 +37,7 @@
     "mps:longitude":100.089359,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09a6\u09cb\u09a8 \u09a4\u09c1\u09ae"
     ],
@@ -72,9 +75,9 @@
         "Don Tum"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"171",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":1108731279,
-    "wof:lastmodified":1563296494,
+    "wof:lastmodified":1566661732,
     "wof:name":"Don Tum",
     "wof:parent_id":85678747,
     "wof:placetype":"county",

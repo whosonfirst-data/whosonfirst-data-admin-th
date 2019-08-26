@@ -11,7 +11,7 @@
     "geom:longitude":100.497949,
     "gn:country":"TH",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"TH",
     "label:eng_x_preferred_longname":[
         "Bangphlat District"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":13.783395,
     "lbl:longitude":100.493083,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"KRUNG THEP",
     "meso:diss_me":"BangphlatKRUNG THEP",
     "meso:gadm_admin":"Dusit",
@@ -38,6 +40,7 @@
     "mps:longitude":100.493083,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bjn_x_preferred":[
         "Bang Phlat"
     ],
@@ -81,7 +84,7 @@
     "name:tha_x_variant":[
         "\u0e1a\u0e32\u0e07\u0e1e\u0e25\u0e31\u0e14"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Khet Bang Phlat"
     ],
     "name:vie_x_preferred":[
@@ -95,9 +98,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"11",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -118,7 +121,7 @@
     "wof:concordances":{
         "gn:id":6845259,
         "hasc:id":"TH.BM.PH",
-        "qs:id":1153767,
+        "qs_pg:id":1153767,
         "wd:id":"Q806453",
         "wk:page":"Bang Phlat District"
     },
@@ -134,7 +137,7 @@
         }
     ],
     "wof:id":890465843,
-    "wof:lastmodified":1563298253,
+    "wof:lastmodified":1566663191,
     "wof:name":"Bangphlat",
     "wof:parent_id":85678739,
     "wof:placetype":"county",

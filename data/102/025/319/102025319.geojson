@@ -14,10 +14,13 @@
     "iso:country":"TH",
     "lbl:latitude":17.02002,
     "lbl:longitude":104.298706,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":17.02002,
     "mps:longitude":104.298706,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u0996\u09cb\u0995 \u09b8\u09bf \u09b8\u09c1\u09ab\u09be\u09a8"
     ],
@@ -45,9 +48,6 @@
     "name:tha_x_variant":[
         "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e42\u0e04\u0e01\u0e28\u0e23\u0e35\u0e2a\u0e38\u0e1e\u0e23\u0e23\u0e13"
     ],
-    "name:unk_x_variant":[
-        "\u0e42\u0e04\u0e01\u0e28\u0e23\u0e35\u0e2a\u0e38\u0e1e\u0e23\u0e23\u0e13"
-    ],
     "name:vie_x_preferred":[
         "Khok Si Suphan"
     ],
@@ -64,7 +64,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":173,
     "wof:belongsto":[
         102191569,
@@ -75,7 +75,6 @@
     "wof:concordances":{
         "gn:id":1609808,
         "gp:id":55945486,
-        "qs:id":1026909,
         "qs_pg:id":1026909,
         "wd:id":"Q475732"
     },
@@ -90,7 +89,7 @@
         }
     ],
     "wof:id":102025319,
-    "wof:lastmodified":1563290455,
+    "wof:lastmodified":1566656488,
     "wof:name":"Khok Si Suphan",
     "wof:parent_id":85678863,
     "wof:placetype":"locality",

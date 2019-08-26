@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003136,
-    "geom:area_square_m":37586494.856157,
+    "geom:area_square_m":37586494.856164,
     "geom:bbox":"99.8839203717,14.1967730009,100.05626429,14.2574514581",
     "geom:latitude":14.227859,
     "geom:longitude":99.999108,
@@ -14,9 +14,13 @@
     "iso:country":"TH",
     "lbl:latitude":14.230589,
     "lbl:longitude":100.029943,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":14.230589,
     "mps:longitude":100.029943,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Song Phi Nong"
     ],
@@ -29,9 +33,6 @@
     ],
     "name:tha_x_preferred":[
         "\u0e1a\u0e49\u0e32\u0e19\u0e2a\u0e2d\u0e07\u0e1e\u0e35\u0e48\u0e19\u0e49\u0e2d\u0e07"
-    ],
-    "name:unk_x_variant":[
-        "Amphu Sawng Pi Nawng"
     ],
     "qs:a0":"Thailand",
     "qs:a1":"*Suphan Buri",
@@ -48,7 +49,7 @@
     "qs:type":"Town",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -60,7 +61,7 @@
         "fct:id":"07d4ba4e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1613168,
         "gp:id":1226295,
-        "qs:id":7477
+        "qs_pg:id":7477
     },
     "wof:country":"TH",
     "wof:geomhash":"0f9d31446e53aed04a43e5882049927b",
@@ -77,7 +78,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1501221066,
+    "wof:lastmodified":1566656488,
     "wof:name":"Ban Song Phi Nong",
     "wof:parent_id":890465739,
     "wof:placetype":"locality",

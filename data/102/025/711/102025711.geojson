@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003981,
-    "geom:area_square_m":47843116.382972,
+    "geom:area_square_m":47843116.383001,
     "geom:bbox":"100.821533203,13.5248225476,100.891196757,13.6780132567",
     "geom:latitude":13.591352,
     "geom:longitude":100.861229,
@@ -14,14 +14,17 @@
     "iso:country":"TH",
     "lbl:latitude":13.572236,
     "lbl:longitude":100.844781,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":13.572236,
     "mps:longitude":100.844781,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:tha_x_preferred":[
         "\u0e1a\u0e32\u0e07\u0e1a\u0e48\u0e2d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Amphoe Bang Hia"
     ],
     "qs:a0":"Thailand",
@@ -41,7 +44,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -52,8 +55,10 @@
     "wof:concordances":{
         "gn:id":1620919,
         "gp:id":1225039,
-        "qs:id":1078819,
         "qs_pg:id":238760
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1078819
     },
     "wof:country":"TH",
     "wof:geomhash":"fe888ec8245a37d4f62e19ed163d3395",
@@ -67,7 +72,7 @@
         }
     ],
     "wof:id":102025711,
-    "wof:lastmodified":1497298979,
+    "wof:lastmodified":1566656490,
     "wof:name":"Bang Bo",
     "wof:parent_id":1108802683,
     "wof:placetype":"locality",

@@ -14,13 +14,17 @@
     "iso:country":"TH",
     "lbl:latitude":19.222988,
     "lbl:longitude":99.967727,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.222988,
     "mps:longitude":99.967727,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:tha_x_preferred":[
         "\u0e20\u0e39\u0e01\u0e32\u0e21\u0e22\u0e32\u0e27"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "King Amphoe Phu Kam Yao"
     ],
     "qs:a0":"Thailand",
@@ -38,7 +42,7 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -49,7 +53,7 @@
     "wof:concordances":{
         "gn:id":7510900,
         "gp:id":28340884,
-        "qs:id":206701
+        "qs_pg:id":206701
     },
     "wof:country":"TH",
     "wof:geomhash":"d1dcfda459c4e3bdb8532bae85fcd721",
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":102025955,
-    "wof:lastmodified":1501273223,
+    "wof:lastmodified":1566656421,
     "wof:name":"Phu Kam Yao",
     "wof:parent_id":890467463,
     "wof:placetype":"locality",

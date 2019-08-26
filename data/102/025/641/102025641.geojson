@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001774,
+    "geom:area_square_m":21104272.126099,
     "geom:bbox":"101.817456427,15.7462200637,101.923996881,15.8065687688",
     "geom:latitude":15.777938,
     "geom:longitude":101.878764,
@@ -13,13 +14,17 @@
     "iso:country":"TH",
     "lbl:latitude":15.778916,
     "lbl:longitude":101.903724,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":15.778916,
     "mps:longitude":101.903724,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:tha_x_preferred":[
         "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e02\u0e27\u0e49\u0e32"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Amphoe Ban Khwao"
     ],
     "qs:a0":"Thailand",
@@ -37,7 +42,7 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -47,7 +52,7 @@
     "wof:concordances":{
         "gn:id":1617625,
         "gp:id":28341085,
-        "qs:id":346396
+        "qs_pg:id":346396
     },
     "wof:country":"TH",
     "wof:geomhash":"50c09aaeb1556ac53913ced4ab67f9f7",
@@ -60,7 +65,7 @@
         }
     ],
     "wof:id":102025641,
-    "wof:lastmodified":1501221069,
+    "wof:lastmodified":1566656471,
     "wof:name":"Ban Khwao",
     "wof:parent_id":85678825,
     "wof:placetype":"locality",

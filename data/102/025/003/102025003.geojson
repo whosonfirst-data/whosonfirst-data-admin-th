@@ -14,10 +14,13 @@
     "iso:country":"TH",
     "lbl:latitude":15.41041,
     "lbl:longitude":102.625724,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":15.41041,
     "mps:longitude":102.625724,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041f\u0445\u0438\u043c\u0430\u0438"
     ],
@@ -46,7 +49,7 @@
         "\u0e1e\u0e34\u0e21\u0e32\u0e22",
         "\u0e40\u0e17\u0e28\u0e1a\u0e32\u0e25\u0e15\u0e33\u0e1a\u0e25\u0e1e\u0e34\u0e21\u0e32\u0e22"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vimai"
     ],
     "name:zho_x_preferred":[
@@ -63,7 +66,7 @@
     "qs:source":"Aquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -73,7 +76,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1607715,
-        "qs:id":370869,
+        "qs_pg:id":370869,
         "wd:id":"Q3381309",
         "wk:page":"Phimai"
     },
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":102025003,
-    "wof:lastmodified":1563290426,
+    "wof:lastmodified":1566656473,
     "wof:name":"Amphoe Phimai",
     "wof:parent_id":890466783,
     "wof:placetype":"locality",

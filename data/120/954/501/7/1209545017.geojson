@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Bangkok",
     "iso:country":"TH",
+    "lbl:bbox":"100.16333,13.66333,100.20333,13.70333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632293
@@ -34,7 +38,7 @@
         "gn:id":1617015
     },
     "wof:country":"TH",
-    "wof:geomhash":"ba2aa67fae99b10179fdbecaefb2ce99",
+    "wof:geomhash":"ec3e26f6c357245c6de3b544b76acfe1",
     "wof:hierarchy":[
         {
             "country_id":85632293,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209545017,
-    "wof:lastmodified":1536283870,
+    "wof:lastmodified":1566659929,
     "wof:name":"Ban Lat Bua",
     "wof:parent_id":85632293,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     100.18333,
-    13.683329999999998,
+    13.68333,
     100.18333,
-    13.683329999999998
+    13.68333
 ],
   "geometry": {"coordinates":[100.18333,13.68333],"type":"Point"}
 }

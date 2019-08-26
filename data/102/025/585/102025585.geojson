@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000448,
-    "geom:area_square_m":5317630.639939,
+    "geom:area_square_m":5317630.639937,
     "geom:bbox":"101.960252248,16.3690929758,101.97895665,16.3976889685",
     "geom:latitude":16.383391,
     "geom:longitude":101.969604,
@@ -14,14 +14,17 @@
     "iso:country":"TH",
     "lbl:latitude":16.383391,
     "lbl:longitude":101.969604,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":16.383391,
     "mps:longitude":101.969604,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:tha_x_preferred":[
         "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e1b\u0e49\u0e32"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ban Noen Khun"
     ],
     "qs:a1":"*",
@@ -35,7 +38,7 @@
     "qs:source":"Aquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":14,
     "wof:belongsto":[
         102191569,
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":102025585,
-    "wof:lastmodified":1527636688,
+    "wof:lastmodified":1566656483,
     "wof:name":"Ban Pao",
     "wof:parent_id":890466305,
     "wof:placetype":"locality",

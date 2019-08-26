@@ -11,15 +11,19 @@
     "geom:longitude":99.17025,
     "gn:country":"TH",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424960,
     "iso:country":"TH",
+    "lbl:bbox":"99.15025,9.202,99.19025,9.242",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:tha_x_preferred":[
         "\u0e1a\u0e49\u0e32\u0e19\u0e43\u0e2b\u0e0d\u0e48"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ban Yai"
     ],
     "qs:name":"Bang Sai",
@@ -44,7 +48,7 @@
     "wof:concordances":{
         "gn:id":1117124,
         "gp:id":55946558,
-        "qs:id":1182849
+        "qs_pg:id":1182849
     },
     "wof:country":"TH",
     "wof:created":1469053612,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":890467095,
-    "wof:lastmodified":1505343709,
+    "wof:lastmodified":1566663231,
     "wof:name":"Bang Sai",
     "wof:parent_id":1108802751,
     "wof:placetype":"locality",

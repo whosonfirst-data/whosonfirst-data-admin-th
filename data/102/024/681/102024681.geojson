@@ -12,10 +12,13 @@
     "iso:country":"TH",
     "lbl:latitude":13.732672,
     "lbl:longitude":100.48997,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":13.732672,
     "mps:longitude":100.48997,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:dan_x_preferred":[
         "Thonburi"
     ],
@@ -64,7 +67,7 @@
     "name:tha_x_variant":[
         "\u0e1d\u0e31\u0e48\u0e07\u0e18\u0e19\u0e1a\u0e38\u0e23\u0e35"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dhonburi"
     ],
     "name:zho_x_preferred":[
@@ -85,7 +88,7 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":661,
     "wof:belongsto":[
         102191569,
@@ -99,7 +102,7 @@
     "wof:concordances":{
         "gn:id":1605403,
         "gp:id":28341426,
-        "qs:id":843010,
+        "qs_pg:id":843010,
         "wd:id":"Q6580711"
     },
     "wof:country":"TH",
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":102024681,
-    "wof:lastmodified":1563290195,
+    "wof:lastmodified":1566656312,
     "wof:name":"Thon Buri",
     "wof:parent_id":890466225,
     "wof:placetype":"locality",

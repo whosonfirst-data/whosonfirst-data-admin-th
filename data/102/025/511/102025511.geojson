@@ -15,10 +15,13 @@
     "iso:country":"TH",
     "lbl:latitude":18.366376,
     "lbl:longitude":103.644816,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":18.366376,
     "mps:longitude":103.644816,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Bueng Kan"
     ],
@@ -55,7 +58,7 @@
     "name:tha_x_variant":[
         "\u0e1a\u0e36\u0e07\u0e01\u0e32\u0e2c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Amphoe Chai Buri"
     ],
     "name:urd_x_preferred":[
@@ -74,7 +77,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -85,7 +88,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1611475,
-        "qs:id":1030602,
         "qs_pg:id":1030602,
         "wd:id":"Q4985499",
         "wk:page":"Bueng Kan"
@@ -102,7 +104,7 @@
         }
     ],
     "wof:id":102025511,
-    "wof:lastmodified":1563290390,
+    "wof:lastmodified":1566656449,
     "wof:name":"Bueng Kan",
     "wof:parent_id":1108731203,
     "wof:placetype":"locality",

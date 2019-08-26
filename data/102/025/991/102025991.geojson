@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001368,
-    "geom:area_square_m":16425282.602285,
+    "geom:area_square_m":16425282.602289,
     "geom:bbox":"101.389067621,13.8450463672,101.42953441,13.905777575",
     "geom:latitude":13.874933,
     "geom:longitude":101.405447,
@@ -14,16 +14,20 @@
     "iso:country":"TH",
     "lbl:latitude":13.877975,
     "lbl:longitude":101.407433,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":13.877975,
     "mps:longitude":101.407433,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Si Mahosot"
     ],
     "name:tha_x_preferred":[
         "\u0e28\u0e23\u0e35\u0e21\u0e42\u0e2b\u0e2a\u0e16"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "King Amphoe Khok Pip"
     ],
     "qs:a0":"Thailand",
@@ -43,7 +47,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -54,7 +58,6 @@
         "fct:id":"07cead48-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":7510923,
         "gp:id":28349119,
-        "qs:id":303833,
         "qs_pg:id":303833
     },
     "wof:country":"TH",
@@ -71,7 +74,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1497300271,
+    "wof:lastmodified":1566656414,
     "wof:name":"Si Mahosot",
     "wof:parent_id":85678711,
     "wof:placetype":"locality",

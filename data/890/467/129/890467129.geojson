@@ -11,7 +11,7 @@
     "geom:longitude":102.786275,
     "gn:country":"TH",
     "gn:fcode":"PPLA2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424960,
     "iso:country":"TH",
     "label:eng_x_preferred_longname":[
@@ -22,6 +22,8 @@
     ],
     "lbl:latitude":17.151451,
     "lbl:longitude":102.786237,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"UDON THAN",
     "meso:diss_me":"Non SaengUDON THAN",
     "meso:gadm_admin":"Nong Saeng",
@@ -35,6 +37,7 @@
     "meso:source":"AOTM",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Nong Saeng"
     ],
@@ -48,9 +51,6 @@
     "name:tha_x_variant":[
         "\u0e2b\u0e19\u0e2d\u0e07\u0e41\u0e2a\u0e07"
     ],
-    "name:unk_x_variant":[
-        "Nong Saeng"
-    ],
     "qs:name":"Nong Saeng",
     "qs:name_adm0":"Thailand",
     "qs:name_adm1":"Udon Thani",
@@ -63,9 +63,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"659",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -86,7 +86,7 @@
         "gn:id":1608173,
         "gp:id":28341032,
         "hasc:id":"TH.UN.NO",
-        "qs:id":359580
+        "qs_pg:id":359580
     },
     "wof:country":"TH",
     "wof:created":1469053614,
@@ -100,7 +100,7 @@
         }
     ],
     "wof:id":890467129,
-    "wof:lastmodified":1554489108,
+    "wof:lastmodified":1566663221,
     "wof:name":"Non Saeng",
     "wof:parent_id":85678869,
     "wof:placetype":"county",

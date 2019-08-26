@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":15.636839,
     "lbl:longitude":103.793814,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"ROIET",
     "meso:diss_me":"SuwannaphumROIET",
     "meso:gadm_admin":"Suwannaphum",
@@ -35,6 +37,7 @@
     "mps:longitude":103.793814,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09b8\u09c1\u09f1\u09be\u09a8\u09a8\u09be\u09ab\u09c1\u09ae"
     ],
@@ -69,9 +72,9 @@
         "\u7d20\u65fa\u90a3\u9022\u7e23"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"1107",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":1108731957,
-    "wof:lastmodified":1563296452,
+    "wof:lastmodified":1566661707,
     "wof:name":"Suwannaphum",
     "wof:parent_id":85678845,
     "wof:placetype":"county",

@@ -15,10 +15,13 @@
     "iso:country":"TH",
     "lbl:latitude":16.535627,
     "lbl:longitude":104.051964,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":16.535627,
     "mps:longitude":104.051964,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:deu_x_preferred":[
         "Bua Khao"
     ],
@@ -33,9 +36,6 @@
     ],
     "name:tha_x_variant":[
         "\u0e40\u0e17\u0e28\u0e1a\u0e32\u0e25\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e1a\u0e31\u0e27\u0e02\u0e32\u0e27"
-    ],
-    "name:unk_x_variant":[
-        "Bua Khao"
     ],
     "qs:a0":"Thailand",
     "qs:a1":"*Kalasin",
@@ -54,7 +54,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -66,7 +66,6 @@
         "fct:id":"07cf852e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1609345,
         "gp:id":1226017,
-        "qs:id":306922,
         "qs_pg:id":306922,
         "wd:id":"Q13025357"
     },
@@ -84,7 +83,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563290365,
+    "wof:lastmodified":1566656434,
     "wof:name":"Kuchinarai",
     "wof:parent_id":85678831,
     "wof:placetype":"locality",

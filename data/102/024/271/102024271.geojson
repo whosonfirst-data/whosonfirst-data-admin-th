@@ -12,10 +12,13 @@
     "iso:country":"TH",
     "lbl:latitude":14.67394,
     "lbl:longitude":99.695435,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":14.67394,
     "mps:longitude":99.695435,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09b2\u09be\u0993\u0996\u09f1\u09be\u09a8"
     ],
@@ -49,9 +52,6 @@
     "name:tha_x_variant":[
         "\u0e40\u0e25\u0e32\u0e02\u0e27\u0e31\u0e0d"
     ],
-    "name:unk_x_variant":[
-        "\u0e40\u0e25\u0e32\u0e02\u0e27\u0e31\u0e0d"
-    ],
     "name:urd_x_preferred":[
         "\u0644\u0627\u0648 \u06a9\u06be\u0648\u0627\u0646 \u0636\u0644\u0639"
     ],
@@ -76,7 +76,7 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":217,
     "wof:belongsto":[
         102191569,
@@ -88,7 +88,7 @@
         "fct:id":"07cf35ce-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1152408,
         "gp:id":28341439,
-        "qs:id":206802,
+        "qs_pg:id":206802,
         "wd:id":"Q475895"
     },
     "wof:country":"TH",
@@ -105,7 +105,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563290283,
+    "wof:lastmodified":1566656378,
     "wof:name":"Lao Khwan",
     "wof:parent_id":85678663,
     "wof:placetype":"locality",

@@ -14,10 +14,13 @@
     "iso:country":"TH",
     "lbl:latitude":14.243613,
     "lbl:longitude":101.310389,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":14.243613,
     "mps:longitude":101.310389,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09aa\u09be\u0995 \u09ab\u09b2\u09bf"
     ],
@@ -48,9 +51,6 @@
     "name:tha_x_variant":[
         "\u0e1b\u0e32\u0e01\u0e1e\u0e25\u0e35"
     ],
-    "name:unk_x_variant":[
-        "Amphoe Pak Phli"
-    ],
     "name:urd_x_preferred":[
         "\u067e\u0627\u06a9 \u067e\u06be\u0644\u06cc \u0636\u0644\u0639"
     ],
@@ -80,7 +80,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":406,
     "wof:belongsto":[
         102191569,
@@ -92,9 +92,11 @@
     "wof:concordances":{
         "gn:id":1617402,
         "gp:id":1225550,
-        "qs:id":392764,
         "qs_pg:id":383898,
         "wd:id":"Q476336"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":392764
     },
     "wof:country":"TH",
     "wof:geomhash":"35c4b8af7e86557fd4307d3ca9874037",
@@ -108,7 +110,7 @@
         }
     ],
     "wof:id":102025075,
-    "wof:lastmodified":1563290420,
+    "wof:lastmodified":1566656468,
     "wof:name":"Pak Phli",
     "wof:parent_id":890466935,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":102.5891,
     "gn:country":"TH",
     "gn:fcode":"PPL",
-    "gn:pop":286,
+    "gn:population":286,
     "iso:country":"TH",
+    "lbl:bbox":"102.5691,11.59333,102.6091,11.63333",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u0985\u0993 \u09b2\u09c1\u09af\u09bc\u09c7\u0995"
     ],
@@ -65,7 +69,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1604535,
-        "qs:id":85384,
+        "qs_pg:id":85384,
         "wk:page":"Ao Luek District"
     },
     "wof:country":"TH",
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":890467061,
-    "wof:lastmodified":1564109665,
+    "wof:lastmodified":1566663232,
     "wof:name":"Ban Ao Yai",
     "wof:parent_id":85678813,
     "wof:placetype":"locality",

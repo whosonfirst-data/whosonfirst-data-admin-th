@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000281,
-    "geom:area_square_m":3377447.960215,
+    "geom:area_square_m":3377447.960207,
     "geom:bbox":"100.567140716,13.728712872,100.58807373,13.7568063216",
     "geom:latitude":13.739984,
     "geom:longitude":100.577056,
@@ -13,6 +13,7 @@
     "iso:country":"TH",
     "lbl:latitude":13.737601,
     "lbl:longitude":100.576134,
+    "lbl:max_zoom":18.0,
     "mps:latitude":13.737095,
     "mps:longitude":100.577219,
     "mz:hierarchy_label":1,
@@ -29,9 +30,6 @@
     ],
     "name:eng_x_variant":[
         "Watthana Khwang"
-    ],
-    "name:unk_x_variant":[
-        "Watthana Khwaeng"
     ],
     "qs:gn_adm0_cc":"TH",
     "qs:gn_id":0,
@@ -60,7 +58,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85678739,
         102191569,
@@ -71,7 +69,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28349143,
-        "qs:id":901205,
         "qs_pg:id":901205
     },
     "wof:country":"TH",
@@ -90,7 +87,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527269173,
+    "wof:lastmodified":1566657683,
     "wof:name":"Watthana Khwaeng",
     "wof:parent_id":102025263,
     "wof:placetype":"neighbourhood",

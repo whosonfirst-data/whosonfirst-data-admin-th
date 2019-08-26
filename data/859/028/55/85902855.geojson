@@ -14,6 +14,7 @@
     "iso:country":"TH",
     "lbl:latitude":13.749284,
     "lbl:longitude":100.54935,
+    "lbl:max_zoom":18.0,
     "mps:latitude":13.756063,
     "mps:longitude":100.553825,
     "mz:hierarchy_label":1,
@@ -36,9 +37,6 @@
     ],
     "name:tha_x_preferred":[
         "\u0e21\u0e31\u0e01\u0e01\u0e30\u0e2a\u0e31\u0e19"
-    ],
-    "name:unk_x_variant":[
-        "Makkasan"
     ],
     "qs:gn_adm0_cc":"TH",
     "qs:gn_fcode":"PPLX",
@@ -68,7 +66,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85678739,
         102191569,
@@ -80,7 +78,6 @@
     "wof:concordances":{
         "gn:id":1608797,
         "gp:id":1225486,
-        "qs:id":218426,
         "qs_pg:id":218426
     },
     "wof:country":"TH",
@@ -99,7 +96,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564102764,
+    "wof:lastmodified":1566657686,
     "wof:name":"Makkasan",
     "wof:parent_id":102025263,
     "wof:placetype":"neighbourhood",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":18.090466,
     "lbl:longitude":99.176942,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"LAMPANG",
     "meso:diss_me":"Soem NgamLAMPANG",
     "meso:gadm_admin":"Soem Ngam",
@@ -35,6 +37,7 @@
     "mps:longitude":99.176942,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09b8\u09cb\u09af\u09bc\u09c7\u09ae \u0999\u09be\u09ae"
     ],
@@ -69,9 +72,9 @@
         "Soem Ngam"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"632",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":1108731925,
-    "wof:lastmodified":1563296452,
+    "wof:lastmodified":1566661707,
     "wof:name":"Soem Ngam",
     "wof:parent_id":85678625,
     "wof:placetype":"county",

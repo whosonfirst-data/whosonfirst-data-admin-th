@@ -12,10 +12,13 @@
     "iso:country":"TH",
     "lbl:latitude":16.12443,
     "lbl:longitude":99.332799,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":16.12443,
     "mps:longitude":99.332799,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Nationalpark Khlong Lan"
     ],
@@ -49,9 +52,6 @@
     "name:ukr_x_preferred":[
         "\u041d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0438\u0439 \u043f\u0430\u0440\u043a \u0425\u043b\u043e\u043d\u0433-\u041b\u0430\u043d"
     ],
-    "name:unk_x_variant":[
-        "\u0e04\u0e25\u0e2d\u0e07\u0e25\u0e32\u0e19"
-    ],
     "qs:a0":"Thailand",
     "qs:a1":"*Kamphaeng Phet",
     "qs:a1r":"*",
@@ -67,7 +67,7 @@
     "qs:type":"Town",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":137,
     "wof:belongsto":[
         102191569,
@@ -79,7 +79,7 @@
         "fct:id":"07cf2fa2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1152850,
         "gp:id":28340947,
-        "qs:id":1113768,
+        "qs_pg:id":1113768,
         "wd:id":"Q1968833"
     },
     "wof:country":"TH",
@@ -96,7 +96,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563290245,
+    "wof:lastmodified":1566656352,
     "wof:name":"Khlong Lan",
     "wof:parent_id":85678665,
     "wof:placetype":"locality",

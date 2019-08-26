@@ -11,15 +11,19 @@
     "geom:longitude":99.85386,
     "gn:country":"TH",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424960,
     "iso:country":"TH",
+    "lbl:bbox":"99.83386,17.16572,99.87386,17.20572",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:tha_x_preferred":[
         "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e19\u0e2d\u0e07\u0e41\u0e2b\u0e19"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "B\u0101n Naung Hean"
     ],
     "qs:name":"Ban Nong Nae",
@@ -41,7 +45,7 @@
     "wof:concordances":{
         "gn:id":1155725,
         "gp:id":1215003,
-        "qs:id":344216
+        "qs_pg:id":344216
     },
     "wof:country":"TH",
     "wof:created":1469053614,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890467125,
-    "wof:lastmodified":1505343709,
+    "wof:lastmodified":1566663236,
     "wof:name":"Ban Nong Nae",
     "wof:parent_id":85678651,
     "wof:placetype":"locality",

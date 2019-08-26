@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":6.890405,
     "lbl:longitude":100.702319,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"SONGKHLA",
     "meso:diss_me":"ChanaSONGKHLA",
     "meso:gadm_admin":"Chana",
@@ -35,6 +37,7 @@
     "mps:longitude":100.702319,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u099a\u09be\u09a8\u09be"
     ],
@@ -69,9 +72,9 @@
         "Chana"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"503",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":1108731225,
-    "wof:lastmodified":1563296577,
+    "wof:lastmodified":1566661775,
     "wof:name":"Chana",
     "wof:parent_id":85678603,
     "wof:placetype":"county",

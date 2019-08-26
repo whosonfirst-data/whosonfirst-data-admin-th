@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001208,
+    "geom:area_square_m":14811311.865156,
     "geom:bbox":"100.433447788,7.23900406619,100.517478327,7.35516571491",
     "geom:latitude":7.313831,
     "geom:longitude":100.479793,
@@ -13,9 +14,13 @@
     "iso:country":"TH",
     "lbl:latitude":7.346123,
     "lbl:longitude":100.480957,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":7.346123,
     "mps:longitude":100.480957,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Singhanakhon"
     ],
@@ -25,7 +30,7 @@
     "name:tha_x_preferred":[
         "\u0e2a\u0e34\u0e07\u0e2b\u0e19\u0e04\u0e23"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "King Amphoe Singhanakhon"
     ],
     "qs:a0":"Thailand",
@@ -43,7 +48,7 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -54,7 +59,7 @@
         "fct:id":"07ce8fde-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":8305251,
         "gp:id":28341679,
-        "qs:id":271067
+        "qs_pg:id":271067
     },
     "wof:country":"TH",
     "wof:geomhash":"d234017aa8f9498172c94fb891f01575",
@@ -70,7 +75,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1501273462,
+    "wof:lastmodified":1566656499,
     "wof:name":"Singhanakhon",
     "wof:parent_id":85678603,
     "wof:placetype":"locality",

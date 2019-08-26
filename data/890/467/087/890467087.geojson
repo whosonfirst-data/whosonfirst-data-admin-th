@@ -11,8 +11,12 @@
     "geom:longitude":98.962097,
     "gp:adm0":23424960,
     "iso:country":"TH",
+    "lbl:bbox":"98.942097,16.238185,98.982097,16.278185",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Mokro"
     ],
@@ -57,7 +61,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55944794,
-        "qs:id":1178906,
+        "qs_pg:id":1178906,
         "wk:page":"Mokro"
     },
     "wof:country":"TH",
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":890467087,
-    "wof:lastmodified":1564109661,
+    "wof:lastmodified":1566663227,
     "wof:name":"Mokro",
     "wof:parent_id":85678683,
     "wof:placetype":"locality",

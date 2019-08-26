@@ -23,16 +23,19 @@
     "gn:population":0,
     "gn:timezone":"Asia/Bangkok",
     "iso:country":"TH",
+    "lbl:bbox":"100.13858,13.84411,100.17858,13.88411",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:tha_x_preferred":[
         "\u0e1a\u0e49\u0e32\u0e19\u0e28\u0e23\u0e35\u0e21\u0e2b\u0e32\u0e42\u0e1e\u0e18\u0e34\u0e4c"
     ],
     "name:und_x_variant":[
         "Ban Si Maha Phot",
         "Ban Srimahapo",
-        "Ban Si Maha Pho",
-        "\u0e1a\u0e49\u0e32\u0e19\u0e28\u0e23\u0e35\u0e21\u0e2b\u0e32\u0e42\u0e1e\u0e18\u0e34\u0e4c"
+        "Ban Si Maha Pho"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1226080893,
-    "wof:lastmodified":1537703760,
+    "wof:lastmodified":1566666051,
     "wof:name":"Ban Si Maha Pho",
     "wof:parent_id":1108731577,
     "wof:placetype":"locality",

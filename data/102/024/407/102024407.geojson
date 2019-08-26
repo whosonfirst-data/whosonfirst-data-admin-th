@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000265,
-    "geom:area_square_m":3134664.806689,
+    "geom:area_square_m":3134664.806692,
     "geom:bbox":"99.2246282424,16.7060842648,99.243389329,16.7241637123",
     "geom:latitude":16.715124,
     "geom:longitude":99.234009,
     "iso:country":"TH",
     "lbl:latitude":16.715124,
     "lbl:longitude":99.234009,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":16.715124,
     "mps:longitude":99.234009,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:hun_x_preferred":[
         "Vang Csao"
     ],
@@ -25,7 +28,7 @@
     "name:tha_x_preferred":[
         "\u0e27\u0e31\u0e07\u0e40\u0e08\u0e49\u0e32"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Muang Kosamphi"
     ],
     "name:zho_x_preferred":[
@@ -44,7 +47,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":82,
     "wof:belongsto":[
         102191569,
@@ -55,7 +58,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1154094,
-        "qs:id":244434,
         "qs_pg:id":244434
     },
     "wof:country":"TH",
@@ -70,7 +72,7 @@
         }
     ],
     "wof:id":102024407,
-    "wof:lastmodified":1527636437,
+    "wof:lastmodified":1566656337,
     "wof:name":"Wang Chao",
     "wof:parent_id":890466081,
     "wof:placetype":"locality",

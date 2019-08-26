@@ -14,10 +14,13 @@
     "iso:country":"TH",
     "lbl:latitude":17.386179,
     "lbl:longitude":103.716268,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":17.386179,
     "mps:longitude":103.716268,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ab\u09be\u0982 \u0996\u09cb\u09a8"
     ],
@@ -44,9 +47,6 @@
         "\u0e1e\u0e31\u0e07\u0e42\u0e04\u0e19",
         "\u0e40\u0e17\u0e28\u0e1a\u0e32\u0e25\u0e15\u0e33\u0e1a\u0e25\u0e1e\u0e31\u0e07\u0e42\u0e04\u0e19"
     ],
-    "name:unk_x_variant":[
-        "Ban Phany Khon"
-    ],
     "name:vie_x_preferred":[
         "Phang Khon"
     ],
@@ -70,7 +70,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":158,
     "wof:belongsto":[
         102191569,
@@ -82,7 +82,6 @@
         "fct:id":"07cf43e8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1607826,
         "gp:id":1225565,
-        "qs:id":1251728,
         "qs_pg:id":1251728,
         "wd:id":"Q37791402"
     },
@@ -100,7 +99,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561758386,
+    "wof:lastmodified":1566656423,
     "wof:name":"Phang Khon",
     "wof:parent_id":85678863,
     "wof:placetype":"locality",

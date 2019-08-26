@@ -14,6 +14,8 @@
     "iso:country":"TH",
     "lbl:latitude":7.558872,
     "lbl:longitude":99.604414,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":7.558872,
     "mps:longitude":99.604414,
     "mz:hierarchy_label":1,
@@ -142,7 +144,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0440\u0430\u043d\u0433"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Changwat Trang"
     ],
     "name:urd_x_preferred":[
@@ -277,7 +279,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":69,
     "wof:belongsto":[
@@ -290,10 +292,12 @@
     "wof:concordances":{
         "gn:id":1150007,
         "gp:id":1226201,
-        "qs:id":1114249,
         "qs_pg:id":275999,
         "wd:id":"Q1014322",
         "wk:page":"Trang"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1114249
     },
     "wof:country":"TH",
     "wof:geomhash":"b8aab9b41a5fdf8a4e2f79d4406a6cee",
@@ -307,7 +311,7 @@
         }
     ],
     "wof:id":102024061,
-    "wof:lastmodified":1563290294,
+    "wof:lastmodified":1566656386,
     "wof:name":"Trang",
     "wof:parent_id":890466897,
     "wof:placetype":"locality",

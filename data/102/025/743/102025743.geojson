@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00068,
-    "geom:area_square_m":8345867.207326,
+    "geom:area_square_m":8345867.207328,
     "geom:bbox":"100.356548156,7.0427874235,100.396625341,7.07177718797",
     "geom:latitude":7.055799,
     "geom:longitude":100.376147,
@@ -14,10 +14,13 @@
     "iso:country":"TH",
     "lbl:latitude":7.051828,
     "lbl:longitude":100.37645,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":7.051828,
     "mps:longitude":100.37645,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ban Bang Klam Ban Tai"
     ],
@@ -27,9 +30,6 @@
     ],
     "name:tha_x_preferred":[
         "\u0e1a\u0e32\u0e07\u0e01\u0e25\u0e48\u0e33"
-    ],
-    "name:unk_x_variant":[
-        "Ban Bang Klam"
     ],
     "qs:a0":"Thailand",
     "qs:a1":"*Songkhla",
@@ -46,7 +46,7 @@
     "qs:type":"Town",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -58,7 +58,7 @@
         "fct:id":"07cecac6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1620816,
         "gp:id":28341690,
-        "qs:id":217935
+        "qs_pg:id":217935
     },
     "wof:country":"TH",
     "wof:geomhash":"dcb5006250244f238852369d1dfe095b",
@@ -75,7 +75,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1501221073,
+    "wof:lastmodified":1566656482,
     "wof:name":"Bang Klam",
     "wof:parent_id":1108802577,
     "wof:placetype":"locality",

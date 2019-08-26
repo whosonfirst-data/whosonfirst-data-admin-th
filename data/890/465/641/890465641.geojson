@@ -11,15 +11,18 @@
     "geom:longitude":100.41794,
     "gn:country":"TH",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424960,
     "iso:country":"TH",
+    "lbl:bbox":"100.41294,13.74836,100.42294,13.75836",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:tha_x_preferred":[
         "\u0e1a\u0e49\u0e32\u0e19\u0e04\u0e25\u0e2d\u0e07\u0e1a\u0e32\u0e07\u0e40\u0e0a\u0e37\u0e2d\u0e01\u0e2b\u0e19\u0e31\u0e07"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ban Bang Chuak Nang"
     ],
     "qs:name":"Ban Khlong Bang Chuak Nang",
@@ -44,7 +47,7 @@
     "wof:concordances":{
         "gn:id":1618377,
         "gp:id":1206342,
-        "qs:id":268597
+        "qs_pg:id":268597
     },
     "wof:country":"TH",
     "wof:created":1469053528,
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":890465641,
-    "wof:lastmodified":1505343704,
+    "wof:lastmodified":1566663201,
     "wof:name":"Ban Khlong Bang Chuak Nang",
     "wof:parent_id":102025263,
     "wof:placetype":"neighbourhood",

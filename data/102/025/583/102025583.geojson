@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001224,
-    "geom:area_square_m":14400881.328933,
+    "geom:area_square_m":14400881.328947,
     "geom:bbox":"104.179398386,17.9514070176,104.231245134,17.9929956197",
     "geom:latitude":17.970089,
     "geom:longitude":104.20496,
@@ -14,9 +14,13 @@
     "iso:country":"TH",
     "lbl:latitude":17.966658,
     "lbl:longitude":104.207119,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":17.966658,
     "mps:longitude":104.207119,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ban Phaeng"
     ],
@@ -28,7 +32,7 @@
     "name:tha_x_preferred":[
         "\u0e1a\u0e49\u0e32\u0e19\u0e41\u0e1e\u0e07"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Amphoe Ban Phaeng"
     ],
     "qs:a0":"Thailand",
@@ -46,7 +50,7 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -58,7 +62,7 @@
         "fct:id":"07cf0aae-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1614469,
         "gp:id":28341070,
-        "qs:id":352383
+        "qs_pg:id":352383
     },
     "wof:country":"TH",
     "wof:geomhash":"42f3ad638a1eee1e69529a1f13ce7f60",
@@ -75,7 +79,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1501221067,
+    "wof:lastmodified":1566656489,
     "wof:name":"Ban Phaeng",
     "wof:parent_id":890466251,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004283,
-    "geom:area_square_m":50667307.604591,
+    "geom:area_square_m":50667307.60455,
     "geom:bbox":"101.180190043,16.8428295348,101.253887414,17.0185474907",
     "geom:latitude":16.923,
     "geom:longitude":101.215346,
@@ -14,9 +14,13 @@
     "iso:country":"TH",
     "lbl:latitude":16.867064,
     "lbl:longitude":101.22803,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":16.867064,
     "mps:longitude":101.22803,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_colloquial":[
         "Baan Lom Gaao",
         "Ban Lom Gao",
@@ -35,7 +39,7 @@
     "name:tha_x_preferred":[
         "\u0e2b\u0e25\u0e48\u0e21\u0e40\u0e01\u0e48\u0e32"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Amphoe Lom Kao"
     ],
     "qs:a0":"Thailand",
@@ -53,7 +57,7 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -64,7 +68,7 @@
         "fct:id":"07ceb978-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1609048,
         "gp:id":28341009,
-        "qs:id":1113764
+        "qs_pg:id":1113764
     },
     "wof:country":"TH",
     "wof:geomhash":"c9bf7e8825e5224c60e76f2773f3a9d8",
@@ -80,7 +84,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1501221033,
+    "wof:lastmodified":1566656422,
     "wof:name":"Lom Kao",
     "wof:parent_id":85678673,
     "wof:placetype":"locality",

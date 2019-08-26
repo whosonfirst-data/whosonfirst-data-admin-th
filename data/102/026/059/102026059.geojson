@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001075,
+    "geom:area_square_m":12796386.389532,
     "geom:bbox":"103.014959932,15.7567874548,103.044610498,15.817145574",
     "geom:latitude":15.79054,
     "geom:longitude":103.028452,
     "iso:country":"TH",
     "lbl:latitude":15.806197,
     "lbl:longitude":103.03288,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":15.806197,
     "mps:longitude":103.03288,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a1":"*",
     "qs:a1r":"*",
     "qs:id":0,
@@ -27,7 +32,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -36,7 +41,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7510974,
-        "qs:id":1041718,
         "qs_pg:id":1041718
     },
     "wof:country":"TH",
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":102026059,
-    "wof:lastmodified":1497294880,
+    "wof:lastmodified":1566656508,
     "wof:name":"Na Chueak",
     "wof:parent_id":85678835,
     "wof:placetype":"locality",

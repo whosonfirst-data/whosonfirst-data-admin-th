@@ -11,7 +11,7 @@
     "geom:longitude":100.697708,
     "gn:country":"TH",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"TH",
     "label:eng_x_preferred_longname":[
         "Uthai District"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":14.354469,
     "lbl:longitude":100.695965,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"PHRA NAKHON SI AYUTTHAYA",
     "meso:diss_me":"UthaiPHRA NAKHON SI AYUTTHAYA",
     "meso:gadm_admin":"Uthai",
@@ -38,6 +40,7 @@
     "mps:longitude":100.695965,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Uthai"
     ],
@@ -54,7 +57,7 @@
         "\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e2d\u0e38\u0e17\u0e31\u0e22\u0e18\u0e32\u0e19\u0e35",
         "\u0e2d\u0e38\u0e17\u0e31\u0e22"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Amphoe Muang Uthai Thani"
     ],
     "qs:name":"Amphoe Mueang Uthai Thani",
@@ -65,9 +68,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"187",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -89,7 +92,7 @@
         "gn:id":1608607,
         "gp:id":28340990,
         "hasc:id":"TH.PA.UT",
-        "qs:id":1030555,
+        "qs_pg:id":1030555,
         "wd:id":"Q476111",
         "wk:page":"Mueang Uthai Thani District"
     },
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":890466353,
-    "wof:lastmodified":1563298348,
+    "wof:lastmodified":1566663242,
     "wof:name":"Uthai",
     "wof:parent_id":85678689,
     "wof:placetype":"county",

@@ -29,6 +29,7 @@
     ],
     "lbl:latitude":12.830634,
     "lbl:longitude":101.457205,
+    "lbl:min_zoom":8.0,
     "mps:latitude":12.830634,
     "mps:longitude":101.457205,
     "mz:hierarchy_label":1,
@@ -320,7 +321,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0440\u043e\u0432\u0456\u043d\u0446\u0456\u044f \u0420\u0430\u0439\u043e\u043d\u0433"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ra Yohng"
     ],
     "name:urd_x_preferred":[
@@ -427,7 +428,7 @@
     "qs:type":"Province",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wikidata",
     "src:population_date":"2017",
     "statoids:area_km":"3,552",
@@ -455,7 +456,7 @@
         "gp:id":2347171,
         "hasc:id":"TH.RY",
         "iso:id":"TH-21",
-        "qs:id":1135370,
+        "qs_pg:id":1135370,
         "unlc:id":"TH-21",
         "wd:id":"Q335221",
         "wk:page":"Rayong Province"
@@ -476,11 +477,10 @@
     "wof:lang_x_spoken":[
         "tha"
     ],
-    "wof:lastmodified":1565737054,
+    "wof:lastmodified":1566657710,
     "wof:name":"Rayong",
     "wof:parent_id":85632293,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":674393,
     "wof:population_rank":11,

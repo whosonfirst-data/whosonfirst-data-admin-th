@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00344,
-    "geom:area_square_m":40538232.656073,
+    "geom:area_square_m":40538232.656118,
     "geom:bbox":"98.9499179298,17.5669183068,99.2461815322,17.752493665",
     "geom:latitude":17.630219,
     "geom:longitude":99.157322,
@@ -13,10 +13,13 @@
     "iso:country":"TH",
     "lbl:latitude":17.603874,
     "lbl:longitude":99.216438,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":17.603874,
     "mps:longitude":99.216438,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:eng_x_preferred":[
         "Thoen"
     ],
@@ -29,9 +32,6 @@
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e16\u0e34\u0e19"
-    ],
-    "name:unk_x_variant":[
-        "Lau Raet"
     ],
     "qs:a0":"Thailand",
     "qs:a1":"*Lampang",
@@ -48,7 +48,7 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":45,
     "wof:belongsto":[
@@ -62,7 +62,7 @@
         "fct:id":"07cf5770-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1150154,
         "gp:id":28340846,
-        "qs:id":210233
+        "qs_pg:id":210233
     },
     "wof:country":"TH",
     "wof:geomhash":"ca376a4f931a8e4b342297808848b35a",
@@ -79,7 +79,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636446,
+    "wof:lastmodified":1566656377,
     "wof:name":"Thoen",
     "wof:parent_id":1108802761,
     "wof:placetype":"locality",

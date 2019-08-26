@@ -14,6 +14,8 @@
     "iso:country":"TH",
     "lbl:latitude":18.280418,
     "lbl:longitude":99.490149,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":18.280418,
     "mps:longitude":99.490149,
     "mz:hierarchy_label":1,
@@ -139,7 +141,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u0430\u043c\u043f\u0430\u043d\u0433"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Muang Nagorn Lambang"
     ],
     "name:urd_x_preferred":[
@@ -274,7 +276,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1343,
     "wof:belongsto":[
@@ -287,10 +289,12 @@
     "wof:concordances":{
         "gn:id":1152473,
         "gp:id":1226023,
-        "qs:id":1080036,
         "qs_pg:id":350050,
         "wd:id":"Q1012610",
         "wk:page":"Lampang"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1080036
     },
     "wof:country":"TH",
     "wof:geomhash":"f25b34f20ae8d6979431f01a04710586",
@@ -304,7 +308,7 @@
         }
     ],
     "wof:id":102024285,
-    "wof:lastmodified":1563290283,
+    "wof:lastmodified":1566656378,
     "wof:name":"Lampang",
     "wof:parent_id":1108802669,
     "wof:placetype":"locality",

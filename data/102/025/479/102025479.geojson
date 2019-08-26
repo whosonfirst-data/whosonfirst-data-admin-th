@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000255,
+    "geom:area_square_m":3130806.225822,
     "geom:bbox":"101.685918332,6.11513335139,101.703974178,6.13320576907",
     "geom:latitude":6.12417,
     "geom:longitude":101.694946,
@@ -13,16 +14,20 @@
     "iso:country":"TH",
     "lbl:latitude":6.124169,
     "lbl:longitude":101.694946,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":6.124169,
     "mps:longitude":101.694946,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Chanae"
     ],
     "name:tha_x_preferred":[
         "\u0e08\u0e30\u0e41\u0e19\u0e30"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Amphoe Chanea"
     ],
     "qs:a0":"Thailand",
@@ -40,7 +45,7 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -51,7 +56,7 @@
         "fct:id":"07d1c096-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1611320,
         "gp:id":28341723,
-        "qs:id":206862
+        "qs_pg:id":206862
     },
     "wof:country":"TH",
     "wof:geomhash":"e2db07f98226ca351cedd273c4e5df2c",
@@ -67,7 +72,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1501221062,
+    "wof:lastmodified":1566656428,
     "wof:name":"Chanae",
     "wof:parent_id":85678885,
     "wof:placetype":"locality",

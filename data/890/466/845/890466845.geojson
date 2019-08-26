@@ -19,6 +19,8 @@
     ],
     "lbl:latitude":17.390871,
     "lbl:longitude":102.808669,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"UDON THAN",
     "meso:diss_me":"Muang Udon ThaniUDON THAN",
     "meso:gadm_admin":"Muang Udon Thani",
@@ -36,6 +38,7 @@
     "mps:longitude":102.808669,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ae\u09c1\u09af\u09bc\u09c7\u0982 \u0989\u09a6\u09cb\u09a8 \u09a5\u09be\u09a8\u09bf"
     ],
@@ -87,9 +90,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"1095",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -110,7 +113,7 @@
     "wof:concordances":{
         "gp:id":28341024,
         "hasc:id":"TH.UN.UT",
-        "qs:id":1087153,
+        "qs_pg:id":1087153,
         "wd:id":"Q476110",
         "wk:page":"Mueang Udon Thani District"
     },
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":890466845,
-    "wof:lastmodified":1563298360,
+    "wof:lastmodified":1566663248,
     "wof:name":"Muang Udon Thani",
     "wof:parent_id":85678869,
     "wof:placetype":"county",

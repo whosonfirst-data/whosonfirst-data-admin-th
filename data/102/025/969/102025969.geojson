@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001173,
+    "geom:area_square_m":13932951.050514,
     "geom:bbox":"100.202439233,16.1687102212,100.254104081,16.2052505092",
     "geom:latitude":16.185336,
     "geom:longitude":100.230009,
     "iso:country":"TH",
     "lbl:latitude":16.185978,
     "lbl:longitude":100.232591,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":16.185978,
     "mps:longitude":100.232591,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Thailand",
     "qs:a1":"*Phichit",
     "qs:a1r":"*",
@@ -29,7 +34,7 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -39,10 +44,10 @@
     "wof:concordances":{
         "gn:id":7510907,
         "gp:id":28340960,
-        "qs:id":1163024
+        "qs_pg:id":1163024
     },
     "wof:country":"TH",
-    "wof:geomhash":"67df9520463a1230b72fecfac7938eb7",
+    "wof:geomhash":"ff1577a74e5240678676da98ffd89766",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,7 +57,7 @@
         }
     ],
     "wof:id":102025969,
-    "wof:lastmodified":1466627316,
+    "wof:lastmodified":1566656459,
     "wof:name":"Bueng Na Rang",
     "wof:parent_id":85678669,
     "wof:placetype":"locality",

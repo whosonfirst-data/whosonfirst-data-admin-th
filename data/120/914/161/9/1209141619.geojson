@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Bangkok",
     "iso:country":"TH",
+    "lbl:bbox":"101.41333,14.06333,101.45333,14.10333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632293
@@ -34,7 +38,7 @@
         "gn:id":1617176
     },
     "wof:country":"TH",
-    "wof:geomhash":"7cc163756467b678da09e6d8a5040c8e",
+    "wof:geomhash":"bfa251a250d533d241c591b71fa620c9",
     "wof:hierarchy":[
         {
             "country_id":85632293,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209141619,
-    "wof:lastmodified":1536296485,
+    "wof:lastmodified":1566660369,
     "wof:name":"Ban Laem Sum",
     "wof:parent_id":85632293,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     101.43333,
-    14.083329999999998,
+    14.08333,
     101.43333,
-    14.083329999999998
+    14.08333
 ],
   "geometry": {"coordinates":[101.43333,14.08333],"type":"Point"}
 }

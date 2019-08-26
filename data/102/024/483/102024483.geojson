@@ -12,10 +12,13 @@
     "iso:country":"TH",
     "lbl:latitude":18.302073,
     "lbl:longitude":98.811634,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":18.302073,
     "mps:longitude":98.811634,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Ban Hong"
     ],
@@ -31,7 +34,7 @@
     "name:tha_x_variant":[
         "\u0e15\u0e33\u0e1a\u0e25\u0e1a\u0e49\u0e32\u0e19\u0e42\u0e2e\u0e48\u0e07"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Amphoe Ban Hong"
     ],
     "qs:a0":"Thailand",
@@ -49,7 +52,7 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":40,
     "wof:belongsto":[
         102191569,
@@ -60,7 +63,7 @@
     "wof:concordances":{
         "gn:id":1157551,
         "gp:id":28340842,
-        "qs:id":342164,
+        "qs_pg:id":342164,
         "wd:id":"Q4853612"
     },
     "wof:country":"TH",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":102024483,
-    "wof:lastmodified":1563290202,
+    "wof:lastmodified":1566656318,
     "wof:name":"Ban Hong",
     "wof:parent_id":85678629,
     "wof:placetype":"locality",

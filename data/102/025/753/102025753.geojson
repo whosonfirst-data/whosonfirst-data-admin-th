@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000263,
-    "geom:area_square_m":3128454.465227,
+    "geom:area_square_m":3128454.465225,
     "geom:bbox":"101.740566354,15.4605328593,101.759189428,15.4785936192",
     "geom:latitude":15.469563,
     "geom:longitude":101.749878,
@@ -15,17 +15,20 @@
     "iso:country":"TH",
     "lbl:latitude":15.469564,
     "lbl:longitude":101.749878,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":15.469564,
     "mps:longitude":101.749878,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:eng_x_preferred":[
         "Ban Chuan"
     ],
     "name:tha_x_preferred":[
         "\u0e1a\u0e33\u0e40\u0e2b\u0e19\u0e47\u0e08\u0e13\u0e23\u0e07\u0e04\u0e4c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Muang Bamhnech Narong"
     ],
     "qs:a0":"Thailand",
@@ -43,7 +46,7 @@
     "qs:type":"Town",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -56,7 +59,7 @@
         "fct:id":"07d432e0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1620989,
         "gp:id":28341086,
-        "qs:id":1215027
+        "qs_pg:id":1215027
     },
     "wof:country":"TH",
     "wof:geomhash":"7eadbb5470276d44d44f32655e9c8377",
@@ -73,7 +76,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1505338988,
+    "wof:lastmodified":1566656416,
     "wof:name":"Bamnet Narong",
     "wof:parent_id":890467457,
     "wof:placetype":"locality",

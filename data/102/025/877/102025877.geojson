@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001451,
-    "geom:area_square_m":16834463.311651,
+    "geom:area_square_m":16834463.311641,
     "geom:bbox":"99.6529014602,20.0933292095,99.8807812723,20.2763858407",
     "geom:latitude":20.201439,
     "geom:longitude":99.762735,
@@ -15,10 +15,13 @@
     "iso:country":"TH",
     "lbl:latitude":20.241583,
     "lbl:longitude":99.662476,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":20.241583,
     "mps:longitude":99.662476,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Mae Fa Luang"
     ],
@@ -57,7 +60,7 @@
     "qs:type":"Town",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":14,
     "wof:belongsto":[
         102191569,
@@ -69,7 +72,7 @@
         "fct:id":"07ce91b4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":7323625,
         "gp:id":28349079,
-        "qs:id":1264515,
+        "qs_pg:id":1264515,
         "wk:page":"Mae Fa Luang"
     },
     "wof:country":"TH",
@@ -86,7 +89,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636686,
+    "wof:lastmodified":1566656465,
     "wof:name":"Mae Fa Luang",
     "wof:parent_id":85678617,
     "wof:placetype":"locality",

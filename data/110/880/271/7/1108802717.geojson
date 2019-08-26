@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":19.892951,
     "lbl:longitude":100.16814,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"CHIANG RAI",
     "meso:diss_me":"Phaya MengraiCHIANG RAI",
     "meso:gadm_admin":"Phaya Mengrai",
@@ -31,6 +33,7 @@
     "meso:source":"AOTM",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ab\u09be\u09af\u09bc\u09be \u09ae\u09af\u09bc\u09c7\u0982\u09b0\u09be\u0987"
     ],
@@ -68,9 +71,9 @@
         "Phaya Mengrai(huy\u1ec7n)"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"620",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":1108802717,
-    "wof:lastmodified":1563296432,
+    "wof:lastmodified":1566661696,
     "wof:name":"Phaya Mengrai",
     "wof:parent_id":85678617,
     "wof:placetype":"county",

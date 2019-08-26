@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000266,
-    "geom:area_square_m":3197329.628195,
+    "geom:area_square_m":3197329.628198,
     "geom:bbox":"100.511169434,13.774066403,100.531396276,13.7954062031",
     "geom:latitude":13.785851,
     "geom:longitude":100.523346,
@@ -13,6 +13,7 @@
     "iso:country":"TH",
     "lbl:latitude":13.782255,
     "lbl:longitude":100.521572,
+    "lbl:max_zoom":18.0,
     "mps:latitude":13.786648,
     "mps:longitude":100.523154,
     "mz:hierarchy_label":1,
@@ -25,9 +26,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":5,
     "name:eng_x_preferred":[
-        "Thanon Nakhon Chai Si"
-    ],
-    "name:unk_x_variant":[
         "Thanon Nakhon Chai Si"
     ],
     "qs:gn_adm0_cc":"TH",
@@ -57,7 +55,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85678739,
         102191569,
@@ -68,7 +66,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55948147,
-        "qs:id":1090215,
         "qs_pg:id":1090215
     },
     "wof:country":"TH",
@@ -87,7 +84,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527269310,
+    "wof:lastmodified":1566657691,
     "wof:name":"Thanon Nakhon Chai Si",
     "wof:parent_id":102025263,
     "wof:placetype":"neighbourhood",

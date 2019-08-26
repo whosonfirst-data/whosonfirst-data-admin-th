@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000626,
-    "geom:area_square_m":7491920.803916,
+    "geom:area_square_m":7491920.80392,
     "geom:bbox":"101.35608683,14.4203264024,101.385612688,14.4490336861",
     "geom:latitude":14.433085,
     "geom:longitude":101.372488,
@@ -15,10 +15,13 @@
     "iso:country":"TH",
     "lbl:latitude":14.431299,
     "lbl:longitude":101.374245,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":14.431299,
     "mps:longitude":101.374245,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:tha_x_preferred":[
         "\u0e40\u0e02\u0e32\u0e43\u0e2b\u0e0d\u0e48"
     ],
@@ -33,7 +36,7 @@
     "qs:source":"Aquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":102026157,
-    "wof:lastmodified":1501273345,
+    "wof:lastmodified":1566656493,
     "wof:name":"Khao Yai",
     "wof:parent_id":890466935,
     "wof:placetype":"locality",

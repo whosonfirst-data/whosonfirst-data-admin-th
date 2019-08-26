@@ -11,11 +11,15 @@
     "geom:longitude":99.82831,
     "gn:country":"TH",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424960,
     "iso:country":"TH",
+    "lbl:bbox":"99.80831,13.85631,99.84831,13.89631",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09a5\u09be \u09ae\u09be\u0995\u09be"
     ],
@@ -43,7 +47,7 @@
     "name:tha_x_preferred":[
         "\u0e1a\u0e49\u0e32\u0e19\u0e14\u0e2d\u0e19\u0e02\u0e21\u0e34\u0e49\u0e19"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ban Huai Khamin"
     ],
     "name:urd_x_preferred":[
@@ -75,7 +79,7 @@
     "wof:concordances":{
         "gn:id":1157892,
         "gp:id":1202704,
-        "qs:id":983946,
+        "qs_pg:id":983946,
         "wd:id":"Q476837",
         "wk:page":"Tha Maka District"
     },
@@ -92,7 +96,7 @@
         }
     ],
     "wof:id":890466667,
-    "wof:lastmodified":1563298382,
+    "wof:lastmodified":1566663257,
     "wof:name":"Ban Don Khamin (1)",
     "wof:parent_id":1108802755,
     "wof:placetype":"locality",

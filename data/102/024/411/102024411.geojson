@@ -12,14 +12,17 @@
     "iso:country":"TH",
     "lbl:latitude":13.866599,
     "lbl:longitude":100.090942,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":13.866599,
     "mps:longitude":100.090942,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:tha_x_preferred":[
         "\u0e1a\u0e49\u0e32\u0e19\u0e17\u0e38\u0e48\u0e07\u0e19\u0e49\u0e2d\u0e22"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "B\u0101n Dh\u016bng Noi"
     ],
     "qs:a1":"*",
@@ -33,7 +36,7 @@
     "qs:source":"Aquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":51,
     "wof:belongsto":[
         102191569,
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":102024411,
-    "wof:lastmodified":1527636446,
+    "wof:lastmodified":1566656376,
     "wof:name":"Ban Thung Noi",
     "wof:parent_id":1108802671,
     "wof:placetype":"locality",

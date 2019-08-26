@@ -15,10 +15,13 @@
     "iso:country":"TH",
     "lbl:latitude":7.90444,
     "lbl:longitude":98.286365,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":7.90444,
     "mps:longitude":98.286365,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Patong"
     ],
@@ -51,7 +54,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -61,7 +64,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6941772,
-        "qs:id":1063591,
         "qs_pg:id":1063591,
         "wd:id":"Q15629547",
         "wk:page":"Patong"
@@ -77,7 +79,7 @@
         }
     ],
     "wof:id":102025817,
-    "wof:lastmodified":1563290356,
+    "wof:lastmodified":1566656427,
     "wof:name":"Patong Beach",
     "wof:parent_id":85678567,
     "wof:placetype":"locality",

@@ -16,6 +16,8 @@
     "iso:country":"TH",
     "lbl:latitude":16.441238,
     "lbl:longitude":100.343565,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":16.441238,
     "mps:longitude":100.343565,
     "mz:hierarchy_label":1,
@@ -69,7 +71,7 @@
     "name:tha_x_variant":[
         "\u0e1e\u0e34\u0e08\u0e34\u0e15\u0e23"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Amphoe Muang Phichit"
     ],
     "name:war_x_preferred":[
@@ -198,7 +200,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":192,
     "wof:belongsto":[
@@ -211,10 +213,12 @@
     "wof:concordances":{
         "gn:id":1607725,
         "gp:id":1226096,
-        "qs:id":962971,
-        "qs_pg:id":1030541,
+        "qs_pg:id":962971,
         "wd:id":"Q1365823",
         "wk:page":"Phichit"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1030541
     },
     "wof:country":"TH",
     "wof:geomhash":"d1897460c82e0b525dbc53167042f1de",
@@ -228,7 +232,7 @@
         }
     ],
     "wof:id":102025007,
-    "wof:lastmodified":1563290366,
+    "wof:lastmodified":1566656435,
     "wof:name":"Phichit",
     "wof:parent_id":890466725,
     "wof:placetype":"locality",

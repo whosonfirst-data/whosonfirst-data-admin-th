@@ -12,10 +12,13 @@
     "iso:country":"TH",
     "lbl:latitude":18.497462,
     "lbl:longitude":98.817112,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":18.497462,
     "mps:longitude":98.817112,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Doi Lo"
     ],
@@ -31,7 +34,7 @@
     "name:tha_x_variant":[
         "\u0e15\u0e33\u0e1a\u0e25\u0e14\u0e2d\u0e22\u0e2b\u0e25\u0e48\u0e2d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "B\u0101n Doi Lau"
     ],
     "qs:a0":"Thailand",
@@ -49,7 +52,7 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":126,
     "wof:belongsto":[
         102191569,
@@ -61,7 +64,7 @@
     "wof:concordances":{
         "gn:id":1157949,
         "gp:id":28340817,
-        "qs:id":1058924,
+        "qs_pg:id":1058924,
         "wd:id":"Q5288592",
         "wk:page":"Doi Lo"
     },
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":102024499,
-    "wof:lastmodified":1563290217,
+    "wof:lastmodified":1566656334,
     "wof:name":"Doi Lo",
     "wof:parent_id":1108802597,
     "wof:placetype":"locality",

@@ -11,14 +11,17 @@
     "geom:longitude":99.570442,
     "gn:country":"TH",
     "gn:fcode":"PPLA2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"TH",
     "lbl:latitude":17.006889,
     "lbl:longitude":99.571757,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":17.006889,
     "mps:longitude":99.571757,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ac\u09be\u09a8 \u09a6\u09be\u09a8 \u09b2\u09be\u09a8 \u09b9\u09cb\u0987"
     ],
@@ -46,7 +49,7 @@
     "name:tha_x_variant":[
         "\u0e1a\u0e49\u0e32\u0e19\u0e14\u0e48\u0e32\u0e19\u0e25\u0e32\u0e19\u0e2b\u0e2d\u0e22"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "King Amphoe Ban Dan Lan Hoi"
     ],
     "name:vie_x_preferred":[
@@ -76,7 +79,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":243,
     "wof:belongsto":[
@@ -90,10 +93,12 @@
         "fct:id":"07ceb252-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":7510898,
         "gp:id":1225775,
-        "qs:id":276222,
-        "qs_pg:id":1187814,
+        "qs_pg:id":276222,
         "wd:id":"Q475093",
         "wk:page":"Ban Dan Lan Hoi District"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1187814
     },
     "wof:country":"TH",
     "wof:geomhash":"319aa329438c6629087784f862feecc8",
@@ -110,7 +115,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563290408,
+    "wof:lastmodified":1566656460,
     "wof:name":"Ban Dan Lan Hoi",
     "wof:parent_id":1108802561,
     "wof:placetype":"locality",

@@ -11,11 +11,15 @@
     "geom:longitude":100.15486,
     "gn:country":"TH",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424960,
     "iso:country":"TH",
+    "lbl:bbox":"100.13486,13.64703,100.17486,13.68703",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ac\u09be\u09a8 \u09ab\u09be\u09af\u09bc\u09c7\u0993"
     ],
@@ -46,7 +50,7 @@
     "name:tha_x_variant":[
         "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e1a\u0e49\u0e32\u0e19\u0e41\u0e1e\u0e49\u0e27"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ban Kaset Phatthana"
     ],
     "name:vie_x_preferred":[
@@ -72,7 +76,7 @@
     "wof:concordances":{
         "gn:id":7507990,
         "gp:id":55944933,
-        "qs:id":337999,
+        "qs_pg:id":337999,
         "wd:id":"Q475152",
         "wk:page":"Ban Phaeo District"
     },
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":890466127,
-    "wof:lastmodified":1563298399,
+    "wof:lastmodified":1566663265,
     "wof:name":"Kaset Phatthana",
     "wof:parent_id":85678771,
     "wof:placetype":"locality",

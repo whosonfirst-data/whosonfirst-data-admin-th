@@ -11,7 +11,7 @@
     "geom:longitude":98.563542,
     "gn:country":"TH",
     "gn:fcode":"PPLA2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424960,
     "iso:country":"TH",
     "label:eng_x_preferred_longname":[
@@ -22,6 +22,8 @@
     ],
     "lbl:latitude":9.769666,
     "lbl:longitude":98.592904,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"RANONG",
     "meso:diss_me":"Suk SamranRANONG",
     "meso:gadm_admin":"Muang Ranong",
@@ -39,6 +41,7 @@
     "mps:longitude":98.592904,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09b8\u09c1\u0995 \u09b8\u09be\u09ae\u09b0\u09be\u09a8"
     ],
@@ -71,7 +74,7 @@
         "\u0e01\u0e34\u0e48\u0e07\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e2a\u0e38\u0e02\u0e2a\u0e33\u0e23\u0e32\u0e0d",
         "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e2a\u0e38\u0e02\u0e2a\u0e33\u0e23\u0e32\u0e0d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "King Amphoe Suk Samran"
     ],
     "name:vie_x_preferred":[
@@ -92,9 +95,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"395",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -116,7 +119,7 @@
         "gn:id":7510867,
         "gp:id":28341586,
         "hasc:id":"TH.RN.SS",
-        "qs:id":1098153,
+        "qs_pg:id":1098153,
         "wd:id":"Q476780",
         "wk:page":"Suk Samran District"
     },
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":890466875,
-    "wof:lastmodified":1561758890,
+    "wof:lastmodified":1566663253,
     "wof:name":"Suk Samran",
     "wof:parent_id":85678573,
     "wof:placetype":"county",

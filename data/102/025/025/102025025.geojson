@@ -15,10 +15,13 @@
     "iso:country":"TH",
     "lbl:latitude":15.514867,
     "lbl:longitude":103.188996,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":15.514867,
     "mps:longitude":103.188996,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ab\u09be\u09af\u09bc\u09be\u0995\u0996\u09be\u09ab\u09c1\u09ae \u09ab\u09bf\u09b8\u09be\u0987"
     ],
@@ -49,9 +52,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u0445\u0430\u044f\u043a\u0445\u0430\u043f\u0445\u0442\u0443\u043c \u041f\u0445\u0456\u0441\u0430\u0457"
     ],
-    "name:unk_x_variant":[
-        "Amphoe Phayakkhaphum Phisai"
-    ],
     "name:urd_x_preferred":[
         "\u067e\u06be\u0627\u06cc\u0627\u06a9\u06a9\u06be\u0627\u067e\u06be\u0648\u0645 \u067e\u06be\u06cc\u0633\u0627\u0626\u06cc \u0636\u0644\u0639"
     ],
@@ -76,7 +76,7 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":111,
     "wof:belongsto":[
@@ -88,7 +88,7 @@
     "wof:concordances":{
         "gn:id":1607763,
         "gp:id":28341127,
-        "qs:id":945920,
+        "qs_pg:id":945920,
         "wd:id":"Q476390"
     },
     "wof:country":"TH",
@@ -102,7 +102,7 @@
         }
     ],
     "wof:id":102025025,
-    "wof:lastmodified":1563290357,
+    "wof:lastmodified":1566656428,
     "wof:name":"Phayakkhaphum Phisai",
     "wof:parent_id":85678835,
     "wof:placetype":"locality",

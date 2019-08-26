@@ -13,6 +13,8 @@
     "iso:country":"TH",
     "lbl:latitude":7.16751,
     "lbl:longitude":100.592358,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":7.16751,
     "mps:longitude":100.592358,
     "mz:hierarchy_label":1,
@@ -117,7 +119,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u043e\u043d\u0433\u043a\u0445\u043b\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Amphoe Muang Songkhla"
     ],
     "name:urd_x_preferred":[
@@ -247,7 +249,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":433,
     "wof:belongsto":[
@@ -260,7 +262,6 @@
     "wof:concordances":{
         "gn:id":1606147,
         "loc:id":"n85047295",
-        "qs:id":350316,
         "qs_pg:id":350316,
         "wd:id":"Q795595",
         "wk:page":"Songkhla"
@@ -277,7 +278,7 @@
         }
     ],
     "wof:id":102024773,
-    "wof:lastmodified":1563290319,
+    "wof:lastmodified":1566656400,
     "wof:name":"Songkhla",
     "wof:parent_id":890467221,
     "wof:placetype":"locality",

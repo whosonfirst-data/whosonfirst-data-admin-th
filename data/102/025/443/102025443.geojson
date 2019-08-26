@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000791,
-    "geom:area_square_m":9396248.183806,
+    "geom:area_square_m":9396248.183811,
     "geom:bbox":"100.718801795,16.1053943886,100.86933571,16.4398520885",
     "geom:latitude":16.244607,
     "geom:longitude":100.783076,
@@ -15,10 +15,13 @@
     "iso:country":"TH",
     "lbl:latitude":16.430816,
     "lbl:longitude":100.761108,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":16.430816,
     "mps:longitude":100.761108,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:eng_x_colloquial":[
         "Baan Chon Dean",
         "Ban Chon Dean",
@@ -36,9 +39,6 @@
     "name:tha_x_preferred":[
         "\u0e0a\u0e19\u0e41\u0e14\u0e19"
     ],
-    "name:unk_x_variant":[
-        "Jond\u0113n"
-    ],
     "qs:a0":"Thailand",
     "qs:a1":"*Phetchabun",
     "qs:a1r":"*",
@@ -54,7 +54,7 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -66,7 +66,7 @@
         "fct:id":"07cfa978-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1611106,
         "gp:id":28340963,
-        "qs:id":1234724
+        "qs_pg:id":1234724
     },
     "wof:country":"TH",
     "wof:geomhash":"e1c5ac0cd461d09d6ffe3c04de3162d0",
@@ -82,7 +82,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1505338987,
+    "wof:lastmodified":1566656466,
     "wof:name":"Chon Daen",
     "wof:parent_id":85678673,
     "wof:placetype":"locality",

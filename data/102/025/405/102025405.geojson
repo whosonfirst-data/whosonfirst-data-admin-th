@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000903,
+    "geom:area_square_m":10786039.594005,
     "geom:bbox":"102.619490867,14.9835121764,102.662797307,15.0148443314",
     "geom:latitude":14.998284,
     "geom:longitude":102.64135,
@@ -13,17 +14,18 @@
     "iso:country":"TH",
     "lbl:latitude":15.000555,
     "lbl:longitude":102.64176,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":15.000555,
     "mps:longitude":102.64176,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ban Huai Thalaeng"
     ],
     "name:tha_x_preferred":[
         "\u0e2b\u0e49\u0e27\u0e22\u0e41\u0e16\u0e25\u0e07"
-    ],
-    "name:unk_x_variant":[
-        "Ban Huai Thalaeng"
     ],
     "qs:a0":"Thailand",
     "qs:a1":"*Nakhon Ratchasima",
@@ -40,7 +42,7 @@
     "qs:type":"Town",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -51,7 +53,7 @@
         "fct:id":"07ceea9c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1610652,
         "gp:id":28341289,
-        "qs:id":335771
+        "qs_pg:id":335771
     },
     "wof:country":"TH",
     "wof:geomhash":"08b07242805065488f6c3ae2227cbc72",
@@ -67,7 +69,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1501221058,
+    "wof:lastmodified":1566656475,
     "wof:name":"Huai Thalaeng",
     "wof:parent_id":85678841,
     "wof:placetype":"locality",

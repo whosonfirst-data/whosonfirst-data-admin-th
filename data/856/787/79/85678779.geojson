@@ -28,6 +28,7 @@
     ],
     "lbl:latitude":14.846395,
     "lbl:longitude":104.369154,
+    "lbl:min_zoom":8.0,
     "mps:latitude":14.846395,
     "mps:longitude":104.369154,
     "mz:hierarchy_label":1,
@@ -170,7 +171,7 @@
         "Sisaket"
     ],
     "name:tam_x_preferred":[
-        "\u0b9a\u0bbf  \u0b9a  \u0b95\u0bc7\u0b9f\u0bcd"
+        "\u0b9a\u0bbf \u0b9a \u0b95\u0bc7\u0b9f\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c38\u0c3f \u0c38\u0c3e \u0c15\u0c46\u0c1f\u0c4d"
@@ -190,7 +191,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0440\u043e\u0432\u0456\u043d\u0446\u0456\u044f \u0421\u0456-\u0421\u0430-\u041a\u0435\u0442"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Khukhandh"
     ],
     "name:urd_x_preferred":[
@@ -279,7 +280,7 @@
     "qs:type":"Province",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wikidata",
     "src:population_date":"2017",
     "statoids:area_km":"8,840",
@@ -306,7 +307,7 @@
         "gp:id":2347155,
         "hasc:id":"TH.SI",
         "iso:id":"TH-33",
-        "qs:id":191422,
+        "qs_pg:id":191422,
         "unlc:id":"TH-33",
         "wd:id":"Q380761",
         "wk:page":"Sisaket Province"
@@ -327,11 +328,10 @@
     "wof:lang_x_spoken":[
         "tha"
     ],
-    "wof:lastmodified":1565737057,
+    "wof:lastmodified":1566657720,
     "wof:name":"Sisaket",
     "wof:parent_id":85632293,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":1472031,
     "wof:population_rank":12,

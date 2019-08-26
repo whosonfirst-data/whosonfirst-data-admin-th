@@ -14,10 +14,13 @@
     "iso:country":"TH",
     "lbl:latitude":17.366374,
     "lbl:longitude":103.155876,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":17.366374,
     "mps:longitude":103.155876,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Nong Han"
     ],
@@ -30,7 +33,7 @@
     "name:tha_x_preferred":[
         "\u0e2b\u0e19\u0e2d\u0e07\u0e2b\u0e32\u0e19"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Muong Nong Han"
     ],
     "qs:a0":"Thailand",
@@ -48,7 +51,7 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":29,
     "wof:belongsto":[
         102191569,
@@ -60,7 +63,7 @@
         "fct:id":"07cf890c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1608251,
         "gp:id":28341033,
-        "qs:id":211574
+        "qs_pg:id":211574
     },
     "wof:country":"TH",
     "wof:geomhash":"bb300c5656233b5702b3a838755d7021",
@@ -76,7 +79,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564101331,
+    "wof:lastmodified":1566656445,
     "wof:name":"Nong Han",
     "wof:parent_id":85678869,
     "wof:placetype":"locality",

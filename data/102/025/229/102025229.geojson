@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000643,
+    "geom:area_square_m":7638717.255864,
     "geom:bbox":"104.531049743,16.1898099388,104.563494118,16.2158023831",
     "geom:latitude":16.202265,
     "geom:longitude":104.547946,
@@ -13,16 +14,18 @@
     "iso:country":"TH",
     "lbl:latitude":16.20285,
     "lbl:longitude":104.549571,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":16.20285,
     "mps:longitude":104.549571,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:tha_x_preferred":[
         "\u0e40\u0e25\u0e34\u0e07\u0e19\u0e01\u0e17\u0e32"
     ],
-    "name:und_x_preferred":[
-        "Loeng Nok Tha"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
+        "Loeng Nok Tha",
         "Amphoe Loeng Nok Tha"
     ],
     "qs:a0":"Thailand",
@@ -40,7 +43,7 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -51,7 +54,7 @@
         "fct:id":"07d4bdc8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1609068,
         "gp:id":28341205,
-        "qs:id":908751
+        "qs_pg:id":908751
     },
     "wof:country":"TH",
     "wof:geomhash":"3da7809161e72b9ef8f768c72ddf7b1f",
@@ -67,7 +70,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1501221033,
+    "wof:lastmodified":1566656421,
     "wof:name":"Loeng Nok Tha",
     "wof:parent_id":85678791,
     "wof:placetype":"locality",

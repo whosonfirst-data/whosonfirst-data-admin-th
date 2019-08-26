@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001541,
+    "geom:area_square_m":18353935.080249,
     "geom:bbox":"100.048658846,15.5452131982,100.100267756,15.5950410468",
     "geom:latitude":15.568421,
     "geom:longitude":100.075982,
@@ -13,9 +14,13 @@
     "iso:country":"TH",
     "lbl:latitude":15.573402,
     "lbl:longitude":100.072911,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":15.573402,
     "mps:longitude":100.072911,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_colloquial":[
         "Baan Grauk Phra",
         "Ban Grauk Phra"
@@ -32,7 +37,7 @@
     "name:tha_x_preferred":[
         "\u0e42\u0e01\u0e23\u0e01\u0e1e\u0e23\u0e30"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Amphoe Krok Phra"
     ],
     "qs:a0":"Thailand",
@@ -52,7 +57,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -63,7 +68,6 @@
         "fct:id":"07cf84fc-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1609379,
         "gp:id":1226016,
-        "qs:id":887654,
         "qs_pg:id":887654
     },
     "wof:country":"TH",
@@ -80,7 +84,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1497292248,
+    "wof:lastmodified":1566656477,
     "wof:name":"Krok Phra",
     "wof:parent_id":85678715,
     "wof:placetype":"locality",

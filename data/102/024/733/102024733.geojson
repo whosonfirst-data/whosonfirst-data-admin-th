@@ -12,10 +12,13 @@
     "iso:country":"TH",
     "lbl:latitude":15.374246,
     "lbl:longitude":105.177612,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":15.374246,
     "mps:longitude":105.177612,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09a4\u09be\u09a8 \u09b8\u09c1\u09ae"
     ],
@@ -37,9 +40,6 @@
     "name:tha_x_variant":[
         "\u0e15\u0e32\u0e25\u0e2a\u0e38\u0e21",
         "\u0e40\u0e17\u0e28\u0e1a\u0e32\u0e25\u0e15\u0e33\u0e1a\u0e25\u0e15\u0e32\u0e25\u0e2a\u0e38\u0e21"
-    ],
-    "name:unk_x_variant":[
-        "\u0e15\u0e32\u0e25\u0e2a\u0e38\u0e21"
     ],
     "name:vie_x_preferred":[
         "Tan Sum"
@@ -64,7 +64,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":214,
     "wof:belongsto":[
         102191569,
@@ -77,7 +77,6 @@
         "fct:id":"07cf52a2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1605773,
         "gp:id":1225683,
-        "qs:id":1060915,
         "qs_pg:id":1060915,
         "wd:id":"Q15310423"
     },
@@ -96,7 +95,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561758379,
+    "wof:lastmodified":1566656356,
     "wof:name":"Tan Sum",
     "wof:parent_id":890466223,
     "wof:placetype":"locality",

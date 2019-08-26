@@ -13,6 +13,8 @@
     "iso:country":"TH",
     "lbl:latitude":15.109249,
     "lbl:longitude":104.329101,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":15.109249,
     "mps:longitude":104.329101,
     "mz:hierarchy_label":1,
@@ -71,9 +73,6 @@
     ],
     "name:tha_x_variant":[
         "\u0e40\u0e17\u0e28\u0e1a\u0e32\u0e25\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e28\u0e23\u0e35\u0e2a\u0e30\u0e40\u0e01\u0e29"
-    ],
-    "name:unk_x_variant":[
-        "Khukhan"
     ],
     "name:war_x_preferred":[
         "Sisaket"
@@ -187,7 +186,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -200,7 +199,6 @@
         "fct:id":"07cf83e4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1606239,
         "gp:id":1226005,
-        "qs:id":274041,
         "qs_pg:id":274041,
         "wd:id":"Q1207432",
         "wk:page":"Sisaket (town)"
@@ -220,7 +218,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563290186,
+    "wof:lastmodified":1566656306,
     "wof:name":"Si Sa Ket",
     "wof:parent_id":890466887,
     "wof:placetype":"locality",

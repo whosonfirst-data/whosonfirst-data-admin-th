@@ -14,16 +14,20 @@
     "iso:country":"TH",
     "lbl:latitude":15.374247,
     "lbl:longitude":104.353638,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":15.374247,
     "mps:longitude":104.353638,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kho Wang"
     ],
     "name:tha_x_preferred":[
         "\u0e04\u0e49\u0e2d\u0e27\u0e31\u0e07"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Amphoe Kho Wang"
     ],
     "qs:a0":"Thailand",
@@ -41,7 +45,7 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -53,7 +57,7 @@
         "fct:id":"07cedc28-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1609753,
         "gp:id":28341211,
-        "qs:id":1140597
+        "qs_pg:id":1140597
     },
     "wof:country":"TH",
     "wof:geomhash":"25e8f0ec8188bf35887b2335ac77c8a6",
@@ -70,7 +74,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1501221053,
+    "wof:lastmodified":1566656482,
     "wof:name":"Kho Wang",
     "wof:parent_id":890465717,
     "wof:placetype":"locality",

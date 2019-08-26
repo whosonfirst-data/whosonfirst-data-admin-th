@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000376,
-    "geom:area_square_m":4510849.990009,
+    "geom:area_square_m":4510849.990007,
     "geom:bbox":"100.520782471,13.7300469298,100.550994873,13.7500568096",
     "geom:latitude":13.740846,
     "geom:longitude":100.537285,
@@ -14,9 +14,13 @@
     "iso:country":"TH",
     "lbl:latitude":13.741386,
     "lbl:longitude":100.536473,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":13.741386,
     "mps:longitude":100.536473,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:tha_x_preferred":[
         "\u0e1b\u0e17\u0e38\u0e21\u0e27\u0e31\u0e19"
     ],
@@ -35,7 +39,7 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -46,7 +50,7 @@
     "wof:concordances":{
         "gn:id":7026842,
         "gp:id":28341401,
-        "qs:id":1151996
+        "qs_pg:id":1151996
     },
     "wof:country":"TH",
     "wof:geomhash":"417c4ff13394a4e4ba77f0e7c05d24d3",
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":102025847,
-    "wof:lastmodified":1501273137,
+    "wof:lastmodified":1566656469,
     "wof:name":"Pathum Wan",
     "wof:parent_id":890465903,
     "wof:placetype":"locality",

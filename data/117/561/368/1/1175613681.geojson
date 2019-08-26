@@ -14,10 +14,13 @@
     "iso:country":"TH",
     "lbl:latitude":14.484519,
     "lbl:longitude":101.554524,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":14.484519,
     "mps:longitude":101.554524,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Khao Yai National Park"
     ],
@@ -104,7 +107,7 @@
     "qs:source":"Aquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         102026251,
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":1175613681,
-    "wof:lastmodified":1563296594,
+    "wof:lastmodified":1566661784,
     "wof:name":"Khao Yai",
     "wof:parent_id":85678841,
     "wof:placetype":"locality",

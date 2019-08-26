@@ -11,15 +11,19 @@
     "geom:longitude":100.03106,
     "gn:country":"TH",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424960,
     "iso:country":"TH",
+    "lbl:bbox":"100.01106,12.92828,100.05106,12.96828",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:tha_x_preferred":[
         "\u0e1a\u0e49\u0e32\u0e19\u0e1b\u0e36\u0e01\u0e40\u0e15\u0e35\u0e22\u0e19"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ban Puek Tian"
     ],
     "qs:name":"Ban Puk Tian (1)",
@@ -44,7 +48,7 @@
     "wof:concordances":{
         "gn:id":1613867,
         "gp:id":1218872,
-        "qs:id":1159587
+        "qs_pg:id":1159587
     },
     "wof:country":"TH",
     "wof:created":1469053608,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":890467005,
-    "wof:lastmodified":1505343709,
+    "wof:lastmodified":1566663233,
     "wof:name":"Ban Puk Tian (1)",
     "wof:parent_id":890466431,
     "wof:placetype":"locality",

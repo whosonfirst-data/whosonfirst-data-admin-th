@@ -13,6 +13,8 @@
     "iso:country":"TH",
     "lbl:latitude":16.055663,
     "lbl:longitude":103.644008,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":16.055663,
     "mps:longitude":103.644008,
     "mz:hierarchy_label":1,
@@ -81,7 +83,7 @@
     "name:tha_x_variant":[
         "\u0e23\u0e49\u0e2d\u0e22\u0e40\u0e2d\u0e47\u0e14"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Roi Ech"
     ],
     "name:vie_x_preferred":[
@@ -199,7 +201,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":253,
     "wof:belongsto":[
@@ -212,13 +214,12 @@
     "wof:concordances":{
         "gn:id":1607001,
         "gp:id":1226132,
-        "qs:id":276727,
         "qs_pg:id":276727,
         "wd:id":"Q1017738",
         "wk:page":"Roi Et"
     },
     "wof:concordances_alt":{
-        "qs:id":1198225
+        "qs_pg:id":1198225
     },
     "wof:country":"TH",
     "wof:geomhash":"cc6e354d172fe60bfe894bbfe399251c",
@@ -232,7 +233,7 @@
         }
     ],
     "wof:id":102024901,
-    "wof:lastmodified":1563290182,
+    "wof:lastmodified":1566656304,
     "wof:name":"Roi Et",
     "wof:parent_id":890467327,
     "wof:placetype":"locality",

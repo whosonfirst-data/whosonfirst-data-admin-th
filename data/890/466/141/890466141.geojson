@@ -11,11 +11,15 @@
     "geom:longitude":99.01897,
     "gn:country":"TH",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424960,
     "iso:country":"TH",
+    "lbl:bbox":"98.99897,18.61461,99.03897,18.65461",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ab\u09b0\u09be \u09a5\u09cb\u0982 \u0996\u09be\u09ae"
     ],
@@ -34,7 +38,7 @@
     "name:tha_x_variant":[
         "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e1e\u0e23\u0e30\u0e17\u0e2d\u0e07\u0e04\u0e33"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "B\u0101n Pa K\u0101m"
     ],
     "name:urd_x_preferred":[
@@ -64,7 +68,7 @@
     "wof:concordances":{
         "gn:id":1155462,
         "gp:id":1216586,
-        "qs:id":344229,
+        "qs_pg:id":344229,
         "wk:page":"Phra Thong Kham District"
     },
     "wof:country":"TH",
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":890466141,
-    "wof:lastmodified":1564109689,
+    "wof:lastmodified":1566663292,
     "wof:name":"Ban Pa Kham",
     "wof:parent_id":890466981,
     "wof:placetype":"locality",

@@ -11,7 +11,7 @@
     "geom:longitude":100.470467,
     "gn:country":"TH",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"TH",
     "label:eng_x_preferred_longname":[
         "Wiang Kaen District"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":20.006819,
     "lbl:longitude":100.478356,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"CHIANG RAI",
     "meso:diss_me":"Wiang KaenCHIANG RAI",
     "meso:gadm_admin":"Wieng Kaen",
@@ -38,6 +40,7 @@
     "mps:longitude":100.478356,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09f1\u09bf\u09af\u09bc\u09be\u0982 \u0995\u09be\u09af\u09bc\u09c7\u09a8"
     ],
@@ -72,9 +75,6 @@
         "\u0e40\u0e27\u0e35\u0e22\u0e07\u0e41\u0e01\u0e48\u0e19",
         "\u0e01\u0e34\u0e48\u0e07\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e40\u0e27\u0e35\u0e22\u0e07\u0e41\u0e01\u0e48\u0e19"
     ],
-    "name:unk_x_variant":[
-        "Amphoe Wiang Kaen"
-    ],
     "name:urd_x_preferred":[
         "\u0648\u06cc\u0627\u0646\u06af \u06a9\u06cc\u0626\u0646 \u0636\u0644\u0639"
     ],
@@ -89,9 +89,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"526",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -113,7 +113,7 @@
         "gn:id":7325780,
         "gp:id":28340858,
         "hasc:id":"TH.CR.WK",
-        "qs:id":1154491,
+        "qs_pg:id":1154491,
         "wd:id":"Q428365",
         "wk:page":"Wiang Kaen District"
     },
@@ -129,7 +129,7 @@
         }
     ],
     "wof:id":890465857,
-    "wof:lastmodified":1563298254,
+    "wof:lastmodified":1566663192,
     "wof:name":"Wiang Kaen",
     "wof:parent_id":85678617,
     "wof:placetype":"county",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001812,
+    "geom:area_square_m":22200460.090224,
     "geom:bbox":"99.9390525689,7.70739088789,100.056065955,7.82344941739",
     "geom:latitude":7.773432,
     "geom:longitude":100.003614,
@@ -13,16 +14,20 @@
     "iso:country":"TH",
     "lbl:latitude":7.803491,
     "lbl:longitude":100.035924,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":7.803491,
     "mps:longitude":100.035924,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Khuan Khanun"
     ],
     "name:tha_x_preferred":[
         "\u0e04\u0e27\u0e19\u0e02\u0e19\u0e38\u0e19"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Amphoe Khuan Khanun"
     ],
     "qs:a0":"Thailand",
@@ -40,7 +45,7 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -51,7 +56,7 @@
         "fct:id":"07cf31fa-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1609715,
         "gp:id":28341663,
-        "qs:id":488444
+        "qs_pg:id":488444
     },
     "wof:country":"TH",
     "wof:geomhash":"1e37867503e7a1a1f321888ff4347ed5",
@@ -67,7 +72,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1501221053,
+    "wof:lastmodified":1566656425,
     "wof:name":"Khuan Khanun",
     "wof:parent_id":85678591,
     "wof:placetype":"locality",

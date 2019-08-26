@@ -12,6 +12,7 @@
     "iso:country":"TH",
     "lbl:latitude":9.197003,
     "lbl:longitude":98.283066,
+    "lbl:min_zoom":8.0,
     "mps:latitude":9.197003,
     "mps:longitude":98.283066,
     "mz:hierarchy_label":0,
@@ -34,7 +35,7 @@
     "qs:type":"Admin-1 minor island",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293
@@ -59,7 +60,7 @@
     "wof:lang_x_spoken":[
         "tha"
     ],
-    "wof:lastmodified":1565890426,
+    "wof:lastmodified":1566657708,
     "wof:name":"Minor islands of Thailand",
     "wof:parent_id":85632293,
     "wof:placetype":"region",

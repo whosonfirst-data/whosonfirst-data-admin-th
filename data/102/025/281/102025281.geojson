@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000263,
-    "geom:area_square_m":3131702.798426,
+    "geom:area_square_m":3131702.798425,
     "geom:bbox":"103.003992301,15.3863963165,103.022619084,15.4044672073",
     "geom:latitude":15.395432,
     "geom:longitude":103.013306,
@@ -14,10 +14,13 @@
     "iso:country":"TH",
     "lbl:latitude":15.395432,
     "lbl:longitude":103.013306,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":15.395432,
     "mps:longitude":103.013306,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Khu Muang"
     ],
@@ -25,9 +28,6 @@
         "Khu Mueang"
     ],
     "name:tha_x_preferred":[
-        "\u0e04\u0e39\u0e40\u0e21\u0e37\u0e2d\u0e07"
-    ],
-    "name:unk_x_variant":[
         "\u0e04\u0e39\u0e40\u0e21\u0e37\u0e2d\u0e07"
     ],
     "qs:a1":"*",
@@ -41,7 +41,7 @@
     "qs:source":"Aquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -53,7 +53,7 @@
         "fct:id":"07cf315a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1609699,
         "gp:id":1225414,
-        "qs:id":845701
+        "qs_pg:id":845701
     },
     "wof:country":"TH",
     "wof:geomhash":"8d6a6df8e41152140756d0dc76ecc7a6",
@@ -70,7 +70,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1501221053,
+    "wof:lastmodified":1566656431,
     "wof:name":"Khu Mueang",
     "wof:parent_id":1108802627,
     "wof:placetype":"locality",

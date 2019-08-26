@@ -15,10 +15,13 @@
     "iso:country":"TH",
     "lbl:latitude":14.854541,
     "lbl:longitude":100.051297,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":14.854541,
     "mps:longitude":100.051297,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Amphoe Doembang Nangbuat"
     ],
@@ -40,7 +43,7 @@
     "name:tha_x_variant":[
         "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e40\u0e14\u0e34\u0e21\u0e1a\u0e32\u0e07\u0e19\u0e32\u0e07\u0e1a\u0e27\u0e0a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tha Chang"
     ],
     "name:vie_x_preferred":[
@@ -61,7 +64,7 @@
     "qs:type":"Town",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -73,7 +76,7 @@
         "fct:id":"07cf7fe8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1610911,
         "gp:id":1225969,
-        "qs:id":276730,
+        "qs_pg:id":276730,
         "wd:id":"Q475455",
         "wk:page":"Doem Bang Nang Buat District"
     },
@@ -91,7 +94,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563290360,
+    "wof:lastmodified":1566656431,
     "wof:name":"Doembang Nangbuat",
     "wof:parent_id":85678679,
     "wof:placetype":"locality",

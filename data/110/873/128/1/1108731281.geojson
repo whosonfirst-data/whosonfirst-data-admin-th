@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":18.375543,
     "lbl:longitude":99.295038,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"LAMPANG",
     "meso:diss_me":"Hang ChatLAMPANG",
     "meso:gadm_admin":"Hang Chat",
@@ -35,6 +37,7 @@
     "mps:longitude":99.295038,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09b9\u09be\u0982 \u099a\u09be\u09a4"
     ],
@@ -72,9 +75,9 @@
         "Hang Chat"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"685",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":1108731281,
-    "wof:lastmodified":1563296516,
+    "wof:lastmodified":1566661743,
     "wof:name":"Hang Chat",
     "wof:parent_id":85678625,
     "wof:placetype":"county",

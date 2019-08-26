@@ -11,7 +11,7 @@
     "geom:longitude":100.571585,
     "gn:country":"TH",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"TH",
     "label:eng_x_preferred_longname":[
         "Chatuchak District"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":13.822309,
     "lbl:longitude":100.571086,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"KRUNG THEP",
     "meso:diss_me":"ChatuchakKRUNG THEP",
     "meso:gadm_admin":"Chatuchak",
@@ -38,6 +40,7 @@
     "mps:longitude":100.571086,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0645\u0646\u0637\u0642\u0629 \u0634\u0627\u062a\u0648\u0634\u0627\u0643"
     ],
@@ -80,9 +83,6 @@
     "name:tha_x_variant":[
         "\u0e08\u0e15\u0e38\u0e08\u0e31\u0e01\u0e23"
     ],
-    "name:unk_x_variant":[
-        "Khet Chatuchak"
-    ],
     "name:urd_x_preferred":[
         "\u0686\u0627\u062a\u0648\u06a9\u06c1\u0627\u06a9 \u0636\u0644\u0639"
     ],
@@ -106,9 +106,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"33",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -129,7 +129,7 @@
     "wof:concordances":{
         "gn:id":6845605,
         "hasc:id":"TH.BM.CH",
-        "qs:id":1039225,
+        "qs_pg:id":1039225,
         "wd:id":"Q1019658",
         "wk:page":"Chatuchak District"
     },
@@ -145,7 +145,7 @@
         }
     ],
     "wof:id":890466403,
-    "wof:lastmodified":1563298446,
+    "wof:lastmodified":1566663289,
     "wof:name":"Chatuchak",
     "wof:parent_id":85678739,
     "wof:placetype":"county",

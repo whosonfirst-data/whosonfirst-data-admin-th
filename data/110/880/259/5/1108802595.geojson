@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":20.124413,
     "lbl:longitude":100.376661,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"CHIANG RAI",
     "meso:diss_me":"Chiang KhongCHIANG RAI",
     "meso:gadm_admin":"Chiang Khong",
@@ -31,6 +33,7 @@
     "meso:source":"AOTM",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u099a\u09bf\u09af\u09bc\u09be\u0982 \u0996\u09cb\u0982"
     ],
@@ -71,9 +74,9 @@
         "\u6e05\u5b54\u53bf"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"837",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":1108802595,
-    "wof:lastmodified":1563296419,
+    "wof:lastmodified":1566661688,
     "wof:name":"Chiang Khong",
     "wof:parent_id":85678617,
     "wof:placetype":"county",

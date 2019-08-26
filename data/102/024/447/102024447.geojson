@@ -5,19 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000265,
+    "geom:area_square_m":3133714.597892,
     "geom:bbox":"99.9387151706,17.2209667526,99.9575250358,17.2390429512",
     "geom:latitude":17.230005,
     "geom:longitude":99.94812,
     "iso:country":"TH",
     "lbl:latitude":17.230005,
     "lbl:longitude":99.94812,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":17.230005,
     "mps:longitude":99.94812,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:tha_x_preferred":[
         "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e19\u0e2d\u0e07\u0e1a\u0e31\u0e27"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "B\u0101n Naung Bua"
     ],
     "qs:a1":"*",
@@ -31,7 +36,7 @@
     "qs:source":"Aquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -53,7 +58,7 @@
         }
     ],
     "wof:id":102024447,
-    "wof:lastmodified":1501216988,
+    "wof:lastmodified":1566656312,
     "wof:name":"Ban Nong Bua",
     "wof:parent_id":85678651,
     "wof:placetype":"locality",

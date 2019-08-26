@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004136,
-    "geom:area_square_m":49620502.519251,
+    "geom:area_square_m":49620502.519228,
     "geom:bbox":"100.601806641,13.9623468008,100.744628906,14.030014548",
     "geom:latitude":13.99554,
     "geom:longitude":100.67873,
@@ -15,10 +15,13 @@
     "iso:country":"TH",
     "lbl:latitude":14.00681,
     "lbl:longitude":100.71439,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":14.00681,
     "mps:longitude":100.71439,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":7.0,
     "name:eng_x_colloquial":[
         "Moeng Tania Buri",
         "Mong Tania Buri"
@@ -31,9 +34,6 @@
         "M\u00f6ng Tania Buri",
         "Rangsit",
         "Thanyaburi"
-    ],
-    "name:unk_x_variant":[
-        "Rangsit"
     ],
     "qs:a0":"Thailand",
     "qs:a1":"*Pathum Thani",
@@ -52,7 +52,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -67,7 +67,6 @@
         "fct:id":"07cf0fd6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1613769,
         "gp:id":1219150,
-        "qs:id":240003,
         "qs_pg:id":240003
     },
     "wof:country":"TH",
@@ -85,7 +84,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1505338988,
+    "wof:lastmodified":1566656415,
     "wof:name":"Ban Rangsit",
     "wof:parent_id":1108732007,
     "wof:placetype":"locality",

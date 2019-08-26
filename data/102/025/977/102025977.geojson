@@ -14,10 +14,13 @@
     "iso:country":"TH",
     "lbl:latitude":14.620793,
     "lbl:longitude":100.903931,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":14.620793,
     "mps:longitude":100.903931,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Chaloem Phra Kiat"
     ],
@@ -47,7 +50,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":110,
     "wof:belongsto":[
         102191569,
@@ -60,7 +63,6 @@
         "fct:id":"07cea460-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":7510912,
         "gp:id":28349043,
-        "qs:id":1013645,
         "qs_pg:id":1013645,
         "wk:page":"Bochlewo"
     },
@@ -79,7 +81,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564101330,
+    "wof:lastmodified":1566656443,
     "wof:name":"Chaloem Phra Kiat",
     "wof:parent_id":890466791,
     "wof:placetype":"locality",

@@ -13,6 +13,8 @@
     "iso:country":"TH",
     "lbl:latitude":6.542584,
     "lbl:longitude":101.28492,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":6.542584,
     "mps:longitude":101.28492,
     "mz:hierarchy_label":1,
@@ -136,7 +138,7 @@
     "name:ukr_x_preferred":[
         "\u042f\u043b\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Changwat Yala"
     ],
     "name:urd_x_preferred":[
@@ -260,7 +262,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":631,
     "wof:belongsto":[
@@ -274,7 +276,6 @@
         "fct:id":"07ce911e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1604870,
         "gp:id":1226220,
-        "qs:id":274040,
         "qs_pg:id":274040,
         "wd:id":"Q1207083",
         "wk:page":"Yala, Thailand"
@@ -294,7 +295,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563290306,
+    "wof:lastmodified":1566656392,
     "wof:name":"Yala",
     "wof:parent_id":890466087,
     "wof:placetype":"locality",

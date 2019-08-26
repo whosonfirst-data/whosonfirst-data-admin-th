@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":16.624391,
     "lbl:longitude":104.349895,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"MUKDAHAN",
     "meso:diss_me":"Khumcha-iMUKDAHAN",
     "meso:gadm_admin":"Khamcha-i",
@@ -35,6 +37,7 @@
     "mps:longitude":104.349895,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u0996\u09be\u09ae\u099a\u09be-\u0987"
     ],
@@ -72,9 +75,9 @@
         "Khamcha-i"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"646",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":1108731413,
-    "wof:lastmodified":1563296570,
+    "wof:lastmodified":1566661772,
     "wof:name":"Khumcha-i",
     "wof:parent_id":85678881,
     "wof:placetype":"county",

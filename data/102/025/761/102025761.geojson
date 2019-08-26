@@ -15,6 +15,8 @@
     "iso:country":"TH",
     "lbl:latitude":13.696964,
     "lbl:longitude":102.501755,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":13.696964,
     "mps:longitude":102.501755,
     "mz:hierarchy_label":1,
@@ -81,7 +83,7 @@
         "\u0e2d\u0e23\u0e31\u0e0d\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28",
         "\u0e40\u0e17\u0e28\u0e1a\u0e32\u0e25\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e2d\u0e23\u0e31\u0e0d\u0e0d\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Muang Aran Pratet"
     ],
     "name:zho_x_preferred":[
@@ -196,7 +198,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":335,
     "wof:belongsto":[
@@ -210,7 +212,6 @@
         "fct:id":"07ceb216-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1621020,
         "gp:id":1225762,
-        "qs:id":219256,
         "qs_pg:id":219256,
         "wd:id":"Q4784166",
         "wk:page":"Aranyaprathet"
@@ -230,7 +231,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563290411,
+    "wof:lastmodified":1566656462,
     "wof:name":"Aranyaprathet",
     "wof:parent_id":890466787,
     "wof:placetype":"locality",

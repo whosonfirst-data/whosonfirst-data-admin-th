@@ -14,6 +14,8 @@
     "iso:country":"TH",
     "lbl:latitude":17.625786,
     "lbl:longitude":100.086706,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":17.625786,
     "mps:longitude":100.086706,
     "mz:hierarchy_label":1,
@@ -70,7 +72,7 @@
     "name:tha_x_variant":[
         "\u0e2d\u0e38\u0e15\u0e23\u0e14\u0e34\u0e15\u0e16\u0e4c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Muang Utaradit"
     ],
     "name:vie_x_preferred":[
@@ -202,7 +204,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":562,
     "wof:belongsto":[
@@ -215,10 +217,12 @@
     "wof:concordances":{
         "gn:id":1605215,
         "gp:id":1226206,
-        "qs:id":23887,
-        "qs_pg:id":133549,
+        "qs_pg:id":23887,
         "wd:id":"Q1359241",
         "wk:page":"Uttaradit"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":133549
     },
     "wof:country":"TH",
     "wof:geomhash":"b27e9703fa168add662f79e9c1ee05e0",
@@ -232,7 +236,7 @@
         }
     ],
     "wof:id":102024659,
-    "wof:lastmodified":1563290225,
+    "wof:lastmodified":1566656338,
     "wof:name":"Uttaradit",
     "wof:parent_id":890466775,
     "wof:placetype":"locality",

@@ -14,10 +14,13 @@
     "iso:country":"TH",
     "lbl:latitude":17.655416,
     "lbl:longitude":100.035606,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":17.655416,
     "mps:longitude":100.035606,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u062e\u0644\u0648\u0633\u06a9\u0627 \u0648\u0648\u0644\u0627"
     ],
@@ -36,7 +39,7 @@
     "name:ukr_x_preferred":[
         "\u0425\u043b\u0435\u0432\u0441\u044c\u043a\u0430-\u0412\u043e\u043b\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "\u0e25\u0e31\u0e1a\u0e41\u0e25"
     ],
     "qs:a0":"Thailand",
@@ -54,7 +57,7 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -66,7 +69,7 @@
     "wof:concordances":{
         "gn:id":7510910,
         "gp:id":28340923,
-        "qs:id":251318,
+        "qs_pg:id":251318,
         "wk:page":"Chlewska Wola"
     },
     "wof:country":"TH",
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":102025975,
-    "wof:lastmodified":1564101357,
+    "wof:lastmodified":1566656492,
     "wof:name":"Laplae",
     "wof:parent_id":85678657,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"TH",
     "lbl:latitude":14.837911,
     "lbl:longitude":99.690868,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":14.837911,
     "mps:longitude":99.690868,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09a6\u09be\u09a8 \u099a\u09be\u0982"
     ],
@@ -46,9 +49,6 @@
     "name:tha_x_variant":[
         "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e14\u0e48\u0e32\u0e19\u0e0a\u0e49\u0e32\u0e07"
     ],
-    "name:unk_x_variant":[
-        "\u0e14\u0e48\u0e32\u0e19\u0e0a\u0e49\u0e32\u0e07"
-    ],
     "name:vie_x_preferred":[
         "Dan Chang"
     ],
@@ -70,7 +70,7 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":484,
     "wof:belongsto":[
         102191569,
@@ -82,7 +82,7 @@
         "fct:id":"07cf2782-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1153507,
         "gp:id":28341468,
-        "qs:id":985287,
+        "qs_pg:id":985287,
         "wd:id":"Q475440"
     },
     "wof:country":"TH",
@@ -99,7 +99,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563290263,
+    "wof:lastmodified":1566656362,
     "wof:name":"Dan Chang",
     "wof:parent_id":85678679,
     "wof:placetype":"locality",

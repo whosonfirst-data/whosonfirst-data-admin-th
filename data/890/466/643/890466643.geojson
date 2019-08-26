@@ -11,11 +11,15 @@
     "geom:longitude":102.78436,
     "gn:country":"TH",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424960,
     "iso:country":"TH",
+    "lbl:bbox":"102.76436,17.28814,102.80436,17.32814",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Ban Tat"
     ],
@@ -45,7 +49,7 @@
     "wof:concordances":{
         "gn:id":1597901,
         "gp:id":1221586,
-        "qs:id":383891,
+        "qs_pg:id":383891,
         "wd:id":"Q45215019"
     },
     "wof:country":"TH",
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":890466643,
-    "wof:lastmodified":1563298359,
+    "wof:lastmodified":1566663248,
     "wof:name":"Ban Tat",
     "wof:parent_id":85678869,
     "wof:placetype":"locality",

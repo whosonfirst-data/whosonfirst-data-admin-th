@@ -14,10 +14,13 @@
     "iso:country":"TH",
     "lbl:latitude":12.677862,
     "lbl:longitude":101.563262,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":12.677862,
     "mps:longitude":101.563262,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ace_x_preferred":[
         "Rayong"
     ],
@@ -281,9 +284,6 @@
     "name:ukr_x_preferred":[
         "\u0420\u0430\u0439\u043e\u043d\u0433"
     ],
-    "name:unk_x_variant":[
-        "Amphoe Muang Rayong"
-    ],
     "name:urd_x_preferred":[
         "\u0631\u0627\u06cc\u0648\u0646\u06af"
     ],
@@ -329,7 +329,7 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -341,7 +341,7 @@
         "fct:id":"07cdf36c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1608628,
         "gp:id":28341358,
-        "qs:id":1079254,
+        "qs_pg:id":1079254,
         "wd:id":"Q1015123",
         "wk:page":"Mueang Rayong District"
     },
@@ -360,7 +360,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563290369,
+    "wof:lastmodified":1566656436,
     "wof:name":"Amphoe Mueang Rayong",
     "wof:parent_id":890465677,
     "wof:placetype":"locality",

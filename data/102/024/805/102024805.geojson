@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00204,
-    "geom:area_square_m":24281084.326363,
+    "geom:area_square_m":24379528.060266,
     "geom:bbox":"103.76206449,14.8455014525,103.824604703,14.969745454",
     "geom:latitude":14.914969,
     "geom:longitude":103.794435,
@@ -13,13 +13,17 @@
     "iso:country":"TH",
     "lbl:latitude":14.942022,
     "lbl:longitude":103.804013,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":14.942022,
     "mps:longitude":103.804013,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:tha_x_preferred":[
         "\u0e28\u0e35\u0e02\u0e23\u0e20\u0e39\u0e21\u0e34"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Amphoe Srikhohrabhum"
     ],
     "qs:a1":"*",
@@ -46,7 +50,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -56,8 +60,10 @@
     "wof:concordances":{
         "gn:id":1606302,
         "gp:id":1226161,
-        "qs:id":1092243,
         "qs_pg:id":370815
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1092243
     },
     "wof:country":"TH",
     "wof:geomhash":"73f9c161ea7191546a91b1ada9668771",
@@ -70,7 +76,7 @@
         }
     ],
     "wof:id":102024805,
-    "wof:lastmodified":1497294764,
+    "wof:lastmodified":1566656341,
     "wof:name":"Si Khoraphum",
     "wof:parent_id":85678849,
     "wof:placetype":"locality",

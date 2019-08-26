@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":16.267218,
     "lbl:longitude":99.21375,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"KAMPHAENG PHET",
     "meso:diss_me":"Khlong LanKAMPHAENG PHET",
     "meso:gadm_admin":"Klong Lan",
@@ -35,6 +37,7 @@
     "mps:longitude":99.21375,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u0996\u09b2\u09cb\u0982 \u09b2\u09be\u09a8"
     ],
@@ -72,9 +75,9 @@
         "Khlong Lan"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"1140",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":1108731381,
-    "wof:lastmodified":1563296533,
+    "wof:lastmodified":1566661752,
     "wof:name":"Khlong Lan",
     "wof:parent_id":85678665,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000893,
-    "geom:area_square_m":10587052.250703,
+    "geom:area_square_m":10587052.250698,
     "geom:bbox":"103.630157113,16.5165945998,103.703827511,16.545201983",
     "geom:latitude":16.533567,
     "geom:longitude":103.673182,
@@ -14,14 +14,17 @@
     "iso:country":"TH",
     "lbl:latitude":16.534274,
     "lbl:longitude":103.685867,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":16.534274,
     "mps:longitude":103.685867,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:tha_x_preferred":[
         "\u0e14\u0e2d\u0e19\u0e08\u0e32\u0e19"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "King Amphoe Don Chan"
     ],
     "qs:a0":"Thailand",
@@ -39,7 +42,7 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":49,
     "wof:belongsto":[
         102191569,
@@ -51,7 +54,7 @@
     "wof:concordances":{
         "gn:id":7510992,
         "gp:id":28341140,
-        "qs:id":273314
+        "qs_pg:id":273314
     },
     "wof:country":"TH",
     "wof:geomhash":"017c122b13f36cebe872b86924219484",
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":102026085,
-    "wof:lastmodified":1527637807,
+    "wof:lastmodified":1566656497,
     "wof:name":"Don Chan",
     "wof:parent_id":890466881,
     "wof:placetype":"locality",

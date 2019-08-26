@@ -13,6 +13,8 @@
     "iso:country":"TH",
     "lbl:latitude":19.91362,
     "lbl:longitude":99.837741,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":19.91362,
     "mps:longitude":99.837741,
     "mz:hierarchy_label":1,
@@ -138,7 +140,7 @@
         "Chiang Rai"
     ],
     "name:tam_x_preferred":[
-        "\u0b9a\u0bbf\u0baf\u0bbe\u0b99\u0bcd  \u0bb0\u0bbe\u0baf\u0bcd"
+        "\u0b9a\u0bbf\u0baf\u0bbe\u0b99\u0bcd \u0bb0\u0bbe\u0baf\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c1a\u0c3f\u0c2f\u0c3e\u0c17\u0c4d \u0c30\u0c3e\u0c2f\u0c4d"
@@ -158,7 +160,7 @@
     "name:ukr_x_preferred":[
         "\u0427\u0456\u0430\u043d\u0433\u0440\u0430\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Amphoe Muang Chiang Rai"
     ],
     "name:urd_x_preferred":[
@@ -282,7 +284,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -295,7 +297,6 @@
         "fct:id":"07d4c00c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1153669,
         "gp:id":1225134,
-        "qs:id":273873,
         "qs_pg:id":273873,
         "wd:id":"Q856772",
         "wk:page":"Chiang Rai (city)"
@@ -315,7 +316,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563290229,
+    "wof:lastmodified":1566656341,
     "wof:name":"Chiang Rai",
     "wof:parent_id":890466017,
     "wof:placetype":"locality",

@@ -13,6 +13,7 @@
     "iso:country":"TH",
     "lbl:latitude":13.75093,
     "lbl:longitude":100.500854,
+    "lbl:max_zoom":18.0,
     "mps:latitude":13.751051,
     "mps:longitude":100.500531,
     "mz:hierarchy_label":1,
@@ -38,9 +39,6 @@
     ],
     "name:tha_x_preferred":[
         "\u0e27\u0e31\u0e14\u0e23\u0e32\u0e0a\u0e1a\u0e1e\u0e34\u0e18\u0e2a\u0e16\u0e34\u0e15\u0e21\u0e2b\u0e32\u0e2a\u0e35\u0e21\u0e32\u0e23\u0e32\u0e21\u0e23\u0e32\u0e0a\u0e27\u0e23\u0e27\u0e34\u0e2b\u0e32\u0e23"
-    ],
-    "name:unk_x_variant":[
-        "Wat Ratchabophit"
     ],
     "name:vie_x_preferred":[
         "Wat Rajbopit"
@@ -75,7 +73,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":326,
     "wof:belongsto":[
         85678739,
@@ -87,7 +85,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55948161,
-        "qs:id":1091948,
         "qs_pg:id":1091948,
         "wd:id":"Q1513232"
     },
@@ -107,7 +104,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563291775,
+    "wof:lastmodified":1566657692,
     "wof:name":"Wat Ratchabophit",
     "wof:parent_id":102025263,
     "wof:placetype":"neighbourhood",

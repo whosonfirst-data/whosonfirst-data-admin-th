@@ -12,10 +12,13 @@
     "iso:country":"TH",
     "lbl:latitude":17.638782,
     "lbl:longitude":103.760442,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":17.638782,
     "mps:longitude":103.760442,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09f1\u09be\u09a8\u09cb\u09a8 \u09a8\u09bf\u09f1\u09be\u09a4"
     ],
@@ -51,9 +54,6 @@
     "name:tha_x_variant":[
         "\u0e27\u0e32\u0e19\u0e23\u0e19\u0e34\u0e27\u0e32\u0e2a"
     ],
-    "name:unk_x_variant":[
-        "M\u00f6ng Wanon Niwas"
-    ],
     "name:vie_x_preferred":[
         "Wanon Niwat"
     ],
@@ -75,7 +75,7 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":142,
     "wof:belongsto":[
         102191569,
@@ -88,7 +88,7 @@
         "fct:id":"07cf947e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1605076,
         "gp:id":28341066,
-        "qs:id":335749,
+        "qs_pg:id":335749,
         "wd:id":"Q477036"
     },
     "wof:country":"TH",
@@ -106,7 +106,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563290285,
+    "wof:lastmodified":1566656379,
     "wof:name":"Wanon Niwat",
     "wof:parent_id":890466295,
     "wof:placetype":"locality",

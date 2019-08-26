@@ -11,8 +11,12 @@
     "geom:longitude":100.59082,
     "gp:adm0":23424960,
     "iso:country":"TH",
+    "lbl:bbox":"100.57082,14.443272,100.61082,14.483272",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09a8\u09be\u0996\u09cb\u09a8 \u09b2\u09c1\u09af\u09bc\u09be\u0982"
     ],
@@ -66,7 +70,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1225508,
-        "qs:id":1024240,
+        "qs_pg:id":1024240,
         "wd:id":"Q476173",
         "wk:page":"Nakhon Luang District"
     },
@@ -82,7 +86,7 @@
         }
     ],
     "wof:id":890466727,
-    "wof:lastmodified":1563298461,
+    "wof:lastmodified":1566663296,
     "wof:name":"Nakhon Luang",
     "wof:parent_id":85678721,
     "wof:placetype":"locality",

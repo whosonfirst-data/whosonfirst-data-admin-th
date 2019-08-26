@@ -13,10 +13,13 @@
     "iso:country":"TH",
     "lbl:latitude":7.40512,
     "lbl:longitude":99.517413,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":7.40512,
     "mps:longitude":99.517413,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u0995\u09be\u09a8\u09a4\u09be\u0982"
     ],
@@ -58,9 +61,6 @@
     "name:tha_x_variant":[
         "\u0e01\u0e31\u0e19\u0e15\u0e31\u0e07"
     ],
-    "name:unk_x_variant":[
-        "Ban Kantang"
-    ],
     "name:vie_x_preferred":[
         "Kantang"
     ],
@@ -85,7 +85,7 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":236,
     "wof:belongsto":[
@@ -99,7 +99,7 @@
         "fct:id":"07ceb73e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1153072,
         "gp:id":28341657,
-        "qs:id":488449,
+        "qs_pg:id":488449,
         "wd:id":"Q475586"
     },
     "wof:country":"TH",
@@ -117,7 +117,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563290187,
+    "wof:lastmodified":1566656307,
     "wof:name":"Kantang",
     "wof:parent_id":1108802613,
     "wof:placetype":"locality",

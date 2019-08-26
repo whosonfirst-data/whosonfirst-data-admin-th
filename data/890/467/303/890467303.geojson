@@ -11,8 +11,12 @@
     "geom:longitude":101.159362,
     "gp:adm0":23424960,
     "iso:country":"TH",
+    "lbl:bbox":"101.139362,16.402583,101.179362,16.442583",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Phetchabun"
     ],
@@ -81,7 +85,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1226092,
-        "qs:id":215728,
+        "qs_pg:id":215728,
         "wd:id":"Q1211346",
         "wk:page":"Phetchabun"
     },
@@ -97,7 +101,7 @@
         }
     ],
     "wof:id":890467303,
-    "wof:lastmodified":1563298315,
+    "wof:lastmodified":1566663225,
     "wof:name":"Phetchabun",
     "wof:parent_id":85678673,
     "wof:placetype":"locality",

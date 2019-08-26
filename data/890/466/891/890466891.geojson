@@ -20,6 +20,8 @@
     ],
     "lbl:latitude":12.448274,
     "lbl:longitude":102.14166,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"CHANTHABURI",
     "meso:diss_me":"Laem SingCHANTHABURI",
     "meso:gadm_admin":"NO DATA",
@@ -37,6 +39,7 @@
     "mps:longitude":102.14166,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09b2\u09be\u09af\u09bc\u09af\u09bc\u09c7\u09ae \u09b8\u09bf\u0982"
     ],
@@ -87,9 +90,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"191",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -110,7 +113,7 @@
     "wof:concordances":{
         "gp:id":28341365,
         "hasc:id":"TH.CT.LA",
-        "qs:id":1106668,
+        "qs_pg:id":1106668,
         "wd:id":"Q475865",
         "wk:page":"Laem Sing District"
     },
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":890466891,
-    "wof:lastmodified":1563298440,
+    "wof:lastmodified":1566663285,
     "wof:name":"Laem Sing",
     "wof:parent_id":85678799,
     "wof:placetype":"county",

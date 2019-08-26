@@ -11,8 +11,12 @@
     "geom:longitude":100.130666,
     "gp:adm0":23424960,
     "iso:country":"TH",
+    "lbl:bbox":"100.110666,7.763962,100.150666,7.803962",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u0996\u09c1\u09af\u09bc\u09be\u09a8 \u0996\u09be\u09a8\u09c1\u09a8"
     ],
@@ -66,7 +70,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55946570,
-        "qs:id":1345757,
+        "qs_pg:id":1345757,
         "wd:id":"Q475752",
         "wk:page":"Khuan Khanun District"
     },
@@ -82,7 +86,7 @@
         }
     ],
     "wof:id":890466463,
-    "wof:lastmodified":1563298379,
+    "wof:lastmodified":1566663256,
     "wof:name":"Phanang Tung",
     "wof:parent_id":85678591,
     "wof:placetype":"locality",

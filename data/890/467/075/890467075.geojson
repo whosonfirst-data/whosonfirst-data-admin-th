@@ -11,14 +11,18 @@
     "geom:longitude":101.00314,
     "gn:country":"TH",
     "gn:fcode":"PPL",
-    "gn:pop":26113,
+    "gn:population":26113,
     "iso:country":"TH",
+    "lbl:bbox":"100.98314,13.05147,101.02314,13.09147",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:tha_x_preferred":[
         "\u0e1a\u0e49\u0e32\u0e19\u0e15\u0e25\u0e32\u0e14\u0e1a\u0e36\u0e07"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Boeng"
     ],
     "qs:name":"Ban Talat Bueng",
@@ -34,7 +38,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1620442,
-        "qs:id":85585
+        "qs_pg:id":85585
     },
     "wof:country":"TH",
     "wof:created":1469053611,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890467075,
-    "wof:lastmodified":1505343709,
+    "wof:lastmodified":1566663228,
     "wof:name":"Ban Talat Bueng",
     "wof:parent_id":85678795,
     "wof:placetype":"locality",

@@ -11,7 +11,7 @@
     "geom:longitude":100.415293,
     "gn:country":"TH",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"TH",
     "label:eng_x_preferred_longname":[
         "Phasi Charoen District"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":13.713363,
     "lbl:longitude":100.41113,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"KRUNG THEP",
     "meso:diss_me":"Phasi CharoenKRUNG THEP",
     "meso:gadm_admin":"Bang Khae",
@@ -38,6 +40,7 @@
     "mps:longitude":100.41113,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0645\u0646\u0637\u0642\u0629 \u0628\u0627\u0633\u064a \u062a\u0634\u0627\u0631\u0648\u064a\u0646"
     ],
@@ -80,7 +83,7 @@
     "name:tha_x_variant":[
         "\u0e20\u0e32\u0e29\u0e35\u0e40\u0e08\u0e23\u0e34\u0e0d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Amphoe Phasi Charoen"
     ],
     "name:urd_x_preferred":[
@@ -97,9 +100,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"45",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -120,7 +123,7 @@
     "wof:concordances":{
         "gn:id":1607781,
         "hasc:id":"TH.BM.KA",
-        "qs:id":356026,
+        "qs_pg:id":356026,
         "wd:id":"Q1019590",
         "wk:page":"Phasi Charoen District"
     },
@@ -136,7 +139,7 @@
         }
     ],
     "wof:id":890466163,
-    "wof:lastmodified":1563298413,
+    "wof:lastmodified":1566663273,
     "wof:name":"Phasi Charoen",
     "wof:parent_id":85678739,
     "wof:placetype":"county",

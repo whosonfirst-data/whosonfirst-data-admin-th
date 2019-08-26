@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000797,
-    "geom:area_square_m":9390779.780203,
+    "geom:area_square_m":9390779.780217,
     "geom:bbox":"102.784158965,17.6297548816,102.899133134,17.7210933925",
     "geom:latitude":17.681538,
     "geom:longitude":102.84394,
@@ -14,17 +14,20 @@
     "iso:country":"TH",
     "lbl:latitude":17.712061,
     "lbl:longitude":102.848511,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":17.712061,
     "mps:longitude":102.848511,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Phen"
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e1e\u0e47\u0e0d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Muang Phen"
     ],
     "qs:a0":"Thailand",
@@ -42,7 +45,7 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":53,
     "wof:belongsto":[
         102191569,
@@ -54,7 +57,7 @@
         "fct:id":"07cf8ae2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1607741,
         "gp:id":28341031,
-        "qs:id":1311853
+        "qs_pg:id":1311853
     },
     "wof:country":"TH",
     "wof:geomhash":"a90aa6a19599f0c13d6b9f88f799ec46",
@@ -70,7 +73,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636687,
+    "wof:lastmodified":1566656473,
     "wof:name":"Phen",
     "wof:parent_id":85678859,
     "wof:placetype":"locality",

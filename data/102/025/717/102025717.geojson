@@ -15,10 +15,13 @@
     "iso:country":"TH",
     "lbl:latitude":17.702001,
     "lbl:longitude":103.260438,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":17.702001,
     "mps:longitude":103.260438,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:deu_x_preferred":[
         "Ban Dung"
     ],
@@ -31,7 +34,7 @@
     "name:tha_x_variant":[
         "\u0e40\u0e17\u0e28\u0e1a\u0e32\u0e25\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e1a\u0e49\u0e32\u0e19\u0e14\u0e38\u0e07"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Amphoe Ban Dung"
     ],
     "qs:a0":"Thailand",
@@ -49,7 +52,7 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -62,7 +65,7 @@
         "fct:id":"07cf61de-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1619650,
         "gp:id":28341025,
-        "qs:id":246101,
+        "qs_pg:id":246101,
         "wd:id":"Q13025369"
     },
     "wof:country":"TH",
@@ -80,7 +83,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563290452,
+    "wof:lastmodified":1566656487,
     "wof:name":"Ban Dung",
     "wof:parent_id":1108802563,
     "wof:placetype":"locality",

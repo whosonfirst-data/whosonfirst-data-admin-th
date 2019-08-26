@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001635,
-    "geom:area_square_m":19462440.978839,
+    "geom:area_square_m":19462440.978811,
     "geom:bbox":"103.564279928,15.6404479887,103.648854179,15.6796810315",
     "geom:latitude":15.655682,
     "geom:longitude":103.598555,
@@ -15,17 +15,20 @@
     "iso:country":"TH",
     "lbl:latitude":15.654778,
     "lbl:longitude":103.5877,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":15.654778,
     "mps:longitude":103.5877,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:eng_x_preferred":[
         "Kaset Wisai"
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e01\u0e29\u0e15\u0e23\u0e27\u0e34\u0e2a\u0e31\u0e22"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Amphoe Kaset Wisai"
     ],
     "qs:a0":"Thailand",
@@ -43,7 +46,7 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -55,7 +58,7 @@
         "fct:id":"07cf8218-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1610185,
         "gp:id":28341195,
-        "qs:id":945999
+        "qs_pg:id":945999
     },
     "wof:country":"TH",
     "wof:geomhash":"008d089aadadbdfb5ef41ae1f43fbb9d",
@@ -71,7 +74,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1505338987,
+    "wof:lastmodified":1566656452,
     "wof:name":"Kaset Wisai",
     "wof:parent_id":85678845,
     "wof:placetype":"locality",

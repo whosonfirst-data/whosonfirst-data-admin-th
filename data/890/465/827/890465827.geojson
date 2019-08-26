@@ -11,7 +11,7 @@
     "geom:longitude":100.042509,
     "gn:country":"TH",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"TH",
     "label:eng_x_preferred_longname":[
         "Bang Rakam District"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":16.713752,
     "lbl:longitude":100.038858,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"PHISANULOK",
     "meso:diss_me":"Bang RakamPHISANULOK",
     "meso:gadm_admin":"Bang Rakam",
@@ -38,6 +40,7 @@
     "mps:longitude":100.038858,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ac\u09cd\u09af\u09be\u0982 \u09b0\u09be\u0995\u09be\u09ae"
     ],
@@ -68,9 +71,6 @@
     "name:tha_x_variant":[
         "\u0e1a\u0e32\u0e07\u0e23\u0e30\u0e01\u0e33"
     ],
-    "name:unk_x_variant":[
-        "Amphoe Bang Rakam"
-    ],
     "name:vie_x_preferred":[
         "Bang Rakam"
     ],
@@ -82,9 +82,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"936",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -105,7 +105,7 @@
     "wof:concordances":{
         "gn:id":1619275,
         "hasc:id":"TH.PS.BR",
-        "qs:id":1151824,
+        "qs_pg:id":1151824,
         "wd:id":"Q475242",
         "wk:page":"Bang Rakam District"
     },
@@ -121,7 +121,7 @@
         }
     ],
     "wof:id":890465827,
-    "wof:lastmodified":1563298249,
+    "wof:lastmodified":1566663188,
     "wof:name":"Bang Rakam",
     "wof:parent_id":85678647,
     "wof:placetype":"county",

@@ -13,10 +13,13 @@
     "iso:country":"TH",
     "lbl:latitude":15.812943,
     "lbl:longitude":102.601957,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":15.812943,
     "mps:longitude":102.601957,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0641\u0648\u0646"
     ],
@@ -133,7 +136,7 @@
     "name:ukr_x_variant":[
         "\u0444\u043e\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Amphoe Phon"
     ],
     "name:zho_x_preferred":[
@@ -154,7 +157,7 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":311,
     "wof:belongsto":[
@@ -168,7 +171,7 @@
         "fct:id":"07cebe46-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1607617,
         "gp:id":28341120,
-        "qs:id":1234750,
+        "qs_pg:id":1234750,
         "wd:id":"Q781545"
     },
     "wof:country":"TH",
@@ -186,7 +189,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563290251,
+    "wof:lastmodified":1566656356,
     "wof:name":"Phon",
     "wof:parent_id":890465789,
     "wof:placetype":"locality",

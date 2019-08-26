@@ -5,13 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001375,
-    "geom:area_square_m":16516778.535405,
+    "geom:area_square_m":16516778.535403,
     "geom:bbox":"100.385812988,13.7133765752,100.444265137,13.7536237429",
     "geom:latitude":13.735802,
     "geom:longitude":100.412914,
     "iso:country":"TH",
     "lbl:latitude":13.73607,
     "lbl:longitude":100.411875,
+    "lbl:max_zoom":18.0,
     "mps:latitude":13.736571,
     "mps:longitude":100.406053,
     "mz:hierarchy_label":1,
@@ -24,9 +25,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":5,
     "name:eng_x_preferred":[
-        "Khlong Khwang"
-    ],
-    "name:unk_x_variant":[
         "Khlong Khwang"
     ],
     "qs:gn_adm0_cc":"TH",
@@ -55,7 +53,7 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85678739,
         102191569,
@@ -83,7 +81,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527269342,
+    "wof:lastmodified":1566657695,
     "wof:name":"Khlong Khwang",
     "wof:parent_id":102025263,
     "wof:placetype":"neighbourhood",

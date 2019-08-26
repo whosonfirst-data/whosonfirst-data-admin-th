@@ -14,10 +14,13 @@
     "iso:country":"TH",
     "lbl:latitude":14.433003,
     "lbl:longitude":100.769374,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":14.433003,
     "mps:longitude":100.769374,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09a8\u09cb\u0982 \u09b8\u09be\u09af\u09bc\u09c7\u0982"
     ],
@@ -51,9 +54,6 @@
     "name:tha_x_variant":[
         "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e2b\u0e19\u0e2d\u0e07\u0e41\u0e0b\u0e07"
     ],
-    "name:unk_x_variant":[
-        "Ban Nong Saeng"
-    ],
     "name:vie_x_preferred":[
         "Nong Saeng"
     ],
@@ -72,7 +72,7 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -84,7 +84,7 @@
         "fct:id":"07cf3f06-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1608174,
         "gp:id":28341295,
-        "qs:id":1025862,
+        "qs_pg:id":1025862,
         "wd:id":"Q476278",
         "wk:page":"Nong Saeng District, Saraburi"
     },
@@ -103,7 +103,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563290340,
+    "wof:lastmodified":1566656416,
     "wof:name":"Nong Saeng",
     "wof:parent_id":1108731693,
     "wof:placetype":"locality",

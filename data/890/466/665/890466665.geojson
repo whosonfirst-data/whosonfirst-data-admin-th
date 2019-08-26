@@ -11,15 +11,19 @@
     "geom:longitude":101.015,
     "gn:country":"TH",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424960,
     "iso:country":"TH",
+    "lbl:bbox":"100.995,13.59456,101.035,13.63456",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:tha_x_preferred":[
         "\u0e1a\u0e49\u0e32\u0e19\u0e25\u0e32\u0e14\u0e02\u0e27\u0e32\u0e07"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ban Lat Khwang"
     ],
     "qs:name":"Talat Khwan",
@@ -43,7 +47,7 @@
     "wof:concordances":{
         "gn:id":1618253,
         "gp:id":55946797,
-        "qs:id":981507
+        "qs_pg:id":981507
     },
     "wof:country":"TH",
     "wof:created":1469053588,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":890466665,
-    "wof:lastmodified":1505343707,
+    "wof:lastmodified":1566663287,
     "wof:name":"Talat Khwan",
     "wof:parent_id":85678797,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000768,
-    "geom:area_square_m":9410980.786604,
+    "geom:area_square_m":9410980.786602,
     "geom:bbox":"99.6314372444,7.47870508856,99.7594300716,7.62748732385",
     "geom:latitude":7.549475,
     "geom:longitude":99.702754,
@@ -14,16 +14,18 @@
     "iso:country":"TH",
     "lbl:latitude":7.618442,
     "lbl:longitude":99.640503,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":7.618442,
     "mps:longitude":99.640503,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:tha_x_preferred":[
         "\u0e19\u0e32\u0e42\u0e22\u0e07"
     ],
-    "name:und_x_preferred":[
-        "Na Yong"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
+        "Na Yong",
         "King Amphoe Na Yong"
     ],
     "qs:a0":"Thailand",
@@ -43,7 +45,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -55,7 +57,6 @@
         "fct:id":"07d4bf1c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":8355829,
         "gp:id":28349089,
-        "qs:id":321000,
         "qs_pg:id":321000
     },
     "wof:country":"TH",
@@ -73,7 +74,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1497301360,
+    "wof:lastmodified":1566656495,
     "wof:name":"Na Yong",
     "wof:parent_id":890466897,
     "wof:placetype":"locality",

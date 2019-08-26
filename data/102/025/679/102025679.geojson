@@ -15,10 +15,13 @@
     "iso:country":"TH",
     "lbl:latitude":14.192662,
     "lbl:longitude":100.589098,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":14.192662,
     "mps:longitude":100.589098,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ceb_x_preferred":[
         "Bang Pa-in"
     ],
@@ -37,7 +40,7 @@
     "name:tha_x_variant":[
         "\u0e40\u0e17\u0e28\u0e1a\u0e32\u0e25\u0e15\u0e33\u0e1a\u0e25\u0e1a\u0e32\u0e07\u0e1b\u0e30\u0e2d\u0e34\u0e19"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ban Ko Bang Pa-in"
     ],
     "qs:a0":"Thailand",
@@ -57,7 +60,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -70,7 +73,6 @@
         "fct:id":"07d30df2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1619369,
         "gp:id":1225058,
-        "qs:id":183739,
         "qs_pg:id":183739,
         "wd:id":"Q2658511"
     },
@@ -89,7 +91,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563290424,
+    "wof:lastmodified":1566656472,
     "wof:name":"Bang Pa-in",
     "wof:parent_id":890466611,
     "wof:placetype":"locality",

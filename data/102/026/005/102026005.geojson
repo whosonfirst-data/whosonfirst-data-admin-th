@@ -14,10 +14,13 @@
     "iso:country":"TH",
     "lbl:latitude":12.98649,
     "lbl:longitude":101.679927,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":12.98649,
     "mps:longitude":101.679927,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Khao Chamao"
     ],
@@ -30,7 +33,7 @@
     "name:tha_x_preferred":[
         "\u0e40\u0e02\u0e32\u0e0a\u0e30\u0e40\u0e21\u0e32"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "King Amphoe Khao Chamao"
     ],
     "qs:a0":"Thailand",
@@ -50,7 +53,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -62,7 +65,6 @@
         "fct:id":"07ceabe0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":7510932,
         "gp:id":28349066,
-        "qs:id":273213,
         "qs_pg:id":273213,
         "wk:page":"Columbia Memorial Hospital Heliport"
     },
@@ -81,7 +83,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564101372,
+    "wof:lastmodified":1566656509,
     "wof:name":"Khao Chamao",
     "wof:parent_id":890466169,
     "wof:placetype":"locality",

@@ -13,6 +13,8 @@
     "iso:country":"TH",
     "lbl:latitude":16.722698,
     "lbl:longitude":98.574454,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":16.722698,
     "mps:longitude":98.574454,
     "mz:hierarchy_label":1,
@@ -87,7 +89,7 @@
     "name:tha_x_variant":[
         "\u0e41\u0e21\u0e48\u0e2a\u0e2d\u0e14"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Branch Amphoe M\u0113 S\u014dhd"
     ],
     "name:urd_x_preferred":[
@@ -205,7 +207,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":478,
     "wof:belongsto":[
@@ -219,9 +221,11 @@
         "fct:id":"07ce981c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1152188,
         "gp:id":1226037,
-        "qs:id":1077138,
         "qs_pg:id":399791,
         "wd:id":"Q1015445"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1077138
     },
     "wof:country":"TH",
     "wof:geomhash":"9fb785fd4768d91c9869e4280b105414",
@@ -238,7 +242,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563290274,
+    "wof:lastmodified":1566656372,
     "wof:name":"Mae Sot",
     "wof:parent_id":890466271,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01105,
-    "geom:area_square_m":132591215.319897,
+    "geom:area_square_m":132591215.319937,
     "geom:bbox":"101.619775767,13.8343828403,101.923918818,14.1083157119",
     "geom:latitude":13.983251,
     "geom:longitude":101.726481,
@@ -15,10 +15,13 @@
     "iso:country":"TH",
     "lbl:latitude":14.01843,
     "lbl:longitude":101.690314,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":14.01843,
     "mps:longitude":101.690314,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Kabin Buri"
     ],
@@ -29,7 +32,7 @@
     "name:tha_x_preferred":[
         "\u0e01\u0e1a\u0e34\u0e19\u0e17\u0e23\u0e4c\u0e1a\u0e38\u0e23\u0e35"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Amphoe Kabin Buri"
     ],
     "qs:a0":"Thailand",
@@ -47,7 +50,7 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +62,7 @@
         "fct:id":"07cf80ec-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1610538,
         "gp:id":28341330,
-        "qs:id":478327
+        "qs_pg:id":478327
     },
     "wof:country":"TH",
     "wof:geomhash":"7ffda31fdd0bd2a989b7ae9d226f4a80",
@@ -75,7 +78,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1505338987,
+    "wof:lastmodified":1566656459,
     "wof:name":"Kabin Buri",
     "wof:parent_id":85678711,
     "wof:placetype":"locality",

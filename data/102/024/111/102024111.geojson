@@ -14,6 +14,8 @@
     "iso:country":"TH",
     "lbl:latitude":9.12804,
     "lbl:longitude":99.319602,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":9.12804,
     "mps:longitude":99.319602,
     "mz:hierarchy_label":1,
@@ -166,7 +168,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0443\u0440\u0430\u0442\u0442\u0445\u0430\u043d\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Changwat Surat Thani"
     ],
     "name:urd_x_preferred":[
@@ -301,7 +303,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":660,
     "wof:belongsto":[
@@ -315,10 +317,12 @@
         "fct:id":"07ce8dd6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1150515,
         "gp:id":1226176,
-        "qs:id":71154,
-        "qs_pg:id":277101,
+        "qs_pg:id":71154,
         "wd:id":"Q840951",
         "wk:page":"Surat Thani"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":277101
     },
     "wof:country":"TH",
     "wof:geomhash":"7d7701b3b1b9040c25e1e36f29b16989",
@@ -335,7 +339,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563290237,
+    "wof:lastmodified":1566656346,
     "wof:name":"Surat Thani",
     "wof:parent_id":890467241,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"TH",
     "lbl:latitude":7.001955,
     "lbl:longitude":100.37172,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":6.0,
     "mps:latitude":7.001955,
     "mps:longitude":100.37172,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":4.0,
     "name:ara_x_preferred":[
         "\u0633\u0648\u0646\u063a\u0643\u0644\u0627"
     ],
@@ -130,7 +133,7 @@
     "qs:source":"Aquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -143,7 +146,7 @@
         "fct:id":"07cdbdde-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1606146,
         "gp:id":2347192,
-        "qs:id":1243155,
+        "qs_pg:id":1243155,
         "wd:id":"Q795595",
         "wk:page":"Songkhla Province"
     },
@@ -159,7 +162,7 @@
         }
     ],
     "wof:id":102024771,
-    "wof:lastmodified":1563290238,
+    "wof:lastmodified":1566656347,
     "wof:name":"Changwat Songkhla",
     "wof:parent_id":890467223,
     "wof:placetype":"locality",

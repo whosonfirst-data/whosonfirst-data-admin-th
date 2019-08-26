@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000525,
-    "geom:area_square_m":6264430.992182,
+    "geom:area_square_m":6264430.992185,
     "geom:bbox":"103.102871995,15.2062518914,103.198393323,15.3303098998",
     "geom:latitude":15.268292,
     "geom:longitude":103.150627,
@@ -14,9 +14,13 @@
     "iso:country":"TH",
     "lbl:latitude":15.321274,
     "lbl:longitude":103.112183,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":15.321274,
     "mps:longitude":103.112183,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Khaen Dong"
     ],
@@ -26,7 +30,7 @@
     "name:tha_x_preferred":[
         "\u0e41\u0e04\u0e19\u0e14\u0e07"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "King Amphoe Khaen Dong"
     ],
     "qs:a0":"Thailand",
@@ -46,7 +50,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -58,7 +62,6 @@
         "fct:id":"07ce9f92-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":7511028,
         "gp:id":28349063,
-        "qs:id":905232,
         "qs_pg:id":905232,
         "wk:page":"Swan Lake National Wildlife Refuge"
     },
@@ -77,7 +80,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1497299432,
+    "wof:lastmodified":1566656502,
     "wof:name":"Khaen Dong",
     "wof:parent_id":890466239,
     "wof:placetype":"locality",

@@ -28,6 +28,7 @@
     ],
     "lbl:latitude":17.335379,
     "lbl:longitude":104.614514,
+    "lbl:min_zoom":8.0,
     "mps:latitude":17.335379,
     "mps:longitude":104.614514,
     "mz:hierarchy_label":1,
@@ -161,7 +162,7 @@
         "Nakhon Phanom"
     ],
     "name:tam_x_preferred":[
-        "\u0ba8\u0b95\u0bcd\u0bb9\u0bcb\u0ba9\u0bcd  \u0baa\u0bbe\u0ba9\u0bcb\u0bae\u0bcd"
+        "\u0ba8\u0b95\u0bcd\u0bb9\u0bcb\u0ba9\u0bcd \u0baa\u0bbe\u0ba9\u0bcb\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c28\u0c3e\u0c16\u0c4b\u0c4b\u0c28\u0c4d \u0c2b\u0c3e\u0c28\u0c4b\u0c2e\u0c4d"
@@ -181,7 +182,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u0430\u043a\u0445\u043e\u043d \u041f\u0445\u0430\u043d\u043e\u043c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nakorn Phanom Changwat"
     ],
     "name:urd_x_preferred":[
@@ -270,7 +271,7 @@
     "qs:type":"Province",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wikidata",
     "src:population_date":"2017",
     "statoids:area_km":"5,513",
@@ -297,7 +298,7 @@
         "gp:id":2347196,
         "hasc:id":"TH.NF",
         "iso:id":"TH-48",
-        "qs:id":1171193,
+        "qs_pg:id":1171193,
         "unlc:id":"TH-48",
         "wd:id":"Q468547",
         "wk:page":"Nakhon Phanom Province"
@@ -318,11 +319,10 @@
     "wof:lang_x_spoken":[
         "tha"
     ],
-    "wof:lastmodified":1565737054,
+    "wof:lastmodified":1566657711,
     "wof:name":"Nakhon Phanom",
     "wof:parent_id":85632293,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":718028,
     "wof:population_rank":11,

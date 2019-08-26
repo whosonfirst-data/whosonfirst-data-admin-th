@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000495,
+    "geom:area_square_m":5825721.067488,
     "geom:bbox":"102.366671018,17.8181154093,102.417746788,17.846632686",
     "geom:latitude":17.832495,
     "geom:longitude":102.390909,
@@ -13,9 +14,13 @@
     "iso:country":"TH",
     "lbl:latitude":17.837603,
     "lbl:longitude":102.376099,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":17.837603,
     "mps:longitude":102.376099,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:tha_x_preferred":[
         "\u0e1a\u0e49\u0e32\u0e19\u0e2a\u0e32\u0e27\u0e41\u0e25"
     ],
@@ -30,7 +35,7 @@
     "qs:source":"Aquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -51,7 +56,7 @@
         }
     ],
     "wof:id":102026139,
-    "wof:lastmodified":1501273267,
+    "wof:lastmodified":1566656503,
     "wof:name":"Ban Sao Lae",
     "wof:parent_id":85678869,
     "wof:placetype":"locality",

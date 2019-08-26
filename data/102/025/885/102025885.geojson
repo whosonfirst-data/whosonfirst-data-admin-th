@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000909,
-    "geom:area_square_m":10615571.573216,
+    "geom:area_square_m":10615571.573227,
     "geom:bbox":"99.2574948726,18.4861999377,100.276271659,19.8532616441",
     "geom:latitude":19.171338,
     "geom:longitude":99.768022,
@@ -14,10 +14,13 @@
     "iso:country":"TH",
     "lbl:latitude":19.844227,
     "lbl:longitude":100.26123,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.844227,
     "mps:longitude":100.26123,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Khun Tan"
     ],
@@ -27,7 +30,7 @@
     "name:tha_x_variant":[
         "\u0e02\u0e38\u0e19\u0e15\u0e32\u0e25"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "King Amphoe Khun Tan"
     ],
     "qs:a0":"Thailand",
@@ -45,7 +48,7 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":61,
     "wof:belongsto":[
         102191569,
@@ -58,7 +61,7 @@
         "fct:id":"07ce9f60-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":7383661,
         "gp:id":28340864,
-        "qs:id":335707
+        "qs_pg:id":335707
     },
     "wof:country":"TH",
     "wof:geomhash":"ea28926ebdd1b0c57fa8af785b4d9e9b",
@@ -75,7 +78,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636687,
+    "wof:lastmodified":1566656469,
     "wof:name":"Khun Tan",
     "wof:parent_id":1108731417,
     "wof:placetype":"locality",

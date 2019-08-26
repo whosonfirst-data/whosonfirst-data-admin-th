@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001057,
+    "geom:area_square_m":12515454.903046,
     "geom:bbox":"102.806175966,16.7271336916,102.857885773,16.7662411049",
     "geom:latitude":16.75008,
     "geom:longitude":102.833593,
@@ -13,13 +14,17 @@
     "iso:country":"TH",
     "lbl:latitude":16.754294,
     "lbl:longitude":102.835749,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":16.754294,
     "mps:longitude":102.835749,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:tha_x_preferred":[
         "\u0e1a\u0e49\u0e32\u0e19\u0e19\u0e49\u0e33\u0e1e\u0e2d\u0e07"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nam Phaung"
     ],
     "qs:a0":"Thailand",
@@ -37,7 +42,7 @@
     "qs:type":"Town",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -47,7 +52,7 @@
     "wof:concordances":{
         "gn:id":1616257,
         "gp:id":1225511,
-        "qs:id":1140085
+        "qs_pg:id":1140085
     },
     "wof:country":"TH",
     "wof:geomhash":"1c73ddae842b0bed0c2d29644ad2d27b",
@@ -60,7 +65,7 @@
         }
     ],
     "wof:id":102025605,
-    "wof:lastmodified":1501221068,
+    "wof:lastmodified":1566656434,
     "wof:name":"Ban Nam Phong",
     "wof:parent_id":85678827,
     "wof:placetype":"locality",

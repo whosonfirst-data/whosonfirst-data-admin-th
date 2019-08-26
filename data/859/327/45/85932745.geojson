@@ -5,13 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000751,
-    "geom:area_square_m":9016682.399025,
+    "geom:area_square_m":9016682.399052,
     "geom:bbox":"100.436303015,13.6833504225,100.466607839,13.7227036375",
     "geom:latitude":13.701904,
     "geom:longitude":100.452992,
     "iso:country":"TH",
     "lbl:latitude":13.701929,
     "lbl:longitude":100.453329,
+    "lbl:max_zoom":18.0,
     "mps:latitude":13.700531,
     "mps:longitude":100.449683,
     "mz:hierarchy_label":1,
@@ -56,9 +57,6 @@
     "name:tha_x_preferred":[
         "\u0e40\u0e02\u0e15\u0e1a\u0e32\u0e07\u0e02\u0e38\u0e19\u0e40\u0e17\u0e35\u0e22\u0e19"
     ],
-    "name:unk_x_variant":[
-        "Bang Khun Thian"
-    ],
     "name:vie_x_preferred":[
         "Bang Khun Thian"
     ],
@@ -88,7 +86,7 @@
     "qs:woe_ver":"7.3.1",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85678739,
         102191569,
@@ -113,7 +111,7 @@
         }
     ],
     "wof:id":85932745,
-    "wof:lastmodified":1527269310,
+    "wof:lastmodified":1566657691,
     "wof:name":"Bang Khun Thian",
     "wof:parent_id":102025263,
     "wof:placetype":"neighbourhood",

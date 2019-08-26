@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000255,
+    "geom:area_square_m":3129819.795546,
     "geom:bbox":"101.872687716,6.09328708278,101.890739945,6.11135662717",
     "geom:latitude":6.102322,
     "geom:longitude":101.881714,
@@ -13,9 +14,13 @@
     "iso:country":"TH",
     "lbl:latitude":6.102322,
     "lbl:longitude":101.881714,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":6.102322,
     "mps:longitude":101.881714,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Sungai Padi"
     ],
@@ -29,9 +34,6 @@
     ],
     "name:tha_x_variant":[
         "\u0e2a\u0e38\u0e44\u0e2b\u0e07\u0e1b\u0e32\u0e14\u0e35"
-    ],
-    "name:unk_x_variant":[
-        "Sungai Padi"
     ],
     "qs:a0":"Thailand",
     "qs:a1":"*Narathiwat",
@@ -50,7 +52,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -61,7 +63,6 @@
         "fct:id":"07cf51ee-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1610303,
         "gp:id":1225676,
-        "qs:id":315594,
         "qs_pg:id":315594
     },
     "wof:country":"TH",
@@ -78,7 +79,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1497296505,
+    "wof:lastmodified":1566656487,
     "wof:name":"Su-ngai Padi",
     "wof:parent_id":85678885,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":103.95,
     "gn:country":"TH",
     "gn:fcode":"PPL",
-    "gn:pop":17412,
+    "gn:population":17412,
     "iso:country":"TH",
+    "lbl:bbox":"103.93,15.99667,103.97,16.03667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09b8\u09c7\u09b2\u09be\u09ab\u09c1\u09ae"
     ],
@@ -57,7 +61,7 @@
     "wof:concordances":{
         "gn:id":1613284,
         "gp:id":55945955,
-        "qs:id":85564,
+        "qs_pg:id":85564,
         "wd:id":"Q476679",
         "wk:page":"Selaphum District"
     },
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":890467071,
-    "wof:lastmodified":1563298296,
+    "wof:lastmodified":1566663215,
     "wof:name":"Ban Selaphum",
     "wof:parent_id":85678845,
     "wof:placetype":"locality",

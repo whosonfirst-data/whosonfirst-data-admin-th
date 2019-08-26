@@ -14,10 +14,13 @@
     "iso:country":"TH",
     "lbl:latitude":15.469563,
     "lbl:longitude":104.485474,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":15.469563,
     "mps:longitude":104.485474,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u0996\u09c1\u09af\u09bc\u09c7\u09af\u09bc\u09be\u0982 \u09a8\u09be\u0987"
     ],
@@ -45,7 +48,7 @@
     "name:tha_x_variant":[
         "\u0e40\u0e02\u0e37\u0e48\u0e2d\u0e07\u0e43\u0e19"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Amphoe Khuang Nai"
     ],
     "name:vie_x_preferred":[
@@ -62,7 +65,7 @@
     "qs:source":"Aquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -71,7 +74,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1609719,
-        "qs:id":370885,
+        "qs_pg:id":370885,
         "wd:id":"Q475756",
         "wk:page":"Khueang Nai District"
     },
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":102025293,
-    "wof:lastmodified":1563290373,
+    "wof:lastmodified":1566656438,
     "wof:name":"Amphoe Khueang Nai",
     "wof:parent_id":85678783,
     "wof:placetype":"locality",

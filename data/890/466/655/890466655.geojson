@@ -11,11 +11,15 @@
     "geom:longitude":100.41667,
     "gn:country":"TH",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424960,
     "iso:country":"TH",
+    "lbl:bbox":"100.39667,13.82739,100.43667,13.86739",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Ban Bang Muang"
     ],
@@ -28,7 +32,7 @@
     "name:tha_x_variant":[
         "\u0e40\u0e17\u0e28\u0e1a\u0e32\u0e25\u0e15\u0e33\u0e1a\u0e25\u0e1a\u0e49\u0e32\u0e19\u0e1a\u0e32\u0e07\u0e21\u0e48\u0e27\u0e07"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bang Tong"
     ],
     "qs:name":"Ban Bang Muang",
@@ -54,7 +58,7 @@
     "wof:concordances":{
         "gn:id":1620758,
         "gp:id":1200796,
-        "qs:id":974646,
+        "qs_pg:id":974646,
         "wd:id":"Q13025240",
         "wk:page":"Bang Yai District"
     },
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":890466655,
-    "wof:lastmodified":1563298434,
+    "wof:lastmodified":1566663283,
     "wof:name":"Ban Bang Muang",
     "wof:parent_id":1108802589,
     "wof:placetype":"locality",

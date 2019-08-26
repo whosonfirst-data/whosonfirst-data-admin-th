@@ -19,6 +19,8 @@
     ],
     "lbl:latitude":13.692934,
     "lbl:longitude":99.773892,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"RATCHABURI",
     "meso:diss_me":"PhotharamRATCHABURI",
     "meso:gadm_admin":"Photharam",
@@ -36,6 +38,7 @@
     "mps:longitude":99.773892,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ab\u09cb\u09a5\u09be\u09b0\u09be\u09ae"
     ],
@@ -86,9 +89,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"417",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -109,7 +112,7 @@
     "wof:concordances":{
         "gp:id":28341555,
         "hasc:id":"TH.RT.PH",
-        "qs:id":609741,
+        "qs_pg:id":609741,
         "wd:id":"Q476432",
         "wk:page":"Photharam District"
     },
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":890467103,
-    "wof:lastmodified":1563298286,
+    "wof:lastmodified":1566663208,
     "wof:name":"Photharam",
     "wof:parent_id":85678761,
     "wof:placetype":"county",

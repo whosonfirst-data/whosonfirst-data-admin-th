@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000452,
-    "geom:area_square_m":5321954.934025,
+    "geom:area_square_m":5321954.934027,
     "geom:bbox":"103.564173205,17.8390253096,103.594030007,17.8570973249",
     "geom:latitude":17.848061,
     "geom:longitude":103.579102,
@@ -14,14 +14,14 @@
     "iso:country":"TH",
     "lbl:latitude":17.848062,
     "lbl:longitude":103.579102,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":17.848062,
     "mps:longitude":103.579102,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:tha_x_preferred":[
-        "\u0e1a\u0e49\u0e32\u0e19\u0e21\u0e48\u0e27\u0e07"
-    ],
-    "name:unk_x_variant":[
         "\u0e1a\u0e49\u0e32\u0e19\u0e21\u0e48\u0e27\u0e07"
     ],
     "qs:a0":"Thailand",
@@ -39,7 +39,7 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":48,
     "wof:belongsto":[
         102191569,
@@ -50,7 +50,7 @@
     "wof:concordances":{
         "gn:id":1616609,
         "gp:id":28341052,
-        "qs:id":1164454
+        "qs_pg:id":1164454
     },
     "wof:country":"TH",
     "wof:geomhash":"251d3d0cdf119b8bd42a0827c52e297b",
@@ -63,7 +63,7 @@
         }
     ],
     "wof:id":102025617,
-    "wof:lastmodified":1527636682,
+    "wof:lastmodified":1566656424,
     "wof:name":"Ban Muang",
     "wof:parent_id":85678863,
     "wof:placetype":"locality",

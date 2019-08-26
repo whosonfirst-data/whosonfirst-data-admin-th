@@ -11,10 +11,14 @@
     "geom:longitude":99.66539,
     "gn:country":"TH",
     "gn:fcode":"PPL",
-    "gn:pop":765,
+    "gn:population":765,
     "iso:country":"TH",
+    "lbl:bbox":"99.64539,6.68237,99.68539,6.72237",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:rus_x_preferred":[
         "\u0422\u0430-\u041b\u043e-\u0412\u043e\u0443"
     ],
@@ -31,7 +35,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7303194,
-        "qs:id":682247
+        "qs_pg:id":682247
     },
     "wof:country":"TH",
     "wof:created":1469053528,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":890465649,
-    "wof:lastmodified":1505343704,
+    "wof:lastmodified":1566663200,
     "wof:name":"Ta Lo Wow",
     "wof:parent_id":85678595,
     "wof:placetype":"locality",

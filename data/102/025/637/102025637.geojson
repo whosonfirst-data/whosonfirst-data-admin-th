@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000264,
-    "geom:area_square_m":3131154.932731,
+    "geom:area_square_m":3131154.932732,
     "geom:bbox":"102.916071829,16.0526158167,102.934758308,16.0706846182",
     "geom:latitude":16.06165,
     "geom:longitude":102.925415,
@@ -14,9 +14,13 @@
     "iso:country":"TH",
     "lbl:latitude":16.06165,
     "lbl:longitude":102.925415,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":16.06165,
     "mps:longitude":102.925415,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ban Kut Rang"
     ],
@@ -26,9 +30,6 @@
     ],
     "name:tha_x_preferred":[
         "\u0e01\u0e38\u0e14\u0e23\u0e31\u0e07"
-    ],
-    "name:unk_x_variant":[
-        "Ban Kot Rang"
     ],
     "qs:a0":"Thailand",
     "qs:a1":"*Maha Sarakham",
@@ -45,7 +46,7 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -57,7 +58,7 @@
         "fct:id":"07ced1f6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1617266,
         "gp:id":28341131,
-        "qs:id":273312
+        "qs_pg:id":273312
     },
     "wof:country":"TH",
     "wof:geomhash":"0d219d81218e12e886fcb8a64b2de882",
@@ -74,7 +75,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1501221069,
+    "wof:lastmodified":1566656475,
     "wof:name":"Kut Rang",
     "wof:parent_id":890466383,
     "wof:placetype":"locality",

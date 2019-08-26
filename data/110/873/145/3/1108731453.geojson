@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":12.043927,
     "lbl:longitude":102.342152,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"TRAT",
     "meso:diss_me":"Laem NgopTRAT",
     "meso:gadm_admin":"K. Ko Chang",
@@ -35,6 +37,7 @@
     "mps:longitude":102.342152,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Ko Chang"
     ],
@@ -46,9 +49,9 @@
         "\u0e41\u0e2b\u0e25\u0e21\u0e07\u0e2d\u0e1a"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"155",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":1108731453,
-    "wof:lastmodified":1554489423,
+    "wof:lastmodified":1566661726,
     "wof:name":"Laem Ngop",
     "wof:parent_id":85678813,
     "wof:placetype":"county",

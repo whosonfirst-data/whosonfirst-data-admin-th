@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000983,
-    "geom:area_square_m":11565446.808733,
+    "geom:area_square_m":11565446.808743,
     "geom:bbox":"101.87227826,17.859948791,101.990017194,18.0661163358",
     "geom:latitude":17.991875,
     "geom:longitude":101.925804,
@@ -14,10 +14,13 @@
     "iso:country":"TH",
     "lbl:latitude":18.025751,
     "lbl:longitude":101.887207,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":18.025751,
     "mps:longitude":101.887207,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_colloquial":[
         "Paak Chaum",
         "Pak Chaum"
@@ -33,7 +36,7 @@
     "name:tha_x_preferred":[
         "\u0e1b\u0e32\u0e01\u0e0a\u0e21"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "P\u0101k Chaum"
     ],
     "qs:a0":"Thailand",
@@ -51,7 +54,7 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -63,7 +66,7 @@
         "fct:id":"07cf081a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1614696,
         "gp:id":28340994,
-        "qs:id":246106
+        "qs_pg:id":246106
     },
     "wof:country":"TH",
     "wof:geomhash":"5152a335752f887c08e0d56a2a04f0b7",
@@ -80,7 +83,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1501221067,
+    "wof:lastmodified":1566656451,
     "wof:name":"Pak Chom",
     "wof:parent_id":1108731669,
     "wof:placetype":"locality",

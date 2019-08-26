@@ -5,20 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00044,
-    "geom:area_square_m":5390068.554686,
+    "geom:area_square_m":5390068.554676,
     "geom:bbox":"98.291090759,8.2622463205,98.3092510559,8.29120772276",
     "geom:latitude":8.276727,
     "geom:longitude":98.300171,
     "iso:country":"TH",
     "lbl:latitude":8.276727,
     "lbl:longitude":98.300171,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":8.276727,
     "mps:longitude":98.300171,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:tha_x_preferred":[
         "\u0e1a\u0e49\u0e32\u0e19\u0e42\u0e04\u0e01\u0e01\u0e25\u0e2d\u0e22"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kok Kloi"
     ],
     "qs:a1":"*",
@@ -32,7 +36,7 @@
     "qs:source":"Aquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":102024465,
-    "wof:lastmodified":1501216989,
+    "wof:lastmodified":1566656340,
     "wof:name":"Ban Khok Kloi",
     "wof:parent_id":890466905,
     "wof:placetype":"locality",

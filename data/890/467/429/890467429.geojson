@@ -11,11 +11,15 @@
     "geom:longitude":98.81567,
     "gn:country":"TH",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424960,
     "iso:country":"TH",
+    "lbl:bbox":"98.79567,8.0309,98.83567,8.0709",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Ao Nang"
     ],
@@ -87,7 +91,7 @@
     "wof:concordances":{
         "gn:id":1120400,
         "gp:id":55863748,
-        "qs:id":245516,
+        "qs_pg:id":245516,
         "wd:id":"Q375819",
         "wk:page":"Ao Nang"
     },
@@ -103,7 +107,7 @@
         }
     ],
     "wof:id":890467429,
-    "wof:lastmodified":1563298323,
+    "wof:lastmodified":1566663228,
     "wof:name":"Ao Nang",
     "wof:parent_id":85678585,
     "wof:placetype":"locality",

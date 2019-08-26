@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000261,
+    "geom:area_square_m":3131748.260293,
     "geom:bbox":"102.916149781,14.2713180443,102.934680355,14.2893896941",
     "geom:latitude":14.280354,
     "geom:longitude":102.925415,
@@ -13,9 +14,13 @@
     "iso:country":"TH",
     "lbl:latitude":14.280354,
     "lbl:longitude":102.925415,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":14.280354,
     "mps:longitude":102.925415,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:tha_x_preferred":[
         "\u0e2b\u0e19\u0e2d\u0e07\u0e41\u0e27\u0e07"
     ],
@@ -30,7 +35,7 @@
     "qs:source":"Aquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -51,7 +56,7 @@
         }
     ],
     "wof:id":102025889,
-    "wof:lastmodified":1501273209,
+    "wof:lastmodified":1566656424,
     "wof:name":"Nong Waeng",
     "wof:parent_id":85678817,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"TH",
     "lbl:latitude":13.668228,
     "lbl:longitude":99.875435,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":13.668228,
     "mps:longitude":99.875435,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ab\u09cb\u09a5\u09be\u09b0\u09be\u09ae"
     ],
@@ -61,9 +64,6 @@
         "\u0e42\u0e1e\u0e18\u0e32\u0e23\u0e32\u0e21",
         "\u0e40\u0e17\u0e28\u0e1a\u0e32\u0e25\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e42\u0e1e\u0e18\u0e32\u0e23\u0e32\u0e21"
     ],
-    "name:unk_x_variant":[
-        "Amphu Po Ta-ram"
-    ],
     "name:vie_x_preferred":[
         "Photharam"
     ],
@@ -87,7 +87,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":215,
     "wof:belongsto":[
@@ -101,7 +101,6 @@
         "fct:id":"07cebe78-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1151340,
         "gp:id":1226103,
-        "qs:id":229931,
         "qs_pg:id":229931,
         "wd:id":"Q13025414"
     },
@@ -120,7 +119,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563290331,
+    "wof:lastmodified":1566656408,
     "wof:name":"Photharam",
     "wof:parent_id":890467103,
     "wof:placetype":"locality",

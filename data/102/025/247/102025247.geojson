@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001284,
-    "geom:area_square_m":15505505.863398,
+    "geom:area_square_m":15505505.863408,
     "geom:bbox":"102.125208069,12.4436368091,102.176548951,12.4938820819",
     "geom:latitude":12.464665,
     "geom:longitude":102.150038,
@@ -15,10 +15,13 @@
     "iso:country":"TH",
     "lbl:latitude":12.455692,
     "lbl:longitude":102.156454,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":12.455692,
     "mps:longitude":102.156454,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:eng_x_preferred":[
         "Laem Sing"
     ],
@@ -28,7 +31,7 @@
     "name:tha_x_preferred":[
         "\u0e41\u0e2b\u0e25\u0e21\u0e2a\u0e34\u0e07\u0e2b\u0e4c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Amphoe Laem Sing"
     ],
     "qs:a0":"Thailand",
@@ -48,7 +51,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -61,7 +64,6 @@
         "fct:id":"07cf863c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1609278,
         "gp:id":1226021,
-        "qs:id":133558,
         "qs_pg:id":133558
     },
     "wof:country":"TH",
@@ -79,7 +81,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1505338986,
+    "wof:lastmodified":1566656469,
     "wof:name":"Laem Sing",
     "wof:parent_id":890466891,
     "wof:placetype":"locality",

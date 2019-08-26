@@ -11,15 +11,19 @@
     "geom:longitude":99.02317,
     "gn:country":"TH",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424960,
     "iso:country":"TH",
+    "lbl:bbox":"99.00317,14.21214,99.04317,14.25214",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:tha_x_preferred":[
         "\u0e1a\u0e49\u0e32\u0e19\u0e27\u0e31\u0e07\u0e01\u0e23\u0e30\u0e41\u0e08\u0e30"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ban Wang Krachae"
     ],
     "qs:name":"Wang Kra Chae",
@@ -43,7 +47,7 @@
     "wof:concordances":{
         "gn:id":8454564,
         "gp:id":55945787,
-        "qs:id":237167
+        "qs_pg:id":237167
     },
     "wof:country":"TH",
     "wof:created":1469053584,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":890466539,
-    "wof:lastmodified":1505343707,
+    "wof:lastmodified":1566663270,
     "wof:name":"Wang Kra Chae",
     "wof:parent_id":85678663,
     "wof:placetype":"locality",

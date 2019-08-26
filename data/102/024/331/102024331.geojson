@@ -11,15 +11,17 @@
     "geom:longitude":98.330358,
     "gn:country":"TH",
     "gn:fcode":"PPLA2",
-    "gn:pop":0,
-    "gn:population":34835,
+    "gn:population":0,
     "iso:country":"TH",
     "lbl:latitude":7.904487,
     "lbl:longitude":98.332848,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":7.904487,
     "mps:longitude":98.332848,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:afr_x_preferred":[
         "Kathu"
     ],
@@ -67,7 +69,7 @@
     "name:tha_x_variant":[
         "\u0e15\u0e33\u0e1a\u0e25\u0e01\u0e30\u0e17\u0e39\u0e49"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ka Hu"
     ],
     "name:ven_x_preferred":[
@@ -97,7 +99,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-27.7,
     "wd:longitude":23.05,
@@ -113,9 +115,11 @@
         "fct:id":"07cf9974-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1153035,
         "gp:id":1226239,
-        "qs:id":1030338,
         "qs_pg:id":130615,
         "wk:page":"Kathu"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1030338
     },
     "wof:country":"TH",
     "wof:geomhash":"dd7d48fae115449aed8c874f41a1fc75",
@@ -132,7 +136,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564101296,
+    "wof:lastmodified":1566656300,
     "wof:name":"Kathu",
     "wof:parent_id":890466909,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001157,
-    "geom:area_square_m":13460864.977725,
+    "geom:area_square_m":13460864.977735,
     "geom:bbox":"99.6968755418,19.7628366431,99.7379400745,19.8248422866",
     "geom:latitude":19.797398,
     "geom:longitude":99.719203,
@@ -14,9 +14,13 @@
     "iso:country":"TH",
     "lbl:latitude":19.810987,
     "lbl:longitude":99.720345,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.810987,
     "mps:longitude":99.720345,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:tha_x_preferred":[
         "\u0e41\u0e21\u0e48\u0e25\u0e32\u0e27"
     ],
@@ -35,7 +39,7 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -46,7 +50,7 @@
     "wof:concordances":{
         "gn:id":7421899,
         "gp:id":28340866,
-        "qs:id":1184488
+        "qs_pg:id":1184488
     },
     "wof:country":"TH",
     "wof:geomhash":"997531cd51e41a6d4fbf96fcbb285182",
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":102025887,
-    "wof:lastmodified":1501273203,
+    "wof:lastmodified":1566656425,
     "wof:name":"Mae Lao",
     "wof:parent_id":890466017,
     "wof:placetype":"locality",

@@ -5,27 +5,30 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002669,
-    "geom:area_square_m":32169898.244527,
+    "geom:area_square_m":32169898.244519,
     "geom:bbox":"102.246040915,12.8831019681,102.462212588,12.9332943558",
     "geom:latitude":12.913651,
     "geom:longitude":102.318621,
     "gn:country":"TH",
     "gn:fcode":"PPLA2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"TH",
     "lbl:latitude":12.905445,
     "lbl:longitude":102.266227,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":12.905445,
     "mps:longitude":102.266227,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Pong Nam Ron"
     ],
     "name:tha_x_preferred":[
         "\u0e42\u0e1b\u0e48\u0e07\u0e19\u0e49\u0e33\u0e23\u0e49\u0e2d\u0e19"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Amphoe Pong Nam Ron"
     ],
     "qs:a0":"Thailand",
@@ -47,7 +50,7 @@
     "qs:type":"Town",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":57,
     "wof:belongsto":[
@@ -60,7 +63,7 @@
         "fct:id":"07cfa450-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1607306,
         "gp:id":28341364,
-        "qs:id":370850,
+        "qs_pg:id":370850,
         "wk:page":"Pong Nam Ron"
     },
     "wof:country":"TH",
@@ -77,7 +80,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527637813,
+    "wof:lastmodified":1566656506,
     "wof:name":"Pong Nam Ron",
     "wof:parent_id":85678799,
     "wof:placetype":"locality",

@@ -11,7 +11,7 @@
     "geom:longitude":100.541376,
     "gn:country":"TH",
     "gn:fcode":"PPLA2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424960,
     "iso:country":"TH",
     "label:eng_x_preferred_longname":[
@@ -22,6 +22,8 @@
     ],
     "lbl:latitude":14.577535,
     "lbl:longitude":100.542604,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"PHRA NAKHON SI AYUTTHAYA",
     "meso:diss_me":"Maha RatPHRA NAKHON SI AYUTTHAYA",
     "meso:gadm_admin":"Maha Rat",
@@ -39,6 +41,7 @@
     "mps:longitude":100.542604,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ae\u09be\u09b9\u09be \u09b0\u09be\u09a4"
     ],
@@ -69,7 +72,7 @@
     "name:tha_x_variant":[
         "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e21\u0e2b\u0e32\u0e23\u0e32\u0e0a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Amphoe Maharat"
     ],
     "name:urd_x_preferred":[
@@ -93,9 +96,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"120",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -117,7 +120,7 @@
         "gn:id":1608902,
         "gp:id":28341521,
         "hasc:id":"TH.PA.MR",
-        "qs:id":905508,
+        "qs_pg:id":905508,
         "wd:id":"Q475983",
         "wk:page":"Maha Rat District"
     },
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":890467275,
-    "wof:lastmodified":1563298298,
+    "wof:lastmodified":1566663216,
     "wof:name":"Maha Rat",
     "wof:parent_id":85678721,
     "wof:placetype":"county",

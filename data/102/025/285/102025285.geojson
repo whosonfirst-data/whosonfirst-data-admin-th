@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000256,
+    "geom:area_square_m":3135813.904413,
     "geom:bbox":"100.3345722,7.21720580089,100.352683625,7.23529254651",
     "geom:latitude":7.226249,
     "geom:longitude":100.343628,
@@ -13,13 +14,17 @@
     "iso:country":"TH",
     "lbl:latitude":7.226249,
     "lbl:longitude":100.343628,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":7.226249,
     "mps:longitude":100.343628,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:tha_x_preferred":[
         "\u0e04\u0e27\u0e19\u0e40\u0e19\u0e35\u0e22\u0e07"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ban Khuan Niang"
     ],
     "qs:a0":"Thailand",
@@ -37,7 +42,7 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -47,7 +52,7 @@
     "wof:concordances":{
         "gn:id":1609711,
         "gp:id":28341685,
-        "qs:id":1013942
+        "qs_pg:id":1013942
     },
     "wof:country":"TH",
     "wof:geomhash":"054bd1ca8be3c5ac277e23c7326ea5e8",
@@ -60,7 +65,7 @@
         }
     ],
     "wof:id":102025285,
-    "wof:lastmodified":1501221053,
+    "wof:lastmodified":1566656469,
     "wof:name":"Khuan Niang",
     "wof:parent_id":85678603,
     "wof:placetype":"locality",

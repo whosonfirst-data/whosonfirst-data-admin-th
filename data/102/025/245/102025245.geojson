@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000709,
-    "geom:area_square_m":8476051.977137,
+    "geom:area_square_m":8476051.977118,
     "geom:bbox":"103.641224405,14.7074087049,103.681772414,14.7573620491",
     "geom:latitude":14.73319,
     "geom:longitude":103.658636,
@@ -14,16 +14,20 @@
     "iso:country":"TH",
     "lbl:latitude":14.743011,
     "lbl:longitude":103.650513,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":14.743011,
     "mps:longitude":103.650513,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ban Lamduan"
     ],
     "name:tha_x_preferred":[
         "\u0e25\u0e33\u0e14\u0e27\u0e19"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Surapin"
     ],
     "qs:a0":"Thailand",
@@ -41,7 +45,7 @@
     "qs:type":"Town",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -52,7 +56,7 @@
         "fct:id":"07cf68aa-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1609223,
         "gp:id":28341283,
-        "qs:id":946042
+        "qs_pg:id":946042
     },
     "wof:country":"TH",
     "wof:geomhash":"64f7d7a573e3e3a4023d2510bb2cb703",
@@ -68,7 +72,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1501221034,
+    "wof:lastmodified":1566656424,
     "wof:name":"Lamduan",
     "wof:parent_id":85678849,
     "wof:placetype":"locality",

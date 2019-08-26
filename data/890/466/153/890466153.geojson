@@ -11,11 +11,15 @@
     "geom:longitude":101.17322,
     "gn:country":"TH",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424960,
     "iso:country":"TH",
+    "lbl:bbox":"101.15322,13.4152,101.19322,13.4552",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ban Chang"
     ],
@@ -40,7 +44,7 @@
     "wof:concordances":{
         "gn:id":7851513,
         "gp:id":55947616,
-        "qs:id":355546,
+        "qs_pg:id":355546,
         "wk:page":"Ban Chang"
     },
     "wof:country":"TH",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890466153,
-    "wof:lastmodified":1564109680,
+    "wof:lastmodified":1566663270,
     "wof:name":"Ban Chang",
     "wof:parent_id":85678795,
     "wof:placetype":"locality",

@@ -28,6 +28,7 @@
     ],
     "lbl:latitude":10.094621,
     "lbl:longitude":98.792356,
+    "lbl:min_zoom":8.0,
     "mps:latitude":10.094621,
     "mps:longitude":98.792356,
     "mz:hierarchy_label":1,
@@ -193,9 +194,6 @@
     "name:ukr_x_preferred":[
         "\u0420\u0430\u043d\u043e\u043d\u0433"
     ],
-    "name:unk_x_variant":[
-        "Changwat Ranong"
-    ],
     "name:urd_x_preferred":[
         "\u0631\u0627\u0646\u0648\u0646\u06af \u0635\u0648\u0628\u06c1"
     ],
@@ -285,7 +283,7 @@
     "qs:type":"Province",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wikidata",
     "src:population_date":"2017",
     "statoids:area_km":"3,298",
@@ -312,7 +310,7 @@
         "gp:id":2347183,
         "hasc:id":"TH.RN",
         "iso:id":"TH-85",
-        "qs:id":221185,
+        "qs_pg:id":221185,
         "unlc:id":"TH-85",
         "wd:id":"Q236802",
         "wk:page":"Ranong Province"
@@ -333,11 +331,10 @@
     "wof:lang_x_spoken":[
         "tha"
     ],
-    "wof:lastmodified":1565737049,
+    "wof:lastmodified":1566657700,
     "wof:name":"Ranong",
     "wof:parent_id":85632293,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":190399,
     "wof:population_rank":9,

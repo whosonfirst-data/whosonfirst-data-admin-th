@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000233,
-    "geom:area_square_m":2777524.331007,
+    "geom:area_square_m":2777524.331003,
     "geom:bbox":"104.908447266,15.2735871022,104.919433594,15.2947825903",
     "geom:latitude":15.284185,
     "geom:longitude":104.91394,
@@ -14,13 +14,17 @@
     "iso:country":"TH",
     "lbl:latitude":15.284185,
     "lbl:longitude":104.913941,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":15.284185,
     "mps:longitude":104.913941,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:tha_x_preferred":[
         "\u0e1a\u0e49\u0e32\u0e19\u0e1b\u0e25\u0e32\u0e14\u0e38\u0e01"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ban Pa Duk"
     ],
     "qs:a1":"*",
@@ -34,7 +38,7 @@
     "qs:source":"Aquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":102025563,
-    "wof:lastmodified":1501221066,
+    "wof:lastmodified":1566656457,
     "wof:name":"Ban Pladuk",
     "wof:parent_id":890466033,
     "wof:placetype":"locality",

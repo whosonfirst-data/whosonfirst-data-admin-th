@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.210674,
     "lbl:longitude":100.473004,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"PHRA NAKHON SI AYUTTHAYA",
     "meso:diss_me":"Bang SaiPHRA NAKHON SI AYUTTHAYA",
     "meso:gadm_admin":"Bang Sai",
@@ -35,6 +37,7 @@
     "mps:longitude":100.473004,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Bang Sai"
     ],
@@ -45,9 +48,9 @@
         "\u0e1a\u0e32\u0e07\u0e0b\u0e49\u0e32\u0e22"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"151",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":1108731179,
-    "wof:lastmodified":1554489414,
+    "wof:lastmodified":1566661744,
     "wof:name":"Bang Sai",
     "wof:parent_id":85678721,
     "wof:placetype":"county",

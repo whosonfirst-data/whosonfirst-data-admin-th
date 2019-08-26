@@ -15,6 +15,8 @@
     "iso:country":"TH",
     "lbl:latitude":16.43967,
     "lbl:longitude":102.81935,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":16.43967,
     "mps:longitude":102.81935,
     "mz:hierarchy_label":1,
@@ -73,7 +75,7 @@
         "\u05e7\u05d5\u05df \u05e7\u05d0\u05df"
     ],
     "name:hin_x_preferred":[
-        "\u0916\u094b\u0902  \u0915\u093e\u092f\u0947\u0928"
+        "\u0916\u094b\u0902 \u0915\u093e\u092f\u0947\u0928"
     ],
     "name:hun_x_preferred":[
         "Khonken"
@@ -156,9 +158,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041a\u0445\u043e\u043d\u043a\u0435\u043d"
-    ],
-    "name:unk_x_variant":[
-        "Kawn Ken"
     ],
     "name:urd_x_preferred":[
         "\u06a9\u06be\u0648\u0646 \u06a9\u06cc\u0626\u0646"
@@ -287,7 +286,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":802,
     "wof:belongsto":[
@@ -301,7 +300,6 @@
         "fct:id":"07ce8d68-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1609776,
         "gp:id":1226003,
-        "qs:id":350364,
         "qs_pg:id":350364,
         "wd:id":"Q876526",
         "wk:page":"Khon Kaen"
@@ -321,7 +319,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563290333,
+    "wof:lastmodified":1566656409,
     "wof:name":"Khon Kaen",
     "wof:parent_id":890467271,
     "wof:placetype":"locality",

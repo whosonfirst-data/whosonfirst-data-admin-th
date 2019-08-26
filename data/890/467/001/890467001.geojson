@@ -11,11 +11,15 @@
     "geom:longitude":100.95,
     "gn:country":"TH",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424960,
     "iso:country":"TH",
+    "lbl:bbox":"100.93,13.24667,100.97,13.28667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ac\u09be\u09a8 \u09ae\u09c1\u09af\u09bc\u09be\u0982"
     ],
@@ -57,7 +61,7 @@
     "wof:concordances":{
         "gn:id":1616532,
         "gp:id":1211004,
-        "qs:id":1159585,
+        "qs_pg:id":1159585,
         "wk:page":"Ban Muang District"
     },
     "wof:country":"TH",
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":890467001,
-    "wof:lastmodified":1564109656,
+    "wof:lastmodified":1566663220,
     "wof:name":"Ban Muang (1)",
     "wof:parent_id":1108802665,
     "wof:placetype":"locality",

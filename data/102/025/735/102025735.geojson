@@ -14,10 +14,13 @@
     "iso:country":"TH",
     "lbl:latitude":13.318676,
     "lbl:longitude":101.119405,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":13.318676,
     "mps:longitude":101.119405,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Ban Bueng"
     ],
@@ -30,7 +33,7 @@
     "name:tha_x_variant":[
         "\u0e40\u0e17\u0e28\u0e1a\u0e32\u0e25\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e1a\u0e49\u0e32\u0e19\u0e1a\u0e36\u0e07"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ban Boeng"
     ],
     "qs:a0":"Thailand",
@@ -48,7 +51,7 @@
     "qs:type":"Town",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -59,7 +62,7 @@
     "wof:concordances":{
         "gn:id":1620443,
         "gp:id":1201563,
-        "qs:id":183738,
+        "qs_pg:id":183738,
         "wd:id":"Q13025368"
     },
     "wof:country":"TH",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":102025735,
-    "wof:lastmodified":1563290405,
+    "wof:lastmodified":1566656459,
     "wof:name":"Ban Bueng",
     "wof:parent_id":1108802559,
     "wof:placetype":"locality",

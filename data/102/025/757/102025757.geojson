@@ -14,10 +14,13 @@
     "iso:country":"TH",
     "lbl:latitude":6.51727,
     "lbl:longitude":101.652262,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":6.51727,
     "mps:longitude":101.652262,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ac\u09be\u099a\u09cb"
     ],
@@ -63,9 +66,6 @@
     "name:tha_x_variant":[
         "\u0e1a\u0e32\u0e40\u0e08\u0e32\u0e30"
     ],
-    "name:unk_x_variant":[
-        "Ba Re Nua"
-    ],
     "name:urd_x_preferred":[
         "\u0628\u0627\u0686\u0648 \u0636\u0644\u0639"
     ],
@@ -90,7 +90,7 @@
     "qs:type":"Town",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -101,7 +101,7 @@
         "fct:id":"07cf5e3c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1621004,
         "gp:id":1225764,
-        "qs:id":193744,
+        "qs_pg:id":193744,
         "wd:id":"Q475079",
         "wk:page":"Bacho District"
     },
@@ -119,7 +119,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563290409,
+    "wof:lastmodified":1566656460,
     "wof:name":"Bacho",
     "wof:parent_id":85678885,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000041,
-    "geom:area_square_m":494319.689019,
+    "geom:area_square_m":494319.68902,
     "geom:bbox":"100.485782948,13.7473889231,100.495023565,13.7532398659",
     "geom:latitude":13.75007,
     "geom:longitude":100.490328,
@@ -13,6 +13,7 @@
     "iso:country":"TH",
     "lbl:latitude":13.750747,
     "lbl:longitude":100.491984,
+    "lbl:max_zoom":18.0,
     "mps:latitude":13.750145,
     "mps:longitude":100.49024,
     "mz:hierarchy_label":1,
@@ -25,9 +26,6 @@
     "mz:min_zoom":12.0,
     "mz:tier_locality":5,
     "name:eng_x_preferred":[
-        "Rattana Kosin"
-    ],
-    "name:unk_x_variant":[
         "Rattana Kosin"
     ],
     "qs:gn_adm0_cc":"TH",
@@ -57,7 +55,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85678739,
         102191569,
@@ -68,7 +66,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22724366,
-        "qs:id":501220,
         "qs_pg:id":501220
     },
     "wof:country":"TH",
@@ -87,7 +84,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527269264,
+    "wof:lastmodified":1566657688,
     "wof:name":"Rattana Kosin",
     "wof:parent_id":102025263,
     "wof:placetype":"neighbourhood",

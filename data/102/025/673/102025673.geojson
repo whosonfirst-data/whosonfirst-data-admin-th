@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003245,
+    "geom:area_square_m":38871869.856562,
     "geom:bbox":"100.114626493,14.3458295832,100.18810723,14.4241283327",
     "geom:latitude":14.386652,
     "geom:longitude":100.156449,
@@ -13,16 +14,20 @@
     "iso:country":"TH",
     "lbl:latitude":14.386795,
     "lbl:longitude":100.165082,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":14.386795,
     "mps:longitude":100.165082,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Khok Khram"
     ],
     "name:tha_x_preferred":[
         "\u0e1a\u0e32\u0e07\u0e1b\u0e25\u0e32\u0e21\u0e49\u0e32"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Amphoe Bang Pla Ma"
     ],
     "qs:a0":"Thailand",
@@ -42,7 +47,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -53,7 +58,6 @@
         "fct:id":"07d1d7de-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1619298,
         "gp:id":55944620,
-        "qs:id":1160931,
         "qs_pg:id":1160931
     },
     "wof:country":"TH",
@@ -70,7 +74,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1497290530,
+    "wof:lastmodified":1566656429,
     "wof:name":"Bang Pla Ma",
     "wof:parent_id":85678679,
     "wof:placetype":"locality",

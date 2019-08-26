@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.417063,
     "lbl:longitude":102.664879,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"BURI RAM",
     "meso:diss_me":"Pa khamBURI RAM",
     "meso:gadm_admin":"Pa Kham",
@@ -35,6 +37,7 @@
     "mps:longitude":102.664879,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09aa\u09be\u0996\u09be\u09ae"
     ],
@@ -72,9 +75,9 @@
         "Pakham"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"296",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":1108731661,
-    "wof:lastmodified":1563296449,
+    "wof:lastmodified":1566661706,
     "wof:name":"Pa kham",
     "wof:parent_id":85678817,
     "wof:placetype":"county",

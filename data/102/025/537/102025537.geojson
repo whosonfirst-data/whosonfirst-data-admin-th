@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000527,
+    "geom:area_square_m":6267377.892712,
     "geom:bbox":"100.180471451,16.0631690184,100.221139767,16.0812458004",
     "geom:latitude":16.072207,
     "geom:longitude":100.200806,
@@ -13,10 +14,14 @@
     "iso:country":"TH",
     "lbl:latitude":16.072207,
     "lbl:longitude":100.211792,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":16.072207,
     "mps:longitude":100.211792,
     "mz:hierarchy_label":1,
-    "name:unk_x_variant":[
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Thanong"
     ],
     "qs:a1":"*",
@@ -30,7 +35,7 @@
     "qs:source":"Aquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -51,7 +56,7 @@
         }
     ],
     "wof:id":102025537,
-    "wof:lastmodified":1501221066,
+    "wof:lastmodified":1566656453,
     "wof:name":"Ban Takot",
     "wof:parent_id":85678669,
     "wof:placetype":"locality",

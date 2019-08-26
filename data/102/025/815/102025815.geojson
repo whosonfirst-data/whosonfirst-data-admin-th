@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000964,
-    "geom:area_square_m":11578589.054913,
+    "geom:area_square_m":11578589.054909,
     "geom:bbox":"100.549621582,13.6993617985,100.590820312,13.7380510868",
     "geom:latitude":13.718049,
     "geom:longitude":100.566256,
@@ -14,10 +14,13 @@
     "iso:country":"TH",
     "lbl:latitude":13.720904,
     "lbl:longitude":100.563809,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":13.720904,
     "mps:longitude":100.563809,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Khlong Toei"
     ],
@@ -37,7 +40,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -47,7 +50,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6908641,
-        "qs:id":1063583,
         "qs_pg:id":1063583
     },
     "wof:country":"TH",
@@ -62,7 +64,7 @@
         }
     ],
     "wof:id":102025815,
-    "wof:lastmodified":1497295597,
+    "wof:lastmodified":1566656468,
     "wof:name":"Khlong Toei",
     "wof:parent_id":890466965,
     "wof:placetype":"locality",

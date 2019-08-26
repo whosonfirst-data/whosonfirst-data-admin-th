@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002111,
-    "geom:area_square_m":25074348.400286,
+    "geom:area_square_m":25074348.400282,
     "geom:bbox":"102.201963512,16.0842902918,102.275577053,16.1551218996",
     "geom:latitude":16.114644,
     "geom:longitude":102.247223,
@@ -15,17 +15,20 @@
     "iso:country":"TH",
     "lbl:latitude":16.1135,
     "lbl:longitude":102.259104,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":16.1135,
     "mps:longitude":102.259104,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Kaeng Khro"
     ],
     "name:tha_x_preferred":[
         "\u0e41\u0e01\u0e49\u0e07\u0e04\u0e23\u0e49\u0e2d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Amphoe Kaeng Khlo"
     ],
     "qs:a0":"Thailand",
@@ -43,7 +46,7 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -55,7 +58,7 @@
         "fct:id":"07cf811e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1610505,
         "gp:id":28341090,
-        "qs:id":945886
+        "qs_pg:id":945886
     },
     "wof:country":"TH",
     "wof:geomhash":"84fc57b96bb637fbb7651fb03d186ad8",
@@ -71,7 +74,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1505338987,
+    "wof:lastmodified":1566656484,
     "wof:name":"Kaeng Khro",
     "wof:parent_id":85678825,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003687,
-    "geom:area_square_m":43992728.933853,
+    "geom:area_square_m":43992728.93389,
     "geom:bbox":"101.729591666,15.1638486474,101.814108906,15.2561199675",
     "geom:latitude":15.209015,
     "geom:longitude":101.770028,
@@ -15,10 +15,13 @@
     "iso:country":"TH",
     "lbl:latitude":15.210182,
     "lbl:longitude":101.774189,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":15.210182,
     "mps:longitude":101.774189,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:eng_x_preferred":[
         "Dan Khun Thot"
     ],
@@ -28,7 +31,7 @@
     "name:tha_x_preferred":[
         "\u0e14\u0e48\u0e32\u0e19\u0e02\u0e38\u0e19\u0e17\u0e14"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Amphoe Dan Khun Thot"
     ],
     "qs:a0":"Thailand",
@@ -46,7 +49,7 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +62,7 @@
         "fct:id":"07cf7f84-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1610963,
         "gp:id":28341315,
-        "qs:id":224347
+        "qs_pg:id":224347
     },
     "wof:country":"TH",
     "wof:geomhash":"cda80340f1aa2b3cd9cdd8d36322777e",
@@ -76,7 +79,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1505338987,
+    "wof:lastmodified":1566656469,
     "wof:name":"Dan Khun Thot",
     "wof:parent_id":890466375,
     "wof:placetype":"locality",

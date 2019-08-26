@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003855,
+    "geom:area_square_m":45888397.429419,
     "geom:bbox":"101.817459324,15.6589693181,101.902020553,15.7537049801",
     "geom:latitude":15.704436,
     "geom:longitude":101.855747,
@@ -13,16 +14,20 @@
     "iso:country":"TH",
     "lbl:latitude":15.690404,
     "lbl:longitude":101.872717,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":15.690404,
     "mps:longitude":101.872717,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Chaturat"
     ],
     "name:tha_x_preferred":[
         "\u0e08\u0e31\u0e15\u0e38\u0e23\u0e31\u0e2a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ban Kok"
     ],
     "qs:a0":"Thailand",
@@ -42,7 +47,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -53,7 +58,6 @@
         "fct:id":"07cf7e80-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1611234,
         "gp:id":1225952,
-        "qs:id":1072107,
         "qs_pg:id":1072107
     },
     "wof:country":"TH",
@@ -70,7 +74,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1497303752,
+    "wof:lastmodified":1566656423,
     "wof:name":"Chatturat",
     "wof:parent_id":85678825,
     "wof:placetype":"locality",

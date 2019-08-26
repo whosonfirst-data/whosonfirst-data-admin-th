@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":6.423433,
     "lbl:longitude":101.705149,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"NARATHIWAT",
     "meso:diss_me":"Yi-ngoNARATHIWAT",
     "meso:gadm_admin":"Yi-ngo",
@@ -35,6 +37,7 @@
     "mps:longitude":101.705149,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09af\u09bc\u09bf-\u0999\u09cb"
     ],
@@ -78,9 +81,9 @@
         "\u6021\u5a25\u53bf"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"201",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":1108732091,
-    "wof:lastmodified":1563296549,
+    "wof:lastmodified":1566661760,
     "wof:name":"Yi-ngo",
     "wof:parent_id":85678885,
     "wof:placetype":"county",

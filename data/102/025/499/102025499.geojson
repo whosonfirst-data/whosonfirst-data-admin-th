@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002324,
-    "geom:area_square_m":27735418.13675,
+    "geom:area_square_m":27735418.136746,
     "geom:bbox":"101.059424312,15.100214385,101.286767128,15.1713095665",
     "geom:latitude":15.132421,
     "geom:longitude":101.16421,
@@ -14,13 +14,17 @@
     "iso:country":"TH",
     "lbl:latitude":15.141135,
     "lbl:longitude":101.277301,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":15.141135,
     "mps:longitude":101.277301,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:tha_x_preferred":[
         "\u0e0a\u0e31\u0e22\u0e1a\u0e32\u0e14\u0e32\u0e25"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Jai B\u0101d\u0101l"
     ],
     "qs:a0":"Thailand",
@@ -38,7 +42,7 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -49,7 +53,7 @@
     "wof:concordances":{
         "gn:id":1611425,
         "gp:id":28341453,
-        "qs:id":206801
+        "qs_pg:id":206801
     },
     "wof:country":"TH",
     "wof:geomhash":"3a181822e02a627fc400feaf6a1dd356",
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":102025499,
-    "wof:lastmodified":1501221064,
+    "wof:lastmodified":1566656436,
     "wof:name":"Chai Badan",
     "wof:parent_id":890466247,
     "wof:placetype":"locality",

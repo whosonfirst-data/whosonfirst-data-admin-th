@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":6.379254,
     "lbl:longitude":101.064866,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"YALA",
     "meso:diss_me":"YahaYALA",
     "meso:gadm_admin":"Ka Bang",
@@ -35,6 +37,7 @@
     "mps:longitude":101.064866,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Kabang"
     ],
@@ -46,9 +49,9 @@
         "\u0e22\u0e30\u0e2b\u0e32"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"451",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":1108732081,
-    "wof:lastmodified":1554489431,
+    "wof:lastmodified":1566661764,
     "wof:name":"Yaha",
     "wof:parent_id":85678611,
     "wof:placetype":"county",

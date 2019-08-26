@@ -13,10 +13,13 @@
     "iso:country":"TH",
     "lbl:latitude":18.071913,
     "lbl:longitude":99.823849,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":18.071913,
     "mps:longitude":99.823849,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0637\u0648\u064a\u0644"
     ],
@@ -96,7 +99,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u043e\u043d\u0433"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Muang Long"
     ],
     "name:vie_x_preferred":[
@@ -117,7 +120,7 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -130,7 +133,7 @@
         "fct:id":"07cfb6de-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1152322,
         "gp:id":28340894,
-        "qs:id":130611
+        "qs_pg:id":130611
     },
     "wof:country":"TH",
     "wof:geomhash":"36390f133e845c0f7686d140d15e5e85",
@@ -147,7 +150,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564101312,
+    "wof:lastmodified":1566656387,
     "wof:name":"Long",
     "wof:parent_id":890466199,
     "wof:placetype":"locality",

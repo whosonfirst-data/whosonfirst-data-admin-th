@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000552,
-    "geom:area_square_m":6626801.928292,
+    "geom:area_square_m":6626801.92829,
     "geom:bbox":"100.491943359,13.7900714372,100.524902344,13.8168711933",
     "geom:latitude":13.80298,
     "geom:longitude":100.507322,
@@ -14,6 +14,7 @@
     "iso:country":"TH",
     "lbl:latitude":13.799706,
     "lbl:longitude":100.5097,
+    "lbl:max_zoom":18.0,
     "mps:latitude":13.802858,
     "mps:longitude":100.505992,
     "mz:hierarchy_label":1,
@@ -36,10 +37,6 @@
     ],
     "name:tha_x_variant":[
         "\u0e41\u0e02\u0e27\u0e07\u0e1a\u0e32\u0e07\u0e2d\u0e49\u0e2d"
-    ],
-    "name:unk_x_variant":[
-        "\u0e1a\u0e32\u0e07\u0e2d\u0e49\u0e2d",
-        "Bang O"
     ],
     "qs:gn_adm0_cc":"TH",
     "qs:gn_fcode":"PPL",
@@ -69,7 +66,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85678739,
         102191569,
@@ -81,7 +78,6 @@
     "wof:concordances":{
         "gn:id":1619375,
         "gp:id":1225056,
-        "qs:id":183743,
         "qs_pg:id":183743
     },
     "wof:country":"TH",
@@ -100,7 +96,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1497309080,
+    "wof:lastmodified":1566657687,
     "wof:name":"Bang O",
     "wof:parent_id":102025263,
     "wof:placetype":"neighbourhood",

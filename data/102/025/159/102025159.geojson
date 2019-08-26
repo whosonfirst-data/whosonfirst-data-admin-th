@@ -16,10 +16,13 @@
     "iso:country":"TH",
     "lbl:latitude":14.632902,
     "lbl:longitude":102.79308,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":14.632902,
     "mps:longitude":102.79308,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ceb_x_preferred":[
         "Nang Rong"
     ],
@@ -48,9 +51,6 @@
     "name:tha_x_variant":[
         "\u0e19\u0e32\u0e07\u0e23\u0e2d\u0e07"
     ],
-    "name:unk_x_variant":[
-        "Ban Nang Rong"
-    ],
     "qs:a0":"Thailand",
     "qs:a1":"*Buriram",
     "qs:a1r":"*",
@@ -77,7 +77,7 @@
     "qs:type":"Town",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":164,
     "wof:belongsto":[
@@ -91,7 +91,7 @@
         "fct:id":"07cf3ba0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1608424,
         "gp:id":1225514,
-        "qs:id":372615,
+        "qs_pg:id":372615,
         "wd:id":"Q6664179",
         "wk:page":"Nang Rong District"
     },
@@ -110,7 +110,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563290337,
+    "wof:lastmodified":1566656413,
     "wof:name":"Nang Rong",
     "wof:parent_id":1108802689,
     "wof:placetype":"locality",

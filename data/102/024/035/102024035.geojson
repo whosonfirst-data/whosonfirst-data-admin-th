@@ -12,10 +12,13 @@
     "iso:country":"TH",
     "lbl:latitude":20.007302,
     "lbl:longitude":99.267199,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":20.007302,
     "mps:longitude":99.267199,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Mae Ai"
     ],
@@ -208,7 +211,7 @@
     "name:tha_x_variant":[
         "\u0e1a\u0e49\u0e32\u0e19\u0e41\u0e21\u0e48\u0e2d\u0e32\u0e22\u0e2b\u0e25\u0e27\u0e07"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ban Mae Ai Luang"
     ],
     "name:vec_x_preferred":[
@@ -249,7 +252,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":14,
     "wof:belongsto":[
         102191569,
@@ -262,7 +265,6 @@
         "fct:id":"07cf36c8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1120453,
         "gp:id":1225471,
-        "qs:id":1090295,
         "qs_pg:id":1090295,
         "wd:id":"Q6728901"
     },
@@ -281,7 +283,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563290293,
+    "wof:lastmodified":1566656385,
     "wof:name":"Mae Ai",
     "wof:parent_id":890467229,
     "wof:placetype":"locality",

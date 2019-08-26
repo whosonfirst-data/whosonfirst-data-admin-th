@@ -14,10 +14,13 @@
     "iso:country":"TH",
     "lbl:latitude":15.040296,
     "lbl:longitude":104.782105,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":15.040296,
     "mps:longitude":104.782105,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Samrong"
     ],
@@ -201,9 +204,6 @@
     "name:tha_x_preferred":[
         "\u0e2a\u0e33\u0e42\u0e23\u0e07"
     ],
-    "name:unk_x_variant":[
-        "\u0e2a\u0e33\u0e42\u0e23\u0e07"
-    ],
     "name:vec_x_preferred":[
         "Samrong"
     ],
@@ -242,7 +242,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":70,
     "wof:belongsto":[
         102191569,
@@ -255,7 +255,6 @@
         "fct:id":"07ced8fe-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1885004,
         "gp:id":1220044,
-        "qs:id":383889,
         "qs_pg:id":383889,
         "wd:id":"Q7410303"
     },
@@ -274,7 +273,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563290385,
+    "wof:lastmodified":1566656446,
     "wof:name":"Samrong",
     "wof:parent_id":1108802735,
     "wof:placetype":"locality",

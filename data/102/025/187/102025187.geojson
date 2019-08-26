@@ -16,6 +16,8 @@
     "iso:country":"TH",
     "lbl:latitude":13.82019,
     "lbl:longitude":100.053354,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":13.82019,
     "mps:longitude":100.053354,
     "mz:hierarchy_label":1,
@@ -138,7 +140,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u0430\u043a\u0445\u043e\u043d\u043f\u0430\u0442\u0445\u043e\u043c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Amphoe Muang Nakhon Pathom"
     ],
     "name:urd_x_preferred":[
@@ -273,7 +275,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":223,
     "wof:belongsto":[
@@ -286,10 +288,12 @@
     "wof:concordances":{
         "gn:id":1608534,
         "gp:id":1226057,
-        "qs:id":399792,
         "qs_pg:id":350347,
         "wd:id":"Q520338",
         "wk:page":"Nakhon Pathom"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":399792
     },
     "wof:country":"TH",
     "wof:geomhash":"c308a9c1437514b0e0eb230ee190c6a0",
@@ -303,7 +307,7 @@
         }
     ],
     "wof:id":102025187,
-    "wof:lastmodified":1563290380,
+    "wof:lastmodified":1566656443,
     "wof:name":"Nakhon Pathom",
     "wof:parent_id":1108802671,
     "wof:placetype":"locality",

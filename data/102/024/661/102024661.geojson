@@ -12,10 +12,13 @@
     "iso:country":"TH",
     "lbl:latitude":15.110576,
     "lbl:longitude":104.138031,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":15.110576,
     "mps:longitude":104.138031,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u0989\u09a5\u09c1\u09ae\u09ab\u09cb\u09a8 \u09ab\u09bf\u09b8\u09be\u0987"
     ],
@@ -50,9 +53,6 @@
     "name:tha_x_variant":[
         "\u0e2d\u0e38\u0e17\u0e38\u0e21\u0e1e\u0e23\u0e1e\u0e34\u0e2a\u0e31\u0e22"
     ],
-    "name:unk_x_variant":[
-        "Amphoe Uthumphon Phisai"
-    ],
     "name:vie_x_preferred":[
         "Uthumphon Phisai"
     ],
@@ -74,7 +74,7 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":154,
     "wof:belongsto":[
         102191569,
@@ -86,7 +86,7 @@
         "fct:id":"07cf593c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1605219,
         "gp:id":28341265,
-        "qs:id":273344,
+        "qs_pg:id":273344,
         "wd:id":"Q476978"
     },
     "wof:country":"TH",
@@ -103,7 +103,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563290226,
+    "wof:lastmodified":1566656338,
     "wof:name":"Uthumphon Phisai",
     "wof:parent_id":85678779,
     "wof:placetype":"locality",

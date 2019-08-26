@@ -13,10 +13,13 @@
     "iso:country":"TH",
     "lbl:latitude":8.374561,
     "lbl:longitude":98.78889,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":8.374561,
     "mps:longitude":98.78889,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u0985\u0993 \u09b2\u09c1\u09af\u09bc\u09c7\u0995"
     ],
@@ -58,9 +61,6 @@
     "name:tha_x_variant":[
         "\u0e2d\u0e48\u0e32\u0e27\u0e25\u0e36\u0e01"
     ],
-    "name:unk_x_variant":[
-        "Ban Ao Luk Tai"
-    ],
     "name:urd_x_preferred":[
         "\u0622\u0648 \u0644\u0648\u0626\u06a9 \u0636\u0644\u0639"
     ],
@@ -90,7 +90,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":319,
     "wof:belongsto":[
@@ -103,7 +103,6 @@
         "fct:id":"07cf5dd8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1158412,
         "gp:id":1225761,
-        "qs:id":183750,
         "qs_pg:id":183750,
         "wd:id":"Q475070"
     },
@@ -121,7 +120,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563290189,
+    "wof:lastmodified":1566656309,
     "wof:name":"Ao Luek",
     "wof:parent_id":85678585,
     "wof:placetype":"locality",

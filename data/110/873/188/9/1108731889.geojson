@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":15.553408,
     "lbl:longitude":105.314153,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"UBON RATCHATHANI",
     "meso:diss_me":"Si Muang MaiUBON RATCHATHANI",
     "meso:gadm_admin":"Si Muang Mai",
@@ -35,6 +37,7 @@
     "mps:longitude":105.314153,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09b8\u09bf \u09ae\u09c1\u09af\u09bc\u09c7\u0982 \u09ae\u09be\u0987"
     ],
@@ -72,9 +75,9 @@
         "Amphoe Si Mueang Mai"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"1310",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":1108731889,
-    "wof:lastmodified":1563296499,
+    "wof:lastmodified":1566661735,
     "wof:name":"Si Muang Mai",
     "wof:parent_id":85678783,
     "wof:placetype":"county",

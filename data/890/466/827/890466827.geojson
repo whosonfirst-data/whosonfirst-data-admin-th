@@ -11,11 +11,15 @@
     "geom:longitude":100.44169,
     "gn:country":"TH",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424960,
     "iso:country":"TH",
+    "lbl:bbox":"100.42169,13.83808,100.46169,13.87808",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ac\u09cd\u09af\u09be\u0982 \u09aa\u09be-\u0986\u0987\u09a8"
     ],
@@ -75,7 +79,7 @@
     "wof:concordances":{
         "gn:id":1620785,
         "gp:id":1200747,
-        "qs:id":1081050,
+        "qs_pg:id":1081050,
         "wd:id":"Q475224",
         "wk:page":"Bang Pa-in District"
     },
@@ -92,7 +96,7 @@
         }
     ],
     "wof:id":890466827,
-    "wof:lastmodified":1563298357,
+    "wof:lastmodified":1566663246,
     "wof:name":"Ban Bang Len",
     "wof:parent_id":1108802589,
     "wof:placetype":"locality",

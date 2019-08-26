@@ -15,6 +15,8 @@
     "iso:country":"TH",
     "lbl:latitude":16.828514,
     "lbl:longitude":100.245279,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":16.828514,
     "mps:longitude":100.245279,
     "mz:hierarchy_label":1,
@@ -101,7 +103,7 @@
     "name:tha_x_variant":[
         "\u0e1e\u0e34\u0e29\u0e13\u0e38\u0e42\u0e25\u0e01"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Amphoe Muang Phitsanulok"
     ],
     "name:urd_x_preferred":[
@@ -225,7 +227,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":2292,
     "wof:belongsto":[
@@ -238,14 +240,13 @@
     "wof:concordances":{
         "gn:id":1607708,
         "gp:id":1206326,
-        "qs:id":350334,
         "qs_pg:id":350334,
         "wd:id":"Q867579",
         "wk:page":"Phitsanulok"
     },
     "wof:concordances_alt":{
         "gp:id":1226099,
-        "qs:id":466704
+        "qs_pg:id":466704
     },
     "wof:country":"TH",
     "wof:geomhash":"dd4c91b1882102b6b263d253d4c6fcac",
@@ -259,7 +260,7 @@
         }
     ],
     "wof:id":102025001,
-    "wof:lastmodified":1563290377,
+    "wof:lastmodified":1566656441,
     "wof:name":"Phitsanulok",
     "wof:parent_id":890466019,
     "wof:placetype":"locality",

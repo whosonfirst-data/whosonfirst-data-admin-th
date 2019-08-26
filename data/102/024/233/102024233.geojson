@@ -12,10 +12,13 @@
     "iso:country":"TH",
     "lbl:latitude":18.764119,
     "lbl:longitude":99.511052,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":18.764119,
     "mps:longitude":99.511052,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ae\u09c1\u09af\u09bc\u09c7\u0982 \u09aa\u09be\u09a8"
     ],
@@ -46,7 +49,7 @@
     "name:tha_x_variant":[
         "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e1b\u0e32\u0e19"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Muang Pan"
     ],
     "name:urd_x_preferred":[
@@ -70,7 +73,7 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":179,
     "wof:belongsto":[
         102191569,
@@ -82,7 +85,7 @@
     "wof:concordances":{
         "gn:id":1151987,
         "gp:id":28340847,
-        "qs:id":392740,
+        "qs_pg:id":392740,
         "wd:id":"Q476052"
     },
     "wof:country":"TH",
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":102024233,
-    "wof:lastmodified":1563290228,
+    "wof:lastmodified":1566656340,
     "wof:name":"Mueang Pan",
     "wof:parent_id":890465907,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001105,
-    "geom:area_square_m":13495278.737535,
+    "geom:area_square_m":13495278.737524,
     "geom:bbox":"98.8733502006,8.89230788031,98.9135150431,8.93210549275",
     "geom:latitude":8.915539,
     "geom:longitude":98.890076,
@@ -14,9 +14,13 @@
     "iso:country":"TH",
     "lbl:latitude":8.915907,
     "lbl:longitude":98.889692,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":8.915907,
     "mps:longitude":98.889692,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ban Ta Khun"
     ],
@@ -40,7 +44,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -52,7 +56,6 @@
         "fct:id":"07ceae4c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":8326836,
         "gp:id":28349035,
-        "qs:id":1184545,
         "qs_pg:id":1184545
     },
     "wof:country":"TH",
@@ -70,7 +73,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1497294023,
+    "wof:lastmodified":1566656505,
     "wof:name":"Ban Ta Khun",
     "wof:parent_id":890466747,
     "wof:placetype":"locality",

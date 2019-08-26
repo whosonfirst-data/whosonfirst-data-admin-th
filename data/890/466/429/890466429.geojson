@@ -19,6 +19,8 @@
     ],
     "lbl:latitude":13.237885,
     "lbl:longitude":99.806528,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"PHETCHABURI",
     "meso:diss_me":"Khao YoiPHETCHABURI",
     "meso:gadm_admin":"Khao Yoi",
@@ -36,6 +38,7 @@
     "mps:longitude":99.806528,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u0996\u09be\u0993 \u09af\u09bc\u09cb\u0987"
     ],
@@ -80,9 +83,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"306",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -103,7 +106,7 @@
     "wof:concordances":{
         "gp:id":28341562,
         "hasc:id":"TH.PE.KY",
-        "qs:id":1063312,
+        "qs_pg:id":1063312,
         "wd:id":"Q475674",
         "wk:page":"Khao Yoi District"
     },
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":890466429,
-    "wof:lastmodified":1563298428,
+    "wof:lastmodified":1566663280,
     "wof:name":"Khao Yoi",
     "wof:parent_id":85678753,
     "wof:placetype":"county",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":17.464724,
     "lbl:longitude":104.485601,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"NARHON PHANOM",
     "meso:diss_me":"Phon SawanNARHON PHANOM",
     "meso:gadm_admin":"Phon Sawan",
@@ -35,6 +37,7 @@
     "mps:longitude":104.485601,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ab\u09cb\u09a8 \u09b8\u09be\u09f1\u09be\u09a8"
     ],
@@ -69,9 +72,9 @@
         "Phon Sawan"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"719",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":1108731731,
-    "wof:lastmodified":1563296482,
+    "wof:lastmodified":1566661725,
     "wof:name":"Phon Sawan",
     "wof:parent_id":85678879,
     "wof:placetype":"county",

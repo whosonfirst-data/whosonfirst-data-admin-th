@@ -11,7 +11,7 @@
     "geom:longitude":98.335349,
     "gn:country":"TH",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"TH",
     "label:eng_x_preferred_longname":[
         "Omkoi District"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":17.716757,
     "lbl:longitude":98.355043,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"CHANG MAI",
     "meso:diss_me":"OmkoiCHANG MAI",
     "meso:gadm_admin":"Omkoi",
@@ -38,6 +40,7 @@
     "mps:longitude":98.355043,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u0993\u09ae\u0995\u09cb\u0987"
     ],
@@ -65,7 +68,7 @@
     "name:tha_x_variant":[
         "\u0e2d\u0e21\u0e01\u0e4b\u0e2d\u0e22"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Amphoe Om Koi"
     ],
     "name:urd_x_preferred":[
@@ -82,9 +85,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"2094",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -106,7 +109,7 @@
         "gn:id":1151633,
         "gp:id":28340813,
         "hasc:id":"TH.CM.OM",
-        "qs:id":1243023,
+        "qs_pg:id":1243023,
         "wd:id":"Q476297",
         "wk:page":"Doi Tao District"
     },
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":890465947,
-    "wof:lastmodified":1563298264,
+    "wof:lastmodified":1566663196,
     "wof:name":"Omkoi",
     "wof:parent_id":85678619,
     "wof:placetype":"county",

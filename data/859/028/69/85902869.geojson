@@ -13,6 +13,7 @@
     "iso:country":"TH",
     "lbl:latitude":13.741463,
     "lbl:longitude":100.509286,
+    "lbl:max_zoom":18.0,
     "mps:latitude":13.743639,
     "mps:longitude":100.510779,
     "mz:hierarchy_label":1,
@@ -61,9 +62,6 @@
     "name:tha_x_preferred":[
         "\u0e40\u0e02\u0e15\u0e2a\u0e31\u0e21\u0e1e\u0e31\u0e19\u0e18\u0e27\u0e07\u0e28\u0e4c"
     ],
-    "name:unk_x_variant":[
-        "Samphanthawong Khwaeng"
-    ],
     "name:urd_x_preferred":[
         "\u0633\u0627\u0645\u067e\u06be\u0627\u0646\u062a\u06be\u0627\u0648\u0648\u0646\u06af \u0636\u0644\u0639"
     ],
@@ -100,7 +98,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":1052,
     "wof:belongsto":[
         85678739,
@@ -112,7 +110,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1225631,
-        "qs:id":1223555,
         "qs_pg:id":1223555,
         "wd:id":"Q1972315"
     },
@@ -132,7 +129,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563291765,
+    "wof:lastmodified":1566657684,
     "wof:name":"Samphanthawong Khwaeng",
     "wof:parent_id":102025263,
     "wof:placetype":"neighbourhood",

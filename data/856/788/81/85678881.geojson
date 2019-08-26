@@ -29,6 +29,7 @@
     ],
     "lbl:latitude":16.570629,
     "lbl:longitude":104.51825,
+    "lbl:min_zoom":8.0,
     "mps:latitude":16.570629,
     "mps:longitude":104.51825,
     "mz:hierarchy_label":1,
@@ -185,7 +186,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0440\u043e\u0432\u0456\u043d\u0446\u0456\u044f \u041c\u0443\u043a\u0434\u0430\u0445\u0430\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mukdaharn"
     ],
     "name:urd_x_preferred":[
@@ -277,7 +278,7 @@
     "qs:type":"Province",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wikidata",
     "src:population_date":"2017",
     "statoids:area_km":"4,340",
@@ -305,7 +306,7 @@
         "gp:id":2347197,
         "hasc:id":"TH.MD",
         "iso:id":"TH-49",
-        "qs:id":276339,
+        "qs_pg:id":276339,
         "unlc:id":"TH-49",
         "wd:id":"Q335119",
         "wk:page":"Mukdahan Province"
@@ -326,11 +327,10 @@
     "wof:lang_x_spoken":[
         "tha"
     ],
-    "wof:lastmodified":1565737054,
+    "wof:lastmodified":1566657710,
     "wof:name":"Mukdahan",
     "wof:parent_id":85632293,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":350782,
     "wof:population_rank":10,

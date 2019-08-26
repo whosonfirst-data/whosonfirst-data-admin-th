@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":12.582899,
     "lbl:longitude":102.549878,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"TRAT",
     "meso:diss_me":"Bo RaiTRAT",
     "meso:gadm_admin":"Bo Rai",
@@ -35,6 +37,7 @@
     "mps:longitude":102.549878,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ac\u09cb \u09b0\u09be\u0987"
     ],
@@ -69,9 +72,9 @@
         "Bo Rai"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"680",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":1108731191,
-    "wof:lastmodified":1563296511,
+    "wof:lastmodified":1566661741,
     "wof:name":"Bo Rai",
     "wof:parent_id":85678813,
     "wof:placetype":"county",

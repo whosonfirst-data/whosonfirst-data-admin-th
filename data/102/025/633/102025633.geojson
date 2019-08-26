@@ -15,10 +15,13 @@
     "iso:country":"TH",
     "lbl:latitude":13.955391,
     "lbl:longitude":100.783071,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":13.955391,
     "mps:longitude":100.783071,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:deu_x_preferred":[
         "Lam Luk Ka"
     ],
@@ -34,7 +37,7 @@
     "name:tha_x_preferred":[
         "\u0e40\u0e17\u0e28\u0e1a\u0e32\u0e25\u0e15\u0e33\u0e1a\u0e25\u0e25\u0e33\u0e25\u0e39\u0e01\u0e01\u0e32"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "L\u016bk Ka"
     ],
     "qs:a0":"Thailand",
@@ -52,7 +55,7 @@
     "qs:type":"Town",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -65,7 +68,7 @@
         "fct:id":"07cec6ca-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1617111,
         "gp:id":1226302,
-        "qs:id":7474,
+        "qs_pg:id":7474,
         "wd:id":"Q15310482"
     },
     "wof:country":"TH",
@@ -83,7 +86,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561758387,
+    "wof:lastmodified":1566656432,
     "wof:name":"Ban Lam Luk Ka",
     "wof:parent_id":890465917,
     "wof:placetype":"locality",

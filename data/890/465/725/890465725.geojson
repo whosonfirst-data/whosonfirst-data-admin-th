@@ -11,7 +11,7 @@
     "geom:longitude":101.51939,
     "gn:country":"TH",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"TH",
     "label:eng_x_preferred_longname":[
         "Ruso District"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":6.383893,
     "lbl:longitude":101.510627,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"NARATHIWAT",
     "meso:diss_me":"RusoNARATHIWAT",
     "meso:gadm_admin":"Ruso",
@@ -38,6 +40,7 @@
     "mps:longitude":101.510627,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09b0\u09c1\u09af\u09bc\u09c7\u09b8\u09cb"
     ],
@@ -74,9 +77,6 @@
     "name:tha_x_variant":[
         "\u0e23\u0e37\u0e2d\u0e40\u0e2a\u0e32\u0e30"
     ],
-    "name:unk_x_variant":[
-        "Amphoe Rueso"
-    ],
     "name:urd_x_preferred":[
         "\u0631\u0648\u0626\u0633\u0648 \u0636\u0644\u0639"
     ],
@@ -94,9 +94,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"468",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -118,7 +118,7 @@
         "gn:id":1606960,
         "gp:id":28341724,
         "hasc:id":"TH.NW.RU",
-        "qs:id":244459,
+        "qs_pg:id":244459,
         "wd:id":"Q476573",
         "wk:page":"Rueso District"
     },
@@ -134,7 +134,7 @@
         }
     ],
     "wof:id":890465725,
-    "wof:lastmodified":1563298260,
+    "wof:lastmodified":1566663194,
     "wof:name":"Ruso",
     "wof:parent_id":85678885,
     "wof:placetype":"county",

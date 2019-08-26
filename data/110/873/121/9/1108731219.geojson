@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":17.209844,
     "lbl:longitude":103.279282,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"UDON THAN",
     "meso:diss_me":"ChaiwanUDON THAN",
     "meso:gadm_admin":"Chai Wan",
@@ -35,6 +37,7 @@
     "mps:longitude":103.279282,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u099a\u09bf \u09f1\u09be\u09a8"
     ],
@@ -70,9 +73,9 @@
         "Chai Wan"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"326",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":1108731219,
-    "wof:lastmodified":1561758751,
+    "wof:lastmodified":1566661740,
     "wof:name":"Chaiwan",
     "wof:parent_id":85678869,
     "wof:placetype":"county",

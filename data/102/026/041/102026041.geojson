@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001073,
-    "geom:area_square_m":12748187.939146,
+    "geom:area_square_m":12748187.93917,
     "geom:bbox":"102.685362847,15.9892621916,102.726015299,16.0352548624",
     "geom:latitude":16.011178,
     "geom:longitude":102.703812,
@@ -14,17 +14,20 @@
     "iso:country":"TH",
     "lbl:latitude":16.000106,
     "lbl:longitude":102.696729,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":16.000106,
     "mps:longitude":102.696729,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Non Daeng"
     ],
     "name:tha_x_preferred":[
         "\u0e42\u0e19\u0e19\u0e41\u0e14\u0e07"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tambon Non Daeng"
     ],
     "qs:a1":"*",
@@ -40,7 +43,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -52,7 +55,6 @@
         "fct:id":"07cea32a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":7510961,
         "gp:id":28349092,
-        "qs:id":1041716,
         "qs_pg:id":1041716,
         "wk:page":"Chirchiri"
     },
@@ -71,7 +73,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1497295481,
+    "wof:lastmodified":1566656496,
     "wof:name":"Non Daeng",
     "wof:parent_id":1108802571,
     "wof:placetype":"locality",

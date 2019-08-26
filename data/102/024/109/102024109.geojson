@@ -14,6 +14,8 @@
     "iso:country":"TH",
     "lbl:latitude":16.85272,
     "lbl:longitude":99.130136,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":16.85272,
     "mps:longitude":99.130136,
     "mz:hierarchy_label":1,
@@ -79,7 +81,7 @@
     "name:tha_x_variant":[
         "\u0e40\u0e17\u0e28\u0e1a\u0e32\u0e25\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e15\u0e32\u0e01"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Changwat Tak"
     ],
     "name:war_x_preferred":[
@@ -205,7 +207,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":136,
     "wof:belongsto":[
@@ -218,10 +220,12 @@
     "wof:concordances":{
         "gn:id":1150490,
         "gp:id":1226180,
-        "qs:id":1195658,
         "qs_pg:id":276000,
         "wd:id":"Q118901",
         "wk:page":"Tak"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1195658
     },
     "wof:country":"TH",
     "wof:geomhash":"99070e050b8fcbdb8659edf8181db699",
@@ -235,7 +239,7 @@
         }
     ],
     "wof:id":102024109,
-    "wof:lastmodified":1563290257,
+    "wof:lastmodified":1566656359,
     "wof:name":"Tak",
     "wof:parent_id":890466081,
     "wof:placetype":"locality",

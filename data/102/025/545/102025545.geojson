@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000265,
+    "geom:area_square_m":3131082.679847,
     "geom:bbox":"103.036853803,17.4202357082,103.055675551,17.4383034686",
     "geom:latitude":17.42927,
     "geom:longitude":103.046265,
@@ -13,13 +14,17 @@
     "iso:country":"TH",
     "lbl:latitude":17.429269,
     "lbl:longitude":103.046265,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":17.429269,
     "mps:longitude":103.046265,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:tha_x_preferred":[
         "\u0e1a\u0e49\u0e32\u0e19\u0e2a\u0e23\u0e49\u0e2d\u0e22\u0e1e\u0e23\u0e49\u0e32\u0e27"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ban Sua Phao"
     ],
     "qs:a0":"Thailand",
@@ -39,7 +44,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -49,7 +54,6 @@
     "wof:concordances":{
         "gn:id":1613215,
         "gp:id":1220647,
-        "qs:id":383890,
         "qs_pg:id":383890
     },
     "wof:country":"TH",
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":102025545,
-    "wof:lastmodified":1497295533,
+    "wof:lastmodified":1566656450,
     "wof:name":"Ban Soi Phrao",
     "wof:parent_id":85678869,
     "wof:placetype":"locality",

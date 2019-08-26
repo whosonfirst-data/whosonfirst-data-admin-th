@@ -12,10 +12,13 @@
     "iso:country":"TH",
     "lbl:latitude":13.45908,
     "lbl:longitude":99.376831,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":13.45908,
     "mps:longitude":99.376831,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Ban Kha"
     ],
@@ -36,9 +39,6 @@
     "name:tha_x_variant":[
         "\u0e15\u0e33\u0e1a\u0e25\u0e1a\u0e49\u0e32\u0e19\u0e04\u0e48\u0e32"
     ],
-    "name:unk_x_variant":[
-        "Pong Hau"
-    ],
     "qs:a0":"Thailand",
     "qs:a1":"*Ratchaburi",
     "qs:a1r":"*",
@@ -56,7 +56,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":39,
     "wof:belongsto":[
         102191569,
@@ -68,7 +68,6 @@
         "fct:id":"07cecfee-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1157232,
         "gp:id":1205677,
-        "qs:id":321689,
         "qs_pg:id":321689,
         "wd:id":"Q4853621"
     },
@@ -86,7 +85,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563290291,
+    "wof:lastmodified":1566656383,
     "wof:name":"Ban Kha",
     "wof:parent_id":85678761,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":15.01883,
     "lbl:longitude":100.351045,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"SING BURI",
     "meso:diss_me":"In BuriSING BURI",
     "meso:gadm_admin":"In Buri",
@@ -35,6 +37,7 @@
     "mps:longitude":100.351045,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0625\u0646 \u0628\u0648\u0631\u064a"
     ],
@@ -72,9 +75,9 @@
         "In Buri"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"314",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":1108731299,
-    "wof:lastmodified":1563296487,
+    "wof:lastmodified":1566661728,
     "wof:name":"In Buri",
     "wof:parent_id":85678729,
     "wof:placetype":"county",

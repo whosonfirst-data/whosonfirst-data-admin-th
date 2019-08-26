@@ -13,6 +13,8 @@
     "iso:country":"TH",
     "lbl:latitude":19.175331,
     "lbl:longitude":99.899628,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":19.175331,
     "mps:longitude":99.899628,
     "mz:hierarchy_label":1,
@@ -94,9 +96,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041f\u0445\u0430\u044f\u0443"
-    ],
-    "name:unk_x_variant":[
-        "Bhayao"
     ],
     "name:war_x_preferred":[
         "Phayao"
@@ -213,7 +212,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":133,
     "wof:belongsto":[
@@ -227,10 +226,12 @@
         "fct:id":"07ceaa14-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1151426,
         "gp:id":1226090,
-        "qs:id":1030294,
         "qs_pg:id":399787,
         "wd:id":"Q1207122",
         "wk:page":"Phayao"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1030294
     },
     "wof:country":"TH",
     "wof:geomhash":"bdb930686e0e71a186fea489774ae2d3",
@@ -247,7 +248,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563290188,
+    "wof:lastmodified":1566656308,
     "wof:name":"Phayao",
     "wof:parent_id":890467463,
     "wof:placetype":"locality",

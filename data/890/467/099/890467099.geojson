@@ -19,6 +19,8 @@
     ],
     "lbl:latitude":15.427665,
     "lbl:longitude":100.00983,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"UTHAI THANI",
     "meso:diss_me":"Muang Uthai ThaniUTHAI THANI",
     "meso:gadm_admin":"Muang Uthai Thani",
@@ -36,6 +38,7 @@
     "mps:longitude":100.00983,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ae\u09c1\u09af\u09bc\u09c7\u0982 \u0989\u09a5\u09bf \u09a5\u09be\u09a8\u09bf"
     ],
@@ -87,9 +90,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"250",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -110,7 +113,7 @@
     "wof:concordances":{
         "gp:id":28340990,
         "hasc:id":"TH.UT.UT",
-        "qs:id":1200753,
+        "qs_pg:id":1200753,
         "wd:id":"Q476111",
         "wk:page":"Mueang Uthai Thani District"
     },
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":890467099,
-    "wof:lastmodified":1563298302,
+    "wof:lastmodified":1566663218,
     "wof:name":"Muang Uthai Thani",
     "wof:parent_id":85678689,
     "wof:placetype":"county",

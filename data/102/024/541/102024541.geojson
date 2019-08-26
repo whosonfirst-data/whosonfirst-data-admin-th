@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00026,
+    "geom:area_square_m":3129681.16288,
     "geom:bbox":"101.608812398,13.4607309874,101.627271514,13.4787967672",
     "geom:latitude":13.469764,
     "geom:longitude":101.618042,
     "iso:country":"TH",
     "lbl:latitude":13.469764,
     "lbl:longitude":101.618042,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":13.469764,
     "mps:longitude":101.618042,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:tha_x_preferred":[
         "\u0e1a\u0e49\u0e32\u0e19\u0e17\u0e48\u0e32\u0e01\u0e25\u0e2d\u0e22"
     ],
@@ -28,7 +33,7 @@
     "qs:source":"Aquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -49,7 +54,7 @@
         }
     ],
     "wof:id":102024541,
-    "wof:lastmodified":1501220992,
+    "wof:lastmodified":1566656400,
     "wof:name":"Ban Tha Kloi",
     "wof:parent_id":85678797,
     "wof:placetype":"locality",

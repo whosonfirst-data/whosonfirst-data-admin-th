@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":7.23869,
     "lbl:longitude":99.772646,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"TRANG",
     "meso:diss_me":"PalianTRANG",
     "meso:gadm_admin":"Palian",
@@ -35,6 +37,7 @@
     "mps:longitude":99.772646,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09aa\u09be\u09b2\u09bf\u09af\u09bc\u09be\u09a8"
     ],
@@ -72,9 +75,9 @@
         "Palian"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"973",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":1108731683,
-    "wof:lastmodified":1563296444,
+    "wof:lastmodified":1566661702,
     "wof:name":"Palian",
     "wof:parent_id":85678609,
     "wof:placetype":"county",

@@ -11,8 +11,12 @@
     "geom:longitude":98.949737,
     "gp:adm0":23424960,
     "iso:country":"TH",
+    "lbl:bbox":"98.929737,18.784073,98.969737,18.824073",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Suthep"
     ],
@@ -42,7 +46,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55945018,
-        "qs:id":71161,
+        "qs_pg:id":71161,
         "wd:id":"Q15271457",
         "wk:page":"Suthep"
     },
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":890466501,
-    "wof:lastmodified":1561758894,
+    "wof:lastmodified":1566663270,
     "wof:name":"Suthep",
     "wof:parent_id":85678619,
     "wof:placetype":"locality",

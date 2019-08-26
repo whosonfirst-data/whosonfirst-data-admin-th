@@ -11,7 +11,7 @@
     "geom:longitude":99.537197,
     "gn:country":"TH",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"TH",
     "label:eng_x_preferred_longname":[
         "Phran Kratai District"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":16.730534,
     "lbl:longitude":99.517155,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"KAMPHAENG PHET",
     "meso:diss_me":"Phran KrataiKAMPHAENG PHET",
     "meso:gadm_admin":"Phran Kratai",
@@ -38,6 +40,7 @@
     "mps:longitude":99.517155,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ab\u09cd\u09b0\u09be\u09a8 \u0995\u09cd\u09b0\u09be\u09a4\u09bf"
     ],
@@ -68,9 +71,6 @@
     "name:tha_x_variant":[
         "\u0e1e\u0e23\u0e32\u0e19\u0e01\u0e23\u0e30\u0e15\u0e48\u0e32\u0e22"
     ],
-    "name:unk_x_variant":[
-        "Amphoe Phran Kratai"
-    ],
     "name:urd_x_preferred":[
         "\u067e\u06be\u0631\u0627\u0646 \u06a9\u0631\u0627\u062a\u0627\u0626\u06cc \u0636\u0644\u0639"
     ],
@@ -85,9 +85,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"782",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -108,7 +108,7 @@
     "wof:concordances":{
         "gn:id":1151307,
         "hasc:id":"TH.KP.PK",
-        "qs:id":1030304,
+        "qs_pg:id":1030304,
         "wd:id":"Q476455",
         "wk:page":"Phran Kratai District"
     },
@@ -124,7 +124,7 @@
         }
     ],
     "wof:id":890465763,
-    "wof:lastmodified":1563298243,
+    "wof:lastmodified":1566663186,
     "wof:name":"Phran Kratai",
     "wof:parent_id":85678665,
     "wof:placetype":"county",

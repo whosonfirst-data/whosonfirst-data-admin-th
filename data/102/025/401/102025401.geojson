@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002509,
-    "geom:area_square_m":30724649.870332,
+    "geom:area_square_m":30724649.870346,
     "geom:bbox":"100.257650662,7.99035401504,100.33072729,8.05467538847",
     "geom:latitude":8.027291,
     "geom:longitude":100.293754,
@@ -14,9 +14,13 @@
     "iso:country":"TH",
     "lbl:latitude":8.023728,
     "lbl:longitude":100.299294,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":8.023728,
     "mps:longitude":100.299294,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Hua Sai"
     ],
@@ -28,7 +32,7 @@
     "name:tha_x_preferred":[
         "\u0e2b\u0e31\u0e27\u0e44\u0e17\u0e23"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Amphoe Hua Sai"
     ],
     "qs:a0":"Thailand",
@@ -46,7 +50,7 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -58,7 +62,7 @@
         "fct:id":"07cf804c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1610622,
         "gp:id":28341634,
-        "qs:id":211063
+        "qs_pg:id":211063
     },
     "wof:country":"TH",
     "wof:geomhash":"ce6983772ab7c6ecfda8a9ca9ca96352",
@@ -75,7 +79,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1501221058,
+    "wof:lastmodified":1566656432,
     "wof:name":"Hua Sai",
     "wof:parent_id":890466369,
     "wof:placetype":"locality",
