@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001569,
+    "geom:area_square_m":19207534.08656,
     "geom:bbox":"100.114825736,8.12088550075,100.187909906,8.20422295236",
     "geom:latitude":8.16533,
     "geom:longitude":100.15305,
@@ -13,16 +14,20 @@
     "iso:country":"TH",
     "lbl:latitude":8.167993,
     "lbl:longitude":100.145874,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":8.167993,
     "mps:longitude":100.145874,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Chian Yai"
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e0a\u0e35\u0e22\u0e23\u0e43\u0e2b\u0e0d\u0e48"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Amphoe Chian Yai"
     ],
     "qs:a0":"Thailand",
@@ -42,7 +47,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -53,7 +58,6 @@
         "fct:id":"07cf2552-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1611183,
         "gp:id":1225128,
-        "qs:id":1164663,
         "qs_pg:id":1164663
     },
     "wof:country":"TH",
@@ -70,7 +74,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1497291291,
+    "wof:lastmodified":1566656437,
     "wof:name":"Chian Yai",
     "wof:parent_id":85678565,
     "wof:placetype":"locality",

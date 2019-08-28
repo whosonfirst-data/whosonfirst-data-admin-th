@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":12.837044,
     "lbl:longitude":99.420602,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"PHETCHABURI",
     "meso:diss_me":"Kaeng KrachanPHETCHABURI",
     "meso:gadm_admin":"Kaeng Krachan",
@@ -35,6 +37,7 @@
     "mps:longitude":99.420602,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u0995\u09be\u09af\u09bc\u09c7\u0982 \u0995\u09cd\u09b0\u09be\u099a\u09be\u09a8"
     ],
@@ -72,9 +75,9 @@
         "\u5d17\u5361\u7ae0\u7e23"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"2500",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":1108731315,
-    "wof:lastmodified":1563296529,
+    "wof:lastmodified":1566661751,
     "wof:name":"Kaeng Krachan",
     "wof:parent_id":85678753,
     "wof:placetype":"county",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":16.032822,
     "lbl:longitude":103.794634,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"ROIET",
     "meso:diss_me":"ThawatchaburiROIET",
     "meso:gadm_admin":"Thawatchaburi",
@@ -35,6 +37,7 @@
     "mps:longitude":103.794634,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09a5\u09be\u09f1\u09be\u09a4 \u09ac\u09c1\u09b0\u09bf"
     ],
@@ -69,9 +72,9 @@
         "Thawat Buri"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"374",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":1108732013,
-    "wof:lastmodified":1563296555,
+    "wof:lastmodified":1566661763,
     "wof:name":"Thawatchaburi",
     "wof:parent_id":85678845,
     "wof:placetype":"county",

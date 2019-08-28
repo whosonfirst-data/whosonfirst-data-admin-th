@@ -14,10 +14,13 @@
     "iso:country":"TH",
     "lbl:latitude":17.334908,
     "lbl:longitude":104.331665,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":17.334908,
     "mps:longitude":104.331665,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Kusuman"
     ],
@@ -33,7 +36,7 @@
     "name:tha_x_variant":[
         "\u0e40\u0e17\u0e28\u0e1a\u0e32\u0e25\u0e15\u0e33\u0e1a\u0e25\u0e01\u0e38\u0e2a\u0e38\u0e21\u0e32\u0e25\u0e22\u0e4c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ban Muang Kusuman"
     ],
     "qs:a0":"Thailand",
@@ -53,7 +56,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -65,7 +68,6 @@
         "fct:id":"07cef94c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1609332,
         "gp:id":1226020,
-        "qs:id":193754,
         "qs_pg:id":193754,
         "wd:id":"Q37788230"
     },
@@ -84,7 +86,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563290361,
+    "wof:lastmodified":1566656432,
     "wof:name":"Kusuman",
     "wof:parent_id":890465675,
     "wof:placetype":"locality",

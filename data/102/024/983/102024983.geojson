@@ -13,10 +13,13 @@
     "iso:country":"TH",
     "lbl:latitude":14.676273,
     "lbl:longitude":100.402065,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":14.676273,
     "mps:longitude":100.402065,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ab\u09cb \u09a5\u09cb\u0982"
     ],
@@ -49,9 +52,6 @@
     "name:tha_x_variant":[
         "\u0e42\u0e1e\u0e18\u0e34\u0e4c\u0e17\u0e2d\u0e07"
     ],
-    "name:unk_x_variant":[
-        "Khlaung Sarai"
-    ],
     "name:urd_x_preferred":[
         "\u067e\u06be\u0648 \u062a\u06be\u0648\u0646\u06af \u0636\u0644\u0639"
     ],
@@ -76,7 +76,7 @@
     "qs:type":"Town",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":119,
     "wof:belongsto":[
@@ -90,7 +90,7 @@
         "fct:id":"07cf4618-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1607579,
         "gp:id":28341487,
-        "qs:id":133552,
+        "qs_pg:id":133552,
         "wd:id":"Q476417"
     },
     "wof:country":"TH",
@@ -108,7 +108,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563290230,
+    "wof:lastmodified":1566656341,
     "wof:name":"Pho Thong",
     "wof:parent_id":1108802723,
     "wof:placetype":"locality",

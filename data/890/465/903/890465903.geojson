@@ -11,7 +11,7 @@
     "geom:longitude":100.53566,
     "gn:country":"TH",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"TH",
     "label:eng_x_preferred_longname":[
         "Pathumwan District"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":13.727701,
     "lbl:longitude":100.537755,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"KRUNG THEP",
     "meso:diss_me":"PathumwanKRUNG THEP",
     "meso:gadm_admin":"Bang Rak",
@@ -38,6 +40,7 @@
     "mps:longitude":100.537755,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bjn_x_preferred":[
         "Pathum Wan"
     ],
@@ -78,7 +81,7 @@
     "name:tha_x_variant":[
         "\u0e1b\u0e17\u0e38\u0e21\u0e27\u0e31\u0e19"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Amphoe Pathum Wan"
     ],
     "name:zho_x_preferred":[
@@ -92,9 +95,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"6",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -115,7 +118,7 @@
     "wof:concordances":{
         "gn:id":1607981,
         "hasc:id":"TH.BM.RA",
-        "qs:id":370870,
+        "qs_pg:id":370870,
         "wd:id":"Q1025838",
         "wk:page":"Pathum Wan District"
     },
@@ -131,7 +134,7 @@
         }
     ],
     "wof:id":890465903,
-    "wof:lastmodified":1563298269,
+    "wof:lastmodified":1566663199,
     "wof:name":"Pathumwan",
     "wof:parent_id":85678739,
     "wof:placetype":"county",

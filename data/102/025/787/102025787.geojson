@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000336,
-    "geom:area_square_m":4123437.387808,
+    "geom:area_square_m":4123437.387799,
     "geom:bbox":"99.0252685547,7.62388685312,99.0417480469,7.65110901759",
     "geom:latitude":7.637226,
     "geom:longitude":99.034576,
@@ -15,10 +15,13 @@
     "iso:country":"TH",
     "lbl:latitude":7.639381,
     "lbl:longitude":99.035244,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":7.639381,
     "mps:longitude":99.035244,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Ban Saladan"
     ],
@@ -40,7 +43,7 @@
     "qs:type":"Town",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85632293,
@@ -52,7 +55,7 @@
     "wof:concordances":{
         "gn:id":6691842,
         "gp:id":55946391,
-        "qs:id":1199727
+        "qs_pg:id":1199727
     },
     "wof:country":"TH",
     "wof:geomhash":"5e31b6082a65f68c639085c84fefbb77",
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":102025787,
-    "wof:lastmodified":1505338989,
+    "wof:lastmodified":1566656488,
     "wof:name":"Saladan",
     "wof:parent_id":890465695,
     "wof:placetype":"locality",

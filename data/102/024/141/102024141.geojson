@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002652,
-    "geom:area_square_m":31112315.046102,
+    "geom:area_square_m":31112315.046106,
     "geom:bbox":"99.025833415,15.735634936,105.20891967,18.7295019991",
     "geom:latitude":18.407051,
     "geom:longitude":99.665723,
     "iso:country":"TH",
     "lbl:latitude":18.697451,
     "lbl:longitude":99.049648,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":18.697451,
     "mps:longitude":99.049648,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_colloquial":[
         "Saarabhi",
         "Sarabhi"
@@ -31,7 +34,7 @@
     "name:tha_x_preferred":[
         "\u0e2a\u0e32\u0e23\u0e20\u0e35"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Amphoe Saraphi"
     ],
     "qs:a0":"Thailand",
@@ -49,7 +52,7 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":10,
     "wof:belongsto":[
         102191569,
@@ -62,7 +65,7 @@
         "fct:id":"07cf4e1a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1150700,
         "gp:id":28341727,
-        "qs:id":213583
+        "qs_pg:id":213583
     },
     "wof:country":"TH",
     "wof:geomhash":"ea3b52c6aa2d16b3e1e064065a30e266",
@@ -79,7 +82,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636450,
+    "wof:lastmodified":1566656398,
     "wof:name":"Saraphi",
     "wof:parent_id":1108731859,
     "wof:placetype":"locality",

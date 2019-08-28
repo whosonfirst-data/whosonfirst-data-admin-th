@@ -11,7 +11,7 @@
     "geom:longitude":101.865645,
     "gn:country":"TH",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"TH",
     "label:eng_x_preferred_longname":[
         "Waeng District"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":5.897205,
     "lbl:longitude":101.864183,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"NARATHIWAT",
     "meso:diss_me":"WaengNARATHIWAT",
     "meso:gadm_admin":"Waeng",
@@ -38,6 +40,7 @@
     "mps:longitude":101.864183,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09f1\u09be\u09af\u09bc\u09c7\u0982"
     ],
@@ -71,9 +74,6 @@
     "name:tha_x_variant":[
         "\u0e41\u0e27\u0e49\u0e07"
     ],
-    "name:unk_x_variant":[
-        "Amphoe Waeng"
-    ],
     "name:urd_x_preferred":[
         "\u0648\u0627\u0626\u0646\u06af \u0636\u0644\u0639"
     ],
@@ -91,9 +91,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"347",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -115,7 +115,7 @@
         "gn:id":1605185,
         "gp:id":28341716,
         "hasc:id":"TH.NW.WA",
-        "qs:id":370776,
+        "qs_pg:id":370776,
         "wd:id":"Q476986",
         "wk:page":"Waeng District"
     },
@@ -131,7 +131,7 @@
         }
     ],
     "wof:id":890466217,
-    "wof:lastmodified":1563298368,
+    "wof:lastmodified":1566663251,
     "wof:name":"Waeng",
     "wof:parent_id":85678885,
     "wof:placetype":"county",

@@ -14,10 +14,13 @@
     "iso:country":"TH",
     "lbl:latitude":13.40565,
     "lbl:longitude":101.14563,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":13.40565,
     "mps:longitude":101.14563,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ab\u09be\u09a8\u09af\u09bc\u09be\u09a4 \u09a8\u09bf\u0996\u09cb\u09ae"
     ],
@@ -48,7 +51,7 @@
     "name:tha_x_variant":[
         "\u0e1e\u0e19\u0e31\u0e2a\u0e19\u0e34\u0e04\u0e21"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mueang Phanat Nikhom"
     ],
     "name:urd_x_preferred":[
@@ -68,7 +71,7 @@
     "qs:source":"Aquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -77,7 +80,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1607837,
-        "qs:id":903596,
+        "qs_pg:id":903596,
         "wd:id":"Q476369",
         "wk:page":"Phanat Nikhom District"
     },
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":102025043,
-    "wof:lastmodified":1563290422,
+    "wof:lastmodified":1566656469,
     "wof:name":"Amphoe Phanat Nikhom",
     "wof:parent_id":85678795,
     "wof:placetype":"locality",

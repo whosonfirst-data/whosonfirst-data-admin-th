@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00027,
-    "geom:area_square_m":3309746.658828,
+    "geom:area_square_m":3309746.658823,
     "geom:bbox":"100.458984375,6.88280024177,100.480957031,6.89916069003",
     "geom:latitude":6.889163,
     "geom:longitude":100.469666,
@@ -14,9 +14,13 @@
     "iso:country":"TH",
     "lbl:latitude":6.888469,
     "lbl:longitude":100.469456,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":6.888469,
     "mps:longitude":100.469456,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:tha_x_preferred":[
         "\u0e1a\u0e49\u0e32\u0e19\u0e04\u0e25\u0e2d\u0e07\u0e1b\u0e2d\u0e21"
     ],
@@ -31,7 +35,7 @@
     "qs:source":"Aquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":102026165,
-    "wof:lastmodified":1501273368,
+    "wof:lastmodified":1566656502,
     "wof:name":"Ban Khlong Pom",
     "wof:parent_id":890467223,
     "wof:placetype":"locality",

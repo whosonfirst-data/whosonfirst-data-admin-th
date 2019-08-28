@@ -13,10 +13,13 @@
     "iso:country":"TH",
     "lbl:latitude":14.169739,
     "lbl:longitude":100.644488,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":14.169739,
     "mps:longitude":100.644488,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09f1\u09be\u0982 \u09a8\u09cb\u0987"
     ],
@@ -51,9 +54,6 @@
     "name:tha_x_variant":[
         "\u0e27\u0e31\u0e07\u0e19\u0e49\u0e2d\u0e22"
     ],
-    "name:unk_x_variant":[
-        "Ban Bang Pla Kot Noi"
-    ],
     "name:urd_x_preferred":[
         "\u0648\u0627\u0646\u06af \u0646\u0648\u06cc \u0636\u0644\u0639"
     ],
@@ -78,7 +78,7 @@
     "qs:type":"Town",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":184,
     "wof:belongsto":[
@@ -92,7 +92,7 @@
         "fct:id":"07cfa5b8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1605118,
         "gp:id":28341518,
-        "qs:id":341875,
+        "qs_pg:id":341875,
         "wd:id":"Q477014"
     },
     "wof:country":"TH",
@@ -110,7 +110,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563290276,
+    "wof:lastmodified":1566656373,
     "wof:name":"Wang Noi",
     "wof:parent_id":1108732053,
     "wof:placetype":"locality",

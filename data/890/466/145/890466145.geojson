@@ -19,6 +19,8 @@
     ],
     "lbl:latitude":13.915297,
     "lbl:longitude":100.524671,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"NONTHABURI",
     "meso:diss_me":"Pak KretNONTHABURI",
     "meso:gadm_admin":"Pak Kret",
@@ -32,6 +34,7 @@
     "meso:source":"AOTM",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09aa\u09be\u0995 \u0995\u09b0\u09c7\u09a4"
     ],
@@ -103,9 +106,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"89",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -126,7 +129,7 @@
     "wof:concordances":{
         "gp:id":28341535,
         "hasc:id":"TH.NO.PK",
-        "qs:id":895422,
+        "qs_pg:id":895422,
         "wd:id":"Q476330",
         "wk:page":"Pak Kret"
     },
@@ -142,7 +145,7 @@
         }
     ],
     "wof:id":890466145,
-    "wof:lastmodified":1563298394,
+    "wof:lastmodified":1566663263,
     "wof:name":"Pak Kret",
     "wof:parent_id":85678743,
     "wof:placetype":"county",

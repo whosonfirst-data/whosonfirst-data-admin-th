@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005189,
-    "geom:area_square_m":61256398.003454,
+    "geom:area_square_m":61256398.003464,
     "geom:bbox":"100.048572907,17.1789890606,100.114088955,17.4383071051",
     "geom:latitude":17.324144,
     "geom:longitude":100.082005,
@@ -14,10 +14,13 @@
     "iso:country":"TH",
     "lbl:latitude":17.194046,
     "lbl:longitude":100.074178,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":17.194046,
     "mps:longitude":100.074178,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Phichai"
     ],
@@ -30,7 +33,7 @@
     "name:tha_x_preferred":[
         "\u0e1e\u0e34\u0e0a\u0e31\u0e22"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Amphoe Phichai"
     ],
     "qs:a0":"Thailand",
@@ -48,7 +51,7 @@
     "qs:type":"Town",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":19,
     "wof:belongsto":[
         102191569,
@@ -61,7 +64,7 @@
         "fct:id":"07cebdd8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1607728,
         "gp:id":28340926,
-        "qs:id":999214
+        "qs_pg:id":999214
     },
     "wof:country":"TH",
     "wof:geomhash":"cfaab9af0fcf5030dd60a89146d36a2f",
@@ -78,7 +81,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636683,
+    "wof:lastmodified":1566656436,
     "wof:name":"Phichai",
     "wof:parent_id":890465911,
     "wof:placetype":"locality",

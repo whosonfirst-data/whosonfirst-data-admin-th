@@ -19,6 +19,8 @@
     ],
     "lbl:latitude":15.512883,
     "lbl:longitude":101.301707,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":15.512883,
     "mps:longitude":101.301707,
     "mz:hierarchy_label":1,
@@ -770,15 +772,9 @@
     "name:und_x_colloquial":[
         "Tailand"
     ],
-    "name:und_x_preferred":[
-        "Tajska",
-        "Ta\u00edland"
-    ],
     "name:und_x_variant":[
         "Kraljevina Tajska",
-        "Muang Thai",
-        "T'ae-guk",
-        "Thaimaa"
+        "T'ae-guk"
     ],
     "name:urd_x_preferred":[
         "\u062a\u06be\u0627\u0626\u06cc \u0644\u06cc\u0646\u0688"
@@ -929,7 +925,7 @@
         "naturalearth",
         "meso"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "statoids:dial":"66",
     "statoids:ds":"T",
@@ -969,7 +965,7 @@
         "marc:id":"th",
         "mzb:id":"thailand",
         "ne:adm0_a3":"THA",
-        "qs:id":976547,
+        "qs_pg:id":976547,
         "uncrt:id":"T",
         "wd:id":"Q869",
         "wmo:id":"TH"
@@ -987,7 +983,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1565737050,
+    "wof:lastmodified":1566657701,
     "wof:name":"Thailand",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

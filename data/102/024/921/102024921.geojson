@@ -12,10 +12,13 @@
     "iso:country":"TH",
     "lbl:latitude":6.536654,
     "lbl:longitude":101.369773,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":6.536654,
     "mps:longitude":101.369773,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09b0\u09ae\u09a8"
     ],
@@ -70,9 +73,7 @@
         "\u0420\u0430\u043c\u0430\u043d"
     ],
     "name:und_x_variant":[
-        "Ranam"
-    ],
-    "name:unk_x_variant":[
+        "Ranam",
         "Ban Kauta B\u0101ru"
     ],
     "qs:a1":"*",
@@ -88,7 +89,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1220,
     "wof:belongsto":[
         102191569,
@@ -100,7 +101,6 @@
         "fct:id":"07cf8d12-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1607097,
         "gp:id":1226123,
-        "qs:id":275068,
         "qs_pg:id":275068,
         "wd:id":"Q2055930"
     },
@@ -118,7 +118,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563290322,
+    "wof:lastmodified":1566656402,
     "wof:name":"Raman",
     "wof:parent_id":85678611,
     "wof:placetype":"locality",

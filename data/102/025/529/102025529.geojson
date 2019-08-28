@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0005,
+    "geom:area_square_m":6037158.397629,
     "geom:bbox":"102.476768655,12.4543621036,102.506142025,12.4831580266",
     "geom:latitude":12.46876,
     "geom:longitude":102.491455,
@@ -13,10 +14,14 @@
     "iso:country":"TH",
     "lbl:latitude":12.474124,
     "lbl:longitude":102.496141,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":12.474124,
     "mps:longitude":102.496141,
     "mz:hierarchy_label":1,
-    "name:unk_x_variant":[
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Wang Takhian"
     ],
     "qs:a0":"Thailand",
@@ -36,7 +41,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -46,7 +51,6 @@
     "wof:concordances":{
         "gn:id":1611853,
         "gp:id":1224348,
-        "qs:id":1116835,
         "qs_pg:id":1116835
     },
     "wof:country":"TH",
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":102025529,
-    "wof:lastmodified":1497295308,
+    "wof:lastmodified":1566656448,
     "wof:name":"Ban Wang Takhian",
     "wof:parent_id":85678813,
     "wof:placetype":"locality",

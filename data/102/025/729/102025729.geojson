@@ -15,10 +15,13 @@
     "iso:country":"TH",
     "lbl:latitude":12.726086,
     "lbl:longitude":101.056584,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":12.726086,
     "mps:longitude":101.056584,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ceb_x_preferred":[
         "Ban Chang"
     ],
@@ -26,9 +29,6 @@
         "Ban Chang"
     ],
     "name:tha_x_preferred":[
-        "\u0e1a\u0e49\u0e32\u0e19\u0e09\u0e32\u0e07"
-    ],
-    "name:unk_x_variant":[
         "\u0e1a\u0e49\u0e32\u0e19\u0e09\u0e32\u0e07"
     ],
     "qs:a0":"Thailand",
@@ -46,7 +46,7 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":50,
     "wof:belongsto":[
@@ -60,7 +60,7 @@
         "fct:id":"07cf5fa4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1620254,
         "gp:id":28341355,
-        "qs:id":480071
+        "qs_pg:id":480071
     },
     "wof:country":"TH",
     "wof:geomhash":"ee262acd83a403fa38736fcc2f2d3be0",
@@ -77,7 +77,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564101357,
+    "wof:lastmodified":1566656491,
     "wof:name":"Ban Chang",
     "wof:parent_id":890466415,
     "wof:placetype":"locality",

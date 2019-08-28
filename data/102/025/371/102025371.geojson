@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000255,
-    "geom:area_square_m":3132735.515546,
+    "geom:area_square_m":3132735.515548,
     "geom:bbox":"101.268429725,6.42090317213,101.286501857,6.43898113575",
     "geom:latitude":6.429942,
     "geom:longitude":101.277466,
@@ -14,16 +14,20 @@
     "iso:country":"TH",
     "lbl:latitude":6.429942,
     "lbl:longitude":101.277466,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":6.429942,
     "mps:longitude":101.277466,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:tha_x_preferred":[
         "\u0e1a\u0e49\u0e32\u0e19\u0e01\u0e23\u0e07\u0e1b\u0e34\u0e19\u0e31\u0e07"
     ],
     "name:tha_x_variant":[
         "\u0e01\u0e23\u0e07\u0e1b\u0e34\u0e19\u0e31\u0e07"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kampong Pinang"
     ],
     "qs:a1":"*",
@@ -39,7 +43,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -49,7 +53,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1610296,
-        "qs:id":1062386,
         "qs_pg:id":1062386
     },
     "wof:country":"TH",
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":102025371,
-    "wof:lastmodified":1497295334,
+    "wof:lastmodified":1566656448,
     "wof:name":"Krong Pi Nang",
     "wof:parent_id":890466087,
     "wof:placetype":"locality",

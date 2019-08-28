@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":17.239253,
     "lbl:longitude":103.598939,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"SAKON NAKHON",
     "meso:diss_me":"WaritchaphumSAKON NAKHON",
     "meso:gadm_admin":"Waritchaphum",
@@ -35,6 +37,7 @@
     "mps:longitude":103.598939,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09f1\u09be\u09b0\u09bf\u09a4\u099a\u09be\u09ab\u09c1\u09ae"
     ],
@@ -69,9 +72,9 @@
         "Waritchaphum"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"476",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":1108732067,
-    "wof:lastmodified":1563296552,
+    "wof:lastmodified":1566661762,
     "wof:name":"Waritchaphum",
     "wof:parent_id":85678863,
     "wof:placetype":"county",

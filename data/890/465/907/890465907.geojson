@@ -11,7 +11,7 @@
     "geom:longitude":99.45521,
     "gn:country":"TH",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"TH",
     "label:eng_x_preferred_longname":[
         "Muang Pan District"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":18.785721,
     "lbl:longitude":99.452897,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"LAMPANG",
     "meso:diss_me":"Muang PanLAMPANG",
     "meso:gadm_admin":"Mueang Pan",
@@ -38,6 +40,7 @@
     "mps:longitude":99.452897,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ae\u09c1\u09af\u09bc\u09c7\u0982 \u09aa\u09be\u09a8"
     ],
@@ -71,9 +74,6 @@
     "name:tha_x_variant":[
         "\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e1b\u0e32\u0e19"
     ],
-    "name:unk_x_variant":[
-        "Amphoe Mueang Pan"
-    ],
     "name:urd_x_preferred":[
         "\u0645\u0648\u0626\u0627\u0646\u06af \u067e\u0627\u0646 \u0636\u0644\u0639"
     ],
@@ -88,9 +88,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"865",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -112,7 +112,7 @@
         "gn:id":7524369,
         "gp:id":28340847,
         "hasc:id":"TH.LG.PA",
-        "qs:id":380862,
+        "qs_pg:id":380862,
         "wd:id":"Q476052",
         "wk:page":"Mueang Pan District"
     },
@@ -128,7 +128,7 @@
         }
     ],
     "wof:id":890465907,
-    "wof:lastmodified":1563298243,
+    "wof:lastmodified":1566663186,
     "wof:name":"Muang Pan",
     "wof:parent_id":85678625,
     "wof:placetype":"county",

@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003615,
-    "geom:area_square_m":43338091.784537,
+    "geom:area_square_m":43338091.784527,
     "geom:bbox":"100.466196409,14.0902462253,100.557861328,14.2680979405",
     "geom:latitude":14.165669,
     "geom:longitude":100.510601,
     "iso:country":"TH",
     "lbl:latitude":14.118638,
     "lbl:longitude":100.536806,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":14.118638,
     "mps:longitude":100.536806,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bang Sai"
     ],
@@ -34,7 +37,7 @@
     "qs:type":"Town",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -46,11 +49,11 @@
         "fct:id":"07cf214c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1619263,
         "gp:id":28341529,
-        "qs:id":217936
+        "qs_pg:id":217936
     },
     "wof:concordances_alt":{
         "gp:id":1225066,
-        "qs:id":75713
+        "qs_pg:id":75713
     },
     "wof:country":"TH",
     "wof:geomhash":"5543e974b141b04f220f91aa0489a185",
@@ -67,7 +70,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1534379465,
+    "wof:lastmodified":1566656474,
     "wof:name":"Bang Sai",
     "wof:parent_id":890466085,
     "wof:placetype":"locality",

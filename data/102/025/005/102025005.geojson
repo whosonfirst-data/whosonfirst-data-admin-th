@@ -15,10 +15,13 @@
     "iso:country":"TH",
     "lbl:latitude":15.222861,
     "lbl:longitude":102.501405,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":15.222861,
     "mps:longitude":102.501405,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bul_x_preferred":[
         "\u041f\u0445\u0438\u043c\u0430\u0438"
     ],
@@ -54,9 +57,6 @@
     "name:tha_x_variant":[
         "\u0e40\u0e17\u0e28\u0e1a\u0e32\u0e25\u0e15\u0e33\u0e1a\u0e25\u0e1e\u0e34\u0e21\u0e32\u0e22"
     ],
-    "name:unk_x_variant":[
-        "Ban Nai Muang"
-    ],
     "name:zho_x_preferred":[
         "\u62ab\u9081"
     ],
@@ -77,7 +77,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":261,
     "wof:belongsto":[
@@ -91,7 +91,6 @@
         "fct:id":"07cf8b14-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1607716,
         "gp:id":1226098,
-        "qs:id":229932,
         "qs_pg:id":229932,
         "wd:id":"Q3381309"
     },
@@ -110,7 +109,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563290437,
+    "wof:lastmodified":1566656478,
     "wof:name":"Phimai",
     "wof:parent_id":890466783,
     "wof:placetype":"locality",

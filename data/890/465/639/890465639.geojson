@@ -11,11 +11,15 @@
     "geom:longitude":101.28333,
     "gn:country":"TH",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424960,
     "iso:country":"TH",
+    "lbl:bbox":"101.26333,12.66333,101.30333,12.70333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ae\u09c1\u09af\u09bc\u09c7\u0982 \u09b0\u09be\u09af\u09bc\u09cb\u0982"
     ],
@@ -43,7 +47,7 @@
     "name:tha_x_preferred":[
         "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e23\u0e30\u0e22\u0e2d\u0e07"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ban Tin Noen"
     ],
     "name:vie_x_preferred":[
@@ -72,7 +76,7 @@
     "wof:concordances":{
         "gn:id":1620151,
         "gp:id":1202154,
-        "qs:id":268595,
+        "qs_pg:id":268595,
         "wd:id":"Q476074",
         "wk:page":"Mueang Rayong District"
     },
@@ -89,7 +93,7 @@
         }
     ],
     "wof:id":890465639,
-    "wof:lastmodified":1563298275,
+    "wof:lastmodified":1566663203,
     "wof:name":"Ban Choeng Noen",
     "wof:parent_id":1108802679,
     "wof:placetype":"locality",

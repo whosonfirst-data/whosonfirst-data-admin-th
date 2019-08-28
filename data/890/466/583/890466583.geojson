@@ -11,15 +11,19 @@
     "geom:longitude":100.02386,
     "gn:country":"TH",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424960,
     "iso:country":"TH",
+    "lbl:bbox":"100.00386,9.43028,100.04386,9.47028",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:tha_x_preferred":[
         "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e31\u0e27\u0e16\u0e19\u0e19"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ban Hua Thanon"
     ],
     "qs:name":"Hua Thanon",
@@ -43,7 +47,7 @@
     "wof:concordances":{
         "gn:id":8326159,
         "gp:id":1226251,
-        "qs:id":484811
+        "qs_pg:id":484811
     },
     "wof:country":"TH",
     "wof:created":1469053585,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":890466583,
-    "wof:lastmodified":1505343707,
+    "wof:lastmodified":1566663294,
     "wof:name":"Hua Thanon",
     "wof:parent_id":85678581,
     "wof:placetype":"locality",

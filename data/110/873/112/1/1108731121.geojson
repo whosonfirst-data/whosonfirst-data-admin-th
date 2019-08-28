@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.040972,
     "lbl:longitude":99.819145,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"PHETCHABURI",
     "meso:diss_me":"Ban LatPHETCHABURI",
     "meso:gadm_admin":"Ban Lat",
@@ -35,6 +37,7 @@
     "mps:longitude":99.819145,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ac\u09be\u09a8 \u09b2\u09af\u09bc\u09be\u09a4"
     ],
@@ -66,9 +69,9 @@
         "Ban Lat"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"298",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":1108731121,
-    "wof:lastmodified":1563296558,
+    "wof:lastmodified":1566661765,
     "wof:name":"Ban Lat",
     "wof:parent_id":85678753,
     "wof:placetype":"county",

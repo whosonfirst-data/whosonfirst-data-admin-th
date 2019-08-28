@@ -5,13 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001993,
-    "geom:area_square_m":23932201.757978,
+    "geom:area_square_m":23932201.75799,
     "geom:bbox":"100.612792969,13.7233765145,100.685964356,13.7660634063",
     "geom:latitude":13.744552,
     "geom:longitude":100.647837,
     "iso:country":"TH",
     "lbl:latitude":13.74858,
     "lbl:longitude":100.636288,
+    "lbl:max_zoom":18.0,
     "mps:latitude":13.747525,
     "mps:longitude":100.639246,
     "mz:hierarchy_label":1,
@@ -24,9 +25,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":5,
     "name:eng_x_preferred":[
-        "Hua Mak"
-    ],
-    "name:unk_x_variant":[
         "Hua Mak"
     ],
     "qs:gn_adm0_cc":"TH",
@@ -55,7 +53,7 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85678739,
         102191569,
@@ -83,7 +81,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527269310,
+    "wof:lastmodified":1566657691,
     "wof:name":"Hua Mak",
     "wof:parent_id":102025263,
     "wof:placetype":"neighbourhood",

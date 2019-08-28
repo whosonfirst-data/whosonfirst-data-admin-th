@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001728,
+    "geom:area_square_m":20631347.767871,
     "geom:bbox":"100.696875386,15.0471731956,100.803367806,15.097072593",
     "geom:latitude":15.071462,
     "geom:longitude":100.730333,
@@ -13,13 +14,17 @@
     "iso:country":"TH",
     "lbl:latitude":15.066814,
     "lbl:longitude":100.718922,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":15.066814,
     "mps:longitude":100.718922,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:tha_x_preferred":[
         "\u0e42\u0e04\u0e01\u0e2a\u0e33\u0e42\u0e23\u0e07"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Amphoe Khok Samrong"
     ],
     "qs:a0":"Thailand",
@@ -37,7 +42,7 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -47,7 +52,7 @@
     "wof:concordances":{
         "gn:id":1609812,
         "gp:id":28341457,
-        "qs:id":1255998
+        "qs_pg:id":1255998
     },
     "wof:country":"TH",
     "wof:geomhash":"7e8a41ac448839ab3ed80d0a1c14454c",
@@ -60,7 +65,7 @@
         }
     ],
     "wof:id":102025321,
-    "wof:lastmodified":1501221055,
+    "wof:lastmodified":1566656489,
     "wof:name":"Khok Samrong",
     "wof:parent_id":85678701,
     "wof:placetype":"locality",

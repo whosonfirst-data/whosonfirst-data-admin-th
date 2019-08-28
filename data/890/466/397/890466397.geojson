@@ -11,10 +11,14 @@
     "geom:longitude":98.26447,
     "gn:country":"TH",
     "gn:fcode":"ADMD",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"TH",
+    "lbl:bbox":"98.16447,8.6005,98.36447,8.8005",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Phang Nga"
     ],
@@ -80,7 +84,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6692484,
-        "qs:id":1038708,
+        "qs_pg:id":1038708,
         "wd:id":"Q204587",
         "wk:page":"Phang Nga"
     },
@@ -96,7 +100,7 @@
         }
     ],
     "wof:id":890466397,
-    "wof:lastmodified":1563298354,
+    "wof:lastmodified":1566663245,
     "wof:name":"Phang-Nga",
     "wof:parent_id":85678573,
     "wof:placetype":"localadmin",

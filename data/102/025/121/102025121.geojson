@@ -15,6 +15,8 @@
     "iso:country":"TH",
     "lbl:latitude":17.864223,
     "lbl:longitude":102.748787,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":17.864223,
     "mps:longitude":102.748787,
     "mz:hierarchy_label":1,
@@ -85,9 +87,6 @@
     ],
     "name:tha_x_variant":[
         "\u0e2b\u0e19\u0e2d\u0e07\u0e04\u0e32\u0e22"
-    ],
-    "name:unk_x_variant":[
-        "Nong Hai"
     ],
     "name:vie_x_preferred":[
         "Nong Khai"
@@ -207,7 +206,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":512,
     "wof:belongsto":[
@@ -221,7 +220,6 @@
         "fct:id":"07ce9182-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1608232,
         "gp:id":1225109,
-        "qs:id":7313,
         "qs_pg:id":7313,
         "wd:id":"Q1026138",
         "wk:page":"Nong Khai"
@@ -241,7 +239,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563290392,
+    "wof:lastmodified":1566656449,
     "wof:name":"Nong Khai",
     "wof:parent_id":890465657,
     "wof:placetype":"locality",

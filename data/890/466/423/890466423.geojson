@@ -11,8 +11,12 @@
     "geom:longitude":100.98607,
     "gp:adm0":23424960,
     "iso:country":"TH",
+    "lbl:bbox":"100.96607,13.346197,101.00607,13.386197",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bod_x_preferred":[
         "\u0f45\u0f71\u0f7c\u0f53\u0f0b\u0f56\u0f74\u0f0b\u0f62\u0f72\u0f0d"
     ],
@@ -106,7 +110,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1225961,
-        "qs:id":1048287,
+        "qs_pg:id":1048287,
         "wd:id":"Q138589",
         "wk:page":"Chonburi"
     },
@@ -123,7 +127,7 @@
         }
     ],
     "wof:id":890466423,
-    "wof:lastmodified":1563298373,
+    "wof:lastmodified":1566663253,
     "wof:name":"Chon Buri",
     "wof:parent_id":1108802665,
     "wof:placetype":"locality",

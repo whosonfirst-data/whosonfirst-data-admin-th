@@ -11,15 +11,19 @@
     "geom:longitude":98.33608,
     "gn:country":"TH",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424960,
     "iso:country":"TH",
+    "lbl:bbox":"98.31608,7.77778,98.35608,7.81778",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:tha_x_preferred":[
         "\u0e1a\u0e49\u0e32\u0e19\u0e23\u0e32\u0e44\u0e27\u0e22\u0e4c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ban Rawai"
     ],
     "qs:name":"Ban Ra Wai",
@@ -41,7 +45,7 @@
     "wof:concordances":{
         "gn:id":1117942,
         "gp:id":1218882,
-        "qs:id":1220697
+        "qs_pg:id":1220697
     },
     "wof:country":"TH",
     "wof:created":1469053563,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":890466051,
-    "wof:lastmodified":1505343706,
+    "wof:lastmodified":1566663289,
     "wof:name":"Ban Ra Wai",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

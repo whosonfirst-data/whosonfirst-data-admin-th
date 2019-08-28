@@ -14,10 +14,13 @@
     "iso:country":"TH",
     "lbl:latitude":6.866441,
     "lbl:longitude":100.376933,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":6.866441,
     "mps:longitude":100.376933,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u0996\u09b2\u09cb\u0982 \u09b9\u09cb\u0987 \u0996\u09cb\u0982"
     ],
@@ -57,9 +60,6 @@
     "name:tha_x_variant":[
         "\u0e04\u0e25\u0e2d\u0e07\u0e2b\u0e2d\u0e22\u0e42\u0e02\u0e48\u0e07"
     ],
-    "name:unk_x_variant":[
-        "Khlaung Hoi Khaung"
-    ],
     "name:vie_x_preferred":[
         "Khlong Hoi Khong"
     ],
@@ -81,7 +81,7 @@
     "qs:type":"Town",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":171,
     "wof:belongsto":[
         102191569,
@@ -94,7 +94,7 @@
         "fct:id":"07ced052-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1618326,
         "gp:id":28341687,
-        "qs:id":1013675,
+        "qs_pg:id":1013675,
         "wd:id":"Q166993"
     },
     "wof:country":"TH",
@@ -112,7 +112,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563290415,
+    "wof:lastmodified":1566656466,
     "wof:name":"Khlong Hoi Khong",
     "wof:parent_id":890467223,
     "wof:placetype":"locality",

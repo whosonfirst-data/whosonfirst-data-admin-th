@@ -13,10 +13,13 @@
     "iso:country":"TH",
     "lbl:latitude":14.328259,
     "lbl:longitude":99.519653,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":14.328259,
     "mps:longitude":99.519653,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ac\u09cb \u09ab\u09cd\u09b2\u09cb\u0987"
     ],
@@ -55,9 +58,6 @@
     "name:tha_x_variant":[
         "\u0e1a\u0e48\u0e2d\u0e1e\u0e25\u0e2d\u0e22"
     ],
-    "name:unk_x_variant":[
-        "Amphoe Bo Phloi"
-    ],
     "name:urd_x_preferred":[
         "\u0628\u0648 \u067e\u06be\u0644\u0648\u06cc \u0636\u0644\u0639"
     ],
@@ -82,7 +82,7 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":169,
     "wof:belongsto":[
@@ -95,7 +95,7 @@
         "fct:id":"07cf221e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1153850,
         "gp:id":28341448,
-        "qs:id":246009,
+        "qs_pg:id":246009,
         "wd:id":"Q475278"
     },
     "wof:country":"TH",
@@ -112,7 +112,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563290188,
+    "wof:lastmodified":1566656308,
     "wof:name":"Bo Phloi",
     "wof:parent_id":85678663,
     "wof:placetype":"locality",

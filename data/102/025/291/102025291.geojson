@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000511,
+    "geom:area_square_m":6272949.459639,
     "geom:bbox":"100.015974828,6.84648698031,100.143938165,6.93001791677",
     "geom:latitude":6.888254,
     "geom:longitude":100.079958,
@@ -13,17 +14,18 @@
     "iso:country":"TH",
     "lbl:latitude":6.920974,
     "lbl:longitude":100.134888,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":6.920974,
     "mps:longitude":100.134888,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Khuan Ka Long"
     ],
     "name:tha_x_preferred":[
         "\u0e04\u0e27\u0e19\u0e01\u0e32\u0e2b\u0e25\u0e07"
-    ],
-    "name:unk_x_variant":[
-        "Khuan Ka Long"
     ],
     "qs:a0":"Thailand",
     "qs:a1":"*Satun",
@@ -40,7 +42,7 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -51,7 +53,7 @@
         "fct:id":"07cf31be-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1609717,
         "gp:id":28341676,
-        "qs:id":246397
+        "qs_pg:id":246397
     },
     "wof:country":"TH",
     "wof:geomhash":"062ad3b4b074e6da54632cc6c018424e",
@@ -67,7 +69,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1501221053,
+    "wof:lastmodified":1566656476,
     "wof:name":"Khuan Kalong",
     "wof:parent_id":85678595,
     "wof:placetype":"locality",

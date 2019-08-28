@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001339,
-    "geom:area_square_m":16091393.49948,
+    "geom:area_square_m":16091393.499486,
     "geom:bbox":"100.344858039,13.6139560263,100.420532227,13.6726758187",
     "geom:latitude":13.640514,
     "geom:longitude":100.377164,
@@ -14,9 +14,13 @@
     "iso:country":"TH",
     "lbl:latitude":13.633446,
     "lbl:longitude":100.368599,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":13.633446,
     "mps:longitude":100.368599,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:tha_x_preferred":[
         "\u0e1a\u0e32\u0e07\u0e1a\u0e2d\u0e19"
     ],
@@ -35,7 +39,7 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -46,7 +50,7 @@
     "wof:concordances":{
         "gn:id":8355932,
         "gp:id":28341381,
-        "qs:id":1059844
+        "qs_pg:id":1059844
     },
     "wof:country":"TH",
     "wof:geomhash":"9337451cbf7e98a822d238791db51633",
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":102026235,
-    "wof:lastmodified":1501273473,
+    "wof:lastmodified":1566656499,
     "wof:name":"Bang Bon",
     "wof:parent_id":890466313,
     "wof:placetype":"locality",

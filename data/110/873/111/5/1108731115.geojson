@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":12.8137,
     "lbl:longitude":101.341015,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"RAYONG",
     "meso:diss_me":"Ban khaiRAYONG",
     "meso:gadm_admin":"Ban Khai",
@@ -35,6 +37,7 @@
     "mps:longitude":101.341015,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Ban Khai"
     ],
@@ -45,9 +48,9 @@
         "\u0e1a\u0e49\u0e32\u0e19\u0e04\u0e48\u0e32\u0e22"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"490",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":1108731115,
-    "wof:lastmodified":1554489414,
+    "wof:lastmodified":1566661731,
     "wof:name":"Ban khai",
     "wof:parent_id":85678809,
     "wof:placetype":"county",

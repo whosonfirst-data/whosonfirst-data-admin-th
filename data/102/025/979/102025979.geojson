@@ -5,20 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00045,
-    "geom:area_square_m":5316154.256743,
+    "geom:area_square_m":5316154.256741,
     "geom:bbox":"100.586908771,17.2524462768,100.605718136,17.2810090539",
     "geom:latitude":17.266728,
     "geom:longitude":100.596313,
     "gn:country":"TH",
     "gn:fcode":"PPLA2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"TH",
     "lbl:latitude":17.266728,
     "lbl:longitude":100.596314,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":17.266728,
     "mps:longitude":100.596314,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Chat Trakan"
     ],
@@ -27,9 +30,6 @@
     ],
     "name:tha_x_preferred":[
         "\u0e0a\u0e32\u0e15\u0e34\u0e15\u0e23\u0e30\u0e01\u0e32\u0e23"
-    ],
-    "name:unk_x_variant":[
-        "Ban Chat Trakan"
     ],
     "qs:a0":"Thailand",
     "qs:a1":"*Phitsanulok",
@@ -50,7 +50,7 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":11,
     "wof:belongsto":[
@@ -63,7 +63,7 @@
         "fct:id":"07cf24b2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1611235,
         "gp:id":28340930,
-        "qs:id":1151814,
+        "qs_pg:id":1151814,
         "wk:page":"Chat Trakan"
     },
     "wof:country":"TH",
@@ -80,7 +80,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636684,
+    "wof:lastmodified":1566656444,
     "wof:name":"Chat Trakan",
     "wof:parent_id":85678647,
     "wof:placetype":"locality",

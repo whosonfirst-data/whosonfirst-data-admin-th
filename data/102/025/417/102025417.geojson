@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000158,
-    "geom:area_square_m":1891885.667353,
+    "geom:area_square_m":1891885.667351,
     "geom:bbox":"100.507049561,13.7620619168,100.529022217,13.7820690597",
     "geom:latitude":13.769972,
     "geom:longitude":100.515768,
@@ -14,13 +14,17 @@
     "iso:country":"TH",
     "lbl:latitude":13.768407,
     "lbl:longitude":100.514024,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":13.768407,
     "mps:longitude":100.514024,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:tha_x_preferred":[
         "\u0e14\u0e38\u0e2a\u0e34\u0e15"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Amphoe Dusit"
     ],
     "qs:a0":"Thailand",
@@ -38,7 +42,7 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -49,7 +53,7 @@
     "wof:concordances":{
         "gn:id":1610858,
         "gp:id":28341384,
-        "qs:id":1151988
+        "qs_pg:id":1151988
     },
     "wof:country":"TH",
     "wof:geomhash":"a4f909ed4a41a5094df373d85edfd734",
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":102025417,
-    "wof:lastmodified":1501221059,
+    "wof:lastmodified":1566656465,
     "wof:name":"Dusit",
     "wof:parent_id":890466379,
     "wof:placetype":"locality",

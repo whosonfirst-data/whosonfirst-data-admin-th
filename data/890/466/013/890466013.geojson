@@ -11,11 +11,15 @@
     "geom:longitude":98.95,
     "gn:country":"TH",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424960,
     "iso:country":"TH",
+    "lbl:bbox":"98.93,19.09667,98.97,19.13667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ae\u09be\u09af\u09bc\u09c7 \u09f1\u09be\u0982"
     ],
@@ -43,7 +47,7 @@
     "name:tha_x_preferred":[
         "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e41\u0e21\u0e48\u0e27\u0e32\u0e07"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Amphoe Mae Taeng"
     ],
     "name:urd_x_preferred":[
@@ -75,7 +79,7 @@
     "wof:concordances":{
         "gn:id":1152183,
         "gp:id":28349082,
-        "qs:id":1210238,
+        "qs_pg:id":1210238,
         "wd:id":"Q475979",
         "wk:page":"Mae Wang District"
     },
@@ -92,7 +96,7 @@
         }
     ],
     "wof:id":890466013,
-    "wof:lastmodified":1563298365,
+    "wof:lastmodified":1566663250,
     "wof:name":"Mae Wang",
     "wof:parent_id":1108802653,
     "wof:placetype":"locality",

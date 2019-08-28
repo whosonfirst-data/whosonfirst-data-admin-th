@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000351,
-    "geom:area_square_m":4216869.343233,
+    "geom:area_square_m":4216869.343219,
     "geom:bbox":"100.556526955,13.7500568045,100.575714111,13.7794416255",
     "geom:latitude":13.765322,
     "geom:longitude":100.566875,
@@ -14,6 +14,7 @@
     "iso:country":"TH",
     "lbl:latitude":13.76514,
     "lbl:longitude":100.569165,
+    "lbl:max_zoom":18.0,
     "mps:latitude":13.766392,
     "mps:longitude":100.567652,
     "mz:hierarchy_label":1,
@@ -26,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":5,
     "name:eng_x_preferred":[
-        "Ban Na Song"
-    ],
-    "name:unk_x_variant":[
         "Ban Na Song"
     ],
     "name:vie_x_preferred":[
@@ -62,7 +60,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85678739,
         102191569,
@@ -74,7 +72,6 @@
     "wof:concordances":{
         "gn:id":1616108,
         "gp:id":1212155,
-        "qs:id":1083539,
         "qs_pg:id":1083539
     },
     "wof:country":"TH",
@@ -93,7 +90,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1497313699,
+    "wof:lastmodified":1566657687,
     "wof:name":"Ban Na Song",
     "wof:parent_id":102025263,
     "wof:placetype":"neighbourhood",

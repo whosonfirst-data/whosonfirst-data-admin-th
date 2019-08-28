@@ -5,29 +5,30 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000777,
-    "geom:area_square_m":9262551.164157,
+    "geom:area_square_m":9262551.164149,
     "geom:bbox":"102.245939847,15.4075844229,102.341464583,15.4574165323",
     "geom:latitude":15.434152,
     "geom:longitude":102.287708,
-    "gn:gn_country":"TH",
-    "gn:gn_fcode":"PPLA2",
-    "gn:gn_pop":0,
+    "gn:country":"TH",
+    "gn:fcode":"PPLA2",
     "gn:latitude":15.44393,
     "gn:longitude":102.32862,
+    "gn:population":0,
     "iso:country":"TH",
     "lbl:latitude":15.448386,
     "lbl:longitude":102.33304,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":15.448386,
     "mps:longitude":102.33304,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:tha_x_preferred":[
         "\u0e04\u0e07"
     ],
-    "name:und_x_preferred":[
-        "Khong"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
+        "Khong",
         "Amphoe Khong"
     ],
     "qs:a0":"Thailand",
@@ -61,7 +62,7 @@
     "qs_pg:woe_id":1226310,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -73,7 +74,6 @@
         "fct:id":"07d4bd14-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1609793,
         "gp:id":1226310,
-        "qs:id":1116848,
         "qs_pg:id":1116848,
         "wk:page":"Mueang Khong"
     },
@@ -92,7 +92,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1534379464,
+    "wof:lastmodified":1566656446,
     "wof:name":"Khong",
     "wof:parent_id":1108802625,
     "wof:placetype":"locality",

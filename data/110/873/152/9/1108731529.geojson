@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":15.890369,
     "lbl:longitude":104.63858,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"AMNAT CHAROEN",
     "meso:diss_me":"Muang Amnat CharoenAMNAT CHAROEN",
     "meso:gadm_admin":"Muang Amnat Charoen",
@@ -35,6 +37,7 @@
     "mps:longitude":104.63858,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ae\u09c1\u09af\u09bc\u09c7\u0982 \u0986\u09ae\u09cd\u09a8\u09af\u09bc\u09be\u09a4 \u099a\u09be\u09b0\u09cb\u09af\u09bc\u09c7\u09a8"
     ],
@@ -76,9 +79,9 @@
         "Mueang Amnat Charoen"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"599",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":1108731529,
-    "wof:lastmodified":1563296543,
+    "wof:lastmodified":1566661757,
     "wof:name":"Muang Amnat Charoen",
     "wof:parent_id":85678789,
     "wof:placetype":"county",

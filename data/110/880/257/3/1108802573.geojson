@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.38187,
     "lbl:longitude":100.470988,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"PHRA NAKHON SI AYUTTHAYA",
     "meso:diss_me":"Bang BanPHRA NAKHON SI AYUTTHAYA",
     "meso:gadm_admin":"Bang Ban",
@@ -31,6 +33,7 @@
     "meso:source":"AOTM",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ac\u09cd\u09af\u09be\u0982 \u09ac\u09be\u09a8"
     ],
@@ -65,9 +68,9 @@
         "Bang Ban"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"135",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":1108802573,
-    "wof:lastmodified":1563296414,
+    "wof:lastmodified":1566661684,
     "wof:name":"Bang Ban",
     "wof:parent_id":85678721,
     "wof:placetype":"county",

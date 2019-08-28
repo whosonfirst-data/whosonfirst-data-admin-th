@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.040726,
     "lbl:longitude":99.441684,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"KANCHANABURI",
     "meso:diss_me":"Muang KanchanaburiKANCHANABURI",
     "meso:gadm_admin":"Muang Kanchanaburi",
@@ -31,6 +33,7 @@
     "meso:source":"AOTM",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ae\u09c1\u09af\u09bc\u09c7\u0982 \u0995\u09be\u09a8\u099a\u09be\u09a8\u09be\u09ac\u09c1\u09b0\u09bf"
     ],
@@ -74,9 +77,9 @@
         "\u9813\u65af\u79d1\u4f0a\u4fee\u9053\u9662"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"1236",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":1108802667,
-    "wof:lastmodified":1563296417,
+    "wof:lastmodified":1566661686,
     "wof:name":"Muang Kanchanaburi",
     "wof:parent_id":85678663,
     "wof:placetype":"county",

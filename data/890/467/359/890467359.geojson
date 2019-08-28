@@ -11,11 +11,15 @@
     "geom:longitude":100.18333,
     "gn:country":"TH",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424960,
     "iso:country":"TH",
+    "lbl:bbox":"100.16333,14.36333,100.20333,14.40333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0646\u0637\u0642\u0629 \u0628\u0648\u0646\u0642 \u0643\u0648\u0645"
     ],
@@ -55,7 +59,7 @@
     "name:tha_x_variant":[
         "\u0e40\u0e02\u0e15\u0e1a\u0e36\u0e07\u0e01\u0e38\u0e48\u0e21"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ban Khlong Kum"
     ],
     "name:urd_x_preferred":[
@@ -86,7 +90,7 @@
     "wof:concordances":{
         "gn:id":1618259,
         "gp:id":55946752,
-        "qs:id":230267,
+        "qs_pg:id":230267,
         "wd:id":"Q1001823",
         "wk:page":"Bueng Kum District"
     },
@@ -102,7 +106,7 @@
         }
     ],
     "wof:id":890467359,
-    "wof:lastmodified":1563298313,
+    "wof:lastmodified":1566663224,
     "wof:name":"Khlong Kum",
     "wof:parent_id":85678679,
     "wof:placetype":"locality",

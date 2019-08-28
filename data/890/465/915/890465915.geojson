@@ -11,7 +11,7 @@
     "geom:longitude":100.79718,
     "gn:country":"TH",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"TH",
     "label:eng_x_preferred_longname":[
         "Latkrabang District"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":13.746356,
     "lbl:longitude":100.804657,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"KRUNG THEP",
     "meso:diss_me":"LatkrabangKRUNG THEP",
     "meso:gadm_admin":"Lat Krabang",
@@ -38,6 +40,7 @@
     "mps:longitude":100.804657,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:deu_x_preferred":[
         "Lat Krabang"
     ],
@@ -77,7 +80,7 @@
     "name:tha_x_variant":[
         "\u0e25\u0e32\u0e14\u0e01\u0e23\u0e30\u0e1a\u0e31\u0e07"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Amphoe Lat Krabang"
     ],
     "name:vie_x_preferred":[
@@ -94,9 +97,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"124",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -118,7 +121,7 @@
         "gn:id":1609127,
         "gp:id":28341415,
         "hasc:id":"TH.BM.LK",
-        "qs:id":1030573,
+        "qs_pg:id":1030573,
         "wd:id":"Q1806807",
         "wk:page":"Lat Krabang District"
     },
@@ -134,7 +137,7 @@
         }
     ],
     "wof:id":890465915,
-    "wof:lastmodified":1563298262,
+    "wof:lastmodified":1566663195,
     "wof:name":"Latkrabang",
     "wof:parent_id":85678739,
     "wof:placetype":"county",

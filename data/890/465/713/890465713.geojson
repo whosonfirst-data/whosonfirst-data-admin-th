@@ -11,7 +11,7 @@
     "geom:longitude":98.205174,
     "gn:country":"TH",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"TH",
     "label:eng_x_preferred_longname":[
         "Pang Mapha District"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":19.601661,
     "lbl:longitude":98.202405,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"MAE HONG SON",
     "meso:diss_me":"Pang MaphaMAE HONG SON",
     "meso:gadm_admin":"Pang Ma Pha",
@@ -38,6 +40,7 @@
     "mps:longitude":98.202405,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09aa\u09be\u0982 \u09ae\u09be\u09ab\u09be"
     ],
@@ -72,9 +75,6 @@
         "\u0e1b\u0e32\u0e07\u0e21\u0e30\u0e1c\u0e49\u0e32",
         "\u0e01\u0e34\u0e48\u0e07\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e1b\u0e32\u0e07\u0e21\u0e30\u0e1c\u0e49\u0e32"
     ],
-    "name:unk_x_variant":[
-        "Amphoe Pang Mapha"
-    ],
     "name:urd_x_preferred":[
         "\u067e\u0627\u0646\u06af \u0645\u0627\u067e\u06be\u0627 \u0636\u0644\u0639"
     ],
@@ -89,9 +89,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"798",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -113,7 +113,7 @@
         "gn:id":8304597,
         "gp:id":28340831,
         "hasc:id":"TH.MH.PM",
-        "qs:id":1246188,
+        "qs_pg:id":1246188,
         "wd:id":"Q476348",
         "wk:page":"Pang Mapha District"
     },
@@ -129,7 +129,7 @@
         }
     ],
     "wof:id":890465713,
-    "wof:lastmodified":1563298261,
+    "wof:lastmodified":1566663195,
     "wof:name":"Pang Mapha",
     "wof:parent_id":85678555,
     "wof:placetype":"county",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001491,
+    "geom:area_square_m":17973850.234406,
     "geom:bbox":"101.224311867,12.7796608408,101.46245693,12.9332950797",
     "geom:latitude":12.845407,
     "geom:longitude":101.344369,
@@ -13,16 +14,20 @@
     "iso:country":"TH",
     "lbl:latitude":12.924265,
     "lbl:longitude":101.44263,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":12.924265,
     "mps:longitude":101.44263,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ban Khai"
     ],
     "name:tha_x_preferred":[
         "\u0e1a\u0e49\u0e32\u0e19\u0e04\u0e48\u0e32\u0e22"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Amphoe Ban Khai"
     ],
     "qs:a0":"Thailand",
@@ -40,7 +45,7 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -53,7 +58,7 @@
         "fct:id":"07ceecfe-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1618573,
         "gp:id":28341356,
-        "qs:id":1204912
+        "qs_pg:id":1204912
     },
     "wof:country":"TH",
     "wof:geomhash":"5b0a3b8edd1d0dae1eab97b7de874efa",
@@ -69,7 +74,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1501221069,
+    "wof:lastmodified":1566656473,
     "wof:name":"Ban Khai",
     "wof:parent_id":85678809,
     "wof:placetype":"locality",

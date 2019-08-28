@@ -11,7 +11,7 @@
     "geom:longitude":101.628836,
     "gn:country":"TH",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"TH",
     "label:eng_x_preferred_longname":[
         "Nong Bua Daeng District"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":16.208985,
     "lbl:longitude":101.634145,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"CHAIYAPHUM",
     "meso:diss_me":"Nong Bua DaengCHAIYAPHUM",
     "meso:gadm_admin":"Nong Bua Daeng",
@@ -38,6 +40,7 @@
     "mps:longitude":101.634145,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09a8\u09cb\u0982 \u09ac\u09c1\u09af\u09bc\u09be \u09a6\u09be\u09af\u09bc\u09c7\u0982"
     ],
@@ -65,9 +68,6 @@
     "name:tha_x_variant":[
         "\u0e2b\u0e19\u0e2d\u0e07\u0e1a\u0e31\u0e27\u0e41\u0e14\u0e07"
     ],
-    "name:unk_x_variant":[
-        "Amphoe Nong Bua Daeng"
-    ],
     "name:urd_x_preferred":[
         "\u0646\u0648\u0646\u06af \u0628\u0648\u0627 \u062f\u0627\u0626\u0646\u06af \u0636\u0644\u0639"
     ],
@@ -82,9 +82,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"2216",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -106,7 +106,7 @@
         "gn:id":1608272,
         "gp:id":28341088,
         "hasc:id":"TH.CY.ND",
-        "qs:id":1026908,
+        "qs_pg:id":1026908,
         "wd:id":"Q476243",
         "wk:page":"Nong Bua Daeng District"
     },
@@ -122,7 +122,7 @@
         }
     ],
     "wof:id":890466301,
-    "wof:lastmodified":1563298352,
+    "wof:lastmodified":1566663244,
     "wof:name":"Nong Bua Daeng",
     "wof:parent_id":85678825,
     "wof:placetype":"county",

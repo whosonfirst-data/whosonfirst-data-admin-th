@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002075,
-    "geom:area_square_m":24909453.310324,
+    "geom:area_square_m":24909453.310323,
     "geom:bbox":"100.494302979,13.7954061726,100.542716032,13.8614138585",
     "geom:latitude":13.829633,
     "geom:longitude":100.521595,
@@ -14,6 +14,7 @@
     "iso:country":"TH",
     "lbl:latitude":13.818466,
     "lbl:longitude":100.523322,
+    "lbl:max_zoom":18.0,
     "mps:latitude":13.829688,
     "mps:longitude":100.523552,
     "mz:hierarchy_label":1,
@@ -30,9 +31,6 @@
     ],
     "name:eng_x_variant":[
         "Bang Su Khwang"
-    ],
-    "name:unk_x_variant":[
-        "Bang Su Khwaeng"
     ],
     "qs:gn_adm0_cc":"TH",
     "qs:gn_fcode":"PPL",
@@ -62,7 +60,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85678739,
         102191569,
@@ -74,7 +72,6 @@
     "wof:concordances":{
         "gn:id":1613134,
         "gp:id":1225068,
-        "qs:id":1081052,
         "qs_pg:id":1081052
     },
     "wof:country":"TH",
@@ -93,7 +90,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1497313479,
+    "wof:lastmodified":1566657685,
     "wof:name":"Bang Su Khwaeng",
     "wof:parent_id":102025807,
     "wof:placetype":"neighbourhood",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001523,
-    "geom:area_square_m":18138820.73087,
+    "geom:area_square_m":18138820.73086,
     "geom:bbox":"100.56501486,15.5875469535,100.66056972,15.6373641953",
     "geom:latitude":15.608728,
     "geom:longitude":100.608228,
@@ -15,14 +15,17 @@
     "iso:country":"TH",
     "lbl:latitude":15.598512,
     "lbl:longitude":100.649635,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":15.598512,
     "mps:longitude":100.649635,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:tha_x_preferred":[
         "\u0e44\u0e1e\u0e28\u0e32\u0e25\u0e35"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Amphoe Phaisali"
     ],
     "qs:a0":"Thailand",
@@ -40,7 +43,7 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +54,7 @@
     "wof:concordances":{
         "gn:id":1607881,
         "gp:id":28340983,
-        "qs:id":890504
+        "qs_pg:id":890504
     },
     "wof:country":"TH",
     "wof:geomhash":"b04af4e69a4ec6d243c5fc799aa4659a",
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":102025051,
-    "wof:lastmodified":1505338984,
+    "wof:lastmodified":1566656480,
     "wof:name":"Phai Sali",
     "wof:parent_id":85678715,
     "wof:placetype":"locality",

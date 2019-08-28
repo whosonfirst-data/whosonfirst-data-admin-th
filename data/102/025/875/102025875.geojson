@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000608,
-    "geom:area_square_m":7447486.734022,
+    "geom:area_square_m":7447486.734034,
     "geom:bbox":"98.2911018694,7.76182080935,98.3217907882,7.79263613053",
     "geom:latitude":7.778891,
     "geom:longitude":98.304128,
@@ -15,10 +15,13 @@
     "iso:country":"TH",
     "lbl:latitude":7.780299,
     "lbl:longitude":98.305372,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":7.780299,
     "mps:longitude":98.305372,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:rus_x_preferred":[
         "\u041d\u0430\u0438-\u0425\u0430\u0440\u043d"
     ],
@@ -35,7 +38,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":106,
     "wof:belongsto":[
@@ -45,7 +48,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7302494,
-        "qs:id":1041024,
         "qs_pg:id":1041024
     },
     "wof:country":"TH",
@@ -58,7 +60,7 @@
         }
     ],
     "wof:id":102025875,
-    "wof:lastmodified":1527636682,
+    "wof:lastmodified":1566656430,
     "wof:name":"Nai Harn",
     "wof:parent_id":890467203,
     "wof:placetype":"locality",

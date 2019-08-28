@@ -12,10 +12,13 @@
     "iso:country":"TH",
     "lbl:latitude":17.224758,
     "lbl:longitude":99.042035,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":17.224758,
     "mps:longitude":99.042035,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09b8\u09be\u09ae \u0999\u09be\u0993"
     ],
@@ -43,9 +46,6 @@
     "name:tha_x_variant":[
         "\u0e2a\u0e32\u0e21\u0e40\u0e07\u0e32"
     ],
-    "name:unk_x_variant":[
-        "Amphoe Sam Ngao"
-    ],
     "name:vie_x_preferred":[
         "Sam Ngao"
     ],
@@ -65,7 +65,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":218,
     "wof:belongsto":[
         102191569,
@@ -77,7 +77,6 @@
         "fct:id":"07cec1d4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1150786,
         "gp:id":1226143,
-        "qs:id":276216,
         "qs_pg:id":276216,
         "wd:id":"Q476602"
     },
@@ -95,7 +94,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563290263,
+    "wof:lastmodified":1566656364,
     "wof:name":"Sam Ngao",
     "wof:parent_id":85678683,
     "wof:placetype":"locality",

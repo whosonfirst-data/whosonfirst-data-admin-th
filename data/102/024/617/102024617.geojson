@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003441,
-    "geom:area_square_m":41180364.754653,
+    "geom:area_square_m":41180364.754621,
     "geom:bbox":"100.312373114,14.5692282498,100.407840948,14.6298325379",
     "geom:latitude":14.600036,
     "geom:longitude":100.360751,
@@ -13,14 +13,17 @@
     "iso:country":"TH",
     "lbl:latitude":14.603248,
     "lbl:longitude":100.356874,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":14.603248,
     "mps:longitude":100.356874,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:tha_x_preferred":[
         "\u0e27\u0e34\u0e40\u0e28\u0e29\u0e0a\u0e31\u0e22\u0e0a\u0e32\u0e0d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Amphoe Wiset Chai Chan"
     ],
     "qs:a0":"Thailand",
@@ -38,7 +41,7 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +53,7 @@
     "wof:concordances":{
         "gn:id":1605018,
         "gp:id":28341490,
-        "qs:id":1229530
+        "qs_pg:id":1229530
     },
     "wof:country":"TH",
     "wof:geomhash":"9cdccda31e42650d72ae03368db2a890",
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":102024617,
-    "wof:lastmodified":1505338981,
+    "wof:lastmodified":1566656314,
     "wof:name":"Wiset Chaichan",
     "wof:parent_id":890465635,
     "wof:placetype":"locality",

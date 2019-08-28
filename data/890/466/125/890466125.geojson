@@ -11,12 +11,16 @@
     "geom:longitude":100.15,
     "gn:country":"TH",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424960,
     "iso:country":"TH",
+    "lbl:bbox":"100.13,15.69667,100.17,15.73667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Amphu Paknam Po"
     ],
     "qs:name":"Ban Pak Nam Pho",
@@ -38,7 +42,7 @@
     "wof:concordances":{
         "gn:id":1614603,
         "gp:id":1217066,
-        "qs:id":321696
+        "qs_pg:id":321696
     },
     "wof:country":"TH",
     "wof:created":1469053566,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":890466125,
-    "wof:lastmodified":1505343706,
+    "wof:lastmodified":1566663293,
     "wof:name":"Ban Pak Nam Pho",
     "wof:parent_id":85678715,
     "wof:placetype":"locality",

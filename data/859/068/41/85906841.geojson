@@ -14,6 +14,7 @@
     "iso:country":"TH",
     "lbl:latitude":13.742987,
     "lbl:longitude":100.554721,
+    "lbl:max_zoom":18.0,
     "mps:latitude":13.744737,
     "mps:longitude":100.55575,
     "mz:hierarchy_label":1,
@@ -68,9 +69,6 @@
     "name:tha_x_preferred":[
         "\u0e16\u0e19\u0e19\u0e2a\u0e38\u0e02\u0e38\u0e21\u0e27\u0e34\u0e17"
     ],
-    "name:unk_x_variant":[
-        "Sukhumwit"
-    ],
     "name:zho_x_preferred":[
         "\u7d20\u5764\u9038\u8def"
     ],
@@ -102,7 +100,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85678739,
         102191569,
@@ -114,7 +112,6 @@
     "wof:concordances":{
         "gn:id":6695671,
         "gp:id":22724358,
-        "qs:id":1182466,
         "qs_pg:id":1182466,
         "wd:id":"Q1972305",
         "wk:page":"Sukhumvit Road"
@@ -135,7 +132,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563291772,
+    "wof:lastmodified":1566657690,
     "wof:name":"Sukhumwit",
     "wof:parent_id":102025263,
     "wof:placetype":"neighbourhood",

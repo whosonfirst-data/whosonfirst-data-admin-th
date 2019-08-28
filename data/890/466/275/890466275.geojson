@@ -11,7 +11,7 @@
     "geom:longitude":97.782298,
     "gn:country":"TH",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"TH",
     "label:eng_x_preferred_longname":[
         "Mae Sariang District"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":18.176159,
     "lbl:longitude":97.817358,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"MAE HONG SON",
     "meso:diss_me":"Mae SariangMAE HONG SON",
     "meso:gadm_admin":"Mae Sariang",
@@ -38,6 +40,7 @@
     "mps:longitude":97.817358,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ae\u09be\u09af\u09bc\u09c7 \u09b8\u09be\u09b0\u09bf\u09af\u09bc\u09be\u0982"
     ],
@@ -71,7 +74,7 @@
     "name:tha_x_variant":[
         "\u0e41\u0e21\u0e48\u0e2a\u0e30\u0e40\u0e23\u0e35\u0e22\u0e07"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Amphoe Mai Sariang"
     ],
     "name:urd_x_preferred":[
@@ -88,9 +91,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"2587",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -112,7 +115,7 @@
         "gn:id":1152189,
         "gp:id":28340834,
         "hasc:id":"TH.MH.MS",
-        "qs:id":1026842,
+        "qs_pg:id":1026842,
         "wd:id":"Q475960",
         "wk:page":"Mae Sariang District"
     },
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":890466275,
-    "wof:lastmodified":1563298374,
+    "wof:lastmodified":1566663254,
     "wof:name":"Mae Sariang",
     "wof:parent_id":85678555,
     "wof:placetype":"county",

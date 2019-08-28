@@ -5,21 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000732,
-    "geom:area_square_m":8782857.502943,
+    "geom:area_square_m":8782857.502945,
     "geom:bbox":"99.7301221684,13.9410198672,99.762370564,13.9724299071",
     "geom:latitude":13.958258,
     "geom:longitude":99.747815,
     "iso:country":"TH",
     "lbl:latitude":13.960398,
     "lbl:longitude":99.749121,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":13.960398,
     "mps:longitude":99.749121,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:tha_x_preferred":[
         "\u0e1a\u0e49\u0e32\u0e19\u0e17\u0e48\u0e32\u0e40\u0e23\u0e37\u0e2d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tharua"
     ],
     "qs:a1":"*",
@@ -33,7 +36,7 @@
     "qs:source":"Aquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":311,
     "wof:belongsto":[
         102191569,
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":102024413,
-    "wof:lastmodified":1527636430,
+    "wof:lastmodified":1566656315,
     "wof:name":"Ban Tha Ruea",
     "wof:parent_id":1108802755,
     "wof:placetype":"locality",

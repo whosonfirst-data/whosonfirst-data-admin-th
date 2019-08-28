@@ -11,10 +11,14 @@
     "geom:longitude":102.55063,
     "gn:country":"TH",
     "gn:fcode":"PPL",
-    "gn:pop":210,
+    "gn:population":210,
     "iso:country":"TH",
+    "lbl:bbox":"102.53063,11.61408,102.57063,11.65408",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0645\u0646\u0637\u0642\u0629 \u062e\u0644\u0648\u0646\u062c \u0633\u0627\u0646"
     ],
@@ -75,7 +79,7 @@
     "wof:concordances":{
         "gn:id":1602693,
         "gp:id":1225806,
-        "qs:id":85378,
+        "qs_pg:id":85378,
         "wk:page":"Khlong San District"
     },
     "wof:country":"TH",
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":890467045,
-    "wof:lastmodified":1564109660,
+    "wof:lastmodified":1566663227,
     "wof:name":"Ban Khlong Chao",
     "wof:parent_id":85678813,
     "wof:placetype":"locality",

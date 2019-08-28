@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000788,
-    "geom:area_square_m":9463618.217945,
+    "geom:area_square_m":9463618.217949,
     "geom:bbox":"100.599060059,13.6513248573,100.646438599,13.6806819304",
     "geom:latitude":13.666976,
     "geom:longitude":100.624463,
@@ -14,13 +14,17 @@
     "iso:country":"TH",
     "lbl:latitude":13.664669,
     "lbl:longitude":100.620873,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":13.664669,
     "mps:longitude":100.620873,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:tha_x_preferred":[
         "\u0e1a\u0e32\u0e07\u0e19\u0e32"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ban Bang Na"
     ],
     "qs:a0":"Thailand",
@@ -38,7 +42,7 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -49,7 +53,7 @@
     "wof:concordances":{
         "gn:id":1620755,
         "gp:id":28341424,
-        "qs:id":248765
+        "qs_pg:id":248765
     },
     "wof:country":"TH",
     "wof:geomhash":"0b8a375271a4499e6fd31cb1a8c685a9",
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":102025741,
-    "wof:lastmodified":1501221073,
+    "wof:lastmodified":1566656451,
     "wof:name":"Bang Na",
     "wof:parent_id":890465899,
     "wof:placetype":"locality",

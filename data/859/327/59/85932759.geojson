@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000244,
-    "geom:area_square_m":2925194.694005,
+    "geom:area_square_m":2925194.694004,
     "geom:bbox":"100.522008402,13.7553924888,100.537184128,13.7794015373",
     "geom:latitude":13.766712,
     "geom:longitude":100.529982,
@@ -13,6 +13,7 @@
     "iso:country":"TH",
     "lbl:latitude":13.764067,
     "lbl:longitude":100.529648,
+    "lbl:max_zoom":18.0,
     "mps:latitude":13.766463,
     "mps:longitude":100.530126,
     "mz:hierarchy_label":1,
@@ -25,9 +26,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":5,
     "name:eng_x_preferred":[
-        "Thung Phaya Thai"
-    ],
-    "name:unk_x_variant":[
         "Thung Phaya Thai"
     ],
     "qs:gn_adm0_cc":"TH",
@@ -57,7 +55,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85678739,
         102191569,
@@ -68,7 +66,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55948156,
-        "qs:id":1346135,
         "qs_pg:id":1346135
     },
     "wof:country":"TH",
@@ -87,7 +84,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527269310,
+    "wof:lastmodified":1566657690,
     "wof:name":"Thung Phaya Thai",
     "wof:parent_id":102025263,
     "wof:placetype":"neighbourhood",

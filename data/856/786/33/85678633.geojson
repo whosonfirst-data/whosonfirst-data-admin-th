@@ -28,6 +28,7 @@
     ],
     "lbl:latitude":18.796087,
     "lbl:longitude":100.834711,
+    "lbl:min_zoom":8.0,
     "mps:latitude":18.796087,
     "mps:longitude":100.834711,
     "mz:hierarchy_label":1,
@@ -199,9 +200,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u0440\u043e\u0432\u0456\u043d\u0446\u0456\u044f \u041d\u0430\u043d"
     ],
-    "name:unk_x_variant":[
-        "Changwat Nan"
-    ],
     "name:urd_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0646\u0627\u0646"
     ],
@@ -291,7 +289,7 @@
     "qs:type":"Province",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wikidata",
     "src:population_date":"2017",
     "statoids:area_km":"11,472",
@@ -318,7 +316,7 @@
         "gp:id":2347131,
         "hasc:id":"TH.NA",
         "iso:id":"TH-55",
-        "qs:id":319000,
+        "qs_pg:id":319000,
         "unlc:id":"TH-55",
         "wd:id":"Q244698",
         "wk:page":"Nan Province"
@@ -339,11 +337,10 @@
     "wof:lang_x_spoken":[
         "tha"
     ],
-    "wof:lastmodified":1565737055,
+    "wof:lastmodified":1566657713,
     "wof:name":"Nan",
     "wof:parent_id":85632293,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":479838,
     "wof:population_rank":10,

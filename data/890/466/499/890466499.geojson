@@ -11,7 +11,7 @@
     "geom:longitude":100.877595,
     "gn:country":"TH",
     "gn:fcode":"PPLA2",
-    "gn:pop":13244,
+    "gn:population":13244,
     "gp:adm0":23424960,
     "iso:country":"TH",
     "label:eng_x_preferred_longname":[
@@ -22,6 +22,8 @@
     ],
     "lbl:latitude":19.307342,
     "lbl:longitude":100.877519,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"NAN",
     "meso:diss_me":"Chiang KlangNAN",
     "meso:gadm_admin":"Chiang Klang",
@@ -35,6 +37,7 @@
     "meso:source":"AOTM",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u099a\u09bf\u09af\u09bc\u09be\u0982 \u0995\u09b2\u09be\u0982"
     ],
@@ -65,7 +68,7 @@
     "name:tha_x_variant":[
         "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e40\u0e0a\u0e35\u0e22\u0e07\u0e01\u0e25\u0e32\u0e07"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ban Chiang Klang"
     ],
     "name:urd_x_preferred":[
@@ -88,9 +91,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"277",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -112,7 +115,7 @@
         "gn:id":1611195,
         "gp:id":28340907,
         "hasc:id":"TH.NA.CK",
-        "qs:id":276731,
+        "qs_pg:id":276731,
         "wd:id":"Q475393",
         "wk:page":"Chiang Klang District"
     },
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":890466499,
-    "wof:lastmodified":1563298381,
+    "wof:lastmodified":1566663257,
     "wof:name":"Chiang Klang",
     "wof:parent_id":85678633,
     "wof:placetype":"county",

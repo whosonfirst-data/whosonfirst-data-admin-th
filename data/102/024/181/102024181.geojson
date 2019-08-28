@@ -12,10 +12,13 @@
     "iso:country":"TH",
     "lbl:latitude":19.364182,
     "lbl:longitude":99.201711,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.364182,
     "mps:longitude":99.201711,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Wiang Phrao"
     ],
@@ -25,10 +28,8 @@
     "name:tha_x_preferred":[
         "\u0e40\u0e17\u0e28\u0e1a\u0e32\u0e25\u0e15\u0e33\u0e1a\u0e25\u0e40\u0e27\u0e35\u0e22\u0e07\u0e1e\u0e23\u0e49\u0e32\u0e27"
     ],
-    "name:und_x_preferred":[
-        "Phrao"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
+        "Phrao",
         "Amphoe Phrao"
     ],
     "qs:a0":"Thailand",
@@ -46,7 +47,7 @@
     "qs:type":"Town",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":38,
     "wof:belongsto":[
         102191569,
@@ -59,7 +60,7 @@
         "fct:id":"07d4bdfa-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1151303,
         "gp:id":55945371,
-        "qs:id":1248759,
+        "qs_pg:id":1248759,
         "wd:id":"Q19001445"
     },
     "wof:country":"TH",
@@ -77,7 +78,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561758378,
+    "wof:lastmodified":1566656351,
     "wof:name":"Phrao",
     "wof:parent_id":1108802725,
     "wof:placetype":"locality",

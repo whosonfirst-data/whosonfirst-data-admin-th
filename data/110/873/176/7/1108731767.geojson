@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.549177,
     "lbl:longitude":101.362483,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"CHAOHOENGSAO",
     "meso:diss_me":"Plaeng YaoCHAOHOENGSAO",
     "meso:gadm_admin":"Plaeng Yao",
@@ -35,6 +37,7 @@
     "mps:longitude":101.362483,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bjn_x_preferred":[
         "Amphoe Plaeng Yao"
     ],
@@ -75,9 +78,9 @@
         "Plaeng Yao"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"237",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":1108731767,
-    "wof:lastmodified":1563296587,
+    "wof:lastmodified":1566661780,
     "wof:name":"Plaeng Yao",
     "wof:parent_id":85678797,
     "wof:placetype":"county",

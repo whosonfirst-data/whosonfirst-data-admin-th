@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000527,
+    "geom:area_square_m":6203613.456726,
     "geom:bbox":"102.399629202,17.8236743646,102.428098598,17.8570908065",
     "geom:latitude":17.841551,
     "geom:longitude":102.414356,
@@ -13,13 +14,17 @@
     "iso:country":"TH",
     "lbl:latitude":17.848054,
     "lbl:longitude":102.409394,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":17.848054,
     "mps:longitude":102.409394,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:tha_x_preferred":[
         "\u0e42\u0e1e\u0e18\u0e34\u0e4c\u0e15\u0e32\u0e01"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "King Amphoe Pho Tak"
     ],
     "qs:a0":"Thailand",
@@ -37,7 +42,7 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -47,7 +52,7 @@
     "wof:concordances":{
         "gn:id":8355830,
         "gp:id":28341041,
-        "qs:id":1164453
+        "qs_pg:id":1164453
     },
     "wof:country":"TH",
     "wof:geomhash":"725c1623f1bb3e7d615417db5a728018",
@@ -60,7 +65,7 @@
         }
     ],
     "wof:id":102026231,
-    "wof:lastmodified":1501273472,
+    "wof:lastmodified":1566656507,
     "wof:name":"Pho Tak",
     "wof:parent_id":85678859,
     "wof:placetype":"locality",

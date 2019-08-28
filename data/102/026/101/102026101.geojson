@@ -12,10 +12,13 @@
     "iso:country":"TH",
     "lbl:latitude":17.051533,
     "lbl:longitude":104.265747,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":17.051533,
     "mps:longitude":104.265747,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u0996\u09cb\u0995 \u09b8\u09bf \u09b8\u09c1\u09ab\u09be\u09a8"
     ],
@@ -64,7 +67,7 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":173,
     "wof:belongsto":[
         102191569,
@@ -77,7 +80,7 @@
         "fct:id":"07cf3042-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":7511007,
         "gp:id":28341058,
-        "qs:id":356706,
+        "qs_pg:id":356706,
         "wd:id":"Q475732"
     },
     "wof:country":"TH",
@@ -95,7 +98,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563290472,
+    "wof:lastmodified":1566656503,
     "wof:name":"Khok Si Suphan",
     "wof:parent_id":1108731395,
     "wof:placetype":"locality",

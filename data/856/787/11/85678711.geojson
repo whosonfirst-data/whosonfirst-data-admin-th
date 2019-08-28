@@ -28,6 +28,7 @@
     ],
     "lbl:latitude":14.039378,
     "lbl:longitude":101.618029,
+    "lbl:min_zoom":8.0,
     "mps:latitude":14.039378,
     "mps:longitude":101.618029,
     "mz:hierarchy_label":1,
@@ -192,7 +193,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0440\u043e\u0432\u0456\u043d\u0446\u0456\u044f \u041f\u0440\u0430\u0447\u0456\u043d\u0431\u0443\u0440\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Prachimburi"
     ],
     "name:urd_x_preferred":[
@@ -284,7 +285,7 @@
     "qs:type":"Province",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wikidata",
     "src:population_date":"2017",
     "statoids:area_km":"4,762",
@@ -311,7 +312,7 @@
         "gp:id":20069926,
         "hasc:id":"TH.PB",
         "iso:id":"TH-25",
-        "qs:id":1179341,
+        "qs_pg:id":1179341,
         "unlc:id":"TH-25",
         "wd:id":"Q321324",
         "wk:page":"Prachinburi Province"
@@ -332,11 +333,10 @@
     "wof:lang_x_spoken":[
         "tha"
     ],
-    "wof:lastmodified":1565737056,
+    "wof:lastmodified":1566657718,
     "wof:name":"Prachinburi",
     "wof:parent_id":85632293,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":487544,
     "wof:population_rank":10,

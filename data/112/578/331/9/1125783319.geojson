@@ -9,15 +9,18 @@
     "geom:bbox":"104.77856,17.41081,104.77856,17.41081",
     "geom:latitude":17.41081,
     "geom:longitude":104.77856,
-    "gn:gn_country":"TH",
-    "gn:gn_fcode":"PPLA",
-    "gn:gn_pop":34595,
+    "gn:country":"TH",
+    "gn:fcode":"PPLA",
     "gn:population":34595,
     "iso:country":"TH",
+    "lbl:bbox":"104.75856,17.39081,104.79856,17.43081",
     "lbl:latitude":17.41081,
     "lbl:longitude":104.77856,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ace_x_preferred":[
         "Propinsi Nakhon Phanom"
@@ -79,7 +82,7 @@
     "name:tha_x_variant":[
         "\u0e40\u0e17\u0e28\u0e1a\u0e32\u0e25\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e19\u0e04\u0e23\u0e1e\u0e19\u0e21"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ban Nakhon Phnom"
     ],
     "name:vie_x_preferred":[
@@ -110,7 +113,7 @@
     "qs_pg:woe_adm0":23424960,
     "qs_pg:woe_id":1225759,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424960,
     "woe:name_adm0":"Thailand",
@@ -142,7 +145,7 @@
         }
     ],
     "wof:id":1125783319,
-    "wof:lastmodified":1563298465,
+    "wof:lastmodified":1566663299,
     "wof:name":"Nakhon Phanom",
     "wof:parent_id":1108802675,
     "wof:placetype":"locality",

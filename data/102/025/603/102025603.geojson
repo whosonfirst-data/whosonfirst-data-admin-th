@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000447,
+    "geom:area_square_m":5342308.749366,
     "geom:bbox":"100.103623175,14.7923988148,100.122206872,14.8210996536",
     "geom:latitude":14.806749,
     "geom:longitude":100.112915,
@@ -13,13 +14,17 @@
     "iso:country":"TH",
     "lbl:latitude":14.806749,
     "lbl:longitude":100.112915,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":14.806749,
     "mps:longitude":100.112915,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:tha_x_preferred":[
         "\u0e1a\u0e49\u0e32\u0e19\u0e19\u0e32\u0e07\u0e1a\u0e27\u0e0a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nang Buat"
     ],
     "qs:a0":"Thailand",
@@ -37,7 +42,7 @@
     "qs:type":"Town",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -47,7 +52,7 @@
     "wof:concordances":{
         "gn:id":1616204,
         "gp:id":55945335,
-        "qs:id":384800
+        "qs_pg:id":384800
     },
     "wof:country":"TH",
     "wof:geomhash":"1e518f15b176add260ee40586727fb17",
@@ -60,7 +65,7 @@
         }
     ],
     "wof:id":102025603,
-    "wof:lastmodified":1501221068,
+    "wof:lastmodified":1566656438,
     "wof:name":"Ban Nang Buat",
     "wof:parent_id":85678679,
     "wof:placetype":"locality",

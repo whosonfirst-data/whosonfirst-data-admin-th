@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":7.935878,
     "lbl:longitude":99.676813,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"TRANG",
     "meso:diss_me":"RatsadaTRANG",
     "meso:gadm_admin":"Rasada",
@@ -35,6 +37,7 @@
     "mps:longitude":99.676813,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09b0\u09be\u09a4\u09b8\u09be\u09a6\u09be"
     ],
@@ -78,9 +81,9 @@
         "Ratsada"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"232",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":1108731803,
-    "wof:lastmodified":1563296479,
+    "wof:lastmodified":1566661723,
     "wof:name":"Ratsada",
     "wof:parent_id":85678609,
     "wof:placetype":"county",

@@ -15,10 +15,13 @@
     "iso:country":"TH",
     "lbl:latitude":17.030525,
     "lbl:longitude":101.969605,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mps:latitude":17.030525,
     "mps:longitude":101.969605,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":5.0,
     "name:ace_x_preferred":[
         "Propinsi Loei"
     ],
@@ -183,7 +186,7 @@
     "qs:source":"Aquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -195,7 +198,7 @@
         "fct:id":"07cdb44c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1609070,
         "gp:id":2347145,
-        "qs:id":1030568,
+        "qs_pg:id":1030568,
         "wd:id":"Q275388",
         "wk:page":"Loei Province"
     },
@@ -210,7 +213,7 @@
         }
     ],
     "wof:id":102025231,
-    "wof:lastmodified":1563290427,
+    "wof:lastmodified":1566656473,
     "wof:name":"Changwat Loei",
     "wof:parent_id":85678853,
     "wof:placetype":"locality",

@@ -11,7 +11,7 @@
     "geom:longitude":100.653076,
     "gn:country":"TH",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"TH",
     "label:eng_x_preferred_longname":[
         "Song Kwai District"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":19.396767,
     "lbl:longitude":100.655471,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"NAN",
     "meso:diss_me":"Song KwaiNAN",
     "meso:gadm_admin":"Song Kwae",
@@ -38,6 +40,7 @@
     "mps:longitude":100.655471,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09b8\u09cb\u0982 \u0996\u09f1\u09be\u09af\u09bc\u09c7"
     ],
@@ -73,7 +76,7 @@
         "\u0e2a\u0e2d\u0e07\u0e41\u0e04\u0e27",
         "\u0e01\u0e34\u0e48\u0e07\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e2a\u0e2d\u0e07\u0e41\u0e04\u0e27"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Amphoe Song Khwaeo"
     ],
     "name:urd_x_preferred":[
@@ -90,9 +93,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"544",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -114,7 +117,7 @@
         "gn:id":7510699,
         "gp:id":28341730,
         "hasc:id":"TH.NA.SK",
-        "qs:id":1041649,
+        "qs_pg:id":1041649,
         "wd:id":"Q382806",
         "wk:page":"Song Khwae District"
     },
@@ -130,7 +133,7 @@
         }
     ],
     "wof:id":890466413,
-    "wof:lastmodified":1563298363,
+    "wof:lastmodified":1566663249,
     "wof:name":"Song Kwai",
     "wof:parent_id":85678633,
     "wof:placetype":"county",

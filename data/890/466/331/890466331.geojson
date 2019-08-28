@@ -11,10 +11,14 @@
     "geom:longitude":98.81035,
     "gn:country":"TH",
     "gn:fcode":"PPL",
-    "gn:pop":8000,
+    "gn:population":8000,
     "iso:country":"TH",
+    "lbl:bbox":"98.79035,8.0258,98.83035,8.0658",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Ao Nang"
     ],
@@ -38,7 +42,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1158377,
-        "qs:id":1030344
+        "qs_pg:id":1030344
     },
     "wof:country":"TH",
     "wof:created":1469053574,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":890466331,
-    "wof:lastmodified":1505343707,
+    "wof:lastmodified":1566663240,
     "wof:name":"Ban Ao Nang",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

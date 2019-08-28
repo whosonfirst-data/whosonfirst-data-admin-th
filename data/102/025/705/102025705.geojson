@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00002,
-    "geom:area_square_m":243925.277115,
+    "geom:area_square_m":243925.277114,
     "geom:bbox":"100.597686768,13.8500805145,100.626525879,13.8540805695",
     "geom:latitude":13.852317,
     "geom:longitude":100.605028,
@@ -14,10 +14,14 @@
     "iso:country":"TH",
     "lbl:latitude":13.852231,
     "lbl:longitude":100.600403,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":13.852231,
     "mps:longitude":100.600403,
     "mz:hierarchy_label":1,
-    "name:unk_x_variant":[
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Ban Khaen"
     ],
     "qs:a0":"Thailand",
@@ -35,7 +39,7 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -48,7 +52,7 @@
     "wof:concordances":{
         "gn:id":1619506,
         "gp:id":28341421,
-        "qs:id":1151412
+        "qs_pg:id":1151412
     },
     "wof:country":"TH",
     "wof:geomhash":"7e61c221f59844af37a381cd7702aded",
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":102025705,
-    "wof:lastmodified":1501221071,
+    "wof:lastmodified":1566656453,
     "wof:name":"Bang Khen",
     "wof:parent_id":890466393,
     "wof:placetype":"locality",

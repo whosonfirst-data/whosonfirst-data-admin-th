@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.684294,
     "lbl:longitude":99.980016,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"RATCHABURI",
     "meso:diss_me":"Bang PhaeRATCHABURI",
     "meso:gadm_admin":"Bang Phae",
@@ -35,6 +37,7 @@
     "mps:longitude":99.980016,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ac\u09cd\u09af\u09be\u0982 \u09ab\u09be\u09af\u09bc\u09c7"
     ],
@@ -66,9 +69,9 @@
         "Bang Phae"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"173",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":1108731169,
-    "wof:lastmodified":1563296489,
+    "wof:lastmodified":1566661729,
     "wof:name":"Bang Phae",
     "wof:parent_id":85678761,
     "wof:placetype":"county",

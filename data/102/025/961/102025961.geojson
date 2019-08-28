@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000262,
+    "geom:area_square_m":3133943.630016,
     "geom:bbox":"100.290393651,14.7499081729,100.308971547,14.76798633",
     "geom:latitude":14.758947,
     "geom:longitude":100.299683,
@@ -13,10 +14,14 @@
     "iso:country":"TH",
     "lbl:latitude":14.758947,
     "lbl:longitude":100.299683,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":14.758947,
     "mps:longitude":100.299683,
     "mz:hierarchy_label":1,
-    "name:unk_x_variant":[
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "\u0e41\u0e2a\u0e27\u0e07\u0e2b\u0e32"
     ],
     "qs:a1":"*",
@@ -32,7 +37,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -41,7 +46,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7510903,
-        "qs:id":1245640,
         "qs_pg:id":1245640
     },
     "wof:country":"TH",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":102025961,
-    "wof:lastmodified":1497292798,
+    "wof:lastmodified":1566656453,
     "wof:name":"Sawaengha",
     "wof:parent_id":85678691,
     "wof:placetype":"locality",

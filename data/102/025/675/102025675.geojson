@@ -14,11 +14,14 @@
     "iso:country":"TH",
     "lbl:latitude":13.677639,
     "lbl:longitude":100.739393,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":13.677639,
     "mps:longitude":100.739393,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Amphoe Bang Phli"
     ],
     "qs:a0":"Thailand",
@@ -38,7 +41,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -49,7 +52,6 @@
     "wof:concordances":{
         "gn:id":1619347,
         "gp:id":1226300,
-        "qs:id":809669,
         "qs_pg:id":809669
     },
     "wof:country":"TH",
@@ -64,7 +66,7 @@
         }
     ],
     "wof:id":102025675,
-    "wof:lastmodified":1535389657,
+    "wof:lastmodified":1566656421,
     "wof:name":"Bang Phli",
     "wof:parent_id":890467329,
     "wof:placetype":"locality",

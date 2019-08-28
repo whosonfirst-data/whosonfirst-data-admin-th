@@ -11,8 +11,12 @@
     "geom:longitude":99.941381,
     "gp:adm0":23424960,
     "iso:country":"TH",
+    "lbl:bbox":"99.921381,13.026703,99.961381,13.066703",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Ban Lat"
     ],
@@ -42,7 +46,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1209610,
-        "qs:id":992025,
+        "qs_pg:id":992025,
         "wd:id":"Q13025243",
         "wk:page":"Ban Lat District"
     },
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":890467367,
-    "wof:lastmodified":1561758886,
+    "wof:lastmodified":1566663226,
     "wof:name":"Ban Lat",
     "wof:parent_id":85678753,
     "wof:placetype":"locality",

@@ -11,7 +11,7 @@
     "geom:longitude":104.63012,
     "gn:country":"TH",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424960,
     "iso:country":"TH",
     "label:eng_x_preferred_longname":[
@@ -22,6 +22,8 @@
     ],
     "lbl:latitude":16.57229,
     "lbl:longitude":104.626953,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"MUKDAHAN",
     "meso:diss_me":"Muang MukdahanMUKDAHAN",
     "meso:gadm_admin":"Muang Mukdahan",
@@ -39,6 +41,7 @@
     "mps:longitude":104.626953,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ae\u09c1\u09af\u09bc\u09c7\u0982 \u09ae\u09c1\u0995\u09a6\u09be\u09b9\u09be\u09a8"
     ],
@@ -73,7 +76,7 @@
     "name:tha_x_variant":[
         "\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e21\u0e38\u0e01\u0e14\u0e32\u0e2b\u0e32\u0e23"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Amphoe Mueng Mukdahan"
     ],
     "name:urd_x_preferred":[
@@ -97,9 +100,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"1235",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -121,7 +124,7 @@
         "gn:id":1608596,
         "gp:id":28341183,
         "hasc:id":"TH.MD.MU",
-        "qs:id":203813,
+        "qs_pg:id":203813,
         "wd:id":"Q476032",
         "wk:page":"Mueang Mukdahan District"
     },
@@ -137,7 +140,7 @@
         }
     ],
     "wof:id":890467231,
-    "wof:lastmodified":1563298327,
+    "wof:lastmodified":1566663231,
     "wof:name":"Muang Mukdahan",
     "wof:parent_id":85678881,
     "wof:placetype":"county",

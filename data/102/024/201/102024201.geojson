@@ -14,6 +14,8 @@
     "iso:country":"TH",
     "lbl:latitude":8.453701,
     "lbl:longitude":98.53436,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":8.453701,
     "mps:longitude":98.53436,
     "mz:hierarchy_label":1,
@@ -64,7 +66,7 @@
     "name:tha_x_variant":[
         "\u0e1e\u0e31\u0e07\u0e07\u0e32"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Changwat Phangnga"
     ],
     "name:urd_x_preferred":[
@@ -196,7 +198,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":167,
     "wof:belongsto":[
@@ -207,10 +209,12 @@
     "wof:concordances":{
         "gn:id":1151464,
         "gp:id":1226085,
-        "qs:id":215730,
-        "qs_pg:id":276001,
+        "qs_pg:id":215730,
         "wd:id":"Q204587",
         "wk:page":"Phang Nga"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":276001
     },
     "wof:country":"TH",
     "wof:geomhash":"474a235b54eb2432ceae90d96beedf81",
@@ -222,7 +226,7 @@
         }
     ],
     "wof:id":102024201,
-    "wof:lastmodified":1563290299,
+    "wof:lastmodified":1566656389,
     "wof:name":"Phangnga",
     "wof:parent_id":890466041,
     "wof:placetype":"locality",

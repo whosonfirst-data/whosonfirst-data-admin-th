@@ -11,7 +11,7 @@
     "geom:longitude":100.728833,
     "gn:country":"TH",
     "gn:fcode":"PPLA2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424960,
     "iso:country":"TH",
     "label:eng_x_preferred_longname":[
@@ -22,6 +22,8 @@
     ],
     "lbl:latitude":17.698178,
     "lbl:longitude":100.708056,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"UTTARADIT",
     "meso:diss_me":"Nam PatUTTARADIT",
     "meso:gadm_admin":"Nam Pat",
@@ -35,6 +37,7 @@
     "meso:source":"AOTM",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09a8\u09be\u09ae \u09aa\u09be\u09a4"
     ],
@@ -60,9 +63,6 @@
         "\u0e19\u0e49\u0e33\u0e1b\u0e32\u0e14",
         "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e19\u0e49\u0e33\u0e1b\u0e32\u0e14"
     ],
-    "name:unk_x_variant":[
-        "Amphoe Nam Pat"
-    ],
     "name:vie_x_preferred":[
         "Nam Pat"
     ],
@@ -80,9 +80,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"1449",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -104,7 +104,7 @@
         "gn:id":1608483,
         "gp:id":28340927,
         "hasc:id":"TH.UD.NP",
-        "qs:id":246408,
+        "qs_pg:id":246408,
         "wd:id":"Q476188",
         "wk:page":"Nam Pat District"
     },
@@ -120,7 +120,7 @@
         }
     ],
     "wof:id":890467459,
-    "wof:lastmodified":1561758887,
+    "wof:lastmodified":1566663233,
     "wof:name":"Nam Pat",
     "wof:parent_id":85678657,
     "wof:placetype":"county",

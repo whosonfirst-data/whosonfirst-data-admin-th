@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00076,
-    "geom:area_square_m":9160960.148543,
+    "geom:area_square_m":9160960.148554,
     "geom:bbox":"102.125197725,12.7331267855,102.165573239,12.7833351324",
     "geom:latitude":12.756665,
     "geom:longitude":102.145251,
@@ -14,14 +14,17 @@
     "iso:country":"TH",
     "lbl:latitude":12.75288,
     "lbl:longitude":102.156,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":12.75288,
     "mps:longitude":102.156,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:tha_x_preferred":[
         "\u0e1a\u0e49\u0e32\u0e19\u0e27\u0e31\u0e07\u0e41\u0e0b\u0e49\u0e21"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Wang Saem"
     ],
     "qs:a1":"*",
@@ -35,7 +38,7 @@
     "qs:source":"Aquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":102025531,
-    "wof:lastmodified":1501221065,
+    "wof:lastmodified":1566656459,
     "wof:name":"Ban Wang Saem",
     "wof:parent_id":1108802661,
     "wof:placetype":"locality",

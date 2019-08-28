@@ -15,10 +15,13 @@
     "iso:country":"TH",
     "lbl:latitude":14.667022,
     "lbl:longitude":101.376566,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":14.667022,
     "mps:longitude":101.376566,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09aa\u09be\u0995 \u099a\u09cb\u0982"
     ],
@@ -51,9 +54,6 @@
         "\u0e1b\u0e32\u0e01\u0e0a\u0e48\u0e2d\u0e07",
         "\u0e40\u0e17\u0e28\u0e1a\u0e32\u0e25\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e1b\u0e32\u0e01\u0e0a\u0e48\u0e2d\u0e07"
     ],
-    "name:unk_x_variant":[
-        "Ban Par Chong"
-    ],
     "name:vie_x_preferred":[
         "Pak Chong"
     ],
@@ -75,7 +75,7 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":639,
     "wof:belongsto":[
@@ -88,7 +88,7 @@
         "fct:id":"07cf4136-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1608057,
         "gp:id":28341307,
-        "qs:id":480054,
+        "qs_pg:id":480054,
         "wd:id":"Q13025371"
     },
     "wof:country":"TH",
@@ -105,7 +105,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563290352,
+    "wof:lastmodified":1566656425,
     "wof:name":"Pak Chong",
     "wof:parent_id":85678841,
     "wof:placetype":"locality",

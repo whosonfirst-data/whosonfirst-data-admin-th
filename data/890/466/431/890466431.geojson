@@ -19,6 +19,8 @@
     ],
     "lbl:latitude":12.799882,
     "lbl:longitude":99.788434,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"PHETCHABURI",
     "meso:diss_me":"Tha YangPHETCHABURI",
     "meso:gadm_admin":"Tha Yang",
@@ -32,6 +34,7 @@
     "meso:source":"AOTM",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09a5\u09be \u09af\u09bc\u09be\u0982"
     ],
@@ -82,9 +85,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"737",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -105,7 +108,7 @@
     "wof:concordances":{
         "gp:id":28341567,
         "hasc:id":"TH.PE.TY",
-        "qs:id":1063313,
+        "qs_pg:id":1063313,
         "wd:id":"Q476867",
         "wk:page":"Tha Yang District"
     },
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":890466431,
-    "wof:lastmodified":1563298385,
+    "wof:lastmodified":1566663258,
     "wof:name":"Tha Yang",
     "wof:parent_id":85678753,
     "wof:placetype":"county",

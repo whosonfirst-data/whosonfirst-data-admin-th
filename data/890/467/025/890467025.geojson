@@ -11,11 +11,15 @@
     "geom:longitude":101.0562,
     "gn:country":"TH",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424960,
     "iso:country":"TH",
+    "lbl:bbox":"101.0362,13.44147,101.0762,13.48147",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Ban Kao"
     ],
@@ -31,7 +35,7 @@
     "name:tha_x_variant":[
         "\u0e15\u0e33\u0e1a\u0e25\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e01\u0e48\u0e32"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tha Cham Bon"
     ],
     "qs:name":"Ban Kao",
@@ -54,7 +58,7 @@
     "wof:concordances":{
         "gn:id":1618631,
         "gp:id":1205560,
-        "qs:id":1164332,
+        "qs_pg:id":1164332,
         "wd:id":"Q24082257",
         "wk:page":"Ban Kao"
     },
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":890467025,
-    "wof:lastmodified":1563298295,
+    "wof:lastmodified":1566663215,
     "wof:name":"Ban Kao",
     "wof:parent_id":85678795,
     "wof:placetype":"locality",

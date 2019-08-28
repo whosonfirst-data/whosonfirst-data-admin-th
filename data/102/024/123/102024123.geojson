@@ -12,10 +12,13 @@
     "iso:country":"TH",
     "lbl:latitude":14.395475,
     "lbl:longitude":99.121745,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":14.395475,
     "mps:longitude":99.121745,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09b8\u09bf \u09b8\u09be\u09f1\u09be\u09a4"
     ],
@@ -49,9 +52,6 @@
     "name:tha_x_variant":[
         "\u0e28\u0e23\u0e35\u0e2a\u0e27\u0e31\u0e2a\u0e14\u0e34\u0e4c"
     ],
-    "name:unk_x_variant":[
-        "Amphoe Si Sawat"
-    ],
     "name:urd_x_preferred":[
         "\u0633\u06cc \u0633\u0627\u0648\u0627\u062a \u0636\u0644\u0639"
     ],
@@ -76,7 +76,7 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":187,
     "wof:belongsto":[
         102191569,
@@ -88,7 +88,7 @@
     "wof:concordances":{
         "gn:id":1150622,
         "gp:id":28341445,
-        "qs:id":25709,
+        "qs_pg:id":25709,
         "wd:id":"Q476718"
     },
     "wof:country":"TH",
@@ -103,7 +103,7 @@
         }
     ],
     "wof:id":102024123,
-    "wof:lastmodified":1563290310,
+    "wof:lastmodified":1566656395,
     "wof:name":"Si Sawat",
     "wof:parent_id":890466317,
     "wof:placetype":"locality",

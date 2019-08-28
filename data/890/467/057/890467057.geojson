@@ -11,10 +11,14 @@
     "geom:longitude":102.53333,
     "gn:country":"TH",
     "gn:fcode":"PPL",
-    "gn:pop":287,
+    "gn:population":287,
     "iso:country":"TH",
+    "lbl:bbox":"102.51333,11.66333,102.55333,11.70333",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:rus_x_preferred":[
         "\u0421\u0430\u043b\u0430\u043a-\u0410\u0443\u043d"
     ],
@@ -31,7 +35,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1601811,
-        "qs:id":85382
+        "qs_pg:id":85382
     },
     "wof:country":"TH",
     "wof:created":1469053610,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":890467057,
-    "wof:lastmodified":1505343709,
+    "wof:lastmodified":1566663232,
     "wof:name":"Salak Aun",
     "wof:parent_id":85678813,
     "wof:placetype":"locality",

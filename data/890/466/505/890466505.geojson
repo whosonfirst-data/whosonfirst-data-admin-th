@@ -11,7 +11,12 @@
     "geom:longitude":103.110637,
     "gp:adm0":23424960,
     "iso:country":"TH",
+    "lbl:bbox":"103.090637,14.972794,103.130637,15.012794",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:name":"I-San",
     "qs:name_adm0":"Thailand",
     "qs:name_adm1":"Buriram",
@@ -31,11 +36,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55945949,
-        "qs:id":71224
+        "qs_pg:id":71224
     },
     "wof:country":"TH",
     "wof:created":1469053582,
-    "wof:geomhash":"303d77139e061d13439913a67816c610",
+    "wof:geomhash":"d4fa3836414499c075f80e80fb86f920",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -45,7 +50,7 @@
         }
     ],
     "wof:id":890466505,
-    "wof:lastmodified":1469053582,
+    "wof:lastmodified":1566663243,
     "wof:name":"I-San",
     "wof:parent_id":85678817,
     "wof:placetype":"locality",

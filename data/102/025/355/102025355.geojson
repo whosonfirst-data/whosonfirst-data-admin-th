@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000265,
-    "geom:area_square_m":3132982.267774,
+    "geom:area_square_m":3132982.267771,
     "geom:bbox":"103.619152832,16.8953907716,103.637927286,16.9134648301",
     "geom:latitude":16.904428,
     "geom:longitude":103.62854,
@@ -14,17 +14,20 @@
     "iso:country":"TH",
     "lbl:latitude":16.904428,
     "lbl:longitude":103.62854,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":16.904428,
     "mps:longitude":103.62854,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kham Muang"
     ],
     "name:tha_x_preferred":[
         "\u0e04\u0e33\u0e21\u0e48\u0e27\u0e07"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "King Amphoe Kham Muang"
     ],
     "qs:a0":"Thailand",
@@ -42,7 +45,7 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -54,7 +57,7 @@
         "fct:id":"07cf2c64-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1610081,
         "gp:id":28341146,
-        "qs:id":1187328
+        "qs_pg:id":1187328
     },
     "wof:country":"TH",
     "wof:geomhash":"1705a19f43c31d8bb75178eae80dc432",
@@ -71,7 +74,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1501221056,
+    "wof:lastmodified":1566656419,
     "wof:name":"Kham Muang",
     "wof:parent_id":1108802615,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001653,
-    "geom:area_square_m":19703924.299023,
+    "geom:area_square_m":19703924.299031,
     "geom:bbox":"99.8728804392,15.4393457297,99.9244817843,15.489191052",
     "geom:latitude":15.461066,
     "geom:longitude":99.893603,
@@ -13,10 +13,13 @@
     "iso:country":"TH",
     "lbl:latitude":15.462799,
     "lbl:longitude":99.888933,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":15.462799,
     "mps:longitude":99.888933,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:eng_x_preferred":[
         "Thap Than"
     ],
@@ -27,9 +30,6 @@
     ],
     "name:tha_x_preferred":[
         "\u0e17\u0e31\u0e1e\u0e17\u0e31\u0e19"
-    ],
-    "name:unk_x_variant":[
-        "Amphu Tap Tan"
     ],
     "qs:a0":"Thailand",
     "qs:a1":"*Uthai Thani",
@@ -48,7 +48,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":194,
     "wof:belongsto":[
@@ -62,7 +62,6 @@
         "fct:id":"07cf569e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1150210,
         "gp:id":1225705,
-        "qs:id":276005,
         "qs_pg:id":276005
     },
     "wof:country":"TH",
@@ -80,7 +79,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636432,
+    "wof:lastmodified":1566656322,
     "wof:name":"Thap Than",
     "wof:parent_id":1108732011,
     "wof:placetype":"locality",

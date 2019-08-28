@@ -11,11 +11,15 @@
     "geom:longitude":99.94848,
     "gn:country":"TH",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424960,
     "iso:country":"TH",
+    "lbl:bbox":"99.92848,7.80491,99.96848,7.84491",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:tha_x_preferred":[
         "\u0e1a\u0e49\u0e32\u0e19\u0e1e\u0e23\u0e49\u0e32\u0e27"
     ],
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":8203605,
         "gp:id":55944626,
-        "qs:id":359380
+        "qs_pg:id":359380
     },
     "wof:country":"TH",
     "wof:created":1469053568,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":890466171,
-    "wof:lastmodified":1505343706,
+    "wof:lastmodified":1566663296,
     "wof:name":"Ban Phrao",
     "wof:parent_id":85678591,
     "wof:placetype":"locality",

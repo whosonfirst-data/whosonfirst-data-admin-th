@@ -9,17 +9,19 @@
     "geom:bbox":"99.730123868,13.8557057583,99.8281681496,13.9910870315",
     "geom:latitude":13.904374,
     "geom:longitude":99.781472,
-    "gn:gn_country":"TH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":52907,
+    "gn:country":"TH",
+    "gn:fcode":"PPL",
     "gn:population":52907,
     "iso:country":"TH",
     "lbl:latitude":13.909636,
     "lbl:longitude":99.76176,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":13.909636,
     "mps:longitude":99.76176,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":8.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09a5\u09be \u09ae\u09be\u0995\u09be"
     ],
@@ -53,7 +55,7 @@
     "name:tha_x_variant":[
         "\u0e17\u0e48\u0e32\u0e21\u0e30\u0e01\u0e32"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dh\u0101mak\u0101"
     ],
     "name:urd_x_preferred":[
@@ -98,7 +100,7 @@
     "qs_pg:woe_id":1225691,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":250,
     "wof:belongsto":[
@@ -111,13 +113,13 @@
     "wof:concordances":{
         "gn:id":1154519,
         "gp:id":28341442,
-        "qs:id":488436,
         "qs_pg:id":193740,
         "wd:id":"Q476837"
     },
     "wof:concordances_alt":{
         "gn:id":1150275,
-        "gp:id":1225691
+        "gp:id":1225691,
+        "qs_pg:id":488436
     },
     "wof:country":"TH",
     "wof:geomhash":"2e2cc3a440781bafaaeff2c440563865",
@@ -131,7 +133,7 @@
         }
     ],
     "wof:id":102024415,
-    "wof:lastmodified":1563290206,
+    "wof:lastmodified":1566656322,
     "wof:name":"Tha Maka",
     "wof:parent_id":1108802755,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"TH",
     "lbl:latitude":19.903838,
     "lbl:longitude":99.206561,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":19.903838,
     "mps:longitude":99.206561,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Slagtand"
     ],
@@ -66,9 +69,6 @@
     "name:tha_x_preferred":[
         "\u0e1d\u0e32\u0e07"
     ],
-    "name:unk_x_variant":[
-        "Moeang Fhang"
-    ],
     "name:vie_x_preferred":[
         "Nanh"
     ],
@@ -89,7 +89,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":236,
     "wof:belongsto":[
@@ -103,9 +103,11 @@
         "fct:id":"07cf28ea-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1151303,
         "gp:id":55945371,
-        "qs:id":1113735,
-        "qs_pg:id":1248759,
+        "qs_pg:id":1113735,
         "wd:id":"Q1940269"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1248759
     },
     "wof:country":"TH",
     "wof:geomhash":"54d6b9d2a4bedeb7f5f4e13c5f079a89",
@@ -122,7 +124,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563290249,
+    "wof:lastmodified":1566656354,
     "wof:name":"Fang",
     "wof:parent_id":890466211,
     "wof:placetype":"locality",

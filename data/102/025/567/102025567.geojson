@@ -14,10 +14,13 @@
     "iso:country":"TH",
     "lbl:latitude":19.523553,
     "lbl:longitude":100.925903,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.523553,
     "mps:longitude":100.925903,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Sahatsakhan"
     ],
@@ -28,7 +31,7 @@
     "name:tha_x_preferred":[
         "\u0e1a\u0e49\u0e32\u0e19\u0e42\u0e1e\u0e19"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Amphoe Sahatkhan"
     ],
     "qs:a1":"*",
@@ -42,7 +45,7 @@
     "qs:source":"Aquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -70,7 +73,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1501221067,
+    "wof:lastmodified":1566656411,
     "wof:name":"Ban Phon",
     "wof:parent_id":890465941,
     "wof:placetype":"locality",

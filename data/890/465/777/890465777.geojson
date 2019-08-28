@@ -11,10 +11,14 @@
     "geom:longitude":102.72558,
     "gn:country":"TH",
     "gn:fcode":"PPLA2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"TH",
+    "lbl:bbox":"102.70558,14.41817,102.74558,14.45817",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09aa\u09be\u0996\u09be\u09ae"
     ],
@@ -39,7 +43,7 @@
     "name:tha_x_preferred":[
         "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e1b\u0e30\u0e04\u0e33"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "\u0e1b\u0e30\u0e04\u0e33"
     ],
     "name:urd_x_preferred":[
@@ -63,7 +67,7 @@
     "wof:concordances":{
         "gn:id":7510957,
         "gp:id":1225606,
-        "qs:id":1041712,
+        "qs_pg:id":1041712,
         "wd:id":"Q476341",
         "wk:page":"Pakham District"
     },
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":890465777,
-    "wof:lastmodified":1563298265,
+    "wof:lastmodified":1566663197,
     "wof:name":"Pa Kham",
     "wof:parent_id":85678817,
     "wof:placetype":"locality",

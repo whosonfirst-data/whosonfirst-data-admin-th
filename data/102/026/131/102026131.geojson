@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000264,
-    "geom:area_square_m":3132812.170018,
+    "geom:area_square_m":3132812.170021,
     "geom:bbox":"100.499058725,16.432316833,100.517786935,16.4503906057",
     "geom:latitude":16.441354,
     "geom:longitude":100.508423,
     "iso:country":"TH",
     "lbl:latitude":16.441354,
     "lbl:longitude":100.508423,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":16.441354,
     "mps:longitude":100.508423,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a1":"*",
     "qs:a1r":"*",
     "qs:id":0,
@@ -28,7 +32,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -39,7 +43,6 @@
     "wof:concordances":{
         "gn:id":7511054,
         "gp:id":55945092,
-        "qs:id":1154794,
         "qs_pg:id":1154794,
         "wk:page":"Quilchena"
     },
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":102026131,
-    "wof:lastmodified":1497295742,
+    "wof:lastmodified":1566656502,
     "wof:name":"Wang Sai Phun",
     "wof:parent_id":890466721,
     "wof:placetype":"locality",

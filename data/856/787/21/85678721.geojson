@@ -28,6 +28,7 @@
     ],
     "lbl:latitude":14.316377,
     "lbl:longitude":100.582302,
+    "lbl:min_zoom":8.0,
     "mps:latitude":14.316377,
     "mps:longitude":100.582302,
     "mz:hierarchy_label":1,
@@ -174,7 +175,7 @@
         "Ayutthaya"
     ],
     "name:tam_x_preferred":[
-        "\u0baa\u0bbf\u0bb1\u0b8e  \u0ba8\u0b95\u0bcd\u0bb9\u0bcb\u0ba9\u0bcd  \u0b9a\u0bbf  \u0b86\u0baf\u0bc1\u0b9f\u0bcd\u0ba4\u0baf\u0bbe"
+        "\u0baa\u0bbf\u0bb1\u0b8e \u0ba8\u0b95\u0bcd\u0bb9\u0bcb\u0ba9\u0bcd \u0b9a\u0bbf \u0b86\u0baf\u0bc1\u0b9f\u0bcd\u0ba4\u0baf\u0bbe"
     ],
     "name:tel_x_preferred":[
         "\u0c2b\u0c4d\u0c30\u0c3e \u0c28\u0c3e\u0c16\u0c4b\u0c28\u0c4d \u0c38\u0c3f \u0c05\u0c2f\u0c41\u0c24\u0c3e\u0c2f\u0c3e"
@@ -194,7 +195,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0440\u043e\u0432\u0456\u043d\u0446\u0456\u044f \u0410\u044e\u0442\u0442\u0445\u0430\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bangkok"
     ],
     "name:urd_x_preferred":[
@@ -283,7 +284,7 @@
     "qs:type":"Province",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wikidata",
     "src:population_date":"2017",
     "statoids:area_km":"2,557",
@@ -311,7 +312,7 @@
         "gp:id":2347161,
         "hasc:id":"TH.PA",
         "iso:id":"TH-14",
-        "qs:id":9270,
+        "qs_pg:id":9270,
         "unlc:id":"TH-14",
         "wd:id":"Q476222",
         "wk:page":"Phra Nakhon Si Ayutthaya Province"
@@ -332,11 +333,10 @@
     "wof:lang_x_spoken":[
         "tha"
     ],
-    "wof:lastmodified":1565737056,
+    "wof:lastmodified":1566657718,
     "wof:name":"Phra Nakhon Si Ayutthaya",
     "wof:parent_id":85632293,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":813852,
     "wof:population_rank":11,

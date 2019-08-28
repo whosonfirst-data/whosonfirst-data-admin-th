@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000091,
-    "geom:area_square_m":1089430.899226,
+    "geom:area_square_m":1089430.899227,
     "geom:bbox":"100.529045598,13.7783711175,100.536889351,13.8021147124",
     "geom:latitude":13.790624,
     "geom:longitude":100.53277,
@@ -14,6 +14,7 @@
     "iso:country":"TH",
     "lbl:latitude":13.793708,
     "lbl:longitude":100.533985,
+    "lbl:max_zoom":18.0,
     "mps:latitude":13.798074,
     "mps:longitude":100.533116,
     "mz:hierarchy_label":1,
@@ -33,9 +34,6 @@
     ],
     "name:tha_x_preferred":[
         "\u0e2a\u0e32\u0e21\u0e40\u0e2a\u0e19"
-    ],
-    "name:unk_x_variant":[
-        "Sam Sen"
     ],
     "qs:gn_adm0_cc":"TH",
     "qs:gn_fcode":"PPLX",
@@ -65,7 +63,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85678739,
         102191569,
@@ -79,7 +77,6 @@
     "wof:concordances":{
         "gn:id":1606609,
         "gp:id":1225629,
-        "qs:id":1146033,
         "qs_pg:id":1146033
     },
     "wof:country":"TH",
@@ -98,7 +95,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1497317867,
+    "wof:lastmodified":1566657686,
     "wof:name":"Sam Sen",
     "wof:parent_id":102025263,
     "wof:placetype":"neighbourhood",

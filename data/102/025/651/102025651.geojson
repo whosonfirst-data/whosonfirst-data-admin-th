@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00115,
-    "geom:area_square_m":13814273.403327,
+    "geom:area_square_m":13814273.403322,
     "geom:bbox":"101.949386728,13.5782301502,102.099687601,13.6817061776",
     "geom:latitude":13.637829,
     "geom:longitude":102.054598,
@@ -14,9 +14,13 @@
     "iso:country":"TH",
     "lbl:latitude":13.662,
     "lbl:longitude":102.079468,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":13.662,
     "mps:longitude":102.079468,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ban Khao Chakan"
     ],
@@ -26,9 +30,6 @@
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e02\u0e32\u0e09\u0e01\u0e23\u0e23\u0e08\u0e4c"
-    ],
-    "name:unk_x_variant":[
-        "Khao Cha Kan"
     ],
     "qs:a0":"Thailand",
     "qs:a1":"*Sa Kaeo",
@@ -45,7 +46,7 @@
     "qs:type":"Town",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -57,7 +58,7 @@
         "fct:id":"07ceed94-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1618473,
         "gp:id":28341319,
-        "qs:id":1019773
+        "qs_pg:id":1019773
     },
     "wof:country":"TH",
     "wof:geomhash":"dcb8a6b6d2a6fbe16117cbe83944b6dc",
@@ -74,7 +75,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1501221069,
+    "wof:lastmodified":1566656434,
     "wof:name":"Khao Chakan",
     "wof:parent_id":890466779,
     "wof:placetype":"locality",

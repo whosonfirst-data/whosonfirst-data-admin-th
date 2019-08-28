@@ -14,10 +14,13 @@
     "iso:country":"TH",
     "lbl:latitude":16.061644,
     "lbl:longitude":101.507855,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":16.061644,
     "mps:longitude":101.507855,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ab\u09be\u0995\u09a6\u09bf \u099a\u09b9\u09c1\u09ae\u09ab\u09cb\u09a8"
     ],
@@ -45,7 +48,7 @@
     "name:tha_x_variant":[
         "\u0e20\u0e31\u0e01\u0e14\u0e35\u0e0a\u0e38\u0e21\u0e1e\u0e25"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "King Amphoe Phakdi Chumphon"
     ],
     "name:urd_x_preferred":[
@@ -72,7 +75,7 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":169,
     "wof:belongsto":[
         102191569,
@@ -83,7 +86,7 @@
     "wof:concordances":{
         "gn:id":7510929,
         "gp:id":28341097,
-        "qs:id":1251703,
+        "qs_pg:id":1251703,
         "wd:id":"Q476360"
     },
     "wof:country":"TH",
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":102026001,
-    "wof:lastmodified":1563290467,
+    "wof:lastmodified":1566656500,
     "wof:name":"Phakdi Chumphon",
     "wof:parent_id":85678825,
     "wof:placetype":"locality",

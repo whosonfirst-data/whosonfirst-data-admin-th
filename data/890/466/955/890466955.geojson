@@ -11,7 +11,7 @@
     "geom:longitude":103.528429,
     "gn:country":"TH",
     "gn:fcode":"PPLA2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424960,
     "iso:country":"TH",
     "label:eng_x_preferred_longname":[
@@ -22,6 +22,8 @@
     ],
     "lbl:latitude":14.878514,
     "lbl:longitude":103.548576,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"SURIN",
     "meso:diss_me":"Muang SurinSURIN",
     "meso:gadm_admin":"Muang Surin",
@@ -39,6 +41,7 @@
     "mps:longitude":103.548576,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ae\u09c1\u09af\u09bc\u09c7\u0982 \u09b8\u09c1\u09b0\u09bf\u09a8"
     ],
@@ -74,7 +77,7 @@
         "\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e2a\u0e38\u0e23\u0e34\u0e19\u0e17\u0e23\u0e4c",
         "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e2a\u0e38\u0e23\u0e34\u0e19\u0e17\u0e23\u0e4c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Amphoe Muang Suang"
     ],
     "name:vie_x_preferred":[
@@ -95,9 +98,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"915",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -119,7 +122,7 @@
         "gn:id":1608614,
         "gp:id":28341284,
         "hasc:id":"TH.SU.SU",
-        "qs:id":1150661,
+        "qs_pg:id":1150661,
         "wd:id":"Q476099",
         "wk:page":"Mueang Surin District"
     },
@@ -135,7 +138,7 @@
         }
     ],
     "wof:id":890466955,
-    "wof:lastmodified":1563298355,
+    "wof:lastmodified":1566663246,
     "wof:name":"Muang Surin",
     "wof:parent_id":85678845,
     "wof:placetype":"county",

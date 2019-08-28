@@ -23,16 +23,19 @@
     "gn:population":0,
     "gn:timezone":"Asia/Bangkok",
     "iso:country":"TH",
+    "lbl:bbox":"99.99783,13.16211,100.03783,13.20211",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:tha_x_preferred":[
         "\u0e1a\u0e49\u0e32\u0e19\u0e1a\u0e32\u0e07\u0e02\u0e38\u0e19\u0e44\u0e17\u0e23"
     ],
     "name:und_x_variant":[
         "Ban Bang Khun Zai",
         "Bang Ban Khun Sai",
-        "Ban Bang Khun Sai",
-        "\u0e1a\u0e49\u0e32\u0e19\u0e1a\u0e32\u0e07\u0e02\u0e38\u0e19\u0e44\u0e17\u0e23"
+        "Ban Bang Khun Sai"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1326759923,
-    "wof:lastmodified":1537704256,
+    "wof:lastmodified":1566654990,
     "wof:name":"Ban Bang Khun Sai",
     "wof:parent_id":1108731119,
     "wof:placetype":"locality",

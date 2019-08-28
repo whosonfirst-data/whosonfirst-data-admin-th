@@ -14,10 +14,13 @@
     "iso:country":"TH",
     "lbl:latitude":9.378612,
     "lbl:longitude":99.180162,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":9.378612,
     "mps:longitude":99.180162,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Chaiya"
     ],
@@ -48,9 +51,6 @@
     "name:tha_x_variant":[
         "\u0e40\u0e17\u0e28\u0e1a\u0e32\u0e25\u0e15\u0e33\u0e1a\u0e25\u0e15\u0e25\u0e32\u0e14\u0e44\u0e0a\u0e22\u0e32"
     ],
-    "name:unk_x_variant":[
-        "Ban Pun Riang"
-    ],
     "qs:a0":"Thailand",
     "qs:a1":"*Surat Thani",
     "qs:a1r":"*",
@@ -77,7 +77,7 @@
     "qs:type":"Town",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":518,
     "wof:belongsto":[
@@ -91,7 +91,7 @@
         "fct:id":"07cf9ce4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1153783,
         "gp:id":1226255,
-        "qs:id":224168,
+        "qs_pg:id":224168,
         "wd:id":"Q1059194",
         "wk:page":"Chaiya District"
     },
@@ -110,7 +110,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563290177,
+    "wof:lastmodified":1566656301,
     "wof:name":"Chaiya",
     "wof:parent_id":890466215,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000741,
-    "geom:area_square_m":8897606.054477,
+    "geom:area_square_m":8897606.054467,
     "geom:bbox":"100.596313477,13.6726757885,100.641193566,13.7007197875",
     "geom:latitude":13.685478,
     "geom:longitude":100.6167,
@@ -13,6 +13,7 @@
     "iso:country":"TH",
     "lbl:latitude":13.686062,
     "lbl:longitude":100.613281,
+    "lbl:max_zoom":18.0,
     "mps:latitude":13.683908,
     "mps:longitude":100.61937,
     "mz:hierarchy_label":1,
@@ -54,9 +55,6 @@
     "name:tha_x_preferred":[
         "\u0e40\u0e02\u0e15\u0e1e\u0e23\u0e30\u0e42\u0e02\u0e19\u0e07"
     ],
-    "name:unk_x_variant":[
-        "Phra Khanong Khwaeng"
-    ],
     "name:vie_x_preferred":[
         "Phra Khanong"
     ],
@@ -87,7 +85,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85678739,
         102191569,
@@ -98,7 +96,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1225588,
-        "qs:id":1120567,
         "qs_pg:id":1120567
     },
     "wof:country":"TH",
@@ -117,7 +114,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527269213,
+    "wof:lastmodified":1566657683,
     "wof:name":"Phra Khanong Khwaeng",
     "wof:parent_id":102025263,
     "wof:placetype":"neighbourhood",

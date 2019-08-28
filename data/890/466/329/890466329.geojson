@@ -11,7 +11,7 @@
     "geom:longitude":99.445439,
     "gn:country":"TH",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"TH",
     "label:eng_x_preferred_longname":[
         "Bang Saphan District"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":11.283949,
     "lbl:longitude":99.442525,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"PRACHUAP KHIRI KHAN",
     "meso:diss_me":"Bang SaphanPRACHUAP KHIRI KHAN",
     "meso:gadm_admin":"Bang Saphan",
@@ -38,6 +40,7 @@
     "mps:longitude":99.442525,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ac\u09cd\u09af\u09be\u0982 \u09b8\u09be\u09ab\u09be\u09a8"
     ],
@@ -65,9 +68,6 @@
     "name:tha_x_variant":[
         "\u0e1a\u0e32\u0e07\u0e2a\u0e30\u0e1e\u0e32\u0e19"
     ],
-    "name:unk_x_variant":[
-        "Amphoe Bang Saphan"
-    ],
     "name:vie_x_preferred":[
         "Bang Saphan"
     ],
@@ -82,9 +82,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"868",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -106,7 +106,7 @@
         "gn:id":1157661,
         "gp:id":28341574,
         "hasc:id":"TH.PK.BS",
-        "qs:id":1030343,
+        "qs_pg:id":1030343,
         "wd:id":"Q475257",
         "wk:page":"Bang Saphan District"
     },
@@ -122,7 +122,7 @@
         }
     ],
     "wof:id":890466329,
-    "wof:lastmodified":1563298452,
+    "wof:lastmodified":1566663291,
     "wof:name":"Bang Saphan",
     "wof:parent_id":85678757,
     "wof:placetype":"county",

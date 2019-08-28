@@ -11,7 +11,7 @@
     "geom:longitude":99.036198,
     "gn:country":"TH",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"TH",
     "label:eng_x_preferred_longname":[
         "Lamae District"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":9.756353,
     "lbl:longitude":99.068989,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"CHUMPHON",
     "meso:diss_me":"LamaeCHUMPHON",
     "meso:gadm_admin":"Lamae",
@@ -38,6 +40,7 @@
     "mps:longitude":99.068989,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09b2\u09be\u09ae\u09be\u09af\u09bc\u09c7"
     ],
@@ -65,9 +68,6 @@
     "name:tha_x_variant":[
         "\u0e25\u0e30\u0e41\u0e21"
     ],
-    "name:unk_x_variant":[
-        "Amphoe Lamae"
-    ],
     "name:urd_x_preferred":[
         "\u0644\u0627\u0645\u0627\u06cc \u0636\u0644\u0639"
     ],
@@ -85,9 +85,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"259",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -109,7 +109,7 @@
         "gn:id":7510623,
         "gp:id":28341578,
         "hasc:id":"TH.CP.LA",
-        "qs:id":906870,
+        "qs_pg:id":906870,
         "wd:id":"Q475882",
         "wk:page":"Lamae District"
     },
@@ -125,7 +125,7 @@
         }
     ],
     "wof:id":890466753,
-    "wof:lastmodified":1563298350,
+    "wof:lastmodified":1566663244,
     "wof:name":"Lamae",
     "wof:parent_id":85678559,
     "wof:placetype":"county",

@@ -13,6 +13,8 @@
     "iso:country":"TH",
     "lbl:latitude":12.683311,
     "lbl:longitude":101.273788,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":12.683311,
     "mps:longitude":101.273788,
     "mz:hierarchy_label":1,
@@ -279,7 +281,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u0430\u0439\u043e\u043d\u0433"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Rayohng"
     ],
     "name:urd_x_preferred":[
@@ -421,7 +423,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":307,
     "wof:belongsto":[
@@ -434,7 +436,6 @@
     "wof:concordances":{
         "gn:id":1607017,
         "gp:id":1226130,
-        "qs:id":350332,
         "qs_pg:id":350332,
         "wd:id":"Q1015123",
         "wk:page":"Rayong"
@@ -451,7 +452,7 @@
         }
     ],
     "wof:id":102024905,
-    "wof:lastmodified":1563290266,
+    "wof:lastmodified":1566656365,
     "wof:name":"Rayong",
     "wof:parent_id":1108802679,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":100.18967,
     "gn:country":"TH",
     "gn:fcode":"PPLA2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"TH",
+    "lbl:bbox":"100.16967,18.24464,100.20967,18.28464",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09a8\u09cb\u0982 \u09ae\u09c1\u09af\u09bc\u09be\u0982 \u0996\u09be\u0987"
     ],
@@ -45,7 +49,7 @@
     "name:tha_x_variant":[
         "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e2b\u0e19\u0e2d\u0e07\u0e21\u0e48\u0e27\u0e07\u0e44\u0e02\u0e48"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Naung Muang Kai"
     ],
     "name:vie_x_preferred":[
@@ -65,7 +69,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1615380,
-        "qs:id":370915,
+        "qs_pg:id":370915,
         "wd:id":"Q476266",
         "wk:page":"Nong Muang Khai District"
     },
@@ -81,7 +85,7 @@
         }
     ],
     "wof:id":890466083,
-    "wof:lastmodified":1563298363,
+    "wof:lastmodified":1566663250,
     "wof:name":"Nong Muang Khai",
     "wof:parent_id":85678643,
     "wof:placetype":"locality",

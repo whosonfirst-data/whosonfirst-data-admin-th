@@ -13,10 +13,13 @@
     "iso:country":"TH",
     "lbl:latitude":15.257689,
     "lbl:longitude":99.574585,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":15.257689,
     "mps:longitude":99.574585,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09b9\u09c1\u09af\u09bc\u09be\u0987 \u0996\u09cb\u09a4"
     ],
@@ -44,9 +47,6 @@
     "name:tha_x_variant":[
         "\u0e2b\u0e49\u0e27\u0e22\u0e04\u0e15"
     ],
-    "name:unk_x_variant":[
-        "\u0e2b\u0e49\u0e27\u0e22\u0e04\u0e15"
-    ],
     "name:vie_x_preferred":[
         "Huai Khot"
     ],
@@ -70,7 +70,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":167,
     "wof:belongsto":[
@@ -84,7 +84,6 @@
         "fct:id":"07cf2958-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1153263,
         "gp:id":1225160,
-        "qs:id":1213635,
         "qs_pg:id":1213635,
         "wd:id":"Q475533"
     },
@@ -103,7 +102,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563290241,
+    "wof:lastmodified":1566656349,
     "wof:name":"Huai Khot",
     "wof:parent_id":890466427,
     "wof:placetype":"locality",

@@ -5,21 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000525,
-    "geom:area_square_m":6263416.889236,
+    "geom:area_square_m":6263416.889243,
     "geom:bbox":"102.99301073,15.280448378,103.022617202,15.3620945277",
     "geom:latitude":15.321276,
     "geom:longitude":103.007813,
     "iso:country":"TH",
     "lbl:latitude":15.353059,
     "lbl:longitude":103.013306,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":15.353059,
     "mps:longitude":103.013306,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:tha_x_preferred":[
-        "\u0e04\u0e39\u0e40\u0e21\u0e37\u0e2d\u0e07"
-    ],
-    "name:unk_x_variant":[
         "\u0e04\u0e39\u0e40\u0e21\u0e37\u0e2d\u0e07"
     ],
     "qs:a0":"Thailand",
@@ -39,7 +39,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -50,7 +50,9 @@
     "wof:concordances":{
         "gn:id":1609699,
         "gp:id":28341170,
-        "qs:id":342190,
+        "qs_pg:id":342190
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":845701
     },
     "wof:country":"TH",
@@ -65,7 +67,7 @@
         }
     ],
     "wof:id":102026055,
-    "wof:lastmodified":1504310748,
+    "wof:lastmodified":1566656500,
     "wof:name":"Khu Mueang",
     "wof:parent_id":1108802627,
     "wof:placetype":"locality",

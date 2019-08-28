@@ -14,10 +14,13 @@
     "iso:country":"TH",
     "lbl:latitude":17.135541,
     "lbl:longitude":101.694946,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":17.135541,
     "mps:longitude":101.694946,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ab\u09c1 \u09b2\u09c1\u09f1\u09be\u0982"
     ],
@@ -45,7 +48,7 @@
     "name:tha_x_variant":[
         "\u0e20\u0e39\u0e2b\u0e25\u0e27\u0e07"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "King Amphoe Phu Luang"
     ],
     "name:urd_x_preferred":[
@@ -65,7 +68,7 @@
     "qs:source":"Aquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -74,7 +77,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7510733,
-        "qs:id":1245637,
+        "qs_pg:id":1245637,
         "wd:id":"Q476476",
         "wk:page":"Phu Luang District"
     },
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":102025897,
-    "wof:lastmodified":1563290445,
+    "wof:lastmodified":1566656482,
     "wof:name":"Amphoe Phu Luang",
     "wof:parent_id":85678853,
     "wof:placetype":"locality",

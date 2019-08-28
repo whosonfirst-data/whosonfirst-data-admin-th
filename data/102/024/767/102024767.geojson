@@ -12,10 +12,13 @@
     "iso:country":"TH",
     "lbl:latitude":5.938354,
     "lbl:longitude":101.773118,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":5.938354,
     "mps:longitude":101.773118,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09b8\u09c1\u0996\u09bf\u09b0\u09bf\u09a8"
     ],
@@ -49,9 +52,6 @@
     "name:tha_x_variant":[
         "\u0e2a\u0e38\u0e04\u0e34\u0e23\u0e34\u0e19"
     ],
-    "name:unk_x_variant":[
-        "\u0e2a\u0e38\u0e04\u0e34\u0e23\u0e34\u0e19"
-    ],
     "name:urd_x_preferred":[
         "\u0633\u0648\u06a9\u06be\u06cc\u0631\u06cc\u0646 \u0636\u0644\u0639"
     ],
@@ -79,7 +79,7 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":155,
     "wof:belongsto":[
         102191569,
@@ -91,7 +91,7 @@
         "fct:id":"07cf51bc-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1606073,
         "gp:id":28341720,
-        "qs:id":1030765,
+        "qs_pg:id":1030765,
         "wd:id":"Q476783"
     },
     "wof:country":"TH",
@@ -108,7 +108,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563290254,
+    "wof:lastmodified":1566656358,
     "wof:name":"Sukhirin",
     "wof:parent_id":85678885,
     "wof:placetype":"locality",

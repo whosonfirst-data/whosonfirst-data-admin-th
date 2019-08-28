@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000643,
+    "geom:area_square_m":7651256.088695,
     "geom:bbox":"104.476141659,15.6827576875,104.508538912,15.7087708721",
     "geom:latitude":15.695222,
     "geom:longitude":104.493015,
@@ -13,9 +14,13 @@
     "iso:country":"TH",
     "lbl:latitude":15.695808,
     "lbl:longitude":104.494637,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":15.695808,
     "mps:longitude":104.494637,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ban Hua Taphan"
     ],
@@ -28,9 +33,6 @@
     ],
     "name:tha_x_variant":[
         "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e31\u0e27\u0e15\u0e30\u0e1e\u0e32\u0e19"
-    ],
-    "name:unk_x_variant":[
-        "Ban Hua Tapan"
     ],
     "qs:a0":"Thailand",
     "qs:a1":"*Amnat Charoen",
@@ -49,7 +51,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -60,7 +62,6 @@
         "fct:id":"07cee8f8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1610607,
         "gp:id":1204301,
-        "qs:id":870081,
         "qs_pg:id":870081
     },
     "wof:country":"TH",
@@ -77,7 +78,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1497292872,
+    "wof:lastmodified":1566656419,
     "wof:name":"Hua Taphan",
     "wof:parent_id":85678789,
     "wof:placetype":"locality",

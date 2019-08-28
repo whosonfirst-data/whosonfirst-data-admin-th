@@ -11,7 +11,7 @@
     "geom:longitude":100.634042,
     "gn:country":"TH",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"TH",
     "label:eng_x_preferred_longname":[
         "Bangkapi District"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":13.76859,
     "lbl:longitude":100.634035,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"KRUNG THEP",
     "meso:diss_me":"BangkapiKRUNG THEP",
     "meso:gadm_admin":"Bang Kapi",
@@ -38,6 +40,7 @@
     "mps:longitude":100.634035,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:deu_x_preferred":[
         "Bang Kapi"
     ],
@@ -74,7 +77,7 @@
     "name:tha_x_variant":[
         "\u0e1a\u0e32\u0e07\u0e01\u0e30\u0e1b\u0e34"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Amphoe Bang Kapi"
     ],
     "name:vie_x_preferred":[
@@ -94,9 +97,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"29",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -117,7 +120,7 @@
     "wof:concordances":{
         "gn:id":1619530,
         "hasc:id":"TH.BM.KP",
-        "qs:id":1030615,
+        "qs_pg:id":1030615,
         "wd:id":"Q806445",
         "wk:page":"Bang Kapi District"
     },
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":890466395,
-    "wof:lastmodified":1563298408,
+    "wof:lastmodified":1566663270,
     "wof:name":"Bangkapi",
     "wof:parent_id":85678739,
     "wof:placetype":"county",

@@ -11,11 +11,15 @@
     "geom:longitude":101.16222,
     "gn:country":"TH",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424960,
     "iso:country":"TH",
+    "lbl:bbox":"101.14222,13.42342,101.18222,13.46342",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ab\u09be\u09a8\u09af\u09bc\u09be\u09a4 \u09a8\u09bf\u0996\u09cb\u09ae"
     ],
@@ -46,7 +50,7 @@
     "name:tha_x_variant":[
         "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e1e\u0e19\u0e31\u0e2a\u0e19\u0e34\u0e04\u0e21"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kut Ngong"
     ],
     "name:urd_x_preferred":[
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":1617272,
         "gp:id":1209006,
-        "qs:id":1158072,
+        "qs_pg:id":1158072,
         "wd:id":"Q476369",
         "wk:page":"Phanat Nikhom District"
     },
@@ -89,7 +93,7 @@
         }
     ],
     "wof:id":890466995,
-    "wof:lastmodified":1563298408,
+    "wof:lastmodified":1566663270,
     "wof:name":"Ban Kut Ngong",
     "wof:parent_id":85678795,
     "wof:placetype":"locality",

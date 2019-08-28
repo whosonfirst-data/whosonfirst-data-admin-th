@@ -19,6 +19,8 @@
     ],
     "lbl:latitude":15.191625,
     "lbl:longitude":100.126191,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"CHAI NAT",
     "meso:diss_me":"Muang Chai NatCHAI NAT",
     "meso:gadm_admin":"Muang Chai Nat",
@@ -36,6 +38,7 @@
     "mps:longitude":100.126191,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ae\u09c1\u09af\u09bc\u09c7\u0982 \u099a\u09bf\u09a8\u09af\u09bc\u09be\u09a4"
     ],
@@ -90,9 +93,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"255",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -113,7 +116,7 @@
     "wof:concordances":{
         "gp:id":28341467,
         "hasc:id":"TH.CN.CH",
-        "qs:id":1106701,
+        "qs_pg:id":1106701,
         "wd:id":"Q476003",
         "wk:page":"Mueang Chai Nat District"
     },
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":890466895,
-    "wof:lastmodified":1563298376,
+    "wof:lastmodified":1566663255,
     "wof:name":"Muang Chai Nat",
     "wof:parent_id":85678699,
     "wof:placetype":"county",

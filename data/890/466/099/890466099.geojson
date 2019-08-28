@@ -11,11 +11,15 @@
     "geom:longitude":100.93333,
     "gn:country":"TH",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424960,
     "iso:country":"TH",
+    "lbl:bbox":"100.91333,13.26333,100.95333,13.30333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Saen Suk"
     ],
@@ -28,7 +32,7 @@
     "name:tha_x_variant":[
         "\u0e40\u0e17\u0e28\u0e1a\u0e32\u0e25\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e41\u0e2a\u0e19\u0e2a\u0e38\u0e02"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ban Saen Suk"
     ],
     "qs:name":"Saen Suk",
@@ -54,7 +58,7 @@
     "wof:concordances":{
         "gn:id":1613664,
         "gp:id":55946890,
-        "qs:id":276901,
+        "qs_pg:id":276901,
         "wd:id":"Q13025411",
         "wk:page":"Wang Saen Suk"
     },
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":890466099,
-    "wof:lastmodified":1563298383,
+    "wof:lastmodified":1566663258,
     "wof:name":"Saen Suk",
     "wof:parent_id":1108802665,
     "wof:placetype":"locality",

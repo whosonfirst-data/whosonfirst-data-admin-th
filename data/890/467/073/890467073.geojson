@@ -11,10 +11,14 @@
     "geom:longitude":100.1,
     "gn:country":"TH",
     "gn:fcode":"PPL",
-    "gn:pop":13438,
+    "gn:population":13438,
     "iso:country":"TH",
+    "lbl:bbox":"100.08,14.71333,100.12,14.75333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09b8\u09be\u09ae \u099a\u09c1\u0995"
     ],
@@ -42,7 +46,7 @@
     "name:tha_x_variant":[
         "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e2a\u0e32\u0e21\u0e0a\u0e38\u0e01"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "B\u0101n S\u0101m Jok"
     ],
     "name:vie_x_preferred":[
@@ -62,7 +66,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1613534,
-        "qs:id":85565,
+        "qs_pg:id":85565,
         "wd:id":"Q476597",
         "wk:page":"Sam Chuk District"
     },
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":890467073,
-    "wof:lastmodified":1563298320,
+    "wof:lastmodified":1566663227,
     "wof:name":"Ban Sam Chuk",
     "wof:parent_id":85678679,
     "wof:placetype":"locality",

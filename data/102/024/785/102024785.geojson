@@ -12,10 +12,13 @@
     "iso:country":"TH",
     "lbl:latitude":16.977995,
     "lbl:longitude":103.216553,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":16.977995,
     "mps:longitude":103.216553,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09b8\u09bf \u09a5\u09be\u09a4"
     ],
@@ -46,9 +49,6 @@
     "name:tha_x_variant":[
         "\u0e28\u0e23\u0e35\u0e18\u0e32\u0e15\u0e38"
     ],
-    "name:unk_x_variant":[
-        "\u0e28\u0e23\u0e35\u0e18\u0e32\u0e15\u0e38"
-    ],
     "name:vie_x_preferred":[
         "Si That"
     ],
@@ -72,7 +72,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":171,
     "wof:belongsto":[
         102191569,
@@ -84,7 +84,6 @@
         "fct:id":"07cf5054-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1606229,
         "gp:id":1225662,
-        "qs:id":193731,
         "qs_pg:id":193731,
         "wd:id":"Q476722"
     },
@@ -102,7 +101,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563290237,
+    "wof:lastmodified":1566656346,
     "wof:name":"Si That",
     "wof:parent_id":85678869,
     "wof:placetype":"locality",

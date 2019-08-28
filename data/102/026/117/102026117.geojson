@@ -14,10 +14,13 @@
     "iso:country":"TH",
     "lbl:latitude":15.321366,
     "lbl:longitude":101.969701,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":15.321366,
     "mps:longitude":101.969701,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ab\u09b0\u09be \u09a5\u09cb\u0982 \u0996\u09be\u09ae"
     ],
@@ -45,7 +48,7 @@
     "name:tha_x_variant":[
         "\u0e1e\u0e23\u0e30\u0e17\u0e2d\u0e07\u0e04\u0e33"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "King Amphoe Phra Thong Kham"
     ],
     "name:urd_x_preferred":[
@@ -72,7 +75,7 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":253,
     "wof:belongsto":[
         102191569,
@@ -83,7 +86,7 @@
     "wof:concordances":{
         "gn:id":7511026,
         "gp:id":28341299,
-        "qs:id":1013936,
+        "qs_pg:id":1013936,
         "wd:id":"Q476445",
         "wk:page":"Batim"
     },
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":102026117,
-    "wof:lastmodified":1563290470,
+    "wof:lastmodified":1566656502,
     "wof:name":"Phra Thong Kham",
     "wof:parent_id":85678841,
     "wof:placetype":"locality",

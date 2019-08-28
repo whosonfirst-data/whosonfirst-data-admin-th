@@ -11,7 +11,7 @@
     "geom:longitude":101.654034,
     "gn:country":"TH",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"TH",
     "label:eng_x_preferred_longname":[
         "Sanam Chai Khet District"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":13.666857,
     "lbl:longitude":101.704442,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"CHAOHOENGSAO",
     "meso:diss_me":"Sanam Chai KhetCHAOHOENGSAO",
     "meso:gadm_admin":"Sanam Chaikhet",
@@ -38,6 +40,7 @@
     "mps:longitude":101.704442,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bjn_x_preferred":[
         "Amphoe Sanam Chai Khet"
     ],
@@ -74,9 +77,6 @@
     "name:tha_x_variant":[
         "\u0e2a\u0e19\u0e32\u0e21\u0e0a\u0e31\u0e22\u0e40\u0e02\u0e15"
     ],
-    "name:unk_x_variant":[
-        "Amphoe Sanam Chai Khet"
-    ],
     "name:urd_x_preferred":[
         "\u0633\u0627\u0646\u0627\u0645 \u0686\u0627\u0626\u06cc \u06a9\u06be\u06cc\u062a \u0636\u0644\u0639"
     ],
@@ -91,9 +91,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"1666",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -115,7 +115,7 @@
         "gn:id":1606569,
         "gp:id":28341336,
         "hasc:id":"TH.CC.SA",
-        "qs:id":1030535,
+        "qs_pg:id":1030535,
         "wd:id":"Q476628",
         "wk:page":"Sanam Chai Khet District"
     },
@@ -131,7 +131,7 @@
         }
     ],
     "wof:id":890466343,
-    "wof:lastmodified":1563298462,
+    "wof:lastmodified":1566663296,
     "wof:name":"Sanam Chai Khet",
     "wof:parent_id":85678797,
     "wof:placetype":"county",

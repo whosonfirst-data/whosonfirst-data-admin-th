@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":8.29906,
     "lbl:longitude":100.163475,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"NAKHON SI THAMMARAT",
     "meso:diss_me":"Pak PhanangNAKHON SI THAMMARAT",
     "meso:gadm_admin":"Pak Phanang",
@@ -35,6 +37,7 @@
     "mps:longitude":100.163475,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09aa\u09be\u0995 \u09ab\u09be\u09a8\u09be\u0982"
     ],
@@ -75,9 +78,9 @@
         "\u82ad\u56ca\u6cb3\u53e3\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"422",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":1108731673,
-    "wof:lastmodified":1563296465,
+    "wof:lastmodified":1566661715,
     "wof:name":"Pak Phanang",
     "wof:parent_id":85678565,
     "wof:placetype":"county",

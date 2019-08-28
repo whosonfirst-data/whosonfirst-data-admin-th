@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.571282,
     "lbl:longitude":100.85048,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"SARABURI",
     "meso:diss_me":"Sao HaiSARABURI",
     "meso:gadm_admin":"Sao Hai",
@@ -31,6 +33,7 @@
     "meso:source":"AOTM",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09b8\u09be\u0993 \u09b9\u09be\u0987"
     ],
@@ -62,9 +65,9 @@
         "Sao Hai"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"112",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":1108802743,
-    "wof:lastmodified":1563296408,
+    "wof:lastmodified":1566661681,
     "wof:name":"Sao Hai",
     "wof:parent_id":85678735,
     "wof:placetype":"county",

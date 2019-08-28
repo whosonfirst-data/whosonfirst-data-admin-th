@@ -14,10 +14,13 @@
     "iso:country":"TH",
     "lbl:latitude":15.05621,
     "lbl:longitude":102.244263,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":15.05621,
     "mps:longitude":102.244263,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Mizary"
     ],
@@ -63,7 +66,7 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":110,
     "wof:belongsto":[
         102191569,
@@ -76,7 +79,7 @@
         "fct:id":"07ce9920-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":7510958,
         "gp:id":28341161,
-        "qs:id":408452,
+        "qs_pg:id":408452,
         "wk:page":"Mizary"
     },
     "wof:country":"TH",
@@ -94,7 +97,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564101364,
+    "wof:lastmodified":1566656500,
     "wof:name":"Chaloem Phra Kiat",
     "wof:parent_id":1108731221,
     "wof:placetype":"locality",

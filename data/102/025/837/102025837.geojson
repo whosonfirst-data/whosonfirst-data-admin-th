@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000133,
-    "geom:area_square_m":1591404.170351,
+    "geom:area_square_m":1591404.170352,
     "geom:bbox":"100.678710938,13.8060753691,100.69519043,13.8274122361",
     "geom:latitude":13.81449,
     "geom:longitude":100.685583,
@@ -14,9 +14,13 @@
     "iso:country":"TH",
     "lbl:latitude":13.810076,
     "lbl:longitude":100.688401,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":13.810076,
     "mps:longitude":100.688401,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:tha_x_preferred":[
         "\u0e04\u0e31\u0e19\u0e19\u0e32\u0e22\u0e32\u0e27"
     ],
@@ -35,7 +39,7 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -48,7 +52,7 @@
     "wof:concordances":{
         "gn:id":7026817,
         "gp:id":28341393,
-        "qs:id":1113824
+        "qs_pg:id":1113824
     },
     "wof:country":"TH",
     "wof:geomhash":"8f650aaca74d2a4c67412a9a0fe7b10e",
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":102025837,
-    "wof:lastmodified":1501273137,
+    "wof:lastmodified":1566656477,
     "wof:name":"Khan Na Yao",
     "wof:parent_id":890465919,
     "wof:placetype":"locality",

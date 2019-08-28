@@ -5,21 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000267,
-    "geom:area_square_m":3133941.982393,
+    "geom:area_square_m":3133941.982397,
     "geom:bbox":"99.4442824767,18.1211528408,99.4631882128,18.139229307",
     "geom:latitude":18.130191,
     "geom:longitude":99.453735,
     "iso:country":"TH",
     "lbl:latitude":18.130191,
     "lbl:longitude":99.453735,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":18.130191,
     "mps:longitude":99.453735,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:tha_x_preferred":[
         "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e19\u0e2d\u0e07"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "B\u0101n Naung"
     ],
     "qs:a1":"*",
@@ -33,7 +36,7 @@
     "qs:source":"Aquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":102024449,
-    "wof:lastmodified":1501216988,
+    "wof:lastmodified":1566656313,
     "wof:name":"Ban Nong",
     "wof:parent_id":1108802657,
     "wof:placetype":"locality",

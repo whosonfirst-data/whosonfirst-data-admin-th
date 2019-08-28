@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00006,
-    "geom:area_square_m":725630.341488,
+    "geom:area_square_m":725630.341487,
     "geom:bbox":"100.623779297,13.8167440468,100.632019043,13.8287457254",
     "geom:latitude":13.822341,
     "geom:longitude":100.627545,
@@ -14,10 +14,13 @@
     "iso:country":"TH",
     "lbl:latitude":13.822118,
     "lbl:longitude":100.626643,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":13.822118,
     "mps:longitude":100.626643,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:tha_x_preferred":[
         "\u0e1a\u0e36\u0e07\u0e01\u0e38\u0e48\u0e21"
     ],
@@ -36,7 +39,7 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -47,7 +50,7 @@
     "wof:concordances":{
         "gn:id":7026776,
         "gp:id":28341405,
-        "qs:id":896638
+        "qs_pg:id":896638
     },
     "wof:country":"TH",
     "wof:geomhash":"923e9b22095d743e0c09c392bb3cada1",
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":102025831,
-    "wof:lastmodified":1501273137,
+    "wof:lastmodified":1566656474,
     "wof:name":"Bueng Kum",
     "wof:parent_id":1108802645,
     "wof:placetype":"locality",

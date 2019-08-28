@@ -13,6 +13,8 @@
     "iso:country":"TH",
     "lbl:latitude":13.595918,
     "lbl:longitude":100.618817,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":13.595918,
     "mps:longitude":100.618817,
     "mz:hierarchy_label":1,
@@ -135,7 +137,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043c\u0443\u0442-\u041f\u0440\u0430\u043a\u0430\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ban Pak Nam"
     ],
     "name:urd_x_preferred":[
@@ -256,7 +258,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -268,14 +270,13 @@
     "wof:concordances":{
         "gn:id":1606590,
         "gp:id":1226146,
-        "qs:id":809660,
         "qs_pg:id":809660,
         "wd:id":"Q13139252",
         "wk:page":"Mueang Samut Prakan District"
     },
     "wof:concordances_alt":{
         "gp:id":55945759,
-        "qs:id":476614
+        "qs_pg:id":476614
     },
     "wof:country":"TH",
     "wof:geomhash":"dcdd196986f811b190016a88345dcb61",
@@ -289,7 +290,7 @@
         }
     ],
     "wof:id":102024859,
-    "wof:lastmodified":1563290211,
+    "wof:lastmodified":1566656325,
     "wof:name":"Samut Prakan",
     "wof:parent_id":1108802737,
     "wof:placetype":"locality",

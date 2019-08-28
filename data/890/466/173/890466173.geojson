@@ -11,11 +11,15 @@
     "geom:longitude":99.61658,
     "gn:country":"TH",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424960,
     "iso:country":"TH",
+    "lbl:bbox":"99.59658,18.96697,99.63658,19.00697",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09f1\u09be\u0982 \u09a8\u09c1\u09af\u09bc\u09be"
     ],
@@ -43,7 +47,7 @@
     "name:tha_x_variant":[
         "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e27\u0e31\u0e07\u0e40\u0e2b\u0e19\u0e37\u0e2d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ban Hong Kho"
     ],
     "name:urd_x_preferred":[
@@ -70,7 +74,7 @@
     "wof:concordances":{
         "gn:id":1154992,
         "gp:id":55944987,
-        "qs:id":359381,
+        "qs_pg:id":359381,
         "wd:id":"Q477015",
         "wk:page":"Wang Nuea District"
     },
@@ -86,7 +90,7 @@
         }
     ],
     "wof:id":890466173,
-    "wof:lastmodified":1563298392,
+    "wof:lastmodified":1566663263,
     "wof:name":"Rong Kho",
     "wof:parent_id":85678625,
     "wof:placetype":"locality",

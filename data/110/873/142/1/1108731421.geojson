@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":9.740424,
     "lbl:longitude":100.02773,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"SURAT THANI",
     "meso:diss_me":"Ko PhanganSURAT THANI",
     "meso:gadm_admin":"Ko Phangan",
@@ -35,6 +37,7 @@
     "mps:longitude":100.02773,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Ko Pha-ngan"
     ],
@@ -46,9 +49,9 @@
         "\u0e40\u0e01\u0e32\u0e30\u0e1e\u0e30\u0e07\u0e31\u0e19"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"194",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":1108731421,
-    "wof:lastmodified":1554489420,
+    "wof:lastmodified":1566661726,
     "wof:name":"Ko Phangan",
     "wof:parent_id":85678581,
     "wof:placetype":"county",

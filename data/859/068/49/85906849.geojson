@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000839,
-    "geom:area_square_m":10074955.276997,
+    "geom:area_square_m":10074955.276998,
     "geom:bbox":"100.391306152,13.7313809707,100.507049561,13.7740662558",
     "geom:latitude":13.758379,
     "geom:longitude":100.420638,
@@ -13,6 +13,7 @@
     "iso:country":"TH",
     "lbl:latitude":13.736665,
     "lbl:longitude":100.499584,
+    "lbl:max_zoom":18.0,
     "mps:latitude":13.762252,
     "mps:longitude":100.408807,
     "mz:hierarchy_label":1,
@@ -25,9 +26,6 @@
     "mz:min_zoom":12.0,
     "mz:tier_locality":5,
     "name:eng_x_preferred":[
-        "Pahurant"
-    ],
-    "name:unk_x_variant":[
         "Pahurant"
     ],
     "qs:gn_adm0_cc":"TH",
@@ -57,7 +55,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85678739,
         102191569,
@@ -68,7 +66,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22724361,
-        "qs:id":897005,
         "qs_pg:id":897005
     },
     "wof:country":"TH",
@@ -87,7 +84,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527269266,
+    "wof:lastmodified":1566657690,
     "wof:name":"Pahurant",
     "wof:parent_id":102025263,
     "wof:placetype":"neighbourhood",

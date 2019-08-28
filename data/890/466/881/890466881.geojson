@@ -19,6 +19,8 @@
     ],
     "lbl:latitude":16.490902,
     "lbl:longitude":103.596668,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"KALASIN",
     "meso:diss_me":"Muang KalasinKALASIN",
     "meso:gadm_admin":"Muang Kalasin",
@@ -36,6 +38,7 @@
     "mps:longitude":103.596668,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ae\u09c1\u09af\u09bc\u09c7\u0982 \u0995\u09be\u09b2\u09be\u09b8\u09bf\u09a8"
     ],
@@ -90,9 +93,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"650",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -113,7 +116,7 @@
     "wof:concordances":{
         "gp:id":28341150,
         "hasc:id":"TH.KL.KL",
-        "qs:id":1106643,
+        "qs_pg:id":1106643,
         "wd:id":"Q476017",
         "wk:page":"Mueang Kalasin District"
     },
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":890466881,
-    "wof:lastmodified":1563298370,
+    "wof:lastmodified":1566663252,
     "wof:name":"Muang Kalasin",
     "wof:parent_id":85678831,
     "wof:placetype":"county",

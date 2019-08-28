@@ -5,13 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000548,
-    "geom:area_square_m":6579338.483399,
+    "geom:area_square_m":6579338.483394,
     "geom:bbox":"100.473703613,13.6386558361,100.504689941,13.6639938181",
     "geom:latitude":13.650743,
     "geom:longitude":100.488448,
     "iso:country":"TH",
     "lbl:latitude":13.651697,
     "lbl:longitude":100.493224,
+    "lbl:max_zoom":18.0,
     "mps:latitude":13.650014,
     "mps:longitude":100.488744,
     "mz:hierarchy_label":1,
@@ -24,9 +25,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":5,
     "name:eng_x_preferred":[
-        "Bang Pakok"
-    ],
-    "name:unk_x_variant":[
         "Bang Pakok"
     ],
     "qs:gn_adm0_cc":"TH",
@@ -55,7 +53,7 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85678739,
         102191569,
@@ -83,7 +81,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527269342,
+    "wof:lastmodified":1566657695,
     "wof:name":"Bang Pakok",
     "wof:parent_id":102025263,
     "wof:placetype":"neighbourhood",

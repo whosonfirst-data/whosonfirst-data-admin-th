@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Bangkok",
     "iso:country":"TH",
+    "lbl:bbox":"101.13,17.41333,101.17,17.45333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632293
@@ -34,7 +38,7 @@
         "gn:id":1599279
     },
     "wof:country":"TH",
-    "wof:geomhash":"c66ffba9cc83407d789c8c400cb22575",
+    "wof:geomhash":"962933d4387069596123fde53f42e298",
     "wof:hierarchy":[
         {
             "country_id":85632293,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209014177,
-    "wof:lastmodified":1536300348,
+    "wof:lastmodified":1566660005,
     "wof:name":"Ban Pak Man",
     "wof:parent_id":85632293,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     101.15,
-    17.433329999999998,
+    17.43333,
     101.15,
-    17.433329999999998
+    17.43333
 ],
   "geometry": {"coordinates":[101.15000000000001,17.43333],"type":"Point"}
 }

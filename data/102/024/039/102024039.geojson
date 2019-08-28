@@ -13,10 +13,13 @@
     "iso:country":"TH",
     "lbl:latitude":19.351755,
     "lbl:longitude":99.811821,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":19.351755,
     "mps:longitude":99.811821,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:deu_x_preferred":[
         "Mae Chai"
     ],
@@ -43,7 +46,7 @@
     "name:tha_x_variant":[
         "\u0e15\u0e33\u0e1a\u0e25\u0e41\u0e21\u0e48\u0e43\u0e08"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "B\u0101n Mea J\u0101i T\u0101i"
     ],
     "name:urd_x_preferred":[
@@ -64,7 +67,7 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":316,
     "wof:belongsto":[
@@ -78,7 +81,7 @@
         "fct:id":"07cf36fa-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1149700,
         "gp:id":1225472,
-        "qs:id":276003,
+        "qs_pg:id":276003,
         "wd:id":"Q6728914",
         "wk:page":"Mae Chai"
     },
@@ -97,7 +100,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563290228,
+    "wof:lastmodified":1566656340,
     "wof:name":"Mae Chai",
     "wof:parent_id":1108802649,
     "wof:placetype":"locality",

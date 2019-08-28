@@ -15,6 +15,8 @@
     "iso:country":"TH",
     "lbl:latitude":17.498012,
     "lbl:longitude":101.72272,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":17.498012,
     "mps:longitude":101.72272,
     "mz:hierarchy_label":1,
@@ -83,7 +85,7 @@
     "name:tha_x_variant":[
         "\u0e40\u0e25\u0e22"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Changwat Muang Lai"
     ],
     "name:war_x_preferred":[
@@ -201,7 +203,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":246,
     "wof:belongsto":[
@@ -215,7 +217,6 @@
         "fct:id":"07ce9e98-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1609071,
         "gp:id":1226029,
-        "qs:id":350363,
         "qs_pg:id":350363,
         "wd:id":"Q598784",
         "wk:page":"Loei"
@@ -235,7 +236,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563290367,
+    "wof:lastmodified":1566656435,
     "wof:name":"Loei",
     "wof:parent_id":890467393,
     "wof:placetype":"locality",

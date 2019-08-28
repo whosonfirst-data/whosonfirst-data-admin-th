@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000343,
-    "geom:area_square_m":4115203.573014,
+    "geom:area_square_m":4115203.573017,
     "geom:bbox":"100.535221378,13.7191627939,100.56060791,13.7420530618",
     "geom:latitude":13.731795,
     "geom:longitude":100.548466,
@@ -13,6 +13,7 @@
     "iso:country":"TH",
     "lbl:latitude":13.731896,
     "lbl:longitude":100.54385,
+    "lbl:max_zoom":18.0,
     "mps:latitude":13.731803,
     "mps:longitude":100.549983,
     "mz:hierarchy_label":1,
@@ -29,9 +30,6 @@
     ],
     "name:eng_x_variant":[
         "Lum Phini"
-    ],
-    "name:unk_x_variant":[
-        "Suan Lumphini"
     ],
     "qs:gn_adm0_cc":"TH",
     "qs:gn_id":0,
@@ -60,7 +58,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85678739,
         102191569,
@@ -71,7 +69,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1225672,
-        "qs:id":914967,
         "qs_pg:id":914967
     },
     "wof:country":"TH",
@@ -90,7 +87,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527269214,
+    "wof:lastmodified":1566657688,
     "wof:name":"Suan Lumphini",
     "wof:parent_id":102025263,
     "wof:placetype":"neighbourhood",

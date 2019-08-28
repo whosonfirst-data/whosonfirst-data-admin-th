@@ -13,10 +13,13 @@
     "iso:country":"TH",
     "lbl:latitude":15.543676,
     "lbl:longitude":101.036098,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":15.543676,
     "mps:longitude":101.036098,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09f1\u09bf\u099a\u09bf\u09af\u09bc\u09be\u09a8 \u09ac\u09c1\u09b0\u09bf"
     ],
@@ -61,7 +64,7 @@
     "name:tha_x_variant":[
         "\u0e27\u0e34\u0e40\u0e0a\u0e35\u0e22\u0e23\u0e1a\u0e38\u0e23\u0e35"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Amphoe Wichian"
     ],
     "name:vie_x_preferred":[
@@ -90,7 +93,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":396,
     "wof:belongsto":[
@@ -104,7 +107,6 @@
         "fct:id":"07cf9578-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1605024,
         "gp:id":1226218,
-        "qs:id":870179,
         "qs_pg:id":870179,
         "wd:id":"Q477093"
     },
@@ -123,7 +125,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563290279,
+    "wof:lastmodified":1566656376,
     "wof:name":"Wichian Buri",
     "wof:parent_id":890467495,
     "wof:placetype":"locality",

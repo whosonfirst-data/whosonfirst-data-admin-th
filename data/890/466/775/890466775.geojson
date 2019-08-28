@@ -19,6 +19,8 @@
     ],
     "lbl:latitude":17.68008,
     "lbl:longitude":100.19773,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"UTTARADIT",
     "meso:diss_me":"Muang UttaraditUTTARADIT",
     "meso:gadm_admin":"Muang Uttaradit",
@@ -36,6 +38,7 @@
     "mps:longitude":100.19773,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ae\u09c1\u09af\u09bc\u09c7\u0982 \u0989\u09a4\u09cd\u09a4\u09b0\u09be\u09a6\u09bf\u09a4"
     ],
@@ -87,9 +90,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"765",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -110,7 +113,7 @@
     "wof:concordances":{
         "gp:id":28340925,
         "hasc:id":"TH.UD.UT",
-        "qs:id":1062017,
+        "qs_pg:id":1062017,
         "wd:id":"Q476113",
         "wk:page":"Mueang Uttaradit District"
     },
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":890466775,
-    "wof:lastmodified":1563298451,
+    "wof:lastmodified":1566663291,
     "wof:name":"Muang Uttaradit",
     "wof:parent_id":85678657,
     "wof:placetype":"county",

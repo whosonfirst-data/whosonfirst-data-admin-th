@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001531,
-    "geom:area_square_m":18389095.832076,
+    "geom:area_square_m":18389095.83207,
     "geom:bbox":"101.125400366,13.7276811363,101.201565494,13.7697635434",
     "geom:latitude":13.744948,
     "geom:longitude":101.16396,
@@ -15,10 +15,13 @@
     "iso:country":"TH",
     "lbl:latitude":13.744391,
     "lbl:longitude":101.155733,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":13.744391,
     "mps:longitude":101.155733,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Ban Khlong Khuan"
     ],
@@ -28,9 +31,6 @@
     ],
     "name:tha_x_preferred":[
         "\u0e04\u0e25\u0e2d\u0e07\u0e40\u0e02\u0e37\u0e48\u0e2d\u0e19"
-    ],
-    "name:unk_x_variant":[
-        "Khlaung Khuan"
     ],
     "qs:a0":"Thailand",
     "qs:a1":"*Chachoengsao",
@@ -47,7 +47,7 @@
     "qs:type":"Town",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -60,7 +60,7 @@
         "fct:id":"07ced084-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1618294,
         "gp:id":1206521,
-        "qs:id":213149
+        "qs_pg:id":213149
     },
     "wof:country":"TH",
     "wof:geomhash":"394f955f3bd77a8dfd4a792cbf84ba78",
@@ -77,7 +77,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1505338988,
+    "wof:lastmodified":1566656426,
     "wof:name":"Khlong Khuean",
     "wof:parent_id":1108802617,
     "wof:placetype":"locality",

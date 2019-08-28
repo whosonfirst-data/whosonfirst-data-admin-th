@@ -11,11 +11,15 @@
     "geom:longitude":100.12186,
     "gn:country":"TH",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424960,
     "iso:country":"TH",
+    "lbl:bbox":"100.10186,7.76144,100.14186,7.80144",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u0996\u09c1\u09af\u09bc\u09be\u09a8 \u0996\u09be\u09a8\u09c1\u09a8"
     ],
@@ -49,7 +53,7 @@
     "name:tha_x_variant":[
         "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e04\u0e27\u0e19\u0e02\u0e19\u0e38\u0e19"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ban Dhale Noi"
     ],
     "name:vie_x_preferred":[
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":1612618,
         "gp:id":1222501,
-        "qs:id":316628,
+        "qs_pg:id":316628,
         "wd:id":"Q475752",
         "wk:page":"Khuan Khanun District"
     },
@@ -93,7 +97,7 @@
         }
     ],
     "wof:id":890466521,
-    "wof:lastmodified":1563298395,
+    "wof:lastmodified":1566663264,
     "wof:name":"Ban Thale Noi",
     "wof:parent_id":85678591,
     "wof:placetype":"locality",

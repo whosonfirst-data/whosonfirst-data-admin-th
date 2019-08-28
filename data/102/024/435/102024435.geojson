@@ -14,10 +14,13 @@
     "iso:country":"TH",
     "lbl:latitude":13.812336,
     "lbl:longitude":99.880864,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":13.812336,
     "mps:longitude":99.880864,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ceb_x_preferred":[
         "Ban Pong"
     ],
@@ -48,7 +51,7 @@
     "name:tha_x_variant":[
         "\u0e40\u0e17\u0e28\u0e1a\u0e32\u0e25\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e1a\u0e49\u0e32\u0e19\u0e42\u0e1b\u0e48\u0e07"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Amphoe Ban Pong"
     ],
     "qs:a0":"Thailand",
@@ -77,7 +80,7 @@
     "qs:type":"Town",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":92,
     "wof:belongsto":[
@@ -91,7 +94,7 @@
         "fct:id":"07ce93ee-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1155139,
         "gp:id":1225893,
-        "qs:id":1048256,
+        "qs_pg:id":1048256,
         "wd:id":"Q4853694",
         "wk:page":"Ban Pong"
     },
@@ -110,7 +113,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563290302,
+    "wof:lastmodified":1566656391,
     "wof:name":"Ban Pong",
     "wof:parent_id":1108731153,
     "wof:placetype":"locality",

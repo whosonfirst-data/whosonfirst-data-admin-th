@@ -11,7 +11,7 @@
     "geom:longitude":104.337027,
     "gn:country":"TH",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"TH",
     "label:eng_x_preferred_longname":[
         "Kho Wang District"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":15.386057,
     "lbl:longitude":104.338564,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"YASOTHON",
     "meso:diss_me":"Kho WangYASOTHON",
     "meso:gadm_admin":"Kho Wang",
@@ -38,6 +40,7 @@
     "mps:longitude":104.338564,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u0996\u09cb \u09f1\u09be\u0982"
     ],
@@ -68,9 +71,6 @@
     "name:tha_x_variant":[
         "\u0e04\u0e49\u0e2d\u0e27\u0e31\u0e07"
     ],
-    "name:unk_x_variant":[
-        "Amphoe Kho Wang"
-    ],
     "name:vie_x_preferred":[
         "Kho Wang"
     ],
@@ -82,9 +82,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"150",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -106,7 +106,7 @@
         "gn:id":8304643,
         "gp:id":28341211,
         "hasc:id":"TH.YS.KW",
-        "qs:id":1246190,
+        "qs_pg:id":1246190,
         "wd:id":"Q475720",
         "wk:page":"Kho Wang District"
     },
@@ -122,7 +122,7 @@
         }
     ],
     "wof:id":890465717,
-    "wof:lastmodified":1563298281,
+    "wof:lastmodified":1566663206,
     "wof:name":"Kho Wang",
     "wof:parent_id":85678791,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000158,
-    "geom:area_square_m":1892574.509972,
+    "geom:area_square_m":1892574.509977,
     "geom:bbox":"100.529022217,13.7220424997,100.546875,13.7340490424",
     "geom:latitude":13.727348,
     "geom:longitude":100.538076,
@@ -14,13 +14,17 @@
     "iso:country":"TH",
     "lbl:latitude":13.728046,
     "lbl:longitude":100.537184,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":13.728046,
     "mps:longitude":100.537184,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:tha_x_preferred":[
         "\u0e1a\u0e32\u0e07\u0e23\u0e31\u0e01"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Amphoe Bang Rak"
     ],
     "qs:a0":"Thailand",
@@ -38,7 +42,7 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -49,7 +53,7 @@
     "wof:concordances":{
         "gn:id":1619278,
         "gp:id":28341427,
-        "qs:id":397989
+        "qs_pg:id":397989
     },
     "wof:country":"TH",
     "wof:geomhash":"d332d56748d6a3aeda0ccba19067aa6c",
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":102025669,
-    "wof:lastmodified":1501221070,
+    "wof:lastmodified":1566656435,
     "wof:name":"Bang Rak",
     "wof:parent_id":890465903,
     "wof:placetype":"locality",

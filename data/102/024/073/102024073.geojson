@@ -5,23 +5,27 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003299,
-    "geom:area_square_m":39449645.254639,
+    "geom:area_square_m":39449645.254642,
     "geom:bbox":"98.5765288205,14.6436416268,98.6829986147,14.7998577017",
     "geom:latitude":14.729014,
     "geom:longitude":98.642459,
     "iso:country":"TH",
     "lbl:latitude":14.740467,
     "lbl:longitude":98.631623,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":14.740467,
     "mps:longitude":98.631623,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tha Khanun"
     ],
     "name:tha_x_preferred":[
         "\u0e17\u0e2d\u0e07\u0e1c\u0e32\u0e20\u0e39\u0e21\u0e34"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dha Khanun"
     ],
     "qs:a0":"Thailand",
@@ -41,7 +45,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -53,7 +57,6 @@
         "fct:id":"07d3fb5e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1150133,
         "gp:id":1225712,
-        "qs:id":460281,
         "qs_pg:id":460281
     },
     "wof:country":"TH",
@@ -71,7 +74,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1497290334,
+    "wof:lastmodified":1566656371,
     "wof:name":"Thong Pha Phum",
     "wof:parent_id":890466765,
     "wof:placetype":"locality",

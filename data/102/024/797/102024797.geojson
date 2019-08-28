@@ -14,6 +14,8 @@
     "iso:country":"TH",
     "lbl:latitude":14.89841,
     "lbl:longitude":100.400008,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":14.89841,
     "mps:longitude":100.400008,
     "mz:hierarchy_label":1,
@@ -76,7 +78,7 @@
     "name:tha_x_variant":[
         "\u0e2a\u0e34\u0e07\u0e2b\u0e4c\u0e1a\u0e38\u0e23\u0e35"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ban Bang Phutsa"
     ],
     "name:war_x_preferred":[
@@ -202,7 +204,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":109,
     "wof:belongsto":[
@@ -216,10 +218,12 @@
         "fct:id":"07d3314c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1606270,
         "gp:id":55946233,
-        "qs:id":1195657,
         "qs_pg:id":478568,
         "wd:id":"Q1210752",
         "wk:page":"Sing Buri"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1195657
     },
     "wof:country":"TH",
     "wof:geomhash":"835159fc4e8fdb128e4b6d0c14eb5489",
@@ -236,7 +240,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563290172,
+    "wof:lastmodified":1566656295,
     "wof:name":"Sing Buri",
     "wof:parent_id":890465647,
     "wof:placetype":"locality",

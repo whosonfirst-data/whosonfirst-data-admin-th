@@ -12,10 +12,13 @@
     "iso:country":"TH",
     "lbl:latitude":13.584162,
     "lbl:longitude":101.285161,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":13.584162,
     "mps:longitude":101.285161,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bjn_x_preferred":[
         "Amphoe Plaeng Yao"
     ],
@@ -49,9 +52,6 @@
     "name:tha_x_variant":[
         "\u0e41\u0e1b\u0e25\u0e07\u0e22\u0e32\u0e27"
     ],
-    "name:unk_x_variant":[
-        "\u0e41\u0e1b\u0e25\u0e07\u0e22\u0e32\u0e27"
-    ],
     "name:urd_x_preferred":[
         "\u067e\u0644\u0627\u0626\u0646\u06af \u06cc\u0627\u0648 \u0636\u0644\u0639"
     ],
@@ -76,7 +76,7 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":257,
     "wof:belongsto":[
         102191569,
@@ -88,7 +88,7 @@
         "fct:id":"07cede8a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1607398,
         "gp:id":28341338,
-        "qs:id":887880,
+        "qs_pg:id":887880,
         "wd:id":"Q476508"
     },
     "wof:country":"TH",
@@ -105,7 +105,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563290265,
+    "wof:lastmodified":1566656364,
     "wof:name":"Plaeng Yao",
     "wof:parent_id":85678797,
     "wof:placetype":"locality",

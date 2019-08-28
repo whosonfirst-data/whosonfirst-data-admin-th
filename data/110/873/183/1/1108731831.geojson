@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":16.47853,
     "lbl:longitude":100.137402,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"PHICHIT",
     "meso:diss_me":"Sam NgamPHICHIT",
     "meso:gadm_admin":"Wachira Barami",
@@ -35,6 +37,7 @@
     "mps:longitude":100.137402,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Wachirabarami"
     ],
@@ -46,9 +49,9 @@
         "\u0e2a\u0e32\u0e21\u0e07\u0e48\u0e32\u0e21"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"260",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":1108731831,
-    "wof:lastmodified":1554489436,
+    "wof:lastmodified":1566661770,
     "wof:name":"Sam Ngam",
     "wof:parent_id":85678669,
     "wof:placetype":"county",

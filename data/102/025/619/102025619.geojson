@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006575,
-    "geom:area_square_m":78651335.800731,
+    "geom:area_square_m":78651335.8007,
     "geom:bbox":"101.147336385,14.5798645948,101.23181667,14.7467333145",
     "geom:latitude":14.665139,
     "geom:longitude":101.191148,
@@ -14,9 +14,13 @@
     "iso:country":"TH",
     "lbl:latitude":14.656105,
     "lbl:longitude":101.197553,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":14.656105,
     "mps:longitude":101.197553,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ban Muak Lek"
     ],
@@ -24,9 +28,6 @@
         "Muak Lek"
     ],
     "name:tha_x_preferred":[
-        "\u0e21\u0e27\u0e01\u0e40\u0e2b\u0e25\u0e47\u0e01"
-    ],
-    "name:unk_x_variant":[
         "\u0e21\u0e27\u0e01\u0e40\u0e2b\u0e25\u0e47\u0e01"
     ],
     "qs:a0":"Thailand",
@@ -46,7 +47,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -58,7 +59,6 @@
         "fct:id":"07cef910-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1616631,
         "gp:id":1210953,
-        "qs:id":7308,
         "qs_pg:id":7308
     },
     "wof:country":"TH",
@@ -76,7 +76,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1497297495,
+    "wof:lastmodified":1566656426,
     "wof:name":"Muak Lek",
     "wof:parent_id":890466789,
     "wof:placetype":"locality",

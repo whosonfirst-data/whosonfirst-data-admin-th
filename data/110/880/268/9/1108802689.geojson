@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.628961,
     "lbl:longitude":102.790535,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"BURI RAM",
     "meso:diss_me":"Nang RongBURI RAM",
     "meso:gadm_admin":"Nang Rong",
@@ -31,6 +33,7 @@
     "meso:source":"AOTM",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bjn_x_preferred":[
         "Amphoe Nang Rong"
     ],
@@ -65,9 +68,9 @@
         "Nang Rong"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"770",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":1108802689,
-    "wof:lastmodified":1563296415,
+    "wof:lastmodified":1566661685,
     "wof:name":"Nang Rong",
     "wof:parent_id":85678817,
     "wof:placetype":"county",

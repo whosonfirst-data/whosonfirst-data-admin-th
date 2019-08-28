@@ -5,20 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000256,
-    "geom:area_square_m":3135839.319909,
+    "geom:area_square_m":3135839.319902,
     "geom:bbox":"100.257648963,8.09913354598,100.27579827,8.1172201092",
     "geom:latitude":8.108177,
     "geom:longitude":100.266724,
     "iso:country":"TH",
     "lbl:latitude":8.108177,
     "lbl:longitude":100.266724,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":8.108177,
     "mps:longitude":100.266724,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:tha_x_preferred":[
         "\u0e1a\u0e49\u0e32\u0e19\u0e1a\u0e32\u0e07\u0e42\u0e2b\u0e19\u0e14"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ban Bang Not Tai"
     ],
     "qs:a0":"Thailand",
@@ -38,7 +42,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -49,7 +53,6 @@
     "wof:concordances":{
         "gn:id":1604469,
         "gp:id":1200840,
-        "qs:id":1060913,
         "qs_pg:id":1060913
     },
     "wof:country":"TH",
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":102024575,
-    "wof:lastmodified":1497302948,
+    "wof:lastmodified":1566656346,
     "wof:name":"Ban Bang Not",
     "wof:parent_id":890466369,
     "wof:placetype":"locality",

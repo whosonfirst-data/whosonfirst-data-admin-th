@@ -14,10 +14,13 @@
     "iso:country":"TH",
     "lbl:latitude":10.471607,
     "lbl:longitude":99.168091,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":10.471607,
     "mps:longitude":99.168091,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Phlai Chumphon"
     ],
@@ -33,7 +36,7 @@
     "name:tha_x_variant":[
         "\u0e15\u0e33\u0e1a\u0e25\u0e1e\u0e25\u0e32\u0e22\u0e0a\u0e38\u0e21\u0e1e\u0e25"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chum Phon"
     ],
     "qs:a0":"Thailand",
@@ -51,7 +54,7 @@
     "qs:type":"Town",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":122,
     "wof:belongsto":[
         85632293,
@@ -61,7 +64,7 @@
     "wof:concordances":{
         "gn:id":1620084,
         "gp:id":1202360,
-        "qs:id":308548,
+        "qs_pg:id":308548,
         "wd:id":"Q7186478"
     },
     "wof:country":"TH",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":102025727,
-    "wof:lastmodified":1563290458,
+    "wof:lastmodified":1566656492,
     "wof:name":"Ban Chumphon",
     "wof:parent_id":890466037,
     "wof:placetype":"locality",

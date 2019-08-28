@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002505,
-    "geom:area_square_m":29954505.262868,
+    "geom:area_square_m":29954505.262853,
     "geom:bbox":"102.136109172,14.6649093537,102.231569549,14.8954264159",
     "geom:latitude":14.750614,
     "geom:longitude":102.185414,
@@ -15,10 +15,13 @@
     "iso:country":"TH",
     "lbl:latitude":14.734254,
     "lbl:longitude":102.16739,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":14.734254,
     "mps:longitude":102.16739,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Chok Chai"
     ],
@@ -32,7 +35,7 @@
     "name:tha_x_preferred":[
         "\u0e42\u0e0a\u0e04\u0e0a\u0e31\u0e22"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Amphoe Chok Chai"
     ],
     "qs:a0":"Thailand",
@@ -52,7 +55,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":67,
     "wof:belongsto":[
@@ -66,7 +69,6 @@
         "fct:id":"07cf7ee4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1611135,
         "gp:id":1225958,
-        "qs:id":1253160,
         "qs_pg:id":1253160,
         "wk:page":"Chok Chai"
     },
@@ -85,7 +87,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636683,
+    "wof:lastmodified":1566656440,
     "wof:name":"Chok Chai",
     "wof:parent_id":890467485,
     "wof:placetype":"locality",

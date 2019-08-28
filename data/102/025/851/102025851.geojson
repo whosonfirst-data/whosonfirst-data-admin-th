@@ -14,9 +14,13 @@
     "iso:country":"TH",
     "lbl:latitude":13.752647,
     "lbl:longitude":100.560523,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":13.752647,
     "mps:longitude":100.560523,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:tha_x_preferred":[
         "\u0e23\u0e32\u0e0a\u0e40\u0e17\u0e27\u0e35"
     ],
@@ -35,7 +39,7 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -46,7 +50,7 @@
     "wof:concordances":{
         "gn:id":7026885,
         "gp:id":28341412,
-        "qs:id":1151410
+        "qs_pg:id":1151410
     },
     "wof:country":"TH",
     "wof:geomhash":"28d4687865066a2f24c358996f3577f3",
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":102025851,
-    "wof:lastmodified":1501273138,
+    "wof:lastmodified":1566656437,
     "wof:name":"Ratchathewi",
     "wof:parent_id":890465783,
     "wof:placetype":"locality",

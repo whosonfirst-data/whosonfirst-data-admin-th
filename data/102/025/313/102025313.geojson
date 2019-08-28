@@ -14,10 +14,13 @@
     "iso:country":"TH",
     "lbl:latitude":15.437379,
     "lbl:longitude":102.320775,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":15.437379,
     "mps:longitude":102.320775,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u0996\u09cb\u0982"
     ],
@@ -45,7 +48,7 @@
     "name:tha_x_variant":[
         "\u0e04\u0e07"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mueang Khong"
     ],
     "name:urd_x_preferred":[
@@ -65,7 +68,7 @@
     "qs:source":"Aquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -75,7 +78,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1609792,
-        "qs:id":845724,
+        "qs_pg:id":845724,
         "wd:id":"Q475741",
         "wk:page":"Khong District, Nakhon Ratchasima"
     },
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":102025313,
-    "wof:lastmodified":1563290391,
+    "wof:lastmodified":1566656449,
     "wof:name":"Amphoe Khong",
     "wof:parent_id":1108802625,
     "wof:placetype":"locality",

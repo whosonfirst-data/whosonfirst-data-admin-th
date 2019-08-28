@@ -11,11 +11,15 @@
     "geom:longitude":100.91017,
     "gn:country":"TH",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424960,
     "iso:country":"TH",
+    "lbl:bbox":"100.89017,12.82392,100.93017,12.86392",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09b8\u09be\u09a4\u09cd\u09a4\u09be\u09b9\u09bf\u09b0"
     ],
@@ -64,7 +68,7 @@
     "name:tha_x_variant":[
         "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e2a\u0e31\u0e15\u0e2b\u0e35\u0e1a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Na Chaum Thian"
     ],
     "name:vie_x_preferred":[
@@ -90,7 +94,7 @@
     "wof:concordances":{
         "gn:id":1616469,
         "gp:id":55946829,
-        "qs:id":1258691,
+        "qs_pg:id":1258691,
         "wd:id":"Q476658",
         "wk:page":"Sattahip District"
     },
@@ -104,7 +108,7 @@
         }
     ],
     "wof:id":890466067,
-    "wof:lastmodified":1563298446,
+    "wof:lastmodified":1566663289,
     "wof:name":"Na Chom Thian",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

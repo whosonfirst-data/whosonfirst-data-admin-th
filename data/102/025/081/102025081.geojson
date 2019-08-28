@@ -9,19 +9,21 @@
     "geom:bbox":"100.450903716,13.8914110927,100.57434082,13.9697684495",
     "geom:latitude":13.928143,
     "geom:longitude":100.508575,
-    "gn:gn_country":"TH",
-    "gn:gn_fcode":"PPLA2",
-    "gn:gn_pop":182926,
+    "gn:country":"TH",
+    "gn:fcode":"PPLA2",
     "gn:latitude":13.91301,
     "gn:longitude":100.49883,
     "gn:population":182926,
     "iso:country":"TH",
     "lbl:latitude":13.922736,
     "lbl:longitude":100.530046,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":13.922736,
     "mps:longitude":100.530046,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "name:afr_x_preferred":[
         "Pak Kret"
     ],
@@ -77,9 +79,6 @@
     "name:tha_x_variant":[
         "\u0e1b\u0e32\u0e01\u0e40\u0e01\u0e23\u0e47\u0e14"
     ],
-    "name:unk_x_variant":[
-        "Pak Kred"
-    ],
     "name:urd_x_preferred":[
         "\u067e\u0627\u06a9 \u06a9\u0631\u06cc\u062a"
     ],
@@ -121,7 +120,7 @@
     "qs_pg:woe_id":1226075,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":550,
     "wof:belongsto":[
@@ -135,7 +134,6 @@
         "fct:id":"07d4c048-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1608048,
         "gp:id":1226075,
-        "qs:id":1032051,
         "qs_pg:id":1032051,
         "wd:id":"Q3360716",
         "wk:page":"Pak Kret"
@@ -155,7 +153,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563290419,
+    "wof:lastmodified":1566656468,
     "wof:name":"Pak Kret",
     "wof:parent_id":890466145,
     "wof:placetype":"locality",

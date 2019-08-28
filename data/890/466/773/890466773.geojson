@@ -19,6 +19,8 @@
     ],
     "lbl:latitude":14.577246,
     "lbl:longitude":100.44795,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"ANG THONG",
     "meso:diss_me":"Muang Ang ThongANG THONG",
     "meso:gadm_admin":"Muang Ang Thong",
@@ -36,6 +38,7 @@
     "mps:longitude":100.44795,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ae\u09c1\u09af\u09bc\u09c7\u0982 \u0986\u0999 \u09a5\u0982"
     ],
@@ -87,9 +90,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"103",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -110,7 +113,7 @@
     "wof:concordances":{
         "gp:id":28341488,
         "hasc:id":"TH.AT.AN",
-        "qs:id":1062015,
+        "qs_pg:id":1062015,
         "wd:id":"Q475999",
         "wk:page":"Mueang Ang Thong District"
     },
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":890466773,
-    "wof:lastmodified":1563298456,
+    "wof:lastmodified":1566663293,
     "wof:name":"Muang Ang Thong",
     "wof:parent_id":85678691,
     "wof:placetype":"county",

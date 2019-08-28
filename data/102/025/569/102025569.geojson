@@ -14,10 +14,13 @@
     "iso:country":"TH",
     "lbl:latitude":13.58726,
     "lbl:longitude":101.123657,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":13.58726,
     "mps:longitude":101.123657,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ac\u09be\u09a8 \u09ab\u09cb"
     ],
@@ -48,7 +51,7 @@
     "name:tha_x_variant":[
         "\u0e1a\u0e49\u0e32\u0e19\u0e42\u0e1e\u0e18\u0e34\u0e4c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Amphoe Sanam Chan"
     ],
     "name:urd_x_preferred":[
@@ -68,7 +71,7 @@
     "qs:source":"Aquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -77,7 +80,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1614231,
-        "qs:id":370912,
+        "qs_pg:id":370912,
         "wd:id":"Q475156",
         "wk:page":"Ban Pho District"
     },
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":102025569,
-    "wof:lastmodified":1563290334,
+    "wof:lastmodified":1566656410,
     "wof:name":"Amphoe Ban Pho",
     "wof:parent_id":85678797,
     "wof:placetype":"locality",

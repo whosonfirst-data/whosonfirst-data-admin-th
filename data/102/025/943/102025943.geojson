@@ -12,10 +12,13 @@
     "iso:country":"TH",
     "lbl:latitude":15.469563,
     "lbl:longitude":99.536133,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":15.469563,
     "mps:longitude":99.536133,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lan Sak"
     ],
@@ -35,7 +38,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -47,7 +50,6 @@
         "fct:id":"07cf359c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":7510893,
         "gp:id":1225461,
-        "qs:id":1245639,
         "qs_pg:id":1245639
     },
     "wof:country":"TH",
@@ -65,7 +67,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1497293348,
+    "wof:lastmodified":1566656491,
     "wof:name":"Lan Sak",
     "wof:parent_id":1108802643,
     "wof:placetype":"locality",

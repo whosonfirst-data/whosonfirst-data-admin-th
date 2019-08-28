@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":17.965676,
     "lbl:longitude":103.876513,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"NONGKHAI",
     "meso:diss_me":"SekaNONGKHAI",
     "meso:gadm_admin":"Seka",
@@ -31,6 +33,7 @@
     "meso:source":"AOTM",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09b8\u09af\u09bc\u09c7\u0995\u09be"
     ],
@@ -65,7 +68,7 @@
         "Seka"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1108802747,
-    "wof:lastmodified":1563296407,
+    "wof:lastmodified":1566661680,
     "wof:name":"Seka",
     "wof:parent_id":85678895,
     "wof:placetype":"county",

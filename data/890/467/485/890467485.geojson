@@ -19,6 +19,8 @@
     ],
     "lbl:latitude":14.759645,
     "lbl:longitude":102.199886,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"NAKHON RATCHASIMA",
     "meso:diss_me":"Chok ChaiNAKHON RATCHASIMA",
     "meso:gadm_admin":"Chok Chai",
@@ -36,6 +38,7 @@
     "mps:longitude":102.199886,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u099a\u09cb\u0995 \u099a\u09bf"
     ],
@@ -83,9 +86,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"504",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -106,7 +109,7 @@
     "wof:concordances":{
         "gp:id":28341311,
         "hasc:id":"TH.NR.CC",
-        "qs:id":262289,
+        "qs_pg:id":262289,
         "wd:id":"Q475402",
         "wk:page":"Chok Chai"
     },
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":890467485,
-    "wof:lastmodified":1563298292,
+    "wof:lastmodified":1566663213,
     "wof:name":"Chok Chai",
     "wof:parent_id":85678841,
     "wof:placetype":"county",

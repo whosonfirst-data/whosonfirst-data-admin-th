@@ -14,10 +14,13 @@
     "iso:country":"TH",
     "lbl:latitude":14.822681,
     "lbl:longitude":100.365601,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":14.822681,
     "mps:longitude":100.365601,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u0996\u09be\u0987 \u09ac\u09cd\u09af\u09be\u0982 \u09b0\u09be\u099a\u09be\u09a8"
     ],
@@ -65,7 +68,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":324,
     "wof:belongsto":[
         102191569,
@@ -77,7 +80,6 @@
         "fct:id":"07cfaefa-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":7510902,
         "gp:id":22723371,
-        "qs:id":310274,
         "qs_pg:id":310274,
         "wd:id":"Q475627",
         "wk:page":"Khai Bang Rachan District"
@@ -96,7 +98,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563290399,
+    "wof:lastmodified":1566656454,
     "wof:name":"Khai Bang Rachan",
     "wof:parent_id":85678729,
     "wof:placetype":"locality",

@@ -19,6 +19,8 @@
     ],
     "lbl:latitude":7.602855,
     "lbl:longitude":99.607204,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"TRANG",
     "meso:diss_me":"Muang TrangTRANG",
     "meso:gadm_admin":"Muang Trang",
@@ -32,6 +34,7 @@
     "meso:source":"AOTM",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ae\u09c1\u09af\u09bc\u09c7\u0982 \u09a4\u09b0\u09be\u0982"
     ],
@@ -83,9 +86,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"549",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -106,7 +109,7 @@
     "wof:concordances":{
         "gp:id":28341651,
         "hasc:id":"TH.TG.TR",
-        "qs:id":1106703,
+        "qs_pg:id":1106703,
         "wd:id":"Q3270526",
         "wk:page":"Mueang Trang District"
     },
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":890466897,
-    "wof:lastmodified":1563298448,
+    "wof:lastmodified":1566663290,
     "wof:name":"Muang Trang",
     "wof:parent_id":85678609,
     "wof:placetype":"county",

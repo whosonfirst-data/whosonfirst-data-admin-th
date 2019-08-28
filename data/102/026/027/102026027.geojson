@@ -14,10 +14,13 @@
     "iso:country":"TH",
     "lbl:latitude":13.352209,
     "lbl:longitude":102.183838,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":13.352209,
     "mps:longitude":102.183838,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Wang Sombun"
     ],
@@ -30,7 +33,7 @@
     "name:tha_x_variant":[
         "\u0e40\u0e17\u0e28\u0e1a\u0e32\u0e25\u0e15\u0e33\u0e1a\u0e25\u0e27\u0e31\u0e07\u0e2a\u0e21\u0e1a\u0e39\u0e23\u0e13\u0e4c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "King Amphoe Wang Sombun"
     ],
     "qs:a1":"*",
@@ -46,7 +49,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -57,7 +60,6 @@
         "fct:id":"07ce9ff6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":7510945,
         "gp:id":28349138,
-        "qs:id":1041710,
         "qs_pg:id":1041710,
         "wd:id":"Q28854803"
     },
@@ -75,7 +77,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563290473,
+    "wof:lastmodified":1566656505,
     "wof:name":"Wang Sombun",
     "wof:parent_id":85678805,
     "wof:placetype":"locality",

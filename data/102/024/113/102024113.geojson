@@ -13,6 +13,8 @@
     "iso:country":"TH",
     "lbl:latitude":17.013758,
     "lbl:longitude":99.820746,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":17.013758,
     "mps:longitude":99.820746,
     "mz:hierarchy_label":1,
@@ -129,7 +131,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0443\u043a\u0445\u043e\u0442\u0445\u0430\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Amphoe Sukhothai"
     ],
     "name:vie_x_preferred":[
@@ -250,7 +252,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":104,
     "wof:belongsto":[
@@ -263,7 +265,6 @@
     "wof:concordances":{
         "gn:id":1150533,
         "gp:id":1226172,
-        "qs:id":7456,
         "qs_pg:id":7456,
         "wd:id":"Q986737",
         "wk:page":"Sukhothai Thani"
@@ -280,7 +281,7 @@
         }
     ],
     "wof:id":102024113,
-    "wof:lastmodified":1563290324,
+    "wof:lastmodified":1566656404,
     "wof:name":"Sukhothai",
     "wof:parent_id":890466803,
     "wof:placetype":"locality",

@@ -11,11 +11,15 @@
     "geom:longitude":98.92886,
     "gn:country":"TH",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424960,
     "iso:country":"TH",
+    "lbl:bbox":"98.90886,18.69414,98.94886,18.73414",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Ban Aen"
     ],
@@ -31,7 +35,7 @@
     "name:tha_x_variant":[
         "\u0e15\u0e33\u0e1a\u0e25\u0e1a\u0e49\u0e32\u0e19\u0e41\u0e2d\u0e48\u0e19"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ban Waen"
     ],
     "qs:name":"Ban Aen",
@@ -53,7 +57,7 @@
     "wof:concordances":{
         "gn:id":7790840,
         "gp:id":55946828,
-        "qs:id":207902,
+        "qs_pg:id":207902,
         "wd:id":"Q4853576",
         "wk:page":"Ban Aen"
     },
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":890467257,
-    "wof:lastmodified":1563298298,
+    "wof:lastmodified":1566663216,
     "wof:name":"Ban Aen",
     "wof:parent_id":1108802611,
     "wof:placetype":"locality",

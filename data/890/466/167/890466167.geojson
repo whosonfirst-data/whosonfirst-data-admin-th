@@ -11,7 +11,7 @@
     "geom:longitude":101.006294,
     "gn:country":"TH",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424960,
     "iso:country":"TH",
     "label:eng_x_preferred_longname":[
@@ -22,6 +22,8 @@
     ],
     "lbl:latitude":19.169896,
     "lbl:longitude":101.009117,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"NAN",
     "meso:diss_me":"PuaNAN",
     "meso:gadm_admin":"Pua",
@@ -39,6 +41,7 @@
     "mps:longitude":101.009117,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09b0\u09c1\u09af\u09bc\u09be"
     ],
@@ -72,7 +75,7 @@
     "name:tha_x_variant":[
         "\u0e1b\u0e31\u0e27"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bua District"
     ],
     "name:urd_x_preferred":[
@@ -96,9 +99,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"657",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -119,7 +122,7 @@
         "gn:id":1607163,
         "gp:id":28340910,
         "hasc:id":"TH.NA.PU",
-        "qs:id":356766,
+        "qs_pg:id":356766,
         "wd:id":"Q476535"
     },
     "wof:country":"TH",
@@ -134,7 +137,7 @@
         }
     ],
     "wof:id":890466167,
-    "wof:lastmodified":1563298354,
+    "wof:lastmodified":1566663245,
     "wof:name":"Pua",
     "wof:parent_id":85678633,
     "wof:placetype":"county",

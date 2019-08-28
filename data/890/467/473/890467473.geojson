@@ -11,7 +11,7 @@
     "geom:longitude":104.216813,
     "gn:country":"TH",
     "gn:fcode":"PPLA2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424960,
     "iso:country":"TH",
     "label:eng_x_preferred_longname":[
@@ -22,6 +22,8 @@
     ],
     "lbl:latitude":14.959734,
     "lbl:longitude":104.208988,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"SI SA KET",
     "meso:diss_me":"Wang HinSI SA KET",
     "meso:gadm_admin":"Wang Hin",
@@ -35,6 +37,7 @@
     "meso:source":"AOTM",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09f1\u09be\u0982 \u09b9\u09bf\u09a8"
     ],
@@ -63,9 +66,6 @@
         "\u0e27\u0e31\u0e07\u0e2b\u0e34\u0e19",
         "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e27\u0e31\u0e07\u0e2b\u0e34\u0e19"
     ],
-    "name:unk_x_variant":[
-        "\u0e27\u0e31\u0e07\u0e2b\u0e34\u0e19"
-    ],
     "name:vie_x_preferred":[
         "Wang Hin"
     ],
@@ -81,9 +81,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"238",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -105,7 +105,7 @@
         "gn:id":1605145,
         "gp:id":28341263,
         "hasc:id":"TH.SI.WH",
-        "qs:id":1191130,
+        "qs_pg:id":1191130,
         "wd:id":"Q477003",
         "wk:page":"Wang Hin District"
     },
@@ -121,7 +121,7 @@
         }
     ],
     "wof:id":890467473,
-    "wof:lastmodified":1561758886,
+    "wof:lastmodified":1566663230,
     "wof:name":"Wang Hin",
     "wof:parent_id":85678779,
     "wof:placetype":"county",

@@ -13,6 +13,7 @@
     "iso:country":"TH",
     "lbl:latitude":13.74999,
     "lbl:longitude":100.538462,
+    "lbl:max_zoom":18.0,
     "mps:latitude":13.753309,
     "mps:longitude":100.533384,
     "mz:hierarchy_label":1,
@@ -25,9 +26,6 @@
     "mz:min_zoom":12.0,
     "mz:tier_locality":5,
     "name:eng_x_preferred":[
-        "Prathunam"
-    ],
-    "name:unk_x_variant":[
         "Prathunam"
     ],
     "qs:gn_adm0_cc":"TH",
@@ -57,7 +55,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85678739,
         102191569,
@@ -68,7 +66,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22724363,
-        "qs:id":897006,
         "qs_pg:id":897006
     },
     "wof:country":"TH",
@@ -87,7 +84,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527269265,
+    "wof:lastmodified":1566657689,
     "wof:name":"Prathunam",
     "wof:parent_id":102025847,
     "wof:placetype":"neighbourhood",

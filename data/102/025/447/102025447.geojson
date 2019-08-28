@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000263,
+    "geom:area_square_m":3133447.48514,
     "geom:bbox":"103.542331407,15.1214233935,103.560940118,15.1394998322",
     "geom:latitude":15.130462,
     "geom:longitude":103.551636,
@@ -13,9 +14,13 @@
     "iso:country":"TH",
     "lbl:latitude":15.130461,
     "lbl:longitude":103.551636,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":15.130461,
     "mps:longitude":103.551636,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Chom Phra"
     ],
@@ -25,7 +30,7 @@
     "name:tha_x_preferred":[
         "\u0e08\u0e2d\u0e21\u0e1e\u0e23\u0e30"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Amphoe Chom Phra"
     ],
     "qs:a0":"Thailand",
@@ -43,7 +48,7 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -54,7 +59,7 @@
         "fct:id":"07cf7f16-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1611125,
         "gp:id":28341282,
-        "qs:id":1187343
+        "qs_pg:id":1187343
     },
     "wof:country":"TH",
     "wof:geomhash":"51d192f3942f8f45fbbb919e88969271",
@@ -70,7 +75,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1501221061,
+    "wof:lastmodified":1566656421,
     "wof:name":"Chom Phra",
     "wof:parent_id":85678849,
     "wof:placetype":"locality",

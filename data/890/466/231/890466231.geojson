@@ -11,7 +11,7 @@
     "geom:longitude":101.043607,
     "gn:country":"TH",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"TH",
     "label:eng_x_preferred_longname":[
         "Si Racha District"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":13.131886,
     "lbl:longitude":101.026083,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"CHONBURI",
     "meso:diss_me":"Si RachaCHONBURI",
     "meso:gadm_admin":"Si Racha",
@@ -38,6 +40,7 @@
     "mps:longitude":101.026083,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0633\u064a \u0631\u0627\u062a\u0634\u0627"
     ],
@@ -86,9 +89,6 @@
     "name:tha_x_variant":[
         "\u0e28\u0e23\u0e35\u0e23\u0e32\u0e0a\u0e32"
     ],
-    "name:unk_x_variant":[
-        "Amphoe Si Racha"
-    ],
     "name:urd_x_preferred":[
         "\u0633\u06cc \u0631\u0627\u0686\u0627 \u0636\u0644\u0639"
     ],
@@ -106,9 +106,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"616",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -130,7 +130,7 @@
         "gn:id":1606249,
         "gp:id":28341354,
         "hasc:id":"TH.CB.SI",
-        "qs:id":370814,
+        "qs_pg:id":370814,
         "wd:id":"Q913445",
         "wk:page":"Si Racha District"
     },
@@ -146,7 +146,7 @@
         }
     ],
     "wof:id":890466231,
-    "wof:lastmodified":1563298434,
+    "wof:lastmodified":1566663283,
     "wof:name":"Si Racha",
     "wof:parent_id":85678795,
     "wof:placetype":"county",

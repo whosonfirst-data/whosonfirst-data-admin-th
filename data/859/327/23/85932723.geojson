@@ -13,6 +13,7 @@
     "iso:country":"TH",
     "lbl:latitude":13.743761,
     "lbl:longitude":100.487824,
+    "lbl:max_zoom":18.0,
     "mps:latitude":13.741968,
     "mps:longitude":100.480908,
     "mz:hierarchy_label":1,
@@ -123,9 +124,6 @@
     "name:ukr_x_preferred":[
         "\u0412\u0430\u0442 \u0410\u0440\u0443\u043d"
     ],
-    "name:unk_x_variant":[
-        "Wat Arun"
-    ],
     "name:vie_x_preferred":[
         "Wat Arun"
     ],
@@ -162,7 +160,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":824,
     "wof:belongsto":[
         85678739,
@@ -174,7 +172,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55948146,
-        "qs:id":1090208,
         "qs_pg:id":1090208,
         "wd:id":"Q724970"
     },
@@ -194,7 +191,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563291777,
+    "wof:lastmodified":1566657693,
     "wof:name":"Wat Arun",
     "wof:parent_id":102025263,
     "wof:placetype":"neighbourhood",

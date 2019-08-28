@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000519,
-    "geom:area_square_m":6261996.995803,
+    "geom:area_square_m":6261996.995799,
     "geom:bbox":"102.553670899,12.4650881323,102.67093807,12.5153373985",
     "geom:latitude":12.490213,
     "geom:longitude":102.612305,
@@ -15,10 +15,13 @@
     "iso:country":"TH",
     "lbl:latitude":12.474123,
     "lbl:longitude":102.661743,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":12.474123,
     "mps:longitude":102.661743,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:eng_x_preferred":[
         "Bo Rai"
     ],
@@ -28,9 +31,6 @@
     ],
     "name:tha_x_preferred":[
         "\u0e1a\u0e48\u0e2d\u0e44\u0e23\u0e48"
-    ],
-    "name:unk_x_variant":[
-        "Bau Rai"
     ],
     "qs:a0":"Thailand",
     "qs:a1":"*Trat",
@@ -47,7 +47,7 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +59,7 @@
         "fct:id":"07cf2250-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1611578,
         "gp:id":28341373,
-        "qs:id":937510
+        "qs_pg:id":937510
     },
     "wof:country":"TH",
     "wof:geomhash":"7b879a04baa947f0587eb57d99a67de0",
@@ -75,7 +75,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1505338988,
+    "wof:lastmodified":1566656445,
     "wof:name":"Bo Rai",
     "wof:parent_id":85678813,
     "wof:placetype":"locality",

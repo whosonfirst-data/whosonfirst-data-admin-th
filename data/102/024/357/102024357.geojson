@@ -13,10 +13,13 @@
     "iso:country":"TH",
     "lbl:latitude":18.688998,
     "lbl:longitude":98.928463,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":18.688998,
     "mps:longitude":98.928463,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:eng_x_preferred":[
         "Hang Dong"
     ],
@@ -35,9 +38,6 @@
     ],
     "name:tha_x_preferred":[
         "\u0e2b\u0e32\u0e07\u0e14\u0e07"
-    ],
-    "name:unk_x_variant":[
-        "Ban Hang Dong"
     ],
     "name:vie_x_preferred":[
         "Hang-dong"
@@ -59,7 +59,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":112,
     "wof:belongsto":[
@@ -73,7 +73,6 @@
         "fct:id":"07ceb676-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1153386,
         "gp:id":1225973,
-        "qs:id":482509,
         "qs_pg:id":482509,
         "wd:id":"Q2647850"
     },
@@ -92,7 +91,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563290253,
+    "wof:lastmodified":1566656357,
     "wof:name":"Hang Dong",
     "wof:parent_id":1108802611,
     "wof:placetype":"locality",

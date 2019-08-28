@@ -13,10 +13,13 @@
     "iso:country":"TH",
     "lbl:latitude":20.187667,
     "lbl:longitude":99.893987,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":20.187667,
     "mps:longitude":99.893987,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:eng_x_colloquial":[
         "Jiengsen"
     ],
@@ -44,7 +47,7 @@
     "name:tha_x_preferred":[
         "\u0e41\u0e21\u0e48\u0e08\u0e31\u0e19"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Amphoe Chiang Saen"
     ],
     "qs:a0":"Thailand",
@@ -64,7 +67,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":14,
     "wof:belongsto":[
@@ -79,7 +82,6 @@
         "fct:id":"07ceaf82-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1152227,
         "gp:id":1225473,
-        "qs:id":1305851,
         "qs_pg:id":1305851,
         "wd:id":"Q6728915"
     },
@@ -97,7 +99,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563290213,
+    "wof:lastmodified":1566656327,
     "wof:name":"Mae Chan",
     "wof:parent_id":85678617,
     "wof:placetype":"locality",

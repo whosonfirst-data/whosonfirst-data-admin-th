@@ -11,11 +11,15 @@
     "geom:longitude":98.99053,
     "gn:country":"TH",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424960,
     "iso:country":"TH",
+    "lbl:bbox":"98.97053,18.71947,99.01053,18.75947",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:tha_x_preferred":[
         "\u0e1a\u0e49\u0e32\u0e19\u0e42\u0e1b\u0e48\u0e07"
     ],
@@ -41,7 +45,7 @@
     "wof:concordances":{
         "gn:id":8356525,
         "gp:id":55947159,
-        "qs:id":237170,
+        "qs_pg:id":237170,
         "wk:page":"Ban Pong"
     },
     "wof:country":"TH",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":890467379,
-    "wof:lastmodified":1527792896,
+    "wof:lastmodified":1566663221,
     "wof:name":"Ban Pong",
     "wof:parent_id":85678619,
     "wof:placetype":"locality",

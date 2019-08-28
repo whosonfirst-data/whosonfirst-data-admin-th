@@ -11,7 +11,7 @@
     "geom:longitude":100.391778,
     "gn:country":"TH",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"TH",
     "label:eng_x_preferred_longname":[
         "Tha Chang District"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":14.779672,
     "lbl:longitude":100.396038,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"SING BURI",
     "meso:diss_me":"Tha ChangSING BURI",
     "meso:gadm_admin":"Tha Chang",
@@ -34,6 +36,7 @@
     "meso:source":"AOTM",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09a5\u09be \u099a\u09be\u0982"
     ],
@@ -64,9 +67,6 @@
     "name:tha_x_variant":[
         "\u0e17\u0e48\u0e32\u0e0a\u0e49\u0e32\u0e07"
     ],
-    "name:unk_x_variant":[
-        "Amphoe Tha Chang"
-    ],
     "name:vie_x_preferred":[
         "Tha Chang"
     ],
@@ -78,9 +78,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"34",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -100,7 +100,7 @@
     "wof:concordances":{
         "gn:id":1605670,
         "hasc:id":"TH.SB.TC",
-        "qs:id":356022,
+        "qs_pg:id":356022,
         "wd:id":"Q476823"
     },
     "wof:country":"TH",
@@ -115,7 +115,7 @@
         }
     ],
     "wof:id":890466157,
-    "wof:lastmodified":1563298345,
+    "wof:lastmodified":1566663241,
     "wof:name":"Tha Chang",
     "wof:parent_id":85678729,
     "wof:placetype":"county",

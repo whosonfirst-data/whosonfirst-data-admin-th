@@ -15,6 +15,8 @@
     "iso:country":"TH",
     "lbl:latitude":15.711685,
     "lbl:longitude":100.119978,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":15.711685,
     "mps:longitude":100.119978,
     "mz:hierarchy_label":1,
@@ -153,7 +155,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u0430\u0445\u043e\u043d-\u0421\u0430\u0432\u0430\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Amphoe Muang Nakhon Sawan"
     ],
     "name:urd_x_preferred":[
@@ -277,7 +279,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":401,
     "wof:belongsto":[
@@ -291,7 +293,6 @@
         "fct:id":"07ce8e3a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1608527,
         "gp:id":1226059,
-        "qs:id":809640,
         "qs_pg:id":809640,
         "wd:id":"Q1012434",
         "wk:page":"Nakhon Sawan"
@@ -311,7 +312,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563290450,
+    "wof:lastmodified":1566656485,
     "wof:name":"Nakhon Sawan",
     "wof:parent_id":890466923,
     "wof:placetype":"locality",

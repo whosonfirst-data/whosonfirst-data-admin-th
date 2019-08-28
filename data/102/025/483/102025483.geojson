@@ -13,14 +13,17 @@
     "gn:fcode":"PPLA2",
     "gn:latitude":15.00508,
     "gn:longitude":102.27033,
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"TH",
     "lbl:latitude":15.004996,
     "lbl:longitude":102.254253,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":15.004996,
     "mps:longitude":102.254253,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Amphoe Chaloem Phra Kiat"
     ],
@@ -44,9 +47,6 @@
     "name:tha_x_variant":[
         "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e40\u0e09\u0e25\u0e34\u0e21\u0e1e\u0e23\u0e30\u0e40\u0e01\u0e35\u0e22\u0e23\u0e15\u0e34"
     ],
-    "name:unk_x_variant":[
-        "Ban Non Mai Daeng"
-    ],
     "qs:a1":"*",
     "qs:a1r":"*",
     "qs:id":0,
@@ -64,7 +64,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":110,
     "wof:belongsto":[
@@ -78,9 +78,11 @@
         "fct:id":"07cfa810-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1611394,
         "gp:id":1226317,
-        "qs:id":1041711,
         "qs_pg:id":1026917,
         "wk:page":"Amphoe Chaloem Phra Kiat"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1041711
     },
     "wof:country":"TH",
     "wof:geomhash":"561f9beddbbf2121cdafe235f73b8fff",
@@ -97,7 +99,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564101323,
+    "wof:lastmodified":1566656427,
     "wof:name":"Chaloem Phra Kiat",
     "wof:parent_id":1108731221,
     "wof:placetype":"locality",

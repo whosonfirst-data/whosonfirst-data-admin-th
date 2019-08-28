@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001762,
-    "geom:area_square_m":20902785.638345,
+    "geom:area_square_m":20902785.638357,
     "geom:bbox":"103.542276938,16.3058301533,103.593954711,16.3555340745",
     "geom:latitude":16.33008,
     "geom:longitude":103.568884,
@@ -15,10 +15,13 @@
     "iso:country":"TH",
     "lbl:latitude":16.330685,
     "lbl:longitude":103.568395,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":16.330685,
     "mps:longitude":103.568395,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Kamalasai"
     ],
@@ -29,9 +32,6 @@
     ],
     "name:tha_x_preferred":[
         "\u0e01\u0e21\u0e25\u0e32\u0e44\u0e2a\u0e22"
-    ],
-    "name:unk_x_variant":[
-        "Komlasai"
     ],
     "qs:a0":"Thailand",
     "qs:a1":"*Kalasin",
@@ -48,7 +48,7 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -60,7 +60,7 @@
         "fct:id":"07cf2ad4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1610459,
         "gp:id":28341153,
-        "qs:id":938596
+        "qs_pg:id":938596
     },
     "wof:country":"TH",
     "wof:geomhash":"8935dd87aa0e3edfe38a3197c0fe0414",
@@ -76,7 +76,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1505338987,
+    "wof:lastmodified":1566656491,
     "wof:name":"Kamalasai",
     "wof:parent_id":85678831,
     "wof:placetype":"locality",

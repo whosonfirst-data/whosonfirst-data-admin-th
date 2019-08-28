@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002795,
-    "geom:area_square_m":33596710.532505,
+    "geom:area_square_m":33596710.532541,
     "geom:bbox":"100.993569893,13.5568648921,101.143882935,13.6523539498",
     "geom:latitude":13.597687,
     "geom:longitude":101.064295,
@@ -14,10 +14,13 @@
     "iso:country":"TH",
     "lbl:latitude":13.586514,
     "lbl:longitude":101.077349,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":13.586514,
     "mps:longitude":101.077349,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_colloquial":[
         "Baanbhd",
         "Banbhd",
@@ -33,7 +36,7 @@
     "name:tha_x_preferred":[
         "\u0e1a\u0e49\u0e32\u0e19\u0e42\u0e1e\u0e18\u0e34\u0e4c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "B\u0101nbh\u014d"
     ],
     "qs:a0":"Thailand",
@@ -51,7 +54,7 @@
     "qs:type":"Town",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -63,7 +66,7 @@
         "fct:id":"07cfa37e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1614240,
         "gp:id":28341343,
-        "qs:id":335985
+        "qs_pg:id":335985
     },
     "wof:country":"TH",
     "wof:geomhash":"dec8e9aab70e6f37f6e83f12588fd455",
@@ -80,7 +83,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1501221067,
+    "wof:lastmodified":1566656482,
     "wof:name":"Ban Pho",
     "wof:parent_id":1108731147,
     "wof:placetype":"locality",

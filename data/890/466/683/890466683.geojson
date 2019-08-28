@@ -11,11 +11,15 @@
     "geom:longitude":99.03892,
     "gn:country":"TH",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424960,
     "iso:country":"TH",
+    "lbl:bbox":"99.01892,18.79539,99.05892,18.83539",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "San Sai Noi"
     ],
@@ -31,7 +35,7 @@
     "name:tha_x_variant":[
         "\u0e15\u0e33\u0e1a\u0e25\u0e2a\u0e31\u0e19\u0e17\u0e23\u0e32\u0e22\u0e19\u0e49\u0e2d\u0e22"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ban San Sai Noi"
     ],
     "qs:name":"San Sai Noi",
@@ -57,7 +61,7 @@
     "wof:concordances":{
         "gn:id":1154821,
         "gp:id":55946063,
-        "qs:id":985849,
+        "qs_pg:id":985849,
         "wd:id":"Q7415274",
         "wk:page":"San Sai Noi"
     },
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":890466683,
-    "wof:lastmodified":1563298433,
+    "wof:lastmodified":1566663282,
     "wof:name":"San Sai Noi",
     "wof:parent_id":890466149,
     "wof:placetype":"locality",

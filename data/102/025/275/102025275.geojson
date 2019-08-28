@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002422,
-    "geom:area_square_m":28759073.889505,
+    "geom:area_square_m":28759073.889496,
     "geom:bbox":"103.036911817,16.1792640264,103.143506151,16.2711757353",
     "geom:latitude":16.223472,
     "geom:longitude":103.091275,
@@ -15,10 +15,13 @@
     "iso:country":"TH",
     "lbl:latitude":16.251589,
     "lbl:longitude":103.066912,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":16.251589,
     "mps:longitude":103.066912,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:eng_x_preferred":[
         "Kosum Phisai"
     ],
@@ -29,9 +32,6 @@
     ],
     "name:tha_x_preferred":[
         "\u0e42\u0e01\u0e2a\u0e38\u0e21\u0e1e\u0e34\u0e2a\u0e31\u0e22"
-    ],
-    "name:unk_x_variant":[
-        "Ban Hua Khwang"
     ],
     "qs:a0":"Thailand",
     "qs:a1":"*Maha Sarakham",
@@ -48,7 +48,7 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -60,7 +60,7 @@
         "fct:id":"07cf8448-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1609476,
         "gp:id":28341130,
-        "qs:id":133561
+        "qs_pg:id":133561
     },
     "wof:country":"TH",
     "wof:geomhash":"ccb8f9f2955710539c1fbd18a1a20647",
@@ -76,7 +76,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1505338986,
+    "wof:lastmodified":1566656431,
     "wof:name":"Kosum Phisai",
     "wof:parent_id":85678835,
     "wof:placetype":"locality",

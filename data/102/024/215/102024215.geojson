@@ -13,10 +13,13 @@
     "iso:country":"TH",
     "lbl:latitude":19.360477,
     "lbl:longitude":98.439182,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":19.360477,
     "mps:longitude":98.439182,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Pai"
     ],
@@ -47,7 +50,7 @@
     "name:tha_x_preferred":[
         "\u0e40\u0e17\u0e28\u0e1a\u0e32\u0e25\u0e15\u0e33\u0e1a\u0e25\u0e1b\u0e32\u0e22"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ban Wiang Tai"
     ],
     "name:vie_x_preferred":[
@@ -70,7 +73,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":2722,
     "wof:belongsto":[
@@ -83,7 +86,6 @@
     "wof:concordances":{
         "gn:id":1151601,
         "gp:id":1225547,
-        "qs:id":1075472,
         "qs_pg:id":1075472,
         "wd:id":"Q2892289",
         "wk:page":"Pai, Thailand"
@@ -100,7 +102,7 @@
         }
     ],
     "wof:id":102024215,
-    "wof:lastmodified":1563290277,
+    "wof:lastmodified":1566656374,
     "wof:name":"Pai",
     "wof:parent_id":890467383,
     "wof:placetype":"locality",

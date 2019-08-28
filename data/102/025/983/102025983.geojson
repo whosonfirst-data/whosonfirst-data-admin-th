@@ -14,10 +14,13 @@
     "iso:country":"TH",
     "lbl:latitude":18.734705,
     "lbl:longitude":100.83252,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":18.734705,
     "mps:longitude":100.83252,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Jagare"
     ],
@@ -45,7 +48,7 @@
     "name:tha_x_preferred":[
         "\u0e20\u0e39\u0e40\u0e1e\u0e35\u0e22\u0e07"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Amphoe Phu Phiang"
     ],
     "name:urd_x_preferred":[
@@ -68,7 +71,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -80,7 +83,6 @@
         "fct:id":"07ce9e2a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":7510917,
         "gp:id":28349106,
-        "qs:id":1178388,
         "qs_pg:id":1178388,
         "wk:page":"Jagare"
     },
@@ -99,7 +101,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564101330,
+    "wof:lastmodified":1566656443,
     "wof:name":"Phu Phiang",
     "wof:parent_id":890466613,
     "wof:placetype":"locality",

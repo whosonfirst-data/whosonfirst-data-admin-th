@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00051,
-    "geom:area_square_m":6265176.615676,
+    "geom:area_square_m":6265176.615665,
     "geom:bbox":"101.26842298,6.7483128847,101.330452821,6.81002838251",
     "geom:latitude":6.779172,
     "geom:longitude":101.299437,
@@ -14,14 +14,17 @@
     "iso:country":"TH",
     "lbl:latitude":6.80099,
     "lbl:longitude":101.277466,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":6.80099,
     "mps:longitude":101.277466,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:tha_x_preferred":[
         "\u0e22\u0e30\u0e23\u0e31\u0e07"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Na Rang"
     ],
     "qs:a0":"Thailand",
@@ -41,7 +44,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -51,8 +54,10 @@
     "wof:concordances":{
         "gn:id":1604863,
         "gp:id":1226236,
-        "qs:id":1158075,
         "qs_pg:id":244452
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1158075
     },
     "wof:country":"TH",
     "wof:geomhash":"1cf774ef9c1260e2d389deef75c1947b",
@@ -65,7 +70,7 @@
         }
     ],
     "wof:id":102025777,
-    "wof:lastmodified":1504310742,
+    "wof:lastmodified":1566656450,
     "wof:name":"Yarang",
     "wof:parent_id":85678889,
     "wof:placetype":"locality",

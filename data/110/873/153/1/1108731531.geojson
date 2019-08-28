@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":15.180982,
     "lbl:longitude":104.020139,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"SI SA KET",
     "meso:diss_me":"Muang ChanSI SA KET",
     "meso:gadm_admin":"Muang Chan",
@@ -35,6 +37,7 @@
     "mps:longitude":104.020139,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ae\u09c1\u09af\u09bc\u09c7\u0982 \u099a\u09be\u09a8"
     ],
@@ -72,9 +75,9 @@
         "Mueang Chan"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"96",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":1108731531,
-    "wof:lastmodified":1563296519,
+    "wof:lastmodified":1566661745,
     "wof:name":"Muang Chan",
     "wof:parent_id":85678779,
     "wof:placetype":"county",

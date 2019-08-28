@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002645,
-    "geom:area_square_m":31558156.329811,
+    "geom:area_square_m":31558156.329815,
     "geom:bbox":"101.078647369,15.1850501389,101.154934813,15.2455245705",
     "geom:latitude":15.210887,
     "geom:longitude":101.12307,
@@ -15,10 +15,13 @@
     "iso:country":"TH",
     "lbl:latitude":15.210765,
     "lbl:longitude":101.126246,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":15.210765,
     "mps:longitude":101.126246,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Chai Badan"
     ],
@@ -39,7 +42,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -52,7 +55,6 @@
         "fct:id":"07cedb88-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1611424,
         "gp:id":1225943,
-        "qs:id":211622,
         "qs_pg:id":211622
     },
     "wof:country":"TH",
@@ -70,7 +72,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1505338987,
+    "wof:lastmodified":1566656435,
     "wof:name":"Chai Badan",
     "wof:parent_id":890466247,
     "wof:placetype":"locality",

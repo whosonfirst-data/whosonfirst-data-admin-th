@@ -11,15 +11,19 @@
     "geom:longitude":99.94931,
     "gn:country":"TH",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424960,
     "iso:country":"TH",
+    "lbl:bbox":"99.92931,9.47572,99.96931,9.51572",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:tha_x_preferred":[
         "\u0e1a\u0e49\u0e32\u0e19\u0e25\u0e34\u0e1b\u0e30\u0e19\u0e49\u0e2d\u0e22"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ban Lipa Noi"
     ],
     "qs:name":"Ban Li Pa Noi",
@@ -43,7 +47,7 @@
     "wof:concordances":{
         "gn:id":1119253,
         "gp:id":1209703,
-        "qs:id":316621
+        "qs_pg:id":316621
     },
     "wof:country":"TH",
     "wof:created":1469053613,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":890467117,
-    "wof:lastmodified":1505343709,
+    "wof:lastmodified":1566663224,
     "wof:name":"Ban Li Pa Noi",
     "wof:parent_id":85678581,
     "wof:placetype":"locality",

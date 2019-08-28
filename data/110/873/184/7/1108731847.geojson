@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":15.160189,
     "lbl:longitude":98.526962,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"KANCHANABURI",
     "meso:diss_me":"Sangkhla BuriKANCHANABURI",
     "meso:gadm_admin":"Sangkhla Buri",
@@ -35,6 +37,7 @@
     "mps:longitude":98.526962,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09b8\u09be\u0982\u0996\u09b2\u09be \u09ac\u09c1\u09b0\u09bf"
     ],
@@ -78,9 +81,9 @@
         "\u6851\u5361\u6b66\u91cc"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"3349",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":1108731847,
-    "wof:lastmodified":1563296562,
+    "wof:lastmodified":1566661768,
     "wof:name":"Sangkhla Buri",
     "wof:parent_id":85678663,
     "wof:placetype":"county",

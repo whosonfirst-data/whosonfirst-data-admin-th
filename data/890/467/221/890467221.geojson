@@ -19,6 +19,8 @@
     ],
     "lbl:latitude":7.106787,
     "lbl:longitude":100.616005,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"SONGKHLA",
     "meso:diss_me":"Muang SongkhlaSONGKHLA",
     "meso:gadm_admin":"Muang Songkhla",
@@ -36,6 +38,7 @@
     "mps:longitude":100.616005,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0645\u0648\u064a\u0646\u062c \u0633\u0648\u0646\u063a\u0643\u0644\u0627"
     ],
@@ -102,9 +105,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"172",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -125,7 +128,7 @@
     "wof:concordances":{
         "gp:id":28341686,
         "hasc:id":"TH.SG.SO",
-        "qs:id":493587,
+        "qs_pg:id":493587,
         "wd:id":"Q476090",
         "wk:page":"Mueang Songkhla District"
     },
@@ -141,7 +144,7 @@
         }
     ],
     "wof:id":890467221,
-    "wof:lastmodified":1563298294,
+    "wof:lastmodified":1566663214,
     "wof:name":"Muang Songkhla",
     "wof:parent_id":85678603,
     "wof:placetype":"county",

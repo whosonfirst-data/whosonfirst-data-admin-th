@@ -9,20 +9,23 @@
     "geom:bbox":"101.16353,13.79131,101.16353,13.79131",
     "geom:latitude":13.79131,
     "geom:longitude":101.16353,
-    "gn:gn_country":"TH",
-    "gn:gn_fcode":"PPLA2",
-    "gn:gn_pop":0,
-    "gn:population":3703,
+    "gn:country":"TH",
+    "gn:fcode":"PPLA2",
+    "gn:population":0,
     "iso:country":"TH",
+    "lbl:bbox":"101.14353,13.77131,101.18353,13.81131",
     "lbl:latitude":13.79131,
     "lbl:longitude":101.16353,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:tha_x_preferred":[
         "\u0e04\u0e25\u0e2d\u0e07\u0e40\u0e02\u0e37\u0e48\u0e2d\u0e19"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Khlaung Khuan"
     ],
     "qs_pg:aaroncc":"TH",
@@ -44,7 +47,7 @@
     "qs_pg:woe_adm0":23424960,
     "qs_pg:woe_id":1206521,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424960,
     "woe:name_adm0":"Thailand",
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1125903667,
-    "wof:lastmodified":1509399600,
+    "wof:lastmodified":1566663298,
     "wof:name":"Ban Khlong Khuan",
     "wof:parent_id":1108802617,
     "wof:placetype":"locality",

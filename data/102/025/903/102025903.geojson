@@ -14,10 +14,13 @@
     "iso:country":"TH",
     "lbl:latitude":16.219949,
     "lbl:longitude":102.76062,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":16.219949,
     "mps:longitude":102.76062,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ac\u09be\u09a8 \u09b9\u09be\u09af\u09bc\u09c7\u09a4"
     ],
@@ -45,7 +48,7 @@
     "name:tha_x_variant":[
         "\u0e1a\u0e49\u0e32\u0e19\u0e41\u0e2e\u0e14"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "King Amphoe Ban Haet"
     ],
     "name:urd_x_preferred":[
@@ -65,7 +68,7 @@
     "qs:source":"Aquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -75,7 +78,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7510770,
-        "qs:id":1154775,
+        "qs_pg:id":1154775,
         "wd:id":"Q475101",
         "wk:page":"Ban Haet District"
     },
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":102025903,
-    "wof:lastmodified":1563290402,
+    "wof:lastmodified":1566656456,
     "wof:name":"Amphoe Ban Haet",
     "wof:parent_id":1108802571,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"TH",
     "lbl:latitude":12.790839,
     "lbl:longitude":99.95771,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":12.790839,
     "mps:longitude":99.95771,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u099a\u09be-\u0985\u09ae"
     ],
@@ -88,9 +91,6 @@
         "\u0e0a\u0e30\u0e2d\u0e33",
         "\u0e40\u0e17\u0e28\u0e1a\u0e32\u0e25\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e0a\u0e30\u0e2d\u0e33"
     ],
-    "name:unk_x_variant":[
-        "Ban Chaam"
-    ],
     "name:vie_x_preferred":[
         "Cha Am"
     ],
@@ -117,7 +117,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":309,
     "wof:belongsto":[
@@ -134,7 +134,6 @@
         "gn:id":1153807,
         "gp:id":1225939,
         "nyt:id":"80331932206381000171",
-        "qs:id":809624,
         "qs_pg:id":809624,
         "wd:id":"Q927810"
     },
@@ -153,7 +152,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563290190,
+    "wof:lastmodified":1566656310,
     "wof:name":"Cha-am",
     "wof:parent_id":890466433,
     "wof:placetype":"locality",

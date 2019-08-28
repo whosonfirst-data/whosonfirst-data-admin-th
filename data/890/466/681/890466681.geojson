@@ -11,11 +11,15 @@
     "geom:longitude":100.35617,
     "gn:country":"TH",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424960,
     "iso:country":"TH",
+    "lbl:bbox":"100.33617,16.80508,100.37617,16.84508",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Samo Khae"
     ],
@@ -31,7 +35,7 @@
     "name:tha_x_variant":[
         "\u0e15\u0e33\u0e1a\u0e25\u0e2a\u0e21\u0e2d\u0e41\u0e02"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ban Samo Khae"
     ],
     "qs:name":"Samo Khae",
@@ -56,7 +60,7 @@
     "wof:concordances":{
         "gn:id":8205438,
         "gp:id":55945972,
-        "qs:id":985848,
+        "qs_pg:id":985848,
         "wd:id":"Q7409880",
         "wk:page":"Samo Khae"
     },
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":890466681,
-    "wof:lastmodified":1563298358,
+    "wof:lastmodified":1566663247,
     "wof:name":"Samo Khae",
     "wof:parent_id":85678647,
     "wof:placetype":"locality",

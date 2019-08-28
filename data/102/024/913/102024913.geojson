@@ -12,10 +12,13 @@
     "iso:country":"TH",
     "lbl:latitude":13.672676,
     "lbl:longitude":100.508354,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":13.672676,
     "mps:longitude":100.508354,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0646\u0637\u0642\u0629 \u0631\u064a\u062a \u0628\u0631\u064a\u0646\u0627\u0646"
     ],
@@ -61,7 +64,7 @@
     "name:tha_x_variant":[
         "\u0e40\u0e02\u0e15\u0e23\u0e32\u0e29\u0e0e\u0e23\u0e4c\u0e1a\u0e39\u0e23\u0e13\u0e30"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Amphoe Rat Burana"
     ],
     "name:urd_x_preferred":[
@@ -85,7 +88,7 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":196,
     "wof:belongsto":[
         102191569,
@@ -96,7 +99,7 @@
     "wof:concordances":{
         "gn:id":1607055,
         "gp:id":28341408,
-        "qs:id":213571,
+        "qs_pg:id":213571,
         "wd:id":"Q1019633"
     },
     "wof:country":"TH",
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":102024913,
-    "wof:lastmodified":1563290247,
+    "wof:lastmodified":1566656353,
     "wof:name":"Rat Burana",
     "wof:parent_id":85678739,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"TH",
     "lbl:latitude":8.064668,
     "lbl:longitude":99.296568,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":8.064668,
     "mps:longitude":99.296568,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09b2\u09be\u09ae \u09a5\u09be\u09b0"
     ],
@@ -52,9 +55,6 @@
     "name:tha_x_variant":[
         "\u0e25\u0e33\u0e17\u0e31\u0e1a"
     ],
-    "name:unk_x_variant":[
-        "\u0e25\u0e33\u0e17\u0e31\u0e1a"
-    ],
     "name:urd_x_preferred":[
         "\u0644\u0627\u0645 \u062a\u06be\u0627\u067e \u0636\u0644\u0639"
     ],
@@ -82,7 +82,7 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":184,
     "wof:belongsto":[
         102191569,
@@ -94,7 +94,7 @@
         "fct:id":"07ced228-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1119287,
         "gp:id":28341644,
-        "qs:id":206844,
+        "qs_pg:id":206844,
         "wd:id":"Q24426"
     },
     "wof:country":"TH",
@@ -111,7 +111,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563290279,
+    "wof:lastmodified":1566656376,
     "wof:name":"Lam Thap",
     "wof:parent_id":85678565,
     "wof:placetype":"locality",

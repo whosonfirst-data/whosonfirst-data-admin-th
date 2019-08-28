@@ -11,7 +11,7 @@
     "geom:longitude":99.52334,
     "gn:country":"TH",
     "gn:fcode":"PPLA2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424960,
     "iso:country":"TH",
     "label:eng_x_preferred_longname":[
@@ -22,6 +22,8 @@
     ],
     "lbl:latitude":15.300907,
     "lbl:longitude":99.55749,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"UTHAI THANI",
     "meso:diss_me":"Huai KhotUTHAI THANI",
     "meso:gadm_admin":"Ban Rai",
@@ -39,6 +41,7 @@
     "mps:longitude":99.55749,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09b9\u09c1\u09af\u09bc\u09be\u0987 \u0996\u09cb\u09a4"
     ],
@@ -84,9 +87,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"424",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -108,7 +111,7 @@
         "gn:id":7510892,
         "gp:id":28340989,
         "hasc:id":"TH.UT.HK",
-        "qs:id":389049,
+        "qs_pg:id":389049,
         "wd:id":"Q475533",
         "wk:page":"Huai Khot District"
     },
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":890466427,
-    "wof:lastmodified":1563298430,
+    "wof:lastmodified":1566663281,
     "wof:name":"Huai Khot",
     "wof:parent_id":85678689,
     "wof:placetype":"county",

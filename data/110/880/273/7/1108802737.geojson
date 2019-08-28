@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.569451,
     "lbl:longitude":100.637156,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"SAMUT PRAKAN",
     "meso:diss_me":"SAMUT PRAKANSAMUT PRAKAN",
     "meso:gadm_admin":"Muang Samut Prakan",
@@ -31,6 +33,7 @@
     "meso:source":"AOTM",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ae\u09c1\u09af\u09bc\u09c7\u0982 \u09b8\u09be\u09ae\u09c1\u09a4 \u09aa\u09cd\u09b0\u09be\u0995\u09be\u09a8"
     ],
@@ -89,9 +92,9 @@
         "\u5317\u6984\u5e9c"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"191",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":1108802737,
-    "wof:lastmodified":1563296408,
+    "wof:lastmodified":1566661681,
     "wof:name":"Samut Prakan",
     "wof:parent_id":85678765,
     "wof:placetype":"county",

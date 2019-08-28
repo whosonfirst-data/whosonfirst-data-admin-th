@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00139,
-    "geom:area_square_m":16655842.029497,
+    "geom:area_square_m":16655842.029494,
     "geom:bbox":"100.26843868,14.303252904,100.360107422,14.3426213252",
     "geom:latitude":14.324644,
     "geom:longitude":100.312992,
@@ -14,14 +14,17 @@
     "iso:country":"TH",
     "lbl:latitude":14.331025,
     "lbl:longitude":100.289004,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":14.331025,
     "mps:longitude":100.289004,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:tha_x_preferred":[
         "\u0e1a\u0e32\u0e07\u0e0b\u0e49\u0e32\u0e22"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Amphoe Bang Sai"
     ],
     "qs:a1":"*",
@@ -37,7 +40,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -48,7 +51,6 @@
     "wof:concordances":{
         "gn:id":1619262,
         "gp:id":55947552,
-        "qs:id":370928,
         "qs_pg:id":370928
     },
     "wof:country":"TH",
@@ -63,7 +65,7 @@
         }
     ],
     "wof:id":102025661,
-    "wof:lastmodified":1497294770,
+    "wof:lastmodified":1566656440,
     "wof:name":"Bang Sai",
     "wof:parent_id":1108731179,
     "wof:placetype":"locality",

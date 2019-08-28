@@ -19,6 +19,8 @@
     ],
     "lbl:latitude":13.41284,
     "lbl:longitude":100.013152,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"SAMUT SONGKHRAM",
     "meso:diss_me":"Muang Samut SongkhramSAMUT SONGKHRAM",
     "meso:gadm_admin":"Muang Samut Songkhram",
@@ -36,6 +38,7 @@
     "mps:longitude":100.013152,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ae\u09c1\u09af\u09bc\u09c7\u0982 \u09b8\u09be\u09ae\u09c1\u09a4 \u09b8\u09cb\u0982\u0996\u09b0\u09be\u09ae"
     ],
@@ -87,9 +90,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"169",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -109,7 +112,7 @@
     "wof:concordances":{
         "gp:id":28341557,
         "hasc:id":"TH.SM.SS",
-        "qs:id":896873,
+        "qs_pg:id":896873,
         "wd:id":"Q476081"
     },
     "wof:country":"TH",
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":890467269,
-    "wof:lastmodified":1563298304,
+    "wof:lastmodified":1566663220,
     "wof:name":"Muang Samut Songkhram",
     "wof:parent_id":85678775,
     "wof:placetype":"county",

@@ -11,7 +11,7 @@
     "geom:longitude":100.49324,
     "gn:country":"TH",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"TH",
     "label:eng_x_preferred_longname":[
         "Thonburi District"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":13.715552,
     "lbl:longitude":100.491791,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"KRUNG THEP",
     "meso:diss_me":"ThonburiKRUNG THEP",
     "meso:gadm_admin":"Thon Buri",
@@ -38,6 +40,7 @@
     "mps:longitude":100.491791,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ben_x_preferred":[
         "\u09a5\u09a8\u09ac\u09c1\u09b0\u09bf \u099c\u09c7\u09b2\u09be"
     ],
@@ -86,7 +89,7 @@
     "name:tha_x_variant":[
         "\u0e18\u0e19\u0e1a\u0e38\u0e23\u0e35"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dhonburi"
     ],
     "name:vie_x_preferred":[
@@ -106,9 +109,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"9",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -129,7 +132,7 @@
     "wof:concordances":{
         "gn:id":1605401,
         "hasc:id":"TH.BM.TB",
-        "qs:id":370783,
+        "qs_pg:id":370783,
         "wd:id":"Q2305621",
         "wk:page":"Thon Buri District"
     },
@@ -145,7 +148,7 @@
         }
     ],
     "wof:id":890466225,
-    "wof:lastmodified":1563298430,
+    "wof:lastmodified":1566663281,
     "wof:name":"Thonburi",
     "wof:parent_id":85678739,
     "wof:placetype":"county",

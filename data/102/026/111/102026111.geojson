@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003517,
-    "geom:area_square_m":41216463.625204,
+    "geom:area_square_m":41216463.6252,
     "geom:bbox":"98.763103765,18.5799442373,98.8489284924,18.6500781394",
     "geom:latitude":18.613646,
     "geom:longitude":98.805119,
@@ -14,10 +14,13 @@
     "iso:country":"TH",
     "lbl:latitude":18.606296,
     "lbl:longitude":98.80219,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":18.606296,
     "mps:longitude":98.80219,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mae Wang"
     ],
@@ -39,7 +42,7 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -51,7 +54,7 @@
         "fct:id":"07cea12c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":7511021,
         "gp:id":28340819,
-        "qs:id":488422
+        "qs_pg:id":488422
     },
     "wof:country":"TH",
     "wof:geomhash":"bd0bd13970b4b4c3bbf7111c4badceac",
@@ -68,7 +71,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1501273225,
+    "wof:lastmodified":1566656501,
     "wof:name":"Mae Wang",
     "wof:parent_id":1108802659,
     "wof:placetype":"locality",

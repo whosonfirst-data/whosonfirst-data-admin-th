@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004194,
-    "geom:area_square_m":50380796.847818,
+    "geom:area_square_m":50380796.84785,
     "geom:bbox":"100.714416504,13.6636382529,100.882961311,13.7420530627",
     "geom:latitude":13.705383,
     "geom:longitude":100.823804,
@@ -14,14 +14,17 @@
     "iso:country":"TH",
     "lbl:latitude":13.69418,
     "lbl:longitude":100.847878,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":13.69418,
     "mps:longitude":100.847878,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:tha_x_preferred":[
         "\u0e25\u0e32\u0e14\u0e01\u0e23\u0e30\u0e1a\u0e31\u0e07"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lartkrabang"
     ],
     "qs:a0":"Thailand",
@@ -39,7 +42,7 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -50,7 +53,7 @@
     "wof:concordances":{
         "gn:id":6957690,
         "gp:id":28341415,
-        "qs:id":1151998
+        "qs_pg:id":1151998
     },
     "wof:country":"TH",
     "wof:geomhash":"a43f2c34fa97e9d8689700205d51bf13",
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":102025821,
-    "wof:lastmodified":1501273131,
+    "wof:lastmodified":1566656428,
     "wof:name":"Lat Krabang",
     "wof:parent_id":890467329,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013304,
-    "geom:area_square_m":160462558.200504,
+    "geom:area_square_m":160462558.200381,
     "geom:bbox":"101.531936163,12.6152237915,101.704146229,12.8583266207",
     "geom:latitude":12.727512,
     "geom:longitude":101.622598,
@@ -15,10 +15,13 @@
     "iso:country":"TH",
     "lbl:latitude":12.683218,
     "lbl:longitude":101.639017,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":12.683218,
     "mps:longitude":101.639017,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":8.0,
     "name:eng_x_colloquial":[
         "Kleng"
     ],
@@ -37,9 +40,6 @@
     "name:tha_x_variant":[
         "\u0e41\u0e01\u0e25\u0e07"
     ],
-    "name:unk_x_variant":[
-        "Ban Sam Yan"
-    ],
     "qs:a0":"Thailand",
     "qs:a1":"*Rayong",
     "qs:a1r":"*",
@@ -55,7 +55,7 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -68,7 +68,7 @@
         "fct:id":"07ceb7de-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1609610,
         "gp:id":28341362,
-        "qs:id":1257714
+        "qs_pg:id":1257714
     },
     "wof:country":"TH",
     "wof:geomhash":"aece43a56a41763a2696ed921e84e9e2",
@@ -85,7 +85,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1505338986,
+    "wof:lastmodified":1566656464,
     "wof:name":"Klaeng",
     "wof:parent_id":890465677,
     "wof:placetype":"locality",

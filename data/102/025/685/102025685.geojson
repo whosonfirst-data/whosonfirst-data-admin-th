@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001911,
-    "geom:area_square_m":22719184.043551,
+    "geom:area_square_m":22719184.043562,
     "geom:bbox":"100.323298165,15.9575723872,100.3886788,16.0416528558",
     "geom:latitude":15.999827,
     "geom:longitude":100.357883,
@@ -15,10 +15,13 @@
     "iso:country":"TH",
     "lbl:latitude":15.975583,
     "lbl:longitude":100.345221,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":15.975583,
     "mps:longitude":100.345221,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:eng_x_preferred":[
         "Bang Mun Nak"
     ],
@@ -29,7 +32,7 @@
     "name:tha_x_preferred":[
         "\u0e1a\u0e32\u0e07\u0e21\u0e39\u0e25\u0e19\u0e32\u0e01"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Amphoe Bang Mun Nak"
     ],
     "qs:a0":"Thailand",
@@ -47,7 +50,7 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +62,7 @@
         "fct:id":"07ceb31a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1619400,
         "gp:id":28340959,
-        "qs:id":890478
+        "qs_pg:id":890478
     },
     "wof:country":"TH",
     "wof:geomhash":"024769d4d2fcc9f263aa87fc2799a3e0",
@@ -75,7 +78,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1505338988,
+    "wof:lastmodified":1566656466,
     "wof:name":"Bang Mun Nak",
     "wof:parent_id":85678669,
     "wof:placetype":"locality",

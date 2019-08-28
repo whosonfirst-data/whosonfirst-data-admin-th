@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000176,
-    "geom:area_square_m":2115097.249861,
+    "geom:area_square_m":2115097.249858,
     "geom:bbox":"100.463515318,13.7244394422,100.485076904,13.7473889243",
     "geom:latitude":13.736225,
     "geom:longitude":100.472811,
@@ -14,13 +14,17 @@
     "iso:country":"TH",
     "lbl:latitude":13.736009,
     "lbl:longitude":100.468155,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":13.736009,
     "mps:longitude":100.468155,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:tha_x_preferred":[
         "\u0e1a\u0e32\u0e07\u0e01\u0e2d\u0e01\u0e43\u0e2b\u0e0d\u0e48"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "King Amphoe Bang Kok Yai"
     ],
     "qs:a0":"Thailand",
@@ -38,7 +42,7 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -51,7 +55,7 @@
     "wof:concordances":{
         "gn:id":1619457,
         "gp:id":28341410,
-        "qs:id":1152001
+        "qs_pg:id":1152001
     },
     "wof:country":"TH",
     "wof:geomhash":"6164ddadddc2b1fe968e2f6a0889d94b",
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":102025695,
-    "wof:lastmodified":1501221071,
+    "wof:lastmodified":1566656440,
     "wof:name":"Bangkok Yai",
     "wof:parent_id":890466163,
     "wof:placetype":"locality",

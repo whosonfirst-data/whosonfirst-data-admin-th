@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002633,
-    "geom:area_square_m":32231078.323323,
+    "geom:area_square_m":32231078.323328,
     "geom:bbox":"98.2801088837,8.07465914515,98.3312202983,8.1634441467",
     "geom:latitude":8.1217,
     "geom:longitude":98.305069,
     "iso:country":"TH",
     "lbl:latitude":8.122177,
     "lbl:longitude":98.311457,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":8.122177,
     "mps:longitude":98.311457,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Thalang"
     ],
@@ -26,9 +29,6 @@
     ],
     "name:tha_x_preferred":[
         "\u0e16\u0e25\u0e32\u0e07"
-    ],
-    "name:unk_x_variant":[
-        "Ban Khian"
     ],
     "qs:a0":"Thailand",
     "qs:a1":"*Phuket",
@@ -47,7 +47,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -59,7 +59,6 @@
         "fct:id":"07cec4fe-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1150296,
         "gp:id":1226191,
-        "qs:id":479167,
         "qs_pg:id":479167
     },
     "wof:country":"TH",
@@ -77,7 +76,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1497290824,
+    "wof:lastmodified":1566656337,
     "wof:name":"Thalang",
     "wof:parent_id":1108802759,
     "wof:placetype":"locality",

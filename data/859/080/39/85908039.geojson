@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00049,
-    "geom:area_square_m":5889598.023571,
+    "geom:area_square_m":5889598.023569,
     "geom:bbox":"100.567474365,13.7500568052,100.591636511,13.7861104118",
     "geom:latitude":13.769531,
     "geom:longitude":100.580366,
@@ -14,6 +14,7 @@
     "iso:country":"TH",
     "lbl:latitude":13.772829,
     "lbl:longitude":100.575729,
+    "lbl:max_zoom":18.0,
     "mps:latitude":13.769525,
     "mps:longitude":100.58256,
     "mz:hierarchy_label":1,
@@ -31,9 +32,8 @@
     "name:tha_x_preferred":[
         "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e49\u0e27\u0e22\u0e02\u0e27\u0e32\u0e07"
     ],
-    "name:unk_x_variant":[
-        "Ban Hui Kwang",
-        "Huai Khwaeng"
+    "name:und_x_variant":[
+        "Ban Hui Kwang"
     ],
     "qs:gn_adm0_cc":"TH",
     "qs:gn_fcode":"PPL",
@@ -63,7 +63,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85678739,
         102191569,
@@ -75,7 +75,6 @@
     "wof:concordances":{
         "gn:id":1618970,
         "gp:id":28349060,
-        "qs:id":898369,
         "qs_pg:id":898369
     },
     "wof:country":"TH",
@@ -94,7 +93,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1497313543,
+    "wof:lastmodified":1566657682,
     "wof:name":"Huai Khwaeng",
     "wof:parent_id":102025263,
     "wof:placetype":"neighbourhood",

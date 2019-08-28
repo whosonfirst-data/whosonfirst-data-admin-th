@@ -11,11 +11,15 @@
     "geom:longitude":99.07972,
     "gn:country":"TH",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424960,
     "iso:country":"TH",
+    "lbl:bbox":"99.05972,18.80803,99.09972,18.84803",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "San Pu Loei"
     ],
@@ -31,7 +35,7 @@
     "name:tha_x_variant":[
         "\u0e15\u0e33\u0e1a\u0e25\u0e2a\u0e31\u0e19\u0e1b\u0e39\u0e40\u0e25\u0e22"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "B\u0101n San Pu Loi"
     ],
     "qs:name":"San Pu Loei",
@@ -56,7 +60,7 @@
     "wof:concordances":{
         "gn:id":1154829,
         "gp:id":55945145,
-        "qs:id":225531,
+        "qs_pg:id":225531,
         "wd:id":"Q7415188",
         "wk:page":"San Pu Loei"
     },
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":890467341,
-    "wof:lastmodified":1563298307,
+    "wof:lastmodified":1566663221,
     "wof:name":"San Pu Loei",
     "wof:parent_id":85678619,
     "wof:placetype":"locality",

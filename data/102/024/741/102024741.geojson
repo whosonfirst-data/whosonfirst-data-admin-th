@@ -12,10 +12,13 @@
     "iso:country":"TH",
     "lbl:latitude":15.263154,
     "lbl:longitude":100.347874,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":15.263154,
     "mps:longitude":100.347874,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Takhli"
     ],
@@ -34,7 +37,7 @@
     "name:tha_x_variant":[
         "\u0e15\u0e32\u0e04\u0e25\u0e35"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ban Ta Khli"
     ],
     "qs:a1":"*",
@@ -50,7 +53,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":47,
     "wof:belongsto":[
         102191569,
@@ -61,7 +64,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1605912,
-        "qs:id":278441,
         "qs_pg:id":278441,
         "wd:id":"Q7678201",
         "wk:page":"Takhli"
@@ -78,7 +80,7 @@
         }
     ],
     "wof:id":102024741,
-    "wof:lastmodified":1561758379,
+    "wof:lastmodified":1566656354,
     "wof:name":"Takhli",
     "wof:parent_id":890465891,
     "wof:placetype":"locality",

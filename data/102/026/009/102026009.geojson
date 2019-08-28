@@ -14,10 +14,13 @@
     "iso:country":"TH",
     "lbl:latitude":13.469764,
     "lbl:longitude":101.574097,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":13.469764,
     "mps:longitude":101.574097,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Okongo"
     ],
@@ -30,7 +33,7 @@
     "name:tha_x_preferred":[
         "\u0e17\u0e48\u0e32\u0e15\u0e30\u0e40\u0e01\u0e35\u0e22\u0e1a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "King Amphoe Tha Takiap"
     ],
     "qs:a0":"Thailand",
@@ -48,7 +51,7 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -59,7 +62,7 @@
         "fct:id":"07ce99e8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":7510933,
         "gp:id":28341341,
-        "qs:id":1013802,
+        "qs_pg:id":1013802,
         "wk:page":"Okongo"
     },
     "wof:country":"TH",
@@ -76,7 +79,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564101363,
+    "wof:lastmodified":1566656499,
     "wof:name":"Tha Takiap",
     "wof:parent_id":85678797,
     "wof:placetype":"locality",

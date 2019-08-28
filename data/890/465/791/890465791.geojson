@@ -11,7 +11,7 @@
     "geom:longitude":100.311826,
     "gn:country":"TH",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"TH",
     "label:eng_x_preferred_longname":[
         "Sai Noi District"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":14.004857,
     "lbl:longitude":100.310951,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"NONTHABURI",
     "meso:diss_me":"Sai NoiNONTHABURI",
     "meso:gadm_admin":"Sai Noi",
@@ -38,6 +40,7 @@
     "mps:longitude":100.310951,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09b8\u09be\u0987 \u09a8\u09cb\u0987"
     ],
@@ -68,9 +71,6 @@
     "name:tha_x_variant":[
         "\u0e44\u0e17\u0e23\u0e19\u0e49\u0e2d\u0e22"
     ],
-    "name:unk_x_variant":[
-        "Amphoe Sai Noi"
-    ],
     "name:urd_x_preferred":[
         "\u0633\u06cc \u0646\u0648\u06cc \u0636\u0644\u0639"
     ],
@@ -85,9 +85,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"186",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -108,7 +108,7 @@
     "wof:concordances":{
         "gn:id":1606836,
         "hasc:id":"TH.NO.SN",
-        "qs:id":1151776,
+        "qs_pg:id":1151776,
         "wd:id":"Q476588",
         "wk:page":"Sai Noi District"
     },
@@ -124,7 +124,7 @@
         }
     ],
     "wof:id":890465791,
-    "wof:lastmodified":1563298247,
+    "wof:lastmodified":1566663187,
     "wof:name":"Sai Noi",
     "wof:parent_id":85678743,
     "wof:placetype":"county",

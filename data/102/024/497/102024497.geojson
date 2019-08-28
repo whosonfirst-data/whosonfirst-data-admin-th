@@ -12,10 +12,13 @@
     "iso:country":"TH",
     "lbl:latitude":13.955288,
     "lbl:longitude":100.066712,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":13.955288,
     "mps:longitude":100.066712,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09a6\u09cb\u09a8 \u09a4\u09c1\u09ae"
     ],
@@ -46,9 +49,6 @@
     "name:tha_x_variant":[
         "\u0e14\u0e2d\u0e19\u0e15\u0e39\u0e21"
     ],
-    "name:unk_x_variant":[
-        "\u0e14\u0e2d\u0e19\u0e15\u0e39\u0e21"
-    ],
     "name:urd_x_preferred":[
         "\u062f\u0648\u0646 \u062a\u0648\u0645 \u0636\u0644\u0639"
     ],
@@ -73,7 +73,7 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":207,
     "wof:belongsto":[
         102191569,
@@ -84,7 +84,7 @@
     "wof:concordances":{
         "gn:id":1157794,
         "gp:id":28341541,
-        "qs:id":887998,
+        "qs_pg:id":887998,
         "wd:id":"Q475484"
     },
     "wof:country":"TH",
@@ -98,7 +98,7 @@
         }
     ],
     "wof:id":102024497,
-    "wof:lastmodified":1563290216,
+    "wof:lastmodified":1566656333,
     "wof:name":"Don Tum",
     "wof:parent_id":85678747,
     "wof:placetype":"locality",

@@ -11,8 +11,12 @@
     "geom:longitude":101.270864,
     "gp:adm0":23424960,
     "iso:country":"TH",
+    "lbl:bbox":"101.2508645,13.684575,101.2908645,13.724575",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:als_x_preferred":[
         "Mai"
     ],
@@ -75,7 +79,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55946739,
-        "qs:id":476675,
+        "qs_pg:id":476675,
         "wk:page":"Mai"
     },
     "wof:country":"TH",
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":890466567,
-    "wof:lastmodified":1564109669,
+    "wof:lastmodified":1566663240,
     "wof:name":"Mai",
     "wof:parent_id":85678797,
     "wof:placetype":"locality",

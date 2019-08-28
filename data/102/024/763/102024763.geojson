@@ -13,10 +13,13 @@
     "iso:country":"TH",
     "lbl:latitude":6.024019,
     "lbl:longitude":101.959178,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":6.024019,
     "mps:longitude":101.959178,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ceb_x_preferred":[
         "Su-ngai Kolok"
     ],
@@ -58,9 +61,6 @@
     "name:tha_x_variant":[
         "\u0e2a\u0e38\u0e44\u0e2b\u0e07\u0e42\u0e01-\u0e25\u0e01"
     ],
-    "name:unk_x_variant":[
-        "Kolok"
-    ],
     "qs:a0":"Thailand",
     "qs:a1":"*Narathiwat",
     "qs:a1r":"*",
@@ -78,7 +78,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":136,
     "wof:belongsto":[
@@ -92,7 +92,6 @@
         "fct:id":"07ce9952-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1606050,
         "gp:id":1225675,
-        "qs:id":7341,
         "qs_pg:id":7341,
         "wd:id":"Q1770801",
         "wk:page":"Su-ngai Kolok"
@@ -112,7 +111,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563290173,
+    "wof:lastmodified":1566656297,
     "wof:name":"Su-ngai Kolok",
     "wof:parent_id":890466217,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"TH",
     "lbl:latitude":13.687808,
     "lbl:longitude":99.929763,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":13.687808,
     "mps:longitude":99.929763,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ac\u09cd\u09af\u09be\u0982 \u09ab\u09be\u09af\u09bc\u09c7"
     ],
@@ -44,7 +47,7 @@
     "name:tha_x_variant":[
         "\u0e1a\u0e32\u0e07\u0e41\u0e1e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tha Rap"
     ],
     "name:vie_x_preferred":[
@@ -68,7 +71,7 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":245,
     "wof:belongsto":[
@@ -80,7 +83,7 @@
     "wof:concordances":{
         "gn:id":1157683,
         "gp:id":28341556,
-        "qs:id":260068,
+        "qs_pg:id":260068,
         "wd:id":"Q389287"
     },
     "wof:country":"TH",
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":102024489,
-    "wof:lastmodified":1563290286,
+    "wof:lastmodified":1566656380,
     "wof:name":"Bang Phae",
     "wof:parent_id":85678761,
     "wof:placetype":"locality",

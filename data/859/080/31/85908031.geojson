@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001963,
-    "geom:area_square_m":23565369.506823,
+    "geom:area_square_m":23565369.506832,
     "geom:bbox":"100.540674635,13.7954061726,100.590820312,13.8664634326",
     "geom:latitude":13.827528,
     "geom:longitude":100.562561,
@@ -13,6 +13,7 @@
     "iso:country":"TH",
     "lbl:latitude":13.815787,
     "lbl:longitude":100.562248,
+    "lbl:max_zoom":18.0,
     "mps:latitude":13.839002,
     "mps:longitude":100.554209,
     "mz:hierarchy_label":1,
@@ -29,9 +30,6 @@
     ],
     "name:eng_x_variant":[
         "Chatuchak Khwang"
-    ],
-    "name:unk_x_variant":[
-        "Chatuchak Khwaeng"
     ],
     "qs:gn_adm0_cc":"TH",
     "qs:gn_id":0,
@@ -60,7 +58,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85678739,
         102191569,
@@ -71,7 +69,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28349047,
-        "qs:id":237359,
         "qs_pg:id":237359
     },
     "wof:country":"TH",
@@ -90,7 +87,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527269173,
+    "wof:lastmodified":1566657682,
     "wof:name":"Chatuchak Khwaeng",
     "wof:parent_id":102025833,
     "wof:placetype":"neighbourhood",

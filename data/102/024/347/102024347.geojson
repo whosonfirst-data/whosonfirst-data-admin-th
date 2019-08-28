@@ -13,10 +13,13 @@
     "iso:country":"TH",
     "lbl:latitude":7.798041,
     "lbl:longitude":99.619117,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":7.798041,
     "mps:longitude":99.619117,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09b9\u09c1\u09af\u09bc\u09be\u0987 \u09af\u09bc\u09cb\u09a4"
     ],
@@ -54,7 +57,7 @@
         "\u0e2b\u0e49\u0e27\u0e22\u0e22\u0e2d\u0e14",
         "\u0e1a\u0e49\u0e32\u0e19\u0e19\u0e49\u0e33\u0e1e\u0e23\u0e32\u0e22"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ban Nam Phrai"
     ],
     "name:vie_x_preferred":[
@@ -78,7 +81,7 @@
     "qs:type":"Town",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":165,
     "wof:belongsto":[
@@ -92,7 +95,7 @@
         "fct:id":"07d40cd4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1153241,
         "gp:id":28341653,
-        "qs:id":130620,
+        "qs_pg:id":130620,
         "wd:id":"Q475551"
     },
     "wof:country":"TH",
@@ -110,7 +113,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563290244,
+    "wof:lastmodified":1566656351,
     "wof:name":"Huai Yot",
     "wof:parent_id":890466209,
     "wof:placetype":"locality",

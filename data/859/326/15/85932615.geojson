@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000045,
-    "geom:area_square_m":540065.995589,
+    "geom:area_square_m":540065.995584,
     "geom:bbox":"100.501102394,13.7013432944,100.508422852,13.7100353383",
     "geom:latitude":13.706128,
     "geom:longitude":100.504998,
@@ -13,6 +13,7 @@
     "iso:country":"TH",
     "lbl:latitude":13.706962,
     "lbl:longitude":100.505683,
+    "lbl:max_zoom":18.0,
     "mps:latitude":13.706998,
     "mps:longitude":100.505364,
     "mz:hierarchy_label":1,
@@ -25,9 +26,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":5,
     "name:eng_x_preferred":[
-        "Wat Phraya Krai"
-    ],
-    "name:unk_x_variant":[
         "Wat Phraya Krai"
     ],
     "qs:gn_adm0_cc":"TH",
@@ -57,7 +55,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85678739,
         102191569,
@@ -68,7 +66,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55948112,
-        "qs:id":476772,
         "qs_pg:id":476772
     },
     "wof:country":"TH",
@@ -87,7 +84,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527269353,
+    "wof:lastmodified":1566657698,
     "wof:name":"Wat Phraya Krai",
     "wof:parent_id":102025263,
     "wof:placetype":"neighbourhood",

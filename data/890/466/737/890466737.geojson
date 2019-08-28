@@ -11,11 +11,15 @@
     "geom:longitude":99.24627,
     "gn:country":"TH",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424960,
     "iso:country":"TH",
+    "lbl:bbox":"99.22627,10.41561,99.26627,10.45561",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bod_x_preferred":[
         "\u0f45\u0f74\u0f58\u0f0b\u0f55\u0f71\u0f7c\u0f53\u0f0d"
     ],
@@ -73,7 +77,7 @@
     "name:tha_x_variant":[
         "\u0e40\u0e17\u0e28\u0e1a\u0e32\u0e25\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e0a\u0e38\u0e21\u0e1e\u0e23"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "P\u0101k Nam"
     ],
     "name:vie_x_preferred":[
@@ -108,9 +112,11 @@
     "wof:concordances":{
         "gn:id":1153557,
         "gp:id":1225964,
-        "qs:id":1040076,
         "qs_pg:id":238761,
         "wd:id":"Q637500"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1040076
     },
     "wof:country":"TH",
     "wof:created":1469053591,
@@ -125,7 +131,7 @@
         }
     ],
     "wof:id":890466737,
-    "wof:lastmodified":1561758888,
+    "wof:lastmodified":1566663243,
     "wof:name":"Ban Pak Nam Chumphon",
     "wof:parent_id":890466037,
     "wof:placetype":"locality",

@@ -11,14 +11,17 @@
     "geom:longitude":101.014567,
     "gn:country":"TH",
     "gn:fcode":"PPLA2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"TH",
     "lbl:latitude":15.806201,
     "lbl:longitude":101.004819,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":15.806201,
     "mps:longitude":101.004819,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ac\u09c1\u09af\u09bc\u09c7\u0982 \u09b8\u09be\u09ae \u09ab\u09be\u09a8"
     ],
@@ -46,12 +49,6 @@
     "name:tha_x_variant":[
         "\u0e1a\u0e36\u0e07\u0e2a\u0e32\u0e21\u0e1e\u0e31\u0e19"
     ],
-    "name:und_x_preferred":[
-        "Bueng Sam Phan"
-    ],
-    "name:unk_x_variant":[
-        "\u0e1a\u0e36\u0e07\u0e2a\u0e32\u0e21\u0e1e\u0e31\u0e19"
-    ],
     "name:vie_x_preferred":[
         "Bueng Sam Phan"
     ],
@@ -77,7 +74,7 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":238,
     "wof:belongsto":[
@@ -90,7 +87,7 @@
         "fct:id":"07d4bb02-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1611467,
         "gp:id":28340967,
-        "qs:id":370897,
+        "qs_pg:id":370897,
         "wd:id":"Q475300",
         "wk:page":"Bueng Sam Phan District"
     },
@@ -108,7 +105,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563290476,
+    "wof:lastmodified":1566656506,
     "wof:name":"Bueng Sam Phan",
     "wof:parent_id":85678673,
     "wof:placetype":"locality",

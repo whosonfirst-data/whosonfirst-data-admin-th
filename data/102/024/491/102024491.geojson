@@ -5,25 +5,28 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002456,
-    "geom:area_square_m":29531398.574846,
+    "geom:area_square_m":29531398.574857,
     "geom:bbox":"99.8865880504,13.4500382799,99.9536132813,13.5215377013",
     "geom:latitude":13.481584,
     "geom:longitude":99.92294,
     "gn:country":"TH",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424960,
     "iso:country":"TH",
     "lbl:latitude":13.465504,
     "lbl:longitude":99.909487,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":13.465504,
     "mps:longitude":99.909487,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:tha_x_preferred":[
         "\u0e1a\u0e49\u0e32\u0e19\u0e04\u0e25\u0e2d\u0e07\u0e44\u0e17\u0e22"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ban Khlong Thai"
     ],
     "qs:a0":"Thailand",
@@ -52,7 +55,7 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -64,7 +67,7 @@
     "wof:concordances":{
         "gn:id":8342445,
         "gp:id":1225049,
-        "qs:id":227487
+        "qs_pg:id":227487
     },
     "wof:country":"TH",
     "wof:geomhash":"8e38e864b6e53dcdcf5700ede9841806",
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":102024491,
-    "wof:lastmodified":1505338981,
+    "wof:lastmodified":1566656340,
     "wof:name":"Bang Khon Thi",
     "wof:parent_id":1108731165,
     "wof:placetype":"locality",

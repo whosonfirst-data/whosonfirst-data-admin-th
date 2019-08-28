@@ -11,15 +11,19 @@
     "geom:longitude":100.23022,
     "gn:country":"TH",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424960,
     "iso:country":"TH",
+    "lbl:bbox":"100.21022,16.17772,100.25022,16.21772",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:tha_x_preferred":[
         "\u0e1a\u0e49\u0e32\u0e19\u0e1a\u0e32\u0e07\u0e25\u0e32\u0e22"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bang Lai"
     ],
     "qs:name":"Ban Bang Lai (1)",
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":1620793,
         "gp:id":1200727,
-        "qs:id":1060911
+        "qs_pg:id":1060911
     },
     "wof:country":"TH",
     "wof:created":1469053592,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":890466767,
-    "wof:lastmodified":1505343708,
+    "wof:lastmodified":1566663271,
     "wof:name":"Ban Bang Lai (1)",
     "wof:parent_id":85678669,
     "wof:placetype":"locality",

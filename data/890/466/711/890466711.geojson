@@ -11,11 +11,15 @@
     "geom:longitude":99.91011,
     "gn:country":"TH",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424960,
     "iso:country":"TH",
+    "lbl:bbox":"99.89011,8.43126,99.93011,8.47126",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ac\u09be\u09a8 \u09a8\u09be \u09a6\u09cb\u09af\u09bc\u09c7\u09ae"
     ],
@@ -49,7 +53,7 @@
     "name:tha_x_variant":[
         "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e1a\u0e49\u0e32\u0e19\u0e19\u0e32\u0e40\u0e14\u0e34\u0e21"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nakhian"
     ],
     "name:vie_x_preferred":[
@@ -75,7 +79,7 @@
     "wof:concordances":{
         "gn:id":1156197,
         "gp:id":1211626,
-        "qs:id":1013277,
+        "qs_pg:id":1013277,
         "wd:id":"Q475141",
         "wk:page":"Ban Na Doem District"
     },
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":890466711,
-    "wof:lastmodified":1563298460,
+    "wof:lastmodified":1566663295,
     "wof:name":"Ban Na Khian",
     "wof:parent_id":85678565,
     "wof:placetype":"locality",

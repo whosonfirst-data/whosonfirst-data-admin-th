@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.242296,
     "lbl:longitude":100.718334,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"PHRA NAKHON SI AYUTTHAYA",
     "meso:diss_me":"Wang NoiPHRA NAKHON SI AYUTTHAYA",
     "meso:gadm_admin":"Wang Noi",
@@ -35,6 +37,7 @@
     "mps:longitude":100.718334,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09f1\u09be\u0982 \u09a8\u09cb\u0987"
     ],
@@ -72,9 +75,9 @@
         "Wang Noi"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"219",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":1108732053,
-    "wof:lastmodified":1563296476,
+    "wof:lastmodified":1566661721,
     "wof:name":"Wang Noi",
     "wof:parent_id":85678721,
     "wof:placetype":"county",

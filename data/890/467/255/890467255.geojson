@@ -11,7 +11,7 @@
     "geom:longitude":100.717736,
     "gn:country":"TH",
     "gn:fcode":"PPLA2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424960,
     "iso:country":"TH",
     "label:eng_x_preferred_longname":[
@@ -22,6 +22,8 @@
     ],
     "lbl:latitude":14.53807,
     "lbl:longitude":100.717709,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"PHRA NAKHON SI AYUTTHAYA",
     "meso:diss_me":"Tha RuaPHRA NAKHON SI AYUTTHAYA",
     "meso:gadm_admin":"Tha Rua",
@@ -39,6 +41,7 @@
     "mps:longitude":100.717709,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09a5\u09be \u09b0\u09c1\u09af\u09bc\u09be"
     ],
@@ -90,9 +93,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"106",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -114,7 +117,7 @@
         "gn:id":7510913,
         "gp:id":28341517,
         "hasc:id":"TH.PA.TR",
-        "qs:id":206818,
+        "qs_pg:id":206818,
         "wd:id":"Q476847",
         "wk:page":"Tha Ruea District"
     },
@@ -130,7 +133,7 @@
         }
     ],
     "wof:id":890467255,
-    "wof:lastmodified":1563298333,
+    "wof:lastmodified":1566663234,
     "wof:name":"Tha Rua",
     "wof:parent_id":85678721,
     "wof:placetype":"county",

@@ -11,7 +11,7 @@
     "geom:longitude":103.799336,
     "gn:country":"TH",
     "gn:fcode":"PPLA2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"TH",
     "label:eng_x_preferred_longname":[
         "Pho Chai District"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":16.35745,
     "lbl:longitude":103.789769,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"ROIET",
     "meso:diss_me":"Pho ChaiROIET",
     "meso:gadm_admin":"Pho Chai",
@@ -34,6 +36,7 @@
     "meso:source":"AOTM",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ab\u09cb \u099a\u09bf"
     ],
@@ -62,9 +65,9 @@
         "Pho Chai"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -75,7 +78,7 @@
         "gn:id":7510989,
         "gp:id":28341186,
         "hasc:id":"TH.RE.PC",
-        "qs:id":1264421,
+        "qs_pg:id":1264421,
         "wd:id":"Q476408",
         "wk:page":"Khok Pho Chai District"
     },
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1108802719,
-    "wof:lastmodified":1563296432,
+    "wof:lastmodified":1566661696,
     "wof:name":"Pho Chai",
     "wof:parent_id":85678845,
     "wof:placetype":"county",

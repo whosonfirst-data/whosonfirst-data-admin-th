@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000261,
+    "geom:area_square_m":3131103.818171,
     "geom:bbox":"101.268221847,13.7703665002,101.28670973,13.78843645",
     "geom:latitude":13.779402,
     "geom:longitude":101.277466,
@@ -13,9 +14,13 @@
     "iso:country":"TH",
     "lbl:latitude":13.779402,
     "lbl:longitude":101.277466,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":13.779402,
     "mps:longitude":101.277466,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ban Ratchasan"
     ],
@@ -23,9 +28,6 @@
         "Ratchasan"
     ],
     "name:tha_x_preferred":[
-        "\u0e23\u0e32\u0e0a\u0e2a\u0e32\u0e2a\u0e4c\u0e19"
-    ],
-    "name:unk_x_variant":[
         "\u0e23\u0e32\u0e0a\u0e2a\u0e32\u0e2a\u0e4c\u0e19"
     ],
     "qs:a0":"Thailand",
@@ -43,7 +45,7 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -54,7 +56,7 @@
         "fct:id":"07ced836-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1613759,
         "gp:id":28341334,
-        "qs:id":270619
+        "qs_pg:id":270619
     },
     "wof:country":"TH",
     "wof:geomhash":"ec5d4d4f32057b1500464acaa86ed607",
@@ -70,7 +72,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1501221066,
+    "wof:lastmodified":1566656455,
     "wof:name":"Ratchasan",
     "wof:parent_id":85678797,
     "wof:placetype":"locality",

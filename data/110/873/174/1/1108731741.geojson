@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.768962,
     "lbl:longitude":104.357444,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"SI SA KET",
     "meso:diss_me":"Phrai BungSI SA KET",
     "meso:gadm_admin":"Phrai Bung",
@@ -35,6 +37,7 @@
     "mps:longitude":104.357444,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ab\u09b0\u09be\u0987 \u09ac\u09c1\u09af\u09bc\u09c7\u0982"
     ],
@@ -69,9 +72,9 @@
         "Phrai Bueng"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"249",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":1108731741,
-    "wof:lastmodified":1563296478,
+    "wof:lastmodified":1566661722,
     "wof:name":"Phrai Bung",
     "wof:parent_id":85678779,
     "wof:placetype":"county",

@@ -11,11 +11,15 @@
     "geom:longitude":99.77242,
     "gn:country":"TH",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424960,
     "iso:country":"TH",
+    "lbl:bbox":"99.75242,14.56531,99.79242,14.60531",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09b2\u09be\u0993\u0996\u09f1\u09be\u09a8"
     ],
@@ -46,7 +50,7 @@
     "name:tha_x_variant":[
         "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e40\u0e25\u0e32\u0e02\u0e27\u0e31\u0e0d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ban Lau Kwan"
     ],
     "name:urd_x_preferred":[
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":1156658,
         "gp:id":1225462,
-        "qs:id":1116836,
+        "qs_pg:id":1116836,
         "wd:id":"Q475895",
         "wk:page":"Lao Khwan District"
     },
@@ -89,7 +93,7 @@
         }
     ],
     "wof:id":890466915,
-    "wof:lastmodified":1563298397,
+    "wof:lastmodified":1566663264,
     "wof:name":"Lao Khwan",
     "wof:parent_id":85678663,
     "wof:placetype":"locality",

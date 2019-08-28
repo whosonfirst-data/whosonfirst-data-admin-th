@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000444,
-    "geom:area_square_m":5328311.11687,
+    "geom:area_square_m":5328311.116868,
     "geom:bbox":"100.446465036,13.7262876511,100.475463867,13.7473889243",
     "geom:latitude":13.737155,
     "geom:longitude":100.460217,
@@ -14,6 +14,7 @@
     "iso:country":"TH",
     "lbl:latitude":13.737003,
     "lbl:longitude":100.463497,
+    "lbl:max_zoom":18.0,
     "mps:latitude":13.737305,
     "mps:longitude":100.459941,
     "mz:hierarchy_label":1,
@@ -31,9 +32,8 @@
     "name:tha_x_preferred":[
         "\u0e1a\u0e49\u0e32\u0e19\u0e04\u0e39\u0e2b\u0e32\u0e2a\u0e27\u0e23\u0e23\u0e04\u0e4c"
     ],
-    "name:unk_x_variant":[
-        "Ban Khuha Sawan",
-        "Khuha Sawan"
+    "name:und_x_variant":[
+        "Ban Khuha Sawan"
     ],
     "qs:gn_adm0_cc":"TH",
     "qs:gn_fcode":"PPL",
@@ -63,7 +63,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85678739,
         102191569,
@@ -75,7 +75,6 @@
     "wof:concordances":{
         "gn:id":8339155,
         "gp:id":55948111,
-        "qs:id":361175,
         "qs_pg:id":361175
     },
     "wof:country":"TH",
@@ -94,7 +93,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1497316685,
+    "wof:lastmodified":1566657696,
     "wof:name":"Khuha Sawan",
     "wof:parent_id":102025263,
     "wof:placetype":"neighbourhood",

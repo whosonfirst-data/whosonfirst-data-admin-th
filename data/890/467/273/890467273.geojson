@@ -11,15 +11,19 @@
     "geom:longitude":98.88622,
     "gn:country":"TH",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424960,
     "iso:country":"TH",
+    "lbl:bbox":"98.86622,18.61639,98.90622,18.65639",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:tha_x_preferred":[
         "\u0e1a\u0e49\u0e32\u0e19\u0e01\u0e25\u0e32\u0e07"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sankl\u0101ng"
     ],
     "qs:name":"Ban Klang",
@@ -40,7 +44,7 @@
     "wof:concordances":{
         "gn:id":1156858,
         "gp:id":55946615,
-        "qs:id":905325,
+        "qs_pg:id":905325,
         "wk:page":"Ban Klang"
     },
     "wof:country":"TH",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890467273,
-    "wof:lastmodified":1527792894,
+    "wof:lastmodified":1566663213,
     "wof:name":"Ban Klang",
     "wof:parent_id":85678619,
     "wof:placetype":"locality",

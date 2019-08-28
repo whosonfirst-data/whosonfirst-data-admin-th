@@ -12,10 +12,13 @@
     "iso:country":"TH",
     "lbl:latitude":6.604587,
     "lbl:longitude":100.848999,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":6.604587,
     "mps:longitude":100.848999,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09b8\u09be\u09ac\u09be \u09af\u09bc\u09cb\u0987"
     ],
@@ -60,9 +63,6 @@
     "name:tha_x_variant":[
         "\u0e2a\u0e30\u0e1a\u0e49\u0e32\u0e22\u0e49\u0e2d\u0e22"
     ],
-    "name:unk_x_variant":[
-        "Ban Buyong"
-    ],
     "name:urd_x_preferred":[
         "\u0635\u0628\u0627 \u06cc\u0648\u0626\u06cc \u0636\u0644\u0639"
     ],
@@ -87,7 +87,7 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":210,
     "wof:belongsto":[
         102191569,
@@ -99,7 +99,7 @@
         "fct:id":"07cf8eac-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1606944,
         "gp:id":28341705,
-        "qs:id":206695,
+        "qs_pg:id":206695,
         "wd:id":"Q82277"
     },
     "wof:country":"TH",
@@ -116,7 +116,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563290199,
+    "wof:lastmodified":1566656315,
     "wof:name":"Saba Yoi",
     "wof:parent_id":85678603,
     "wof:placetype":"locality",

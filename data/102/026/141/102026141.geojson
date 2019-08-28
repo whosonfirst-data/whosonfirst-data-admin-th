@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000265,
+    "geom:area_square_m":3134471.876999,
     "geom:bbox":"104.432152256,16.6218890582,104.4509044,16.6399679403",
     "geom:latitude":16.630929,
     "geom:longitude":104.441528,
@@ -13,9 +14,13 @@
     "iso:country":"TH",
     "lbl:latitude":16.630928,
     "lbl:longitude":104.441528,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":16.630928,
     "mps:longitude":104.441528,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:tha_x_preferred":[
         "\u0e2b\u0e19\u0e2d\u0e07\u0e40\u0e2d\u0e35\u0e48\u0e22\u0e19"
     ],
@@ -30,7 +35,7 @@
     "qs:source":"Aquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -51,7 +56,7 @@
         }
     ],
     "wof:id":102026141,
-    "wof:lastmodified":1501273267,
+    "wof:lastmodified":1566656510,
     "wof:name":"Nong Ian",
     "wof:parent_id":85678881,
     "wof:placetype":"locality",

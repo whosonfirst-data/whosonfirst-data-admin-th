@@ -12,10 +12,13 @@
     "iso:country":"TH",
     "lbl:latitude":14.632477,
     "lbl:longitude":103.84918,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":14.632477,
     "mps:longitude":103.84918,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09b8\u09be\u0982\u0996\u09be"
     ],
@@ -52,9 +55,6 @@
     "name:tha_x_variant":[
         "\u0e2a\u0e31\u0e07\u0e02\u0e30"
     ],
-    "name:unk_x_variant":[
-        "Khwao"
-    ],
     "name:vie_x_preferred":[
         "Sangkha"
     ],
@@ -76,7 +76,7 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":319,
     "wof:belongsto":[
         102191569,
@@ -89,7 +89,7 @@
         "fct:id":"07cf8f7e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1606543,
         "gp:id":28341277,
-        "qs:id":241733,
+        "qs_pg:id":241733,
         "wd:id":"Q476632"
     },
     "wof:country":"TH",
@@ -107,7 +107,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563290280,
+    "wof:lastmodified":1566656377,
     "wof:name":"Sangkha",
     "wof:parent_id":1108802741,
     "wof:placetype":"locality",

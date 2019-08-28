@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":15.316555,
     "lbl:longitude":105.047169,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"UBON RATCHATHANI",
     "meso:diss_me":"Tan SumUBON RATCHATHANI",
     "meso:gadm_admin":"Donmotdaeng",
@@ -35,6 +37,7 @@
     "mps:longitude":105.047169,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Don Mot Daeng"
     ],
@@ -46,9 +49,9 @@
         "\u0e15\u0e32\u0e25\u0e2a\u0e38\u0e21"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"234",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":1108731965,
-    "wof:lastmodified":1554489431,
+    "wof:lastmodified":1566661747,
     "wof:name":"Tan Sum",
     "wof:parent_id":85678783,
     "wof:placetype":"county",

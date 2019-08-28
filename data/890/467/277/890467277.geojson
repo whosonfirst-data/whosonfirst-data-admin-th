@@ -11,11 +11,15 @@
     "geom:longitude":102.00533,
     "gn:country":"TH",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424960,
     "iso:country":"TH",
+    "lbl:bbox":"101.98533,12.65264,102.02533,12.69264",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09b8\u09cb\u0982 \u09ab\u09bf \u09a8\u09cb\u0982"
     ],
@@ -34,7 +38,7 @@
     "name:tha_x_variant":[
         "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e2a\u0e2d\u0e07\u0e1e\u0e35\u0e48\u0e19\u0e49\u0e2d\u0e07"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Song Phi Naung"
     ],
     "name:vie_x_preferred":[
@@ -63,7 +67,7 @@
     "wof:concordances":{
         "gn:id":1613171,
         "gp:id":55944881,
-        "qs:id":911241,
+        "qs_pg:id":911241,
         "wk:page":"Song Phi Nong District"
     },
     "wof:country":"TH",
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":890467277,
-    "wof:lastmodified":1564109660,
+    "wof:lastmodified":1566663227,
     "wof:name":"Song Phi Nong",
     "wof:parent_id":890466889,
     "wof:placetype":"locality",

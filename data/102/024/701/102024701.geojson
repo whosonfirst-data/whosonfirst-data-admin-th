@@ -13,10 +13,13 @@
     "iso:country":"TH",
     "lbl:latitude":16.942934,
     "lbl:longitude":104.723622,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":16.942934,
     "mps:longitude":104.723622,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:deu_x_preferred":[
         "Wat Phra That Phanom"
     ],
@@ -50,7 +53,7 @@
     "name:tha_x_variant":[
         "\u0e18\u0e32\u0e15\u0e38\u0e1e\u0e19\u0e21"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Amphoe That Phanom"
     ],
     "name:zho_x_preferred":[
@@ -73,7 +76,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":188,
     "wof:belongsto":[
@@ -87,7 +90,6 @@
         "fct:id":"07cf56d0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1605483,
         "gp:id":1225706,
-        "qs:id":349298,
         "qs_pg:id":349298,
         "wd:id":"Q1725518"
     },
@@ -106,7 +108,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563290178,
+    "wof:lastmodified":1566656301,
     "wof:name":"That Phanom",
     "wof:parent_id":890466333,
     "wof:placetype":"locality",

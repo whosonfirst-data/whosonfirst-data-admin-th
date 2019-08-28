@@ -11,7 +11,7 @@
     "geom:longitude":100.217621,
     "gn:country":"TH",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"TH",
     "label:eng_x_preferred_longname":[
         "Song District"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":18.580883,
     "lbl:longitude":100.249766,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"PHRAE",
     "meso:diss_me":"SongPHRAE",
     "meso:gadm_admin":"Song",
@@ -38,6 +40,7 @@
     "mps:longitude":100.249766,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09b8\u09cb\u0982"
     ],
@@ -68,9 +71,6 @@
     "name:tha_x_variant":[
         "\u0e2a\u0e2d\u0e07"
     ],
-    "name:unk_x_variant":[
-        "Amphoe Song"
-    ],
     "name:vie_x_preferred":[
         "Song"
     ],
@@ -82,9 +82,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"1625",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -106,7 +106,7 @@
         "gn:id":1606166,
         "gp:id":28340890,
         "hasc:id":"TH.PR.SO",
-        "qs:id":370802,
+        "qs_pg:id":370802,
         "wd:id":"Q120230",
         "wk:page":"Song District"
     },
@@ -122,7 +122,7 @@
         }
     ],
     "wof:id":890466229,
-    "wof:lastmodified":1563298356,
+    "wof:lastmodified":1566663246,
     "wof:name":"Song",
     "wof:parent_id":85678643,
     "wof:placetype":"county",

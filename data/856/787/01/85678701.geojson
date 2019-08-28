@@ -29,6 +29,7 @@
     ],
     "lbl:latitude":15.172806,
     "lbl:longitude":100.914073,
+    "lbl:min_zoom":8.0,
     "mps:latitude":15.172806,
     "mps:longitude":100.914073,
     "mz:hierarchy_label":1,
@@ -183,7 +184,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0440\u043e\u0432\u0456\u043d\u0446\u0456\u044f \u041b\u043e\u043f\u0431\u0443\u0440\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lobh Buri"
     ],
     "name:urd_x_preferred":[
@@ -272,7 +273,7 @@
     "qs:type":"Province",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wikidata",
     "src:population_date":"2017",
     "statoids:area_km":"6,200",
@@ -300,7 +301,7 @@
         "gp:id":2347159,
         "hasc:id":"TH.LB",
         "iso:id":"TH-16",
-        "qs:id":1030566,
+        "qs_pg:id":1030566,
         "unlc:id":"TH-16",
         "wd:id":"Q336122",
         "wk:page":"Lopburi Province"
@@ -321,11 +322,10 @@
     "wof:lang_x_spoken":[
         "tha"
     ],
-    "wof:lastmodified":1565737057,
+    "wof:lastmodified":1566657719,
     "wof:name":"Lopburi",
     "wof:parent_id":85632293,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":757273,
     "wof:population_rank":11,

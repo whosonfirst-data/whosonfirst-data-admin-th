@@ -14,10 +14,13 @@
     "iso:country":"TH",
     "lbl:latitude":14.599531,
     "lbl:longitude":104.16687,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":14.599531,
     "mps:longitude":104.16687,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ab\u09c1 \u09b8\u09bf\u0982"
     ],
@@ -45,7 +48,7 @@
     "name:tha_x_variant":[
         "\u0e20\u0e39\u0e2a\u0e34\u0e07\u0e2b\u0e4c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "King Amphoe Phu Sing"
     ],
     "name:vie_x_preferred":[
@@ -62,7 +65,7 @@
     "qs:source":"Aquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -71,7 +74,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7510826,
-        "qs:id":1154780,
+        "qs_pg:id":1154780,
         "wd:id":"Q476491",
         "wk:page":"Phu Sing District"
     },
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":102025909,
-    "wof:lastmodified":1563290332,
+    "wof:lastmodified":1566656408,
     "wof:name":"Amphoe Phu Sing",
     "wof:parent_id":85678779,
     "wof:placetype":"locality",

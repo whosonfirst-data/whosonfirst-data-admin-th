@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":5.832213,
     "lbl:longitude":101.160738,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"YALA",
     "meso:diss_me":"BetongYALA",
     "meso:gadm_admin":"Batong",
@@ -35,6 +37,7 @@
     "mps:longitude":101.160738,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ac\u09c7\u09a4\u09cb\u0982"
     ],
@@ -84,9 +87,9 @@
         "\u6728\u4e2d\u53bf"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"1328",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":1108731185,
-    "wof:lastmodified":1563296494,
+    "wof:lastmodified":1566661732,
     "wof:name":"Betong",
     "wof:parent_id":85678611,
     "wof:placetype":"county",

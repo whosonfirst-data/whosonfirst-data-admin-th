@@ -29,6 +29,7 @@
     ],
     "lbl:latitude":12.885892,
     "lbl:longitude":99.654414,
+    "lbl:min_zoom":8.0,
     "mps:latitude":12.885892,
     "mps:longitude":99.654414,
     "mz:hierarchy_label":1,
@@ -194,7 +195,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0440\u043e\u0432\u0456\u043d\u0446\u0456\u044f \u041f\u0445\u0435\u0442\u0431\u0443\u0440\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bejraburi"
     ],
     "name:urd_x_preferred":[
@@ -283,7 +284,7 @@
     "qs:type":"Province",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wikidata",
     "src:population_date":"2017",
     "statoids:area_km":"6,225",
@@ -311,7 +312,7 @@
         "gp:id":2347180,
         "hasc:id":"TH.PE",
         "iso:id":"TH-76",
-        "qs:id":1135378,
+        "qs_pg:id":1135378,
         "unlc:id":"TH-76",
         "wd:id":"Q244699",
         "wk:page":"Phetchaburi Province"
@@ -332,11 +333,10 @@
     "wof:lang_x_spoken":[
         "tha"
     ],
-    "wof:lastmodified":1565737057,
+    "wof:lastmodified":1566657719,
     "wof:name":"Phetchaburi",
     "wof:parent_id":85632293,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":482375,
     "wof:population_rank":10,

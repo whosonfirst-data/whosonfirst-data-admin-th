@@ -14,10 +14,13 @@
     "iso:country":"TH",
     "lbl:latitude":18.432244,
     "lbl:longitude":98.681732,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":18.432244,
     "mps:longitude":98.681732,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bjn_x_preferred":[
         "Chom Thong"
     ],
@@ -38,9 +41,6 @@
     ],
     "name:tha_x_variant":[
         "\u0e40\u0e17\u0e28\u0e1a\u0e32\u0e25\u0e15\u0e33\u0e1a\u0e25\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e25\u0e27\u0e07"
-    ],
-    "name:unk_x_variant":[
-        "Ban Luang"
     ],
     "qs:a0":"Thailand",
     "qs:a1":"*Chiang Mai",
@@ -68,7 +68,7 @@
     "qs:type":"Town",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":41,
     "wof:belongsto":[
@@ -82,7 +82,7 @@
         "fct:id":"07d1c938-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1153634,
         "gp:id":1225960,
-        "qs:id":1048286,
+        "qs_pg:id":1048286,
         "wd:id":"Q13025242",
         "wk:page":"Chom Thong"
     },
@@ -101,7 +101,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563290325,
+    "wof:lastmodified":1566656405,
     "wof:name":"Chom Thong",
     "wof:parent_id":1108802597,
     "wof:placetype":"locality",

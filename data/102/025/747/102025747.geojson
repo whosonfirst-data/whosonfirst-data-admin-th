@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001958,
-    "geom:area_square_m":23535805.557106,
+    "geom:area_square_m":23535805.557134,
     "geom:bbox":"100.826760436,13.5925997571,100.8884505,13.6390094885",
     "geom:latitude":13.615794,
     "geom:longitude":100.857464,
@@ -15,10 +15,13 @@
     "iso:country":"TH",
     "lbl:latitude":13.618712,
     "lbl:longitude":100.851886,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":13.618712,
     "mps:longitude":100.851886,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Bang Bo"
     ],
@@ -29,9 +32,6 @@
     ],
     "name:tha_x_preferred":[
         "\u0e1a\u0e32\u0e07\u0e1a\u0e48\u0e2d"
-    ],
-    "name:unk_x_variant":[
-        "Bang Bo"
     ],
     "name:vie_x_preferred":[
         "B\u1eb1ng L\u0169ng"
@@ -51,7 +51,7 @@
     "qs:type":"Town",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -64,7 +64,7 @@
         "fct:id":"07cf1f4e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1620919,
         "gp:id":1225039,
-        "qs:id":238760
+        "qs_pg:id":238760
     },
     "wof:country":"TH",
     "wof:geomhash":"9cdcd9eb702e07c3756cfbcf4552fc64",
@@ -81,7 +81,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1505338988,
+    "wof:lastmodified":1566656446,
     "wof:name":"Ban Bang Bo (1)",
     "wof:parent_id":1108802683,
     "wof:placetype":"locality",

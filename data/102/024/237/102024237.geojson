@@ -12,10 +12,13 @@
     "iso:country":"TH",
     "lbl:latitude":18.13727,
     "lbl:longitude":99.516395,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":18.13727,
     "mps:longitude":99.516395,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Mae Tha"
     ],
@@ -39,7 +42,7 @@
     "name:tha_x_preferred":[
         "\u0e41\u0e21\u0e48\u0e17\u0e30"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Amphoe Mae Tha"
     ],
     "qs:a0":"Thailand",
@@ -59,7 +62,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":18,
     "wof:belongsto":[
         102191569,
@@ -72,7 +75,6 @@
         "fct:id":"07cfadd8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1152181,
         "gp:id":1226344,
-        "qs:id":1181483,
         "qs_pg:id":1181483
     },
     "wof:country":"TH",
@@ -90,7 +92,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564101312,
+    "wof:lastmodified":1566656390,
     "wof:name":"Mae Tha",
     "wof:parent_id":1108802657,
     "wof:placetype":"locality",

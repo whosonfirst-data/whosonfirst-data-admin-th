@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000082,
-    "geom:area_square_m":983946.928145,
+    "geom:area_square_m":983946.928142,
     "geom:bbox":"100.535221453,13.760041106,100.54820941,13.7727325871",
     "geom:latitude":13.765373,
     "geom:longitude":100.539981,
@@ -13,6 +13,7 @@
     "iso:country":"TH",
     "lbl:latitude":13.763996,
     "lbl:longitude":100.538737,
+    "lbl:max_zoom":18.0,
     "mps:latitude":13.765205,
     "mps:longitude":100.539341,
     "mz:hierarchy_label":1,
@@ -25,9 +26,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":5,
     "name:eng_x_preferred":[
-        "Thanon Phaya Thai"
-    ],
-    "name:unk_x_variant":[
         "Thanon Phaya Thai"
     ],
     "qs:gn_adm0_cc":"TH",
@@ -57,7 +55,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85678739,
         102191569,
@@ -68,7 +66,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55948164,
-        "qs:id":476783,
         "qs_pg:id":476783
     },
     "wof:country":"TH",
@@ -87,7 +84,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527269311,
+    "wof:lastmodified":1566657693,
     "wof:name":"Thanon Phaya Thai",
     "wof:parent_id":102025263,
     "wof:placetype":"neighbourhood",

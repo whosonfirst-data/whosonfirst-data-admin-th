@@ -13,10 +13,13 @@
     "iso:country":"TH",
     "lbl:latitude":8.630329,
     "lbl:longitude":99.360703,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":8.630329,
     "mps:longitude":99.360703,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Amphoe Wiang Sa"
     ],
@@ -27,9 +30,6 @@
         "Wiang Sa"
     ],
     "name:tha_x_preferred":[
-        "\u0e40\u0e27\u0e35\u0e22\u0e07\u0e2a\u0e23\u0e30"
-    ],
-    "name:unk_x_variant":[
         "\u0e40\u0e27\u0e35\u0e22\u0e07\u0e2a\u0e23\u0e30"
     ],
     "qs:a1":"*",
@@ -45,7 +45,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":33,
     "wof:belongsto":[
@@ -59,7 +59,9 @@
         "fct:id":"07cf5c70-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":7511020,
         "gp:id":1225747,
-        "qs:id":276004,
+        "qs_pg:id":276004
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":1048277
     },
     "wof:country":"TH",
@@ -77,7 +79,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564101310,
+    "wof:lastmodified":1566656378,
     "wof:name":"Wiang Sa",
     "wof:parent_id":1108802773,
     "wof:placetype":"locality",

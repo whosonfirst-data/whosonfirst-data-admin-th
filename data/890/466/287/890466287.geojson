@@ -11,7 +11,7 @@
     "geom:longitude":100.371774,
     "gn:country":"TH",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"TH",
     "label:eng_x_preferred_longname":[
         "Wat Bot District"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":17.163984,
     "lbl:longitude":100.382626,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"PHISANULOK",
     "meso:diss_me":"Wat BotPHISANULOK",
     "meso:gadm_admin":"Wat Bot",
@@ -38,6 +40,7 @@
     "mps:longitude":100.382626,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09f1\u09be\u09a4 \u09ac\u09cb\u09a4"
     ],
@@ -68,9 +71,6 @@
     "name:tha_x_variant":[
         "\u0e27\u0e31\u0e14\u0e42\u0e1a\u0e2a\u0e16\u0e4c"
     ],
-    "name:unk_x_variant":[
-        "Amphoe Wat Bot"
-    ],
     "name:vie_x_preferred":[
         "Wat Bot"
     ],
@@ -82,9 +82,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"1326",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -106,7 +106,7 @@
         "gn:id":1605061,
         "gp:id":28340935,
         "hasc:id":"TH.PS.WB",
-        "qs:id":1026893,
+        "qs_pg:id":1026893,
         "wd:id":"Q142603",
         "wk:page":"Wat Bot District"
     },
@@ -122,7 +122,7 @@
         }
     ],
     "wof:id":890466287,
-    "wof:lastmodified":1563298362,
+    "wof:lastmodified":1566663249,
     "wof:name":"Wat Bot",
     "wof:parent_id":85678647,
     "wof:placetype":"county",

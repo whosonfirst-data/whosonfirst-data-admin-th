@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003141,
-    "geom:area_square_m":38422889.557957,
+    "geom:area_square_m":38422889.55795,
     "geom:bbox":"99.4776092904,8.40355720963,99.5616969864,8.48685043208",
     "geom:latitude":8.44764,
     "geom:longitude":99.519324,
@@ -13,10 +13,13 @@
     "iso:country":"TH",
     "lbl:latitude":8.450639,
     "lbl:longitude":99.542324,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":8.450639,
     "mps:longitude":99.542324,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:eng_x_preferred":[
         "Chawang"
     ],
@@ -26,9 +29,6 @@
     ],
     "name:tha_x_preferred":[
         "\u0e09\u0e27\u0e32\u0e07"
-    ],
-    "name:unk_x_variant":[
-        "Ban Tambon Chawang"
     ],
     "qs:a0":"Thailand",
     "qs:a1":"*Nakhon Si Thammarat",
@@ -47,7 +47,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":76,
     "wof:belongsto":[
@@ -61,7 +61,6 @@
         "fct:id":"07cf2520-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1153686,
         "gp:id":1225127,
-        "qs:id":308552,
         "qs_pg:id":308552
     },
     "wof:country":"TH",
@@ -79,7 +78,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636441,
+    "wof:lastmodified":1566656348,
     "wof:name":"Chawang",
     "wof:parent_id":890465693,
     "wof:placetype":"locality",

@@ -14,10 +14,13 @@
     "iso:country":"TH",
     "lbl:latitude":13.774055,
     "lbl:longitude":100.669189,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":13.774055,
     "mps:longitude":100.669189,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0646\u0637\u0642\u0629 \u0633\u0639\u0641\u0627\u0646 \u0633\u0648\u0646\u063a"
     ],
@@ -78,7 +81,7 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -89,7 +92,7 @@
     "wof:concordances":{
         "gn:id":7026889,
         "gp:id":28341425,
-        "qs:id":206799,
+        "qs_pg:id":206799,
         "wd:id":"Q1019420",
         "wk:page":"Saphan Sung District"
     },
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":102025853,
-    "wof:lastmodified":1563290433,
+    "wof:lastmodified":1566656476,
     "wof:name":"Saphan Sung",
     "wof:parent_id":890465919,
     "wof:placetype":"locality",

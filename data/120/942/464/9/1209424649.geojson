@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Bangkok",
     "iso:country":"TH",
+    "lbl:bbox":"98.29667,19.59667,98.33667,19.63667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632293
@@ -34,7 +38,7 @@
         "gn:id":1118877
     },
     "wof:country":"TH",
-    "wof:geomhash":"f3b6c863c85832e57c659eebd6766727",
+    "wof:geomhash":"0866df9ea38190691dc8ff7146d0312b",
     "wof:hierarchy":[
         {
             "country_id":85632293,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209424649,
-    "wof:lastmodified":1536287419,
+    "wof:lastmodified":1566660747,
     "wof:name":"Ban Musoe",
     "wof:parent_id":85632293,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     98.31667,
-    19.616670000000006,
+    19.61667000000001,
     98.31667,
-    19.616670000000006
+    19.61667000000001
 ],
   "geometry": {"coordinates":[98.31667,19.61667000000001],"type":"Point"}
 }

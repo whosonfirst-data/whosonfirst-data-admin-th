@@ -11,15 +11,19 @@
     "geom:longitude":99.86656,
     "gn:country":"TH",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424960,
     "iso:country":"TH",
+    "lbl:bbox":"99.84656,13.16992,99.88656,13.20992",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:tha_x_preferred":[
         "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e19\u0e2d\u0e07\u0e1b\u0e25\u0e32\u0e44\u0e2b\u0e25"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ban Nong Pla Lai"
     ],
     "qs:name":"Ban Nong Pla Lai (1)",
@@ -43,7 +47,7 @@
     "wof:concordances":{
         "gn:id":1155674,
         "gp:id":1215396,
-        "qs:id":266841
+        "qs_pg:id":266841
     },
     "wof:country":"TH",
     "wof:created":1469053555,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":890465995,
-    "wof:lastmodified":1505343706,
+    "wof:lastmodified":1566663198,
     "wof:name":"Ban Nong Pla Lai (1)",
     "wof:parent_id":85678753,
     "wof:placetype":"locality",

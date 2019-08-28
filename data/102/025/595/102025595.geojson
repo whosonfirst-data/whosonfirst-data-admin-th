@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001828,
-    "geom:area_square_m":22041664.244742,
+    "geom:area_square_m":22041664.244746,
     "geom:bbox":"101.817581697,12.7224105702,101.912888677,12.8047627069",
     "geom:latitude":12.763541,
     "geom:longitude":101.874809,
@@ -14,10 +14,13 @@
     "iso:country":"TH",
     "lbl:latitude":12.752865,
     "lbl:longitude":101.859602,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":12.752865,
     "mps:longitude":101.859602,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ban Na Yai Am"
     ],
@@ -25,9 +28,6 @@
         "Na Yai Am"
     ],
     "name:tha_x_preferred":[
-        "\u0e19\u0e32\u0e22\u0e32\u0e22\u0e2d\u0e32\u0e21"
-    ],
-    "name:unk_x_variant":[
         "\u0e19\u0e32\u0e22\u0e32\u0e22\u0e2d\u0e32\u0e21"
     ],
     "qs:a0":"Thailand",
@@ -45,7 +45,7 @@
     "qs:type":"Town",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -57,7 +57,7 @@
         "fct:id":"07cefcd0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1616066,
         "gp:id":28341371,
-        "qs:id":1113823
+        "qs_pg:id":1113823
     },
     "wof:country":"TH",
     "wof:geomhash":"48999661c0dbf94917eb95d8fce9c3f5",
@@ -74,7 +74,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1501221068,
+    "wof:lastmodified":1566656415,
     "wof:name":"Na Yai Am",
     "wof:parent_id":1108731567,
     "wof:placetype":"locality",

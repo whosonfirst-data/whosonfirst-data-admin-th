@@ -9,20 +9,23 @@
     "geom:bbox":"99.814,19.34597,99.814,19.34597",
     "geom:latitude":19.34597,
     "geom:longitude":99.814,
-    "gn:gn_country":"TH",
-    "gn:gn_fcode":"PPLA2",
-    "gn:gn_pop":0,
-    "gn:population":5094,
+    "gn:country":"TH",
+    "gn:fcode":"PPLA2",
+    "gn:population":0,
     "iso:country":"TH",
+    "lbl:bbox":"99.794,19.32597,99.834,19.36597",
     "lbl:latitude":19.34597,
     "lbl:longitude":99.814,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:tha_x_preferred":[
         "\u0e41\u0e21\u0e48\u0e43\u0e08"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "B\u0101n Mea J\u0101i T\u0101i"
     ],
     "name:urd_x_preferred":[
@@ -49,7 +52,7 @@
     "qs_pg:woe_adm0":23424960,
     "qs_pg:woe_id":1225472,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424960,
     "woe:name_adm0":"Thailand",
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":1125870013,
-    "wof:lastmodified":1564109691,
+    "wof:lastmodified":1566663297,
     "wof:name":"Mae Chai",
     "wof:parent_id":1108802649,
     "wof:placetype":"locality",

@@ -14,10 +14,13 @@
     "iso:country":"TH",
     "lbl:latitude":6.691887,
     "lbl:longitude":101.332397,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":6.691887,
     "mps:longitude":101.332397,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Mayo"
     ],
@@ -91,9 +94,6 @@
     "name:tha_x_preferred":[
         "\u0e21\u0e32\u0e22\u0e2d"
     ],
-    "name:unk_x_variant":[
-        "Ban Majo"
-    ],
     "name:vol_x_preferred":[
         "Mayo"
     ],
@@ -110,7 +110,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -121,7 +121,6 @@
         "fct:id":"07cf3862-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1608733,
         "gp:id":1225487,
-        "qs:id":1030565,
         "qs_pg:id":1030565
     },
     "wof:country":"TH",
@@ -138,7 +137,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564101347,
+    "wof:lastmodified":1566656473,
     "wof:name":"Mayo",
     "wof:parent_id":85678889,
     "wof:placetype":"locality",

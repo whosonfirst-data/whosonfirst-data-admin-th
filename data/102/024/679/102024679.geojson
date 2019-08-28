@@ -5,20 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002372,
-    "geom:area_square_m":28248027.495892,
+    "geom:area_square_m":28248027.495867,
     "geom:bbox":"104.95954784,15.4287549749,105.132014445,15.7325667757",
     "geom:latitude":15.618614,
     "geom:longitude":105.043356,
     "iso:country":"TH",
     "lbl:latitude":15.702374,
     "lbl:longitude":105.067281,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":15.702374,
     "mps:longitude":105.067281,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:tha_x_preferred":[
         "\u0e15\u0e23\u0e30\u0e01\u0e32\u0e23\u0e1e\u0e37\u0e0a\u0e1c\u0e25"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Amphoe Trakan Phut Phon"
     ],
     "qs:a0":"Thailand",
@@ -36,7 +40,7 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -47,7 +51,7 @@
     "wof:concordances":{
         "gn:id":1605281,
         "gp:id":56064679,
-        "qs:id":355696
+        "qs_pg:id":355696
     },
     "wof:country":"TH",
     "wof:geomhash":"39a77b84ff249a8a3e206d17105bc2bc",
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":102024679,
-    "wof:lastmodified":1501220999,
+    "wof:lastmodified":1566656380,
     "wof:name":"Trakan Phut Phon",
     "wof:parent_id":890466223,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"TH",
     "lbl:latitude":13.99274,
     "lbl:longitude":99.277848,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":13.99274,
     "mps:longitude":99.277848,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Ban Kao"
     ],
@@ -48,7 +51,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":237,
     "wof:belongsto":[
         102191569,
@@ -60,7 +63,6 @@
     "wof:concordances":{
         "gn:id":1157258,
         "gp:id":1205570,
-        "qs:id":1175444,
         "qs_pg:id":1175444,
         "wd:id":"Q24082257"
     },
@@ -76,7 +78,7 @@
         }
     ],
     "wof:id":102024471,
-    "wof:lastmodified":1563290196,
+    "wof:lastmodified":1566656313,
     "wof:name":"Ban Kao",
     "wof:parent_id":1108731901,
     "wof:placetype":"locality",

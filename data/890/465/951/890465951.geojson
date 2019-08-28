@@ -11,7 +11,7 @@
     "geom:longitude":100.450807,
     "gn:country":"TH",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"TH",
     "label:eng_x_preferred_longname":[
         "Phrom Buri District"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":14.783506,
     "lbl:longitude":100.44813,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"SING BURI",
     "meso:diss_me":"Phrom BuriSING BURI",
     "meso:gadm_admin":"Phrom Buri",
@@ -38,6 +40,7 @@
     "mps:longitude":100.44813,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ab\u09b0\u09cb\u09ae \u09ac\u09c1\u09b0\u09bf"
     ],
@@ -68,9 +71,6 @@
     "name:tha_x_variant":[
         "\u0e1e\u0e23\u0e2b\u0e21\u0e1a\u0e38\u0e23\u0e35"
     ],
-    "name:unk_x_variant":[
-        "Amphoe Phrom Buri"
-    ],
     "name:vie_x_preferred":[
         "Phrom Buri"
     ],
@@ -85,9 +85,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"83",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -109,7 +109,7 @@
         "gn:id":1607472,
         "gp:id":28341483,
         "hasc:id":"TH.SB.PB",
-        "qs:id":1243167,
+        "qs_pg:id":1243167,
         "wd:id":"Q476463",
         "wk:page":"Phrom Buri District"
     },
@@ -125,7 +125,7 @@
         }
     ],
     "wof:id":890465951,
-    "wof:lastmodified":1563298270,
+    "wof:lastmodified":1566663199,
     "wof:name":"Phrom Buri",
     "wof:parent_id":85678729,
     "wof:placetype":"county",

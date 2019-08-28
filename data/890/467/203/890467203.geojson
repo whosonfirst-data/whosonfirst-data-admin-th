@@ -20,6 +20,8 @@
     ],
     "lbl:latitude":7.863881,
     "lbl:longitude":98.368232,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"PHUKET",
     "meso:diss_me":"Muang PhuketPHUKET",
     "meso:gadm_admin":"Muang Phuket",
@@ -37,6 +39,7 @@
     "mps:longitude":98.368232,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ae\u09c1\u09af\u09bc\u09c7\u0982 \u09ab\u09c1\u0995\u09c7\u09a4"
     ],
@@ -94,9 +97,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"224",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -115,7 +118,7 @@
     "wof:concordances":{
         "gp:id":28341618,
         "hasc:id":"TH.PU.PH",
-        "qs:id":1210956,
+        "qs_pg:id":1210956,
         "wd:id":"Q476065",
         "wk:page":"Mueang Phuket District"
     },
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":890467203,
-    "wof:lastmodified":1563298301,
+    "wof:lastmodified":1566663218,
     "wof:name":"Muang Phuket",
     "wof:parent_id":-1,
     "wof:placetype":"county",

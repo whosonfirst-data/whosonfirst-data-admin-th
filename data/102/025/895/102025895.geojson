@@ -14,10 +14,13 @@
     "iso:country":"TH",
     "lbl:latitude":15.638907,
     "lbl:longitude":101.596069,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":15.638907,
     "mps:longitude":101.596069,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bjn_x_preferred":[
         "Amphoe Sap Yai"
     ],
@@ -48,7 +51,7 @@
     "name:tha_x_variant":[
         "\u0e0b\u0e31\u0e1a\u0e43\u0e2b\u0e0d\u0e48"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "King Amphoe Sap Yai"
     ],
     "name:urd_x_preferred":[
@@ -68,7 +71,7 @@
     "qs:source":"Aquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -77,7 +80,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7510728,
-        "qs:id":1245636,
+        "qs_pg:id":1245636,
         "wd:id":"Q476648",
         "wk:page":"Sap Yai District"
     },
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":102025895,
-    "wof:lastmodified":1563290363,
+    "wof:lastmodified":1566656433,
     "wof:name":"Amphoe Sap Yai",
     "wof:parent_id":85678825,
     "wof:placetype":"locality",

@@ -9,15 +9,18 @@
     "geom:bbox":"102.32941,12.05947,102.32941,12.05947",
     "geom:latitude":12.05947,
     "geom:longitude":102.32941,
-    "gn:gn_country":"TH",
-    "gn:gn_fcode":"ADMD",
-    "gn:gn_pop":0,
-    "gn:population":12346,
+    "gn:country":"TH",
+    "gn:fcode":"ADMD",
+    "gn:population":0,
     "iso:country":"TH",
+    "lbl:bbox":"102.22941,11.95947,102.42941,12.15947",
     "lbl:latitude":12.05947,
     "lbl:longitude":102.32941,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Ko Chang District"
@@ -31,9 +34,6 @@
     "name:tha_x_variant":[
         "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e40\u0e01\u0e32\u0e30\u0e0a\u0e49\u0e32\u0e07"
     ],
-    "name:unk_x_variant":[
-        "Ko Chang"
-    ],
     "qs_pg:aaroncc":"TH",
     "qs_pg:gn_country":"TH",
     "qs_pg:gn_fcode":"ADMD",
@@ -46,7 +46,7 @@
     "qs_pg:qs_id":1038707,
     "qs_pg:qs_pg_placetype":"localadmin",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1125392357,
-    "wof:lastmodified":1509389849,
+    "wof:lastmodified":1566663298,
     "wof:name":"Koh Chang",
     "wof:parent_id":1108731453,
     "wof:placetype":"localadmin",

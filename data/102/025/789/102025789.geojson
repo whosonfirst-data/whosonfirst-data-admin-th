@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001531,
-    "geom:area_square_m":18510556.997455,
+    "geom:area_square_m":18510556.99745,
     "geom:bbox":"102.279031786,11.9819318081,102.311116863,12.0523829966",
     "geom:latitude":12.017632,
     "geom:longitude":102.295201,
@@ -14,10 +14,13 @@
     "iso:country":"TH",
     "lbl:latitude":12.025276,
     "lbl:longitude":102.293904,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":12.025276,
     "mps:longitude":102.293904,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ko Chang District"
     ],
@@ -30,9 +33,6 @@
     "name:tha_x_variant":[
         "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e40\u0e01\u0e32\u0e30\u0e0a\u0e49\u0e32\u0e07"
     ],
-    "name:unk_x_variant":[
-        "Ko Chang"
-    ],
     "qs:a1":"*",
     "qs:a1r":"*",
     "qs:id":0,
@@ -44,7 +44,7 @@
     "qs:source":"Aquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -54,7 +54,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6692475,
-        "qs:id":1038707
+        "qs_pg:id":1038707
     },
     "wof:country":"TH",
     "wof:geomhash":"093976a1b7746aafe8caec0321084574",
@@ -68,7 +68,7 @@
         }
     ],
     "wof:id":102025789,
-    "wof:lastmodified":1506732559,
+    "wof:lastmodified":1566656488,
     "wof:name":"Koh Chang",
     "wof:parent_id":1108731453,
     "wof:placetype":"locality",

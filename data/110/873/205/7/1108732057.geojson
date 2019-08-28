@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":16.353214,
     "lbl:longitude":100.783446,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"PHETCHABUN",
     "meso:diss_me":"Wang PongPHETCHABUN",
     "meso:gadm_admin":"Wang Pong",
@@ -35,6 +37,7 @@
     "mps:longitude":100.783446,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09f1\u09be\u0982 \u09aa\u09cb\u0982"
     ],
@@ -66,9 +69,9 @@
         "Wang Pong"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"543",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":1108732057,
-    "wof:lastmodified":1563296475,
+    "wof:lastmodified":1566661721,
     "wof:name":"Wang Pong",
     "wof:parent_id":85678673,
     "wof:placetype":"county",

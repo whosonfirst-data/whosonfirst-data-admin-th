@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000996,
+    "geom:area_square_m":11756416.498427,
     "geom:bbox":"101.927247938,17.2839266437,101.979001694,17.3124706635",
     "geom:latitude":17.300703,
     "geom:longitude":101.952297,
@@ -13,10 +14,13 @@
     "iso:country":"TH",
     "lbl:latitude":17.30115,
     "lbl:longitude":101.94712,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":17.30115,
     "mps:longitude":101.94712,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Erawan"
     ],
@@ -26,7 +30,7 @@
     "name:tha_x_preferred":[
         "\u0e40\u0e2d\u0e23\u0e32\u0e27\u0e31\u0e13"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "King Amphoe Erawan"
     ],
     "qs:a1":"*",
@@ -42,7 +46,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -53,11 +57,10 @@
         "fct:id":"07ce9c2c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":7510940,
         "gp:id":28349058,
-        "qs:id":1041709,
         "qs_pg:id":1041709
     },
     "wof:concordances_alt":{
-        "qs:id":220124
+        "qs_pg:id":220124
     },
     "wof:country":"TH",
     "wof:geomhash":"da89bb6df44bbc062944faa509e9cd13",
@@ -73,7 +76,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1534379464,
+    "wof:lastmodified":1566656495,
     "wof:name":"Erawan",
     "wof:parent_id":85678853,
     "wof:placetype":"locality",

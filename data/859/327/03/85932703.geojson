@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000304,
-    "geom:area_square_m":3649932.009269,
+    "geom:area_square_m":3649932.009274,
     "geom:bbox":"100.571594238,13.7086614628,100.58807373,13.7313809749",
     "geom:latitude":13.720079,
     "geom:longitude":100.578974,
@@ -14,6 +14,7 @@
     "iso:country":"TH",
     "lbl:latitude":13.722556,
     "lbl:longitude":100.579005,
+    "lbl:max_zoom":18.0,
     "mps:latitude":13.720196,
     "mps:longitude":100.578816,
     "mz:hierarchy_label":1,
@@ -31,9 +32,8 @@
     "name:tha_x_preferred":[
         "\u0e1a\u0e49\u0e32\u0e19\u0e04\u0e25\u0e2d\u0e07\u0e15\u0e31\u0e19"
     ],
-    "name:unk_x_variant":[
-        "Ban Khlong Tan",
-        "Khlong Tan"
+    "name:und_x_variant":[
+        "Ban Khlong Tan"
     ],
     "qs:gn_adm0_cc":"TH",
     "qs:gn_fcode":"PPL",
@@ -63,7 +63,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85678739,
         102191569,
@@ -75,7 +75,6 @@
     "wof:concordances":{
         "gn:id":6866935,
         "gp:id":55948140,
-        "qs:id":237173,
         "qs_pg:id":237173
     },
     "wof:country":"TH",
@@ -94,7 +93,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1497309752,
+    "wof:lastmodified":1566657691,
     "wof:name":"Khlong Tan",
     "wof:parent_id":102025815,
     "wof:placetype":"neighbourhood",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000174,
-    "geom:area_square_m":2091099.553343,
+    "geom:area_square_m":2091099.553341,
     "geom:bbox":"100.464477539,13.7552325394,100.481957846,13.7713987922",
     "geom:latitude":13.764051,
     "geom:longitude":100.471869,
@@ -13,6 +13,7 @@
     "iso:country":"TH",
     "lbl:latitude":13.76496,
     "lbl:longitude":100.473872,
+    "lbl:max_zoom":18.0,
     "mps:latitude":13.764339,
     "mps:longitude":100.471699,
     "mz:hierarchy_label":1,
@@ -29,9 +30,6 @@
     ],
     "name:eng_x_variant":[
         "Bangkok Noi Khwang"
-    ],
-    "name:unk_x_variant":[
-        "Bangkok Noi Khwaeng"
     ],
     "qs:gn_adm0_cc":"TH",
     "qs:gn_id":0,
@@ -60,7 +58,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85678739,
         102191569,
@@ -71,7 +69,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1225073,
-        "qs:id":1168959,
         "qs_pg:id":1168959
     },
     "wof:country":"TH",
@@ -90,7 +87,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527269214,
+    "wof:lastmodified":1566657688,
     "wof:name":"Bangkok Noi Khwaeng",
     "wof:parent_id":102025263,
     "wof:placetype":"neighbourhood",

@@ -11,11 +11,14 @@
     "geom:longitude":100.53928,
     "gn:country":"TH",
     "gn:fcode":"HSP",
-    "gn:pop":100000,
+    "gn:population":100000,
     "iso:country":"TH",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":1,
+    "mz:min_zoom":7.0,
     "name:tha_x_preferred":[
         "SDC1st Dentist (\u0e08\u0e31\u0e14\u0e1f\u0e31\u0e19 \u0e14\u0e31\u0e14\u0e1f\u0e31\u0e19) \u0e28\u0e32\u0e25\u0e32\u0e41\u0e14\u0e07 \u0e0b.1 \u0e17\u0e31\u0e19\u0e15\u0e01\u0e23\u0e23\u0e21"
     ],
@@ -32,7 +35,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8335503,
-        "qs:id":764352
+        "qs_pg:id":764352
     },
     "wof:country":"TH",
     "wof:created":1469053587,
@@ -46,7 +49,7 @@
         }
     ],
     "wof:id":890466635,
-    "wof:lastmodified":1505343707,
+    "wof:lastmodified":1566663259,
     "wof:name":"SDC1st Dentist (\u0e08\u0e31\u0e14\u0e1f\u0e31\u0e19 \u0e14\u0e31\u0e14\u0e1f\u0e31\u0e19) \u0e28\u0e32\u0e25\u0e32\u0e41\u0e14\u0e07 \u0e0b.1 \u0e17\u0e31\u0e19\u0e15\u0e01\u0e23\u0e23\u0e21",
     "wof:parent_id":85678739,
     "wof:placetype":"locality",

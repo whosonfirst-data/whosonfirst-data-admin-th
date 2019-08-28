@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.318609,
     "lbl:longitude":101.416293,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"NAKHON NAYOK",
     "meso:diss_me":"OngkharakNAKHON NAYOK",
     "meso:gadm_admin":"Pak Phli",
@@ -35,6 +37,7 @@
     "mps:longitude":101.416293,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Pak Phli"
     ],
@@ -46,9 +49,9 @@
         "\u0e2d\u0e07\u0e04\u0e23\u0e31\u0e01\u0e29\u0e4c"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"519",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":1108731655,
-    "wof:lastmodified":1554489423,
+    "wof:lastmodified":1566661749,
     "wof:name":"Ongkharak",
     "wof:parent_id":85678705,
     "wof:placetype":"county",

@@ -11,7 +11,7 @@
     "geom:longitude":101.270913,
     "gn:country":"TH",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424960,
     "iso:country":"TH",
     "label:eng_x_preferred_longname":[
@@ -22,6 +22,8 @@
     ],
     "lbl:latitude":6.845154,
     "lbl:longitude":101.266571,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"PATTANI",
     "meso:diss_me":"Muang PattaniPATTANI",
     "meso:gadm_admin":"Muang Pattani",
@@ -39,6 +41,7 @@
     "mps:longitude":101.266571,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ae\u09c1\u09af\u09bc\u09c7\u0982 \u09aa\u09be\u09a4\u09cd\u09a4\u09be\u09a8\u09bf"
     ],
@@ -79,9 +82,6 @@
     "name:tha_x_variant":[
         "\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e1b\u0e31\u0e15\u0e15\u0e32\u0e19\u0e35"
     ],
-    "name:unk_x_variant":[
-        "Pattani"
-    ],
     "name:vie_x_preferred":[
         "Mueang Pattani"
     ],
@@ -101,9 +101,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"97",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -125,7 +125,7 @@
         "gn:id":1608638,
         "gp:id":28341700,
         "hasc:id":"TH.PI.PT",
-        "qs:id":887874,
+        "qs_pg:id":887874,
         "wd:id":"Q476053",
         "wk:page":"Mueang Pattani District"
     },
@@ -141,7 +141,7 @@
         }
     ],
     "wof:id":890466133,
-    "wof:lastmodified":1563298352,
+    "wof:lastmodified":1566663244,
     "wof:name":"Muang Pattani",
     "wof:parent_id":85678889,
     "wof:placetype":"county",

@@ -11,11 +11,15 @@
     "geom:longitude":100.93975,
     "gn:country":"TH",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424960,
     "iso:country":"TH",
+    "lbl:bbox":"100.91975,13.19928,100.95975,13.23928",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0646\u0637\u0642\u0629 \u0641\u0631\u0627\u064a \u0646\u0627\u062e\u0648\u0646"
     ],
@@ -73,7 +77,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0445\u0440\u0430 \u041d\u0430\u043a\u0445\u043e\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bang Pra"
     ],
     "name:urd_x_preferred":[
@@ -105,7 +109,7 @@
     "wof:concordances":{
         "gn:id":1620695,
         "gp:id":1200907,
-        "qs:id":884232,
+        "qs_pg:id":884232,
         "wd:id":"Q1525441",
         "wk:page":"Phra Nakhon District"
     },
@@ -119,7 +123,7 @@
         }
     ],
     "wof:id":890466595,
-    "wof:lastmodified":1563298349,
+    "wof:lastmodified":1566663243,
     "wof:name":"Ban Bang Phra",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

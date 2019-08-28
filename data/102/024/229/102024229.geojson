@@ -13,6 +13,8 @@
     "iso:country":"TH",
     "lbl:latitude":8.436241,
     "lbl:longitude":99.964895,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":8.436241,
     "mps:longitude":99.964895,
     "mz:hierarchy_label":1,
@@ -185,7 +187,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u0430\u043a\u0445\u043e\u043d\u0441\u0456\u0442\u0445\u0430\u043c\u043c\u0430\u0440\u0430\u0442"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Changwat Nakhon Si Thammarat"
     ],
     "name:urd_x_preferred":[
@@ -309,7 +311,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1227,
     "wof:belongsto":[
@@ -323,7 +325,6 @@
         "fct:id":"07ce9042-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1151933,
         "gp:id":1226060,
-        "qs:id":218092,
         "qs_pg:id":218092,
         "wd:id":"Q1012424",
         "wk:page":"Nakhon Si Thammarat"
@@ -343,7 +344,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563290193,
+    "wof:lastmodified":1566656311,
     "wof:name":"Nakhon Si Thammarat",
     "wof:parent_id":890465711,
     "wof:placetype":"locality",

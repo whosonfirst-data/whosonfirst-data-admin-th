@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000473,
-    "geom:area_square_m":5678648.921022,
+    "geom:area_square_m":5678648.921017,
     "geom:bbox":"100.585107775,13.8567471581,100.614553223,13.8844094961",
     "geom:latitude":13.869923,
     "geom:longitude":100.599208,
@@ -14,6 +14,7 @@
     "iso:country":"TH",
     "lbl:latitude":13.873505,
     "lbl:longitude":100.598394,
+    "lbl:max_zoom":18.0,
     "mps:latitude":13.86953,
     "mps:longitude":100.598995,
     "mz:hierarchy_label":1,
@@ -26,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":5,
     "name:eng_x_preferred":[
-        "Ban Chuat Plai Mai"
-    ],
-    "name:unk_x_variant":[
         "Ban Chuat Plai Mai"
     ],
     "qs:gn_adm0_cc":"TH",
@@ -59,7 +57,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85678739,
         102191569,
@@ -71,7 +69,6 @@
     "wof:concordances":{
         "gn:id":1620092,
         "gp:id":1202322,
-        "qs:id":268596,
         "qs_pg:id":268596
     },
     "wof:country":"TH",
@@ -90,7 +87,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1497308140,
+    "wof:lastmodified":1566657685,
     "wof:name":"Ban Chuat Plai Mai",
     "wof:parent_id":102025263,
     "wof:placetype":"neighbourhood",

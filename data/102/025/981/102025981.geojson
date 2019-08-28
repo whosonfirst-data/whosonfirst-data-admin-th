@@ -12,10 +12,13 @@
     "iso:country":"TH",
     "lbl:latitude":18.161511,
     "lbl:longitude":100.497437,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":18.161511,
     "mps:longitude":100.497437,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Na Muen"
     ],
@@ -35,7 +38,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -46,7 +49,6 @@
         "fct:id":"07ceadb6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":7510915,
         "gp:id":28349087,
-        "qs:id":380849,
         "qs_pg:id":380849,
         "wk:page":"Olsvik"
     },
@@ -64,7 +66,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564101357,
+    "wof:lastmodified":1566656491,
     "wof:name":"Na Muen",
     "wof:parent_id":85678633,
     "wof:placetype":"locality",

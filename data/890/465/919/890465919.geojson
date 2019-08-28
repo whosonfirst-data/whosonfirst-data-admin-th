@@ -11,7 +11,7 @@
     "geom:longitude":100.677366,
     "gn:country":"TH",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"TH",
     "label:eng_x_preferred_longname":[
         "Bungkum District"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":13.798866,
     "lbl:longitude":100.677386,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"KRUNG THEP",
     "meso:diss_me":"BungkumKRUNG THEP",
     "meso:gadm_admin":"Khan Na Yao",
@@ -38,6 +40,7 @@
     "mps:longitude":100.677386,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:deu_x_preferred":[
         "Bueng Kum"
     ],
@@ -69,7 +72,7 @@
     "name:tha_x_variant":[
         "\u0e1a\u0e36\u0e07\u0e01\u0e38\u0e48\u0e21"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Khet Bueng Kum"
     ],
     "name:vie_x_preferred":[
@@ -83,9 +86,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"26",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -106,7 +109,7 @@
     "wof:concordances":{
         "gn:id":6845216,
         "hasc:id":"TH.BM.KY",
-        "qs:id":1039213,
+        "qs_pg:id":1039213,
         "wd:id":"Q1001823",
         "wk:page":"Bueng Kum District"
     },
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":890465919,
-    "wof:lastmodified":1563298283,
+    "wof:lastmodified":1566663206,
     "wof:name":"Bungkum",
     "wof:parent_id":85678739,
     "wof:placetype":"county",

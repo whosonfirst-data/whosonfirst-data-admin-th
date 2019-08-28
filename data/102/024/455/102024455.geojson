@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000708,
-    "geom:area_square_m":8473048.386438,
+    "geom:area_square_m":8473048.386428,
     "geom:bbox":"101.004517728,14.4947904343,101.056027571,14.5447685336",
     "geom:latitude":14.520588,
     "geom:longitude":101.025975,
@@ -13,10 +13,13 @@
     "iso:country":"TH",
     "lbl:latitude":14.530415,
     "lbl:longitude":101.013794,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":14.530415,
     "mps:longitude":101.013794,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:tha_x_preferred":[
         "\u0e1a\u0e49\u0e32\u0e19\u0e19\u0e32"
     ],
@@ -31,7 +34,7 @@
     "qs:source":"Aquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -42,7 +45,7 @@
     "wof:concordances":{
         "gn:id":1156257,
         "gp:id":1201951,
-        "qs:id":276008
+        "qs_pg:id":276008
     },
     "wof:country":"TH",
     "wof:geomhash":"31400bd718de3dde1eb572ebf8e93e6f",
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":102024455,
-    "wof:lastmodified":1505338981,
+    "wof:lastmodified":1566656335,
     "wof:name":"Ban Na",
     "wof:parent_id":85678735,
     "wof:placetype":"locality",

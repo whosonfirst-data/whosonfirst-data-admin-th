@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000268,
-    "geom:area_square_m":3133801.339604,
+    "geom:area_square_m":3133801.339603,
     "geom:bbox":"98.8180249387,18.7880800868,98.8370043633,18.8061557704",
     "geom:latitude":18.797118,
     "geom:longitude":98.827515,
@@ -14,10 +14,13 @@
     "iso:country":"TH",
     "lbl:latitude":18.797118,
     "lbl:longitude":98.827515,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":18.797118,
     "mps:longitude":98.827515,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:tha_x_preferred":[
         "\u0e1a\u0e49\u0e32\u0e19\u0e1b\u0e07"
     ],
@@ -32,7 +35,7 @@
     "qs:source":"Aquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":102026171,
-    "wof:lastmodified":1501273419,
+    "wof:lastmodified":1566656511,
     "wof:name":"Baan Pong",
     "wof:parent_id":1108802611,
     "wof:placetype":"locality",

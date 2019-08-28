@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001171,
-    "geom:area_square_m":13764558.155468,
+    "geom:area_square_m":13764558.155451,
     "geom:bbox":"99.9057136389,18.0062663879,99.9575658225,18.0556815804",
     "geom:latitude":18.030136,
     "geom:longitude":99.930781,
     "iso:country":"TH",
     "lbl:latitude":18.015304,
     "lbl:longitude":99.942627,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":18.015304,
     "mps:longitude":99.942627,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a1":"*",
     "qs:a1r":"*",
     "qs:id":0,
@@ -26,7 +30,7 @@
     "qs:source":"Aquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -38,7 +42,7 @@
         "gn:id":1118088
     },
     "wof:country":"TH",
-    "wof:geomhash":"3b0c1b78b34fb015fbd308a13480a22b",
+    "wof:geomhash":"b9d7578b4eab05b74629e69a08886fa8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":102024025,
-    "wof:lastmodified":1479835485,
+    "wof:lastmodified":1566656321,
     "wof:name":"Ban Pin",
     "wof:parent_id":890466199,
     "wof:placetype":"locality",

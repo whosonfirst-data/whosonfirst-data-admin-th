@@ -9,19 +9,23 @@
     "geom:bbox":"100.40056,7.60608,100.40056,7.60608",
     "geom:latitude":7.60608,
     "geom:longitude":100.40056,
-    "gn:gn_country":"TH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"TH",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"TH",
+    "lbl:bbox":"100.38056,7.58608,100.42056,7.62608",
     "lbl:latitude":7.60608,
     "lbl:longitude":100.40056,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:tha_x_preferred":[
         "\u0e1a\u0e49\u0e32\u0e19\u0e0a\u0e38\u0e21\u0e1e\u0e25"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chum Phon"
     ],
     "qs_pg:aaroncc":"TH",
@@ -43,7 +47,7 @@
     "qs_pg:woe_adm0":23424960,
     "qs_pg:woe_id":1202360,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424960,
     "woe:name_adm0":"Thailand",
     "woe:name_adm1":"Songkhla",
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1126018319,
-    "wof:lastmodified":1509407070,
+    "wof:lastmodified":1566663299,
     "wof:name":"Ban Chumphon",
     "wof:parent_id":890466337,
     "wof:placetype":"locality",

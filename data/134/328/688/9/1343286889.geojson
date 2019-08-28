@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Bangkok",
     "iso:country":"TH",
+    "lbl:bbox":"100.13596,13.6886,100.17596,13.7286",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:tha_x_preferred":[
         "\u0e1a\u0e49\u0e32\u0e19\u0e27\u0e31\u0e07\u0e19\u0e49\u0e33\u0e02\u0e32\u0e27"
     ],
@@ -32,8 +36,7 @@
         "Ban Wang Nam Chao",
         "Ban Wang Nam Chau",
         "Ban Wang Nam Khao (1)",
-        "Ban Wang Nam Khao",
-        "\u0e1a\u0e49\u0e32\u0e19\u0e27\u0e31\u0e07\u0e19\u0e49\u0e33\u0e02\u0e32\u0e27"
+        "Ban Wang Nam Khao"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1343286889,
-    "wof:lastmodified":1537703666,
+    "wof:lastmodified":1566657591,
     "wof:name":"Ban Wang Nam Khao",
     "wof:parent_id":1108731835,
     "wof:placetype":"locality",

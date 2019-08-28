@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":17.743244,
     "lbl:longitude":102.227634,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"UDON THAN",
     "meso:diss_me":"Nam SomUDON THAN",
     "meso:gadm_admin":"Nam Som",
@@ -35,6 +37,7 @@
     "mps:longitude":102.227634,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0646\u0627\u0645 \u0633\u0648\u0645"
     ],
@@ -129,7 +132,7 @@
         "Nam Som"
     ],
     "name:tam_x_preferred":[
-        "\u0ba8\u0bae\u0bcd  \u0b9a\u0bcb\u0bae\u0bcd"
+        "\u0ba8\u0bae\u0bcd \u0b9a\u0bcb\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c28\u0c3e\u0c2e\u0c4d \u0c38\u0c4b\u0c2e\u0c4d"
@@ -153,9 +156,9 @@
         "Nam Som"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"742",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -188,7 +191,7 @@
         }
     ],
     "wof:id":1108731585,
-    "wof:lastmodified":1563296463,
+    "wof:lastmodified":1566661714,
     "wof:name":"Nam Som",
     "wof:parent_id":85678869,
     "wof:placetype":"county",

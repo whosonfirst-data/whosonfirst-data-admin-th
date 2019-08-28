@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000263,
+    "geom:area_square_m":3133945.00941,
     "geom:bbox":"100.10357621,15.8624865058,100.122253836,15.8805641148",
     "geom:latitude":15.871525,
     "geom:longitude":100.112915,
     "iso:country":"TH",
     "lbl:latitude":15.871525,
     "lbl:longitude":100.112915,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":15.871525,
     "mps:longitude":100.112915,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Thailand",
     "qs:a1":"*Nakhon Sawan",
     "qs:a1r":"*",
@@ -29,7 +34,7 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -39,10 +44,10 @@
     "wof:concordances":{
         "gn:id":7510906,
         "gp:id":28340972,
-        "qs:id":389056
+        "qs_pg:id":389056
     },
     "wof:country":"TH",
-    "wof:geomhash":"a63296ce454ba41f4a50a547005d1a99",
+    "wof:geomhash":"f7141d26819249363388387190a14011",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,7 +57,7 @@
         }
     ],
     "wof:id":102025967,
-    "wof:lastmodified":1466627316,
+    "wof:lastmodified":1566656458,
     "wof:name":"Kao Liao",
     "wof:parent_id":85678715,
     "wof:placetype":"locality",

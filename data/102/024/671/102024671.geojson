@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002086,
-    "geom:area_square_m":24704021.649403,
+    "geom:area_square_m":24704021.649402,
     "geom:bbox":"102.619408582,16.663998327,102.717806502,16.7872782022",
     "geom:latitude":16.735953,
     "geom:longitude":102.654001,
     "iso:country":"TH",
     "lbl:latitude":16.757199,
     "lbl:longitude":102.634281,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":16.757199,
     "mps:longitude":102.634281,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ubonrat"
     ],
@@ -24,7 +28,7 @@
     "name:tha_x_preferred":[
         "\u0e40\u0e02\u0e37\u0e48\u0e2d\u0e19\u0e2d\u0e38\u0e1a\u0e25\u0e23\u0e31\u0e15\u0e19\u0e4c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ubolratana"
     ],
     "qs:a0":"Thailand",
@@ -44,7 +48,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -56,7 +60,6 @@
         "fct:id":"07cf58d8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1605248,
         "gp:id":1225725,
-        "qs:id":892892,
         "qs_pg:id":892892
     },
     "wof:country":"TH",
@@ -74,7 +77,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1497294883,
+    "wof:lastmodified":1566656374,
     "wof:name":"Khuean Ubolratana",
     "wof:parent_id":890466001,
     "wof:placetype":"locality",

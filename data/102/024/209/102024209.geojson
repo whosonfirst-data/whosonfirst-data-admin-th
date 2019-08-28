@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003852,
-    "geom:area_square_m":45171748.294043,
+    "geom:area_square_m":45171748.293971,
     "geom:bbox":"98.8839579153,18.4653607853,98.9688230117,18.5358108649",
     "geom:latitude":18.501266,
     "geom:longitude":98.926888,
@@ -13,10 +13,13 @@
     "iso:country":"TH",
     "lbl:latitude":18.497982,
     "lbl:longitude":98.926075,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":18.497982,
     "mps:longitude":98.926075,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:eng_x_preferred":[
         "Pa Sang"
     ],
@@ -29,7 +32,7 @@
     "name:tha_x_preferred":[
         "\u0e1b\u0e48\u0e32\u0e0b\u0e32\u0e07"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Amphoe Pa Sang"
     ],
     "qs:a0":"Thailand",
@@ -49,7 +52,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":44,
     "wof:belongsto":[
@@ -63,7 +66,6 @@
         "fct:id":"07cf40a0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1151528,
         "gp:id":1225545,
-        "qs:id":461070,
         "qs_pg:id":461070
     },
     "wof:country":"TH",
@@ -81,7 +83,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636447,
+    "wof:lastmodified":1566656383,
     "wof:name":"Pa Sang",
     "wof:parent_id":890467343,
     "wof:placetype":"locality",

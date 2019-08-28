@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000718,
-    "geom:area_square_m":8435820.162656,
+    "geom:area_square_m":8435820.162661,
     "geom:bbox":"103.168646631,18.2150998691,103.198542109,18.2644705238",
     "geom:latitude":18.239035,
     "geom:longitude":103.182179,
@@ -14,13 +14,17 @@
     "iso:country":"TH",
     "lbl:latitude":18.229351,
     "lbl:longitude":103.178101,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":18.229351,
     "mps:longitude":103.178101,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:tha_x_preferred":[
         "\u0e23\u0e31\u0e15\u0e19\u0e27\u0e32\u0e1b\u0e35"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "King Amphoe Rattanawapi"
     ],
     "qs:a0":"Thailand",
@@ -38,7 +42,7 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -49,7 +53,7 @@
     "wof:concordances":{
         "gn:id":7525691,
         "gp:id":28341043,
-        "qs:id":245454
+        "qs_pg:id":245454
     },
     "wof:country":"TH",
     "wof:geomhash":"85e3c45a3223292a760128ddf5dac368",
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":102026135,
-    "wof:lastmodified":1501273226,
+    "wof:lastmodified":1566656493,
     "wof:name":"Rattanawapi",
     "wof:parent_id":890465905,
     "wof:placetype":"locality",

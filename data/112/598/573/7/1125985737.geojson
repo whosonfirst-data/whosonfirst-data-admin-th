@@ -9,19 +9,23 @@
     "geom:bbox":"103.58333,15.95,103.58333,15.95",
     "geom:latitude":15.95,
     "geom:longitude":103.58333,
-    "gn:gn_country":"TH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"TH",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"TH",
+    "lbl:bbox":"103.56333,15.93,103.60333,15.97",
     "lbl:latitude":15.95,
     "lbl:longitude":103.58333,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:tha_x_preferred":[
         "\u0e1a\u0e49\u0e32\u0e19\u0e19\u0e32\u0e42\u0e1e\u0e18\u0e34\u0e4c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Napho"
     ],
     "qs_pg:aaroncc":"TH",
@@ -41,7 +45,7 @@
     "qs_pg:woe_adm0":23424960,
     "qs_pg:woe_id":1211987,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424960,
     "woe:name_adm0":"Thailand",
     "woe:name_adm1":"Roi Et",
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1125985737,
-    "wof:lastmodified":1509405055,
+    "wof:lastmodified":1566663298,
     "wof:name":"Ban Na Pho",
     "wof:parent_id":890467327,
     "wof:placetype":"locality",

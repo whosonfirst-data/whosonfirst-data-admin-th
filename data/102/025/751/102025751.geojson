@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000713,
+    "geom:area_square_m":8482016.335559,
     "geom:bbox":"104.651923173,15.6721803395,104.758478744,15.7219912177",
     "geom:latitude":15.701224,
     "geom:longitude":104.713201,
@@ -13,9 +14,13 @@
     "iso:country":"TH",
     "lbl:latitude":15.712951,
     "lbl:longitude":104.743652,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":15.712951,
     "mps:longitude":104.743652,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ban Amnat"
     ],
@@ -32,9 +37,6 @@
     ],
     "name:tha_x_variant":[
         "\u0e25\u0e37\u0e2d\u0e2d\u0e33\u0e19\u0e32\u0e08"
-    ],
-    "name:unk_x_variant":[
-        "Bung"
     ],
     "qs:a0":"Thailand",
     "qs:a1":"*Amnat Charoen",
@@ -53,7 +55,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -64,7 +66,6 @@
         "fct:id":"07cfb8e6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1620965,
         "gp:id":28349078,
-        "qs:id":903453,
         "qs_pg:id":903453
     },
     "wof:country":"TH",
@@ -81,7 +82,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1497302167,
+    "wof:lastmodified":1566656456,
     "wof:name":"Lue Amnat",
     "wof:parent_id":85678789,
     "wof:placetype":"locality",

@@ -13,6 +13,8 @@
     "iso:country":"TH",
     "lbl:latitude":17.153527,
     "lbl:longitude":104.140142,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":17.153527,
     "mps:longitude":104.140142,
     "mz:hierarchy_label":1,
@@ -82,7 +84,7 @@
     "name:tha_x_variant":[
         "\u0e2a\u0e01\u0e25\u0e19\u0e04\u0e23"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ban That Choeng Chum"
     ],
     "name:urd_x_preferred":[
@@ -206,7 +208,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":327,
     "wof:belongsto":[
@@ -220,10 +222,12 @@
         "fct:id":"07d1c500-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1606790,
         "gp:id":1226140,
-        "qs:id":274044,
         "qs_pg:id":215731,
         "wd:id":"Q1012639",
         "wk:page":"Sakon Nakhon"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":274044
     },
     "wof:country":"TH",
     "wof:geomhash":"bdf9343c77da1cbee8e1886c6f246976",
@@ -240,7 +244,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563290208,
+    "wof:lastmodified":1566656323,
     "wof:name":"Sakon Nakhon",
     "wof:parent_id":1108802681,
     "wof:placetype":"locality",

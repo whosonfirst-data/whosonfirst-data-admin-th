@@ -11,11 +11,15 @@
     "geom:longitude":101.08556,
     "gn:country":"TH",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424960,
     "iso:country":"TH",
+    "lbl:bbox":"101.06556,14.86583,101.10556,14.90583",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Nong Bua"
     ],
@@ -25,7 +29,7 @@
     "name:tha_x_variant":[
         "\u0e2b\u0e19\u0e2d\u0e07\u0e1a\u0e31\u0e27"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ban Tah Rit"
     ],
     "qs:name":"Nong Bua",
@@ -49,7 +53,7 @@
     "wof:concordances":{
         "gn:id":1615853,
         "gp:id":55944955,
-        "qs:id":1318009
+        "qs_pg:id":1318009
     },
     "wof:country":"TH",
     "wof:created":1469053565,
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":890466089,
-    "wof:lastmodified":1564109683,
+    "wof:lastmodified":1566663276,
     "wof:name":"Nong Bua",
     "wof:parent_id":85678701,
     "wof:placetype":"locality",

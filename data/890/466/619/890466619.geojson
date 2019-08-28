@@ -11,11 +11,15 @@
     "geom:longitude":100.47228,
     "gn:country":"TH",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424960,
     "iso:country":"TH",
+    "lbl:bbox":"100.45228,6.93142,100.49228,6.97142",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Ban Phru"
     ],
@@ -47,7 +51,7 @@
     "wof:concordances":{
         "gn:id":1598876,
         "gp:id":1218231,
-        "qs:id":908676,
+        "qs_pg:id":908676,
         "wd:id":"Q13025372"
     },
     "wof:country":"TH",
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":890466619,
-    "wof:lastmodified":1563298364,
+    "wof:lastmodified":1566663250,
     "wof:name":"Ban Phru",
     "wof:parent_id":85678603,
     "wof:placetype":"locality",

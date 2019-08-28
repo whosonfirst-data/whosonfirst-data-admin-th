@@ -11,7 +11,7 @@
     "geom:longitude":100.551067,
     "gn:country":"TH",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"TH",
     "label:eng_x_preferred_longname":[
         "Bang Pahan District"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":14.483299,
     "lbl:longitude":100.540022,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"PHRA NAKHON SI AYUTTHAYA",
     "meso:diss_me":"Bang PahanPHRA NAKHON SI AYUTTHAYA",
     "meso:gadm_admin":"Bang Pahan",
@@ -38,6 +40,7 @@
     "mps:longitude":100.540022,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ac\u09cd\u09af\u09be\u0982 \u09aa\u09be\u09b9\u09be\u09a8"
     ],
@@ -68,9 +71,6 @@
     "name:tha_x_variant":[
         "\u0e1a\u0e32\u0e07\u0e1b\u0e30\u0e2b\u0e31\u0e19"
     ],
-    "name:unk_x_variant":[
-        "Amphoe Bang Pahan"
-    ],
     "name:urd_x_preferred":[
         "\u0628\u0627\u0646\u06af \u067e\u0627\u06c1\u0627\u0646 \u0636\u0644\u0639"
     ],
@@ -82,9 +82,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"122",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -105,7 +105,7 @@
     "wof:concordances":{
         "gn:id":1619370,
         "hasc:id":"TH.PA.PA",
-        "qs:id":1151826,
+        "qs_pg:id":1151826,
         "wd:id":"Q475226",
         "wk:page":"Bang Pahan District"
     },
@@ -121,7 +121,7 @@
         }
     ],
     "wof:id":890465831,
-    "wof:lastmodified":1563298274,
+    "wof:lastmodified":1566663202,
     "wof:name":"Bang Pahan",
     "wof:parent_id":85678721,
     "wof:placetype":"county",

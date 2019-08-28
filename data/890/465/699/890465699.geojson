@@ -11,7 +11,7 @@
     "geom:longitude":101.721301,
     "gn:country":"TH",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"TH",
     "label:eng_x_preferred_longname":[
         "Khon San District"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":16.562419,
     "lbl:longitude":101.647456,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"CHAIYAPHUM",
     "meso:diss_me":"Khon SanCHAIYAPHUM",
     "meso:gadm_admin":"Khon San",
@@ -38,6 +40,7 @@
     "mps:longitude":101.647456,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u0996\u09cb\u09a8 \u09b8\u09be\u09a8"
     ],
@@ -65,9 +68,6 @@
     "name:tha_x_variant":[
         "\u0e04\u0e2d\u0e19\u0e2a\u0e32\u0e23"
     ],
-    "name:unk_x_variant":[
-        "Amphoe Khon San"
-    ],
     "name:urd_x_preferred":[
         "\u06a9\u06be\u0648\u0646 \u0633\u0627\u0646 \u0636\u0644\u0639"
     ],
@@ -82,9 +82,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"967",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -106,7 +106,7 @@
         "gn:id":1609766,
         "gp:id":28341082,
         "hasc:id":"TH.CY.KS",
-        "qs:id":1243175,
+        "qs_pg:id":1243175,
         "wd:id":"Q475737",
         "wk:page":"Khon San District"
     },
@@ -122,7 +122,7 @@
         }
     ],
     "wof:id":890465699,
-    "wof:lastmodified":1563298273,
+    "wof:lastmodified":1566663202,
     "wof:name":"Khon San",
     "wof:parent_id":85678825,
     "wof:placetype":"county",

@@ -11,7 +11,7 @@
     "geom:longitude":100.544355,
     "gn:country":"TH",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"TH",
     "label:eng_x_preferred_longname":[
         "Yannawa District"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":13.688503,
     "lbl:longitude":100.544695,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"KRUNG THEP",
     "meso:diss_me":"YannawaKRUNG THEP",
     "meso:gadm_admin":"Yannawa",
@@ -38,6 +40,7 @@
     "mps:longitude":100.544695,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:deu_x_preferred":[
         "Yan Nawa"
     ],
@@ -74,7 +77,7 @@
     "name:tha_x_variant":[
         "\u0e22\u0e32\u0e19\u0e19\u0e32\u0e27\u0e32"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Amphoe Yan Nawa"
     ],
     "name:vie_x_preferred":[
@@ -88,9 +91,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"17",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -111,7 +114,7 @@
     "wof:concordances":{
         "gn:id":6698709,
         "hasc:id":"TH.BM.YA",
-        "qs:id":1038759,
+        "qs_pg:id":1038759,
         "wd:id":"Q1019651",
         "wk:page":"Yan Nawa District"
     },
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":890466401,
-    "wof:lastmodified":1563298376,
+    "wof:lastmodified":1566663254,
     "wof:name":"Yannawa",
     "wof:parent_id":85678739,
     "wof:placetype":"county",

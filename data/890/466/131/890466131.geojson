@@ -11,11 +11,15 @@
     "geom:longitude":100.57308,
     "gn:country":"TH",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424960,
     "iso:country":"TH",
+    "lbl:bbox":"100.55308,13.97647,100.59308,14.01647",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:tha_x_preferred":[
         "\u0e1a\u0e49\u0e32\u0e19\u0e43\u0e2b\u0e21\u0e48"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":6845828,
         "gp:id":55945673,
-        "qs:id":338000,
+        "qs_pg:id":338000,
         "wk:page":"Ban Mai, Phayao"
     },
     "wof:country":"TH",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":890466131,
-    "wof:lastmodified":1527793014,
+    "wof:lastmodified":1566663271,
     "wof:name":"Ban Mai",
     "wof:parent_id":85678725,
     "wof:placetype":"locality",

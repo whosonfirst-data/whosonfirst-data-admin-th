@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":15.528666,
     "lbl:longitude":103.235182,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"MAHA SARAKHAM",
     "meso:diss_me":"Phayakkhaphum PhisaiMAHA SARAKHAM",
     "meso:gadm_admin":"Phayakkhaphum Phisai",
@@ -35,6 +37,7 @@
     "mps:longitude":103.235182,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ab\u09be\u09af\u09bc\u09be\u0995\u0996\u09be\u09ab\u09c1\u09ae \u09ab\u09bf\u09b8\u09be\u0987"
     ],
@@ -72,9 +75,9 @@
         "Phayakkhaphum Phisai"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"410",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":1108731715,
-    "wof:lastmodified":1563296592,
+    "wof:lastmodified":1566661783,
     "wof:name":"Phayakkhaphum Phisai",
     "wof:parent_id":85678835,
     "wof:placetype":"county",

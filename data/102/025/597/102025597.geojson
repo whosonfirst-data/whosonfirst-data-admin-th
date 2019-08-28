@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000533,
-    "geom:area_square_m":6267366.787437,
+    "geom:area_square_m":6267366.787439,
     "geom:bbox":"104.17940503,17.8494807348,104.231240704,17.8884692188",
     "geom:latitude":17.868976,
     "geom:longitude":104.205323,
@@ -14,9 +14,13 @@
     "iso:country":"TH",
     "lbl:latitude":17.879431,
     "lbl:longitude":104.221802,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":17.879431,
     "mps:longitude":104.221802,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ban Na Thom"
     ],
@@ -24,9 +28,6 @@
         "Na Thom"
     ],
     "name:tha_x_preferred":[
-        "\u0e19\u0e32\u0e17\u0e21"
-    ],
-    "name:unk_x_variant":[
         "\u0e19\u0e32\u0e17\u0e21"
     ],
     "qs:a0":"Thailand",
@@ -44,7 +45,7 @@
     "qs:type":"Town",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -56,7 +57,7 @@
         "fct:id":"07cf6d50-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1616090,
         "gp:id":28341074,
-        "qs:id":206731
+        "qs_pg:id":206731
     },
     "wof:country":"TH",
     "wof:geomhash":"b7b8006e40015db479b895169f22a433",
@@ -73,7 +74,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1501221068,
+    "wof:lastmodified":1566656457,
     "wof:name":"Na Thom",
     "wof:parent_id":890466251,
     "wof:placetype":"locality",

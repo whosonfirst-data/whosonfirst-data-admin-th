@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001412,
+    "geom:area_square_m":17300942.610131,
     "geom:bbox":"99.9280636338,7.80536085493,99.9681758112,7.86698461745",
     "geom:latitude":7.831587,
     "geom:longitude":99.942617,
@@ -13,13 +14,17 @@
     "iso:country":"TH",
     "lbl:latitude":7.836175,
     "lbl:longitude":99.937306,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":7.836175,
     "mps:longitude":99.937306,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:tha_x_preferred":[
         "\u0e1b\u0e48\u0e32\u0e1e\u0e22\u0e2d\u0e21"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "King Amphoe Pa Phayom"
     ],
     "qs:a0":"Thailand",
@@ -37,7 +42,7 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -47,7 +52,7 @@
     "wof:concordances":{
         "gn:id":8355828,
         "gp:id":28341660,
-        "qs:id":1205299
+        "qs_pg:id":1205299
     },
     "wof:country":"TH",
     "wof:geomhash":"108967e365e516fcc9dcf12e92186409",
@@ -60,7 +65,7 @@
         }
     ],
     "wof:id":102026227,
-    "wof:lastmodified":1501273472,
+    "wof:lastmodified":1566656495,
     "wof:name":"Pa Phayom",
     "wof:parent_id":85678591,
     "wof:placetype":"locality",

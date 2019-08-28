@@ -11,15 +11,19 @@
     "geom:longitude":98.89131,
     "gn:country":"TH",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424960,
     "iso:country":"TH",
+    "lbl:bbox":"98.87131,18.09128,98.91131,18.13128",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:tha_x_preferred":[
         "\u0e1a\u0e49\u0e32\u0e19\u0e1b\u0e32\u0e07"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "P\u0101ng"
     ],
     "qs:name":"Ban Pang",
@@ -42,7 +46,7 @@
     "wof:concordances":{
         "gn:id":1155365,
         "gp:id":1225879,
-        "qs:id":1254072
+        "qs_pg:id":1254072
     },
     "wof:country":"TH",
     "wof:created":1469053622,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":890467247,
-    "wof:lastmodified":1505343709,
+    "wof:lastmodified":1566663228,
     "wof:name":"Ban Pang",
     "wof:parent_id":1108802647,
     "wof:placetype":"locality",

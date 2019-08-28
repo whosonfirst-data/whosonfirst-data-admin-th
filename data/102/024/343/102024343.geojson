@@ -14,6 +14,8 @@
     "iso:country":"TH",
     "lbl:latitude":14.040019,
     "lbl:longitude":99.504088,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":14.040019,
     "mps:longitude":99.504088,
     "mz:hierarchy_label":1,
@@ -94,7 +96,7 @@
     "name:tha_x_variant":[
         "\u0e01\u0e32\u0e0d\u0e08\u0e19\u0e1a\u0e38\u0e23\u0e35"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Changwat Kanchanaburi"
     ],
     "name:war_x_preferred":[
@@ -220,7 +222,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":625,
     "wof:belongsto":[
@@ -233,10 +235,12 @@
     "wof:concordances":{
         "gn:id":1153081,
         "gp:id":1225985,
-        "qs:id":1305204,
         "qs_pg:id":130617,
         "wd:id":"Q239121",
         "wk:page":"Kanchanaburi"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1305204
     },
     "wof:country":"TH",
     "wof:geomhash":"6c8b2923894d65a8c1df944ffcd64185",
@@ -250,7 +254,7 @@
         }
     ],
     "wof:id":102024343,
-    "wof:lastmodified":1563290330,
+    "wof:lastmodified":1566656408,
     "wof:name":"Kanchanaburi",
     "wof:parent_id":1108802667,
     "wof:placetype":"locality",

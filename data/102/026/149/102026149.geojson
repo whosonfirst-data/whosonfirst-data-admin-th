@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00026,
+    "geom:area_square_m":3131036.383081,
     "geom:bbox":"101.312182736,13.3752406412,101.330639466,13.393310602",
     "geom:latitude":13.384276,
     "geom:longitude":101.321411,
@@ -13,9 +14,13 @@
     "iso:country":"TH",
     "lbl:latitude":13.384276,
     "lbl:longitude":101.321411,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":13.384276,
     "mps:longitude":101.321411,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:tha_x_preferred":[
         "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e01\u0e32\u0e30\u0e42\u0e1e\u0e18\u0e34\u0e4c"
     ],
@@ -30,7 +35,7 @@
     "qs:source":"Aquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -51,7 +56,7 @@
         }
     ],
     "wof:id":102026149,
-    "wof:lastmodified":1501273345,
+    "wof:lastmodified":1566656511,
     "wof:name":"Ban Ko Pho",
     "wof:parent_id":85678795,
     "wof:placetype":"locality",

@@ -11,18 +11,22 @@
     "geom:longitude":100.99544,
     "gn:country":"TH",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424960,
     "iso:country":"TH",
+    "lbl:bbox":"100.97544,13.46547,101.01544,13.50547",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:tha_x_preferred":[
         "\u0e1a\u0e49\u0e32\u0e19\u0e17\u0e48\u0e32\u0e02\u0e49\u0e32\u0e21"
     ],
     "name:tha_x_variant":[
         "\u0e40\u0e17\u0e28\u0e1a\u0e32\u0e25\u0e15\u0e33\u0e1a\u0e25\u0e17\u0e48\u0e32\u0e02\u0e49\u0e32\u0e21"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ban Tha Kham"
     ],
     "qs:name":"Tha Kham",
@@ -48,7 +52,7 @@
     "wof:concordances":{
         "gn:id":7368418,
         "gp:id":55946361,
-        "qs:id":981506,
+        "qs_pg:id":981506,
         "wk:page":"Tha Kham"
     },
     "wof:country":"TH",
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":890466663,
-    "wof:lastmodified":1564109686,
+    "wof:lastmodified":1566663284,
     "wof:name":"Tha Kham",
     "wof:parent_id":1108802587,
     "wof:placetype":"locality",

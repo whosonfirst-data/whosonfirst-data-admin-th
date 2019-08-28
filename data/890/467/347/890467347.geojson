@@ -11,11 +11,15 @@
     "geom:longitude":100.56758,
     "gn:country":"TH",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424960,
     "iso:country":"TH",
+    "lbl:bbox":"100.54758,13.98372,100.58758,14.02372",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ae\u09c1\u09af\u09bc\u09c7\u0982 \u09aa\u09be\u09a5\u09c1\u09ae \u09a5\u09be\u09a8\u09bf"
     ],
@@ -69,7 +73,7 @@
     "wof:concordances":{
         "gn:id":8141730,
         "gp:id":55947129,
-        "qs:id":228065,
+        "qs_pg:id":228065,
         "wd:id":"Q1935501",
         "wk:page":"Mueang Pathum Thani District"
     },
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":890467347,
-    "wof:lastmodified":1563298311,
+    "wof:lastmodified":1566663223,
     "wof:name":"Suan Phrik Thai",
     "wof:parent_id":85678725,
     "wof:placetype":"locality",

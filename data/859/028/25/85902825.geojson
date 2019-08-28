@@ -5,18 +5,19 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000916,
-    "geom:area_square_m":10994663.139191,
+    "geom:area_square_m":10994663.13916,
     "geom:bbox":"100.534128418,13.8680794374,100.580167397,13.9127399673",
     "geom:latitude":13.889461,
     "geom:longitude":100.556458,
-    "gn:gn_country":"TH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"TH",
+    "gn:fcode":"PPL",
     "gn:latitude":13.88333,
     "gn:longitude":100.56667,
+    "gn:population":0,
     "iso:country":"TH",
     "lbl:latitude":13.888889,
     "lbl:longitude":100.556303,
+    "lbl:max_zoom":18.0,
     "mps:latitude":13.891582,
     "mps:longitude":100.558027,
     "mz:hierarchy_label":1,
@@ -36,9 +37,6 @@
     ],
     "name:tha_x_preferred":[
         "\u0e41\u0e02\u0e27\u0e07\u0e17\u0e38\u0e48\u0e07\u0e2a\u0e2d\u0e07\u0e2b\u0e49\u0e2d\u0e07"
-    ],
-    "name:unk_x_variant":[
-        "Ban Song Hong"
     ],
     "qs:gn_adm0_cc":"TH",
     "qs:gn_fcode":"PPL",
@@ -86,7 +84,7 @@
     "qs_pg:woe_id":1220763,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85678743,
         102191569,
@@ -98,7 +96,6 @@
     "wof:concordances":{
         "gn:id":1613187,
         "gp:id":1220763,
-        "qs:id":1083541,
         "qs_pg:id":1083541
     },
     "wof:country":"TH",
@@ -117,7 +114,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1534379464,
+    "wof:lastmodified":1566657688,
     "wof:name":"Ban Song Hong",
     "wof:parent_id":102025093,
     "wof:placetype":"neighbourhood",

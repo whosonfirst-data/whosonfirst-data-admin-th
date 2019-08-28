@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.441766,
     "lbl:longitude":101.257242,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"CHONBURI",
     "meso:diss_me":"Phanat NikhomCHONBURI",
     "meso:gadm_admin":"K. Ko Chan",
@@ -35,6 +37,7 @@
     "mps:longitude":101.257242,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Ko Chan"
     ],
@@ -46,9 +49,9 @@
         "\u0e1e\u0e19\u0e31\u0e2a\u0e19\u0e34\u0e04\u0e21"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"249",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":1108731705,
-    "wof:lastmodified":1554489427,
+    "wof:lastmodified":1566661769,
     "wof:name":"Phanat Nikhom",
     "wof:parent_id":85678795,
     "wof:placetype":"county",

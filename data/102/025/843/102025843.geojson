@@ -14,10 +14,13 @@
     "iso:country":"TH",
     "lbl:latitude":13.82937,
     "lbl:longitude":100.62651,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":13.82937,
     "mps:longitude":100.62651,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lat Phrao Road"
     ],
@@ -51,7 +54,7 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":133,
     "wof:belongsto":[
         102191569,
@@ -65,7 +68,7 @@
     "wof:concordances":{
         "gn:id":7026837,
         "gp:id":28341391,
-        "qs:id":248763,
+        "qs_pg:id":248763,
         "wd:id":"Q1016059"
     },
     "wof:country":"TH",
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":102025843,
-    "wof:lastmodified":1563290360,
+    "wof:lastmodified":1566656431,
     "wof:name":"Lat Phrao",
     "wof:parent_id":1108802645,
     "wof:placetype":"locality",

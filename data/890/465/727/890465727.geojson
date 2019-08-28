@@ -11,17 +11,21 @@
     "geom:longitude":98.58989,
     "gn:country":"TH",
     "gn:fcode":"PPL",
-    "gn:pop":5713,
+    "gn:population":5713,
     "iso:country":"TH",
+    "lbl:bbox":"98.56989,7.93458,98.60989,7.97458",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:rus_x_preferred":[
         "\u041f\u0440\u0443-\u041d\u0430\u0438"
     ],
     "name:tha_x_preferred":[
         "\u0e1a\u0e49\u0e32\u0e19\u0e1e\u0e23\u0e38\u0e43\u0e19"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ban Cho Pla Lai"
     ],
     "qs:name":"Ban Phru Nai",
@@ -37,7 +41,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1155231,
-        "qs:id":84291
+        "qs_pg:id":84291
     },
     "wof:country":"TH",
     "wof:created":1469053531,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890465727,
-    "wof:lastmodified":1505343705,
+    "wof:lastmodified":1566663208,
     "wof:name":"Ban Phru Nai",
     "wof:parent_id":85678573,
     "wof:placetype":"locality",

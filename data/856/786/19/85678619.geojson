@@ -28,6 +28,7 @@
     ],
     "lbl:latitude":18.746936,
     "lbl:longitude":98.683073,
+    "lbl:min_zoom":8.0,
     "mps:latitude":18.746936,
     "mps:longitude":98.683073,
     "mz:hierarchy_label":1,
@@ -183,7 +184,7 @@
         "Chiang Mai"
     ],
     "name:tam_x_preferred":[
-        "\u0b9a\u0bbf\u0baf\u0bbe\u0b99\u0bcd  \u0bae\u0bbe\u0baf\u0bcd"
+        "\u0b9a\u0bbf\u0baf\u0bbe\u0b99\u0bcd \u0bae\u0bbe\u0baf\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c1a\u0c3f\u0c2f\u0c3e\u0c02\u0c17\u0c4d \u0c2e\u0c3e\u0c2f\u0c3f"
@@ -206,7 +207,7 @@
     "name:ukr_x_preferred":[
         "\u0427\u0456\u0430\u043d\u0433\u043c\u0430\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chiengmai"
     ],
     "name:urd_x_preferred":[
@@ -301,7 +302,7 @@
     "qs:type":"Province",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wikidata",
     "src:population_date":"2017",
     "statoids:area_km":"20,107",
@@ -328,7 +329,7 @@
         "gp:id":2347129,
         "hasc:id":"TH.CM",
         "iso:id":"TH-50",
-        "qs:id":241203,
+        "qs_pg:id":241203,
         "unlc:id":"TH-50",
         "wd:id":"Q233588",
         "wk:page":"Chiang Mai Province"
@@ -349,11 +350,10 @@
     "wof:lang_x_spoken":[
         "tha"
     ],
-    "wof:lastmodified":1565737055,
+    "wof:lastmodified":1566657714,
     "wof:name":"Chiang Mai",
     "wof:parent_id":85632293,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":1746840,
     "wof:population_rank":12,

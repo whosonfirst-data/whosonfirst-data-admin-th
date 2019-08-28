@@ -12,10 +12,13 @@
     "iso:country":"TH",
     "lbl:latitude":16.851862,
     "lbl:longitude":100.475464,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":16.851862,
     "mps:longitude":100.475464,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Wang Thong"
     ],
@@ -31,7 +34,7 @@
     "name:tha_x_variant":[
         "\u0e15\u0e33\u0e1a\u0e25\u0e27\u0e31\u0e07\u0e17\u0e2d\u0e07"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Amphoe Wang Thong"
     ],
     "qs:a0":"Thailand",
@@ -49,7 +52,7 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":258,
     "wof:belongsto":[
         102191569,
@@ -61,7 +64,7 @@
     "wof:concordances":{
         "gn:id":1605092,
         "gp:id":28340936,
-        "qs:id":1209206,
+        "qs_pg:id":1209206,
         "wd:id":"Q7967636"
     },
     "wof:country":"TH",
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":102024643,
-    "wof:lastmodified":1563290196,
+    "wof:lastmodified":1566656313,
     "wof:name":"Wang Thong",
     "wof:parent_id":890465723,
     "wof:placetype":"locality",

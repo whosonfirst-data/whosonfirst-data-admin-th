@@ -13,6 +13,8 @@
     "iso:country":"TH",
     "lbl:latitude":8.048174,
     "lbl:longitude":98.832892,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":8.048174,
     "mps:longitude":98.832892,
     "mz:hierarchy_label":1,
@@ -108,7 +110,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0440\u0430\u0431\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Muang Krabi"
     ],
     "name:vie_x_preferred":[
@@ -227,7 +229,7 @@
     "qs:type":"Town",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":847,
     "wof:belongsto":[
@@ -239,7 +241,7 @@
         "fct:id":"07d4bfd0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1152633,
         "gp:id":56125598,
-        "qs:id":349331,
+        "qs_pg:id":349331,
         "wd:id":"Q1000353",
         "wk:page":"Krabi"
     },
@@ -256,7 +258,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563290222,
+    "wof:lastmodified":1566656337,
     "wof:name":"Krabi",
     "wof:parent_id":890466649,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001915,
-    "geom:area_square_m":22696517.433862,
+    "geom:area_square_m":22696517.433843,
     "geom:bbox":"100.268335767,16.5587199425,100.353000305,16.6399661116",
     "geom:latitude":16.596251,
     "geom:longitude":100.295882,
@@ -15,10 +15,13 @@
     "iso:country":"TH",
     "lbl:latitude":16.567761,
     "lbl:longitude":100.288975,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":16.567761,
     "mps:longitude":100.288975,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:eng_x_colloquial":[
         "Baan Bang Gathum",
         "Ban Bang Gathum"
@@ -37,9 +40,6 @@
     "name:tha_x_preferred":[
         "\u0e1a\u0e32\u0e07\u0e01\u0e23\u0e30\u0e17\u0e38\u0e48\u0e21"
     ],
-    "name:unk_x_variant":[
-        "Ban Bang Krahtum"
-    ],
     "qs:a0":"Thailand",
     "qs:a1":"*Phitsanulok",
     "qs:a1r":"*",
@@ -55,7 +55,7 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":11,
     "wof:belongsto":[
@@ -68,7 +68,7 @@
         "fct:id":"07cf1fe4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1619437,
         "gp:id":28340934,
-        "qs:id":1113758
+        "qs_pg:id":1113758
     },
     "wof:country":"TH",
     "wof:geomhash":"a59ad427f21a9bad4ecf18d1b2e5081a",
@@ -84,7 +84,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636683,
+    "wof:lastmodified":1566656437,
     "wof:name":"Bang Krathum",
     "wof:parent_id":85678647,
     "wof:placetype":"locality",

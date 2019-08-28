@@ -12,10 +12,13 @@
     "iso:country":"TH",
     "lbl:latitude":15.077427,
     "lbl:longitude":100.145874,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":15.077427,
     "mps:longitude":100.145874,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09b8\u09be\u09a8\u0996\u09be\u09ac\u09c1\u09b0\u09bf"
     ],
@@ -52,7 +55,7 @@
     "name:tha_x_variant":[
         "\u0e2a\u0e23\u0e23\u0e04\u0e1a\u0e38\u0e23\u0e35"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Amphoe San Buri"
     ],
     "name:vie_x_preferred":[
@@ -81,7 +84,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":96,
     "wof:belongsto":[
         102191569,
@@ -93,7 +96,6 @@
         "fct:id":"07cf4d52-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1606530,
         "gp:id":1225639,
-        "qs:id":1159774,
         "qs_pg:id":1159774,
         "wd:id":"Q476639"
     },
@@ -111,7 +113,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563290197,
+    "wof:lastmodified":1566656314,
     "wof:name":"Sankhaburi",
     "wof:parent_id":85678699,
     "wof:placetype":"locality",

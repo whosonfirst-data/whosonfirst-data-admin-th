@@ -11,7 +11,7 @@
     "geom:longitude":99.569701,
     "gn:country":"TH",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"TH",
     "label:eng_x_preferred_longname":[
         "Thap Sakae District"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":11.546441,
     "lbl:longitude":99.567494,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"PRACHUAP KHIRI KHAN",
     "meso:diss_me":"Thap SakaePRACHUAP KHIRI KHAN",
     "meso:gadm_admin":"Thap Sakae",
@@ -38,6 +40,7 @@
     "mps:longitude":99.567494,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09a5\u09be\u09b0 \u09b8\u09be\u0995\u09be\u09af\u09bc\u09c7"
     ],
@@ -65,9 +68,6 @@
     "name:tha_x_variant":[
         "\u0e17\u0e31\u0e1a\u0e2a\u0e30\u0e41\u0e01"
     ],
-    "name:unk_x_variant":[
-        "Amphoe Thap Sakae"
-    ],
     "name:vie_x_preferred":[
         "Thap Sakae"
     ],
@@ -82,9 +82,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"538",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -106,7 +106,7 @@
         "gn:id":1150217,
         "gp:id":28341570,
         "hasc:id":"TH.PK.TS",
-        "qs:id":244422,
+        "qs_pg:id":244422,
         "wd:id":"Q476896",
         "wk:page":"Thap Sakae District"
     },
@@ -122,7 +122,7 @@
         }
     ],
     "wof:id":890467409,
-    "wof:lastmodified":1563298302,
+    "wof:lastmodified":1566663219,
     "wof:name":"Thap Sakae",
     "wof:parent_id":85678757,
     "wof:placetype":"county",

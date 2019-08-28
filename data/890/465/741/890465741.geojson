@@ -11,7 +11,7 @@
     "geom:longitude":102.567256,
     "gn:country":"TH",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"TH",
     "label:eng_x_preferred_longname":[
         "Tha Bo District"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":17.778692,
     "lbl:longitude":102.588961,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"NONGKHAI",
     "meso:diss_me":"Tha BoNONGKHAI",
     "meso:gadm_admin":"Tha Bo",
@@ -38,6 +40,7 @@
     "mps:longitude":102.588961,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09a5\u09be \u09ac\u09cb"
     ],
@@ -71,9 +74,6 @@
     "name:tha_x_variant":[
         "\u0e17\u0e48\u0e32\u0e1a\u0e48\u0e2d"
     ],
-    "name:unk_x_variant":[
-        "Amphoe Tha Bo"
-    ],
     "name:urd_x_preferred":[
         "\u062a\u06be\u0627 \u0628\u0648 \u0636\u0644\u0639"
     ],
@@ -88,7 +88,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":141,
     "wof:belongsto":[
@@ -100,7 +100,7 @@
     "wof:concordances":{
         "gn:id":1605676,
         "hasc:id":"TH.NK.TB",
-        "qs:id":356023,
+        "qs_pg:id":356023,
         "wd:id":"Q476816",
         "wk:page":"Tha Bo District"
     },
@@ -116,7 +116,7 @@
         }
     ],
     "wof:id":890465741,
-    "wof:lastmodified":1563298266,
+    "wof:lastmodified":1566663197,
     "wof:name":"Tha Bo",
     "wof:parent_id":85678859,
     "wof:placetype":"county",

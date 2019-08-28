@@ -12,10 +12,13 @@
     "iso:country":"TH",
     "lbl:latitude":19.222584,
     "lbl:longitude":99.189979,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.222584,
     "mps:longitude":99.189979,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Wiang Phrao"
     ],
@@ -43,7 +46,7 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":38,
     "wof:belongsto":[
         102191569,
@@ -55,7 +58,7 @@
     "wof:concordances":{
         "gn:id":1120443,
         "gp:id":28340809,
-        "qs:id":488416,
+        "qs_pg:id":488416,
         "wd:id":"Q19001445"
     },
     "wof:country":"TH",
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":102024031,
-    "wof:lastmodified":1563290218,
+    "wof:lastmodified":1566656335,
     "wof:name":"Phrao",
     "wof:parent_id":1108802725,
     "wof:placetype":"locality",

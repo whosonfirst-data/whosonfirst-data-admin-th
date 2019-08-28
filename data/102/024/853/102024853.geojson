@@ -14,6 +14,8 @@
     "iso:country":"TH",
     "lbl:latitude":13.390633,
     "lbl:longitude":99.991802,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":13.390633,
     "mps:longitude":99.991802,
     "mz:hierarchy_label":1,
@@ -76,7 +78,7 @@
     "name:tha_x_variant":[
         "\u0e2a\u0e21\u0e38\u0e17\u0e23\u0e2a\u0e07\u0e04\u0e23\u0e32\u0e21"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Smut Songkhram"
     ],
     "name:war_x_preferred":[
@@ -202,7 +204,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":531,
     "wof:belongsto":[
@@ -215,10 +217,12 @@
     "wof:concordances":{
         "gn:id":1606586,
         "gp:id":1226148,
-        "qs:id":476566,
-        "qs_pg:id":1153652,
+        "qs_pg:id":476566,
         "wd:id":"Q1361155",
         "wk:page":"Samut Songkhram"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1153652
     },
     "wof:country":"TH",
     "wof:geomhash":"7d0584c1874eb9aa63694d1969b34763",
@@ -232,7 +236,7 @@
         }
     ],
     "wof:id":102024853,
-    "wof:lastmodified":1563290296,
+    "wof:lastmodified":1566656387,
     "wof:name":"Samut Songkhram",
     "wof:parent_id":890467269,
     "wof:placetype":"locality",

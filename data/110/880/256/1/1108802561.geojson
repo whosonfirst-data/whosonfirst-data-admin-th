@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":17.062783,
     "lbl:longitude":99.520031,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"SUKHOTHAI",
     "meso:diss_me":"Ban Dan Lan HoiSUKHOTHAI",
     "meso:gadm_admin":"Ban Dan Lan Hoi",
@@ -31,6 +33,7 @@
     "meso:source":"AOTM",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09ac\u09be\u09a8 \u09a6\u09be\u09a8 \u09b2\u09be\u09a8 \u09b9\u09cb\u0987"
     ],
@@ -59,9 +62,9 @@
         "Ban Dan Lan Hoi"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-04-01",
+    "src:population_date":"2000-04-01",
     "statoids:area_km":"1018",
     "statoids:as_of_date":"2000-04-01",
     "statoids:capital":"",
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":1108802561,
-    "wof:lastmodified":1563296426,
+    "wof:lastmodified":1566661692,
     "wof:name":"Ban Dan Lan Hoi",
     "wof:parent_id":85678651,
     "wof:placetype":"county",
