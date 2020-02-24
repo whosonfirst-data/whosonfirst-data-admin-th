@@ -52,7 +52,6 @@
     "qs:pop_sr":"0",
     "src:geom":"meso",
     "src:geom_alt":[
-        "quattroshapes",
         "quattroshapes"
     ],
     "src:lbl:centroid":"mapshaper",
@@ -72,6 +71,9 @@
     },
     "wof:country":"TH",
     "wof:created":1469053555,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e58fc493bc2160662eb407f0e5edabd0",
     "wof:hierarchy":[
         {
@@ -82,7 +84,7 @@
         }
     ],
     "wof:id":890465993,
-    "wof:lastmodified":1536617419,
+    "wof:lastmodified":1582314879,
     "wof:name":"Nong Yai",
     "wof:parent_id":85678743,
     "wof:placetype":"county",

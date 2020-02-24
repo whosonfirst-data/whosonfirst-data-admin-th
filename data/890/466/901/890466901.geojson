@@ -52,7 +52,6 @@
     "qs:pop_sr":"0",
     "src:geom":"meso",
     "src:geom_alt":[
-        "quattroshapes",
         "quattroshapes"
     ],
     "src:lbl:centroid":"mapshaper",
@@ -72,6 +71,9 @@
     },
     "wof:country":"TH",
     "wof:created":1469053603,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3915d1358dcb4e0ccedc22c11e347595",
     "wof:hierarchy":[
         {
@@ -82,7 +84,7 @@
         }
     ],
     "wof:id":890466901,
-    "wof:lastmodified":1536617426,
+    "wof:lastmodified":1582314884,
     "wof:name":"Mae Wang",
     "wof:parent_id":85678619,
     "wof:placetype":"county",

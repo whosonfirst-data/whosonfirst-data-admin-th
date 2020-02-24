@@ -53,7 +53,6 @@
     "qs:pop_sr":"0",
     "src:geom":"meso",
     "src:geom_alt":[
-        "quattroshapes",
         "quattroshapes"
     ],
     "src:lbl:centroid":"mapshaper",
@@ -73,6 +72,9 @@
     },
     "wof:country":"TH",
     "wof:created":1469053637,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"21ace4efe6480fdd60b0519f7557fb57",
     "wof:hierarchy":[
         {
@@ -83,7 +85,7 @@
         }
     ],
     "wof:id":890467345,
-    "wof:lastmodified":1536617429,
+    "wof:lastmodified":1582314883,
     "wof:name":"Wang Nam Khieo",
     "wof:parent_id":85678705,
     "wof:placetype":"county",

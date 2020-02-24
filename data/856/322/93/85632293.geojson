@@ -923,7 +923,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "naturalearth",
-        "meso"
+        "meso",
+        "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
@@ -972,6 +973,11 @@
     },
     "wof:country":"TH",
     "wof:country_alpha3":"THA",
+    "wof:geom_alt":[
+        "naturalearth-display-terrestrial-zoom6",
+        "meso",
+        "naturalearth"
+    ],
     "wof:geomhash":"e036602264feb04c8108d893eaa55d0c",
     "wof:hierarchy":[
         {
@@ -983,7 +989,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566657701,
+    "wof:lastmodified":1582314783,
     "wof:name":"Thailand",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
