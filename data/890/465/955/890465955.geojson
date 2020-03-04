@@ -52,7 +52,6 @@
     "qs:pop_sr":"0",
     "src:geom":"meso",
     "src:geom_alt":[
-        "quattroshapes",
         "quattroshapes"
     ],
     "src:lbl:centroid":"mapshaper",
@@ -72,6 +71,9 @@
     },
     "wof:country":"TH",
     "wof:created":1469053553,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"66ff5bf5fb4871e09c87217d331ec343",
     "wof:hierarchy":[
         {
@@ -82,7 +84,7 @@
         }
     ],
     "wof:id":890465955,
-    "wof:lastmodified":1536617419,
+    "wof:lastmodified":1582314878,
     "wof:name":"Nang Rong",
     "wof:parent_id":85678619,
     "wof:placetype":"county",
