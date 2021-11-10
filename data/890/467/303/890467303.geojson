@@ -17,14 +17,26 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0641\u064a\u062a\u0634\u0627\u0628\u0648\u0646"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ab\u09c7\u09a4\u099b\u09be\u09ac\u09be\u09a8"
+    ],
     "name:ceb_x_preferred":[
         "Phetchabun"
     ],
     "name:deu_x_preferred":[
         "Phetchabun"
     ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03b5\u03c4\u03c3\u03b1\u03bc\u03c0\u03bf\u03cd\u03bd"
+    ],
     "name:eng_x_preferred":[
         "Phetchabun"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u062a\u0686\u0627\u0628\u0648\u0646"
     ],
     "name:fin_x_preferred":[
         "Phetchabun"
@@ -32,8 +44,23 @@
     "name:fra_x_preferred":[
         "Phetchabun"
     ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05e6'\u05d1\u05d5\u05df"
+    ],
+    "name:hin_x_preferred":[
+        "\u092b\u0947\u0924\u094d\u091a\u092c\u0941\u0928"
+    ],
+    "name:hun_x_preferred":[
+        "Phetchabun"
+    ],
+    "name:ind_x_preferred":[
+        "Phetchabun"
+    ],
     "name:ita_x_preferred":[
         "Phetchabun"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30da\u30c3\u30c1\u30e3\u30d6\u30fc\u30f3"
     ],
     "name:kor_x_preferred":[
         "\ud3ab\ucc28\ubd84"
@@ -53,17 +80,44 @@
     "name:pnb_x_preferred":[
         "\u067e\u06be\u0679\u0686\u0627\u0628\u0646"
     ],
+    "name:pol_x_preferred":[
+        "Phetchabun"
+    ],
+    "name:por_x_preferred":[
+        "Phetchabun"
+    ],
     "name:rus_x_preferred":[
         "\u041f\u0445\u0435\u0442\u0447\u0430\u0431\u0443\u043d"
     ],
+    "name:spa_x_preferred":[
+        "Phetchabun"
+    ],
+    "name:swe_x_preferred":[
+        "Phetchabun"
+    ],
     "name:tha_x_preferred":[
         "\u0e40\u0e17\u0e28\u0e1a\u0e32\u0e25\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e40\u0e1e\u0e0a\u0e23\u0e1a\u0e39\u0e23\u0e13\u0e4c"
+    ],
+    "name:tur_x_preferred":[
+        "Phetchabun"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0445\u0435\u0442\u0447\u0430\u0431\u0443\u043d"
+    ],
+    "name:urd_x_preferred":[
+        "\u0641\u06cc\u0679\u0627\u0686\u0627\u0628\u0646"
     ],
     "name:vie_x_preferred":[
         "Phetchabun"
     ],
     "name:war_x_preferred":[
         "Phetchabun"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u78a7\u5dee\u6c76"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u78a7\u5dee\u6c76"
     ],
     "qs:name":"Phetchabun",
     "qs:name_adm0":"Thailand",
@@ -101,7 +155,7 @@
         }
     ],
     "wof:id":890467303,
-    "wof:lastmodified":1566663225,
+    "wof:lastmodified":1636494884,
     "wof:name":"Phetchabun",
     "wof:parent_id":85678673,
     "wof:placetype":"locality",
