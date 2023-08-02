@@ -38,6 +38,12 @@
     "name:fra_x_preferred":[
         "U Thong"
     ],
+    "name:jpn_x_preferred":[
+        "\u30a6\u30fc\u30c8\u30fc\u30f3\u90e1"
+    ],
+    "name:kor_x_preferred":[
+        "\uc6b0\ud1b5\uad70"
+    ],
     "name:nan_x_preferred":[
         "U Thong K\u016bn"
     ],
@@ -58,6 +64,9 @@
     ],
     "name:vie_x_preferred":[
         "U Thong"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e4c\u901a\u53bf"
     ],
     "qs:name":"Ban Yung Thalai",
     "qs:name_adm0":"Thailand",
@@ -97,7 +106,7 @@
         }
     ],
     "wof:id":890466693,
-    "wof:lastmodified":1566663258,
+    "wof:lastmodified":1690869009,
     "wof:name":"Ban Yung Thalai",
     "wof:parent_id":85678679,
     "wof:placetype":"locality",

@@ -20,6 +20,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
+    "name:bel_x_preferred":[
+        "\u0421\u0456\u0441\u0430\u043a\u0435\u0442"
+    ],
     "name:ceb_x_preferred":[
         "Si Sa Ket"
     ],
@@ -50,8 +53,14 @@
     "name:ita_x_preferred":[
         "Sisaket"
     ],
+    "name:khm_x_preferred":[
+        "\u179f\u17d2\u179a\u17b8\u179f\u17b6\u1780\u17c1\u178f"
+    ],
     "name:kor_x_preferred":[
         "\uc2dc\uc0ac\uaeeb"
+    ],
+    "name:mlg_x_preferred":[
+        "Si Sa Ket"
     ],
     "name:nld_x_preferred":[
         "Sisaket"
@@ -80,8 +89,14 @@
     "name:tha_x_variant":[
         "\u0e40\u0e17\u0e28\u0e1a\u0e32\u0e25\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e28\u0e23\u0e35\u0e2a\u0e30\u0e40\u0e01\u0e29"
     ],
+    "name:uzb_x_preferred":[
+        "Sisaket"
+    ],
     "name:war_x_preferred":[
         "Sisaket"
+    ],
+    "name:zho_x_preferred":[
+        "\u56db\u8272\u83ca"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Thailand",
@@ -227,7 +242,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1636494854,
+    "wof:lastmodified":1690868620,
     "wof:name":"Si Sa Ket",
     "wof:parent_id":890466887,
     "wof:placetype":"locality",

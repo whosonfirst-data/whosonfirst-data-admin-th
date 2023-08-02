@@ -23,6 +23,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0646\u0637\u0642\u0629 \u0641\u0631\u0627\u064a \u0646\u0627\u062e\u0648\u0646"
     ],
+    "name:bak_x_preferred":[
+        "\u041f\u0445\u0440\u0430\u043d\u0430\u043a\u0445\u043e\u043d"
+    ],
     "name:bpy_x_preferred":[
         "\u0996\u09c7\u09a4 \u09ab\u09b0\u09be \u09a8\u09be\u0996\u09cb\u09a8"
     ],
@@ -35,6 +38,9 @@
     "name:eng_x_preferred":[
         "Phra Nakhon"
     ],
+    "name:est_x_preferred":[
+        "Phra Nakhon"
+    ],
     "name:fra_x_preferred":[
         "Phra Nakhon"
     ],
@@ -44,17 +50,29 @@
     "name:jpn_x_preferred":[
         "\u30d7\u30e9\u30ca\u30b3\u30fc\u30f3\u533a"
     ],
+    "name:khm_x_preferred":[
+        "\u1796\u17d2\u179a\u17c7\u1793\u1782\u179a"
+    ],
+    "name:kor_x_preferred":[
+        "\ud504\ub77c\ub098\ucf58"
+    ],
     "name:lao_x_preferred":[
         "\u0ec0\u0e82\u0e94\u0e9e\u0eb0\u0e99\u0eb0\u0e84\u0ead\u0e99"
     ],
     "name:msa_x_preferred":[
         "Phra Nakhon"
     ],
+    "name:mya_x_preferred":[
+        "\u1018\u102f\u101b\u102c\u1037\u1014\u1001\u103d\u1014\u103a\u1001\u101b\u102d\u102f\u1004\u103a"
+    ],
     "name:nld_x_preferred":[
         "Phra Nakhon"
     ],
     "name:nob_x_preferred":[
         "Phra Nakhon"
+    ],
+    "name:pnb_x_preferred":[
+        "\u067e\u06be\u0631\u0627 \u0646\u0627\u06a9\u06be\u0648\u0646 \u0636\u0644\u0639"
     ],
     "name:por_x_preferred":[
         "Phra Nakhon"
@@ -123,7 +141,7 @@
         }
     ],
     "wof:id":890466595,
-    "wof:lastmodified":1566663243,
+    "wof:lastmodified":1690868991,
     "wof:name":"Ban Bang Phra",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -42,6 +42,9 @@
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0633\u0627\u0631\u0627\u0628\u0648\u0631\u064a"
     ],
+    "name:bel_x_preferred":[
+        "\u0421\u0430\u0440\u0430\u0431\u0443\u0440\u044b"
+    ],
     "name:ben_x_preferred":[
         "\u09b8\u09be\u09b0\u09be\u09ac\u09c1\u09b0\u09bf"
     ],
@@ -51,6 +54,12 @@
     "name:bul_x_preferred":[
         "\u0421\u0430\u0440\u0430\u0431\u0443\u0440\u0438"
     ],
+    "name:cdo_x_preferred":[
+        "Saraburi H\u016b"
+    ],
+    "name:ckb_x_preferred":[
+        "\u067e\u0627\u0631\u06ce\u0632\u06af\u0627\u06cc \u0633\u0627\u0631\u0627\u0628\u0648\u0631\u06cc"
+    ],
     "name:dan_x_preferred":[
         "Saraburi"
     ],
@@ -59,6 +68,9 @@
     ],
     "name:ell_x_preferred":[
         "\u03a3\u03b1\u03c1\u03b1\u03bc\u03c0\u03bf\u03cd\u03c1\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u03a3\u03b1\u03c1\u03b1\u03bc\u03c0\u03bf\u03c5\u03c1\u03af"
     ],
     "name:eng_x_preferred":[
         "Sara Buri"
@@ -96,6 +108,12 @@
     ],
     "name:kan_x_preferred":[
         "\u0cb8\u0cb0\u0cac\u0cc1\u0cb0\u0cbf"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10e0\u10d0\u10d1\u10e3\u10e0\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
+    "name:khm_x_preferred":[
+        "\u1781\u17c1\u178f\u17d2\u178f\u179f\u17d2\u179a\u17c8\u1794\u17bb\u179a\u17b8"
     ],
     "name:kor_x_preferred":[
         "\uc0ac\ub77c\ubd80\ub9ac \uc8fc"
@@ -184,6 +202,9 @@
     "name:ukr_x_preferred":[
         "\u041f\u0440\u043e\u0432\u0456\u043d\u0446\u0456\u044f \u0421\u0430\u0440\u0430\u0431\u0443\u0440\u0456"
     ],
+    "name:ukr_x_variant":[
+        "\u0421\u0430\u0440\u0430\u0431\u0443\u0440\u0456"
+    ],
     "name:und_x_variant":[
         "Pak Phrieo"
     ],
@@ -210,6 +231,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5317\u6a19\u5e9c"
+    ],
+    "name:zho_x_variant":[
+        "\u6c99\u62c9\u6b66\u91cc\u5e9c"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"THA",
@@ -331,7 +355,7 @@
     "wof:lang_x_spoken":[
         "tha"
     ],
-    "wof:lastmodified":1636494879,
+    "wof:lastmodified":1690868785,
     "wof:name":"Saraburi",
     "wof:parent_id":85632293,
     "wof:placetype":"region",

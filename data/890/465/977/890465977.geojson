@@ -38,6 +38,9 @@
     "name:jpn_x_preferred":[
         "\u30c7\u30f3\u30c1\u30e3\u30a4\u90e1"
     ],
+    "name:kor_x_preferred":[
+        "\ub374\ucc28\uc774\uad70"
+    ],
     "name:nan_x_preferred":[
         "Den Chai K\u016bn"
     ],
@@ -50,8 +53,14 @@
     "name:tha_x_variant":[
         "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e40\u0e14\u0e48\u0e19\u0e0a\u0e31\u0e22"
     ],
+    "name:urd_x_preferred":[
+        "\u062f\u06cc\u0646 \u0686\u0627\u06cc \u0636\u0644\u0639"
+    ],
     "name:vie_x_preferred":[
         "Den Chai"
+    ],
+    "name:zho_x_preferred":[
+        "\u767b\u731c\u53bf"
     ],
     "qs:name":"Den Chai",
     "qs:name_adm0":"Thailand",
@@ -91,7 +100,7 @@
         }
     ],
     "wof:id":890465977,
-    "wof:lastmodified":1566663194,
+    "wof:lastmodified":1690868948,
     "wof:name":"Den Chai",
     "wof:parent_id":85678643,
     "wof:placetype":"locality",

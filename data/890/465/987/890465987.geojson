@@ -27,6 +27,9 @@
     "name:ceb_x_preferred":[
         "Si Racha"
     ],
+    "name:ceb_x_variant":[
+        "S\u012br\u0101ch\u0101"
+    ],
     "name:deu_x_preferred":[
         "Si Racha"
     ],
@@ -60,6 +63,12 @@
     "name:jpn_x_preferred":[
         "\u30b7\u30fc\u30e9\u30fc\u30c1\u30e3\u30fc"
     ],
+    "name:kor_x_preferred":[
+        "\uc2dc\ub77c\ucc28"
+    ],
+    "name:mlg_x_preferred":[
+        "Si Racha"
+    ],
     "name:nld_x_preferred":[
         "Si Racha"
     ],
@@ -68,6 +77,9 @@
     ],
     "name:nob_x_preferred":[
         "Si Racha"
+    ],
+    "name:pli_x_preferred":[
+        "\ud804\udc32\ud804\udc3a\ud804\udc2d\ud804\udc3a\ud804\udc2d\ud804\udc38\ud804\udc1a\ud804\udc38"
     ],
     "name:pol_x_preferred":[
         "Si Racha"
@@ -81,8 +93,14 @@
     "name:spa_x_preferred":[
         "Si Racha"
     ],
+    "name:spa_x_variant":[
+        "S\u012br\u0101ch\u0101"
+    ],
     "name:swe_x_preferred":[
         "Si Racha"
+    ],
+    "name:tgl_x_preferred":[
+        "S\u012br\u0101ch\u0101"
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e17\u0e28\u0e1a\u0e32\u0e25\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e28\u0e23\u0e35\u0e23\u0e32\u0e0a\u0e32"
@@ -138,7 +156,7 @@
         }
     ],
     "wof:id":890465987,
-    "wof:lastmodified":1636494883,
+    "wof:lastmodified":1690868960,
     "wof:name":"Si Racha",
     "wof:parent_id":85678795,
     "wof:placetype":"locality",

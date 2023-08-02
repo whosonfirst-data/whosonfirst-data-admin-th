@@ -41,6 +41,9 @@
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0628\u0648\u0631\u064a\u0631\u0627\u0645"
     ],
+    "name:bel_x_preferred":[
+        "\u0411\u0443\u0440\u044b\u0440\u0430\u043c"
+    ],
     "name:ben_x_preferred":[
         "\u09ac\u09c1\u09b0\u09bf \u09b0\u09be\u09ae"
     ],
@@ -50,8 +53,14 @@
     "name:bul_x_preferred":[
         "\u0411\u0443\u0440\u0438 \u0420\u0430\u043c"
     ],
+    "name:cdo_x_preferred":[
+        "Buriram H\u016b"
+    ],
     "name:ceb_x_preferred":[
         "Changwat Buriram"
+    ],
+    "name:ckb_x_preferred":[
+        "\u067e\u0627\u0631\u06ce\u0632\u06af\u0627\u06cc \u0628\u0648\u0631\u06cc\u0695\u0627\u0645"
     ],
     "name:dan_x_preferred":[
         "Buri Ram"
@@ -78,11 +87,17 @@
     "name:fra_x_preferred":[
         "Buri Ram"
     ],
+    "name:fra_x_variant":[
+        "Buriram"
+    ],
     "name:glg_x_preferred":[
         "Provincia Buri Ram"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0ac1\u0ab0\u0ac0 \u0ab0\u0abe\u0aae"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d5\u05e8\u05d9\u05e8\u05d0\u05dd"
     ],
     "name:hin_x_preferred":[
         "\u092c\u0941\u0930\u0940\u0930\u092e \u092a\u094d\u0930\u093e\u0928\u094d\u0924"
@@ -101,6 +116,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0cac\u0cc1\u0cb0\u0cbf \u0cb0\u0cbe\u0cae\u0ccd"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10e3\u10e0\u10d8\u10e0\u10d0\u10db\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
     ],
     "name:khm_x_preferred":[
         "\u1781\u17c1\u178f\u17d2\u178f\u1794\u17bb\u179a\u17b8\u179a\u1798\u17d2\u1799"
@@ -335,7 +353,7 @@
     "wof:lang_x_spoken":[
         "tha"
     ],
-    "wof:lastmodified":1636494873,
+    "wof:lastmodified":1690868773,
     "wof:name":"Buriram",
     "wof:parent_id":85632293,
     "wof:placetype":"region",

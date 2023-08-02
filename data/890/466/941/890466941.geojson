@@ -34,11 +34,23 @@
     "name:eng_x_preferred":[
         "Bangkok Yai"
     ],
+    "name:est_x_preferred":[
+        "Bangkok Yai"
+    ],
+    "name:fra_x_preferred":[
+        "Bangkok Yai"
+    ],
     "name:ita_x_preferred":[
         "Bangkok Yai"
     ],
     "name:jpn_x_preferred":[
         "\u30d0\u30fc\u30f3\u30b3\u30fc\u30af\u30e4\u30a4\u533a"
+    ],
+    "name:khm_x_preferred":[
+        "\u1794\u17b6\u1784\u1780\u1780\u1799\u17c3\u17c9"
+    ],
+    "name:kor_x_preferred":[
+        "\ubc29\ucf55\uc57c\uc774"
     ],
     "name:lao_x_preferred":[
         "\u0ec0\u0e82\u0e94\u0e9a\u0eb2\u0e87\u0e81\u0ead\u0e81\u0ec3\u0eab\u0e8d\u0ec8"
@@ -48,6 +60,9 @@
     ],
     "name:por_x_preferred":[
         "Bangkok Yai"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043d\u0433\u043a\u043e\u043a \u042f\u0439"
     ],
     "name:sme_x_preferred":[
         "Bangkok Yai"
@@ -63,6 +78,9 @@
     ],
     "name:zho_x_preferred":[
         "\u66fc\u8c37\u827e\u5340"
+    ],
+    "name:zho_x_variant":[
+        "\u66fc\u8c37\u827e\u7e23"
     ],
     "qs:name":"Bangkok Yai Khwaeng",
     "qs:name_adm0":"Thailand",
@@ -102,7 +120,7 @@
         }
     ],
     "wof:id":890466941,
-    "wof:lastmodified":1566663264,
+    "wof:lastmodified":1690869015,
     "wof:name":"Bangkok Yai Khwaeng",
     "wof:parent_id":102025263,
     "wof:placetype":"neighbourhood",

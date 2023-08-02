@@ -35,6 +35,12 @@
     "name:fra_x_preferred":[
         "Pa Phayom"
     ],
+    "name:jpn_x_preferred":[
+        "\u30d1\u30fc\u30d1\u30e8\u30fc\u30e0\u90e1"
+    ],
+    "name:kor_x_preferred":[
+        "\ube60\ud30c\uc6a4\uad70"
+    ],
     "name:nan_x_preferred":[
         "Pa Phayom K\u016bn"
     ],
@@ -49,6 +55,9 @@
     ],
     "name:vie_x_preferred":[
         "Pa Phayom"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u5e15\u6c38\u53bf"
     ],
     "qs:name":"Ban Pa Phayom",
     "qs:name_adm0":"Thailand",
@@ -88,7 +97,7 @@
         }
     ],
     "wof:id":890467085,
-    "wof:lastmodified":1566663216,
+    "wof:lastmodified":1690868968,
     "wof:name":"Ban Pa Phayom",
     "wof:parent_id":85678591,
     "wof:placetype":"locality",

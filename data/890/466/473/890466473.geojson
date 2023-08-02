@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"99.365951,9.1801665,99.365951,9.1801665",
+    "geom:bbox":"99.365951,9.180167,99.365951,9.180167",
     "geom:latitude":9.180167,
     "geom:longitude":99.365951,
     "gp:adm0":23424960,
@@ -37,6 +37,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30e0\u30a2\u30f3\u30b9\u30e9\u30fc\u30c8\u30bf\u30fc\u30cb\u30fc\u90e1"
+    ],
+    "name:kor_x_preferred":[
+        "\ubbc0\uc559\uc218\ub78f\ud0c0\ub2c8\uad70"
     ],
     "name:nan_x_preferred":[
         "Mueang Surat Thani K\u016bn"
@@ -79,7 +82,7 @@
     },
     "wof:country":"TH",
     "wof:created":1469053580,
-    "wof:geomhash":"fc9ffc6dfe676cb7c4d4e881daf1c3b3",
+    "wof:geomhash":"9e75f3fd3c3d0ee12326ae1607e5e806",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":890466473,
-    "wof:lastmodified":1566663282,
+    "wof:lastmodified":1690869033,
     "wof:name":"Khlong Chanak",
     "wof:parent_id":85678581,
     "wof:placetype":"locality",
@@ -100,9 +103,9 @@
 },
   "bbox": [
     99.365951,
-    9.1801665,
+    9.180167,
     99.365951,
-    9.1801665
+    9.180167
 ],
-  "geometry": {"coordinates":[99.365951,9.1801665],"type":"Point"}
+  "geometry": {"coordinates":[99.365951,9.180167],"type":"Point"}
 }

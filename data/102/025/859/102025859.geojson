@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000003,
     "geom:area_square_m":32365.314949,
-    "geom:bbox":"100.329973112,13.7954061982,100.332641602,13.7967398756",
+    "geom:bbox":"100.329973,13.795406,100.332642,13.79674",
     "geom:latitude":13.796002,
     "geom:longitude":100.331597,
     "gn:latitude":13.78851,
@@ -36,11 +36,20 @@
     "name:eng_x_preferred":[
         "Thawi Watthana"
     ],
+    "name:est_x_preferred":[
+        "Thawi Watthana"
+    ],
+    "name:fra_x_preferred":[
+        "Thawi Watthana"
+    ],
     "name:ita_x_preferred":[
         "Thawi Watthana"
     ],
     "name:jpn_x_preferred":[
         "\u30bf\u30a6\u30a3\u30fc\u30ef\u30c3\u30bf\u30ca\u30fc\u533a"
+    ],
+    "name:kor_x_preferred":[
+        "\ud0c0\uc704\uc653\ud0c0\ub098"
     ],
     "name:lao_x_preferred":[
         "\u0ec0\u0e82\u0e94\u0e97\u0eb0\u0ea7\u0eb5\u0ea7\u0eb1\u0e94\u0e97\u0eb0\u0e99\u0eb2"
@@ -65,6 +74,9 @@
     ],
     "name:vie_x_preferred":[
         "Thawi Watthana"
+    ],
+    "name:zho_x_preferred":[
+        "\u4ed6\u5a01\u8d8a\u4ed6\u90a3\u53bf"
     ],
     "qs:a0":"Thailand",
     "qs:a1":"*Bangkok",
@@ -97,7 +109,7 @@
         "wd:id":"Q1972329"
     },
     "wof:country":"TH",
-    "wof:geomhash":"6795ad51240d1ac0445e35bdf11b86df",
+    "wof:geomhash":"7d97a54e60b3e46edbf7c81590f47c68",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":102025859,
-    "wof:lastmodified":1566656432,
+    "wof:lastmodified":1690868712,
     "wof:name":"Thawi Watthana",
     "wof:parent_id":890467307,
     "wof:placetype":"locality",
@@ -118,10 +130,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    100.32997311153203,
-    13.79540619824442,
-    100.33264160200001,
-    13.7967398756
+    100.329973,
+    13.795406,
+    100.332642,
+    13.79674
 ],
-  "geometry": {"coordinates":[[[100.33126831100007,13.79540620138955],[100.32997311153203,13.79540619824442],[100.33126831075005,13.79673987462505],[100.33264160200001,13.7967398756],[100.33264160200001,13.79540620310001],[100.33126831100007,13.79540620138955]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[100.33126799999999,13.795406],[100.329973,13.795406],[100.33126799999999,13.79674],[100.33264200000001,13.79674],[100.33264200000001,13.795406],[100.33126799999999,13.795406]]],"type":"Polygon"}
 }

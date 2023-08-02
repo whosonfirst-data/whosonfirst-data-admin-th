@@ -35,6 +35,12 @@
     "name:fra_x_preferred":[
         "Si Sawat"
     ],
+    "name:jpn_x_preferred":[
+        "\u30b7\u30fc\u30b5\u30ef\u30c3\u30c8\u90e1"
+    ],
+    "name:kor_x_preferred":[
+        "\uc2dc\uc0ac\uc653\uad70"
+    ],
     "name:nan_x_preferred":[
         "Si Sawat K\u016bn"
     ],
@@ -49,6 +55,9 @@
     ],
     "name:vie_x_preferred":[
         "Si Sawat"
+    ],
+    "name:zho_x_preferred":[
+        "\u897f\u6c99\u74e6\u53bf"
     ],
     "qs:name":"Si Sawat",
     "qs:name_adm0":"Thailand",
@@ -86,7 +95,7 @@
         }
     ],
     "wof:id":890465963,
-    "wof:lastmodified":1566663188,
+    "wof:lastmodified":1690868942,
     "wof:name":"Si Sawat",
     "wof:parent_id":85678663,
     "wof:placetype":"locality",

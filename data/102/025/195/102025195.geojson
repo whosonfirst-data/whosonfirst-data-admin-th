@@ -22,8 +22,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":9.0,
+    "name:bel_x_preferred":[
+        "\u041c\u0443\u043a\u0434\u0430\u0445\u0430\u043d"
+    ],
     "name:bod_x_preferred":[
         "\u0f58\u0f74\u0f40\u0f0b\u0f51\u0f0b\u0f67\u0f71\u0f53\u0f0d"
+    ],
+    "name:bul_x_preferred":[
+        "\u041c\u0443\u043a\u0434\u0430\u0445\u0430\u043d"
     ],
     "name:ceb_x_preferred":[
         "Mukdahan"
@@ -76,6 +82,12 @@
     "name:rus_x_preferred":[
         "\u041c\u0443\u043a\u0434\u0430\u0445\u0430\u043d"
     ],
+    "name:shn_x_preferred":[
+        "\u1019\u102f\u1075\u103a\u1089\u1010\u1083\u1088\u1081\u1062\u107c\u103a"
+    ],
+    "name:spa_x_preferred":[
+        "Mukdahan"
+    ],
     "name:tha_x_preferred":[
         "\u0e40\u0e17\u0e28\u0e1a\u0e32\u0e25\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e21\u0e38\u0e01\u0e14\u0e32\u0e2b\u0e32\u0e23"
     ],
@@ -93,6 +105,9 @@
     ],
     "name:zho_x_preferred":[
         "\u83ab\u62c9\u9650\u5e02"
+    ],
+    "name:zho_x_variant":[
+        "\u7a46\u9054\u6f22"
     ],
     "qs:a0":"Thailand",
     "qs:a1":"*Mukdahan",
@@ -147,7 +162,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1636494863,
+    "wof:lastmodified":1690868702,
     "wof:name":"Mukdahan",
     "wof:parent_id":890467231,
     "wof:placetype":"locality",

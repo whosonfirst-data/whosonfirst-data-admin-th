@@ -38,6 +38,12 @@
     "name:ita_x_preferred":[
         "Sam Phran"
     ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30fc\u30e0\u30d7\u30e9\u30fc\u30f3\u90e1"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0bc\ud504\ub780\uad70"
+    ],
     "name:nan_x_preferred":[
         "Sam Phran K\u016bn"
     ],
@@ -67,6 +73,9 @@
     ],
     "name:vie_x_preferred":[
         "Sam Phran"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e09\u6500\u53bf"
     ],
     "qs:name":"Bang Krathuek",
     "qs:name_adm0":"Thailand",
@@ -106,7 +115,7 @@
         }
     ],
     "wof:id":890466545,
-    "wof:lastmodified":1566663268,
+    "wof:lastmodified":1690869020,
     "wof:name":"Bang Krathuek",
     "wof:parent_id":85678747,
     "wof:placetype":"locality",

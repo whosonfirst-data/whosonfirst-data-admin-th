@@ -42,6 +42,9 @@
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u062a\u0627\u0643"
     ],
+    "name:bel_x_preferred":[
+        "\u0422\u0430\u043a"
+    ],
     "name:ben_x_preferred":[
         "\u099f\u09be\u0995"
     ],
@@ -51,8 +54,17 @@
     "name:bul_x_preferred":[
         "\u0422\u0430\u043a"
     ],
+    "name:cat_x_preferred":[
+        "Tak"
+    ],
+    "name:cdo_x_preferred":[
+        "Tak H\u016b"
+    ],
     "name:ceb_x_preferred":[
         "Changwat Tak"
+    ],
+    "name:ckb_x_preferred":[
+        "\u067e\u0627\u0631\u06ce\u0632\u06af\u0627\u06cc \u062a\u0627\u06a9"
     ],
     "name:dan_x_preferred":[
         "Tak"
@@ -84,6 +96,9 @@
     "name:guj_x_preferred":[
         "\u0aa4\u0abe\u0a95"
     ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05d0\u05e7"
+    ],
     "name:hin_x_preferred":[
         "\u0924\u093e\u0915 \u092a\u094d\u0930\u093e\u0928\u094d\u0924"
     ],
@@ -101,6 +116,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10e2\u10d0\u10d9\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
+    "name:khm_x_preferred":[
+        "\u1781\u17c1\u178f\u17d2\u178f\u178f\u17b6\u1780"
     ],
     "name:kor_x_preferred":[
         "\ub531 \uc8fc"
@@ -126,11 +144,17 @@
     "name:mar_x_preferred":[
         "\u0924\u093e\u0915"
     ],
+    "name:mkd_x_preferred":[
+        "\u0422\u0430\u043a"
+    ],
     "name:mlg_x_preferred":[
         "Faritanin'i Tak"
     ],
     "name:msa_x_preferred":[
         "Tak"
+    ],
+    "name:mya_x_preferred":[
+        "\u1010\u102c\u1037\u1001\u103a\u1001\u101b\u102d\u102f\u1004\u103a"
     ],
     "name:nan_x_preferred":[
         "Tak H\u00fa"
@@ -143,6 +167,9 @@
     ],
     "name:nob_x_preferred":[
         "Tak"
+    ],
+    "name:nod_x_preferred":[
+        "\u1a32\u1a63\u1a60\u1a20"
     ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0679\u0627\u06a9"
@@ -173,6 +200,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0ba4\u0b95\u0bcd"
+    ],
+    "name:tam_x_variant":[
+        "\u0ba4\u0b95\u0bcd \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c1f\u0c3e\u0c15\u0c4d"
@@ -339,7 +369,7 @@
     "wof:lang_x_spoken":[
         "tha"
     ],
-    "wof:lastmodified":1636494878,
+    "wof:lastmodified":1690868783,
     "wof:name":"Tak",
     "wof:parent_id":85632293,
     "wof:placetype":"region",

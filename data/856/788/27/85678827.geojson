@@ -42,6 +42,9 @@
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u062e\u0648\u0646 \u0643\u0627\u064a\u0646"
     ],
+    "name:bel_x_preferred":[
+        "\u041a\u0445\u0430\u043d\u043a\u044d\u043d"
+    ],
     "name:ben_x_preferred":[
         "\u0996\u09a8 \u0995\u09c7\u0987\u09a8"
     ],
@@ -54,8 +57,17 @@
     "name:cat_x_preferred":[
         "Khon Kaen"
     ],
+    "name:cdo_x_preferred":[
+        "Khon Kaen H\u016b"
+    ],
     "name:ceb_x_preferred":[
         "Changwat Khon Kaen"
+    ],
+    "name:ceb_x_variant":[
+        "Lalawigan sa Kh\u01ednk\u01e3n"
+    ],
+    "name:ckb_x_preferred":[
+        "\u067e\u0627\u0631\u06ce\u0632\u06af\u0627\u06cc \u062e\u06c6\u0646 \u06a9\u0627\u06cc\u0646"
     ],
     "name:dan_x_preferred":[
         "Khon Kaen"
@@ -96,6 +108,9 @@
     "name:hun_x_preferred":[
         "Khon Kaen"
     ],
+    "name:ilo_x_preferred":[
+        "Probinsia ti Kh\u01ednk\u01e3n"
+    ],
     "name:ind_x_preferred":[
         "Provinsi Khon Kaen"
     ],
@@ -108,14 +123,23 @@
     "name:kan_x_preferred":[
         "\u0c96\u0cca\u0ca8\u0ccd \u0c95\u0cc8\u0ca8\u0ccd"
     ],
+    "name:khm_x_preferred":[
+        "\u1781\u17c1\u178f\u17d2\u178f\u1781\u1793\u1780\u17c2\u1793"
+    ],
     "name:kor_x_preferred":[
         "\ucf58\uae6c \uc8fc"
     ],
     "name:kor_x_variant":[
         "\ucf58\uae6c\uc8fc"
     ],
+    "name:krj_x_preferred":[
+        "Kapuudan ka Kh\u01ednk\u01e3n"
+    ],
     "name:lao_x_preferred":[
         "\u0e88\u0eb1\u0e87\u0eab\u0ea7\u0eb1\u0e94\u0e82\u0ead\u0e99\u0ec1\u0e81\u0ec8\u0e99"
+    ],
+    "name:lao_x_variant":[
+        "\u0e88\u0eb1\u0e87\u0eab\u0ea7\u0eb1\u0e94 \u0e82\u0ead\u0e99\u0ec1\u0e81\u0ec8\u0e99"
     ],
     "name:lav_x_preferred":[
         "Khonk\u0113na"
@@ -137,6 +161,9 @@
     ],
     "name:nan_x_preferred":[
         "Khon Kaen H\u00fa"
+    ],
+    "name:nep_x_preferred":[
+        "\u0916\u094b\u0928 \u0915\u0947\u0928 \u092a\u094d\u0930\u093e\u0928\u094d\u0924"
     ],
     "name:nld_x_preferred":[
         "Changwat Khon Kaen"
@@ -180,6 +207,9 @@
     "name:tgk_x_preferred":[
         "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u0425\u043e\u043d \u041a\u0430\u0435\u043d"
     ],
+    "name:tgl_x_preferred":[
+        "Lalawigan ng Kh\u01ednk\u01e3n"
+    ],
     "name:tha_x_preferred":[
         "\u0e02\u0e2d\u0e19\u0e41\u0e01\u0e48\u0e19"
     ],
@@ -203,6 +233,9 @@
     ],
     "name:war_x_preferred":[
         "Khon Kaen"
+    ],
+    "name:war_x_variant":[
+        "Probinsiya han Kh\u01ednk\u01e3n"
     ],
     "name:wuu_x_preferred":[
         "\u5764\u656c\u5e9c"
@@ -336,7 +369,7 @@
     "wof:lang_x_spoken":[
         "tha"
     ],
-    "wof:lastmodified":1636494872,
+    "wof:lastmodified":1690868772,
     "wof:name":"Khon Kaen",
     "wof:parent_id":85632293,
     "wof:placetype":"region",

@@ -24,6 +24,9 @@
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0633\u0627\u0645\u0648\u062a \u0633\u0648\u0646\u063a\u0631\u0627\u0645"
     ],
+    "name:bel_x_preferred":[
+        "\u0421\u0430\u043c\u0443\u0442\u0441\u0430\u043d\u0433\u043a\u0445\u0440\u0430\u043c"
+    ],
     "name:ben_x_preferred":[
         "\u09b8\u09be\u09ae\u09c1\u09a4 \u09b8\u0982\u0996\u09cd\u09b0\u09cd\u09af\u09be\u09ae"
     ],
@@ -128,6 +131,9 @@
     ],
     "name:zho_tw_x_preferred":[
         "\u6c99\u6c92\u980c\u582a"
+    ],
+    "name:zho_x_preferred":[
+        "\u591c\u529f\u5e9c"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Thailand",
@@ -284,7 +290,7 @@
         }
     ],
     "wof:id":102024853,
-    "wof:lastmodified":1642551819,
+    "wof:lastmodified":1690868681,
     "wof:name":"Samut Songkhram",
     "wof:parent_id":890467269,
     "wof:placetype":"locality",

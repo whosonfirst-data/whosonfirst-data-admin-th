@@ -29,6 +29,12 @@
     "name:ara_x_variant":[
         "\u062a\u0634\u064a\u0627\u0646\u063a \u0645\u064a"
     ],
+    "name:bel_x_preferred":[
+        "\u0427\u044b\u044f\u043d\u0433\u043c\u0430\u0439"
+    ],
+    "name:ben_x_preferred":[
+        "\u099a\u09bf\u09af\u09bc\u09be\u0982 \u09ae\u09be\u0987"
+    ],
     "name:bod_x_preferred":[
         "\u0f46\u0f7a\u0f44\u0f0b\u0f58\u0fb0\u0f7a\u0f0d"
     ],
@@ -47,11 +53,17 @@
     "name:ces_x_preferred":[
         "\u010ciang Mai"
     ],
+    "name:ckb_x_preferred":[
+        "\u0686\u06cc\u0627\u0646\u06af \u0645\u0627\u06cc"
+    ],
     "name:dan_x_preferred":[
         "Chiang Mai"
     ],
     "name:deu_x_preferred":[
         "Chiang Mai"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03c3\u03b1\u03bd\u03b3\u03ba \u039c\u03ac\u03b9"
     ],
     "name:eng_x_colloquial":[
         "Zimme"
@@ -79,6 +91,9 @@
     "name:fas_x_preferred":[
         "\u0686\u06cc\u0627\u0646\u06af \u0645\u0627\u06cc"
     ],
+    "name:fij_x_preferred":[
+        "Chiang Mai"
+    ],
     "name:fin_x_preferred":[
         "Chiang Mai"
     ],
@@ -86,6 +101,9 @@
         "Chiang Mai"
     ],
     "name:frr_x_preferred":[
+        "Chiang Mai"
+    ],
+    "name:gle_x_preferred":[
         "Chiang Mai"
     ],
     "name:hau_x_preferred":[
@@ -128,6 +146,9 @@
     "name:kaz_x_preferred":[
         "\u0427\u0438\u0430\u043d\u0433\u043c\u0430\u0439"
     ],
+    "name:khm_x_preferred":[
+        "\u1788\u17c0\u1784\u1798\u17c9\u17c3"
+    ],
     "name:kor_x_preferred":[
         "\uce58\uc559\ub9c8\uc774"
     ],
@@ -145,6 +166,9 @@
     ],
     "name:lmo_x_preferred":[
         "Chiang Mai"
+    ],
+    "name:mai_x_preferred":[
+        "\u091a\u093f\u0906\u0919\u094d \u092e\u093e\u0908"
     ],
     "name:mal_x_preferred":[
         "\u0d1a\u0d3f\u0d2f\u0d3e\u0d19\u0d4d \u0d2e\u0d48"
@@ -173,11 +197,17 @@
     "name:nob_x_preferred":[
         "Chiang Mai"
     ],
+    "name:nod_x_preferred":[
+        "\u1a29\u1a60\u1a3f\u1a26\u1a49\u1a60\u1a3e\u1a72\u1a75"
+    ],
     "name:nor_x_preferred":[
         "Chiang Mai"
     ],
     "name:oci_x_preferred":[
         "Chiang Mai"
+    ],
+    "name:oss_x_preferred":[
+        "\u0427\u0438\u0430\u043d\u0433\u043c\u0430\u0439"
     ],
     "name:pnb_x_preferred":[
         "\u0686\u06cc\u0627\u0646\u06af \u0645\u0627\u0626\u06cc"
@@ -203,6 +233,12 @@
     "name:sco_x_preferred":[
         "Chiang Mai"
     ],
+    "name:shn_x_preferred":[
+        "\u1075\u1035\u1004\u103a\u1038\u1019\u1082\u103a\u1087"
+    ],
+    "name:som_x_preferred":[
+        "Chiang Mai"
+    ],
     "name:spa_x_preferred":[
         "Chiang Mai"
     ],
@@ -210,6 +246,15 @@
         "\u0427\u0438\u0458\u0430\u043d\u0433 \u041c\u0430\u0458"
     ],
     "name:swe_x_preferred":[
+        "Chiang Mai"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0bbf\u0baf\u0bbe\u0b99\u0bcd \u0bae\u0bbe\u0baf\u0bcd \u0ba8\u0b95\u0bb0\u0bae\u0bcd"
+    ],
+    "name:tat_x_preferred":[
+        "\u0427\u0438\u0430\u04a3\u043c\u0430\u0439"
+    ],
+    "name:tgl_x_preferred":[
         "Chiang Mai"
     ],
     "name:tha_x_preferred":[
@@ -234,6 +279,9 @@
     ],
     "name:uzb_x_preferred":[
         "Chiangmay"
+    ],
+    "name:vec_x_preferred":[
+        "Chiang Mai"
     ],
     "name:vie_x_preferred":[
         "Chiang Mai"
@@ -407,7 +455,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1636494862,
+    "wof:lastmodified":1690868697,
     "wof:name":"Chiang Mai",
     "wof:parent_id":890467179,
     "wof:placetype":"locality",
