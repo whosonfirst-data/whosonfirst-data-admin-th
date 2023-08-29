@@ -52,6 +52,9 @@
     "name:jpn_x_preferred":[
         "\u30bf\u30fc\u30c1\u30e3\u30fc\u30f3\u90e1"
     ],
+    "name:kor_x_preferred":[
+        "\ud0c0\ucc3d\uad70"
+    ],
     "name:nan_x_preferred":[
         "Tha Chang K\u016bn"
     ],
@@ -66,6 +69,9 @@
     ],
     "name:vie_x_preferred":[
         "Tha Chang"
+    ],
+    "name:zho_x_preferred":[
+        "\u5854\u660c\u53bf"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -103,7 +109,7 @@
         }
     ],
     "wof:id":1108802751,
-    "wof:lastmodified":1627522818,
+    "wof:lastmodified":1690868812,
     "wof:name":"Tha Chang",
     "wof:parent_id":85678581,
     "wof:placetype":"county",

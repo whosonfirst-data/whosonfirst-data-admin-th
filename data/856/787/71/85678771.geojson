@@ -41,6 +41,9 @@
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0633\u0627\u0645\u0648\u062a \u0633\u0627\u062e\u0648\u0646"
     ],
+    "name:bel_x_preferred":[
+        "\u0421\u0430\u043c\u0443\u0442\u0441\u0430\u043a\u0445\u043e\u043d"
+    ],
     "name:ben_x_preferred":[
         "\u09b8\u09be\u09ae\u09c1\u09a4 \u09b8\u09be\u0996\u09a8"
     ],
@@ -50,8 +53,14 @@
     "name:bul_x_preferred":[
         "\u0421\u0430\u043c\u0443\u0442 \u0421\u0430\u043a\u043e\u043d"
     ],
+    "name:cdo_x_preferred":[
+        "Samut Sakhon H\u016b"
+    ],
     "name:ceb_x_preferred":[
         "Changwat Samut Sakhon"
+    ],
+    "name:ckb_x_preferred":[
+        "\u067e\u0627\u0631\u06ce\u0632\u06af\u0627\u06cc \u0633\u0627\u0645\u0648\u062a \u0633\u0627\u062e\u06c6\u0646"
     ],
     "name:dan_x_preferred":[
         "Samut Sakhon"
@@ -61,6 +70,9 @@
     ],
     "name:ell_x_preferred":[
         "\u03a3\u03ac\u03bc\u03bf\u03c5\u03c4 \u03a3\u03ac\u03ba\u03bf\u03bd"
+    ],
+    "name:ell_x_variant":[
+        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u03a3\u03b1\u03bc\u03bf\u03cd\u03c4 \u03a3\u03b1\u03c7\u03cc\u03bd"
     ],
     "name:eng_x_preferred":[
         "Samut Sakhon"
@@ -92,6 +104,9 @@
     "name:hun_x_preferred":[
         "Samut Sakhon"
     ],
+    "name:hye_x_preferred":[
+        "\u054d\u0561\u0574\u0578\u0582\u057f \u054d\u0561\u056f\u056d\u0578\u0576"
+    ],
     "name:ind_x_preferred":[
         "Samut Sakhon"
     ],
@@ -103,6 +118,12 @@
     ],
     "name:kan_x_preferred":[
         "\u0cb8\u0cbe\u0cae\u0cc1\u0ca4\u0ccd \u0cb8\u0c96\u0ccb\u0ca8\u0ccd"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10db\u10e3\u10e2\u10e1\u10d0\u10e5\u10dd\u10dc\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
+    "name:khm_x_preferred":[
+        "\u1781\u17c1\u178f\u17d2\u178f\u179f\u1798\u17bb\u1791\u17d2\u179a\u179f\u17b6\u1782\u179a"
     ],
     "name:kor_x_preferred":[
         "\uc0ac\ubb47\uc0ac\ucf58 \uc8fc"
@@ -175,6 +196,9 @@
     ],
     "name:tgk_x_preferred":[
         "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u0421\u0430\u043c\u0443\u0442 \u0421\u0430x\u043e\u043d"
+    ],
+    "name:tgl_x_preferred":[
+        "Lalawigan ng Samut Sakhon"
     ],
     "name:tha_x_preferred":[
         "\u0e2a\u0e21\u0e38\u0e17\u0e23\u0e2a\u0e32\u0e04\u0e23"
@@ -331,7 +355,7 @@
     "wof:lang_x_spoken":[
         "tha"
     ],
-    "wof:lastmodified":1636494882,
+    "wof:lastmodified":1690868790,
     "wof:name":"Samut Sakhon",
     "wof:parent_id":85632293,
     "wof:placetype":"region",

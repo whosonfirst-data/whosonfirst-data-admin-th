@@ -64,6 +64,9 @@
     "name:jpn_x_preferred":[
         "\u30e0\u30a2\u30f3\u30b5\u30e0\u30c3\u30c8\u30d7\u30e9\u30fc\u30ab\u30fc\u30f3\u90e1"
     ],
+    "name:kor_x_preferred":[
+        "\ubbc0\uc559\uc0ac\ubb47\uc058\ub77c\uae50\uad70"
+    ],
     "name:nld_x_preferred":[
         "Amphoe Mueang Samut Prakan"
     ],
@@ -88,6 +91,9 @@
     "name:tha_x_preferred":[
         "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e2a\u0e21\u0e38\u0e17\u0e23\u0e1b\u0e23\u0e32\u0e01\u0e32\u0e23"
     ],
+    "name:urd_x_preferred":[
+        "\u0645\u0648\u0626\u0627\u0646\u06af \u0633\u0627\u0645\u0648\u062a \u067e\u0631\u0627\u06a9\u0627\u0646 \u0636\u0644\u0639"
+    ],
     "name:vie_x_preferred":[
         "Mueang Samut Prakan"
     ],
@@ -96,6 +102,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5317\u6984\u5e9c"
+    ],
+    "name:zho_x_variant":[
+        "\u6c99\u6ca1\u5df4\u5e72\u53bf"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -133,7 +142,7 @@
         }
     ],
     "wof:id":1108802737,
-    "wof:lastmodified":1636494882,
+    "wof:lastmodified":1690868809,
     "wof:name":"Samut Prakan",
     "wof:parent_id":85678765,
     "wof:placetype":"county",

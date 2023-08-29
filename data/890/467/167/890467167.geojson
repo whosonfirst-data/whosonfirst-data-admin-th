@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"100.522333,14.1490835,100.522333,14.1490835",
+    "geom:bbox":"100.522333,14.149083,100.522333,14.149083",
     "geom:latitude":14.149083,
     "geom:longitude":100.522333,
     "gp:adm0":23424960,
@@ -29,6 +29,9 @@
     "name:jpn_x_preferred":[
         "\u30d0\u30fc\u30f3\u30b5\u30a4\u90e1"
     ],
+    "name:kor_x_preferred":[
+        "\ubc29\uc0ac\uc774\uad70"
+    ],
     "name:nan_x_preferred":[
         "Bang Sai K\u016bn"
     ],
@@ -40,6 +43,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0628\u0627\u0646\u06af \u0633\u0627\u0626\u06cc \u0636\u0644\u0639"
+    ],
+    "name:zho_x_preferred":[
+        "\u90a6\u8d5b\u53bf"
     ],
     "qs:name":"Pho Taeng",
     "qs:name_adm0":"Thailand",
@@ -67,7 +73,7 @@
     },
     "wof:country":"TH",
     "wof:created":1469053615,
-    "wof:geomhash":"8095b918866307754aacbb05f8fb670e",
+    "wof:geomhash":"5b551b7fc04b4f093efe4cdc0529df1e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +83,7 @@
         }
     ],
     "wof:id":890467167,
-    "wof:lastmodified":1566663211,
+    "wof:lastmodified":1690868964,
     "wof:name":"Pho Taeng",
     "wof:parent_id":85678721,
     "wof:placetype":"locality",
@@ -88,9 +94,9 @@
 },
   "bbox": [
     100.522333,
-    14.1490835,
+    14.149083,
     100.522333,
-    14.1490835
+    14.149083
 ],
-  "geometry": {"coordinates":[100.522333,14.1490835],"type":"Point"}
+  "geometry": {"coordinates":[100.522333,14.149083],"type":"Point"}
 }

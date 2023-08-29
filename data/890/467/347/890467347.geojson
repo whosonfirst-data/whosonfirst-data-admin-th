@@ -38,6 +38,9 @@
     "name:jpn_x_preferred":[
         "\u30e0\u30a2\u30f3\u30d1\u30c8\u30a5\u30e0\u30bf\u30fc\u30cb\u30fc\u90e1"
     ],
+    "name:kor_x_preferred":[
+        "\ubbc0\uc559\ube60\ud23c\ud0c0\ub2c8\uad70"
+    ],
     "name:ron_x_preferred":[
         "Districtul Mueang Pathum Thani"
     ],
@@ -50,6 +53,9 @@
     ],
     "name:vie_x_preferred":[
         "Mueang Pathum Thani"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u541e\u4ed6\u5c3c\u5e9c\u6cbb\u53bf"
     ],
     "qs:name":"Suan Phrik Thai",
     "qs:name_adm0":"Thailand",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":890467347,
-    "wof:lastmodified":1566663223,
+    "wof:lastmodified":1690868974,
     "wof:name":"Suan Phrik Thai",
     "wof:parent_id":85678725,
     "wof:placetype":"locality",

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"100.094673,14.7555165,100.094673,14.7555165",
+    "geom:bbox":"100.094673,14.755517,100.094673,14.755517",
     "geom:latitude":14.755517,
     "geom:longitude":100.094673,
     "gp:adm0":23424960,
@@ -32,6 +32,12 @@
     "name:fra_x_preferred":[
         "Sam Chuk"
     ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30fc\u30e0\u30c1\u30e5\u30c3\u30af\u90e1"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0bc\ucd95\uad70"
+    ],
     "name:nan_x_preferred":[
         "Sam Chuk K\u016bn"
     ],
@@ -43,6 +49,9 @@
     ],
     "name:vie_x_preferred":[
         "Sam Chuk"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e09\u7af9\u53bf"
     ],
     "qs:name":"Sam Chuk",
     "qs:name_adm0":"Thailand",
@@ -70,7 +79,7 @@
     },
     "wof:country":"TH",
     "wof:created":1469053606,
-    "wof:geomhash":"4a0d1addd3743e1b106252ab9efe541c",
+    "wof:geomhash":"a885bbee9cc93cd640deec6da1417aae",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +89,7 @@
         }
     ],
     "wof:id":890466973,
-    "wof:lastmodified":1566663292,
+    "wof:lastmodified":1690869043,
     "wof:name":"Sam Chuk",
     "wof:parent_id":85678679,
     "wof:placetype":"locality",
@@ -91,9 +100,9 @@
 },
   "bbox": [
     100.094673,
-    14.7555165,
+    14.755517,
     100.094673,
-    14.7555165
+    14.755517
 ],
-  "geometry": {"coordinates":[100.094673,14.7555165],"type":"Point"}
+  "geometry": {"coordinates":[100.094673,14.755517],"type":"Point"}
 }

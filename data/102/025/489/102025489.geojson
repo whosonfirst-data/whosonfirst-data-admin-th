@@ -25,6 +25,9 @@
     "name:ara_x_preferred":[
         "\u062a\u0634\u0627\u064a\u0627\u0641\u0648\u0645"
     ],
+    "name:bel_x_preferred":[
+        "\u0427\u0430\u044f\u043f\u0445\u0443\u043c"
+    ],
     "name:bod_x_preferred":[
         "\u0f45\u0f60\u0f72\u0f0b\u0f61\u0f0b\u0f55\u0f74\u0f58\u0f0d"
     ],
@@ -61,6 +64,9 @@
     "name:lit_x_preferred":[
         "\u010caijaphumas"
     ],
+    "name:mlg_x_preferred":[
+        "Chaiyaphum"
+    ],
     "name:mya_x_preferred":[
         "\u1001\u103b\u102d\u102f\u1004\u103a\u101b\u1016\u1014\u103a\u1019\u103c\u102d\u102f\u1037"
     ],
@@ -78,6 +84,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0427\u0430\u0439\u044f\u043f\u0445\u0443\u043c"
+    ],
+    "name:shn_x_preferred":[
+        "\u1076\u103b\u1086\u1038\u101a\u107d\u102f\u1019\u103a\u1038"
     ],
     "name:spa_x_preferred":[
         "Chaiyaphum"
@@ -97,6 +106,9 @@
     "name:yue_x_preferred":[
         "\u731c\u4e5f\u8cc1"
     ],
+    "name:zho_x_preferred":[
+        "\u731c\u4e5f\u84ec"
+    ],
     "qs:a1":"*",
     "qs:a1r":"*",
     "qs:id":0,
@@ -113,8 +125,8 @@
     "wof:belongsto":[
         102191569,
         85632293,
-        890467457,
-        85678825
+        85678825,
+        890467457
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -137,7 +149,7 @@
         }
     ],
     "wof:id":102025489,
-    "wof:lastmodified":1614896167,
+    "wof:lastmodified":1690868738,
     "wof:name":"Changwat Chaiyaphum",
     "wof:parent_id":890467457,
     "wof:placetype":"locality",

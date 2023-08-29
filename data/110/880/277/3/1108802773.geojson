@@ -52,6 +52,9 @@
     "name:jpn_x_preferred":[
         "\u30a6\u30a3\u30a8\u30f3\u30b5\u90e1"
     ],
+    "name:kor_x_preferred":[
+        "\uc704\uc559\uc0ac\uad70"
+    ],
     "name:nan_x_preferred":[
         "Wiang Sa K\u016bn"
     ],
@@ -66,6 +69,9 @@
     ],
     "name:vie_x_preferred":[
         "Wiang Sa"
+    ],
+    "name:zho_x_preferred":[
+        "\u6e0a\u6c99\u53bf"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -103,7 +109,7 @@
         }
     ],
     "wof:id":1108802773,
-    "wof:lastmodified":1627522819,
+    "wof:lastmodified":1690868823,
     "wof:name":"Wiang Sa",
     "wof:parent_id":85678581,
     "wof:placetype":"county",

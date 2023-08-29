@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"101.569343,13.8862625,101.569343,13.8862625",
+    "geom:bbox":"101.569343,13.886263,101.569343,13.886263",
     "geom:latitude":13.886263,
     "geom:longitude":101.569343,
     "gp:adm0":23424960,
@@ -32,6 +32,12 @@
     "name:fra_x_preferred":[
         "Si Maha Phot"
     ],
+    "name:jpn_x_preferred":[
+        "\u30b7\u30fc\u30de\u30cf\u30fc\u30dd\u30fc\u90e1"
+    ],
+    "name:kor_x_preferred":[
+        "\uc2dc\ub9c8\ud558\ud3ff\uad70"
+    ],
     "name:nan_x_preferred":[
         "Si Maha Phot K\u016bn"
     ],
@@ -43,6 +49,9 @@
     ],
     "name:vie_x_preferred":[
         "Si Maha Phot"
+    ],
+    "name:zho_x_preferred":[
+        "\u897f\u739b\u54c8\u5761\u53bf"
     ],
     "qs:name":"Krok Sombun",
     "qs:name_adm0":"Thailand",
@@ -70,7 +79,7 @@
     },
     "wof:country":"TH",
     "wof:created":1469053614,
-    "wof:geomhash":"ce05fa51155e80e92a18e6b87798c62a",
+    "wof:geomhash":"e89640bb20f8ff081fcb59ea93689852",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +89,7 @@
         }
     ],
     "wof:id":890467145,
-    "wof:lastmodified":1566663221,
+    "wof:lastmodified":1690868973,
     "wof:name":"Krok Sombun",
     "wof:parent_id":85678711,
     "wof:placetype":"locality",
@@ -91,9 +100,9 @@
 },
   "bbox": [
     101.569343,
-    13.8862625,
+    13.886263,
     101.569343,
-    13.8862625
+    13.886263
 ],
-  "geometry": {"coordinates":[101.569343,13.8862625],"type":"Point"}
+  "geometry": {"coordinates":[101.569343,13.886263],"type":"Point"}
 }

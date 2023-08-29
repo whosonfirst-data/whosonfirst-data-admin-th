@@ -35,6 +35,12 @@
     "name:fra_x_preferred":[
         "Bang Len"
     ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30fc\u30f3\u30ec\u30fc\u30f3\u90e1"
+    ],
+    "name:kor_x_preferred":[
+        "\ubc29\ub80c\uad70"
+    ],
     "name:nan_x_preferred":[
         "Bang Len K\u016bn"
     ],
@@ -55,6 +61,9 @@
     ],
     "name:vie_x_preferred":[
         "Bang Len"
+    ],
+    "name:zho_x_preferred":[
+        "\u73ed\u4f26\u53bf"
     ],
     "qs:name":"Ban Bang Phai",
     "qs:name_adm0":"Thailand",
@@ -92,7 +101,7 @@
         }
     ],
     "wof:id":890465687,
-    "wof:lastmodified":1566663190,
+    "wof:lastmodified":1690868944,
     "wof:name":"Ban Bang Phai",
     "wof:parent_id":85678797,
     "wof:placetype":"locality",

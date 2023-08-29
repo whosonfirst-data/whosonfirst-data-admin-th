@@ -42,6 +42,9 @@
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0633\u0627\u0643\u0648\u0646 \u0646\u0627\u062e\u0648\u0646"
     ],
+    "name:bel_x_preferred":[
+        "\u0421\u0430\u043a\u0430\u043d\u0430\u043a\u0445\u043e\u043d"
+    ],
     "name:ben_x_preferred":[
         "\u09b8\u09be\u0995\u09a8 \u09a8\u09be\u0995\u09a8"
     ],
@@ -54,8 +57,17 @@
     "name:bul_x_preferred":[
         "\u0421\u0430\u043a\u043e\u043d \u041d\u0430\u043a\u043e\u043d"
     ],
+    "name:cat_x_preferred":[
+        "Sakon Nakhon"
+    ],
+    "name:cdo_x_preferred":[
+        "Sakon Nakhon H\u016b"
+    ],
     "name:ceb_x_preferred":[
         "Changwat Sakon Nakhon"
+    ],
+    "name:ckb_x_preferred":[
+        "\u067e\u0627\u0631\u06ce\u0632\u06af\u0627\u06cc \u0633\u0627\u06a9\u06c6\u0646 \u0646\u0627\u062e\u06c6\u0646"
     ],
     "name:dan_x_preferred":[
         "Sakon Nakhon"
@@ -110,6 +122,12 @@
     ],
     "name:kan_x_preferred":[
         "\u0cb8\u0c95\u0cbe\u0ca8\u0ccd \u0ca8\u0c96\u0ccb\u0ca8\u0ccd"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10d9\u10dd\u10dc-\u10dc\u10d0\u10e5\u10dd\u10dc\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
+    "name:khm_x_preferred":[
+        "\u1781\u17c1\u178f\u17d2\u178f\u179f\u1780\u179b\u1793\u1782\u179a"
     ],
     "name:kor_x_preferred":[
         "\uc0ac\uaf30\ub098\ucf58 \uc8fc"
@@ -179,6 +197,9 @@
     ],
     "name:tgk_x_preferred":[
         "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u0421\u0430\u043a\u043e\u043d \u041d\u0430x\u043e\u043d"
+    ],
+    "name:tgl_x_preferred":[
+        "Lalawigan ng Sakon Nakhon"
     ],
     "name:tha_x_preferred":[
         "\u0e2a\u0e01\u0e25\u0e19\u0e04\u0e23"
@@ -333,7 +354,7 @@
     "wof:lang_x_spoken":[
         "tha"
     ],
-    "wof:lastmodified":1636494873,
+    "wof:lastmodified":1690868774,
     "wof:name":"Sakon Nakhon",
     "wof:parent_id":85632293,
     "wof:placetype":"region",

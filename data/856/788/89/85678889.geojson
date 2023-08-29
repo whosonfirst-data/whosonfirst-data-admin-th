@@ -44,6 +44,9 @@
     "name:aze_x_preferred":[
         "Pattani"
     ],
+    "name:bel_x_preferred":[
+        "\u041f\u0430\u0442\u0430\u043d\u0456"
+    ],
     "name:ben_x_preferred":[
         "\u09aa\u09be\u09a4\u09cd\u09a4\u09be\u09a8\u09bf"
     ],
@@ -59,8 +62,14 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia de Pattani"
     ],
+    "name:cdo_x_preferred":[
+        "Pattani H\u016b"
+    ],
     "name:ceb_x_preferred":[
         "Changwat Pattani"
+    ],
+    "name:ckb_x_preferred":[
+        "\u067e\u0627\u0631\u06ce\u0632\u06af\u0627\u06cc \u067e\u0627\u062a\u0627\u0646\u06cc"
     ],
     "name:dan_x_preferred":[
         "Pattani"
@@ -106,6 +115,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0caa\u0c9f\u0ccd\u0c9f\u0ca8\u0cbf"
+    ],
+    "name:khm_x_preferred":[
+        "\u1781\u17c1\u178f\u17d2\u178f\u1794\u17c9\u17b6\u178f\u17cb\u178f\u17b6\u1793\u17b8"
     ],
     "name:kor_x_preferred":[
         "\ube60\ub530\ub2c8 \uc8fc"
@@ -175,6 +187,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0baa\u0b9f\u0bcd\u0b9f\u0bbe\u0ba3\u0bbf"
+    ],
+    "name:tam_x_variant":[
+        "\u0baa\u0b9f\u0bcd\u0b9f\u0bbe\u0ba3\u0bbf \u0bae\u0bbe\u0ba8\u0bbf\u0bb2\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c2a\u0c1f\u0c4d\u0c1f\u0c3e\u0c28\u0c3f"
@@ -337,7 +352,7 @@
     "wof:lang_x_spoken":[
         "tha"
     ],
-    "wof:lastmodified":1636494872,
+    "wof:lastmodified":1690868772,
     "wof:name":"Pattani",
     "wof:parent_id":85632293,
     "wof:placetype":"region",

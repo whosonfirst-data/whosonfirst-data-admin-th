@@ -41,8 +41,14 @@
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0643\u0631\u0627\u0628\u064a"
     ],
+    "name:bel_x_preferred":[
+        "\u041a\u0440\u0430\u0431\u0456"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09cd\u09b0\u09be\u09ac\u09bf"
+    ],
+    "name:ben_x_variant":[
+        "\u0995\u09cd\u09b0\u09be\u09ac\u09bf \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
     "name:bpy_x_preferred":[
         "\u099a\u09be\u0982\u09f1\u09be\u09a4 \u0995\u09cd\u09b0\u09be\u09ac\u09bf"
@@ -50,11 +56,20 @@
     "name:bul_x_preferred":[
         "\u041a\u0440\u0430\u0431\u0438"
     ],
+    "name:cat_x_preferred":[
+        "Krabi"
+    ],
+    "name:cdo_x_preferred":[
+        "Krabi H\u016b"
+    ],
     "name:ceb_x_preferred":[
         "Changwat Krabi"
     ],
     "name:ces_x_preferred":[
         "Krabi"
+    ],
+    "name:ckb_x_preferred":[
+        "\u067e\u0627\u0631\u06ce\u0632\u06af\u0627\u06cc \u06a9\u0631\u0627\u0628\u06cc"
     ],
     "name:dan_x_preferred":[
         "Krabi"
@@ -106,6 +121,12 @@
     ],
     "name:kan_x_preferred":[
         "\u0c95\u0ccd\u0cb0\u0cbe\u0cac\u0cbf"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10e0\u10d0\u10d1\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
+    "name:khm_x_preferred":[
+        "\u1781\u17c1\u178f\u17d2\u178f\u1780\u17d2\u179a\u1794\u17b8"
     ],
     "name:kor_x_preferred":[
         "\ub044\ub77c\ube44 \uc8fc"
@@ -337,7 +358,7 @@
     "wof:lang_x_spoken":[
         "tha"
     ],
-    "wof:lastmodified":1636494871,
+    "wof:lastmodified":1690868767,
     "wof:name":"Krabi",
     "wof:parent_id":85632293,
     "wof:placetype":"region",

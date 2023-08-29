@@ -68,6 +68,9 @@
     "name:lit_x_preferred":[
         "Kamphengphetas"
     ],
+    "name:mlg_x_preferred":[
+        "Kamphaeng Phet"
+    ],
     "name:nld_x_preferred":[
         "Kamphaeng Phet"
     ],
@@ -88,6 +91,15 @@
     ],
     "name:rus_x_preferred":[
         "\u041a\u0430\u043c\u043f\u0445\u044d\u043d\u0433-\u041f\u0445\u0435\u0442"
+    ],
+    "name:rus_x_variant":[
+        "\u041a\u0430\u043c\u043f\u0445\u044d\u043d\u0433\u043f\u0445\u0435\u0442"
+    ],
+    "name:shn_x_preferred":[
+        "\u1075\u1019\u103a\u1038\u107d\u1085\u1004\u103a\u1038\u107d\u1035\u1010\u103a\u1089"
+    ],
+    "name:spa_x_preferred":[
+        "Kamphaeng Phet"
     ],
     "name:swe_x_preferred":[
         "Kamphaeng Phet"
@@ -121,6 +133,9 @@
     ],
     "name:zho_tw_x_preferred":[
         "\u7518\u70f9\u78a7"
+    ],
+    "name:zho_x_preferred":[
+        "\u7518\u70f9\u78a7\u93ae"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Thailand",
@@ -267,7 +282,7 @@
         }
     ],
     "wof:id":102024345,
-    "wof:lastmodified":1636494861,
+    "wof:lastmodified":1690868691,
     "wof:name":"Kamphaeng Phet",
     "wof:parent_id":890466023,
     "wof:placetype":"locality",

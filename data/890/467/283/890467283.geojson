@@ -35,6 +35,12 @@
     "name:jpn_x_preferred":[
         "\u30d1\u30fc\u30af\u30af\u30ec\u30c3\u30c8\u90e1"
     ],
+    "name:khm_x_preferred":[
+        "\u179f\u17d2\u179a\u17bb\u1780\u200b\u1794\u17c9\u17b6\u1780\u1780\u17d2\u179a\u17c1\u178f"
+    ],
+    "name:kor_x_preferred":[
+        "\ube61\ub044\ub81b\uad70"
+    ],
     "name:nan_x_preferred":[
         "Pak Kret K\u016bn"
     ],
@@ -70,6 +76,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5317\u9769"
+    ],
+    "name:zho_x_variant":[
+        "\u5df4\u9769\u53bf"
     ],
     "qs:name":"Om Kret",
     "qs:name_adm0":"Thailand",
@@ -109,7 +118,7 @@
         }
     ],
     "wof:id":890467283,
-    "wof:lastmodified":1566663227,
+    "wof:lastmodified":1690868977,
     "wof:name":"Om Kret",
     "wof:parent_id":890466145,
     "wof:placetype":"locality",

@@ -41,8 +41,14 @@
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0643\u0627\u0644\u0627\u0633\u064a\u0646"
     ],
+    "name:bel_x_preferred":[
+        "\u041a\u0430\u043b\u0430\u0441\u0456\u043d"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09be\u09b2\u09be\u09b8\u09bf\u09a8"
+    ],
+    "name:ben_x_variant":[
+        "\u0995\u09be\u09b2\u09be\u09b8\u09bf\u09a8 \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
     "name:bpy_x_preferred":[
         "\u099a\u09be\u0982\u09f1\u09be\u09a4 \u0995\u09be\u09b2\u09be\u09b8\u09bf\u09a8"
@@ -50,8 +56,17 @@
     "name:bul_x_preferred":[
         "\u041a\u0430\u043b\u0430\u0441\u0438\u043d"
     ],
+    "name:cat_x_preferred":[
+        "Kalasin"
+    ],
+    "name:cdo_x_preferred":[
+        "Kalasin H\u016b"
+    ],
     "name:ceb_x_preferred":[
         "Changwat Kalasin"
+    ],
+    "name:ckb_x_preferred":[
+        "\u067e\u0627\u0631\u06ce\u0632\u06af\u0627\u06cc \u06a9\u0627\u0644\u0627\u0633\u06cc\u0646"
     ],
     "name:dan_x_preferred":[
         "Kalasin"
@@ -100,6 +115,12 @@
     ],
     "name:kan_x_preferred":[
         "\u0c95\u0cb2\u0cbe\u0cb8\u0cbf\u0ca8\u0ccd"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10d0\u10da\u10d0\u10e1\u10d8\u10dc\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
+    "name:khm_x_preferred":[
+        "\u1781\u17c1\u178f\u17d2\u178f\u1780\u17b6\u179b\u179f\u17b7\u1793\u17d2\u1792\u17bb"
     ],
     "name:kor_x_preferred":[
         "\uae54\ub77c\uc2e0 \uc8fc"
@@ -328,7 +349,7 @@
     "wof:lang_x_spoken":[
         "tha"
     ],
-    "wof:lastmodified":1636494873,
+    "wof:lastmodified":1690868774,
     "wof:name":"Kalasin",
     "wof:parent_id":85632293,
     "wof:placetype":"region",

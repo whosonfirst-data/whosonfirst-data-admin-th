@@ -41,6 +41,9 @@
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0633\u064a \u0633\u0627 \u0643\u062a"
     ],
+    "name:bel_x_preferred":[
+        "\u0421\u0456\u0441\u0430\u043a\u0435\u0442"
+    ],
     "name:ben_x_preferred":[
         "\u09b8\u09bf \u09b8\u09be\u0981 \u0995\u09c7\u099f"
     ],
@@ -50,8 +53,14 @@
     "name:bul_x_preferred":[
         "\u0421\u0438\u0441\u0430\u043a\u0435\u0442"
     ],
+    "name:cdo_x_preferred":[
+        "Sisaket H\u016b"
+    ],
     "name:ceb_x_preferred":[
         "Changwat Sisaket"
+    ],
+    "name:ckb_x_preferred":[
+        "\u067e\u0627\u0631\u06ce\u0632\u06af\u0627\u06cc \u0633\u06cc\u0633\u0627\u06a9\u06ce\u062a"
     ],
     "name:dan_x_preferred":[
         "Si Sa Ket"
@@ -83,6 +92,9 @@
     "name:fra_x_preferred":[
         "Si Sa Ket"
     ],
+    "name:fra_x_variant":[
+        "Si Saket"
+    ],
     "name:glg_x_preferred":[
         "Provincia Si Sa Ket"
     ],
@@ -106,6 +118,12 @@
     ],
     "name:kan_x_preferred":[
         "\u0cb8\u0cbf \u0cb8 \u0c95\u0cc6\u0c9f\u0ccd"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d8\u10e1\u10d0\u10d9\u10d4\u10e2\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
+    "name:khm_x_preferred":[
+        "\u1781\u17c1\u178f\u17d2\u178f\u179f\u17b7\u179a\u17b8\u179f\u17b6\u1780\u17c1\u178f"
     ],
     "name:kor_x_preferred":[
         "\uc2dc\uc0ac\uaeeb \uc8fc"
@@ -337,7 +355,7 @@
     "wof:lang_x_spoken":[
         "tha"
     ],
-    "wof:lastmodified":1636494881,
+    "wof:lastmodified":1690868789,
     "wof:name":"Sisaket",
     "wof:parent_id":85632293,
     "wof:placetype":"region",

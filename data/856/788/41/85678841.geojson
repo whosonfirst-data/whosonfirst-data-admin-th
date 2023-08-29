@@ -41,6 +41,9 @@
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0646\u0627\u062e\u0648\u0646 \u0631\u0627\u062a\u0634\u0627\u0633\u064a\u0645\u0627"
     ],
+    "name:bel_x_preferred":[
+        "\u041d\u0430\u043a\u0445\u043e\u043d\u0440\u0430\u0442\u0447\u0430\u0441\u0456\u043c\u0430"
+    ],
     "name:ben_x_preferred":[
         "\u09a8\u09be\u0996\u09a8 \u09b0\u09be\u09ce\u0995\u09be\u09b8\u09bf\u09ae\u09be"
     ],
@@ -52,6 +55,12 @@
     ],
     "name:bul_x_preferred":[
         "\u041d\u0430\u043a\u043e\u043d \u0420\u0430\u0442\u0447\u0430\u0441\u0438\u043c\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Nakhon Ratchasima"
+    ],
+    "name:cdo_x_preferred":[
+        "Nakhon Ratchasima H\u016b"
     ],
     "name:ceb_x_preferred":[
         "Changwat Nakhon Ratchasima"
@@ -107,14 +116,23 @@
     "name:kan_x_preferred":[
         "\u0ca8\u0c96\u0ccb\u0ca8\u0ccd \u0cb0\u0cbe\u0c9a\u0ccd\u0c9a\u0cbe\u0cb8\u0cbf\u0cae\u0cbe"
     ],
+    "name:khm_x_preferred":[
+        "\u1781\u17c1\u178f\u17d2\u178f\u1793\u1782\u179a\u179a\u17b6\u1787"
+    ],
     "name:kor_x_preferred":[
         "\ub098\ucf58\ub78f\ucc28\uc2dc\ub9c8 \uc8fc"
     ],
     "name:kor_x_variant":[
         "\ub098\ucf58\ub78f\ucc28\uc2dc\ub9c8\uc8fc"
     ],
+    "name:krj_x_preferred":[
+        "Kapuudan ka Nakh\u01edn L\u0101sas\u012bm\u0101"
+    ],
     "name:lao_x_preferred":[
         "\u0e88\u0eb1\u0e87\u0eab\u0ea7\u0eb1\u0e94\u0e99\u0eb0\u0e84\u0ead\u0e99\u0ea5\u0eb2\u0e8a\u0eb0\u0eaa\u0eb5\u0ea1\u0eb2"
+    ],
+    "name:lao_x_variant":[
+        "\u0e88\u0eb1\u0e87\u0eab\u0ea7\u0eb1\u0e94 \u0e99\u0eb0\u0e84\u0ead\u0e99 \u0ea5\u0eb2\u0e8a\u0eb0\u0eaa\u0eb5\u0ea1\u0eb2"
     ],
     "name:lav_x_preferred":[
         "Nakhonrat\u010dhas\u012bmas province"
@@ -196,6 +214,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u041f\u0440\u043e\u0432\u0456\u043d\u0446\u0456\u044f \u041d\u0430\u0445\u043e\u043d-\u0420\u0430\u0442\u0447\u0430\u0441\u0456\u043c\u0430"
+    ],
+    "name:ukr_x_variant":[
+        "\u041d\u0430\u043a\u0445\u043e\u043d\u0440\u0430\u0442\u0447\u0430\u0441\u0456\u043c\u0430"
     ],
     "name:und_x_variant":[
         "Korat"
@@ -341,7 +362,7 @@
     "wof:lang_x_spoken":[
         "tha"
     ],
-    "wof:lastmodified":1636494874,
+    "wof:lastmodified":1690868775,
     "wof:name":"Nakhon Ratchasima",
     "wof:parent_id":85632293,
     "wof:placetype":"region",

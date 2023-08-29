@@ -55,6 +55,9 @@
     "name:jpn_x_preferred":[
         "\u30e0\u30a2\u30f3\u30ca\u30b3\u30fc\u30f3\u30d1\u30c8\u30e0\u90e1"
     ],
+    "name:kor_x_preferred":[
+        "\ubbc0\uc559\ub098\ucf58\ube60\ud1b0\uad70"
+    ],
     "name:nan_x_preferred":[
         "Mueang Nakhon Pathom K\u016bn"
     ],
@@ -69,6 +72,9 @@
     ],
     "name:vie_x_preferred":[
         "Nakhon Pathom"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f5b\u7edf\u5e9c\u6cbb\u53bf"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -109,7 +115,7 @@
         }
     ],
     "wof:id":1108802671,
-    "wof:lastmodified":1608003227,
+    "wof:lastmodified":1690868819,
     "wof:name":"Muang Nakhon Pathom",
     "wof:parent_id":85678747,
     "wof:placetype":"county",

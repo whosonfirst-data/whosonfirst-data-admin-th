@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000009,
     "geom:area_square_m":110071.252309,
-    "geom:bbox":"100.530395508,13.6846848841,100.53314209,13.6886877698",
+    "geom:bbox":"100.530396,13.684685,100.533142,13.688688",
     "geom:latitude":13.686953,
     "geom:longitude":100.531906,
     "iso:country":"TH",
@@ -34,11 +34,20 @@
     "name:eng_x_preferred":[
         "Yan Nawa"
     ],
+    "name:est_x_preferred":[
+        "Yan Nawa"
+    ],
+    "name:fra_x_preferred":[
+        "Yan Nawa"
+    ],
     "name:ita_x_preferred":[
         "Yan Nawa"
     ],
     "name:jpn_x_preferred":[
         "\u30e4\u30fc\u30f3\u30ca\u30fc\u30ef\u30fc\u533a"
+    ],
+    "name:kor_x_preferred":[
+        "\uc580\ub098\uc640"
     ],
     "name:lao_x_preferred":[
         "\u0ec0\u0e82\u0e94\u0e8d\u0eb2\u0e99\u0e99\u0eb2\u0ea7\u0eb2"
@@ -51,6 +60,9 @@
     ],
     "name:por_x_preferred":[
         "Yan Nawa"
+    ],
+    "name:rus_x_preferred":[
+        "\u042f\u043d\u043d\u0430\u0432\u0430"
     ],
     "name:sco_x_preferred":[
         "Yan Nawa Destrict"
@@ -72,6 +84,9 @@
     ],
     "name:vie_x_preferred":[
         "Yan Nawa"
+    ],
+    "name:zho_x_preferred":[
+        "\u7136\u90a3\u534e\u53bf"
     ],
     "qs:a0":"Thailand",
     "qs:a1":"*Bangkok",
@@ -104,7 +119,7 @@
         "wd:id":"Q1019651"
     },
     "wof:country":"TH",
-    "wof:geomhash":"fa47e56530970c9c55474cc733f5f9d1",
+    "wof:geomhash":"97089f8e4c6eeb1c95db78c7e689eef9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -115,7 +130,7 @@
         }
     ],
     "wof:id":102024601,
-    "wof:lastmodified":1566656388,
+    "wof:lastmodified":1690868682,
     "wof:name":"Yan Nawa",
     "wof:parent_id":890466401,
     "wof:placetype":"locality",
@@ -125,10 +140,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    100.530395508,
-    13.6846848841,
-    100.53314208999998,
-    13.6886877698
+    100.530396,
+    13.684685,
+    100.533142,
+    13.688688
 ],
-  "geometry": {"coordinates":[[[100.53176879900001,13.6846848841],[100.53176879900001,13.6860191869],[100.530395508,13.6860191869],[100.530395508,13.6873534821],[100.530395508,13.6886877698],[100.53176879900001,13.6886877698],[100.53314208999998,13.6886877698],[100.53314208999998,13.6873534821],[100.53314208999998,13.6860191869],[100.53314208999998,13.6846848841],[100.53176879900001,13.6846848841]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[100.531769,13.684685],[100.531769,13.686019],[100.530396,13.686019],[100.530396,13.687353],[100.530396,13.688688],[100.531769,13.688688],[100.533142,13.688688],[100.533142,13.687353],[100.533142,13.686019],[100.533142,13.684685],[100.531769,13.684685]]],"type":"Polygon"}
 }

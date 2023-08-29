@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"100.498455,13.7457315,100.498455,13.7457315",
+    "geom:bbox":"100.498455,13.745731,100.498455,13.745731",
     "geom:latitude":13.745731,
     "geom:longitude":100.498455,
     "gp:adm0":23424960,
@@ -18,6 +18,9 @@
     "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u0645\u0646\u0637\u0642\u0629 \u0641\u0631\u0627\u064a \u0646\u0627\u062e\u0648\u0646"
+    ],
+    "name:bak_x_preferred":[
+        "\u041f\u0445\u0440\u0430\u043d\u0430\u043a\u0445\u043e\u043d"
     ],
     "name:bpy_x_preferred":[
         "\u0996\u09c7\u09a4 \u09ab\u09b0\u09be \u09a8\u09be\u0996\u09cb\u09a8"
@@ -31,6 +34,9 @@
     "name:eng_x_preferred":[
         "Phra Nakhon"
     ],
+    "name:est_x_preferred":[
+        "Phra Nakhon"
+    ],
     "name:fra_x_preferred":[
         "Phra Nakhon"
     ],
@@ -40,17 +46,29 @@
     "name:jpn_x_preferred":[
         "\u30d7\u30e9\u30ca\u30b3\u30fc\u30f3\u533a"
     ],
+    "name:khm_x_preferred":[
+        "\u1796\u17d2\u179a\u17c7\u1793\u1782\u179a"
+    ],
+    "name:kor_x_preferred":[
+        "\ud504\ub77c\ub098\ucf58"
+    ],
     "name:lao_x_preferred":[
         "\u0ec0\u0e82\u0e94\u0e9e\u0eb0\u0e99\u0eb0\u0e84\u0ead\u0e99"
     ],
     "name:msa_x_preferred":[
         "Phra Nakhon"
     ],
+    "name:mya_x_preferred":[
+        "\u1018\u102f\u101b\u102c\u1037\u1014\u1001\u103d\u1014\u103a\u1001\u101b\u102d\u102f\u1004\u103a"
+    ],
     "name:nld_x_preferred":[
         "Phra Nakhon"
     ],
     "name:nob_x_preferred":[
         "Phra Nakhon"
+    ],
+    "name:pnb_x_preferred":[
+        "\u067e\u06be\u0631\u0627 \u0646\u0627\u06a9\u06be\u0648\u0646 \u0636\u0644\u0639"
     ],
     "name:por_x_preferred":[
         "Phra Nakhon"
@@ -106,7 +124,7 @@
     },
     "wof:country":"TH",
     "wof:created":1469053635,
-    "wof:geomhash":"3ded1b41d5e6d8088f1ccd1584c0dfa4",
+    "wof:geomhash":"ed52b106a2b020c090f3883c01dc2907",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -117,7 +135,7 @@
         }
     ],
     "wof:id":890467311,
-    "wof:lastmodified":1566663235,
+    "wof:lastmodified":1690868984,
     "wof:name":"Wang Burapha Phirom",
     "wof:parent_id":102025263,
     "wof:placetype":"neighbourhood",
@@ -128,9 +146,9 @@
 },
   "bbox": [
     100.498455,
-    13.7457315,
+    13.745731,
     100.498455,
-    13.7457315
+    13.745731
 ],
-  "geometry": {"coordinates":[100.49845500000001,13.7457315],"type":"Point"}
+  "geometry": {"coordinates":[100.49845500000001,13.745731],"type":"Point"}
 }

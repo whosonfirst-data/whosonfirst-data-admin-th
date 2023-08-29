@@ -26,6 +26,9 @@
     "name:ara_x_preferred":[
         "\u0646\u0627\u062e\u0648\u0646 \u0628\u0627\u062a\u0648\u0645"
     ],
+    "name:bel_x_preferred":[
+        "\u041d\u0430\u043a\u0445\u043e\u043d\u043f\u0430\u0442\u0445\u043e\u043c"
+    ],
     "name:ben_x_preferred":[
         "\u09a8\u09be\u0996\u09a8 \u09aa\u09be\u09a5\u09ae"
     ],
@@ -34,6 +37,9 @@
     ],
     "name:ceb_x_preferred":[
         "Nakhon Pathom"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0646\u0627\u062e\u06c6\u0646 \u067e\u0627\u062a\u06c6\u0645"
     ],
     "name:dan_x_preferred":[
         "Nakhon Pathom"
@@ -49,6 +55,9 @@
     ],
     "name:epo_x_preferred":[
         "Nakhonpathom"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u06a9\u0648\u0646 \u067e\u0627\u062a\u0648\u0645"
     ],
     "name:fin_x_preferred":[
         "Nakhon Pathom"
@@ -95,8 +104,14 @@
     "name:mar_x_preferred":[
         "\u0928\u093e\u0916\u094b\u0928 \u092a\u093e\u0925\u094b\u092e"
     ],
+    "name:mlg_x_preferred":[
+        "Nakhon Pathom"
+    ],
     "name:msa_x_preferred":[
         "Nakhon Pathom"
+    ],
+    "name:mya_x_preferred":[
+        "\u1014\u1001\u103d\u1014\u103a\u1015\u1011\u102f\u1036"
     ],
     "name:nld_x_preferred":[
         "Nakhon Pathom"
@@ -119,6 +134,9 @@
     "name:sco_x_preferred":[
         "Nakhon Pathom"
     ],
+    "name:shn_x_preferred":[
+        "\u107c\u1076\u103d\u107c\u103a\u1038\u1015\u1011\u1030\u1019\u103a"
+    ],
     "name:sin_x_preferred":[
         "\u0db1\u0dd0\u0d9b\u0ddc\u0db1\u0dca \u0db4\u0dd0\u0dad\u0ddc\u0db8\u0dca"
     ],
@@ -130,6 +148,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0ba8\u0bbe\u0b95\u0ba9\u0bcd \u0baa\u0ba4\u0bcd\u0ba4\u0bbe\u0bae\u0bcd"
+    ],
+    "name:tat_x_preferred":[
+        "\u041d\u0430\u043a\u043e\u043d\u043f\u0430\u0442\u043e\u043c"
     ],
     "name:tel_x_preferred":[
         "\u0c28\u0c16\u0c4b\u0c28\u0c4d \u0c2a\u0c3e\u0c25\u0c4b\u0c2e\u0c4d"
@@ -319,7 +340,7 @@
         }
     ],
     "wof:id":102025187,
-    "wof:lastmodified":1636494865,
+    "wof:lastmodified":1690868721,
     "wof:name":"Nakhon Pathom",
     "wof:parent_id":1108802671,
     "wof:placetype":"locality",

@@ -28,6 +28,12 @@
     "name:ara_x_preferred":[
         "\u0646\u0627\u062e\u0648\u0646 \u0631\u0627\u062a\u0634\u0627\u0633\u064a\u0645\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0646\u0627\u062e\u0648\u0646 \u0631\u0627\u062a\u0634\u0627\u0633\u064a\u0645\u0627"
+    ],
+    "name:bel_x_preferred":[
+        "\u041d\u0430\u043a\u0445\u043e\u043d\u0440\u0430\u0442\u0447\u0430\u0441\u0456\u043c\u0430"
+    ],
     "name:ben_x_preferred":[
         "\u09a8\u09be\u0995\u09a8 \u09b0\u09be\u09b8\u09be\u09b6\u09bf\u09ae\u09be"
     ],
@@ -79,6 +85,9 @@
     "name:fra_x_preferred":[
         "Nakhon Ratchasima"
     ],
+    "name:gle_x_preferred":[
+        "Nakhon Ratchasima"
+    ],
     "name:guj_x_preferred":[
         "\u0aa8\u0abe\u0a96\u0acb\u0aa8 \u0ab0\u0abe\u0a9a\u0abe\u0ab6\u0abf\u0aae\u0abe"
     ],
@@ -93,6 +102,12 @@
     ],
     "name:hun_x_preferred":[
         "Nakhon Ratcsaszima"
+    ],
+    "name:hye_x_preferred":[
+        "\u0546\u0561\u056d\u0578\u0576\u057c\u0561\u0579\u0561\u057d\u056b\u0574\u0561"
+    ],
+    "name:ido_x_preferred":[
+        "Nakhon Ratchasima"
     ],
     "name:ind_x_preferred":[
         "Nakhon Ratchasima"
@@ -109,11 +124,20 @@
     "name:kan_x_preferred":[
         "\u0ca8\u0c96\u0ccb\u0ca8\u0ccd \u0cb0\u0cbe\u0c9a\u0ccd\u0c9a\u0cbe\u0cb8\u0cbf\u0cae\u0cbe"
     ],
+    "name:kaz_x_preferred":[
+        "\u041d\u0430\u043a\u0445\u043e\u043d\u0440\u0430\u0442\u0447\u0430\u0441\u0438\u043c\u0430"
+    ],
     "name:khm_x_preferred":[
         "\u1793\u1782\u179a\u179a\u17b6\u1787\u179f\u17b8\u1798\u17b6"
     ],
     "name:kor_x_preferred":[
         "\ub098\ucf58\ub78f\ucc28\uc2dc\ub9c8"
+    ],
+    "name:krj_x_preferred":[
+        "Hangbanwa ka Nakh\u01edn L\u0101sas\u012bm\u0101"
+    ],
+    "name:lao_x_preferred":[
+        "\u0e99\u0eb0\u0e84\u0ead\u0e99 \u0ea5\u0eb2\u0e8a\u0eb0\u0eaa\u0eb5\u0ea1\u0eb2"
     ],
     "name:lav_x_preferred":[
         "Nakonrat\u010dasima"
@@ -139,6 +163,9 @@
     "name:nob_x_preferred":[
         "Nakhon Ratchasima"
     ],
+    "name:oss_x_preferred":[
+        "\u041d\u0430\u043a\u0445\u043e\u043d\u0440\u0430\u0442\u0447\u0430\u0441\u0438\u043c\u0430"
+    ],
     "name:pnb_x_preferred":[
         "\u0646\u06a9\u06be\u0648\u0646 \u0631\u0627\u0679\u0686\u0627\u0633\u06cc\u0645\u0627"
     ],
@@ -150,6 +177,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041d\u0430\u043a\u0445\u043e\u043d\u0440\u0430\u0442\u0447\u0430\u0441\u0438\u043c\u0430"
+    ],
+    "name:shn_x_preferred":[
+        "\u107c\u1076\u103d\u107c\u103a\u1038\u101b\u1083\u1078\u101e\u102e\u1019\u1083\u1038"
     ],
     "name:sin_x_preferred":[
         "\u0db1\u0d9b\u0ddd\u0db1\u0dca \u0dbb\u0da0\u0dc3\u0dd2\u0db8\u0dcf"
@@ -187,8 +217,14 @@
     "name:ukr_x_preferred":[
         "\u041d\u0430\u043a\u0445\u043e\u043d \u0420\u0430\u0442\u0447\u0430\u0441\u0456\u043c\u0430"
     ],
+    "name:ukr_x_variant":[
+        "\u041d\u0430\u043a\u0445\u043e\u043d\u0440\u0430\u0442\u0447\u0430\u0441\u0456\u043c\u0430"
+    ],
     "name:urd_x_preferred":[
         "\u0646\u0627\u06a9\u06be\u0648\u0646 \u0631\u0627\u062a\u0686\u0627\u0633\u06cc\u0645\u0627"
+    ],
+    "name:vec_x_preferred":[
+        "Nakhon Ratchasima"
     ],
     "name:vep_x_preferred":[
         "Nakhonrat\u010dasim"
@@ -204,6 +240,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5475\u53fb"
+    ],
+    "name:zho_x_variant":[
+        "\u90a3\u7a7a\u53fb\u5dee\u662f\u739b"
     ],
     "qs:a0":"Thailand",
     "qs:a1":"*Nakhon Ratchasima",
@@ -245,7 +284,7 @@
         }
     ],
     "wof:id":102025181,
-    "wof:lastmodified":1614896167,
+    "wof:lastmodified":1690868724,
     "wof:name":"Changwat Nakhon Ratchasima",
     "wof:parent_id":85678841,
     "wof:placetype":"locality",

@@ -25,8 +25,14 @@
     "name:ara_x_preferred":[
         "\u062a\u0634\u0627\u062a\u0634\u0648\u0646\u062c\u0633\u0627\u0648"
     ],
+    "name:bel_x_preferred":[
+        "\u0427\u0430\u0447\u044d\u043d\u0433\u0441\u0430\u0443"
+    ],
     "name:ben_x_preferred":[
         "\u099a\u09be\u099a\u09c7\u0982\u09b8\u09be\u0989"
+    ],
+    "name:bul_x_preferred":[
+        "\u0427\u0430\u0447\u0435\u043d\u0433\u0441\u0430\u0443"
     ],
     "name:ceb_x_preferred":[
         "Chachoengsao"
@@ -95,6 +101,9 @@
     "name:lit_x_preferred":[
         "\u010ca\u010doengsao"
     ],
+    "name:mlg_x_preferred":[
+        "Chachoengsao"
+    ],
     "name:nld_x_preferred":[
         "Chachoengsao"
     ],
@@ -119,6 +128,9 @@
     "name:rus_x_variant":[
         "\u0427\u0430\u0447\u043e\u0435\u043d\u0433\u0441\u0430\u043e"
     ],
+    "name:som_x_preferred":[
+        "Chachoengsao"
+    ],
     "name:spa_x_preferred":[
         "Chachoengsao"
     ],
@@ -138,14 +150,23 @@
     "name:ukr_x_preferred":[
         "\u0427\u0430\u0447\u043e\u0435\u043d\u0433\u0441\u0430\u043e"
     ],
+    "name:ukr_x_variant":[
+        "\u0427\u0430\u0447\u0435\u043d\u0433\u0441\u0430\u0443"
+    ],
     "name:und_x_variant":[
         "Muang Chachurngsao"
+    ],
+    "name:urd_x_preferred":[
+        "\u0686\u0627\u0686\u0648\u06cc\u0646\u06af\u0633\u0627\u0648"
     ],
     "name:vie_x_preferred":[
         "Chachoengsao"
     ],
     "name:war_x_preferred":[
         "Chachoengsao"
+    ],
+    "name:zho_x_preferred":[
+        "\u5dee\u6625\u9a9a"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Thailand",
@@ -294,7 +315,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1642551736,
+    "wof:lastmodified":1690868728,
     "wof:name":"Chachoengsao",
     "wof:parent_id":890467477,
     "wof:placetype":"locality",

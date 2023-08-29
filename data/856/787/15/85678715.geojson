@@ -41,6 +41,9 @@
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0646\u0627\u062e\u0648\u0646 \u0633\u0627\u0648\u0627\u0646"
     ],
+    "name:bel_x_preferred":[
+        "\u041d\u0430\u043a\u0445\u043e\u043d\u0441\u0430\u0432\u0430\u043d"
+    ],
     "name:ben_x_preferred":[
         "\u09a8\u09be\u0996\u09a8 \u09b8\u09be\u09ac\u09be\u09a8"
     ],
@@ -53,8 +56,14 @@
     "name:bul_x_preferred":[
         "\u041d\u0430\u043a\u043e\u043d \u0421\u0430\u0432\u0430\u043d"
     ],
+    "name:cdo_x_preferred":[
+        "Nakhon Sawan H\u016b"
+    ],
     "name:ceb_x_preferred":[
         "Changwat Nakhon Sawan"
+    ],
+    "name:ckb_x_preferred":[
+        "\u067e\u0627\u0631\u06ce\u0632\u06af\u0627\u06cc \u0646\u0627\u062e\u06c6\u0646 \u0633\u0627\u0648\u0627\u0646"
     ],
     "name:dan_x_preferred":[
         "Nakhon Sawan"
@@ -106,6 +115,12 @@
     ],
     "name:kan_x_preferred":[
         "\u0ca8\u0c96\u0ccb\u0ca8\u0ccd \u0cb8\u0cbe\u0cb5\u0ca8\u0ccd"
+    ],
+    "name:kat_x_preferred":[
+        "\u10dc\u10d0\u10e5\u10dd\u10dc\u10e1\u10d0\u10d5\u10d0\u10dc\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
+    "name:khm_x_preferred":[
+        "\u1781\u17c1\u178f\u17d2\u178f\u1793\u1782\u179a\u179f\u17bd\u1782\u17cc"
     ],
     "name:kor_x_preferred":[
         "\ub098\ucf58\uc0ac\uc644 \uc8fc"
@@ -343,7 +358,7 @@
     "wof:lang_x_spoken":[
         "tha"
     ],
-    "wof:lastmodified":1636494882,
+    "wof:lastmodified":1690868790,
     "wof:name":"Nakhon Sawan",
     "wof:parent_id":85632293,
     "wof:placetype":"region",

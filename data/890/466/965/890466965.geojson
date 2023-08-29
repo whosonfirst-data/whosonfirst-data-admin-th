@@ -56,6 +56,9 @@
     "name:eng_x_variant":[
         "Khlong Toey"
     ],
+    "name:est_x_preferred":[
+        "Khlong Toei"
+    ],
     "name:fra_x_preferred":[
         "Khlong Toei"
     ],
@@ -64,6 +67,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30af\u30ed\u30fc\u30f3\u30c8\u30a5\u30fc\u30a4\u533a"
+    ],
+    "name:kor_x_preferred":[
+        "\ud074\ub871\ub728\uc774"
     ],
     "name:lao_x_preferred":[
         "\u0ec0\u0e82\u0e94\u0e84\u0ead\u0e87\u0ec0\u0e95\u0eb5\u0e8d"
@@ -103,6 +109,9 @@
     ],
     "name:zho_x_preferred":[
         "\u7a7a\u5824\u7e23"
+    ],
+    "name:zho_x_variant":[
+        "\u5b54\u63d0\u53bf"
     ],
     "qs:name":"Khlong Toei",
     "qs:name_adm0":"Thailand",
@@ -159,7 +168,7 @@
         }
     ],
     "wof:id":890466965,
-    "wof:lastmodified":1627522816,
+    "wof:lastmodified":1690868990,
     "wof:name":"Khlong Toei",
     "wof:parent_id":85678739,
     "wof:placetype":"county",
