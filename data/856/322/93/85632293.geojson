@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":43.365789,
-    "geom:area_square_m":516821371835.550842,
+    "geom:area_square_m":516821371835.525879,
     "geom:bbox":"97.343396,5.612896,105.636812,20.465047",
     "geom:latitude":15.107267,
     "geom:longitude":101.011652,
@@ -13,6 +13,9 @@
     "iso:country":"TH",
     "itu:country_code":[
         "66"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "country"
     ],
     "label:eng_x_preferred_shortcode":[
         "TH"
@@ -1102,7 +1105,8 @@
         "meso"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
+    "src:population":"naturalearth",
+    "src:population_date":"2019",
     "statoids:dial":"66",
     "statoids:ds":"T",
     "statoids:fifa":"THA",
@@ -1155,7 +1159,7 @@
         "meso",
         "naturalearth"
     ],
-    "wof:geomhash":"c022f8a1ddaf7ab62f43d96721c5fd64",
+    "wof:geomhash":"7186a830cc850502e8fe8a60f9142849",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -1166,12 +1170,12 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690868768,
+    "wof:lastmodified":1694639500,
     "wof:name":"Thailand",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
-    "wof:population":67010502,
-    "wof:population_rank":16,
+    "wof:population":69625582,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-th",
     "wof:shortcode":"TH",
     "wof:superseded_by":[],
