@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.886484,
-    "geom:area_square_m":10459278765.625145,
+    "geom:area_square_m":10459277302.400246,
     "geom:bbox":"100.882659,16.758848,102.151316,18.213799",
     "geom:latitude":17.408869,
     "geom:longitude":101.630149,
@@ -323,14 +323,16 @@
         "gn:id":1609070,
         "gp:id":2347145,
         "hasc:id":"TH.LE",
+        "iso:code":"TH-42",
         "iso:id":"TH-42",
         "qs_pg:id":900772,
         "unlc:id":"TH-42",
         "wd:id":"Q275388",
         "wk:page":"Loei Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TH",
-    "wof:geomhash":"6f89f98278436daed41de4eb6d9f8329",
+    "wof:geomhash":"41c4f06d082b77873187da5d63687711",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -345,7 +347,7 @@
     "wof:lang_x_spoken":[
         "tha"
     ],
-    "wof:lastmodified":1690868774,
+    "wof:lastmodified":1695884780,
     "wof:name":"Loei",
     "wof:parent_id":85632293,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.463539,
-    "geom:area_square_m":5570913751.887953,
+    "geom:area_square_m":5570913437.898888,
     "geom:bbox":"100.840972,13.171729,101.996338,13.974393",
     "geom:latitude":13.603878,
     "geom:longitude":101.446335,
@@ -326,14 +326,16 @@
         "gn:id":1611438,
         "gp:id":2347169,
         "hasc:id":"TH.CC",
+        "iso:code":"TH-24",
         "iso:id":"TH-24",
         "qs_pg:id":370900,
         "unlc:id":"TH-24",
         "wd:id":"Q334906",
         "wk:page":"Chachoengsao Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TH",
-    "wof:geomhash":"de51a9cf4566e0e6cc12a893d57090c7",
+    "wof:geomhash":"7c2784bc8722fd2cca1a932e08877d6f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -348,7 +350,7 @@
     "wof:lang_x_spoken":[
         "tha"
     ],
-    "wof:lastmodified":1690868789,
+    "wof:lastmodified":1695884782,
     "wof:name":"Chachoengsao",
     "wof:parent_id":85632293,
     "wof:placetype":"region",

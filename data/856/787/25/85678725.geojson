@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.123691,
-    "geom:area_square_m":1483623676.567223,
+    "geom:area_square_m":1483623300.60487,
     "geom:bbox":"100.336233,13.91804,100.914492,14.261326",
     "geom:latitude":14.061539,
     "geom:longitude":100.679249,
@@ -324,14 +324,16 @@
         "gn:id":1607982,
         "gp:id":2347164,
         "hasc:id":"TH.PT",
+        "iso:code":"TH-13",
         "iso:id":"TH-13",
         "qs_pg:id":238469,
         "unlc:id":"TH-13",
         "wd:id":"Q459748",
         "wk:page":"Pathum Thani Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TH",
-    "wof:geomhash":"c800eaf045c1562e55c01d37fe95525a",
+    "wof:geomhash":"bf0e345579138bce6d6b6d7733e55600",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -346,7 +348,7 @@
     "wof:lang_x_spoken":[
         "tha"
     ],
-    "wof:lastmodified":1690868791,
+    "wof:lastmodified":1695884782,
     "wof:name":"Pathum Thani",
     "wof:parent_id":85632293,
     "wof:placetype":"region",

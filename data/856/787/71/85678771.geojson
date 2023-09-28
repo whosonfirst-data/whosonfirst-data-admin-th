@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.070385,
-    "geom:area_square_m":846030995.138582,
+    "geom:area_square_m":846030877.358152,
     "geom:bbox":"100.037904,13.425971,100.411577,13.730092",
     "geom:latitude":13.57071,
     "geom:longitude":100.215859,
@@ -333,14 +333,16 @@
         "gn:id":1606587,
         "gp:id":2347179,
         "hasc:id":"TH.SS",
+        "iso:code":"TH-74",
         "iso:id":"TH-74",
         "qs_pg:id":1171195,
         "unlc:id":"TH-74",
         "wd:id":"Q334686",
         "wk:page":"Samut Sakhon Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TH",
-    "wof:geomhash":"99c65684fea42928f53e44f103b1acb0",
+    "wof:geomhash":"2aaaf70ab399b10433a058d654be265f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -355,7 +357,7 @@
     "wof:lang_x_spoken":[
         "tha"
     ],
-    "wof:lastmodified":1690868790,
+    "wof:lastmodified":1695884782,
     "wof:name":"Samut Sakhon",
     "wof:parent_id":85632293,
     "wof:placetype":"region",

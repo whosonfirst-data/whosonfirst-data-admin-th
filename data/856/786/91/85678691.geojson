@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.081516,
-    "geom:area_square_m":975305753.297396,
+    "geom:area_square_m":975305382.19564,
     "geom:bbox":"100.196654,14.439532,100.51648,14.796591",
     "geom:latitude":14.623509,
     "geom:longitude":100.355081,
@@ -324,14 +324,16 @@
         "gn:id":1621034,
         "gp:id":2347160,
         "hasc:id":"TH.AT",
+        "iso:code":"TH-15",
         "iso:id":"TH-15",
         "qs_pg:id":905911,
         "unlc:id":"TH-15",
         "wd:id":"Q243795",
         "wk:page":"Ang Thong Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TH",
-    "wof:geomhash":"cc4f6b416aac1b652db8fff1cc96ebdc",
+    "wof:geomhash":"6961481187565e4651733f439b2b8ce5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -346,7 +348,7 @@
     "wof:lang_x_spoken":[
         "tha"
     ],
-    "wof:lastmodified":1690868781,
+    "wof:lastmodified":1695884781,
     "wof:name":"Ang Thong",
     "wof:parent_id":85632293,
     "wof:placetype":"region",

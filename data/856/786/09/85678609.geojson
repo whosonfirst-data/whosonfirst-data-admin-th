@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.385115,
-    "geom:area_square_m":4720962540.000813,
+    "geom:area_square_m":4720962110.832845,
     "geom:bbox":"99.246755,7.055978,100.046431,7.992045",
     "geom:latitude":7.525978,
     "geom:longitude":99.615248,
@@ -321,14 +321,16 @@
         "gn:id":1150006,
         "gp:id":2347189,
         "hasc:id":"TH.TG",
+        "iso:code":"TH-92",
         "iso:id":"TH-92",
         "qs_pg:id":1054039,
         "unlc:id":"TH-92",
         "wd:id":"Q243805",
         "wk:page":"Trang Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TH",
-    "wof:geomhash":"5f1fbb764d3e60de1e9c0ae5044de168",
+    "wof:geomhash":"cbde8a3805a7355811f455ae6bb0207e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -343,7 +345,7 @@
     "wof:lang_x_spoken":[
         "tha"
     ],
-    "wof:lastmodified":1690868781,
+    "wof:lastmodified":1695884781,
     "wof:name":"Trang",
     "wof:parent_id":85632293,
     "wof:placetype":"region",

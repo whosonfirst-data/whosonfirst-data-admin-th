@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.384145,
-    "geom:area_square_m":4722344163.120025,
+    "geom:area_square_m":4722344090.600282,
     "geom:bbox":"100.821525,5.62989,101.613674,6.675794",
     "geom:latitude":6.183273,
     "geom:longitude":101.2248,
@@ -324,14 +324,16 @@
         "gn:id":1604869,
         "gp:id":2347194,
         "hasc:id":"TH.YL",
+        "iso:code":"TH-95",
         "iso:id":"TH-95",
         "qs_pg:id":891336,
         "unlc:id":"TH-95",
         "wd:id":"Q242977",
         "wk:page":"Yala Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TH",
-    "wof:geomhash":"fdfeb4930bea0fee42e806fdfe5d004f",
+    "wof:geomhash":"d0ec05d8e3994bac54ab958b389850ed",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -346,7 +348,7 @@
     "wof:lang_x_spoken":[
         "tha"
     ],
-    "wof:lastmodified":1690868778,
+    "wof:lastmodified":1695884780,
     "wof:name":"Yala",
     "wof:parent_id":85632293,
     "wof:placetype":"region",

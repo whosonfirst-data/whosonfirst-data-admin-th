@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.130701,
-    "geom:area_square_m":1569682386.40513,
+    "geom:area_square_m":1569682663.445835,
     "geom:bbox":"100.326982,13.489325,100.924259,13.949795",
     "geom:latitude":13.771279,
     "geom:longitude":100.620058,
@@ -794,17 +794,19 @@
         "gn:id":1609348,
         "gp:id":2347165,
         "hasc:id":"TH.BM",
+        "iso:code":"TH-10",
         "iso:id":"TH-10",
         "loc:id":"n79065460",
         "qs_pg:id":660838,
         "wd:id":"Q1861",
         "wk:page":"Bangkok"
     },
+    "wof:concordances_official":"iso:code",
     "wof:coterminous":[
         102025263
     ],
     "wof:country":"TH",
-    "wof:geomhash":"7e64cb32d213ce76d45ae886c19fdddc",
+    "wof:geomhash":"21b05df624f7021781c4c6cd4142e7b9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -819,7 +821,7 @@
     "wof:lang_x_spoken":[
         "tha"
     ],
-    "wof:lastmodified":1690868788,
+    "wof:lastmodified":1695884328,
     "wof:name":"Bangkok",
     "wof:parent_id":85632293,
     "wof:placetype":"region",

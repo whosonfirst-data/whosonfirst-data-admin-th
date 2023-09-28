@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.360527,
-    "geom:area_square_m":4259192487.342579,
+    "geom:area_square_m":4259192052.233128,
     "geom:bbox":"101.946367,16.761251,102.675831,17.639931",
     "geom:latitude":17.17361,
     "geom:longitude":102.297392,
@@ -321,13 +321,15 @@
         "gn:id":1906690,
         "gp:id":2347202,
         "hasc:id":"TH.NB",
+        "iso:code":"TH-39",
         "iso:id":"TH-39",
         "qs_pg:id":1003140,
         "unlc:id":"TH-39",
         "wd:id":"Q261241"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TH",
-    "wof:geomhash":"4bc9b5055aa4bea749c0d012f8e5283b",
+    "wof:geomhash":"562c9d12b389eb2a0335cc4d43eae9f1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -342,7 +344,7 @@
     "wof:lang_x_spoken":[
         "tha"
     ],
-    "wof:lastmodified":1690868776,
+    "wof:lastmodified":1695884780,
     "wof:name":"Nong Bua Lam Phu",
     "wof:parent_id":85632293,
     "wof:placetype":"region",

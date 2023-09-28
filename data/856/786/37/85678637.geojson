@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.51502,
-    "geom:area_square_m":6013033719.00397,
+    "geom:area_square_m":6013033203.159641,
     "geom:bbox":"99.687383,18.811746,100.632545,19.724387",
     "geom:latitude":19.228017,
     "geom:longitude":100.185299,
@@ -324,14 +324,16 @@
         "gn:id":1607758,
         "gp:id":2347166,
         "hasc:id":"TH.PY",
+        "iso:code":"TH-56",
         "iso:id":"TH-56",
         "qs_pg:id":1206363,
         "unlc:id":"TH-56",
         "wd:id":"Q244618",
         "wk:page":"Phayao Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TH",
-    "wof:geomhash":"05aa0347a077af6a09f3f72e804df3e7",
+    "wof:geomhash":"b965ad8c177c72fbd4ad46bf9dbb59db",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -346,7 +348,7 @@
     "wof:lang_x_spoken":[
         "tha"
     ],
-    "wof:lastmodified":1690868782,
+    "wof:lastmodified":1695884781,
     "wof:name":"Phayao",
     "wof:parent_id":85632293,
     "wof:placetype":"region",
