@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.049545,
-    "geom:area_square_m":594620158.524458,
+    "geom:area_square_m":594620499.860168,
     "geom:bbox":"100.263369,13.794869,100.551517,14.136218",
     "geom:latitude":13.926684,
     "geom:longitude":100.38903,
@@ -342,14 +342,16 @@
         "gn:id":1608132,
         "gp:id":2347163,
         "hasc:id":"TH.NO",
+        "iso:code":"TH-12",
         "iso:id":"TH-12",
         "qs_pg:id":1146467,
         "unlc:id":"TH-12",
         "wd:id":"Q242932",
         "wk:page":"Nonthaburi Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TH",
-    "wof:geomhash":"c21bfaac8be751347d9e9de73a5e24b1",
+    "wof:geomhash":"0e2aba89d79c3ec924f85761ea32280e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -364,7 +366,7 @@
     "wof:lang_x_spoken":[
         "tha"
     ],
-    "wof:lastmodified":1690868787,
+    "wof:lastmodified":1695884781,
     "wof:name":"Nonthaburi",
     "wof:parent_id":85632293,
     "wof:placetype":"region",

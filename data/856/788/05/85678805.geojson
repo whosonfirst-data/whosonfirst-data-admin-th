@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.592076,
-    "geom:area_square_m":7110432841.416036,
+    "geom:area_square_m":7110432025.019217,
     "geom:bbox":"101.854951,13.158732,102.91393,14.18562",
     "geom:latitude":13.777321,
     "geom:longitude":102.293523,
@@ -323,14 +323,16 @@
         "gn:id":1906691,
         "gp:id":20069925,
         "hasc:id":"TH.SK",
+        "iso:code":"TH-27",
         "iso:id":"TH-27",
         "qs_pg:id":209118,
         "unlc:id":"TH-27",
         "wd:id":"Q381889",
         "wk:page":"Sa Kaeo Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TH",
-    "wof:geomhash":"a2ae93faa3a00732a9150528fbea5b6d",
+    "wof:geomhash":"6d099e7d5ab7e02ddc9633c65cae3779",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -345,7 +347,7 @@
     "wof:lang_x_spoken":[
         "tha"
     ],
-    "wof:lastmodified":1690868772,
+    "wof:lastmodified":1695884779,
     "wof:name":"Sa Kaeo",
     "wof:parent_id":85632293,
     "wof:placetype":"region",

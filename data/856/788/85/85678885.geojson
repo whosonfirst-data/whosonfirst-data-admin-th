@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.361846,
-    "geom:area_square_m":4448326721.691181,
+    "geom:area_square_m":4448326703.9017,
     "geom:bbox":"101.382008,5.7381,102.073114,6.628846",
     "geom:latitude":6.171946,
     "geom:longitude":101.72146,
@@ -329,14 +329,16 @@
         "gn:id":1608408,
         "gp:id":2347156,
         "hasc:id":"TH.NW",
+        "iso:code":"TH-96",
         "iso:id":"TH-96",
         "qs_pg:id":85483,
         "unlc:id":"TH-96",
         "wd:id":"Q271442",
         "wk:page":"Narathiwat Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TH",
-    "wof:geomhash":"c8b30101191aba4f52262ce2d69d76de",
+    "wof:geomhash":"856a1ffd50ef07c670ab64a885a97607",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -351,7 +353,7 @@
     "wof:lang_x_spoken":[
         "tha"
     ],
-    "wof:lastmodified":1690868775,
+    "wof:lastmodified":1695884780,
     "wof:name":"Narathiwat",
     "wof:parent_id":85632293,
     "wof:placetype":"region",

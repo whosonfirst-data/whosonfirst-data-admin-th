@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.386601,
-    "geom:area_square_m":4636865654.897388,
+    "geom:area_square_m":4636865313.308787,
     "geom:bbox":"101.13484,13.716812,102.05282,14.461288",
     "geom:latitude":14.074864,
     "geom:longitude":101.625058,
@@ -323,14 +323,16 @@
         "gn:id":1906687,
         "gp:id":20069926,
         "hasc:id":"TH.PB",
+        "iso:code":"TH-25",
         "iso:id":"TH-25",
         "qs_pg:id":1179341,
         "unlc:id":"TH-25",
         "wd:id":"Q321324",
         "wk:page":"Prachinburi Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TH",
-    "wof:geomhash":"e26494e328c03597c26db38ae0cebfce",
+    "wof:geomhash":"3ab95b21014fc04f0bce14215caffbbe",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -345,7 +347,7 @@
     "wof:lang_x_spoken":[
         "tha"
     ],
-    "wof:lastmodified":1690868785,
+    "wof:lastmodified":1695884328,
     "wof:name":"Prachinburi",
     "wof:parent_id":85632293,
     "wof:placetype":"region",

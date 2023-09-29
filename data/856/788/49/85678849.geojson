@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.719143,
-    "geom:area_square_m":8593847523.853125,
+    "geom:area_square_m":8593847992.672985,
     "geom:bbox":"103.100198,14.340418,104.076728,15.482285",
     "geom:latitude":14.884087,
     "geom:longitude":103.668533,
@@ -329,14 +329,16 @@
         "gn:id":1606029,
         "gp:id":2347154,
         "hasc:id":"TH.SU",
+        "iso:code":"TH-32",
         "iso:id":"TH-32",
         "qs_pg:id":370797,
         "unlc:id":"TH-32",
         "wd:id":"Q380757",
         "wk:page":"Surin Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TH",
-    "wof:geomhash":"fbdf92b633070329610c8e9da2de06ac",
+    "wof:geomhash":"4d94e86d3b76aa87a49faf3e225e1bfc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -351,7 +353,7 @@
     "wof:lang_x_spoken":[
         "tha"
     ],
-    "wof:lastmodified":1690868776,
+    "wof:lastmodified":1695884780,
     "wof:name":"Surin",
     "wof:parent_id":85632293,
     "wof:placetype":"region",

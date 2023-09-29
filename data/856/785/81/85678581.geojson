@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.105876,
-    "geom:area_square_m":13504081456.571932,
+    "geom:area_square_m":13504080901.335423,
     "geom:bbox":"98.453918,8.31355,100.090668,9.801825",
     "geom:latitude":9.045666,
     "geom:longitude":99.087539,
@@ -344,14 +344,16 @@
         "gn:id":1150514,
         "gp:id":2347184,
         "hasc:id":"TH.ST",
+        "iso:code":"TH-84",
         "iso:id":"TH-84",
         "qs_pg:id":244424,
         "unlc:id":"TH-84",
         "wd:id":"Q240463",
         "wk:page":"Surat Thani Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TH",
-    "wof:geomhash":"8bfd4304960cb7de20abc27771881561",
+    "wof:geomhash":"2a68c02ca710a1f22e3b43ef5fa45f60",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -366,7 +368,7 @@
     "wof:lang_x_spoken":[
         "tha"
     ],
-    "wof:lastmodified":1690868766,
+    "wof:lastmodified":1695884779,
     "wof:name":"Surat Thani",
     "wof:parent_id":85632293,
     "wof:placetype":"region",

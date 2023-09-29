@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.3471,
-    "geom:area_square_m":4078532339.954778,
+    "geom:area_square_m":4078531307.835795,
     "geom:bbox":"98.680933,17.482757,99.314796,18.706275",
     "geom:latitude":18.141675,
     "geom:longitude":98.965401,
@@ -324,14 +324,16 @@
         "gn:id":1152467,
         "gp:id":2347132,
         "hasc:id":"TH.LN",
+        "iso:code":"TH-51",
         "iso:id":"TH-51",
         "qs_pg:id":1250639,
         "unlc:id":"TH-51",
         "wd:id":"Q240540",
         "wk:page":"Lamphun Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TH",
-    "wof:geomhash":"8908d32d2f6f4001d822f2b1ec6749a5",
+    "wof:geomhash":"813a5b2fd8775eb476b3ab6695f76b1a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -346,7 +348,7 @@
     "wof:lang_x_spoken":[
         "tha"
     ],
-    "wof:lastmodified":1690868779,
+    "wof:lastmodified":1695884780,
     "wof:name":"Lamphun",
     "wof:parent_id":85632293,
     "wof:placetype":"region",

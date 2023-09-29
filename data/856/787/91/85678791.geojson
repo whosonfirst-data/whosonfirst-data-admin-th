@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.345053,
-    "geom:area_square_m":4103585707.633868,
+    "geom:area_square_m":4103585165.442276,
     "geom:bbox":"104.004122,15.284804,104.812859,16.345152",
     "geom:latitude":15.88978,
     "geom:longitude":104.338528,
@@ -306,14 +306,16 @@
         "gn:id":1604767,
         "gp:id":2347195,
         "hasc:id":"TH.YS",
+        "iso:code":"TH-35",
         "iso:id":"TH-35",
         "qs_pg:id":327037,
         "unlc:id":"TH-35",
         "wd:id":"Q506598",
         "wk:page":"Yasothon Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TH",
-    "wof:geomhash":"239a0f32955bba096c35871bfe3358bb",
+    "wof:geomhash":"df53389fb82516240541cd769c59fcc0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -328,7 +330,7 @@
     "wof:lang_x_spoken":[
         "tha"
     ],
-    "wof:lastmodified":1690868787,
+    "wof:lastmodified":1695884782,
     "wof:name":"Yasothon",
     "wof:parent_id":85632293,
     "wof:placetype":"region",
