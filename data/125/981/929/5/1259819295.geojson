@@ -49,6 +49,11 @@
     "wof:concordances":{
         "gn:id":1618175
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7099807
+        ]
+    },
     "wof:country":"TH",
     "wof:geomhash":"ac2fab9c7c59e60a483d1d2cda318123",
     "wof:hierarchy":[
@@ -61,13 +66,15 @@
         }
     ],
     "wof:id":1259819295,
-    "wof:lastmodified":1566665089,
+    "wof:lastmodified":1706240683,
     "wof:name":"Ban Talat Khlong Suan",
     "wof:parent_id":1108731147,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-th",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327059521
+    ],
     "wof:tags":[]
 },
   "bbox": [

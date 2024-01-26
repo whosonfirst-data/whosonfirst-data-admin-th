@@ -32,6 +32,9 @@
     "name:tha_x_preferred":[
         "\u0e1a\u0e49\u0e32\u0e19\u0e44\u0e2d\u0e1a\u0e32\u0e15\u0e39"
     ],
+    "name:und_x_variant":[
+        "Kampong Aiketu"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -42,6 +45,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7000646
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1610441
+        ]
     },
     "wof:country":"TH",
     "wof:geomhash":"02e488f97924a50f24318d9fc962a1c4",
@@ -55,13 +63,15 @@
         }
     ],
     "wof:id":1277104289,
-    "wof:lastmodified":1566659860,
+    "wof:lastmodified":1706240685,
     "wof:name":"Ban Ai Ba Tu",
     "wof:parent_id":1108731953,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-th",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360101871
+    ],
     "wof:tags":[]
 },
   "bbox": [

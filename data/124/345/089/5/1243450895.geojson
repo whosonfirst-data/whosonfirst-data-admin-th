@@ -46,6 +46,11 @@
     "wof:concordances":{
         "gn:id":1117195
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8380242
+        ]
+    },
     "wof:country":"TH",
     "wof:geomhash":"e3eeae190528d950fd57ae061509c983",
     "wof:hierarchy":[
@@ -58,13 +63,15 @@
         }
     ],
     "wof:id":1243450895,
-    "wof:lastmodified":1566664312,
+    "wof:lastmodified":1706240682,
     "wof:name":"Ban Wang Luek",
     "wof:parent_id":1108802769,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-th",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259703849
+    ],
     "wof:tags":[]
 },
   "bbox": [

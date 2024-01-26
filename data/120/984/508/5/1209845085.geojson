@@ -32,6 +32,11 @@
     "name:tha_x_preferred":[
         "\u0e1a\u0e49\u0e32\u0e19\u0e17\u0e38\u0e48\u0e07\u0e02\u0e48\u0e32"
     ],
+    "name:und_x_variant":[
+        "Thung Kha",
+        "\u0e1a\u0e49\u0e32\u0e19\u0e17\u0e38\u0e48\u0e07\u0e02\u0e48\u0e32",
+        "Ban Thung Kha"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -42,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6968724
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1612265
+        ]
     },
     "wof:country":"TH",
     "wof:geomhash":"e97da3fb39b4fd8b3f9fae5580f95654",
@@ -55,13 +65,15 @@
         }
     ],
     "wof:id":1209845085,
-    "wof:lastmodified":1566660169,
+    "wof:lastmodified":1706240678,
     "wof:name":"Ban Thung Kha",
     "wof:parent_id":890467431,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-th",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327469551
+    ],
     "wof:tags":[]
 },
   "bbox": [

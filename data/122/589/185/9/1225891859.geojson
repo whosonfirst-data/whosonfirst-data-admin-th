@@ -11,6 +11,7 @@
     "geom:longitude":101.6085,
     "gn:admin1_code":"27.0",
     "gn:asciiname":"Ban Tha Khilek",
+    "gn:cc2":"TH",
     "gn:country_code":"TH",
     "gn:dem":248,
     "gn:feature_class":"P",
@@ -47,6 +48,11 @@
     "wof:concordances":{
         "gn:id":1601553
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1884546
+        ]
+    },
     "wof:country":"TH",
     "wof:geomhash":"634fa81ce260da5e1d2da72ea68d1a3f",
     "wof:hierarchy":[
@@ -59,13 +65,15 @@
         }
     ],
     "wof:id":1225891859,
-    "wof:lastmodified":1566665648,
+    "wof:lastmodified":1706240678,
     "wof:name":"Ban Tha Khilek",
     "wof:parent_id":890466375,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-th",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310171993
+    ],
     "wof:tags":[]
 },
   "bbox": [

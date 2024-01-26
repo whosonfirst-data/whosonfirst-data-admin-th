@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"100.27153,13.544358,100.27153,13.544358",
@@ -15,7 +17,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u0627\u0645\u0648\u062a \u0633\u0627\u062e\u0648\u0646"
@@ -181,12 +183,14 @@
         }
     ],
     "wof:id":890466977,
-    "wof:lastmodified":1690869012,
+    "wof:lastmodified":1706240671,
     "wof:name":"Samut Sakhon",
     "wof:parent_id":890467239,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-th",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        102024857
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -40,6 +40,11 @@
     "wof:concordances":{
         "gn:id":7784210
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7784675
+        ]
+    },
     "wof:country":"TH",
     "wof:geomhash":"fa1bb1982e672952f9a2c5c1c9fdb424",
     "wof:hierarchy":[
@@ -49,13 +54,15 @@
         }
     ],
     "wof:id":1209627807,
-    "wof:lastmodified":1566660001,
+    "wof:lastmodified":1706240677,
     "wof:name":"Ban Ton Tong",
     "wof:parent_id":85632293,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-th",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293796623
+    ],
     "wof:tags":[]
 },
   "bbox": [

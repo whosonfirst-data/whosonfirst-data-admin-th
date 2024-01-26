@@ -46,6 +46,11 @@
     "wof:concordances":{
         "gn:id":1617069
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7099953
+        ]
+    },
     "wof:country":"TH",
     "wof:geomhash":"f19674ecd46b12e33db4a373a6474484",
     "wof:hierarchy":[
@@ -58,13 +63,15 @@
         }
     ],
     "wof:id":1242613255,
-    "wof:lastmodified":1566663639,
+    "wof:lastmodified":1706240681,
     "wof:name":"Ban Lang Wat",
     "wof:parent_id":1108802587,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-th",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360209787
+    ],
     "wof:tags":[]
 },
   "bbox": [

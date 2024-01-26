@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"103.49364,14.88181,103.49364,14.88181",
@@ -19,7 +21,7 @@
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
@@ -189,14 +191,16 @@
         }
     ],
     "wof:id":1126026727,
-    "wof:lastmodified":1690869049,
+    "wof:lastmodified":1706240671,
     "wof:name":"Surin",
     "wof:parent_id":890466955,
     "wof:placetype":"locality",
     "wof:population":46673,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-th",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        102024753
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -35,6 +35,9 @@
     "name:tha_x_variant":[
         "\u0e1a\u0e49\u0e32\u0e19\u0e01\u0e01\u0e40\u0e01\u0e25\u0e37\u0e2d"
     ],
+    "name:und_x_variant":[
+        "Ban Nong Kok Kua"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -45,6 +48,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8039714
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1600264
+        ]
     },
     "wof:country":"TH",
     "wof:geomhash":"022de4ba89d5e5d53aefbacd25684490",
@@ -58,13 +66,15 @@
         }
     ],
     "wof:id":1225909983,
-    "wof:lastmodified":1566665681,
+    "wof:lastmodified":1706240678,
     "wof:name":"Ban Kok Kluea",
     "wof:parent_id":1108732063,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-th",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1243134719
+    ],
     "wof:tags":[]
 },
   "bbox": [

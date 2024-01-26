@@ -46,6 +46,11 @@
     "wof:concordances":{
         "gn:id":1154965
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1463807
+        ]
+    },
     "wof:country":"TH",
     "wof:geomhash":"0db0c0d235fc3493f9a43cab0c2ac0f0",
     "wof:hierarchy":[
@@ -58,13 +63,15 @@
         }
     ],
     "wof:id":1276763051,
-    "wof:lastmodified":1566659490,
+    "wof:lastmodified":1706240685,
     "wof:name":"Ban Saen Chai Mai",
     "wof:parent_id":1108731493,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-th",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309912739
+    ],
     "wof:tags":[]
 },
   "bbox": [

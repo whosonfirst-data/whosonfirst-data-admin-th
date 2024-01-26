@@ -43,6 +43,11 @@
     "wof:concordances":{
         "gn:id":7382289
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7382491
+        ]
+    },
     "wof:country":"TH",
     "wof:geomhash":"e6f4c629a2ed69b256e2cb7e2960322b",
     "wof:hierarchy":[
@@ -55,13 +60,15 @@
         }
     ],
     "wof:id":1292904559,
-    "wof:lastmodified":1566658552,
+    "wof:lastmodified":1706240685,
     "wof:name":"Ban Phithak Thai",
     "wof:parent_id":890466587,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-th",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343262513
+    ],
     "wof:tags":[]
 },
   "bbox": [

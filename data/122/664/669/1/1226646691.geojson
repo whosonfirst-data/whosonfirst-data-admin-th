@@ -43,6 +43,11 @@
     "wof:concordances":{
         "gn:id":1598664
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1950525
+        ]
+    },
     "wof:country":"TH",
     "wof:geomhash":"1c2efd5a12aeccdcaefc27fed268738b",
     "wof:hierarchy":[
@@ -55,13 +60,15 @@
         }
     ],
     "wof:id":1226646691,
-    "wof:lastmodified":1566666018,
+    "wof:lastmodified":1706240680,
     "wof:name":"Ban Rai",
     "wof:parent_id":890465683,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-th",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276335611
+    ],
     "wof:tags":[]
 },
   "bbox": [

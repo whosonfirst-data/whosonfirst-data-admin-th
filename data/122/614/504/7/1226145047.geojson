@@ -43,6 +43,11 @@
     "wof:concordances":{
         "gn:id":7788875
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7788847
+        ]
+    },
     "wof:country":"TH",
     "wof:geomhash":"b4c37183dda1497ec06fc64d3d98f727",
     "wof:hierarchy":[
@@ -55,13 +60,15 @@
         }
     ],
     "wof:id":1226145047,
-    "wof:lastmodified":1566665750,
+    "wof:lastmodified":1706240679,
     "wof:name":"Ban Huai Phak Kut",
     "wof:parent_id":890466281,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-th",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343366653
+    ],
     "wof:tags":[]
 },
   "bbox": [

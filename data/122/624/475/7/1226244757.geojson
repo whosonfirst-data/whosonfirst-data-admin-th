@@ -43,6 +43,11 @@
     "wof:concordances":{
         "gn:id":7784238
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7784616
+        ]
+    },
     "wof:country":"TH",
     "wof:geomhash":"7352d63f7e1392535a2eb2262df7c060",
     "wof:hierarchy":[
@@ -55,13 +60,15 @@
         }
     ],
     "wof:id":1226244757,
-    "wof:lastmodified":1566665874,
+    "wof:lastmodified":1706240679,
     "wof:name":"Ban Pang Sak",
     "wof:parent_id":1108802653,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-th",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276348193
+    ],
     "wof:tags":[]
 },
   "bbox": [

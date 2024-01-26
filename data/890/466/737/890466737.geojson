@@ -9,9 +9,21 @@
     "geom:bbox":"99.24627,10.43561,99.24627,10.43561",
     "geom:latitude":10.43561,
     "geom:longitude":99.24627,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Ban Pak Nam Chumphon",
     "gn:country":"TH",
+    "gn:country_code":"TH",
+    "gn:dem":6,
     "gn:fcode":"PPL",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1155414,
+    "gn:latitude":10.43561,
+    "gn:longitude":99.24627,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Ban Pak Nam Chumphon",
     "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
     "gp:adm0":23424960,
     "iso:country":"TH",
     "lbl:bbox":"99.22627,10.41561,99.26627,10.45561",
@@ -116,7 +128,12 @@
         "wd:id":"Q637500"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1040076
+        "gn:id":[
+            1155414
+        ],
+        "qs_pg:id":[
+            1040076
+        ]
     },
     "wof:country":"TH",
     "wof:created":1469053591,
@@ -134,14 +151,16 @@
         }
     ],
     "wof:id":890466737,
-    "wof:lastmodified":1582314884,
+    "wof:lastmodified":1706240675,
     "wof:name":"Ban Pak Nam Chumphon",
     "wof:parent_id":890466037,
     "wof:placetype":"locality",
     "wof:population":0,
     "wof:repo":"whosonfirst-data-admin-th",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259996523
+    ],
     "wof:tags":[]
 },
   "bbox": [

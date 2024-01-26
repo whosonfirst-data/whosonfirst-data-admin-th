@@ -32,6 +32,9 @@
     "name:tha_x_preferred":[
         "\u0e1a\u0e49\u0e32\u0e19\u0e25\u0e32\u0e41\u0e1b"
     ],
+    "name:und_x_variant":[
+        "Kampong Lapa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -42,6 +45,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7000966
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1610331
+        ]
     },
     "wof:country":"TH",
     "wof:geomhash":"972f0cd89e9b00b51c9ca99716306193",
@@ -55,13 +63,15 @@
         }
     ],
     "wof:id":1259619175,
-    "wof:lastmodified":1566664815,
+    "wof:lastmodified":1706240683,
     "wof:name":"Ban La Pae",
     "wof:parent_id":1108731251,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-th",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293912813
+    ],
     "wof:tags":[]
 },
   "bbox": [

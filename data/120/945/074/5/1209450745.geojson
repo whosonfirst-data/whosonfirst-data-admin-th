@@ -43,6 +43,11 @@
     "wof:concordances":{
         "gn:id":1154146
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7091956
+        ]
+    },
     "wof:country":"TH",
     "wof:geomhash":"97213a01c81f82017f4021437358fb1a",
     "wof:hierarchy":[
@@ -52,13 +57,15 @@
         }
     ],
     "wof:id":1209450745,
-    "wof:lastmodified":1566660759,
+    "wof:lastmodified":1706240677,
     "wof:name":"Ban Ton Muang",
     "wof:parent_id":85632293,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-th",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293225637
+    ],
     "wof:tags":[]
 },
   "bbox": [

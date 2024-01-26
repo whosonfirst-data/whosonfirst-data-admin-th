@@ -9,7 +9,21 @@
     "geom:bbox":"102.850227,14.399044,102.879754,14.427756",
     "geom:latitude":14.414996,
     "geom:longitude":102.866629,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Lahan Sai",
+    "gn:country_code":"TH",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1609258,
+    "gn:latitude":14.41142,
+    "gn:longitude":102.85936,
+    "gn:modification_date":"2014-08-05",
+    "gn:name":"Lahan Sai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
     "iso:country":"TH",
+    "lbl:bbox":"102.83936,14.39142,102.87936,14.43142",
     "lbl:latitude":14.416781,
     "lbl:longitude":102.868385,
     "lbl:max_zoom":18.0,
@@ -53,6 +67,13 @@
     "name:tha_x_preferred":[
         "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e25\u0e30\u0e2b\u0e32\u0e19\u0e17\u0e23\u0e32\u0e22"
     ],
+    "name:und_x_variant":[
+        "Ban Laharn Sai",
+        "Ban Lahan Sai",
+        "King Amphoe Lahan Sai",
+        "Amphoe Lahan Sai",
+        "Lahan Sai"
+    ],
     "name:urd_x_preferred":[
         "\u0644\u0627\u06c1\u0627\u0646 \u0633\u0627\u0626\u06cc \u0636\u0644\u0639"
     ],
@@ -95,6 +116,11 @@
         "qs_pg:id":346446,
         "wd:id":"Q475867"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1609258
+        ]
+    },
     "wof:country":"TH",
     "wof:geomhash":"06a84d9addbd56bc3bca5a6c40960ea9",
     "wof:hierarchy":[
@@ -109,13 +135,15 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690868654,
+    "wof:lastmodified":1706240670,
     "wof:name":"Lahan Sai",
     "wof:parent_id":85678817,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-th",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1277127341
+    ],
     "wof:tags":[]
 },
   "bbox": [

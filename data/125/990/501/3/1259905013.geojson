@@ -46,6 +46,11 @@
     "wof:concordances":{
         "gn:id":1155776
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8666378
+        ]
+    },
     "wof:country":"TH",
     "wof:geomhash":"aeff541608d5201e2ab0bb8266bb252d",
     "wof:hierarchy":[
@@ -58,13 +63,15 @@
         }
     ],
     "wof:id":1259905013,
-    "wof:lastmodified":1566664535,
+    "wof:lastmodified":1706240683,
     "wof:name":"Ban Rang Krang",
     "wof:parent_id":1108732035,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-th",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293800997
+    ],
     "wof:tags":[]
 },
   "bbox": [

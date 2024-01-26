@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"104.00064,14.88547,104.00064,14.88547",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:tha_x_preferred":[
         "\u0e1a\u0e49\u0e32\u0e19\u0e15\u0e39\u0e21\u0e40\u0e2b\u0e19\u0e37\u0e2d"
@@ -43,6 +45,11 @@
     "wof:concordances":{
         "gn:id":8536059
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8536028
+        ]
+    },
     "wof:country":"TH",
     "wof:geomhash":"737e0d858efe0d1a7ba4fcfc84d0239b",
     "wof:hierarchy":[
@@ -55,13 +62,17 @@
         }
     ],
     "wof:id":1226798573,
-    "wof:lastmodified":1566665933,
+    "wof:lastmodified":1706240681,
     "wof:name":"Ban Tum Nuea",
     "wof:parent_id":1108731781,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-th",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1226589697
+    ],
+    "wof:supersedes":[
+        1293450267
+    ],
     "wof:tags":[]
 },
   "bbox": [

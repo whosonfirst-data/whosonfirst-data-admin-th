@@ -43,6 +43,11 @@
     "wof:concordances":{
         "gn:id":1602952
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1602953
+        ]
+    },
     "wof:country":"TH",
     "wof:geomhash":"ecd7e3fa034ee31f4a35a501d9ecc27f",
     "wof:hierarchy":[
@@ -55,13 +60,15 @@
         }
     ],
     "wof:id":1226265637,
-    "wof:lastmodified":1566665215,
+    "wof:lastmodified":1706240679,
     "wof:name":"Ban Ket",
     "wof:parent_id":890466167,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-th",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276799243
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -35,6 +35,11 @@
     "name:tha_x_variant":[
         "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e49\u0e27\u0e22\u0e17\u0e23\u0e32\u0e22\u0e04\u0e33"
     ],
+    "name:und_x_variant":[
+        "Sayagam",
+        "Huai Chai Dam",
+        "Ban Huai Chai Dam"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -45,6 +50,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8039758
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1619018
+        ]
     },
     "wof:country":"TH",
     "wof:geomhash":"5de94bdebae95549328c9ee24a1a9bc8",
@@ -58,13 +68,15 @@
         }
     ],
     "wof:id":1193244027,
-    "wof:lastmodified":1566661019,
+    "wof:lastmodified":1706240676,
     "wof:name":"Ban Huai Sai Kham",
     "wof:parent_id":1108732063,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-th",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1209068927
+    ],
     "wof:tags":[]
 },
   "bbox": [

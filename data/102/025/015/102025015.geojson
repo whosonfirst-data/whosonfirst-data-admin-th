@@ -12,7 +12,9 @@
     "gn:latitude":16.41904,
     "gn:longitude":101.16056,
     "gn:population":50656,
+    "gp:adm0":23424960,
     "iso:country":"TH",
+    "lbl:bbox":"101.139362,16.402583,101.179362,16.442583",
     "lbl:latitude":16.418842,
     "lbl:longitude":101.147337,
     "lbl:max_zoom":14.0,
@@ -250,7 +252,18 @@
     "qs:loc":"Phetchabun",
     "qs:loc_alt":"Phetchabun",
     "qs:loc_lc":"1607737",
+    "qs:name":"Phetchabun",
+    "qs:name_adm0":"Thailand",
+    "qs:name_adm1":"Phetchabun",
+    "qs:photos":182,
+    "qs:photos_1k":37,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":182,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
     "qs:pop":0,
+    "qs:pop_sr":"0",
     "qs:source":"Aquattroshapes",
     "qs:type":"Town",
     "src:geom":"quattroshapes",
@@ -274,6 +287,20 @@
         "wd:id":"Q1211346",
         "wk:page":"Phetchabun"
     },
+    "wof:concordances_alt":{
+        "gp:id":[
+            1226092
+        ],
+        "qs_pg:id":[
+            215728
+        ],
+        "wd:id":[
+            "Q1211346"
+        ],
+        "wk:page":[
+            "Phetchabun"
+        ]
+    },
     "wof:country":"TH",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -289,7 +316,7 @@
         }
     ],
     "wof:id":102025015,
-    "wof:lastmodified":1690868706,
+    "wof:lastmodified":1706240672,
     "wof:name":"Phetchabun",
     "wof:parent_id":890466025,
     "wof:placetype":"locality",
@@ -297,7 +324,9 @@
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-th",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        890467303
+    ],
     "wof:tags":[]
 },
   "bbox": [

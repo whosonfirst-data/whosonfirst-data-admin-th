@@ -32,6 +32,10 @@
     "name:tha_x_preferred":[
         "\u0e1a\u0e49\u0e32\u0e19\u0e15\u0e25\u0e32\u0e14\u0e42\u0e01\u0e15\u0e32\u0e1a\u0e32\u0e23\u0e39"
     ],
+    "name:und_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e15\u0e25\u0e32\u0e14\u0e42\u0e01\u0e15\u0e32\u0e1a\u0e32\u0e23\u0e39",
+        "Kota Baru"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -42,6 +46,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7013462
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1596206
+        ]
     },
     "wof:country":"TH",
     "wof:geomhash":"dae0cd9e210d82608be2f5ac4347e594",
@@ -55,13 +64,15 @@
         }
     ],
     "wof:id":1225969373,
-    "wof:lastmodified":1566665703,
+    "wof:lastmodified":1706240678,
     "wof:name":"Ban Talat Ko Ta Ba Ru",
     "wof:parent_id":1108731791,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-th",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293505365
+    ],
     "wof:tags":[]
 },
   "bbox": [

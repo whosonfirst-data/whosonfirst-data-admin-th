@@ -43,6 +43,11 @@
     "wof:concordances":{
         "gn:id":7000909
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1941340
+        ]
+    },
     "wof:country":"TH",
     "wof:geomhash":"932b6271c62c62d0b6770459813f5ea7",
     "wof:hierarchy":[
@@ -55,13 +60,15 @@
         }
     ],
     "wof:id":1310434739,
-    "wof:lastmodified":1566662274,
+    "wof:lastmodified":1706240686,
     "wof:name":"Ban Du Song Yo",
     "wof:parent_id":1108731223,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-th",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327257057
+    ],
     "wof:tags":[]
 },
   "bbox": [

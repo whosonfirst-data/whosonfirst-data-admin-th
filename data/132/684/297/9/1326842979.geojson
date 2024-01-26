@@ -47,6 +47,11 @@
     "wof:concordances":{
         "gn:id":1155306
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7790801
+        ]
+    },
     "wof:country":"TH",
     "wof:geomhash":"2d082e916cb00e01711bb9dd13901409",
     "wof:hierarchy":[
@@ -59,13 +64,15 @@
         }
     ],
     "wof:id":1326842979,
-    "wof:lastmodified":1566655803,
+    "wof:lastmodified":1706240687,
     "wof:name":"Ban Pa Ton",
     "wof:parent_id":890467097,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-th",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343674445
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -9,8 +9,21 @@
     "geom:bbox":"99.729985,16.979463,99.91357,17.218056",
     "geom:latitude":17.067455,
     "geom:longitude":99.833137,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Sukhothai",
+    "gn:country_code":"TH",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6690239,
+    "gn:latitude":17.00694,
+    "gn:longitude":99.78944,
+    "gn:modification_date":"2008-02-19",
+    "gn:name":"Sukhothai",
     "gn:population":37000,
+    "gn:timezone":"Asia/Bangkok",
     "iso:country":"TH",
+    "lbl:bbox":"99.76944,16.98694,99.80944,17.02694",
     "lbl:latitude":17.013758,
     "lbl:longitude":99.820746,
     "lbl:max_zoom":14.0,
@@ -20,6 +33,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.1,
+    "name:ara_x_preferred":[
+        "\u0633\u0648\u062e\u0648\u062b\u0627\u064a"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09c1\u0996\u09cb\u09a5\u09be\u0987"
+    ],
     "name:cat_x_preferred":[
         "Sukhothai"
     ],
@@ -44,8 +63,14 @@
     "name:deu_x_variant":[
         "Sukhothai Thani"
     ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03bf\u03c5\u03ba\u03bf\u03c4\u03ac\u03b9"
+    ],
     "name:eng_x_preferred":[
         "Sukhothai Thani"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0648\u062e\u0648\u062a\u0627\u06cc"
     ],
     "name:fin_x_preferred":[
         "Sukhothai Thani"
@@ -77,6 +102,9 @@
     "name:ind_x_preferred":[
         "Sukhothai"
     ],
+    "name:isl_x_preferred":[
+        "Sukhothai"
+    ],
     "name:ita_x_preferred":[
         "Sukhothai"
     ],
@@ -103,6 +131,9 @@
     ],
     "name:nor_x_preferred":[
         "Sukhothai"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0635\u0648\u0628\u06c1 \u0633\u06a9\u06be\u0648\u0646\u062a\u06be\u0627\u0626\u06cc"
     ],
     "name:pol_x_preferred":[
         "Sukhothai"
@@ -299,6 +330,11 @@
         "wd:id":"Q986737",
         "wk:page":"Sukhothai Thani"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6690239
+        ]
+    },
     "wof:country":"TH",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -314,7 +350,7 @@
         }
     ],
     "wof:id":102024113,
-    "wof:lastmodified":1690868696,
+    "wof:lastmodified":1706240670,
     "wof:name":"Sukhothai",
     "wof:parent_id":890466803,
     "wof:placetype":"locality",
@@ -322,7 +358,9 @@
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-th",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344246205
+    ],
     "wof:tags":[]
 },
   "bbox": [

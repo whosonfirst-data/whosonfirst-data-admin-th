@@ -43,6 +43,11 @@
     "wof:concordances":{
         "gn:id":1602960
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7000635
+        ]
+    },
     "wof:country":"TH",
     "wof:geomhash":"1334d61b415acb3dbac3e069191fbebc",
     "wof:hierarchy":[
@@ -55,13 +60,15 @@
         }
     ],
     "wof:id":1327358629,
-    "wof:lastmodified":1566655614,
+    "wof:lastmodified":1706240687,
     "wof:name":"Ban Ka To",
     "wof:parent_id":1108731223,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-th",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327448235
+    ],
     "wof:tags":[]
 },
   "bbox": [

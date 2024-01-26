@@ -48,6 +48,11 @@
     "wof:concordances":{
         "gn:id":1613912
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8538921
+        ]
+    },
     "wof:country":"TH",
     "wof:geomhash":"161d372237ba22a4ea9014d1c1494fa4",
     "wof:hierarchy":[
@@ -60,13 +65,15 @@
         }
     ],
     "wof:id":1293533789,
-    "wof:lastmodified":1566657820,
+    "wof:lastmodified":1706240686,
     "wof:name":"Ban Prakhao",
     "wof:parent_id":1108731665,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-th",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327174385
+    ],
     "wof:tags":[]
 },
   "bbox": [

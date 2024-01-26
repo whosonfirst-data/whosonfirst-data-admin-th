@@ -32,6 +32,13 @@
     "name:tha_x_preferred":[
         "\u0e1a\u0e49\u0e32\u0e19\u0e1b\u0e32\u0e01\u0e04\u0e25\u0e2d\u0e07\u0e2a\u0e34\u0e1a\u0e2b\u0e49\u0e32\u0e2b\u0e01\u0e27\u0e32"
     ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1b\u0e32\u0e01\u0e04\u0e25\u0e2d\u0e07\u0e2a\u0e34\u0e1a\u0e2b\u0e49\u0e32\u0e2b\u0e01\u0e27\u0e32"
+    ],
+    "name:und_x_variant":[
+        "Ban Khlong Hok Wa",
+        "Ban Pak Khlong Sip Ha Hok Wa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -42,6 +49,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7099287
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1602684
+        ]
     },
     "wof:country":"TH",
     "wof:geomhash":"d461e1e325b52e6b5bd7f825ad601d35",
@@ -55,13 +67,15 @@
         }
     ],
     "wof:id":1193162087,
-    "wof:lastmodified":1566661233,
+    "wof:lastmodified":1706240675,
     "wof:name":"Ban Pak Khlong Sip Ha Hok Wa",
     "wof:parent_id":1108731677,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-th",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344182039
+    ],
     "wof:tags":[]
 },
   "bbox": [

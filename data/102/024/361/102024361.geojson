@@ -9,8 +9,21 @@
     "geom:bbox":"99.13657,19.752497,99.243565,19.956569",
     "geom:latitude":19.871443,
     "geom:longitude":99.187913,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Fang",
+    "gn:country_code":"TH",
+    "gn:dem":471,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1153427,
+    "gn:latitude":19.91689,
+    "gn:longitude":99.2145,
+    "gn:modification_date":"2015-03-05",
+    "gn:name":"Fang",
     "gn:population":7635,
+    "gn:timezone":"Asia/Bangkok",
     "iso:country":"TH",
+    "lbl:bbox":"99.1945,19.89689,99.2345,19.93689",
     "lbl:latitude":19.903838,
     "lbl:longitude":99.206561,
     "lbl:max_zoom":15.0,
@@ -90,6 +103,18 @@
     "name:tha_x_preferred":[
         "\u0e1d\u0e32\u0e07"
     ],
+    "name:und_x_variant":[
+        "Moeang Fhang",
+        "Ban Nai Wiang",
+        "Fh\u0101ng",
+        "Amphoe Moeangfhang",
+        "Muang Fang",
+        "Amphoe Fang",
+        "Muang Pang",
+        "Amphoe Moeang Bhang",
+        "Amphoe Muang Fang",
+        "Fang"
+    ],
     "name:vie_x_preferred":[
         "Nanh"
     ],
@@ -128,7 +153,12 @@
         "wd:id":"Q1940269"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1248759
+        "gn:id":[
+            1153427
+        ],
+        "qs_pg:id":[
+            1248759
+        ]
     },
     "wof:country":"TH",
     "wof:geom_alt":[
@@ -148,7 +178,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690868655,
+    "wof:lastmodified":1706240670,
     "wof:name":"Fang",
     "wof:parent_id":890466211,
     "wof:placetype":"locality",
@@ -156,7 +186,9 @@
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-th",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276450477
+    ],
     "wof:tags":[]
 },
   "bbox": [

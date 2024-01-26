@@ -43,6 +43,11 @@
     "wof:concordances":{
         "gn:id":1616065
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7735784
+        ]
+    },
     "wof:country":"TH",
     "wof:geomhash":"148a5354e2a9928dd38fcd5d1cc95e2e",
     "wof:hierarchy":[
@@ -52,13 +57,15 @@
         }
     ],
     "wof:id":1209431685,
-    "wof:lastmodified":1566660830,
+    "wof:lastmodified":1706240677,
     "wof:name":"Ban Yai Ruean",
     "wof:parent_id":85632293,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-th",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310441113
+    ],
     "wof:tags":[]
 },
   "bbox": [

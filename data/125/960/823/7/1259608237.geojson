@@ -32,6 +32,9 @@
     "name:tha_x_preferred":[
         "\u0e1a\u0e49\u0e32\u0e19\u0e04\u0e25\u0e2d\u0e07\u0e42\u0e1e\u0e18\u0e34"
     ],
+    "name:und_x_variant":[
+        "Ban Khlong Pho Thao"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -42,6 +45,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6908113
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1602629
+        ]
     },
     "wof:country":"TH",
     "wof:geomhash":"d04b3026fe5446b2810433d7fb201e36",
@@ -55,13 +63,15 @@
         }
     ],
     "wof:id":1259608237,
-    "wof:lastmodified":1566664890,
+    "wof:lastmodified":1706240683,
     "wof:name":"Ban Khlong Pho",
     "wof:parent_id":1108802737,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-th",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293618415
+    ],
     "wof:tags":[]
 },
   "bbox": [

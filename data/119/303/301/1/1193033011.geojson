@@ -43,6 +43,11 @@
     "wof:concordances":{
         "gn:id":7853043
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7853044
+        ]
+    },
     "wof:country":"TH",
     "wof:geomhash":"04b89cdf4ea15f37264658262a62c34d",
     "wof:hierarchy":[
@@ -55,13 +60,15 @@
         }
     ],
     "wof:id":1193033011,
-    "wof:lastmodified":1566661086,
+    "wof:lastmodified":1706240675,
     "wof:name":"Ban Nong Lum",
     "wof:parent_id":1108731713,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-th",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360201457
+    ],
     "wof:tags":[]
 },
   "bbox": [

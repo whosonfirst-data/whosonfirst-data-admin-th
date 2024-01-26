@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"101.91667,16.61667,101.91667,16.61667",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -38,7 +40,7 @@
         "gn:id":1609767
     },
     "wof:country":"TH",
-    "wof:geomhash":"09102f280ea3701fbc912c25f98ad1dd",
+    "wof:geomhash":"91ce6e754807bab98ea7bb0b9e35c074",
     "wof:hierarchy":[
         {
             "country_id":85632293,
@@ -46,20 +48,22 @@
         }
     ],
     "wof:id":1209482283,
-    "wof:lastmodified":1566660120,
+    "wof:lastmodified":1706240672,
     "wof:name":"Khon San",
     "wof:parent_id":85632293,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-th",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        102025303
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     101.91667,
-    16.61667000000001,
+    16.61667,
     101.91667,
-    16.61667000000001
+    16.61667
 ],
-  "geometry": {"coordinates":[101.91667,16.61667000000001],"type":"Point"}
+  "geometry": {"coordinates":[101.91667,16.61667],"type":"Point"}
 }

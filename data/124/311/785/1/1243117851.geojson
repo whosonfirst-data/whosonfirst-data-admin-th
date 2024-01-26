@@ -43,6 +43,11 @@
     "wof:concordances":{
         "gn:id":7879354
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7875763
+        ]
+    },
     "wof:country":"TH",
     "wof:geomhash":"017fa4d2ee33e79e2b370b0963fe3707",
     "wof:hierarchy":[
@@ -55,13 +60,15 @@
         }
     ],
     "wof:id":1243117851,
-    "wof:lastmodified":1566664274,
+    "wof:lastmodified":1706240682,
     "wof:name":"Ban Kan Chan",
     "wof:parent_id":1108731893,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-th",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343522039
+    ],
     "wof:tags":[]
 },
   "bbox": [

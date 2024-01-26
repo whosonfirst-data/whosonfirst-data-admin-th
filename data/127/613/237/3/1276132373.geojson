@@ -32,6 +32,9 @@
     "name:tha_x_preferred":[
         "\u0e1a\u0e49\u0e32\u0e19\u0e41\u0e21\u0e48\u0e25\u0e32\u0e07\u0e08\u0e31\u0e19\u0e17\u0e23\u0e4c"
     ],
+    "name:und_x_variant":[
+        "Ban Mae Lang"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -42,6 +45,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7072915
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1119132
+        ]
     },
     "wof:country":"TH",
     "wof:geomhash":"1770f21c709ba17221df9a995040889a",
@@ -55,13 +63,15 @@
         }
     ],
     "wof:id":1276132373,
-    "wof:lastmodified":1566659453,
+    "wof:lastmodified":1706240684,
     "wof:name":"Ban Mae Lang Chan",
     "wof:parent_id":890465713,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-th",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343362439
+    ],
     "wof:tags":[]
 },
   "bbox": [

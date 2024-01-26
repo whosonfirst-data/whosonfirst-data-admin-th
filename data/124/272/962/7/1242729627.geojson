@@ -43,6 +43,11 @@
     "wof:concordances":{
         "gn:id":9030153
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            9030156
+        ]
+    },
     "wof:country":"TH",
     "wof:geomhash":"88d91be079093183c222dd13fc70a871",
     "wof:hierarchy":[
@@ -55,13 +60,15 @@
         }
     ],
     "wof:id":1242729627,
-    "wof:lastmodified":1566663573,
+    "wof:lastmodified":1706240681,
     "wof:name":"Ban Khok Din Daeng",
     "wof:parent_id":890466791,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-th",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276810661
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -32,6 +32,10 @@
     "name:tha_x_preferred":[
         "\u0e1a\u0e49\u0e32\u0e19\u0e01\u0e32\u0e42\u0e15\u0e4a\u0e30"
     ],
+    "name:und_x_variant":[
+        "Ban Ta To",
+        "Ban Ka To"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -42,6 +46,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6976015
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1612842
+        ]
     },
     "wof:country":"TH",
     "wof:geomhash":"e9dfafb0a16be48aec85b45dbbbfec6a",
@@ -55,13 +64,15 @@
         }
     ],
     "wof:id":1193041239,
-    "wof:lastmodified":1566661127,
+    "wof:lastmodified":1706240675,
     "wof:name":"Ban Ka To",
     "wof:parent_id":1108732081,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-th",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1193172839
+    ],
     "wof:tags":[]
 },
   "bbox": [

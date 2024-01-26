@@ -32,6 +32,12 @@
     "name:tha_x_preferred":[
         "\u0e1a\u0e49\u0e32\u0e19\u0e1a\u0e32\u0e42\u0e07\u0e1a\u0e39\u0e42\u0e25\u0e4a\u0e30"
     ],
+    "name:und_x_variant":[
+        "Kampong Bato Bulong",
+        "Kampong Bango Burong",
+        "Kampong Bango Bulong",
+        "Ban Ba Ngo Bu Lo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -42,6 +48,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7013105
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1610425
+        ]
     },
     "wof:country":"TH",
     "wof:geomhash":"6b90c79df9d6f36a6adfe60c23203d0e",
@@ -55,13 +66,15 @@
         }
     ],
     "wof:id":1226167743,
-    "wof:lastmodified":1566665336,
+    "wof:lastmodified":1706240679,
     "wof:name":"Ban Ba Ngo Bu Lo",
     "wof:parent_id":1108731791,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-th",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360101937
+    ],
     "wof:tags":[]
 },
   "bbox": [

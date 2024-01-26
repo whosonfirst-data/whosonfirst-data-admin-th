@@ -32,6 +32,11 @@
     "name:tha_x_preferred":[
         "\u0e1a\u0e49\u0e32\u0e19\u0e14\u0e07\u0e02\u0e35\u0e49\u0e40\u0e2b\u0e25\u0e47\u0e01"
     ],
+    "name:und_x_variant":[
+        "B\u0101n Tha Gu",
+        "Ban Thaku",
+        "Ban Dong Khi Lek"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -42,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7790691
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1157920
+        ]
     },
     "wof:country":"TH",
     "wof:geomhash":"f0cbbbb65039c0a9670daa57d9850607",
@@ -55,13 +65,15 @@
         }
     ],
     "wof:id":1226648179,
-    "wof:lastmodified":1566666017,
+    "wof:lastmodified":1706240680,
     "wof:name":"Ban Dong Khi Lek",
     "wof:parent_id":890467097,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-th",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309811351
+    ],
     "wof:tags":[]
 },
   "bbox": [

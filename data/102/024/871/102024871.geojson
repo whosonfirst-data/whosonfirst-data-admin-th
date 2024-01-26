@@ -9,7 +9,9 @@
     "geom:bbox":"99.9608,14.745924,100.108472,14.8211",
     "geom:latitude":14.78704,
     "geom:longitude":100.033484,
+    "gp:adm0":23424960,
     "iso:country":"TH",
+    "lbl:bbox":"100.074673,14.7355165,100.114673,14.7755165",
     "lbl:latitude":14.81206,
     "lbl:longitude":99.981079,
     "lbl:max_zoom":18.0,
@@ -86,7 +88,18 @@
     "qs:loc":"Sam Chuk",
     "qs:loc_alt":"Sam Chuk",
     "qs:loc_lc":"1606726",
+    "qs:name":"Sam Chuk",
+    "qs:name_adm0":"Thailand",
+    "qs:name_adm1":"Suphan Buri",
+    "qs:photos":402,
+    "qs:photos_1k":81,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":402,
+    "qs:photos_sr":6,
+    "qs:placetype":"Town",
     "qs:pop":0,
+    "qs:pop_sr":"0",
     "qs:source":"Aquattroshapes",
     "qs:type":"County",
     "src:geom":"quattroshapes",
@@ -105,7 +118,19 @@
         "gn:id":1606726,
         "gp:id":28341469,
         "qs_pg:id":963506,
-        "wd:id":"Q476597"
+        "wd:id":"Q476597",
+        "wk:page":"Sam Chuk District"
+    },
+    "wof:concordances_alt":{
+        "gp:id":[
+            1226141
+        ],
+        "qs_pg:id":[
+            1153649
+        ],
+        "wd:id":[
+            "Q476597"
+        ]
     },
     "wof:country":"TH",
     "wof:geomhash":"322098cc3e6a12c773a8ec979bbfccab",
@@ -122,13 +147,15 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690868673,
+    "wof:lastmodified":1706240671,
     "wof:name":"Sam Chuk",
     "wof:parent_id":890466315,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-th",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        890466973
+    ],
     "wof:tags":[]
 },
   "bbox": [

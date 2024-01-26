@@ -40,6 +40,11 @@
     "wof:concordances":{
         "gn:id":7681026
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7681258
+        ]
+    },
     "wof:country":"TH",
     "wof:geomhash":"fac8cffbb3d8fa68d7c018666e57b119",
     "wof:hierarchy":[
@@ -49,13 +54,15 @@
         }
     ],
     "wof:id":1209339571,
-    "wof:lastmodified":1566660629,
+    "wof:lastmodified":1706240677,
     "wof:name":"Ban Khok Klang Tai",
     "wof:parent_id":85632293,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-th",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259700649
+    ],
     "wof:tags":[]
 },
   "bbox": [

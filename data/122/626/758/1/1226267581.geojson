@@ -32,6 +32,11 @@
     "name:tha_x_preferred":[
         "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e19\u0e2d\u0e07\u0e01\u0e23\u0e30\u0e17\u0e38\u0e48\u0e21"
     ],
+    "name:und_x_variant":[
+        "Naung Kathum",
+        "Ban Nong Kathum",
+        "Ban Nong Krathum"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -42,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7621575
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1155774
+        ]
     },
     "wof:country":"TH",
     "wof:geomhash":"c675f2d3e005fc6d6dddb41098d05b77",
@@ -55,13 +65,15 @@
         }
     ],
     "wof:id":1226267581,
-    "wof:lastmodified":1566665212,
+    "wof:lastmodified":1706240679,
     "wof:name":"Ban Nong Krathum",
     "wof:parent_id":1108731945,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-th",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309735057
+    ],
     "wof:tags":[]
 },
   "bbox": [

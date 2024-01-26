@@ -48,6 +48,11 @@
     "wof:concordances":{
         "gn:id":1617899
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1601511
+        ]
+    },
     "wof:country":"TH",
     "wof:geomhash":"e31cf52f870cfbaa6c3f458c2f77680c",
     "wof:hierarchy":[
@@ -60,13 +65,15 @@
         }
     ],
     "wof:id":1243471197,
-    "wof:lastmodified":1566663822,
+    "wof:lastmodified":1706240683,
     "wof:name":"Ban Makok",
     "wof:parent_id":1108731959,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-th",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326847337
+    ],
     "wof:tags":[]
 },
   "bbox": [

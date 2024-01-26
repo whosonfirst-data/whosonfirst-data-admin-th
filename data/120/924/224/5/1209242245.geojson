@@ -32,6 +32,10 @@
     "name:tha_x_preferred":[
         "\u0e1a\u0e49\u0e32\u0e19\u0e1a\u0e32\u0e42\u0e22"
     ],
+    "name:und_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e1a\u0e32\u0e42\u0e22",
+        "Kampong Bayo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632293
@@ -39,6 +43,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7013137
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1610406
+        ]
     },
     "wof:country":"TH",
     "wof:geomhash":"6a5fe677689569134a6627da342f754a",
@@ -49,13 +58,15 @@
         }
     ],
     "wof:id":1209242245,
-    "wof:lastmodified":1566660238,
+    "wof:lastmodified":1706240676,
     "wof:name":"Ban Ba Yo",
     "wof:parent_id":85632293,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-th",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310617885
+    ],
     "wof:tags":[]
 },
   "bbox": [

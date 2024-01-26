@@ -46,6 +46,11 @@
     "wof:concordances":{
         "gn:id":1618122
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8697884
+        ]
+    },
     "wof:country":"TH",
     "wof:geomhash":"c68ba1391247444442de399bf965a425",
     "wof:hierarchy":[
@@ -58,13 +63,15 @@
         }
     ],
     "wof:id":1226582697,
-    "wof:lastmodified":1566665432,
+    "wof:lastmodified":1706240680,
     "wof:name":"Ban Talat Khlong Sip",
     "wof:parent_id":1108732053,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-th",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344210181
+    ],
     "wof:tags":[]
 },
   "bbox": [

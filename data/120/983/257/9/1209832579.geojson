@@ -32,6 +32,12 @@
     "name:tha_x_preferred":[
         "\u0e1a\u0e49\u0e32\u0e19\u0e15\u0e31\u0e19\u0e2b\u0e22\u0e07\u0e21\u0e30\u0e25\u0e34"
     ],
+    "name:und_x_variant":[
+        "Kampong Anyong Bale",
+        "Kampong Tanjong Balek",
+        "Ban Tanyong Mali",
+        "Kampong Tanyong Bale"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -42,6 +48,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7000219
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1610258
+        ]
     },
     "wof:country":"TH",
     "wof:geomhash":"3998adf401e716b33dbf46c5d8ab6a31",
@@ -55,13 +66,15 @@
         }
     ],
     "wof:id":1209832579,
-    "wof:lastmodified":1566660142,
+    "wof:lastmodified":1706240678,
     "wof:name":"Ban Tanyong Mali",
     "wof:parent_id":890466217,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-th",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226670951
+    ],
     "wof:tags":[]
 },
   "bbox": [

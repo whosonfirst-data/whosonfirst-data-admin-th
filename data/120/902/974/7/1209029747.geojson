@@ -32,6 +32,9 @@
     "name:tha_x_preferred":[
         "\u0e1a\u0e49\u0e32\u0e19\u0e44\u0e23\u0e48"
     ],
+    "name:und_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e44\u0e23\u0e48"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632293
@@ -39,6 +42,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6966634
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1598689
+        ]
     },
     "wof:country":"TH",
     "wof:geomhash":"e79077ad16a009c23c1a8f138cdbfabc",
@@ -49,13 +57,15 @@
         }
     ],
     "wof:id":1209029747,
-    "wof:lastmodified":1566660595,
+    "wof:lastmodified":1706240676,
     "wof:name":"Ban Rai",
     "wof:parent_id":85632293,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-th",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343982995
+    ],
     "wof:tags":[]
 },
   "bbox": [

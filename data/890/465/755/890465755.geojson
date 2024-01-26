@@ -9,9 +9,21 @@
     "geom:bbox":"98.44644,19.37972,98.44644,19.37972",
     "geom:latitude":19.37972,
     "geom:longitude":98.44644,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Wiang Nuea",
     "gn:country":"TH",
+    "gn:country_code":"TH",
+    "gn:dem":522,
     "gn:fcode":"PPLA3",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":1153981,
+    "gn:latitude":19.37972,
+    "gn:longitude":98.44644,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Wiang Nuea",
     "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
     "iso:country":"TH",
     "lbl:bbox":"98.42644,19.35972,98.46644,19.39972",
     "lbl:max_zoom":18.0,
@@ -19,6 +31,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:tha_x_preferred":[
+        "\u0e40\u0e27\u0e35\u0e22\u0e07\u0e40\u0e2b\u0e19\u0e37\u0e2d"
+    ],
     "name:und_x_variant":[
         "\u0e40\u0e27\u0e35\u0e22\u0e07\u0e40\u0e2b\u0e19\u0e37\u0e2d"
     ],
@@ -39,6 +54,11 @@
         "qs_pg:id":1154783,
         "wk:page":"Wiang Nuea"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1153981
+        ]
+    },
     "wof:country":"TH",
     "wof:created":1469053532,
     "wof:geomhash":"222c0a7afcb7097105ec5048596644dc",
@@ -51,14 +71,16 @@
         }
     ],
     "wof:id":890465755,
-    "wof:lastmodified":1566663186,
+    "wof:lastmodified":1706240675,
     "wof:name":"Wiang Nuea",
     "wof:parent_id":85678555,
     "wof:placetype":"locality",
     "wof:population":0,
     "wof:repo":"whosonfirst-data-admin-th",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360299075
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -46,6 +46,11 @@
     "wof:concordances":{
         "gn:id":1117367
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8203375
+        ]
+    },
     "wof:country":"TH",
     "wof:geomhash":"b8e4d8f182eb360d324837fdba9337e2",
     "wof:hierarchy":[
@@ -58,13 +63,15 @@
         }
     ],
     "wof:id":1243392713,
-    "wof:lastmodified":1566663470,
+    "wof:lastmodified":1706240682,
     "wof:name":"Ban Thung Na Bon",
     "wof:parent_id":1108731403,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-th",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326965873
+    ],
     "wof:tags":[]
 },
   "bbox": [

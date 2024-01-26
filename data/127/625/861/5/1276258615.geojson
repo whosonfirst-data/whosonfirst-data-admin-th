@@ -43,6 +43,11 @@
     "wof:concordances":{
         "gn:id":8761310
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8761333
+        ]
+    },
     "wof:country":"TH",
     "wof:geomhash":"10e4e2e89ef91eaa6fa5161ef4bbdfcc",
     "wof:hierarchy":[
@@ -55,13 +60,15 @@
         }
     ],
     "wof:id":1276258615,
-    "wof:lastmodified":1566659462,
+    "wof:lastmodified":1706240684,
     "wof:name":"Ban Khok Sung",
     "wof:parent_id":890466779,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-th",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309931053
+    ],
     "wof:tags":[]
 },
   "bbox": [

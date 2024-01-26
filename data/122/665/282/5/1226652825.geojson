@@ -11,6 +11,7 @@
     "geom:longitude":100.0652,
     "gn:admin1_code":"3.0",
     "gn:asciiname":"Ban Pha Ruea",
+    "gn:cc2":"TH",
     "gn:country_code":"TH",
     "gn:dem":377,
     "gn:feature_class":"P",
@@ -46,6 +47,11 @@
     "wof:concordances":{
         "gn:id":1950345
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1950288
+        ]
+    },
     "wof:country":"TH",
     "wof:geomhash":"e403271ad226db2a3e9f90ab4e3cfebe",
     "wof:hierarchy":[
@@ -58,13 +64,15 @@
         }
     ],
     "wof:id":1226652825,
-    "wof:lastmodified":1566666114,
+    "wof:lastmodified":1706240680,
     "wof:name":"Ban Pha Ruea",
     "wof:parent_id":1108731489,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-th",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293693655
+    ],
     "wof:tags":[]
 },
   "bbox": [

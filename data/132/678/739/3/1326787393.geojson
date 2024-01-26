@@ -46,6 +46,11 @@
     "wof:concordances":{
         "gn:id":1599959
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8680515
+        ]
+    },
     "wof:country":"TH",
     "wof:geomhash":"7922ad8d2a0d0c01c7d5c29aed071b95",
     "wof:hierarchy":[
@@ -58,13 +63,15 @@
         }
     ],
     "wof:id":1326787393,
-    "wof:lastmodified":1566655738,
+    "wof:lastmodified":1706240687,
     "wof:name":"Ban Nong Phueng",
     "wof:parent_id":1108731341,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-th",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326987133
+    ],
     "wof:tags":[]
 },
   "bbox": [

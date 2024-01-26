@@ -43,6 +43,11 @@
     "wof:concordances":{
         "gn:id":1599465
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1884771
+        ]
+    },
     "wof:country":"TH",
     "wof:geomhash":"4b25a2098950a6477e35d6dbc4ee7cae",
     "wof:hierarchy":[
@@ -55,13 +60,15 @@
         }
     ],
     "wof:id":1259896757,
-    "wof:lastmodified":1566665019,
+    "wof:lastmodified":1706240683,
     "wof:name":"Ban Non Sabaeng",
     "wof:parent_id":1108731923,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-th",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343738357
+    ],
     "wof:tags":[]
 },
   "bbox": [

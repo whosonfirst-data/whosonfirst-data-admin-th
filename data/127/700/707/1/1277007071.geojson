@@ -49,6 +49,11 @@
     "wof:concordances":{
         "gn:id":1157149
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8234210
+        ]
+    },
     "wof:country":"TH",
     "wof:geomhash":"0e452181ecadc1058ff916839d626f9a",
     "wof:hierarchy":[
@@ -61,13 +66,15 @@
         }
     ],
     "wof:id":1277007071,
-    "wof:lastmodified":1566658874,
+    "wof:lastmodified":1706240685,
     "wof:name":"Ban Klang",
     "wof:parent_id":890467415,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-th",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310135249
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -46,6 +46,11 @@
     "wof:concordances":{
         "gn:id":1597420
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8536059
+        ]
+    },
     "wof:country":"TH",
     "wof:geomhash":"2b543cea7bbfe51c14b9c35cfd868c30",
     "wof:hierarchy":[
@@ -58,13 +63,16 @@
         }
     ],
     "wof:id":1226589697,
-    "wof:lastmodified":1566665433,
+    "wof:lastmodified":1706240680,
     "wof:name":"Ban Tum Nuea",
     "wof:parent_id":1108731781,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-th",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293450267,
+        1226798573
+    ],
     "wof:tags":[]
 },
   "bbox": [

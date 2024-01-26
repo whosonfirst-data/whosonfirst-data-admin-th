@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"103.03184,15.79339,103.03184,15.79339",
@@ -28,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:tha_x_preferred":[
         "\u0e19\u0e32\u0e40\u0e0a\u0e37\u0e2d\u0e01"
@@ -63,12 +65,14 @@
         }
     ],
     "wof:id":1259638979,
-    "wof:lastmodified":1566664516,
+    "wof:lastmodified":1706240674,
     "wof:name":"Na Chueak",
     "wof:parent_id":1108731539,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-th",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        102026059
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
