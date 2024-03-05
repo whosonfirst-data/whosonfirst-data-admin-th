@@ -48,6 +48,11 @@
     "wof:concordances":{
         "gn:id":1620531
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7394879
+        ]
+    },
     "wof:country":"TH",
     "wof:geomhash":"970a2a716ad65912ff6755e77822b528",
     "wof:hierarchy":[
@@ -60,13 +65,15 @@
         }
     ],
     "wof:id":1243560255,
-    "wof:lastmodified":1566663945,
+    "wof:lastmodified":1706240683,
     "wof:name":"Ban Bon",
     "wof:parent_id":1108731491,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-th",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310701015
+    ],
     "wof:tags":[]
 },
   "bbox": [

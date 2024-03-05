@@ -46,6 +46,11 @@
     "wof:concordances":{
         "gn:id":1598905
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7099963
+        ]
+    },
     "wof:country":"TH",
     "wof:geomhash":"eb8080d048338bf24388892215d5be13",
     "wof:hierarchy":[
@@ -58,13 +63,15 @@
         }
     ],
     "wof:id":1226764397,
-    "wof:lastmodified":1566665789,
+    "wof:lastmodified":1706240681,
     "wof:name":"Ban Phraek Wihan Kaeo",
     "wof:parent_id":890467477,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-th",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276899247
+    ],
     "wof:tags":[]
 },
   "bbox": [

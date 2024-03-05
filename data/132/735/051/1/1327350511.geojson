@@ -54,6 +54,11 @@
     "wof:concordances":{
         "gn:id":1157462
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7620318
+        ]
+    },
     "wof:country":"TH",
     "wof:geomhash":"35c251608f61366d9d03f3fb65605387",
     "wof:hierarchy":[
@@ -66,13 +71,15 @@
         }
     ],
     "wof:id":1327350511,
-    "wof:lastmodified":1566655622,
+    "wof:lastmodified":1706240687,
     "wof:name":"Ban Mae Nam Noi",
     "wof:parent_id":1108731901,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-th",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360109803
+    ],
     "wof:tags":[]
 },
   "bbox": [

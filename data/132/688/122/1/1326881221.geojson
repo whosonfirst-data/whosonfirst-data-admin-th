@@ -43,6 +43,11 @@
     "wof:concordances":{
         "gn:id":9107768
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            9107849
+        ]
+    },
     "wof:country":"TH",
     "wof:geomhash":"ddfac9b5724223f2e224ff25ce837900",
     "wof:hierarchy":[
@@ -55,13 +60,15 @@
         }
     ],
     "wof:id":1326881221,
-    "wof:lastmodified":1566655027,
+    "wof:lastmodified":1706240687,
     "wof:name":"Ban Non Na",
     "wof:parent_id":1108802699,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-th",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343608951
+    ],
     "wof:tags":[]
 },
   "bbox": [

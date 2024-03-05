@@ -32,6 +32,9 @@
     "name:tha_x_preferred":[
         "\u0e1a\u0e49\u0e32\u0e19\u0e23\u0e32\u0e07\u0e01\u0e23\u0e30\u0e40\u0e08\u0e35\u0e22\u0e27"
     ],
+    "name:und_x_variant":[
+        "Ban Rang Kachieo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632293
@@ -39,6 +42,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8339200
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1117950
+        ]
     },
     "wof:country":"TH",
     "wof:geomhash":"402efb6672c5c1995b415c14fe4579fb",
@@ -49,13 +57,15 @@
         }
     ],
     "wof:id":1209343821,
-    "wof:lastmodified":1566660606,
+    "wof:lastmodified":1706240677,
     "wof:name":"Ban Rang Krachiao",
     "wof:parent_id":85632293,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-th",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309935263
+    ],
     "wof:tags":[]
 },
   "bbox": [

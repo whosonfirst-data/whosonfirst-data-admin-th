@@ -32,6 +32,12 @@
     "name:tha_x_preferred":[
         "\u0e1a\u0e49\u0e32\u0e19\u0e04\u0e25\u0e2d\u0e07\u0e02\u0e27\u0e32\u0e07"
     ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e04\u0e25\u0e2d\u0e07\u0e02\u0e27\u0e32\u0e07"
+    ],
+    "name:und_x_variant":[
+        "Ban Bang Khwang"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -42,6 +48,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6865783
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1620818
+        ]
     },
     "wof:country":"TH",
     "wof:geomhash":"512c1c1718fe52075214e0ccaa342853",
@@ -55,13 +66,15 @@
         }
     ],
     "wof:id":1310044137,
-    "wof:lastmodified":1566662344,
+    "wof:lastmodified":1706240686,
     "wof:name":"Ban Khlong Khwang",
     "wof:parent_id":1108802579,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-th",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326681325
+    ],
     "wof:tags":[]
 },
   "bbox": [

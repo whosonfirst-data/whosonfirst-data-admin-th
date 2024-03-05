@@ -9,8 +9,11 @@
     "geom:bbox":"103.256718,14.399042,103.945468,15.415063",
     "geom:latitude":14.811697,
     "geom:longitude":103.547952,
+    "gn:country":"TH",
+    "gn:fcode":"PPLA",
     "gn:population":46673,
     "iso:country":"TH",
+    "lbl:bbox":"103.47364,14.86181,103.51364,14.90181",
     "lbl:latitude":14.870468,
     "lbl:longitude":103.497953,
     "lbl:max_zoom":14.0,
@@ -20,6 +23,7 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0633\u0648\u0631\u064a\u0646"
     ],
@@ -247,11 +251,35 @@
     "qs:pop":0,
     "qs:source":"Aquattroshapes",
     "qs:type":"Town",
+    "qs_pg:aaroncc":"TH",
+    "qs_pg:gn_country":"TH",
+    "qs_pg:gn_fcode":"PPLA",
+    "qs_pg:gn_id":1606030,
+    "qs_pg:gn_pop":46673,
+    "qs_pg:name":"Surin",
+    "qs_pg:name_adm0":"Thailand",
+    "qs_pg:name_adm1":"Surin",
+    "qs_pg:photos":307,
+    "qs_pg:photos_1k":62,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":307,
+    "qs_pg:photos_sr":5,
+    "qs_pg:pop_sr":8,
+    "qs_pg:qs_id":686854,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424960,
+    "qs_pg:woe_id":1226177,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1456,
+    "woe:adm0_id":23424960,
+    "woe:name_adm0":"Thailand",
+    "woe:name_adm1":"Surin",
+    "woe:placetype":"Town",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -266,6 +294,20 @@
         "qs_pg:id":686854,
         "wd:id":"Q1207067",
         "wk:page":"Surin, Thailand"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1606030
+        ],
+        "gp:id":[
+            1226177
+        ],
+        "qs_pg:id":[
+            686854
+        ],
+        "wd:id":[
+            "Q1207067"
+        ]
     },
     "wof:country":"TH",
     "wof:geomhash":"fb9745f40398526e7dc9efa2baf55af5",
@@ -282,7 +324,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690868619,
+    "wof:lastmodified":1706240671,
     "wof:name":"Surin",
     "wof:parent_id":890466955,
     "wof:placetype":"locality",
@@ -290,7 +332,9 @@
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-th",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126026727
+    ],
     "wof:tags":[]
 },
   "bbox": [

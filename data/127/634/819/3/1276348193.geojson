@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"98.92403,19.24964,98.92403,19.24964",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:tha_x_preferred":[
         "\u0e1a\u0e49\u0e32\u0e19\u0e1b\u0e32\u0e07\u0e2a\u0e31\u0e01"
@@ -55,12 +57,14 @@
         }
     ],
     "wof:id":1276348193,
-    "wof:lastmodified":1566659113,
+    "wof:lastmodified":1706240679,
     "wof:name":"Ban Pang Sak",
     "wof:parent_id":1108802653,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-th",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1226244757
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

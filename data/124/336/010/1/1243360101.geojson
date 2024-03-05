@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:tha_x_preferred":[
+        "Ban Mae Phayuap"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e41\u0e21\u0e48\u0e1e\u0e30\u0e22\u0e27\u0e1a"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -39,6 +45,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1330778
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1119088
+        ]
     },
     "wof:country":"TH",
     "wof:geomhash":"52b646b7acd2813b2c4a332fcda6d222",
@@ -52,13 +63,15 @@
         }
     ],
     "wof:id":1243360101,
-    "wof:lastmodified":1566663362,
+    "wof:lastmodified":1706240682,
     "wof:name":"Ban Mae Phayuap",
     "wof:parent_id":1108731155,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-th",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293579253
+    ],
     "wof:tags":[]
 },
   "bbox": [

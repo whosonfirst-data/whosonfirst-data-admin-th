@@ -29,6 +29,13 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e1b\u0e32\u0e2a\u0e32\u0e21\u0e02\u0e32"
+    ],
+    "name:und_x_variant":[
+        "B\u0101n P\u0101o S\u0101m Ka",
+        "Ban Pao Sam Kha"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632293
@@ -36,6 +43,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1462988
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1155338
+        ]
     },
     "wof:country":"TH",
     "wof:geomhash":"48640a65ad335ec445bebf6df3a8bc5c",
@@ -46,13 +58,15 @@
         }
     ],
     "wof:id":1209120447,
-    "wof:lastmodified":1566660224,
+    "wof:lastmodified":1706240676,
     "wof:name":"Ban Pao Sam Kha",
     "wof:parent_id":85632293,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-th",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1225847121
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -46,6 +46,11 @@
     "wof:concordances":{
         "gn:id":1948020
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8748887
+        ]
+    },
     "wof:country":"TH",
     "wof:geomhash":"1d8dca8393f240feffbc462bd5a0ccc9",
     "wof:hierarchy":[
@@ -58,13 +63,15 @@
         }
     ],
     "wof:id":1209882697,
-    "wof:lastmodified":1566660823,
+    "wof:lastmodified":1706240678,
     "wof:name":"Ban Ko Mo Phaet Sip",
     "wof:parent_id":1108802771,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-th",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1242702743
+    ],
     "wof:tags":[]
 },
   "bbox": [

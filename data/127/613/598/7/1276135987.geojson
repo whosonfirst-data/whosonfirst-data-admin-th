@@ -46,6 +46,11 @@
     "wof:concordances":{
         "gn:id":1603006
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7680177
+        ]
+    },
     "wof:country":"TH",
     "wof:geomhash":"8d3dfbb38f4953993e6553744014ade5",
     "wof:hierarchy":[
@@ -58,13 +63,15 @@
         }
     ],
     "wof:id":1276135987,
-    "wof:lastmodified":1566659446,
+    "wof:lastmodified":1706240684,
     "wof:name":"Ban Ka Luem",
     "wof:parent_id":1108731151,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-th",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343287009
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -43,6 +43,11 @@
     "wof:concordances":{
         "gn:id":7875668
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7876995
+        ]
+    },
     "wof:country":"TH",
     "wof:geomhash":"1a691dfa0256b9ff2f47cf9435d36381",
     "wof:hierarchy":[
@@ -55,13 +60,15 @@
         }
     ],
     "wof:id":1226391753,
-    "wof:lastmodified":1566666087,
+    "wof:lastmodified":1706240679,
     "wof:name":"Ban Nikhom Soi Song",
     "wof:parent_id":890467473,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-th",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309851629
+    ],
     "wof:tags":[]
 },
   "bbox": [

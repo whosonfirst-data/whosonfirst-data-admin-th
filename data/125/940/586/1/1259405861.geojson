@@ -43,6 +43,11 @@
     "wof:concordances":{
         "gn:id":1601750
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1884903
+        ]
+    },
     "wof:country":"TH",
     "wof:geomhash":"94ece36d90fd181abe957503450e0510",
     "wof:hierarchy":[
@@ -55,13 +60,15 @@
         }
     ],
     "wof:id":1259405861,
-    "wof:lastmodified":1566664687,
+    "wof:lastmodified":1706240683,
     "wof:name":"Ban Lao Kham",
     "wof:parent_id":1108802747,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-th",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1277143301
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -32,6 +32,9 @@
     "name:tha_x_preferred":[
         "\u0e1a\u0e49\u0e32\u0e19\u0e42\u0e19\u0e19"
     ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e42\u0e19\u0e19"
+    ],
     "name:und_x_variant":[
         "B\u0101n Gok Naung",
         "Ban Kok Nong",
@@ -48,8 +51,13 @@
     "wof:concordances":{
         "gn:id":1615927
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8040081
+        ]
+    },
     "wof:country":"TH",
-    "wof:geomhash":"501c3c82b6978ce43d7039267a0adde4",
+    "wof:geomhash":"ae01fb519362f1a63111ba5de2882a28",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -60,20 +68,22 @@
         }
     ],
     "wof:id":1243416827,
-    "wof:lastmodified":1566663740,
+    "wof:lastmodified":1706240682,
     "wof:name":"Ban Non",
     "wof:parent_id":1108732063,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-th",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259448693
+    ],
     "wof:tags":[]
 },
   "bbox": [
     101.68622,
-    17.24392000000001,
+    17.24392,
     101.68622,
-    17.24392000000001
+    17.24392
 ],
-  "geometry": {"coordinates":[101.68622000000001,17.24392000000001],"type":"Point"}
+  "geometry": {"coordinates":[101.68622000000001,17.24392],"type":"Point"}
 }

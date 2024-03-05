@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"99.814,19.34597,99.814,19.34597",
@@ -19,7 +21,7 @@
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:tha_x_preferred":[
@@ -83,14 +85,16 @@
         }
     ],
     "wof:id":1125870013,
-    "wof:lastmodified":1566663297,
+    "wof:lastmodified":1706240669,
     "wof:name":"Mae Chai",
     "wof:parent_id":1108802649,
     "wof:placetype":"locality",
     "wof:population":5094,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-th",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        102024039
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

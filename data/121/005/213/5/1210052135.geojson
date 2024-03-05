@@ -46,6 +46,11 @@
     "wof:concordances":{
         "gn:id":1597295
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8748003
+        ]
+    },
     "wof:country":"TH",
     "wof:geomhash":"c46d187876fe686c8ca34713d93d7556",
     "wof:hierarchy":[
@@ -58,13 +63,15 @@
         }
     ],
     "wof:id":1210052135,
-    "wof:lastmodified":1566660955,
+    "wof:lastmodified":1706240678,
     "wof:name":"Ban Wang Mit",
     "wof:parent_id":1108731541,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-th",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343974819
+    ],
     "wof:tags":[]
 },
   "bbox": [

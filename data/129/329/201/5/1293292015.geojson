@@ -48,6 +48,11 @@
     "wof:concordances":{
         "gn:id":1618552
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1601206
+        ]
+    },
     "wof:country":"TH",
     "wof:geomhash":"d0b098dbc7ee0037e29da38f21bd23d5",
     "wof:hierarchy":[
@@ -60,13 +65,15 @@
         }
     ],
     "wof:id":1293292015,
-    "wof:lastmodified":1566658599,
+    "wof:lastmodified":1706240686,
     "wof:name":"Ban Na Kham",
     "wof:parent_id":1108731187,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-th",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310005275
+    ],
     "wof:tags":[]
 },
   "bbox": [

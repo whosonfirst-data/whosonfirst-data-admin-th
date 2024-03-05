@@ -45,6 +45,11 @@
     "wof:concordances":{
         "gn:id":1610379
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7000476
+        ]
+    },
     "wof:country":"TH",
     "wof:geomhash":"459fea5cd6c22f999b2fd53bb9f7479b",
     "wof:hierarchy":[
@@ -54,13 +59,15 @@
         }
     ],
     "wof:id":1209237809,
-    "wof:lastmodified":1566660269,
+    "wof:lastmodified":1706240676,
     "wof:name":"Ban Mu No",
     "wof:parent_id":85632293,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-th",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259896647
+    ],
     "wof:tags":[]
 },
   "bbox": [

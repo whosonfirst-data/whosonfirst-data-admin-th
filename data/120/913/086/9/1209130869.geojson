@@ -40,6 +40,11 @@
     "wof:concordances":{
         "gn:id":7000981
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1614486
+        ]
+    },
     "wof:country":"TH",
     "wof:geomhash":"4f12fe559c1ddeccd6de78b96afe9134",
     "wof:hierarchy":[
@@ -49,13 +54,15 @@
         }
     ],
     "wof:id":1209130869,
-    "wof:lastmodified":1566660364,
+    "wof:lastmodified":1706240676,
     "wof:name":"Ban Pa Wai",
     "wof:parent_id":85632293,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-th",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343686877
+    ],
     "wof:tags":[]
 },
   "bbox": [

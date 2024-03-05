@@ -46,6 +46,11 @@
     "wof:concordances":{
         "gn:id":1619723
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7507986
+        ]
+    },
     "wof:country":"TH",
     "wof:geomhash":"bdaa69d7ef6f467b5d2354b71a468326",
     "wof:hierarchy":[
@@ -58,13 +63,15 @@
         }
     ],
     "wof:id":1259410469,
-    "wof:lastmodified":1566664664,
+    "wof:lastmodified":1706240683,
     "wof:name":"Ban Don Samakkhi",
     "wof:parent_id":1108731169,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-th",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360109581
+    ],
     "wof:tags":[]
 },
   "bbox": [

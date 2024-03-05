@@ -32,6 +32,12 @@
     "name:tha_x_preferred":[
         "\u0e1a\u0e49\u0e32\u0e19\u0e19\u0e34\u0e04\u0e21\u0e04\u0e25\u0e2d\u0e07\u0e2a\u0e2d\u0e07"
     ],
+    "name:und_x_variant":[
+        "Song Klong",
+        "Saung Khlaung",
+        "Ban Nikhom Khlong Song",
+        "Ban Song Khlong"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -42,6 +48,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7099782
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1613183
+        ]
     },
     "wof:country":"TH",
     "wof:geomhash":"59f2bd679592002a2151ae91fffc9773",
@@ -55,13 +66,15 @@
         }
     ],
     "wof:id":1226259713,
-    "wof:lastmodified":1566665767,
+    "wof:lastmodified":1706240679,
     "wof:name":"Ban Nikhom Khlong Song",
     "wof:parent_id":1108802587,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-th",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259608469
+    ],
     "wof:tags":[]
 },
   "bbox": [

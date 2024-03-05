@@ -46,6 +46,11 @@
     "wof:concordances":{
         "gn:id":1155511
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1464168
+        ]
+    },
     "wof:country":"TH",
     "wof:geomhash":"c528f1aebd605fe854e3d2157bd1e291",
     "wof:hierarchy":[
@@ -58,13 +63,15 @@
         }
     ],
     "wof:id":1293693671,
-    "wof:lastmodified":1566658424,
+    "wof:lastmodified":1706240686,
     "wof:name":"Ban Pa Bong Ngam",
     "wof:parent_id":1108802651,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-th",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343662809
+    ],
     "wof:tags":[]
 },
   "bbox": [

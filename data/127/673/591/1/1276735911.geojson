@@ -50,6 +50,11 @@
     "wof:concordances":{
         "gn:id":1615835
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1884609
+        ]
+    },
     "wof:country":"TH",
     "wof:geomhash":"853c80c0496b5cd3fce5149d3705cc36",
     "wof:hierarchy":[
@@ -62,13 +67,15 @@
         }
     ],
     "wof:id":1276735911,
-    "wof:lastmodified":1566659047,
+    "wof:lastmodified":1706240685,
     "wof:name":"Ban Nong Bua Khao",
     "wof:parent_id":890467495,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-th",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360068533
+    ],
     "wof:tags":[]
 },
   "bbox": [

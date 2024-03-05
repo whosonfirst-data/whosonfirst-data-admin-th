@@ -46,6 +46,11 @@
     "wof:concordances":{
         "gn:id":1615365
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8697806
+        ]
+    },
     "wof:country":"TH",
     "wof:geomhash":"b837b97c0943ff918466b94ed14095f8",
     "wof:hierarchy":[
@@ -58,13 +63,15 @@
         }
     ],
     "wof:id":1226693065,
-    "wof:lastmodified":1566665389,
+    "wof:lastmodified":1706240681,
     "wof:name":"Ban Rakhen",
     "wof:parent_id":1108731693,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-th",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327372711
+    ],
     "wof:tags":[]
 },
   "bbox": [

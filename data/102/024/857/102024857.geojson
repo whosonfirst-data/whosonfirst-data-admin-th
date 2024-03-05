@@ -10,7 +10,9 @@
     "geom:latitude":13.559557,
     "geom:longitude":100.279344,
     "gn:population":63498,
+    "gp:adm0":23424960,
     "iso:country":"TH",
+    "lbl:bbox":"100.25153,13.524358,100.29153,13.564358",
     "lbl:latitude":13.575451,
     "lbl:longitude":100.287875,
     "lbl:max_zoom":14.0,
@@ -257,7 +259,18 @@
     "qs:loc":"Samut Sakhon",
     "qs:loc_alt":"Samut Sakhon",
     "qs:loc_lc":"1606588",
+    "qs:name":"Samut Sakhon",
+    "qs:name_adm0":"Thailand",
+    "qs:name_adm1":"Samut Sakhon",
+    "qs:photos":326,
+    "qs:photos_1k":66,
+    "qs:photos_9k":1,
+    "qs:photos_9r":5,
+    "qs:photos_all":326,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
     "qs:pop":0,
+    "qs:pop_sr":"0",
     "qs:source":"Aquattroshapes",
     "qs:type":"Town",
     "src:geom":"quattroshapes",
@@ -282,6 +295,20 @@
         "wd:id":"Q1359220",
         "wk:page":"Samut Sakhon"
     },
+    "wof:concordances_alt":{
+        "gp:id":[
+            1226147
+        ],
+        "qs_pg:id":[
+            1153650
+        ],
+        "wd:id":[
+            "Q1359220"
+        ],
+        "wk:page":[
+            "Samut Sakhon"
+        ]
+    },
     "wof:country":"TH",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -300,7 +327,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690868635,
+    "wof:lastmodified":1706240671,
     "wof:name":"Samut Sakhon",
     "wof:parent_id":890467239,
     "wof:placetype":"locality",
@@ -308,7 +335,9 @@
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-th",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        890466977
+    ],
     "wof:tags":[]
 },
   "bbox": [

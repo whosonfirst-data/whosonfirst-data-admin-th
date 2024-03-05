@@ -46,6 +46,11 @@
     "wof:concordances":{
         "gn:id":1601526
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8702137
+        ]
+    },
     "wof:country":"TH",
     "wof:geomhash":"acb8eadd2319574e0361a4017b4a74c1",
     "wof:hierarchy":[
@@ -58,13 +63,15 @@
         }
     ],
     "wof:id":1260141185,
-    "wof:lastmodified":1566661326,
+    "wof:lastmodified":1706240684,
     "wof:name":"Ban Khok Maka",
     "wof:parent_id":890466955,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-th",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1260242683
+    ],
     "wof:tags":[]
 },
   "bbox": [

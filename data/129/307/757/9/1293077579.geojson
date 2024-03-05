@@ -46,6 +46,11 @@
     "wof:concordances":{
         "gn:id":1884446
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8205218
+        ]
+    },
     "wof:country":"TH",
     "wof:geomhash":"a7db26911b10f397cfb5d660dd915a4d",
     "wof:hierarchy":[
@@ -58,13 +63,15 @@
         }
     ],
     "wof:id":1293077579,
-    "wof:lastmodified":1566657723,
+    "wof:lastmodified":1706240685,
     "wof:name":"Ban Wang Nam Bo",
     "wof:parent_id":1108802729,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-th",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360064833
+    ],
     "wof:tags":[]
 },
   "bbox": [

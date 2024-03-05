@@ -10,7 +10,9 @@
     "geom:latitude":12.697419,
     "geom:longitude":101.30004,
     "gn:population":106737,
+    "gp:adm0":23424960,
     "iso:country":"TH",
+    "lbl:bbox":"101.168819,12.678956,101.208819,12.718956",
     "lbl:latitude":12.683311,
     "lbl:longitude":101.273788,
     "lbl:max_zoom":14.0,
@@ -425,7 +427,18 @@
     "qs:loc":"Rayong",
     "qs:loc_alt":"Rayong",
     "qs:loc_lc":"1607017",
+    "qs:name":"Rayong",
+    "qs:name_adm0":"Thailand",
+    "qs:name_adm1":"Rayong",
+    "qs:photos":622,
+    "qs:photos_1k":126,
+    "qs:photos_9k":3,
+    "qs:photos_9r":5,
+    "qs:photos_all":622,
+    "qs:photos_sr":8,
+    "qs:placetype":"Town",
     "qs:pop":0,
+    "qs:pop_sr":"0",
     "qs:source":"Aquattroshapes",
     "qs:type":"Town",
     "src:geom":"quattroshapes",
@@ -449,6 +462,20 @@
         "wd:id":"Q1015123",
         "wk:page":"Rayong"
     },
+    "wof:concordances_alt":{
+        "gp:id":[
+            1226130
+        ],
+        "qs_pg:id":[
+            1080037
+        ],
+        "wd:id":[
+            "Q1015123"
+        ],
+        "wk:page":[
+            "Rayong"
+        ]
+    },
     "wof:country":"TH",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -464,7 +491,7 @@
         }
     ],
     "wof:id":102024905,
-    "wof:lastmodified":1690868665,
+    "wof:lastmodified":1706240671,
     "wof:name":"Rayong",
     "wof:parent_id":1108802679,
     "wof:placetype":"locality",
@@ -472,7 +499,9 @@
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-th",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        890466821
+    ],
     "wof:tags":[]
 },
   "bbox": [

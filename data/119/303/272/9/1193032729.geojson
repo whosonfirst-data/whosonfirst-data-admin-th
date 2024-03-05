@@ -46,6 +46,11 @@
     "wof:concordances":{
         "gn:id":1601215
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7683535
+        ]
+    },
     "wof:country":"TH",
     "wof:geomhash":"a27c27a12c20533f3bc7ca4e9348841b",
     "wof:hierarchy":[
@@ -58,13 +63,15 @@
         }
     ],
     "wof:id":1193032729,
-    "wof:lastmodified":1566661092,
+    "wof:lastmodified":1706240675,
     "wof:name":"Ban Na Kham Noi",
     "wof:parent_id":1108731955,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-th",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293800719
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -46,6 +46,11 @@
     "wof:concordances":{
         "gn:id":1155528
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7091735
+        ]
+    },
     "wof:country":"TH",
     "wof:geomhash":"6d4dd7e07a71026f330eea5246f15187",
     "wof:hierarchy":[
@@ -58,13 +63,15 @@
         }
     ],
     "wof:id":1226467535,
-    "wof:lastmodified":1566665913,
+    "wof:lastmodified":1706240679,
     "wof:name":"Ban Nuea",
     "wof:parent_id":890466905,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-th",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310030467
+    ],
     "wof:tags":[]
 },
   "bbox": [

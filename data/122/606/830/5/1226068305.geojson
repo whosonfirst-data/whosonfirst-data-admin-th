@@ -50,6 +50,11 @@
     "wof:concordances":{
         "gn:id":1154079
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7620316
+        ]
+    },
     "wof:country":"TH",
     "wof:geomhash":"a8bd64d7aac8509b895f00dabc56f42b",
     "wof:hierarchy":[
@@ -62,13 +67,15 @@
         }
     ],
     "wof:id":1226068305,
-    "wof:lastmodified":1566666080,
+    "wof:lastmodified":1706240679,
     "wof:name":"Ban Wang Khamen",
     "wof:parent_id":1108731901,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-th",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259519097
+    ],
     "wof:tags":[]
 },
   "bbox": [

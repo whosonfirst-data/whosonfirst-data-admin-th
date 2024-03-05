@@ -46,6 +46,11 @@
     "wof:concordances":{
         "gn:id":1600945
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8725637
+        ]
+    },
     "wof:country":"TH",
     "wof:geomhash":"c274fc87431f8bf98f26e8e31b51e1ff",
     "wof:hierarchy":[
@@ -58,13 +63,15 @@
         }
     ],
     "wof:id":1193059475,
-    "wof:lastmodified":1566661137,
+    "wof:lastmodified":1706240675,
     "wof:name":"Ban Bang Noi",
     "wof:parent_id":1108731299,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-th",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226589177
+    ],
     "wof:tags":[]
 },
   "bbox": [

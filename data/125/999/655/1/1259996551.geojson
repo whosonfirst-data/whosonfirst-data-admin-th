@@ -32,6 +32,9 @@
     "name:tha_x_preferred":[
         "\u0e1a\u0e49\u0e32\u0e19\u0e1a\u0e32\u0e07\u0e40\u0e21\u0e06\u0e02\u0e32\u0e27"
     ],
+    "name:und_x_variant":[
+        "Ban Bang Mak Khan"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -42,6 +45,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6907940
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1620769
+        ]
     },
     "wof:country":"TH",
     "wof:geomhash":"7971406c518ca81211e8a3536810af3e",
@@ -55,13 +63,15 @@
         }
     ],
     "wof:id":1259996551,
-    "wof:lastmodified":1566664572,
+    "wof:lastmodified":1706240684,
     "wof:name":"Ban Bang Mek Khao",
     "wof:parent_id":1108802737,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-th",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343475653
+    ],
     "wof:tags":[]
 },
   "bbox": [

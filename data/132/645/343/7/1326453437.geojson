@@ -48,6 +48,11 @@
     "wof:concordances":{
         "gn:id":1619651
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7443980
+        ]
+    },
     "wof:country":"TH",
     "wof:geomhash":"9a2f1fd11dab068ef8c7df2bfcdd6c68",
     "wof:hierarchy":[
@@ -60,13 +65,15 @@
         }
     ],
     "wof:id":1326453437,
-    "wof:lastmodified":1566655060,
+    "wof:lastmodified":1706240686,
     "wof:name":"Ban Duan",
     "wof:parent_id":1108731587,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-th",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327269647
+    ],
     "wof:tags":[]
 },
   "bbox": [

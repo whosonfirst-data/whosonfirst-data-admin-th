@@ -10,7 +10,9 @@
     "geom:latitude":7.156438,
     "geom:longitude":100.573125,
     "gn:population":84264,
+    "gp:adm0":23424960,
     "iso:country":"TH",
+    "lbl:bbox":"100.576828,7.070439,100.616828,7.110439",
     "lbl:latitude":7.16751,
     "lbl:longitude":100.592358,
     "lbl:max_zoom":14.0,
@@ -269,7 +271,18 @@
     "qs:loc":"Songkhla",
     "qs:loc_alt":"Songkhla",
     "qs:loc_lc":"1606147",
+    "qs:name":"Songkhla",
+    "qs:name_adm0":"Thailand",
+    "qs:name_adm1":"Songkhla",
+    "qs:photos":155,
+    "qs:photos_1k":31,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":155,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
     "qs:pop":0,
+    "qs:pop_sr":"0",
     "qs:source":"Aquattroshapes",
     "qs:type":"Town",
     "src:geom":"quattroshapes",
@@ -288,10 +301,22 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1606147,
+        "gp:id":1226170,
         "loc:id":"n85047295",
         "qs_pg:id":350316,
         "wd:id":"Q795595",
         "wk:page":"Songkhla"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":[
+            1195663
+        ],
+        "wd:id":[
+            "Q795595"
+        ],
+        "wk:page":[
+            "Songkhla"
+        ]
     },
     "wof:country":"TH",
     "wof:geom_alt":[
@@ -308,7 +333,7 @@
         }
     ],
     "wof:id":102024773,
-    "wof:lastmodified":1690868693,
+    "wof:lastmodified":1706240671,
     "wof:name":"Songkhla",
     "wof:parent_id":890467221,
     "wof:placetype":"locality",
@@ -316,7 +341,9 @@
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-th",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        890465989
+    ],
     "wof:tags":[]
 },
   "bbox": [

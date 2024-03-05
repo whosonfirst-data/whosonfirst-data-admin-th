@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"102.06733,17.36967,102.06733,17.36967",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:tha_x_preferred":[
         "\u0e1a\u0e49\u0e32\u0e19\u0e19\u0e32\u0e41\u0e01"
@@ -44,7 +46,7 @@
         "gn:id":1601248
     },
     "wof:country":"TH",
-    "wof:geomhash":"0b7db0bce2a310e2192a87d906be48e3",
+    "wof:geomhash":"d9a8ca7e5fe6f27f50d30d6e9eaf8a97",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -55,20 +57,22 @@
         }
     ],
     "wof:id":1293716753,
-    "wof:lastmodified":1566658210,
+    "wof:lastmodified":1706240685,
     "wof:name":"Ban Na Kae",
     "wof:parent_id":1108731551,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-th",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1293115691
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     102.06733,
-    17.36967000000001,
+    17.36967,
     102.06733,
-    17.36967000000001
+    17.36967
 ],
-  "geometry": {"coordinates":[102.06733,17.36967000000001],"type":"Point"}
+  "geometry": {"coordinates":[102.06733,17.36967],"type":"Point"}
 }

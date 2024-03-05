@@ -32,6 +32,9 @@
     "name:tha_x_preferred":[
         "\u0e1a\u0e49\u0e32\u0e19\u0e1a\u0e32\u0e42\u0e23\u0e4a\u0e30"
     ],
+    "name:und_x_variant":[
+        "Kampong Baro"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -42,6 +45,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7013124
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1610413
+        ]
     },
     "wof:country":"TH",
     "wof:geomhash":"5419bf1fb8403084778b71c606798885",
@@ -55,13 +63,15 @@
         }
     ],
     "wof:id":1343678789,
-    "wof:lastmodified":1566657287,
+    "wof:lastmodified":1706240687,
     "wof:name":"Ban Ba Ro",
     "wof:parent_id":1108731791,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-th",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344081679
+    ],
     "wof:tags":[]
 },
   "bbox": [

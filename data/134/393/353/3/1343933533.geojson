@@ -32,6 +32,9 @@
     "name:tha_x_preferred":[
         "\u0e1a\u0e49\u0e32\u0e19\u0e02\u0e2d\u0e19\u0e41\u0e01\u0e48\u0e19"
     ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e02\u0e2d\u0e19\u0e41\u0e01\u0e48\u0e19"
+    ],
     "name:und_x_variant":[
         "B\u0101n Kaun Thean",
         "Ban Khon Kaen"
@@ -47,6 +50,11 @@
     "wof:concordances":{
         "gn:id":1617759
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8040233
+        ]
+    },
     "wof:country":"TH",
     "wof:geomhash":"7736aa655bee315b1b64e28d49b58ef5",
     "wof:hierarchy":[
@@ -59,13 +67,15 @@
         }
     ],
     "wof:id":1343933533,
-    "wof:lastmodified":1566657291,
+    "wof:lastmodified":1706240687,
     "wof:name":"Ban Khon Kaen",
     "wof:parent_id":1108732063,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-th",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344023693
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -46,6 +46,11 @@
     "wof:concordances":{
         "gn:id":8149204
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8149206
+        ]
+    },
     "wof:country":"TH",
     "wof:geomhash":"e4ef908b571b09216119cca9435f37e4",
     "wof:hierarchy":[
@@ -58,13 +63,15 @@
         }
     ],
     "wof:id":1226471791,
-    "wof:lastmodified":1566665843,
+    "wof:lastmodified":1706240680,
     "wof:name":"Ban Hua Mon",
     "wof:parent_id":1108731677,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-th",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259619087
+    ],
     "wof:tags":[]
 },
   "bbox": [

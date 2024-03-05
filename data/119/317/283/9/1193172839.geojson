@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"101.13278,6.42825,101.13278,6.42825",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:tha_x_preferred":[
         "\u0e1a\u0e49\u0e32\u0e19\u0e01\u0e32\u0e42\u0e15\u0e4a\u0e30"
@@ -59,12 +61,14 @@
         }
     ],
     "wof:id":1193172839,
-    "wof:lastmodified":1566661240,
+    "wof:lastmodified":1706240675,
     "wof:name":"Ban Ka To",
     "wof:parent_id":1108732081,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-th",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1193041239
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -12,7 +12,9 @@
     "gn:latitude":14.97066,
     "gn:longitude":102.10196,
     "gn:population":208781,
+    "gp:adm0":23424960,
     "iso:country":"TH",
+    "lbl:bbox":"102.048309,14.892389,102.088309,14.932389",
     "lbl:latitude":14.966689,
     "lbl:longitude":102.088099,
     "lbl:max_zoom":13.0,
@@ -190,6 +192,9 @@
     "name:spa_x_preferred":[
         "Nakhon Ratchasima"
     ],
+    "name:spa_x_variant":[
+        "Nakhon Ratchasima"
+    ],
     "name:swe_x_preferred":[
         "Nakhon Ratchasima"
     ],
@@ -349,7 +354,18 @@
     "qs:loc":"Nakhon Ratchasima",
     "qs:loc_alt":"Nakhon Ratchasima",
     "qs:loc_lc":"1608529",
+    "qs:name":"Nakhon Ratchasima",
+    "qs:name_adm0":"Thailand",
+    "qs:name_adm1":"Nakhon Ratchasima",
+    "qs:photos":1831,
+    "qs:photos_1k":371,
+    "qs:photos_9k":8,
+    "qs:photos_9r":9,
+    "qs:photos_all":1831,
+    "qs:photos_sr":14,
+    "qs:placetype":"Town",
     "qs:pop":0,
+    "qs:pop_sr":"0",
     "qs:source":"Aquattroshapes",
     "qs:type":"Town",
     "src:geom":"quattroshapes",
@@ -368,9 +384,21 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1608529,
+        "gp:id":1226058,
         "qs_pg:id":350346,
         "wd:id":"Q633036",
         "wk:page":"Nakhon Ratchasima"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":[
+            215729
+        ],
+        "wd:id":[
+            "Q633036"
+        ],
+        "wk:page":[
+            "Nakhon Ratchasima"
+        ]
     },
     "wof:country":"TH",
     "wof:geom_alt":[
@@ -387,7 +415,7 @@
         }
     ],
     "wof:id":102025183,
-    "wof:lastmodified":1690868748,
+    "wof:lastmodified":1706240672,
     "wof:name":"Nakhon Ratchasima",
     "wof:parent_id":890466785,
     "wof:placetype":"locality",
@@ -395,7 +423,9 @@
     "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-th",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        890467305
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -50,6 +50,11 @@
     "wof:concordances":{
         "gn:id":1620684
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6866364
+        ]
+    },
     "wof:country":"TH",
     "wof:geomhash":"4ad0b778442b3bc17aef0ef51838ff29",
     "wof:hierarchy":[
@@ -62,13 +67,15 @@
         }
     ],
     "wof:id":1226582157,
-    "wof:lastmodified":1566665434,
+    "wof:lastmodified":1706240680,
     "wof:name":"Ban Bang Phuttha",
     "wof:parent_id":1108802589,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-th",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326868581
+    ],
     "wof:tags":[]
 },
   "bbox": [

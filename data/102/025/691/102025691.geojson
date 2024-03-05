@@ -12,7 +12,9 @@
     "gn:latitude":13.805,
     "gn:longitude":100.47283,
     "gn:population":78305,
+    "gp:adm0":23424960,
     "iso:country":"TH",
+    "lbl:bbox":"100.479719,13.784741,100.519719,13.824741",
     "lbl:latitude":13.815637,
     "lbl:longitude":100.439586,
     "lbl:max_zoom":14.0,
@@ -62,13 +64,25 @@
     "qs:loc":"Bang Kruai",
     "qs:loc_alt":"Bang Yai",
     "qs:loc_lc":"1619434",
+    "qs:name":"Bang Kruai",
+    "qs:name_adm0":"Thailand",
+    "qs:name_adm1":"Nonthaburi",
+    "qs:photos":726,
+    "qs:photos_1k":147,
+    "qs:photos_9k":3,
+    "qs:photos_9r":5,
+    "qs:photos_all":726,
+    "qs:photos_sr":8,
+    "qs:placetype":"Town",
     "qs:pop":0,
+    "qs:pop_sr":"0",
     "qs:source":"Aquattroshapes",
     "qs:type":"Town",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
+    "wd:wordcount":207,
     "wof:belongsto":[
         102191569,
         85632293,
@@ -81,7 +95,19 @@
         "gn:id":1619434,
         "gp:id":28341534,
         "qs_pg:id":133586,
-        "wd:id":"Q15199204"
+        "wd:id":"Q15199204",
+        "wk:page":"Bang Kruai District"
+    },
+    "wof:concordances_alt":{
+        "gp:id":[
+            1225053
+        ],
+        "qs_pg:id":[
+            1168962
+        ],
+        "wd:id":[
+            "Q15199204"
+        ]
     },
     "wof:country":"TH",
     "wof:geomhash":"0ba4c3ed471be6707b754a02beed26de",
@@ -98,7 +124,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690868742,
+    "wof:lastmodified":1706240673,
     "wof:name":"Bang Kruai",
     "wof:parent_id":1108802579,
     "wof:placetype":"locality",
@@ -106,7 +132,9 @@
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-th",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        890467161
+    ],
     "wof:tags":[]
 },
   "bbox": [

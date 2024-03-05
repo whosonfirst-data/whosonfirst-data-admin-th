@@ -32,6 +32,9 @@
     "name:tha_x_preferred":[
         "\u0e1a\u0e49\u0e32\u0e19\u0e21\u0e48\u0e27\u0e07\u0e28\u0e23\u0e35\u0e2a\u0e21\u0e1e\u0e23"
     ],
+    "name:und_x_variant":[
+        "Ban Pho Si Samran"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -42,6 +45,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7747157
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1598914
+        ]
     },
     "wof:country":"TH",
     "wof:geomhash":"e02d873deaf44eb4b443b394f63bdcd5",
@@ -55,13 +63,15 @@
         }
     ],
     "wof:id":1193166579,
-    "wof:lastmodified":1566661220,
+    "wof:lastmodified":1706240675,
     "wof:name":"Ban Muang Si Somphon",
     "wof:parent_id":1108731603,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-th",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259500305
+    ],
     "wof:tags":[]
 },
   "bbox": [

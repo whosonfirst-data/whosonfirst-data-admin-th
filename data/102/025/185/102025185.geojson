@@ -9,10 +9,13 @@
     "geom:bbox":"104.530995,17.199978,104.802505,17.553573",
     "geom:latitude":17.377995,
     "geom:longitude":104.727342,
+    "gn:country":"TH",
+    "gn:fcode":"PPLA",
     "gn:latitude":17.41081,
     "gn:longitude":104.77856,
     "gn:population":34595,
     "iso:country":"TH",
+    "lbl:bbox":"104.75856,17.39081,104.79856,17.43081",
     "lbl:latitude":17.400976,
     "lbl:longitude":104.773443,
     "lbl:max_zoom":14.0,
@@ -22,6 +25,7 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ace_x_preferred":[
         "Propinsi Nakhon Phanom"
     ],
@@ -120,6 +124,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u041d\u0430\u043a\u0445\u043e\u043d\u043f\u0445\u0430\u043d\u043e\u043c"
+    ],
+    "name:und_x_variant":[
+        "Ban Nakhon Phnom"
     ],
     "name:urd_x_preferred":[
         "\u0646\u0627\u06a9\u06be\u0648\u0646 \u0641\u06cc\u0646\u0648\u0645"
@@ -238,11 +245,33 @@
     "qs:pop":0,
     "qs:source":"Aquattroshapes",
     "qs:type":"Town",
+    "qs_pg:aaroncc":"TH",
+    "qs_pg:gn_country":"TH",
+    "qs_pg:gn_fcode":"PPLA",
+    "qs_pg:gn_id":1608531,
+    "qs_pg:gn_pop":34595,
+    "qs_pg:name":"Nakhon Phanom",
+    "qs_pg:name_adm0":"Thailand",
+    "qs_pg:name_adm1":"Nakhon Phanom",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":8,
+    "qs_pg:qs_id":445010,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424960,
+    "qs_pg:woe_id":1225759,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":270,
+    "woe:adm0_id":23424960,
+    "woe:name_adm0":"Thailand",
+    "woe:name_adm1":"Nakhon Phanom",
+    "woe:placetype":"Town",
     "wof:belongsto":[
         102191569,
         85632293,
@@ -257,6 +286,20 @@
         "qs_pg:id":445010,
         "wd:id":"Q777162",
         "wk:page":"Nakhon Phanom"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1608531
+        ],
+        "gp:id":[
+            1225759
+        ],
+        "qs_pg:id":[
+            445010
+        ],
+        "wd:id":[
+            "Q777162"
+        ]
     },
     "wof:country":"TH",
     "wof:geomhash":"7a18c3387059940fc720abfbe09e2dae",
@@ -273,7 +316,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690868751,
+    "wof:lastmodified":1706240672,
     "wof:name":"Nakhon Phanom",
     "wof:parent_id":1108802675,
     "wof:placetype":"locality",
@@ -281,7 +324,9 @@
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-th",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125783319
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"99.24627,10.43561,99.24627,10.43561",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "P\u0101k Nam",
@@ -56,12 +58,14 @@
         }
     ],
     "wof:id":1259996523,
-    "wof:lastmodified":1566664573,
+    "wof:lastmodified":1706240675,
     "wof:name":"Ban Pak Nam Chumphon",
     "wof:parent_id":890466037,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-th",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        890466737
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -40,6 +40,11 @@
     "wof:concordances":{
         "gn:id":7001149
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1602393
+        ]
+    },
     "wof:country":"TH",
     "wof:geomhash":"ca054dc784ffc168d032d20e1583cec6",
     "wof:hierarchy":[
@@ -49,13 +54,15 @@
         }
     ],
     "wof:id":1209350191,
-    "wof:lastmodified":1566660455,
+    "wof:lastmodified":1706240677,
     "wof:name":"Ban Khok Phai",
     "wof:parent_id":85632293,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-th",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1292929061
+    ],
     "wof:tags":[]
 },
   "bbox": [

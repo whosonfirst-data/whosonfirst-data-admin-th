@@ -49,6 +49,11 @@
     "wof:concordances":{
         "gn:id":1156433
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1119044
+        ]
+    },
     "wof:country":"TH",
     "wof:geomhash":"d51b97f909de13151354c405484e7a4b",
     "wof:hierarchy":[
@@ -61,13 +66,15 @@
         }
     ],
     "wof:id":1226526967,
-    "wof:lastmodified":1566666014,
+    "wof:lastmodified":1706240680,
     "wof:name":"Ban Mae Tao",
     "wof:parent_id":890466271,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-th",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1277161891
+    ],
     "wof:tags":[]
 },
   "bbox": [

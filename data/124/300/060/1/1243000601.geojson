@@ -32,6 +32,9 @@
     "name:tha_x_preferred":[
         "\u0e1a\u0e49\u0e32\u0e19\u0e15\u0e49\u0e19\u0e01\u0e23\u0e30\u0e17\u0e38\u0e48\u0e21"
     ],
+    "name:und_x_variant":[
+        "Ban Tha Kathum"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -42,6 +45,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7507984
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1154579
+        ]
     },
     "wof:country":"TH",
     "wof:geomhash":"4f195c0bd9ab352581d54e58460b0c16",
@@ -55,13 +63,15 @@
         }
     ],
     "wof:id":1243000601,
-    "wof:lastmodified":1566663357,
+    "wof:lastmodified":1706240682,
     "wof:name":"Ban Ton Krathum",
     "wof:parent_id":890467267,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-th",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343678917
+    ],
     "wof:tags":[]
 },
   "bbox": [
