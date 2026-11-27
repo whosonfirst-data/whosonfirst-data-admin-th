@@ -1,0 +1,75 @@
+{
+  "id": 9895093105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.55531,13.82735,100.55531,13.82735",
+    "geom:latitude":13.82735,
+    "geom:longitude":100.55531,
+    "gn:population":21853,
+    "iso:country":"TH",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13494094: name \"Chatuchak subdistrict\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13494094"
+        },
+        {
+            "citation":"GeoNames populated place 13494094: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13494094"
+        },
+        {
+            "citation":"GeoNames populated place 13494094: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13494094"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890466403 (Chatuchak), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632293,
+        85678739,
+        102191569,
+        890466403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13494094
+    },
+    "wof:country":"TH",
+    "wof:geomhash":"0b8f742eb2a17390999072ddf3e88d50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466403,
+            "locality_id":9895093105,
+            "region_id":85678739
+        }
+    ],
+    "wof:id":9895093105,
+    "wof:lastmodified":1795747466,
+    "wof:name":"Chatuchak subdistrict",
+    "wof:parent_id":890466403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.55531,
+    13.82735,
+    100.55531,
+    13.82735
+],
+  "geometry": {"coordinates":[100.55531,13.82735],"type":"Point"}
+}
